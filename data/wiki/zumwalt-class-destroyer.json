@@ -1,0 +1,458 @@
+{
+  "id": 6,
+  "slug": "zumwalt-class-destroyer",
+  "name": "Zumwalt-class destroyer",
+  "designation": "DDG-1000",
+  "type": "destroyer",
+  "country": "United States",
+  "operator": "United States Navy",
+  "overview_md": "The Zumwalt-class destroyer represents the U.S. Navy's most ambitious attempt at next-generation surface warfare, embodying radical design philosophies that have both fascinated and frustrated naval analysts since its inception. Originally conceived as the DD(X) program to provide naval gunfire support for amphibious operations, the class evolved into a technology demonstrator that prioritizes stealth, electric propulsion, and advanced automation over traditional metrics like missile capacity.\n\nStrategically, the Zumwalt was designed to operate in contested littoral environments where traditional destroyers would be vulnerable to shore-based anti-ship missiles. Its angular, tumblehome hull design provides a radar cross-section comparable to a fishing boat despite displacing nearly 16,000 tons. However, the class has struggled to find its operational niche as the Navy's priorities shifted toward great power competition in blue water, where the Arleigh Burke's proven Aegis system and larger VLS capacity offer more relevant capabilities.\n\nThe design philosophy behind Zumwalt reflects the Navy's early 2000s assumption that future conflicts would focus on littoral warfare and power projection ashore. This led to revolutionary features like the 155mm Advanced Gun System (AGS), integrated power system, and minimal crew requirements through extensive automation. However, cost overruns, technical challenges, and changing strategic priorities truncated the program from 32 planned hulls to just three operational vessels.\n\nIn the current threat environment, Zumwalt occupies an awkward position. Its stealth capabilities and advanced sensors make it potentially valuable for reconnaissance and strike missions in contested areas, but its limited air defense capability and expensive operational costs raise questions about its utility compared to conventional destroyers. Recent efforts to repurpose the class as a hypersonic missile platform may finally provide the operational relevance that has eluded it since commissioning, though this represents a significant departure from its original land-attack mission.",
+  "specs_json": {
+    "displacement_tonnes": 15656,
+    "length_m": 183.0,
+    "beam_m": 24.5,
+    "draft_m": 8.4,
+    "speed_knots": 30,
+    "range_nm": 5400,
+    "crew": 158,
+    "propulsion": "Integrated Power System with 2x Rolls-Royce MT30 gas turbines, 78MW total",
+    "radar": "AN/SPY-3 Multi-Function Radar (X-band)",
+    "sonar": "AN/SQS-60 hull-mounted sonar",
+    "combat_system": "Total Ship Computing Environment (TSCE)",
+    "vls_cells": 80,
+    "additional": {
+      "stealth_features": "Tumblehome hull, angular superstructure, RCS ~50x smaller than Burke-class",
+      "electric_propulsion": "Integrated Power System allows full electric propulsion",
+      "gun_system": "2x 155mm Advanced Gun System (AGS) - currently non-functional due to ammunition costs"
+    }
+  },
+  "armament_json": [
+    {
+      "category": "Missiles",
+      "name": "Mk 57 VLS",
+      "type": "vertical launch system",
+      "quantity": "80 cells",
+      "range_km": 0,
+      "notes": "Peripheral VLS system, can accommodate Standard missiles, Tomahawk, ESSM"
+    },
+    {
+      "category": "Guns",
+      "name": "Advanced Gun System (AGS)",
+      "type": "naval gun system",
+      "quantity": "2x 155mm",
+      "range_km": 154,
+      "notes": "Currently non-operational due to $800k per round ammunition cost"
+    },
+    {
+      "category": "CIWS",
+      "name": "Close-In Weapons System",
+      "type": "point defense",
+      "quantity": "2x systems",
+      "range_km": 3,
+      "notes": "Standard Phalanx CIWS mounts"
+    },
+    {
+      "category": "Missiles",
+      "name": "Conventional Prompt Strike",
+      "type": "hypersonic missile",
+      "quantity": "12 planned",
+      "range_km": 2775,
+      "notes": "Future installation planned, requires VLS modification"
+    }
+  ],
+  "variants_json": [
+    {
+      "name": "DDG-1000 baseline",
+      "designation_range": "DDG-1000 to DDG-1002",
+      "years": "2016-2020",
+      "count": 3,
+      "key_changes": "Original configuration with AGS, minimal changes between hulls due to small production run",
+      "status": "active"
+    }
+  ],
+  "fleet_status_json": [
+    {
+      "hull_number": "DDG-1000",
+      "name": "USS Zumwalt",
+      "variant": "baseline",
+      "commissioned": "2016-10-15",
+      "home_port": "San Diego, CA",
+      "status": "active"
+    },
+    {
+      "hull_number": "DDG-1001",
+      "name": "USS Michael Monsoor",
+      "variant": "baseline",
+      "commissioned": "2019-01-26",
+      "home_port": "San Diego, CA",
+      "status": "active"
+    },
+    {
+      "hull_number": "DDG-1002",
+      "name": "USS Lyndon B. Johnson",
+      "variant": "baseline",
+      "commissioned": "2022-04-30",
+      "home_port": "Mayport, FL",
+      "status": "active"
+    }
+  ],
+  "cost_usd": 7500000000.0,
+  "unit_count": 3,
+  "first_commissioned": "2016-10-15",
+  "builder": "General Dynamics Bath Iron Works",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/USS_Zumwalt_%28DDG_1000%29.jpg",
+  "wiki_url": "https://en.wikipedia.org/wiki/Zumwalt-class_destroyer",
+  "sources_json": [
+    "https://en.wikipedia.org/wiki/Zumwalt-class_destroyer",
+    "https://www.navy.mil/",
+    "https://www.defensenews.com/",
+    "https://www.usni.org/"
+  ],
+  "comparison_tags": [
+    "destroyer",
+    "stealth",
+    "us-navy",
+    "experimental",
+    "high-tech",
+    "blue-water",
+    "land-attack"
+  ],
+  "created_at": "2026-04-10 17:53:23",
+  "updated_at": "2026-04-10T17:53:23.053014",
+  "news": [],
+  "events": [],
+  "ic_coverage": [],
+  "combat_history": [
+    {
+      "date": "2016-2023",
+      "operation": "Various training exercises",
+      "event": "No combat deployments to date. All three hulls have been primarily involved in testing, training, and capability development rather than operational missions.",
+      "significance": "The lack of combat history reflects the class's troubled development and uncertain operational role, unusual for a major surface combatant"
+    },
+    {
+      "date": "2021",
+      "operation": "Pacific training operations",
+      "event": "USS Zumwalt conducted first live-fire exercises with conventional weapons systems during Pacific deployment, testing Standard missiles and defensive systems.",
+      "significance": "Demonstrated basic combat systems functionality, though AGS remained non-operational"
+    }
+  ],
+  "modernization": [
+    {
+      "program": "Conventional Prompt Strike Integration",
+      "status": "in-progress",
+      "timeline": "2025-2028",
+      "description": "Installation of hypersonic missiles in modified VLS cells, removal of AGS systems to make room for additional missile capacity",
+      "impact": "Transforms Zumwalt from failed land-attack platform to cutting-edge hypersonic strike asset"
+    },
+    {
+      "program": "Combat Systems Ship Qualification Trials",
+      "status": "completed",
+      "timeline": "2021-2022",
+      "description": "Final testing and certification of combat systems across all three hulls, addressing software integration issues",
+      "impact": "Achieved basic operational capability after years of development challenges"
+    },
+    {
+      "program": "AGS Deactivation",
+      "status": "planned",
+      "timeline": "2024-2025",
+      "description": "Removal or permanent deactivation of Advanced Gun Systems due to prohibitive ammunition costs and shifting mission requirements",
+      "impact": "Eliminates primary intended capability but frees space and weight for alternative weapons systems"
+    }
+  ],
+  "vulnerabilities": [
+    {
+      "area": "Air defense capability",
+      "description": "Limited air defense compared to Arleigh Burke class, with only 80 VLS cells and no dedicated long-range air search radar",
+      "context": "Critical weakness in contested environments where air threats are primary concern",
+      "mitigation": "Designed to operate with escort vessels providing air defense umbrella"
+    },
+    {
+      "area": "Operational costs",
+      "description": "Extremely high operating costs estimated at $22.5 million per hull annually, roughly 50% higher than Burke-class",
+      "context": "Limits deployment frequency and operational utility in budget-constrained environment",
+      "mitigation": "Navy exploring ways to reduce crew requirements and maintenance costs"
+    },
+    {
+      "area": "Primary weapon system failure",
+      "description": "AGS ammunition costs of $800,000-$1M per round made primary weapon system economically unfeasible",
+      "context": "Fundamental mission failure requiring complete rethinking of platform purpose",
+      "mitigation": "CPS hypersonic missile integration intended to provide new primary mission"
+    },
+    {
+      "area": "Limited fleet integration",
+      "description": "Unique systems and small fleet size create training, maintenance, and operational integration challenges",
+      "context": "Difficult to integrate into standard carrier strike groups or surface action groups",
+      "mitigation": "Specialized mission profiles being developed to leverage unique capabilities"
+    }
+  ],
+  "operational_patterns": {
+    "typical_deployment": "Limited operational deployments, primarily test and evaluation missions",
+    "deployment_length_months": 6,
+    "key_operating_areas": [
+      "Eastern Pacific",
+      "Western Pacific"
+    ],
+    "typical_task_group": "Independent operations or specialized strike missions",
+    "readiness_notes": "Still working through technical issues and establishing maintenance procedures for unique systems"
+  },
+  "peer_comparisons": [
+    {
+      "platform": "Type 055 Renhai-class",
+      "country": "China",
+      "relationship": "contemporary rival",
+      "key_differences": "Type 055 emphasizes traditional destroyer missions with 112 VLS cells and proven systems, while Zumwalt prioritizes stealth and experimental technology. Chinese ship is more conventionally capable.",
+      "video_angle": "Stealth vs firepower: comparing radical design philosophies in modern destroyer development"
+    },
+    {
+      "platform": "Sejong the Great-class (KDX-III)",
+      "country": "South Korea",
+      "relationship": "allied conventional equivalent",
+      "key_differences": "Korean destroyer uses proven Aegis system with 128 VLS cells, emphasizing traditional air defense mission over Zumwalt's experimental approach. More operationally relevant but less technologically advanced.",
+      "video_angle": "Why allies chose conventional designs over revolutionary stealth technology"
+    },
+    {
+      "platform": "Arleigh Burke Flight III",
+      "country": "United States",
+      "relationship": "domestic competitor/replacement",
+      "key_differences": "Burke offers proven reliability, 96 VLS cells, mature Aegis system at one-third the cost. Zumwalt provides stealth and advanced automation but uncertain operational value.",
+      "video_angle": "The Navy's $23 billion mistake: why conventional destroyers beat revolutionary designs"
+    },
+    {
+      "platform": "Type 45 Daring-class",
+      "country": "United Kingdom",
+      "relationship": "allied contemporary",
+      "key_differences": "British destroyer focuses on area air defense with advanced SAMPSON radar, while Zumwalt emphasizes multi-mission stealth capability. Both represent experimental approaches with mixed results.",
+      "video_angle": "Allied experiments: comparing British and American next-generation destroyer programs"
+    },
+    {
+      "platform": "Admiral Gorshkov-class",
+      "country": "Russia",
+      "relationship": "rival contemporary",
+      "key_differences": "Russian frigate emphasizes anti-ship and land-attack missions with Kalibr missiles, smaller but more focused than Zumwalt's multi-mission approach. More operationally active despite smaller size.",
+      "video_angle": "Size vs mission focus: why Russia's smaller warships may be more effective than America's super-destroyers"
+    }
+  ],
+  "search_keywords": [
+    "zumwalt",
+    "DDG-1000",
+    "DDG 1000",
+    "zumwalt class",
+    "zumwalt-class",
+    "stealth destroyer",
+    "tumblehome",
+    "AGS",
+    "advanced gun system",
+    "michael monsoor",
+    "lyndon johnson"
+  ],
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/06/USS_Zumwalt_%28DDG-1000%29_Design.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/06/USS_Zumwalt_%28DDG-1000%29_Design.jpg",
+      "width": 960,
+      "height": 624,
+      "title": "USS Zumwalt (DDG-1000) Design.jpg",
+      "description": "",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/USS_Zumwalt_%28DDG-1000%29_departs_Bath_%28Maine%29_on_7_September_2016.JPG/1280px-USS_Zumwalt_%28DDG-1000%29_departs_Bath_%28Maine%29_on_7_September_2016.JPG",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/96/USS_Zumwalt_%28DDG-1000%29_departs_Bath_%28Maine%29_on_7_September_2016.JPG",
+      "width": 1920,
+      "height": 1080,
+      "title": "USS Zumwalt (DDG-1000) departs Bath (Maine) on 7 September 2016.JPG",
+      "description": "Video frame grab showing the guided missile destroyer USS <i>Zumwalt</i> (DDG-1000) departing Bath Iron Works marking the beginning of a 3-month journey to its new homeport in San Diego, California (U",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/USS_Zumwalt_%28DDG_1000%29.jpg/1280px-USS_Zumwalt_%28DDG_1000%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/USS_Zumwalt_%28DDG_1000%29.jpg",
+      "width": 5736,
+      "height": 3824,
+      "title": "USS Zumwalt (DDG 1000).jpg",
+      "description": "<p>160421-N-YE579-005.\n</p>\nATLANTIC OCEAN (April 21, 2016) The future guided-missile destroyer USS Zumwalt (DDG 1000) transits the Atlantic Ocean during acceptance trials April 21, 2016 with the Navy",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/USS_Zumwalt_%28DDG_1000%29_arrives_at_its_new_homeport_in_San_Diego._%2830788669823%29.jpg/1280px-USS_Zumwalt_%28DDG_1000%29_arrives_at_its_new_homeport_in_San_Diego._%2830788669823%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/dc/USS_Zumwalt_%28DDG_1000%29_arrives_at_its_new_homeport_in_San_Diego._%2830788669823%29.jpg",
+      "width": 4127,
+      "height": 2321,
+      "title": "USS Zumwalt (DDG 1000) arrives at its new homeport in San Diego. (30788669823).jpg",
+      "description": "<p>SAN DIEGO (Dec. 8, 2016) The guided-missile destroyer USS Zumwalt (DDG 1000) arrives at its new homeport in San Diego. Zumwalt, the Navy's most technologically advanced surface ship, will now begin",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/USS_Zumwalt_%28DDG_1000%29_underway_for_the_first_time_151207-N-ZZ999-001.jpg/1280px-USS_Zumwalt_%28DDG_1000%29_underway_for_the_first_time_151207-N-ZZ999-001.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/ae/USS_Zumwalt_%28DDG_1000%29_underway_for_the_first_time_151207-N-ZZ999-001.jpg",
+      "width": 1600,
+      "height": 1200,
+      "title": "USS Zumwalt (DDG 1000) underway for the first time 151207-N-ZZ999-001.jpg",
+      "description": "<p>151207-N-ZZ999-001 \n</p>\nKENNEBEC RIVER (Dec. 7, 2015) The future USS Zumwalt (DDG 1000) is underway for the first time conducting at-sea tests and trials on the Kennebeck River. The multimission s",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/USS_Zumwalt_DDG-1000_Crest.png/1280px-USS_Zumwalt_DDG-1000_Crest.png",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/24/USS_Zumwalt_DDG-1000_Crest.png",
+      "width": 1725,
+      "height": 2206,
+      "title": "USS Zumwalt DDG-1000 Crest.png",
+      "description": "Emblem of the USS Zumwalt DDG-1000",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/95/Zumwalt_%28DDG_1000%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/95/Zumwalt_%28DDG_1000%29.jpg",
+      "width": 496,
+      "height": 125,
+      "title": "Zumwalt (DDG 1000).jpg",
+      "description": "Zumwalt (DDG 1000)",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Zumwalt_%28DDG_1000%29_arrives_at_Naval_Station_Newport%2C_Rhode_Island._%2829482397641%29.jpg/1280px-Zumwalt_%28DDG_1000%29_arrives_at_Naval_Station_Newport%2C_Rhode_Island._%2829482397641%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Zumwalt_%28DDG_1000%29_arrives_at_Naval_Station_Newport%2C_Rhode_Island._%2829482397641%29.jpg",
+      "width": 2100,
+      "height": 1398,
+      "title": "Zumwalt (DDG 1000) arrives at Naval Station Newport, Rhode Island. (29482397641).jpg",
+      "description": "<p>NEWPORT, R.I.\n(Sept. 8, 2016)\nThe guided-missile destroyer Pre-Commissioning Unit (PCU) Zumwalt (DDG 1000) arrives at Naval Station Newport, Rhode Island during its maiden voyage from Bath Iron Wor",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/DDG_1000_Zumwalt_Class_sign.jpg/1280px-DDG_1000_Zumwalt_Class_sign.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/DDG_1000_Zumwalt_Class_sign.jpg",
+      "width": 3000,
+      "height": 2008,
+      "title": "DDG 1000 Zumwalt Class sign.jpg",
+      "description": "080214-N-0923G-002 WASHINGTON - Susan Tomaiko, left, contracting officer for Naval Sea Systems Command (NAVSEA), and Dirk Lesko, vice president and DDG 1000 program manager for Bath Iron Works, sign a",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Model_DDG_1000_Zumwalt_Class.jpg/1280px-Model_DDG_1000_Zumwalt_Class.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Model_DDG_1000_Zumwalt_Class.jpg",
+      "width": 3000,
+      "height": 2008,
+      "title": "Model DDG 1000 Zumwalt Class.jpg",
+      "description": "080214-N-0923G-005 WASHINGTON  A model of the DDG 1000 Zumwalt Class destroyer to be built by Bath Iron Works and Northrop Grumman Shipbuilding is displayed during a contract signing ceremony at the P",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Zumwalt-class_%28DDG-1000%29_artist%27s_conception.jpg/1280px-Zumwalt-class_%28DDG-1000%29_artist%27s_conception.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Zumwalt-class_%28DDG-1000%29_artist%27s_conception.jpg",
+      "width": 1382,
+      "height": 951,
+      "title": "Zumwalt-class (DDG-1000) artist's conception.jpg",
+      "description": "",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Zumwalt_class_destroyer_%28center_cut_design%29.PNG",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Zumwalt_class_destroyer_%28center_cut_design%29.PNG",
+      "width": 1120,
+      "height": 540,
+      "title": "Zumwalt class destroyer (center cut design).PNG",
+      "description": "Zumwalt class destroyer (center cut design)",
+      "license": "CC BY 3.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Zumwalt_class_destroyer_%28side_view%29.PNG/1280px-Zumwalt_class_destroyer_%28side_view%29.PNG",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Zumwalt_class_destroyer_%28side_view%29.PNG",
+      "width": 2050,
+      "height": 500,
+      "title": "Zumwalt class destroyer (side view).PNG",
+      "description": "Zumwalt class destroyer (side view)",
+      "license": "CC BY 3.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Zumwalt_class_destroyer_%28side_view%2C_inside%29.PNG/1280px-Zumwalt_class_destroyer_%28side_view%2C_inside%29.PNG",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/28/Zumwalt_class_destroyer_%28side_view%2C_inside%29.PNG",
+      "width": 2050,
+      "height": 565,
+      "title": "Zumwalt class destroyer (side view, inside).PNG",
+      "description": "Zumwalt class destroyer (side view, inside)",
+      "license": "CC BY 3.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Zumwalt_class_destroyer_model.jpg/1280px-Zumwalt_class_destroyer_model.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/05/Zumwalt_class_destroyer_model.jpg",
+      "width": 2314,
+      "height": 1544,
+      "title": "Zumwalt class destroyer model.jpg",
+      "description": "Zumwalt class destroyer model",
+      "license": "Public domain",
+      "source": "wikimedia"
+    }
+  ],
+  "doctrine": {
+    "role": "Technology demonstrator and developmental platform designed to pioneer next-generation surface warfare capabilities, specifically stealth-enabled land attack operations in contested littoral environments.",
+    "employment": "Intended to operate independently or in small task groups to provide precision fires against land targets from standoff distances, leveraging stealth characteristics to penetrate defended coastal areas. Original concept envisioned supporting Marine Corps amphibious operations with sustained naval gunfire support using the Advanced Gun System. Due to cost overruns and program truncation, the three hulls now serve primarily as test platforms for integrating emerging technologies like hypersonic weapons and directed energy systems.",
+    "design_philosophy": "Prioritized revolutionary stealth shaping, electric propulsion, and crew reduction through automation over proven combat systems and magazine depth. Designers sacrificed traditional destroyer attributes like helicopter facilities, robust air defense suites, and large missile magazines to achieve radar cross-section reduction and accommodate the massive Advanced Gun System that ultimately became unaffordable.",
+    "threat_context": "Originally designed for the post-Cold War 'holiday from history' era when the primary threat was shore-based anti-ship missiles in littoral operations against near-peer competitors. The program's timeline coincided with China's rapid naval modernization and anti-access/area-denial buildup, making the original land-attack focused mission less relevant as blue-water fleet engagement scenarios gained prominence.",
+    "comparison_frame": "Evaluate based on technological innovation and future warfare concepts rather than traditional destroyer metrics like VLS cell count or sustained speed. Focus on radar signature reduction, power generation capacity for directed energy weapons, and automation levels versus conventional destroyers. Magazine depth and air defense capability comparisons highlight the platform's experimental nature rather than operational readiness."
+  },
+  "curated_sources": [
+    {
+      "title": "U.S. Navy Destroyers: An Illustrated Design History - Norman Friedman",
+      "type": "book",
+      "url": "",
+      "relevance": "Provides comprehensive historical context for destroyer evolution and the revolutionary nature of Zumwalt's departure from traditional destroyer design principles.",
+      "priority": "essential"
+    },
+    {
+      "title": "Navy DDG-51 and DDG-1000 Destroyer Programs - Ron O'Rourke",
+      "type": "report",
+      "url": "https://crsreports.congress.gov/product/pdf/RL/RL32109",
+      "relevance": "Authoritative Congressional Research Service analysis tracking the program's evolution, cost growth, and strategic rationale changes over time.",
+      "priority": "essential"
+    },
+    {
+      "title": "Distributed Lethality and the Future of Naval Surface Warfare - CSBA",
+      "type": "report",
+      "url": "https://csbaonline.org/research/publications/distributed-lethality-and-the-future-of-naval-surface-warfare",
+      "relevance": "Explains the doctrinal shift that made Zumwalt's original land-attack mission less relevant as surface warfare returned to prominence.",
+      "priority": "recommended"
+    },
+    {
+      "title": "USNI News Fleet and Marine Tracker",
+      "type": "analyst",
+      "url": "https://news.usni.org/category/fleet-tracker",
+      "relevance": "Best source for tracking operational deployments and technology integration milestones of the three Zumwalt hulls.",
+      "priority": "recommended"
+    },
+    {
+      "title": "Zumwalt Class Destroyer - Naval Technology",
+      "type": "database",
+      "url": "https://www.naval-technology.com/projects/zumwalt-class-destroyer/",
+      "relevance": "Comprehensive technical specifications database comparing design parameters against conventional destroyer classes.",
+      "priority": "reference"
+    },
+    {
+      "title": "The Influence of Sea Power in the Missile Age - Milan Vego",
+      "type": "book",
+      "url": "",
+      "relevance": "Provides doctrinal framework for understanding how stealth and standoff weapons change traditional surface warfare concepts that Zumwalt embodies.",
+      "priority": "reference"
+    },
+    {
+      "title": "Breaking Defense Defense Technology Coverage",
+      "type": "analyst",
+      "url": "https://breakingdefense.com/tag/zumwalt/",
+      "relevance": "Leading coverage of Zumwalt's role as testbed for hypersonic weapons and other next-generation technologies.",
+      "priority": "recommended"
+    }
+  ]
+}

@@ -1,0 +1,250 @@
+{
+  "combat_history": [
+    {
+      "date": "2022-02",
+      "operation": "Russian invasion of Ukraine",
+      "event": "Multiple Karakurt-class corvettes deployed to Black Sea Fleet for combat operations, launching Kalibr cruise missiles against Ukrainian infrastructure and military targets from standoff positions",
+      "significance": "First major combat deployment demonstrated the platform's land-attack capability and integration with broader Russian strike operations"
+    },
+    {
+      "date": "2022-04-14",
+      "operation": "Black Sea operations",
+      "event": "Following the sinking of Moskva, Karakurt corvettes among Russian naval assets that withdrew to greater standoff distances while maintaining missile strike capability",
+      "significance": "Highlighted both the platform's utility as a distributed strike asset and its vulnerability in contested environments"
+    },
+    {
+      "date": "2023-08-04",
+      "operation": "Novorossiysk attack",
+      "event": "Ukrainian naval drones reportedly targeted Novorossiysk naval base where Karakurt corvettes were stationed, demonstrating the vulnerability of these platforms to asymmetric threats",
+      "significance": "Showed the challenge of protecting small combatants against emerging drone threats in home ports"
+    }
+  ],
+  "modernization": [
+    {
+      "program": "Pantsir-M integration",
+      "status": "completed",
+      "timeline": "2020-2024",
+      "description": "Installation of Pantsir-M combined missile/gun air defense system on later hulls to address air defense vulnerability",
+      "impact": "Improved short-range air defense but at cost of deck space and weight margins"
+    },
+    {
+      "program": "Upgraded Kalibr variants",
+      "status": "in-progress",
+      "timeline": "2023-2025",
+      "description": "Integration of newer Kalibr variants with improved range and precision, including hypersonic Zircon missiles on select hulls",
+      "impact": "Enhanced strike capability but may require combat system modifications"
+    }
+  ],
+  "vulnerabilities": [
+    {
+      "area": "Air defense",
+      "description": "Limited air defense capability with only Pantsir-M on some hulls, vulnerable to air attack and anti-ship missiles",
+      "context": "Ukraine conflict demonstrated effectiveness of Neptune and other anti-ship missiles against Russian naval assets",
+      "mitigation": "Pantsir-M retrofits and operating under land-based air defense coverage"
+    },
+    {
+      "area": "Seakeeping",
+      "description": "Small size limits operations in rough seas and reduces crew endurance for extended operations",
+      "context": "Restricts operational flexibility compared to larger corvettes in open ocean environments",
+      "mitigation": "Focus on near-shore operations and rotation of crews"
+    },
+    {
+      "area": "Electronic warfare",
+      "description": "Limited EW suite compared to larger combatants, vulnerable to GPS jamming and missile guidance disruption",
+      "context": "Modern littoral warfare heavily dependent on electronic systems and counter-measures",
+      "mitigation": "Operating in groups and with larger platforms providing EW coverage"
+    }
+  ],
+  "operational_patterns": {
+    "typical_deployment": "Regional patrol and power projection in Baltic, Black Sea, and Caspian regions",
+    "deployment_length_months": 2,
+    "key_operating_areas": [
+      "Baltic Sea",
+      "Black Sea",
+      "Caspian Sea",
+      "Sea of Azov"
+    ],
+    "typical_task_group": "Often operates in pairs or with larger corvettes/frigates",
+    "readiness_notes": "High availability rate but limited by crew training pipeline and maintenance infrastructure"
+  },
+  "peer_comparisons": [
+    {
+      "platform": "Sa'ar 6-class corvette",
+      "country": "Israel",
+      "relationship": "direct rival",
+      "key_differences": "Israeli platform emphasizes air defense with Barak-8 SAMs and better multi-mission capability, while Karakurt focuses purely on strike missions with Kalibr",
+      "video_angle": "Small corvette missile capability comparison - quantity vs quality approach"
+    },
+    {
+      "platform": "Braunschweig-class corvette",
+      "country": "Germany",
+      "relationship": "Western equivalent",
+      "key_differences": "German K130 has better seakeeping and modular mission systems but less striking power, reflecting different operational philosophies",
+      "video_angle": "NATO vs Russian corvette design philosophy - multirole vs specialized strike"
+    },
+    {
+      "platform": "Visby-class corvette",
+      "country": "Sweden",
+      "relationship": "technological comparison",
+      "key_differences": "Swedish corvette features advanced stealth design and modular systems but lacks land-attack missiles, showing different regional priorities",
+      "video_angle": "Stealth vs firepower in modern corvette design"
+    },
+    {
+      "platform": "Type 056 Jiangdao-class corvette",
+      "country": "China",
+      "relationship": "quantity-focused rival",
+      "key_differences": "Chinese corvette built in much larger numbers but with less striking power, emphasizing patrol and ASW over land attack",
+      "video_angle": "Mass production vs capability density in modern naval construction"
+    }
+  ],
+  "search_keywords": [
+    "karakurt",
+    "project 22800",
+    "russian corvette",
+    "kalibr missile",
+    "black sea fleet",
+    "uragan corvette",
+    "pella shipyard",
+    "mosquito fleet"
+  ],
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Artillery_installation_of_the_small_rocket_ship_Cyclone.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Artillery_installation_of_the_small_rocket_ship_Cyclone.jpg",
+      "width": 640,
+      "height": 427,
+      "title": "Artillery installation of the small rocket ship Cyclone.jpg",
+      "description": "Artillery installation of the small rocket ship Cyclone",
+      "license": "CC BY 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/70/Askold_vmf_1_711_550.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/70/Askold_vmf_1_711_550.jpg",
+      "width": 550,
+      "height": 390,
+      "title": "Askold vmf 1 711 550.jpg",
+      "description": "<i>Askold</i> corvette before launching.",
+      "license": "CC BY 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Askold_vmf_rfghjkl_%282%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Askold_vmf_rfghjkl_%282%29.jpg",
+      "width": 550,
+      "height": 351,
+      "title": "Askold vmf rfghjkl (2).jpg",
+      "description": "<i>Askold</i> corvette before launching.",
+      "license": "CC BY 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Model_corvette_project_22800_at_the_%C2%ABArmy_2016%C2%BB_1.jpg/1280px-Model_corvette_project_22800_at_the_%C2%ABArmy_2016%C2%BB_1.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Model_corvette_project_22800_at_the_%C2%ABArmy_2016%C2%BB_1.jpg",
+      "width": 2696,
+      "height": 1844,
+      "title": "Model corvette project 22800 at the \u00abArmy 2016\u00bb 1.jpg",
+      "description": "\u041c\u0430\u043a\u0435\u0442 \u043a\u043e\u0440\u0432\u0435\u0442\u0430 \u043f\u0440\u043e\u0435\u043a\u0442\u0430 22800 \u00ab\u041a\u0430\u0440\u0430\u043a\u0443\u0440\u0442\u00bb \u043d\u0430 \u0432\u044b\u0441\u0442\u0430\u0432\u043a\u0435 \u00ab\u0410\u0440\u043c\u0438\u044f 2016\u00bb",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Model_corvette_project_22800_at_the_%C2%ABArmy_2016%C2%BB_2.jpg/1280px-Model_corvette_project_22800_at_the_%C2%ABArmy_2016%C2%BB_2.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Model_corvette_project_22800_at_the_%C2%ABArmy_2016%C2%BB_2.jpg",
+      "width": 3264,
+      "height": 2448,
+      "title": "Model corvette project 22800 at the \u00abArmy 2016\u00bb 2.jpg",
+      "description": "\u041a\u043e\u0440\u043c\u0430 \u043c\u0430\u043a\u0435\u0442\u0430 \u043a\u043e\u0440\u0432\u0435\u0442\u0430 \u043f\u0440\u043e\u0435\u043a\u0442\u0430 22800 \u00ab\u041a\u0430\u0440\u0430\u043a\u0443\u0440\u0442\u00bb \u043d\u0430 \u0432\u044b\u0441\u0442\u0430\u0432\u043a\u0435 \u00ab\u0410\u0440\u043c\u0438\u044f 2016\u00bb",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/VD2022_2.jpg/1280px-VD2022_2.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/0c/VD2022_2.jpg",
+      "width": 3468,
+      "height": 4624,
+      "title": "VD2022 2.jpg",
+      "description": "Vietnam Defence 2022",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/%D0%90%D1%81%D0%BA%D0%BE%D0%BB%D1%8C%D0%B4_%D0%B8_%D0%A6%D0%B8%D0%BA%D0%BB%D0%BE%D0%BD.jpg/1280px-%D0%90%D1%81%D0%BA%D0%BE%D0%BB%D1%8C%D0%B4_%D0%B8_%D0%A6%D0%B8%D0%BA%D0%BB%D0%BE%D0%BD.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/85/%D0%90%D1%81%D0%BA%D0%BE%D0%BB%D1%8C%D0%B4_%D0%B8_%D0%A6%D0%B8%D0%BA%D0%BB%D0%BE%D0%BD.jpg",
+      "width": 1880,
+      "height": 1160,
+      "title": "\u0410\u0441\u043a\u043e\u043b\u044c\u0434 \u0438 \u0426\u0438\u043a\u043b\u043e\u043d.jpg",
+      "description": "\u041c\u0430\u043b\u044b\u0435 \u0440\u0430\u043a\u0435\u0442\u043d\u044b\u0435 \u043a\u043e\u0440\u0430\u0431\u043b\u0438 \u00ab\u0410\u0441\u043a\u043e\u043b\u044c\u0434\u00bb \u0438 \u00ab\u0426\u0438\u043a\u043b\u043e\u043d\u00bb \u043f\u0440\u043e\u0435\u043a\u0442\u0430 22800 \u00ab\u041a\u0430\u0440\u0430\u043a\u0443\u0440\u0442\u00bb.",
+      "license": "CC BY 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/52/%D0%9C%D1%80%D0%BA_%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B0_22800.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/52/%D0%9C%D1%80%D0%BA_%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B0_22800.jpg",
+      "width": 550,
+      "height": 390,
+      "title": "\u041c\u0440\u043a \u043f\u0440\u043e\u0435\u043a\u0442\u0430 22800.jpg",
+      "description": "\u044d\u0441\u043a\u0438\u0437\u043d\u044b\u0439 \u043f\u0440\u043e\u0435\u043a\u0442 \u043c\u0430\u043b\u043e\u0433\u043e \u0440\u0430\u043a\u0435\u0442\u043d\u043e\u0433\u043e \u043a\u043e\u0440\u0430\u0431\u043b\u044f \u043f\u0440\u043e\u0435\u043a\u0442\u0430 22800",
+      "license": "CC BY 4.0",
+      "source": "wikimedia"
+    }
+  ],
+  "doctrine": {
+    "role": "Sea denial and anti-access operations in Russia's near seas, designed to complicate NATO naval operations through distributed lethality and swarming tactics.",
+    "employment": "Typically operates in small groups of 2-4 vessels within integrated coastal defense systems, leveraging shore-based radar and air cover. Primary mission profiles include anti-surface strikes against enemy task groups, convoy interdiction, and protection of critical maritime infrastructure. Command relationships flow through regional fleet headquarters with tactical control often delegated to squadron level for rapid response. The platform's shallow draft enables operations in areas inaccessible to larger combatants.",
+    "design_philosophy": "Prioritized maximum striking power and speed over endurance and defensive systems, accepting vulnerability in exchange for lethality. Designers sacrificed helicopter facilities, extensive sensor suites, and blue-water seakeeping for a powerful missile battery and high speed. The result is essentially a missile boat scaled up to corvette size with minimal defensive capability beyond basic point defense.",
+    "threat_context": "Originally designed to counter NATO surface action groups in confined waters where geography limits maneuver options and Russian land-based systems provide overwatch. The threat environment has evolved toward greater emphasis on unmanned systems and long-range precision strikes, potentially reducing the platform's survivability in contested environments.",
+    "comparison_frame": "Compare primarily on missile payload density and maximum speed rather than sensor sophistication or defensive systems - most corvettes in this class prioritize firepower over survivability. Magazine depth per displacement ton and time-to-weapons-release are more relevant metrics than radar range or helicopter capacity for this mission set."
+  },
+  "curated_sources": [
+    {
+      "title": "Russia's Military Revival",
+      "type": "book",
+      "url": "",
+      "relevance": "Provides essential context on Russian naval modernization priorities and the shift toward coastal defense strategies that drove Karakurt development.",
+      "priority": "essential"
+    },
+    {
+      "title": "Russia's Navy: A Historic Transition",
+      "type": "report",
+      "url": "https://www.rusi.org/explore-our-research/publications/occasional-papers/russias-navy-historic-transition",
+      "relevance": "RUSI analysis of Russian naval doctrine emphasizing coastal defense and anti-access strategies that define Karakurt employment.",
+      "priority": "essential"
+    },
+    {
+      "title": "The Military Balance 2024",
+      "type": "report",
+      "url": "",
+      "relevance": "IISS annual assessment provides authoritative specifications and fleet numbers for Russian naval platforms including Karakurt production status.",
+      "priority": "recommended"
+    },
+    {
+      "title": "H I Sutton Naval Analysis",
+      "type": "analyst",
+      "url": "https://www.hisutton.com/",
+      "relevance": "Leading open-source analyst for Russian naval developments with detailed technical analysis and satellite imagery of Karakurt operations.",
+      "priority": "essential"
+    },
+    {
+      "title": "Project 22800 Karakurt Class Corvette",
+      "type": "database",
+      "url": "https://www.seaforces.org/marint/Russian-Navy/Corvette/Project-22800_Karakurt-class.htm",
+      "relevance": "Comprehensive technical specifications and construction details for the Karakurt class with vessel-by-vessel tracking.",
+      "priority": "reference"
+    },
+    {
+      "title": "Russian Naval Doctrine and Strategy",
+      "type": "report",
+      "url": "https://www.cna.org/reports/2021/03/russian-naval-strategy",
+      "relevance": "CNA analysis explaining the doctrinal framework that shapes platforms like Karakurt within Russia's maritime defense concept.",
+      "priority": "recommended"
+    },
+    {
+      "title": "The Russian Way of War in the Black Sea",
+      "type": "report",
+      "url": "https://rusi.org/explore-our-research/publications/commentary/russian-way-war-black-sea",
+      "relevance": "RUSI examination of Russian naval operations in contested littoral environments where Karakurt-class vessels are primarily employed.",
+      "priority": "recommended"
+    }
+  ]
+}

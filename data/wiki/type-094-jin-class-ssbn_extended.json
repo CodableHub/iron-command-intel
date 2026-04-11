@@ -1,0 +1,263 @@
+{
+  "combat_history": [
+    {
+      "date": "2014-04",
+      "operation": "First Deterrent Patrol",
+      "event": "First confirmed operational patrol by a Type 094 submarine in the South China Sea, marking China's achievement of a credible sea-based nuclear deterrent",
+      "significance": "Historic milestone establishing China's nuclear triad and changing Pacific strategic balance"
+    },
+    {
+      "date": "2016-10",
+      "operation": "JL-2 Test Launch",
+      "event": "Successful JL-2 SLBM test launch from Type 094 submarine in Bohai Sea, demonstrating full operational capability",
+      "significance": "Confirmed the platform's ability to conduct nuclear strikes from concealed positions"
+    },
+    {
+      "date": "2018-12",
+      "operation": "Extended Patrol",
+      "event": "Type 094 conducted 90-day patrol in South China Sea, longest known deployment for the class",
+      "significance": "Demonstrated improved reliability and crew endurance for sustained deterrent operations"
+    }
+  ],
+  "modernization": [
+    {
+      "program": "Type 094A Upgrade Program",
+      "status": "completed",
+      "timeline": "2013-2016",
+      "description": "Acoustic signature reduction, improved sonar systems, enhanced communications, possible JL-3 missile integration capability",
+      "impact": "Reduced detectability and improved tactical effectiveness, though still significantly noisier than Western equivalents"
+    },
+    {
+      "program": "JL-3 SLBM Integration",
+      "status": "in-progress",
+      "timeline": "2020-2025",
+      "description": "Integration of longer-range JL-3 SLBM with 12,000+ km range and improved MIRV capabilities",
+      "impact": "Would enable strikes on CONUS from Chinese territorial waters, dramatically expanding deterrent reach"
+    },
+    {
+      "program": "Type 096 Replacement Program",
+      "status": "planned",
+      "timeline": "2025-2035",
+      "description": "Next-generation SSBN with significantly improved acoustic performance, 16-24 missile tubes, and advanced stealth features",
+      "impact": "Expected to provide near-peer capability with Western SSBNs and global deployment capability"
+    }
+  ],
+  "vulnerabilities": [
+    {
+      "area": "Acoustic Signature",
+      "description": "Type 094 submarines are significantly noisier than Western SSBNs, with estimated noise levels 10-20 dB higher than Ohio-class submarines",
+      "context": "Makes detection by advanced ASW systems much easier, limiting operational areas and requiring geographic protection",
+      "mitigation": "Type 094A incorporated some noise reduction measures, but fundamental design limitations remain"
+    },
+    {
+      "area": "Operational Range Limitations",
+      "description": "JL-2 missiles cannot reach continental US targets from Chinese territorial waters, requiring submarines to venture into potentially hostile areas",
+      "context": "Forces submarines to operate farther from protective bastions, increasing vulnerability to ASW forces",
+      "mitigation": "JL-3 missile development aims to address range limitations; improved escort capabilities being developed"
+    },
+    {
+      "area": "Limited Numbers and Reliability",
+      "description": "Small fleet size and reported mechanical reliability issues limit sustained deterrent patrols",
+      "context": "Reduces credibility of deterrent posture and limits China's ability to maintain continuous at-sea presence",
+      "mitigation": "Type 096 program aims to provide larger, more reliable fleet; increased maintenance capabilities at Yulin base"
+    },
+    {
+      "area": "Geographic Constraints",
+      "description": "Must transit through chokepoints like Miyako Strait or Luzon Strait to reach open ocean, creating predictable patrol routes",
+      "context": "US and allied ASW forces can position assets at chokepoints to track and potentially interdict submarines",
+      "mitigation": "Development of alternative routes; increased surface and air escort capabilities in contested areas"
+    }
+  ],
+  "operational_patterns": {
+    "typical_deployment": "Bastion patrols in South China Sea, occasional transits to deeper Pacific waters",
+    "deployment_length_months": 2,
+    "key_operating_areas": [
+      "South China Sea",
+      "Philippine Sea",
+      "Western Pacific"
+    ],
+    "typical_task_group": "Usually operates alone, sometimes with Type 093 SSN escort or surface vessel protection",
+    "readiness_notes": "Estimated 1-2 submarines on patrol at any given time due to maintenance requirements and crew training cycles"
+  },
+  "peer_comparisons": [
+    {
+      "platform": "Ohio-class SSBN",
+      "country": "United States",
+      "relationship": "direct rival",
+      "key_differences": "Ohio-class carries 20 Trident D5 missiles vs 12 JL-2s, significantly quieter operation, global deployment capability, proven reliability over decades of operation",
+      "video_angle": "David vs Goliath: How China's first-generation SSBN stacks up against America's proven nuclear deterrent"
+    },
+    {
+      "platform": "Borei-class SSBN",
+      "country": "Russia",
+      "relationship": "technological predecessor/influence",
+      "key_differences": "Borei-class more advanced acoustically, carries 16 Bulava SLBMs, similar turtle-back design philosophy but better execution",
+      "video_angle": "Russia's nuclear submarine technology transfer to China and where the student diverged from the teacher"
+    },
+    {
+      "platform": "Vanguard-class SSBN",
+      "country": "United Kingdom",
+      "relationship": "capability rival",
+      "key_differences": "Vanguard smaller but much quieter, carries 16 Trident D5s, designed for solo global operations vs bastion strategy",
+      "video_angle": "Quality vs Quantity: How Britain's four submarines compare to China's growing SSBN force"
+    },
+    {
+      "platform": "Le Triomphant-class SSBN",
+      "country": "France",
+      "relationship": "similar capability tier",
+      "key_differences": "French submarines carry 16 shorter-range M51 SLBMs, emphasize independent deterrent vs great power competition, similar fleet size",
+      "video_angle": "Independent deterrents: How middle powers France and China approach sea-based nuclear weapons differently"
+    }
+  ],
+  "search_keywords": [
+    "type 094",
+    "jin class",
+    "chinese ssbn",
+    "plan submarine",
+    "jl-2 slbm",
+    "094a",
+    "yuan naval base",
+    "chinese nuclear submarine",
+    "second strike capability"
+  ],
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Jin_%28Type_094%29_Class_Ballistic_Missile_Submarine.JPG",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Jin_%28Type_094%29_Class_Ballistic_Missile_Submarine.JPG",
+      "width": 1000,
+      "height": 600,
+      "title": "Jin (Type 094) Class Ballistic Missile Submarine.JPG",
+      "description": "CRS Report RL33153 China Naval Modernization: Implications for U.S. Navy Capabilities\u2014Background and Issues for Congress by Ronald O'Rourke dated February 28, 2014.\n<p>Page 8 - Figure 1. Jin (Type 094",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/84/Rotstein-09-IV-2007-1001.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/84/Rotstein-09-IV-2007-1001.jpg",
+      "width": 1024,
+      "height": 768,
+      "title": "Rotstein-09-IV-2007-1001.jpg",
+      "description": "Der Rotstein von oben, von einem Aussichtsturm aus, betrachtet.",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Rotstein-09-IV-2007-1027.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Rotstein-09-IV-2007-1027.jpg",
+      "width": 1024,
+      "height": 768,
+      "title": "Rotstein-09-IV-2007-1027.jpg",
+      "description": "Wald mit vielen Laubbaumarten auf dem Rotstein.",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Rotstein-09-IV-2007-1031.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Rotstein-09-IV-2007-1031.jpg",
+      "width": 576,
+      "height": 768,
+      "title": "Rotstein-09-IV-2007-1031.jpg",
+      "description": "Totholz, als Lebensraum f\u00fcr viele Lebewesen Bestamdteil eines naturnahen Waldes auf dem Rotstein.",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/78/Rotstein-09-IV-2007-1104.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/78/Rotstein-09-IV-2007-1104.jpg",
+      "width": 1024,
+      "height": 768,
+      "title": "Rotstein-09-IV-2007-1104.jpg",
+      "description": "Der Rotstein.",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Rotstein-09-IV-2007-1107.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Rotstein-09-IV-2007-1107.jpg",
+      "width": 1024,
+      "height": 768,
+      "title": "Rotstein-09-IV-2007-1107.jpg",
+      "description": "Der Rotstein.",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/63/Type_094_SSBN.JPG",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/63/Type_094_SSBN.JPG",
+      "width": 587,
+      "height": 397,
+      "title": "Type 094 SSBN.JPG",
+      "description": "Type 094 SSBN PLA Navy",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/38/Type_094_SSBN_cropped.JPG",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/38/Type_094_SSBN_cropped.JPG",
+      "width": 292,
+      "height": 189,
+      "title": "Type 094 SSBN cropped.JPG",
+      "description": "Type 094 SSBN PLA Navy",
+      "license": "Public domain",
+      "source": "wikimedia"
+    }
+  ],
+  "doctrine": {
+    "role": "Provides China's assured second-strike nuclear deterrent through survivable sea-based platforms, enabling Beijing to credibly threaten retaliation even after absorbing a first strike. Essential for China's transition from minimum deterrence to a survivable nuclear triad that can hold American homeland targets at risk.",
+    "employment": "Type 094s operate from Hainan Island naval base, conducting deterrent patrols within protected bastions in the South China Sea under cover of land-based air defense and surface combatants. Each submarine carries 12 JL-2 submarine-launched ballistic missiles with ranges of approximately 7,400km, requiring forward deployment to threaten CONUS targets. Operations are tightly controlled by Central Military Commission with direct command authority over nuclear release, reflecting China's centralized nuclear command structure and no-first-use policy.",
+    "design_philosophy": "Designers prioritized rapid deployment of a credible sea-based deterrent over acoustic stealth and build quality, accepting higher noise signatures than contemporary Western SSBNs to field capability quickly. The enlarged hull accommodates 12 missile tubes but sacrificed hydrodynamic efficiency and stealth for manufacturing simplicity using proven Type 093 attack submarine technology. China chose evolutionary development over revolutionary design to minimize technical risk and accelerate fielding of second-strike capability.",
+    "threat_context": "Developed during the 2000s to counter perceived American first-strike capabilities and regional containment strategies, particularly after observing U.S. precision strike capabilities in Iraq and Afghanistan. The threat environment has since evolved to include advanced ASW capabilities from U.S., Japanese, and Australian forces operating sophisticated sonar networks and underwater sensors throughout the first island chain. Modern threats include persistent surveillance by nuclear attack submarines and the growing deployment of theater missile defenses that could potentially intercept JL-2 warheads.",
+    "comparison_frame": "Compare based on survivability factors - acoustic signature, patrol areas, and missile range - rather than pure technical specifications, as SSBN effectiveness depends on remaining undetected and reaching launch positions. Missile payload and accuracy matter less than the credibility of penetrating enemy defenses and reaching protected patrol areas. Consider command and control integration and basing infrastructure, as Chinese SSBNs operate under different doctrinal constraints than Western counterparts with more centralized nuclear release authority."
+  },
+  "curated_sources": [
+    {
+      "title": "China Naval Modernization: Implications for U.S. Navy Capabilities",
+      "type": "report",
+      "url": "https://crsreports.congress.gov/product/pdf/RL/RL33153",
+      "relevance": "Authoritative Congressional Research Service analysis of PLAN submarine development including detailed Type 094 capabilities and strategic implications.",
+      "priority": "essential"
+    },
+    {
+      "title": "Andrew S. Erickson - China Maritime Studies Institute",
+      "type": "analyst",
+      "url": "https://www.andrewerickson.com/",
+      "relevance": "Leading Western expert on Chinese naval development with extensive primary source research on PLAN submarine programs and nuclear strategy.",
+      "priority": "essential"
+    },
+    {
+      "title": "Chinese Naval Shipbuilding: An Ambitious and Uncertain Course",
+      "type": "report",
+      "url": "https://www.csis.org/analysis/chinese-naval-shipbuilding-ambitious-and-uncertain-course",
+      "relevance": "CSIS analysis examining China's submarine industrial base and production challenges affecting Type 094 construction quality and capabilities.",
+      "priority": "recommended"
+    },
+    {
+      "title": "China's Nuclear Forces and Weapons of Mass Destruction",
+      "type": "book",
+      "url": "",
+      "relevance": "Comprehensive examination of China's nuclear doctrine and force structure development including the role of sea-based deterrent forces.",
+      "priority": "recommended"
+    },
+    {
+      "title": "Type 094 Jin Class - Naval Technology",
+      "type": "database",
+      "url": "https://www.naval-technology.com/projects/type-094-jin-class-nuclear-powered-ballistic-missile-submarine/",
+      "relevance": "Technical specifications and development timeline for Type 094 program with details on missile systems and operational capabilities.",
+      "priority": "reference"
+    },
+    {
+      "title": "China's Evolving Nuclear Deterrent",
+      "type": "report",
+      "url": "https://carnegieendowment.org/2021/09/21/china-s-evolving-nuclear-deterrent-major-drivers-and-issues-for-united-states-pub-85372",
+      "relevance": "Carnegie Endowment analysis of Chinese nuclear strategy evolution and the strategic role of sea-based deterrent forces.",
+      "priority": "recommended"
+    },
+    {
+      "title": "Office of Naval Intelligence Worldwide Submarine Challenges",
+      "type": "report",
+      "url": "",
+      "relevance": "Official U.S. Navy intelligence assessment of global submarine threats including detailed analysis of Chinese SSBN capabilities and limitations.",
+      "priority": "essential"
+    }
+  ]
+}

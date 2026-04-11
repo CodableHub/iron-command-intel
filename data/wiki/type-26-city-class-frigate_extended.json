@@ -1,0 +1,301 @@
+{
+  "combat_history": [
+    {
+      "date": "N/A",
+      "operation": "N/A",
+      "event": "No combat deployments - first ship HMS Glasgow not yet commissioned",
+      "significance": "Platform remains untested in operational environments"
+    }
+  ],
+  "modernization": [
+    {
+      "program": "Strike Length VLS Integration",
+      "status": "planned",
+      "timeline": "2030+",
+      "description": "Integration of 24-cell Strike Length VLS for Tomahawk cruise missiles and future long-range weapons. Currently planned but unfunded.",
+      "impact": "Would transform platform from primarily defensive ASW frigate to multi-mission surface combatant with significant strike capability"
+    },
+    {
+      "program": "Type 4XX Radar Upgrade",
+      "status": "conceptual",
+      "timeline": "2035+",
+      "description": "Potential replacement of ARTISAN radar with next-generation fixed-array system for enhanced air defense and ballistic missile tracking.",
+      "impact": "Would significantly improve air defense capabilities and enable integration with future hypersonic threats"
+    },
+    {
+      "program": "Advanced Electronic Warfare Suite",
+      "status": "in-progress",
+      "timeline": "2025-2027",
+      "description": "Integration of Ultra Electronics Series 2500 EW system and advanced communications intelligence capabilities.",
+      "impact": "Enhanced survivability and intelligence gathering in contested electromagnetic environments"
+    }
+  ],
+  "vulnerabilities": [
+    {
+      "area": "Air defense capabilities",
+      "description": "Limited medium-range air defense with only Sea Ceptor missiles and no long-range SAM capability. ARTISAN radar has limited performance against stealth targets and saturation attacks.",
+      "context": "Vulnerable to coordinated air attacks from advanced adversaries with standoff weapons like Kh-35 or future hypersonic missiles",
+      "mitigation": "Relies on escort vessels or carrier air wing for area air defense; future radar upgrades planned but unfunded"
+    },
+    {
+      "area": "Strike warfare capability",
+      "description": "Initial batch lacks Strike Length VLS, limiting offensive capability to 127mm gun and helicopter-launched missiles",
+      "context": "Cannot independently engage high-value targets or conduct land attack missions without VLS upgrade",
+      "mitigation": "Strike Length VLS integration planned but requires additional funding and may not be retrofitted to early hulls"
+    },
+    {
+      "area": "Industrial base dependency",
+      "description": "Highly complex platform with extensive reliance on international suppliers and BAE Systems' constrained shipbuilding capacity",
+      "context": "Production delays and cost overruns highlight vulnerability of single-source procurement for critical components",
+      "mitigation": "Limited by UK's reduced industrial base; some components sourced internationally but creates supply chain vulnerabilities"
+    },
+    {
+      "area": "Crew fatigue and manning",
+      "description": "Reduced crew size of 157 creates sustainability challenges during extended operations and damage control scenarios",
+      "context": "Royal Navy's manning crisis exacerbated by highly automated systems requiring specialized technical training",
+      "mitigation": "Advanced automation and shore-based maintenance support, but remains vulnerable to crew fatigue on extended deployments"
+    }
+  ],
+  "operational_patterns": {
+    "typical_deployment": "ASW patrol in GIUK Gap, CSG escort duty, or independent patrol in areas of interest",
+    "deployment_length_months": 8,
+    "key_operating_areas": [
+      "North Atlantic",
+      "GIUK Gap",
+      "Mediterranean",
+      "Indo-Pacific"
+    ],
+    "typical_task_group": "Operates with Type 45 destroyers in CSG or independently with RFA support",
+    "readiness_notes": "Not yet operational - first ship HMS Glasgow expected to achieve IOC in 2028-2029"
+  },
+  "peer_comparisons": [
+    {
+      "platform": "Constellation-class frigate (FFG-62)",
+      "country": "United States",
+      "relationship": "allied equivalent",
+      "key_differences": "Type 26 prioritizes ASW over multi-mission capability, has superior acoustic signature management but less VLS capacity. Constellation-class emphasizes interoperability and cost control.",
+      "video_angle": "Anglo-American approaches to next-generation frigate design - specialization vs. flexibility"
+    },
+    {
+      "platform": "FREMM frigate",
+      "country": "France/Italy",
+      "relationship": "predecessor influence",
+      "key_differences": "Type 26 incorporates lessons from FREMM's modular design but emphasizes ASW specialization over FREMM's balanced multi-mission approach. Superior sonar suite but higher unit cost.",
+      "video_angle": "European frigate evolution - how Type 26 learned from FREMM's successes and limitations"
+    },
+    {
+      "platform": "Type 054A frigate",
+      "country": "China",
+      "relationship": "potential adversary",
+      "key_differences": "Type 054A emphasizes numbers and cost efficiency over individual platform capability. Type 26 has superior ASW and acoustic performance but significantly higher unit cost limits procurement.",
+      "video_angle": "Quality vs quantity in naval procurement - Western high-end platforms vs Chinese mass production"
+    },
+    {
+      "platform": "Admiral Gorshkov-class frigate",
+      "country": "Russia",
+      "relationship": "direct rival",
+      "key_differences": "Gorshkov-class emphasizes strike warfare with Kalibr missiles while Type 26 prioritizes ASW. Both represent national naval resurgence but different tactical philosophies.",
+      "video_angle": "ASW hunter vs strike platform - how different threat perceptions drive frigate design"
+    },
+    {
+      "platform": "Hunter-class frigate",
+      "country": "Australia",
+      "relationship": "direct derivative",
+      "key_differences": "Hunter-class based on Type 26 hull but with American Aegis combat system and different sensor fit. Demonstrates adaptability of Type 26 design to different operational requirements.",
+      "video_angle": "International collaboration in warship design - how allies adapt common platforms for national needs"
+    }
+  ],
+  "search_keywords": [
+    "type 26",
+    "type-26",
+    "city class",
+    "city-class",
+    "global combat ship",
+    "hms glasgow",
+    "bae systems",
+    "royal navy frigate",
+    "asw frigate",
+    "type 2087",
+    "sea ceptor"
+  ],
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/04/Antonov_An-26%2C_Russia_-_Navy_AN1930465.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/04/Antonov_An-26%2C_Russia_-_Navy_AN1930465.jpg",
+      "width": 1200,
+      "height": 800,
+      "title": "Antonov An-26, Russia - Navy AN1930465.jpg",
+      "description": "",
+      "license": "CC BY-SA 3.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Artist_rendering_of_a_Royal_Navy_Merlin_helicopter_operating_from_a_Type_26_frigate.jpg/1280px-Artist_rendering_of_a_Royal_Navy_Merlin_helicopter_operating_from_a_Type_26_frigate.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/90/Artist_rendering_of_a_Royal_Navy_Merlin_helicopter_operating_from_a_Type_26_frigate.jpg",
+      "width": 2000,
+      "height": 1125,
+      "title": "Artist rendering of a Royal Navy Merlin helicopter operating from a Type 26 frigate.jpg",
+      "description": "A computer graphic of a Merlin operating from HMS Belfast",
+      "license": "OGL v1.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Artist_rendering_of_the_Royal_Navy_Type_26_frigate.jpg/1280px-Artist_rendering_of_the_Royal_Navy_Type_26_frigate.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/de/Artist_rendering_of_the_Royal_Navy_Type_26_frigate.jpg",
+      "width": 1500,
+      "height": 844,
+      "title": "Artist rendering of the Royal Navy Type 26 frigate.jpg",
+      "description": "Concept of the Type 26",
+      "license": "OGL v1.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/25/Artist_rendering_of_the_Royal_Navy_Type_26_frigate_in_aerial_stern_view.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/25/Artist_rendering_of_the_Royal_Navy_Type_26_frigate_in_aerial_stern_view.jpg",
+      "width": 567,
+      "height": 799,
+      "title": "Artist rendering of the Royal Navy Type 26 frigate in aerial stern view.jpg",
+      "description": "HMS Birmingham stern shot",
+      "license": "OGL v1.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Royal_Navy_Type_45_Destroyer_HMS_Dragon_MOD_45153124.jpg/1280px-Royal_Navy_Type_45_Destroyer_HMS_Dragon_MOD_45153124.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/93/Royal_Navy_Type_45_Destroyer_HMS_Dragon_MOD_45153124.jpg",
+      "width": 2709,
+      "height": 1806,
+      "title": "Royal Navy Type 45 Destroyer HMS Dragon MOD 45153124.jpg",
+      "description": "The <a href=\"https://en.wikipedia.org/wiki/Royal_Navy\" class=\"extiw\" title=\"en:Royal Navy\">Royal Navy's</a> (RN) latest addition to the fleet, the Type 45 destroyer <a href=\"https://en.wikipedia.org/w",
+      "license": "OGL v1.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Type_26_76_mm_shipboard_gun.jpg/1280px-Type_26_76_mm_shipboard_gun.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Type_26_76_mm_shipboard_gun.jpg",
+      "width": 2000,
+      "height": 2000,
+      "title": "Type 26 76 mm shipboard gun.jpg",
+      "description": "160721-N-MV764-004 PACIFIC OCEAN (July 21, 2016) Chinese Navy ship multirole frigate Hengshui (572) fires its main gun during a gunnery exercise during Rim of the Pacific 2016. Twenty-six nations, mor",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Type_26_frigate.jpg/1280px-Type_26_frigate.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/61/Type_26_frigate.jpg",
+      "width": 1500,
+      "height": 844,
+      "title": "Type 26 frigate.jpg",
+      "description": "Artist rendering of the Type 26 frigate",
+      "license": "OGL v1.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/USS_Lake_Erie_%28CG_70%29_missile_test.jpg/1280px-USS_Lake_Erie_%28CG_70%29_missile_test.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/ae/USS_Lake_Erie_%28CG_70%29_missile_test.jpg",
+      "width": 2336,
+      "height": 3504,
+      "title": "USS Lake Erie (CG 70) missile test.jpg",
+      "description": "A standard missile 3 is launched from <a href=\"//commons.wikimedia.org/w/index.php?title=USS_Lake_Erie_(CG_70)&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"USS Lake Erie (CG 70) (page does not ex",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/260308a_bow_section_of_HMS_Birmingham_Type_26_frigate_on_heavy-lift_barge_BHV_Innovation.jpg/1280px-260308a_bow_section_of_HMS_Birmingham_Type_26_frigate_on_heavy-lift_barge_BHV_Innovation.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/84/260308a_bow_section_of_HMS_Birmingham_Type_26_frigate_on_heavy-lift_barge_BHV_Innovation.jpg",
+      "width": 2508,
+      "height": 1411,
+      "title": "260308a bow section of HMS Birmingham Type 26 frigate on heavy-lift barge BHV Innovation.jpg",
+      "description": "Bow section of <a href=\"https://en.wikipedia.org/wiki/HMS_Birmingham\" class=\"extiw\" title=\"w:HMS Birmingham\">HMS <i>Birmingham</i></a> <a href=\"https://en.wikipedia.org/wiki/Type_26_frigate\" class=\"ex",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/260308b_bow_section_of_HMS_Birmingham_Type_26_frigate_on_heavy-lift_barge_BHV_Innovation.jpg/1280px-260308b_bow_section_of_HMS_Birmingham_Type_26_frigate_on_heavy-lift_barge_BHV_Innovation.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/fe/260308b_bow_section_of_HMS_Birmingham_Type_26_frigate_on_heavy-lift_barge_BHV_Innovation.jpg",
+      "width": 2704,
+      "height": 1521,
+      "title": "260308b bow section of HMS Birmingham Type 26 frigate on heavy-lift barge BHV Innovation.jpg",
+      "description": "Bow section of <a href=\"https://en.wikipedia.org/wiki/HMS_Birmingham\" class=\"extiw\" title=\"w:HMS Birmingham\">HMS <i>Birmingham</i></a> <a href=\"https://en.wikipedia.org/wiki/Type_26_frigate\" class=\"ex",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/260308c_bow_section_of_HMS_Birmingham_Type_26_frigate_on_heavy-lift_barge_BHV_Innovation.jpg/1280px-260308c_bow_section_of_HMS_Birmingham_Type_26_frigate_on_heavy-lift_barge_BHV_Innovation.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/0d/260308c_bow_section_of_HMS_Birmingham_Type_26_frigate_on_heavy-lift_barge_BHV_Innovation.jpg",
+      "width": 2159,
+      "height": 1214,
+      "title": "260308c bow section of HMS Birmingham Type 26 frigate on heavy-lift barge BHV Innovation.jpg",
+      "description": "Bow section of <a href=\"https://en.wikipedia.org/wiki/HMS_Birmingham\" class=\"extiw\" title=\"w:HMS Birmingham\">HMS <i>Birmingham</i></a> (<a href=\"https://en.wikipedia.org/wiki/Type_26_frigate\" class=\"e",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Future_of_the_Royal_Navy_2025.png/1280px-Future_of_the_Royal_Navy_2025.png",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/87/Future_of_the_Royal_Navy_2025.png",
+      "width": 4400,
+      "height": 4104,
+      "title": "Future of the Royal Navy 2025.png",
+      "description": "Silhouettes of all planned future ships of the Royal Navy from the end of 2024",
+      "license": "CC BY 4.0",
+      "source": "wikimedia"
+    }
+  ],
+  "doctrine": {
+    "role": "The Type 26 serves as the Royal Navy's primary hunter-killer for peer adversary submarines, designed to operate independently or lead task groups in establishing undersea dominance in critical maritime corridors.",
+    "employment": "Typically deployed as the ASW anchor of Carrier Strike Groups or operating independently in forward patrol areas like the GIUK Gap. Forms the core of ASW task groups with Type 31 frigates providing area air defence and logistical support. Designed for sustained independent operations lasting 60+ days, with command facilities to coordinate multi-national ASW task forces. Expected to operate in high-threat environments where older frigates would require significant escort protection.",
+    "design_philosophy": "Designers prioritised acoustic stealth and ASW sensor performance above all else, accepting reduced magazine capacity and higher unit costs to achieve submarine-quiet signatures. The modular mission bay concept sacrifices some structural efficiency for operational flexibility, while the sophisticated integrated mast trades maintenance simplicity for reduced radar cross-section and electromagnetic compatibility.",
+    "threat_context": "Originally conceived to counter increasingly capable Russian nuclear submarines in North Atlantic chokepoints, particularly improved Akula and Yasen-class boats. The threat has evolved to include Chinese Type 095 submarines operating globally and advanced air-independent propulsion boats from multiple adversaries, requiring the Type 26's multi-frequency sonar suite and enhanced signal processing capabilities.",
+    "comparison_frame": "Compare primarily on acoustic signature levels and sonar processing power rather than traditional metrics like missile loadout or speed - the Type 26 trades weapons capacity for stealth. Towed array length, hull-mounted sonar frequency ranges, and mission bay flexibility are the key differentiators versus international ASW frigate designs. Cost-per-unit matters less than capability density given the small production run."
+  },
+  "curated_sources": [
+    {
+      "title": "British Destroyers & Frigates: The Second World War & After",
+      "type": "book",
+      "url": "",
+      "relevance": "Friedman provides essential context on Royal Navy surface combatant evolution and the doctrinal drivers behind the Type 26 design requirements.",
+      "priority": "essential"
+    },
+    {
+      "title": "The Type 26 Global Combat Ship: A Technical Assessment",
+      "type": "report",
+      "url": "https://rusi.org/explore-our-research/publications/commentary/type-26-global-combat-ship-technical-assessment",
+      "relevance": "RUSI's authoritative technical analysis of Type 26 capabilities and how they address contemporary naval warfare requirements.",
+      "priority": "essential"
+    },
+    {
+      "title": "Navy Ships: Lessons from the UK's Type 26 Frigate Program",
+      "type": "report",
+      "url": "https://www.cbo.gov/publication/57240",
+      "relevance": "CBO analysis examining Type 26 program management and cost factors relevant to US Navy frigate programs provides comparative context.",
+      "priority": "recommended"
+    },
+    {
+      "title": "Save the Royal Navy",
+      "type": "analyst",
+      "url": "https://www.savetheroyalnavy.org/",
+      "relevance": "Premier independent source for Type 26 program updates, budget analysis, and Royal Navy fleet planning context.",
+      "priority": "recommended"
+    },
+    {
+      "title": "Type 26 City class Frigate",
+      "type": "database",
+      "url": "https://www.seaforces.org/marint/Royal-Navy/Frigate/Type-26-class.htm",
+      "relevance": "Comprehensive technical specifications database with detailed systems breakdowns and construction timeline.",
+      "priority": "reference"
+    },
+    {
+      "title": "British Maritime Doctrine BR 1806",
+      "type": "report",
+      "url": "https://www.gov.uk/government/publications/british-maritime-doctrine-jdp-0-10",
+      "relevance": "Official Royal Navy doctrinal publication explaining the operational concepts that drive Type 26 employment and task group integration.",
+      "priority": "essential"
+    },
+    {
+      "title": "The Future of the Royal Navy's Surface Fleet",
+      "type": "report",
+      "url": "https://committees.parliament.uk/work/1067/news/",
+      "relevance": "Parliamentary Defence Committee analysis of Type 26 within broader Royal Navy force structure and capability requirements.",
+      "priority": "recommended"
+    }
+  ]
+}

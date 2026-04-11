@@ -1,0 +1,493 @@
+{
+  "id": 70,
+  "slug": "kalvari-class-submarine",
+  "name": "Kalvari-class submarine",
+  "designation": "Project 75",
+  "type": "submarine",
+  "country": "India",
+  "operator": "Indian Navy",
+  "overview_md": "The Kalvari-class submarines represent India's most ambitious indigenous submarine construction program and a cornerstone of the Indian Navy's Project 75 initiative. Based on the French Scorp\u00e8ne design by Naval Group (formerly DCNS), these diesel-electric attack submarines are being built at Mazagon Dock Shipbuilders Limited in Mumbai under technology transfer agreements, marking India's transition from submarine operator to submarine builder.\n\nStrategically, the Kalvari class addresses India's critical submarine capability gap in the Indian Ocean Region, where China's growing naval presence demands a credible underwater deterrent. These boats are designed for multi-role operations including anti-submarine warfare, anti-surface warfare, intelligence gathering, and area denial missions. The class incorporates modern stealth features, advanced sonar systems, and the capability to launch both torpedoes and anti-ship missiles.\n\nThe program reflects India's broader naval modernization strategy and 'Make in India' defense initiative, though it has faced significant delays and cost overruns typical of complex technology transfer programs. While technologically advanced, the Kalvari class lacks the air-independent propulsion (AIP) systems found in contemporary submarine designs, limiting their submerged endurance compared to regional competitors.\n\nIn the current Indo-Pacific security environment, these submarines provide India with a credible conventional deterrent against Pakistan's submarine force and contribute to India's broader strategy of maintaining maritime dominance in the Indian Ocean. However, with only six planned units, the class addresses only part of India's submarine shortfall, with follow-on programs like Project 75I already in planning stages.",
+  "specs_json": {
+    "displacement_tonnes": 1775,
+    "length_m": 67.5,
+    "beam_m": 6.2,
+    "draft_m": 5.8,
+    "speed_knots": 20,
+    "range_nm": 6500,
+    "crew": 39,
+    "propulsion": "Diesel-electric, MTU 12V 396 SE84 diesel engines, electric motor",
+    "radar": "I-band navigation radar",
+    "sonar": "SUBTICS integrated sonar suite with bow-mounted sonar array",
+    "combat_system": "SUBTICS (Submarine Tactical Integrated Combat System)",
+    "vls_cells": 0,
+    "additional": {
+      "torpedo_tubes": 6,
+      "weapons_capacity": "18 torpedoes/missiles",
+      "max_dive_depth_m": 350,
+      "snorkel_depth_m": 12,
+      "patrol_duration_days": 50
+    }
+  },
+  "armament_json": [
+    {
+      "category": "Torpedoes",
+      "name": "F21 Artemis",
+      "type": "heavyweight torpedo",
+      "quantity": "18 total",
+      "range_km": 50,
+      "notes": "Wire-guided, wake-homing capability"
+    },
+    {
+      "category": "Anti-ship missiles",
+      "name": "SM39 Exocet",
+      "type": "submarine-launched anti-ship missile",
+      "quantity": "Variable load",
+      "range_km": 50,
+      "notes": "Encapsulated for underwater launch"
+    },
+    {
+      "category": "Mines",
+      "name": "Naval mines",
+      "type": "sea mines",
+      "quantity": "Variable load",
+      "range_km": 0,
+      "notes": "Mine-laying capability"
+    }
+  ],
+  "variants_json": [
+    {
+      "name": "Kalvari (Batch 1)",
+      "designation_range": "S21-S26",
+      "years": "2017-2022",
+      "count": 6,
+      "key_changes": "Original Scorp\u00e8ne design with Indian modifications, SUBTICS combat system, no AIP initially planned",
+      "status": "building"
+    }
+  ],
+  "fleet_status_json": [
+    {
+      "hull_number": "S21",
+      "name": "INS Kalvari",
+      "variant": "Kalvari",
+      "commissioned": "2017-12-14",
+      "home_port": "Mumbai",
+      "status": "active"
+    },
+    {
+      "hull_number": "S22",
+      "name": "INS Khanderi",
+      "variant": "Kalvari",
+      "commissioned": "2019-09-28",
+      "home_port": "Mumbai",
+      "status": "active"
+    },
+    {
+      "hull_number": "S23",
+      "name": "INS Karanj",
+      "variant": "Kalvari",
+      "commissioned": "2021-03-10",
+      "home_port": "Mumbai",
+      "status": "active"
+    },
+    {
+      "hull_number": "S24",
+      "name": "INS Vela",
+      "variant": "Kalvari",
+      "commissioned": "2021-11-25",
+      "home_port": "Mumbai",
+      "status": "active"
+    },
+    {
+      "hull_number": "S25",
+      "name": "INS Vagir",
+      "variant": "Kalvari",
+      "commissioned": "2023-01-23",
+      "home_port": "Mumbai",
+      "status": "active"
+    },
+    {
+      "hull_number": "S26",
+      "name": "INS Vagsheer",
+      "variant": "Kalvari",
+      "commissioned": "2024-01-15",
+      "home_port": "Mumbai",
+      "status": "active"
+    }
+  ],
+  "cost_usd": 550000000.0,
+  "unit_count": 6,
+  "first_commissioned": "2017-12-14",
+  "builder": "Mazagon Dock Shipbuilders Limited (MDL), Mumbai",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/8b/INS_Kalvari_%28S21%29_at_sea.jpg",
+  "wiki_url": "https://en.wikipedia.org/wiki/Kalvari-class_submarine_(2015)",
+  "sources_json": [
+    "https://en.wikipedia.org/wiki/Kalvari-class_submarine",
+    "https://www.indiannavy.nic.in/",
+    "https://www.naval-group.com/",
+    "https://www.mdlindia.co.in/",
+    "https://www.janes.com/"
+  ],
+  "comparison_tags": [
+    "submarine",
+    "diesel-electric",
+    "scorpene",
+    "indian-navy",
+    "project-75",
+    "conventional-submarine"
+  ],
+  "created_at": "2026-04-10 20:39:14",
+  "updated_at": "2026-04-10T20:39:14.889322",
+  "news": [],
+  "events": [],
+  "ic_coverage": [],
+  "combat_history": [
+    {
+      "date": "2019",
+      "operation": "Training Exercise",
+      "event": "INS Kalvari successfully conducted torpedo firing trials in Arabian Sea, demonstrating combat readiness of lead boat",
+      "significance": "Validated the submarine's primary weapon system and crew training standards"
+    },
+    {
+      "date": "2020",
+      "operation": "COVID-19 Operations",
+      "event": "Multiple Kalvari-class boats maintained patrol schedules during pandemic, demonstrating operational availability despite global disruptions",
+      "significance": "Proved the class's reliability and the Indian Navy's ability to maintain submarine operations under challenging conditions"
+    },
+    {
+      "date": "2021",
+      "operation": "Exercise Sea Vigil",
+      "event": "INS Khanderi participated in coastal security exercise, conducting surveillance and interdiction training",
+      "significance": "Demonstrated integration with broader Indian maritime security framework"
+    }
+  ],
+  "modernization": [
+    {
+      "program": "AIP Integration Study",
+      "status": "planned",
+      "timeline": "2025-2030",
+      "description": "Evaluation of retrofitting air-independent propulsion systems to enhance submerged endurance",
+      "impact": "Would significantly extend underwater patrol capability and reduce detection risk"
+    },
+    {
+      "program": "Indigenous Sonar Upgrade",
+      "status": "in-progress",
+      "timeline": "2023-2026",
+      "description": "Integration of DRDO-developed sonar systems and indigenous torpedo fire control systems",
+      "impact": "Reduces foreign dependency and improves integration with Indian naval systems"
+    },
+    {
+      "program": "BrahMos Integration",
+      "status": "planned",
+      "timeline": "2025-2028",
+      "description": "Potential integration of submarine-launched BrahMos cruise missiles for extended strike capability",
+      "impact": "Would provide land-attack capability and significantly extend strike range"
+    }
+  ],
+  "vulnerabilities": [
+    {
+      "area": "Limited submerged endurance",
+      "description": "Lack of AIP systems restricts underwater patrol time to battery capacity, requiring frequent snorkeling",
+      "context": "Modern submarine warfare demands extended submerged operations; competitors like Pakistan's Yuan-class have AIP",
+      "mitigation": "Future AIP retrofit under consideration, but not yet funded"
+    },
+    {
+      "area": "Small fleet size",
+      "description": "Only six submarines cannot provide adequate coverage of India's vast maritime interests",
+      "context": "Navy requires 18-24 conventional submarines for effective area denial and patrol coverage",
+      "mitigation": "Project 75I planned for additional submarines, but timeline uncertain"
+    },
+    {
+      "area": "Technology dependence",
+      "description": "Critical systems and weapons remain French-supplied, creating potential supply chain vulnerabilities",
+      "context": "Geopolitical tensions could affect spare parts and upgrade support",
+      "mitigation": "Ongoing indigenization efforts, but key components still foreign-dependent"
+    },
+    {
+      "area": "Limited strike capability",
+      "description": "Current armament focused on anti-ship/anti-submarine roles, lacks significant land-attack capability",
+      "context": "Regional competitors have submarine-launched cruise missiles for strategic strikes",
+      "mitigation": "BrahMos integration study underway, but technical challenges remain"
+    }
+  ],
+  "operational_patterns": {
+    "typical_deployment": "Arabian Sea patrol, surveillance missions, training operations",
+    "deployment_length_months": 2,
+    "key_operating_areas": [
+      "Arabian Sea",
+      "Bay of Bengal",
+      "Indian Ocean"
+    ],
+    "typical_task_group": "Solo operations or with surface escorts during exercises",
+    "readiness_notes": "High operational tempo due to small fleet size; maintenance scheduling challenging"
+  },
+  "peer_comparisons": [
+    {
+      "platform": "Type 039A Yuan-class",
+      "country": "China",
+      "relationship": "direct rival",
+      "key_differences": "Yuan-class features AIP propulsion for extended submerged operations, but Kalvari has superior French sonar and fire control systems. Yuan has larger fleet numbers but potentially less advanced sensors.",
+      "video_angle": "David vs Goliath: Quality vs Quantity in submarine warfare - Indian precision vs Chinese mass production"
+    },
+    {
+      "platform": "Agosta 90B",
+      "country": "Pakistan",
+      "relationship": "direct rival",
+      "key_differences": "Pakistan's Agosta boats are older design but have MESMA AIP system. Kalvari has more modern sensors and weapons but lacks extended underwater endurance capability.",
+      "video_angle": "Underwater rivalry: How India and Pakistan's submarine arms race shapes Indian Ocean security"
+    },
+    {
+      "platform": "Scorp\u00e8ne (Chilean/Brazilian/Malaysian variants)",
+      "country": "Multiple",
+      "relationship": "sister design",
+      "key_differences": "Same basic hull design but different combat systems and sensors. Indian version has SUBTICS while others may have different systems. Provides insight into technology transfer success.",
+      "video_angle": "Global Scorp\u00e8ne family: How the same submarine design serves different navies worldwide"
+    },
+    {
+      "platform": "Type 214",
+      "country": "Germany",
+      "relationship": "direct competitor",
+      "key_differences": "German design offers superior AIP technology and fuel cell propulsion, but Kalvari has proven French combat systems. Type 214 exports have had mixed success records.",
+      "video_angle": "French vs German submarine philosophy: Different approaches to modern conventional submarine design"
+    },
+    {
+      "platform": "Oyashio-class",
+      "country": "Japan",
+      "relationship": "regional competitor",
+      "key_differences": "Japanese boats are larger, more advanced, but also more expensive. Represent different strategic approaches to submarine warfare in the Indo-Pacific region.",
+      "video_angle": "Indo-Pacific submarine strategies: How India and Japan approach underwater warfare differently"
+    }
+  ],
+  "search_keywords": [
+    "kalvari class",
+    "project 75",
+    "scorpene",
+    "scorp\u00e8ne",
+    "indian navy submarine",
+    "INS Kalvari",
+    "INS Khanderi",
+    "INS Karanj",
+    "MDL submarine",
+    "french submarine india",
+    "SUBTICS"
+  ],
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/DRDO_AIP_%28Air_Independent_Propulsion%29_model_for_Kalvari-class_submarine.jpg/1280px-DRDO_AIP_%28Air_Independent_Propulsion%29_model_for_Kalvari-class_submarine.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/36/DRDO_AIP_%28Air_Independent_Propulsion%29_model_for_Kalvari-class_submarine.jpg",
+      "width": 1282,
+      "height": 722,
+      "title": "DRDO AIP (Air Independent Propulsion) model for Kalvari-class submarine.jpg",
+      "description": "DRDO AIP (Air Independent Propulsion) model for Kalvari-class submarine",
+      "license": "GODL-India",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Foxtrot-class_submarine_of_the_Indian_Navy.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Foxtrot-class_submarine_of_the_Indian_Navy.jpg",
+      "width": 1024,
+      "height": 681,
+      "title": "Foxtrot-class submarine of the Indian Navy.jpg",
+      "description": "Kalvari class submarine (Foxtrot-class) of the Indian Navy",
+      "license": "GODL-India",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b8/INS_Kalvari_Sea_Trial.JPG",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/b8/INS_Kalvari_Sea_Trial.JPG",
+      "width": 1000,
+      "height": 610,
+      "title": "INS Kalvari Sea Trial.JPG",
+      "description": "INS Kalvari at Sea trials",
+      "license": "GODL-India",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Kalvari_class_and_Shishumar_class_submarine_during_exercse.jpg/1280px-Kalvari_class_and_Shishumar_class_submarine_during_exercse.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Kalvari_class_and_Shishumar_class_submarine_during_exercse.jpg",
+      "width": 4096,
+      "height": 2725,
+      "title": "Kalvari class and Shishumar class submarine during exercse.jpg",
+      "description": "Kalvari class and Shishumar class submarine during exercse",
+      "license": "GODL-India",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Kalvari_class_submarine_during_an_exercise.jpg/1280px-Kalvari_class_submarine_during_an_exercise.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/74/Kalvari_class_submarine_during_an_exercise.jpg",
+      "width": 4096,
+      "height": 2725,
+      "title": "Kalvari class submarine during an exercise.jpg",
+      "description": "Kalvari class submarine during an exercise",
+      "license": "GODL-India",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Kalvari_class_submarine_sail.jpg/1280px-Kalvari_class_submarine_sail.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Kalvari_class_submarine_sail.jpg",
+      "width": 4096,
+      "height": 2731,
+      "title": "Kalvari class submarine sail.jpg",
+      "description": "The Western Seaboard witnessed eight submarines operating together in a recently concluded exercise in the Arabian Sea, demonstrating their high levels of Op Readiness.",
+      "license": "GODL-India",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Kalvari_class_submarine_up_close_during_an_exercise.jpg/1280px-Kalvari_class_submarine_up_close_during_an_exercise.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Kalvari_class_submarine_up_close_during_an_exercise.jpg",
+      "width": 4096,
+      "height": 2725,
+      "title": "Kalvari class submarine up close during an exercise.jpg",
+      "description": "Kalvari class submarine up close during an exercise",
+      "license": "GODL-India",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Trio_of_Kalvari_class_submairne_during_an_exercise.jpg/1280px-Trio_of_Kalvari_class_submairne_during_an_exercise.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/27/Trio_of_Kalvari_class_submairne_during_an_exercise.jpg",
+      "width": 3276,
+      "height": 2180,
+      "title": "Trio of Kalvari class submairne during an exercise.jpg",
+      "description": "Trio of Kalvari class submairne during an exercise",
+      "license": "GODL-India",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/The_Army_and_Navy_prayer_book_-_DPLA_-_3a96b0f99d33a36197534ac58f52869e_%28page_75%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/The_Army_and_Navy_prayer_book_-_DPLA_-_3a96b0f99d33a36197534ac58f52869e_%28page_75%29.jpg",
+      "width": 1219,
+      "height": 1994,
+      "title": "The Army and Navy prayer book - DPLA - 3a96b0f99d33a36197534ac58f52869e (page 75).jpg",
+      "description": "<div class=\"description\">\nIncludes hymns</div>",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/The_Army_and_Navy_prayer_book_-_DPLA_-_aa18fea3c305e498d7b05c008c8b485a_%28page_75%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/The_Army_and_Navy_prayer_book_-_DPLA_-_aa18fea3c305e498d7b05c008c8b485a_%28page_75%29.jpg",
+      "width": 1246,
+      "height": 1982,
+      "title": "The Army and Navy prayer book - DPLA - aa18fea3c305e498d7b05c008c8b485a (page 75).jpg",
+      "description": "",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/US_Navy_041026-N-6495K-056_Hull_Maintenance_Technician_Fireman_Ryan_Cannon_welds_together_metal_for_a_project_in_his_shop_aboard_the_Nimitz-class_aircraft_carrier_USS_Harry_S._Truman_%28CVN_75%29.jpg/1280px-thumbnail.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/47/US_Navy_041026-N-6495K-056_Hull_Maintenance_Technician_Fireman_Ryan_Cannon_welds_together_metal_for_a_project_in_his_shop_aboard_the_Nimitz-class_aircraft_carrier_USS_Harry_S._Truman_%28CVN_75%29.jpg",
+      "width": 1500,
+      "height": 2100,
+      "title": "US Navy 041026-N-6495K-056 Hull Maintenance Technician Fireman Ryan Cannon welds together metal for a project in his shop aboard the Nimitz-class aircraft carrier USS Harry S. Truman (CVN 75).jpg",
+      "description": "Atlantic Ocean (Oct. 26, 2004) - Hull Maintenance Technician Fireman Ryan Cannon welds together metal for a project in his shop aboard the Nimitz-class aircraft carrier USS Harry S. Truman (CVN 75). T",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/US_Navy_050320-N-5345W-003_-_Seaman_Apprentice_Aubrey_Green%2C_left%2C_and_Seaman_Christian_Waddell%2C_both_assigned_to_Deck_Department%2C_work_together_on_a_macram%C3%A9_project_in_the_forecastle_aboard_the_Nimitz-class_aircraft_carrier_US.jpg/1280px-thumbnail.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/e2/US_Navy_050320-N-5345W-003_-_Seaman_Apprentice_Aubrey_Green%2C_left%2C_and_Seaman_Christian_Waddell%2C_both_assigned_to_Deck_Department%2C_work_together_on_a_macram%C3%A9_project_in_the_forecastle_aboard_the_Nimitz-class_aircraft_carrier_US.jpg",
+      "width": 2100,
+      "height": 1500,
+      "title": "US Navy 050320-N-5345W-003 - Seaman Apprentice Aubrey Green, left, and Seaman Christian Waddell, both assigned to Deck Department, work together on a macram\u00e9 project in the forecastle aboard the Nimitz-class aircraft carrier US.jpg",
+      "description": "Persian Gulf (Mar. 20, 2005) - Seaman Apprentice Aubrey Green, left, and Seaman Christian Waddell, both assigned to Deck Department, work together on a macram\u00e9 project in the forecastle aboard the Nim",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/US_Navy_070318-N-8110K-006_South_Boston_cheers_Sailors_from_guided_missile_destroyer_USS_Donald_Cook_%28DDG_75%29_as_they_march_in_the_106th_Annual_St._Patrick%27s_Day_Parade_celebrating_Boston%27s_Irish_heritage.jpg/1280px-thumbnail.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/b6/US_Navy_070318-N-8110K-006_South_Boston_cheers_Sailors_from_guided_missile_destroyer_USS_Donald_Cook_%28DDG_75%29_as_they_march_in_the_106th_Annual_St._Patrick%27s_Day_Parade_celebrating_Boston%27s_Irish_heritage.jpg",
+      "width": 3072,
+      "height": 2048,
+      "title": "US Navy 070318-N-8110K-006 South Boston cheers Sailors from guided missile destroyer USS Donald Cook (DDG 75) as they march in the 106th Annual St. Patrick's Day Parade celebrating Boston's Irish heritage.jpg",
+      "description": "BOSTON (March 18, 2007) \u2013 South Boston cheers Sailors from guided missile destroyer USS Donald Cook (DDG 75) as they march in the 106th Annual St. Patrick\u2019s Day Parade celebrating Boston\u2019s Irish herit",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/US_Navy_081006-N-7317W-034_Sailors_from_the_aircraft_carrier_USS_Harry_S._Truman_%28CVN_75%29_help_employees_of_the_Portsmouth_Humane_Society_clean_the_kennels_during_a_commuinity_relations_project.jpg/1280px-thumbnail.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/56/US_Navy_081006-N-7317W-034_Sailors_from_the_aircraft_carrier_USS_Harry_S._Truman_%28CVN_75%29_help_employees_of_the_Portsmouth_Humane_Society_clean_the_kennels_during_a_commuinity_relations_project.jpg",
+      "width": 2100,
+      "height": 1464,
+      "title": "US Navy 081006-N-7317W-034 Sailors from the aircraft carrier USS Harry S. Truman (CVN 75) help employees of the Portsmouth Humane Society clean the kennels during a commuinity relations project.jpg",
+      "description": "PORTSMOUTH, Va. (Oct. 6, 2008) Sailors from the aircraft carrier USS Harry S. Truman (CVN 75) help employees of the Portsmouth Humane Society clean the kennels during a commuinity relations project. T",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/US_Navy_100609-N-6003P-029_A_Sailor_from_the_Nimitz-class_aircraft_carrier_USS_Harry_S._Truman_%28CVN_75%29.jpg/1280px-US_Navy_100609-N-6003P-029_A_Sailor_from_the_Nimitz-class_aircraft_carrier_USS_Harry_S._Truman_%28CVN_75%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/US_Navy_100609-N-6003P-029_A_Sailor_from_the_Nimitz-class_aircraft_carrier_USS_Harry_S._Truman_%28CVN_75%29.jpg",
+      "width": 3600,
+      "height": 2111,
+      "title": "US Navy 100609-N-6003P-029 A Sailor from the Nimitz-class aircraft carrier USS Harry S. Truman (CVN 75).jpg",
+      "description": "MARSEILLE, France (June 9, 2010) A Sailor from the Nimitz-class aircraft carrier USS Harry S. Truman (CVN 75) participates in a fencing competition with a student from the Second Chance School for Kid",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/US_Navy_110927-N-WP221-057_ailors_assigned_to_the_aircraft_carrier_USS_Harry_S._Truman_%28CVN_75%29_inspect_medical_equipment.jpg/1280px-US_Navy_110927-N-WP221-057_ailors_assigned_to_the_aircraft_carrier_USS_Harry_S._Truman_%28CVN_75%29_inspect_medical_equipment.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/e9/US_Navy_110927-N-WP221-057_ailors_assigned_to_the_aircraft_carrier_USS_Harry_S._Truman_%28CVN_75%29_inspect_medical_equipment.jpg",
+      "width": 2520,
+      "height": 1792,
+      "title": "US Navy 110927-N-WP221-057 ailors assigned to the aircraft carrier USS Harry S. Truman (CVN 75) inspect medical equipment.jpg",
+      "description": "CHESAPEAKE, Va. (Sept. 27, 2011) Sailors assigned to the aircraft carrier USS Harry S. Truman (CVN 75) inspect medical equipment during a community service project to inventory and repair donated medi",
+      "license": "Public domain",
+      "source": "wikimedia"
+    }
+  ],
+  "doctrine": {
+    "role": "Sea denial and maritime domain control in the northern Arabian Sea and eastern Indian Ocean, establishing India's strategic depth against Pakistan's submarine force and China's expanding naval presence.",
+    "employment": "Operates as part of India's Western and Eastern Naval Commands, typically deployed in hunter-killer roles against enemy submarines and surface vessels. Forms the backbone of India's submarine warfare capability alongside the nuclear Arihant-class, with missions including intelligence gathering, special operations support, and anti-ship warfare. Command relationships flow through Fleet Operations Centers, with submarines operating both independently and in coordination with surface action groups and maritime patrol aircraft.",
+    "design_philosophy": "Prioritized stealth, endurance, and multi-mission capability over speed and diving depth, accepting the limitations of diesel-electric propulsion to achieve cost-effectiveness and technology transfer for indigenous production. The design sacrifices some acoustic performance compared to European contemporaries in favor of tropical water optimization and maintenance simplicity for extended patrols in the Indian Ocean.",
+    "threat_context": "Designed primarily to counter Pakistan Navy's Agosta 90B submarines and emerging Chinese submarine presence in the Indian Ocean, with requirements shaped by the 1999 Kargil conflict's naval dimensions. The threat environment has since evolved to include more sophisticated Chinese nuclear submarines transiting through the Indian Ocean and Pakistan's acquisition of Chinese submarines, requiring upgrades to sensors and weapons systems.",
+    "comparison_frame": "Compare on acoustic signature management, sensor integration, and tropical water performance rather than raw speed or diving depth - Indian Ocean operations prioritize stealth and endurance over extreme performance parameters. Focus on weapons loadout flexibility, maintenance intervals, and crew training requirements as these drive operational availability in extended deployments."
+  },
+  "curated_sources": [
+    {
+      "title": "Indian Naval Strategy in the Twenty-first Century by Rahul Roy-Chaudhury",
+      "type": "book",
+      "url": "",
+      "relevance": "Provides comprehensive analysis of Indian Navy's submarine doctrine development and Project 75's strategic rationale within broader maritime strategy.",
+      "priority": "essential"
+    },
+    {
+      "title": "India's Military Modernization: Challenges and Prospects (CRS Report)",
+      "type": "report",
+      "url": "https://crsreports.congress.gov/product/pdf/R/R46808",
+      "relevance": "Details Project 75 program development, technology transfer arrangements, and integration challenges within India's defense modernization efforts.",
+      "priority": "essential"
+    },
+    {
+      "title": "Submarines, Geopolitics and South Asia - Yogesh Joshi (Observer Research Foundation)",
+      "type": "analyst",
+      "url": "https://www.orfonline.org/research/submarines-geopolitics-and-south-asia/",
+      "relevance": "Leading analyst on South Asian submarine warfare dynamics and India's underwater domain awareness challenges.",
+      "priority": "recommended"
+    },
+    {
+      "title": "Naval Group Scorp\u00e8ne Class Technical Overview",
+      "type": "database",
+      "url": "https://seaforces.org/marint/Indian-Navy/Submarine/Kalvari-class",
+      "relevance": "Detailed technical specifications and configuration differences between French baseline and Indian variant requirements.",
+      "priority": "reference"
+    },
+    {
+      "title": "India's Submarine Challenges (CSBA Report)",
+      "type": "report",
+      "url": "https://csbaonline.org/research/publications/contest-under-the-waves-options-for-competing-in-the-subsurface-domain",
+      "relevance": "Analyzes India's submarine force structure requirements against regional submarine proliferation and capability gaps.",
+      "priority": "recommended"
+    },
+    {
+      "title": "Indian Maritime Doctrine (INBR 8)",
+      "type": "report",
+      "url": "https://www.indiannavy.nic.in/sites/default/files/Indian-Maritime-Doctrine-2009-Updated-12Feb16.pdf",
+      "relevance": "Official doctrinal framework defining submarine roles within India's maritime strategy and force employment concepts.",
+      "priority": "essential"
+    },
+    {
+      "title": "Dragon vs. Elephant: Naval Competition in the Indo-Pacific - RUSI Analysis",
+      "type": "report",
+      "url": "https://rusi.org/explore-our-research/publications/commentary/dragon-vs-elephant-naval-competition-indo-pacific",
+      "relevance": "Strategic context for India's submarine modernization in response to Chinese naval expansion in the Indian Ocean region.",
+      "priority": "recommended"
+    }
+  ]
+}

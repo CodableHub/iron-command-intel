@@ -1,0 +1,558 @@
+{
+  "id": 40,
+  "slug": "type-23-duke-class-frigate",
+  "name": "Type 23 Duke-class frigate",
+  "designation": "Type 23",
+  "type": "frigate",
+  "country": "United Kingdom",
+  "operator": "Royal Navy",
+  "overview_md": "The Type 23 Duke-class frigate represents the Royal Navy's primary general-purpose frigate, designed during the Cold War for anti-submarine warfare but evolved into a multi-mission platform. Originally built to hunt Soviet submarines in the North Atlantic, these ships have proven remarkably adaptable, serving as the backbone of Royal Navy surface operations for over three decades.\n\nThe Type 23's design philosophy emphasized stealth and ASW capability over raw firepower. Its angled superstructure and radar-absorbent materials reduced its radar signature, while the CODLAG propulsion system allowed for ultra-quiet operations essential for submarine hunting. The class pioneered several technologies including the sophisticated Sonar 2087 towed array system and was among the first NATO frigates to integrate vertical launch systems.\n\nIn today's threat environment, the Type 23 serves as Britain's primary escort vessel, conducting everything from Falklands patrols to Middle East operations and NATO exercises. However, the class shows its age against modern threats - its 32-cell VLS and limited air defense radar struggle against saturation attacks that would challenge contemporary surface combatants. The Sea Ceptor missile upgrade has improved point defense, but the ships lack the magazine depth and sensor capability of newer designs.\n\nCompared to contemporary frigates like the French FREMM or German F125, the Type 23 trades raw capability for operational flexibility and proven reliability. While newer platforms boast larger VLS arrays and more sophisticated radars, few match the Duke class's track record of sustained operations in demanding environments. The class represents the last generation of specialized ASW platforms before navies shifted toward more generalized multi-mission designs.",
+  "specs_json": {
+    "displacement_tonnes": 4900,
+    "length_m": 133,
+    "beam_m": 16.1,
+    "draft_m": 7.3,
+    "speed_knots": 28,
+    "range_nm": 7800,
+    "crew": 185,
+    "propulsion": "CODLAG (Combined Diesel Electric and Gas) - 2x Rolls-Royce Spey SM1A gas turbines, 4x Paxman Valenta diesels",
+    "radar": "BAE Systems ARTISAN 3D radar",
+    "sonar": "Sonar 2087 towed array, Sonar 2050 bow-mounted",
+    "combat_system": "BAE Systems NAUTIS Combat Management System",
+    "vls_cells": 32,
+    "additional": {
+      "helicopter_capacity": "1x Wildcat or Merlin",
+      "stealth_features": "Angled superstructure, radar-absorbent materials",
+      "endurance_days": 50
+    }
+  },
+  "armament_json": [
+    {
+      "category": "Missiles",
+      "name": "Sea Ceptor (CAMM)",
+      "type": "surface-to-air missile",
+      "quantity": "32 cells",
+      "range_km": 25,
+      "notes": "Replaced Sea Wolf, active radar homing"
+    },
+    {
+      "category": "Missiles",
+      "name": "Harpoon Block 1C",
+      "type": "anti-ship missile",
+      "quantity": "8x launchers",
+      "range_km": 124,
+      "notes": "Being retired without replacement"
+    },
+    {
+      "category": "Guns",
+      "name": "BAE Mk 8 Mod 1",
+      "type": "naval gun",
+      "quantity": "1x 114mm",
+      "range_km": 22,
+      "notes": "Fully automated gun system"
+    },
+    {
+      "category": "CIWS",
+      "name": "Phalanx Block 1B",
+      "type": "close-in weapon system",
+      "quantity": "2x systems (some ships)",
+      "range_km": 3.5,
+      "notes": "Not fitted to all hulls"
+    },
+    {
+      "category": "ASW",
+      "name": "Stingray lightweight torpedo",
+      "type": "anti-submarine torpedo",
+      "quantity": "2x twin launchers",
+      "range_km": 11,
+      "notes": "Ship and helicopter launched"
+    },
+    {
+      "category": "Guns",
+      "name": "DS30M Mk2",
+      "type": "autocannon",
+      "quantity": "2x 30mm",
+      "range_km": 3,
+      "notes": "Remote controlled, anti-surface/air"
+    }
+  ],
+  "variants_json": [
+    {
+      "name": "Batch 1",
+      "designation_range": "F229-F234",
+      "years": "1990-1993",
+      "count": 6,
+      "key_changes": "Original configuration with Sea Wolf VLS, Type 996 radar, basic combat system",
+      "status": "active"
+    },
+    {
+      "name": "Batch 2",
+      "designation_range": "F235-F237",
+      "years": "1993-1996",
+      "count": 4,
+      "key_changes": "Improved electronics, enhanced Type 996 radar, upgraded NAUTIS combat system",
+      "status": "active"
+    },
+    {
+      "name": "Batch 3",
+      "designation_range": "F238-F240",
+      "years": "1996-2002",
+      "count": 6,
+      "key_changes": "Type 997 Artisan radar preparation, improved sonar processing, enhanced crew facilities",
+      "status": "active"
+    }
+  ],
+  "fleet_status_json": [
+    {
+      "hull_number": "F229",
+      "name": "HMS Lancaster",
+      "variant": "Batch 1",
+      "commissioned": "1992-05-01",
+      "home_port": "Portsmouth",
+      "status": "active"
+    },
+    {
+      "hull_number": "F230",
+      "name": "HMS Norfolk",
+      "variant": "Batch 1",
+      "commissioned": "1990-06-02",
+      "home_port": "Portsmouth",
+      "status": "decommissioned 2021"
+    },
+    {
+      "hull_number": "F231",
+      "name": "HMS Argyll",
+      "variant": "Batch 1",
+      "commissioned": "1991-05-31",
+      "home_port": "Devonport",
+      "status": "active"
+    },
+    {
+      "hull_number": "F232",
+      "name": "HMS Marlborough",
+      "variant": "Batch 1",
+      "commissioned": "1991-06-14",
+      "home_port": "Portsmouth",
+      "status": "decommissioned 2023"
+    },
+    {
+      "hull_number": "F233",
+      "name": "HMS Iron Duke",
+      "variant": "Batch 1",
+      "commissioned": "1993-03-20",
+      "home_port": "Portsmouth",
+      "status": "active"
+    },
+    {
+      "hull_number": "F234",
+      "name": "HMS Monmouth",
+      "variant": "Batch 1",
+      "commissioned": "1993-09-24",
+      "home_port": "Devonport",
+      "status": "active"
+    },
+    {
+      "hull_number": "F235",
+      "name": "HMS Montrose",
+      "variant": "Batch 2",
+      "commissioned": "1994-06-02",
+      "home_port": "Devonport",
+      "status": "active"
+    },
+    {
+      "hull_number": "F236",
+      "name": "HMS Westminster",
+      "variant": "Batch 2",
+      "commissioned": "1994-05-13",
+      "home_port": "Portsmouth",
+      "status": "active"
+    },
+    {
+      "hull_number": "F237",
+      "name": "HMS Northumberland",
+      "variant": "Batch 2",
+      "commissioned": "1994-11-04",
+      "home_port": "Devonport",
+      "status": "active"
+    },
+    {
+      "hull_number": "F238",
+      "name": "HMS Richmond",
+      "variant": "Batch 3",
+      "commissioned": "1995-06-23",
+      "home_port": "Portsmouth",
+      "status": "active"
+    },
+    {
+      "hull_number": "F239",
+      "name": "HMS Somerset",
+      "variant": "Batch 3",
+      "commissioned": "1996-09-06",
+      "home_port": "Devonport",
+      "status": "active"
+    },
+    {
+      "hull_number": "F240",
+      "name": "HMS Grafton",
+      "variant": "Batch 3",
+      "commissioned": "1997-05-29",
+      "home_port": "Portsmouth",
+      "status": "active"
+    },
+    {
+      "hull_number": "F241",
+      "name": "HMS Sutherland",
+      "variant": "Batch 3",
+      "commissioned": "1997-07-10",
+      "home_port": "Devonport",
+      "status": "active"
+    }
+  ],
+  "cost_usd": 250000000.0,
+  "unit_count": 13,
+  "first_commissioned": "1990-06-02",
+  "builder": "BAE Systems (formerly Yarrow Shipbuilders, Swan Hunter)",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/6e/HMS_Sutherland_%28F81%29_MoD.jpg",
+  "wiki_url": "https://en.wikipedia.org/wiki/Type_23_frigate",
+  "sources_json": [
+    "https://en.wikipedia.org/wiki/Type_23_frigate",
+    "https://www.royalnavy.mod.uk/our-organisation/the-fighting-arms/surface-fleet/frigates/type-23-frigate",
+    "https://www.navylookout.com/the-type-23-frigate-still-going-strong-after-30-years",
+    "https://www.janes.com/defence-news/naval-systems/latest/uk-type-23-frigates-continue-red-sea-operations"
+  ],
+  "comparison_tags": [
+    "frigate",
+    "asw",
+    "vls",
+    "royal-navy",
+    "nato",
+    "towed-array"
+  ],
+  "created_at": "2026-04-10 20:07:48",
+  "updated_at": "2026-04-10T20:07:48.543145",
+  "news": [],
+  "events": [],
+  "ic_coverage": [],
+  "combat_history": [
+    {
+      "date": "2000-05",
+      "operation": "Sierra Leone Crisis",
+      "event": "HMS Argyll and HMS Chatham provided naval gunfire support during Operation Palliser, evacuating civilians and supporting British intervention forces.",
+      "significance": "First major combat deployment demonstrating the class's expeditionary capability and shore bombardment effectiveness."
+    },
+    {
+      "date": "2003-03",
+      "operation": "Operation Iraqi Freedom",
+      "event": "HMS Richmond fired Tomahawk Land Attack Missiles at Iraqi targets during the opening phases of the invasion. Multiple Type 23s provided escort and patrol duties in the Persian Gulf.",
+      "significance": "Validated the class's land attack capability and demonstrated integration with US-led coalition operations."
+    },
+    {
+      "date": "2008-11",
+      "operation": "Counter-Piracy Operations",
+      "event": "HMS Cumberland intercepted Somali pirates and conducted boarding operations off the Horn of Africa, part of ongoing EU NAVFOR deployments.",
+      "significance": "Showcased the class's boarding capabilities and small boat operations in constrained waters."
+    },
+    {
+      "date": "2019-07",
+      "operation": "Strait of Hormuz Tensions",
+      "event": "HMS Montrose intervened when Iranian Revolutionary Guard boats attempted to impede British-flagged tanker British Heritage, conducting a standoff that prevented seizure.",
+      "significance": "Demonstrated the class's role in freedom of navigation operations and its capability against Iranian fast attack craft."
+    },
+    {
+      "date": "2022-2024",
+      "operation": "Red Sea Operations",
+      "event": "HMS Richmond and HMS Diamond conducted multiple intercepts of Houthi drones and missiles targeting commercial shipping, using Sea Ceptor missiles and 30mm guns.",
+      "significance": "First operational use of Sea Ceptor in combat, validating the missile system upgrade and demonstrating air defense capability against asymmetric threats."
+    }
+  ],
+  "modernization": [
+    {
+      "program": "Sea Ceptor Integration",
+      "status": "completed",
+      "timeline": "2016-2021",
+      "description": "Replacement of Sea Wolf VLS with 32-cell Sea Ceptor (CAMM) system, providing improved range and capability against modern air threats including sea-skimming missiles.",
+      "impact": "Significantly enhanced air defense capability with active radar homing missiles and improved reaction time."
+    },
+    {
+      "program": "ARTISAN Radar Upgrade",
+      "status": "completed",
+      "timeline": "2010-2019",
+      "description": "Installation of BAE Systems ARTISAN 3D radar replacing older Type 996/997 systems, providing better detection against low-RCS targets and improved tracking capability.",
+      "impact": "Enhanced situational awareness and target detection, particularly against stealth aircraft and sea-skimming missiles."
+    },
+    {
+      "program": "Sonar 2087 Installation",
+      "status": "completed",
+      "timeline": "2004-2016",
+      "description": "Integration of advanced towed array sonar system providing significantly improved submarine detection range and classification capability in littoral environments.",
+      "impact": "Maintains world-class ASW capability relevant to modern submarine threats, particularly quiet diesel-electric boats."
+    },
+    {
+      "program": "Life Extension Programme (LEP)",
+      "status": "cancelled",
+      "timeline": "2020-2035",
+      "description": "Planned major upgrade programme including new combat system, enhanced VLS capacity, and life extension to 2040s. Cancelled in favor of Type 26 acceleration.",
+      "impact": "Limits class capability growth; ships will retire with current systems rather than receiving major upgrades."
+    }
+  ],
+  "vulnerabilities": [
+    {
+      "area": "Limited magazine depth",
+      "description": "Only 32 VLS cells provides insufficient missile inventory for sustained high-threat operations or saturation attack scenarios.",
+      "context": "Modern peer adversaries can launch coordinated attacks with dozens of anti-ship missiles, potentially overwhelming the defensive capacity.",
+      "mitigation": "Reliance on layered defense with other platforms and close-in weapon systems, but fundamentally limits independent operation in contested environments."
+    },
+    {
+      "area": "Obsolete anti-ship capability",
+      "description": "Harpoon missiles being retired without replacement, leaving no dedicated anti-surface warfare missile beyond helicopter-launched weapons.",
+      "context": "Severely limits ability to engage enemy surface combatants beyond gun range, particularly problematic given modern naval engagement distances.",
+      "mitigation": "Future anti-ship missile planned but timeline uncertain. Currently relies on embarked helicopter or other platforms for long-range surface engagement."
+    },
+    {
+      "area": "Aging hull and propulsion",
+      "description": "Oldest ships approaching 35 years service with increasing mechanical reliability issues and higher maintenance requirements affecting availability.",
+      "context": "Extended deployments become more challenging as engineering systems require more frequent maintenance, impacting operational tempo.",
+      "mitigation": "Accelerated replacement with Type 26, but timeline means some hulls will operate well beyond optimal service life."
+    },
+    {
+      "area": "Limited multi-threat capability",
+      "description": "Single-band radar and modest computing power limits ability to simultaneously prosecute multiple target tracks in complex threat environments.",
+      "context": "Modern warfare scenarios involve multiple simultaneous threats (air, surface, subsurface) requiring rapid engagement prioritization.",
+      "mitigation": "ARTISAN radar upgrade helps but fundamental combat system architecture limits compared to modern equivalents with multiple sensor fusion."
+    }
+  ],
+  "operational_patterns": {
+    "typical_deployment": "Independent patrol, small task group escort, or as part of Carrier Strike Group screen",
+    "deployment_length_months": 8,
+    "key_operating_areas": [
+      "North Atlantic",
+      "Mediterranean",
+      "Persian Gulf",
+      "Indo-Pacific",
+      "Caribbean"
+    ],
+    "typical_task_group": "Often operates independently or with RFA support vessel, occasionally as part of CSG or with allied navies",
+    "readiness_notes": "Availability rates declining due to age, typically 6-8 ships operationally available at any time. Extended maintenance periods increasingly common."
+  },
+  "peer_comparisons": [
+    {
+      "platform": "FREMM multipurpose frigate",
+      "country": "France/Italy",
+      "relationship": "direct rival",
+      "key_differences": "FREMM has larger VLS capacity (16-32 cells plus Sylver A70), more modern sensors, and better multi-mission capability, but Type 23 has superior ASW specialization with Sonar 2087.",
+      "video_angle": "ASW specialist vs multi-mission generalist - different naval philosophies in frigate design"
+    },
+    {
+      "platform": "F125 Baden-W\u00fcrttemberg class",
+      "country": "Germany",
+      "relationship": "allied equivalent",
+      "key_differences": "F125 emphasizes low-intensity operations with larger crew spaces and extended endurance but limited high-intensity warfare capability compared to Type 23's combat focus.",
+      "video_angle": "Combat frigate vs stabilization platform - NATO allies' different operational priorities"
+    },
+    {
+      "platform": "054A Jiangkai II",
+      "country": "China",
+      "relationship": "potential adversary",
+      "key_differences": "Similar displacement but 054A has 32 VLS cells for longer-range SAMs, more modern electronics, but likely inferior ASW capability and crew training standards.",
+      "video_angle": "Western ASW expertise vs Chinese volume production and modern systems"
+    },
+    {
+      "platform": "Admiral Gorshkov class",
+      "country": "Russia",
+      "relationship": "direct rival",
+      "key_differences": "Gorshkov has superior firepower with 16-cell Redut VLS plus Kalibr/Oniks capability, but smaller numbers and questionable reliability versus Type 23's proven operational record.",
+      "video_angle": "Russian firepower focus vs British operational reliability and NATO integration"
+    },
+    {
+      "platform": "Shivalik class",
+      "country": "India",
+      "relationship": "allied equivalent",
+      "key_differences": "Similar vintage and capability level with comparable ASW focus, but Indian ships have indigenous sensors and weapons integration challenges that Type 23 avoided through mature systems.",
+      "video_angle": "Indigenous development challenges vs proven foreign systems integration"
+    }
+  ],
+  "search_keywords": [
+    "type 23",
+    "type-23",
+    "duke class",
+    "duke-class",
+    "royal navy frigate",
+    "HMS lancaster",
+    "HMS argyll",
+    "HMS iron duke",
+    "sea ceptor",
+    "CAMM",
+    "sonar 2087",
+    "artisan radar"
+  ],
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Royal_Navy_Type_23_Frigate_HMS_Argyll_MOD_45153839.jpg/1280px-Royal_Navy_Type_23_Frigate_HMS_Argyll_MOD_45153839.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/da/Royal_Navy_Type_23_Frigate_HMS_Argyll_MOD_45153839.jpg",
+      "width": 2473,
+      "height": 1979,
+      "title": "Royal Navy Type 23 Frigate HMS Argyll MOD 45153839.jpg",
+      "description": "Royal Navy Type 23 frigate HMS Argyll is pictured at the end of Exercise Goalkeeper in the Middle East.\n<p>Based in Plymouth, HMS Argyll is the longest-serving Type 23 frigate in the Royal Navy. Built",
+      "license": "OGL v1.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Royal_Navy_Type_23_Frigate_HMS_Iron_Duke_at_Sea_MOD_45153015.jpg/1280px-Royal_Navy_Type_23_Frigate_HMS_Iron_Duke_at_Sea_MOD_45153015.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/06/Royal_Navy_Type_23_Frigate_HMS_Iron_Duke_at_Sea_MOD_45153015.jpg",
+      "width": 1979,
+      "height": 2473,
+      "title": "Royal Navy Type 23 Frigate HMS Iron Duke at Sea MOD 45153015.jpg",
+      "description": "HMS Iron Duke is pictured in rough weather in the Indian Ocean.\n<p>The Type 23 frigate is helping to provide security at sea, working with members of the Gulf Cooperation Council and other coalition n",
+      "license": "OGL v1.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Royal_Navy_Type_23_Frigate_HMS_Iron_Duke_at_Sea_MOD_45153016.jpg/1280px-Royal_Navy_Type_23_Frigate_HMS_Iron_Duke_at_Sea_MOD_45153016.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/79/Royal_Navy_Type_23_Frigate_HMS_Iron_Duke_at_Sea_MOD_45153016.jpg",
+      "width": 1806,
+      "height": 2709,
+      "title": "Royal Navy Type 23 Frigate HMS Iron Duke at Sea MOD 45153016.jpg",
+      "description": "HMS Iron Duke is pictured in rough weather in the Indian Ocean.\n<p>The Type 23 frigate is helping to provide security at sea, working with members of the Gulf Cooperation Council and other coalition n",
+      "license": "OGL v1.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Royal_Navy_Type_23_Frigate_HMS_Monmouth_%287637809118%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Royal_Navy_Type_23_Frigate_HMS_Monmouth_%287637809118%29.jpg",
+      "width": 1000,
+      "height": 801,
+      "title": "Royal Navy Type 23 Frigate HMS Monmouth (7637809118).jpg",
+      "description": "<p>Type 23 frigate HMS Monmouth cuts through the English Channel on her way to a deployment in the Middle East.\n</p><p>The 13 Type 23  or Duke-class  frigates are the core of the front-line Fleet. The",
+      "license": "CC BY-SA 2.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Royal_Navy_Type_23_Frigate_silhouette.png",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Royal_Navy_Type_23_Frigate_silhouette.png",
+      "width": 304,
+      "height": 77,
+      "title": "Royal Navy Type 23 Frigate silhouette.png",
+      "description": "Cropped from <a href=\"https://en.wikipedia.org/wiki/Image:Royal_Navy_silhouettes_2004.jpg\" class=\"extiw\" title=\"en:Image:Royal Navy silhouettes 2004.jpg\">:Image:Royal Navy silhouettes 2004.jpg</a> by ",
+      "license": "CC BY-SA 3.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Royal_Navy_Type_23_frigate_HMS_Kent_MOD_45151429.jpg/1280px-Royal_Navy_Type_23_frigate_HMS_Kent_MOD_45151429.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/35/Royal_Navy_Type_23_frigate_HMS_Kent_MOD_45151429.jpg",
+      "width": 3000,
+      "height": 1864,
+      "title": "Royal Navy Type 23 frigate HMS Kent MOD 45151429.jpg",
+      "description": "Royal Navy Type 23 frigate HMS Kent.\n<p>Built by BAe Systems (formerly Yarrow Shipbuilders) at Scotstoun on the River Clyde, the current HMS Kent is the twelfth ship to bear the name. Launched in May ",
+      "license": "OGL v1.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Royal_Navy_Type_23_frigate_HMS_Kent_MOD_45151431.jpg/1280px-Royal_Navy_Type_23_frigate_HMS_Kent_MOD_45151431.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Royal_Navy_Type_23_frigate_HMS_Kent_MOD_45151431.jpg",
+      "width": 3000,
+      "height": 2239,
+      "title": "Royal Navy Type 23 frigate HMS Kent MOD 45151431.jpg",
+      "description": "Royal Navy Type 23 frigate HMS Kent.\n<p>Built by BAe Systems (formerly Yarrow Shipbuilders) at Scotstoun on the River Clyde, the current HMS Kent is the twelfth ship to bear the name. Launched in May ",
+      "license": "OGL v1.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Type_23_Frigate_HMS_Kent_MOD_45152026.jpg/1280px-Type_23_Frigate_HMS_Kent_MOD_45152026.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/22/Type_23_Frigate_HMS_Kent_MOD_45152026.jpg",
+      "width": 1955,
+      "height": 3000,
+      "title": "Type 23 Frigate HMS Kent MOD 45152026.jpg",
+      "description": "Royal Navy Type 23 HMS Kent is pictured as she transits up the Firth of Forth. \n<p>The frigate was heading to the Defence Ammunitions Base at Crombie to off load her ammunition before taking the short",
+      "license": "OGL v1.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Royal_Navy_Type_23_Frigate_HMS_Somerset_MOD_45153155.jpg/1280px-Royal_Navy_Type_23_Frigate_HMS_Somerset_MOD_45153155.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Royal_Navy_Type_23_Frigate_HMS_Somerset_MOD_45153155.jpg",
+      "width": 2855,
+      "height": 1714,
+      "title": "Royal Navy Type 23 Frigate HMS Somerset MOD 45153155.jpg",
+      "description": "Royal Navy Type 23 frigate HMS Somerset is pictured during counter piracy operations in the Indian Ocean.\n<ul><li>Organization: ROYAL NAVY</li>\n<li>Object Name: FZ110124031</li>\n<li>Category: MOD</li>",
+      "license": "OGL v1.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Royal_Navy_Type_23_Frigate_HMS_Sutherland_with_a_Merlin_Helicopter_Overhead_MOD_45153369.jpg/1280px-Royal_Navy_Type_23_Frigate_HMS_Sutherland_with_a_Merlin_Helicopter_Overhead_MOD_45153369.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Royal_Navy_Type_23_Frigate_HMS_Sutherland_with_a_Merlin_Helicopter_Overhead_MOD_45153369.jpg",
+      "width": 1806,
+      "height": 2709,
+      "title": "Royal Navy Type 23 Frigate HMS Sutherland with a Merlin Helicopter Overhead MOD 45153369.jpg",
+      "description": "A Merlin helicopter flies over Royal Navy Type 23 frigate, HMS Sutherland during a Maritime Combat Power Visit (MCPV) in the Solent. \n<p>The week consisted of a rehearsal day, a VVIP influence day and",
+      "license": "OGL v1.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Royal_Navy_Type_23_frigate_HMS_Kent_MOD_45151430.jpg/1280px-Royal_Navy_Type_23_frigate_HMS_Kent_MOD_45151430.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Royal_Navy_Type_23_frigate_HMS_Kent_MOD_45151430.jpg",
+      "width": 3000,
+      "height": 1574,
+      "title": "Royal Navy Type 23 frigate HMS Kent MOD 45151430.jpg",
+      "description": "Royal Navy Type 23 frigate HMS Kent.\n<p>Built by BAe Systems (formerly Yarrow Shipbuilders) at Scotstoun on the River Clyde, the current HMS Kent is the twelfth ship to bear the name. Launched in May ",
+      "license": "OGL v1.0",
+      "source": "wikimedia"
+    }
+  ],
+  "doctrine": {
+    "role": "Flexible maritime presence and crisis response within NATO's integrated defence framework, designed to operate independently or as part of task groups where dedicated ASW capability is essential.",
+    "employment": "Type 23s typically deploy as single-ship patrols for constabulary duties, pair with carriers for ASW screening, or integrate into NATO task groups as the primary submarine hunting asset. They excel in forward presence missions where their endurance and sensor suite provide persistent surveillance capability. Command relationships vary from independent operations under Fleet Command to tactical integration under carrier or amphibious task group commanders, with their Sea Ceptor and helicopter giving them credible self-defence against air and surface threats.",
+    "design_philosophy": "Prioritised acoustic stealth and sensor performance over magazine depth and multi-mission flexibility, accepting a light weapons fit to maximise ASW effectiveness. The design sacrificed speed and heavy armament for exceptional quieting measures and sonar capability, reflecting Cold War assumptions that finding submarines mattered more than engaging multiple surface threats. Later upgrades added Sea Ceptor and improved radar, but the fundamental ASW-first architecture remains unchanged.",
+    "threat_context": "Originally designed to counter quiet Soviet nuclear submarines in the North Atlantic, particularly the Akula and Sierra classes that could threaten NATO sea lanes. The threat has evolved from peer submarine warfare to irregular maritime challenges, hybrid warfare, and the re-emergence of Russian submarine activity, though now Chinese subsurface expansion also drives requirements. Modern operations emphasise constabulary roles and crisis response rather than wartime ASW, but the Type 23's core ASW capability remains relevant against both Russian and emerging threats.",
+    "comparison_frame": "Compare on sonar performance, helicopter integration, and operational endurance rather than VLS count or top speed\u2014ASW-focused frigates prioritise sensor capability over raw firepower. Magazine depth matters less than acoustic signature and the ability to prosecute submarine contacts effectively through helicopter coordination. Measure success by patrol duration, acoustic stealth, and multi-mission adaptability rather than point defence capability, as these platforms are force multipliers for task group ASW rather than standalone combatants."
+  },
+  "curated_sources": [
+    {
+      "title": "British Destroyers & Frigates: The Second World War & After",
+      "type": "book",
+      "url": "",
+      "relevance": "Norman Friedman's definitive analysis of Type 23 design evolution and the Royal Navy's frigate requirements during the Cold War transition.",
+      "priority": "essential"
+    },
+    {
+      "title": "Navy Equipment Plan 2023",
+      "type": "report",
+      "url": "https://www.gov.uk/government/publications/navy-equipment-plan-2023",
+      "relevance": "Official UK Ministry of Defence assessment of Type 23 capability gaps and Type 26 transition timeline.",
+      "priority": "essential"
+    },
+    {
+      "title": "RUSI Defence Systems",
+      "type": "analyst",
+      "url": "https://rusi.org/explore-our-research/publications/rusi-defence-systems",
+      "relevance": "Authoritative UK defence analysis covering Type 23 modernisation programs and Royal Navy surface combatant strategy.",
+      "priority": "essential"
+    },
+    {
+      "title": "The Future Royal Navy Fleet Structure",
+      "type": "report",
+      "url": "https://rusi.org/explore-our-research/publications/occasional-papers/future-royal-navy-fleet-structure",
+      "relevance": "RUSI analysis of how Type 23 capabilities fit within evolving Royal Navy force structure and threat environment.",
+      "priority": "recommended"
+    },
+    {
+      "title": "World Defence Almanac - Type 23 Duke Class",
+      "type": "database",
+      "url": "https://www.seaforces.org/marint/Royal-Navy/Frigate/Type-23-class.htm",
+      "relevance": "Comprehensive technical specifications and modification history for all Type 23 variants and upgrade programs.",
+      "priority": "reference"
+    },
+    {
+      "title": "BR 1806 - British Maritime Doctrine",
+      "type": "report",
+      "url": "",
+      "relevance": "Royal Navy's official doctrinal publication explaining how frigates like the Type 23 contribute to maritime security and power projection concepts.",
+      "priority": "recommended"
+    },
+    {
+      "title": "The Royal Navy: A History from the Earliest Times to 1900",
+      "type": "analyst",
+      "url": "https://www.navylookout.com/",
+      "relevance": "Navy Lookout provides detailed coverage of Type 23 operations, upgrades, and retirement planning with insider Royal Navy perspective.",
+      "priority": "recommended"
+    }
+  ]
+}

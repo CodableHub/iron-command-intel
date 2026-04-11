@@ -1,0 +1,329 @@
+{
+  "combat_history": [
+    {
+      "date": "2020-07",
+      "operation": "Great Prophet 14",
+      "event": "IRIS Fateh participated in Iranian naval exercises in the Persian Gulf, demonstrating torpedo firing and mine-laying capabilities during simulated attacks on mock enemy vessels",
+      "significance": "First public demonstration of operational capability and integration with IRGC naval forces"
+    },
+    {
+      "date": "2021-12",
+      "operation": "Maritime exercise",
+      "event": "Fateh-class submarine conducted extended patrol in Persian Gulf, reportedly remaining submerged for over 14 days during maritime security exercise",
+      "significance": "Demonstrated improved endurance compared to earlier Iranian submarine classes"
+    }
+  ],
+  "modernization": [
+    {
+      "program": "Fateh upgrade program",
+      "status": "in-progress",
+      "timeline": "2023-2025",
+      "description": "Integration of improved sonar systems, upgraded torpedo fire control, and potential air-independent propulsion trials",
+      "impact": "Enhanced stealth and extended submerged endurance for improved Persian Gulf operations"
+    },
+    {
+      "program": "Besat-class development",
+      "status": "planned",
+      "timeline": "2025-2030",
+      "description": "Enlarged Fateh derivative with AIP propulsion and increased weapon load, representing next generation Iranian submarine",
+      "impact": "Would provide Iran with near-peer submarine capability for regional operations"
+    }
+  ],
+  "vulnerabilities": [
+    {
+      "area": "ASW detection",
+      "description": "Limited acoustic quieting compared to modern Western submarines makes detection easier for advanced ASW platforms",
+      "context": "US P-8 Poseidons and Virginia-class submarines operating in region have significant acoustic advantage",
+      "mitigation": "Relies on shallow water masking and limited operating areas in Persian Gulf"
+    },
+    {
+      "area": "Weapon systems",
+      "description": "Unproven torpedo and missile systems with questionable reliability and accuracy against modern targets",
+      "context": "Never tested against actual enemy vessels with modern countermeasures",
+      "mitigation": "Emphasis on mine warfare and area denial rather than direct engagement"
+    },
+    {
+      "area": "Maintenance and logistics",
+      "description": "Sanctions limit access to advanced submarine components and maintenance equipment",
+      "context": "International isolation restricts technology transfer and spare parts availability",
+      "mitigation": "Domestic production emphasis but with significant quality gaps"
+    },
+    {
+      "area": "Crew training",
+      "description": "Limited training opportunities and lack of submarine warfare experience against modern adversaries",
+      "context": "Iranian submariners lack exposure to contemporary ASW tactics and countermeasures",
+      "mitigation": "Extensive domestic exercises and potential cooperation with Russia/China"
+    }
+  ],
+  "operational_patterns": {
+    "typical_deployment": "Persian Gulf patrol and Strait of Hormuz area denial",
+    "deployment_length_months": 1,
+    "key_operating_areas": [
+      "Persian Gulf",
+      "Strait of Hormuz",
+      "Gulf of Oman"
+    ],
+    "typical_task_group": "Independent operations or coordination with IRGC fast attack craft",
+    "readiness_notes": "Limited by maintenance capabilities and crew training, estimated 60% readiness rate"
+  },
+  "peer_comparisons": [
+    {
+      "platform": "Type 209 submarine",
+      "country": "Germany/Export",
+      "relationship": "capability benchmark",
+      "key_differences": "Type 209 has proven combat systems and superior acoustic signature but Fateh optimized for specific Persian Gulf conditions. Fateh represents 1980s technology equivalent.",
+      "video_angle": "David vs Goliath: How Iran's submarines challenge US naval dominance"
+    },
+    {
+      "platform": "Dolphin-class submarine",
+      "country": "Israel",
+      "relationship": "regional rival",
+      "key_differences": "Dolphin-class significantly more capable with AIP, modern combat systems, and suspected nuclear capability. Represents what Iran aspires to achieve.",
+      "video_angle": "Underwater arms race: Israeli Dolphins vs Iranian Fatehs in regional balance"
+    },
+    {
+      "platform": "Scorp\u00e8ne-class submarine",
+      "country": "France/Export",
+      "relationship": "technology generation comparison",
+      "key_differences": "Scorp\u00e8ne represents modern export submarine with advanced sensors and weapons. Fateh is roughly 20-30 years behind in technology.",
+      "video_angle": "How sanctions shaped Iran's submarine program vs global alternatives"
+    },
+    {
+      "platform": "Romeo-class submarine",
+      "country": "China/Export",
+      "relationship": "predecessor influence",
+      "key_differences": "Fateh incorporates some Romeo-class design elements but with modern diesel-electric propulsion. Both optimized for coastal operations.",
+      "video_angle": "Evolution of Chinese submarine technology export to Iran"
+    }
+  ],
+  "search_keywords": [
+    "fateh class",
+    "fateh-class",
+    "iran submarine",
+    "iranian navy",
+    "iris fateh",
+    "persian gulf submarine",
+    "strait of hormuz",
+    "asymmetric naval warfare"
+  ],
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/ENS_El_Fateh_Aug_2022.jpg/1280px-ENS_El_Fateh_Aug_2022.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/ENS_El_Fateh_Aug_2022.jpg",
+      "width": 3849,
+      "height": 2537,
+      "title": "ENS El Fateh Aug 2022.jpg",
+      "description": "220824-N-DH616-2010-MEDITERRANEAN SEA-August 24th, 2022. Gowind-class corvette ENS El Fateh (971) took part in a sailing exercise with members of Standing NATO Maritime Group Two (SNMG2). The exercise",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/ENS_El_Fateh_Aug_2022_%28cropped%29.jpg/1280px-ENS_El_Fateh_Aug_2022_%28cropped%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/d7/ENS_El_Fateh_Aug_2022_%28cropped%29.jpg",
+      "width": 2212,
+      "height": 1479,
+      "title": "ENS El Fateh Aug 2022 (cropped).jpg",
+      "description": "220824-N-DH616-2010-MEDITERRANEAN SEA-August 24th, 2022. Gowind-class corvette ENS El Fateh (971) took part in a sailing exercise with members of Standing NATO Maritime Group Two (SNMG2). The exercise",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Fateh_%28702%29.jpg/1280px-Fateh_%28702%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/52/Fateh_%28702%29.jpg",
+      "width": 3872,
+      "height": 2592,
+      "title": "Fateh (702).jpg",
+      "description": "The Iraq navy patrol ship Fateh while patrol ship Nasir arrives in Umm Qasr.",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Islamic_Republic_of_Iran_Navy_new_equipment_unveiling_2018_%2886%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Islamic_Republic_of_Iran_Navy_new_equipment_unveiling_2018_%2886%29.jpg",
+      "width": 800,
+      "height": 557,
+      "title": "Islamic Republic of Iran Navy new equipment unveiling 2018 (86).jpg",
+      "description": "\u0645\u0631\u0627\u0633\u0645 \u0631\u0648\u0646\u0645\u0627\u06cc\u06cc \u0627\u0632 \u062f\u0633\u062a\u0627\u0648\u0631\u062f \u0647\u0627\u06cc \u0646\u06cc\u0631\u0648\u06cc \u062f\u0631\u06cc\u0627\u06cc\u06cc \u0627\u0631\u062a\u0634 \u0635\u0628\u062d \u0627\u0645\u0631\u0648\u0632 \u06f1\u06f7 \u0622\u0630\u0631 \u0628\u0627 \u062d\u0636\u0648\u0631 \u062d\u0628\u06cc\u0628\u200c\u0627\u0644\u0644\u0647 \u0633\u06cc\u0627\u0631\u06cc \u0645\u0639\u0627\u0648\u0646 \u0647\u0645\u0627\u0647\u0646\u06af\u200c\u06a9\u0646\u0646\u062f\u0647 \u0627\u0631\u062a\u0634 \u0648 \u062d\u0633\u06cc\u0646 \u062e\u0627\u0646\u0632\u0627\u062f\u06cc \u0641\u0631\u0645\u0627\u0646\u062f\u0647 \u0646\u06cc\u0631\u0648\u06cc \u062f\u0631\u06cc\u0627\u06cc\u06cc \u0627\u0631\u062a\u0634 \u062f\u0631 \u0633\u062a\u0627\u062f \u0646\u06cc\u0631\u0648\u06cc \u062f\u0631\u06cc\u0627\u06cc\u06cc \u0628\u0631\u06af\u0632\u0627\u0631 \u0634\u062f.",
+      "license": "CC BY 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/35/Islamic_Republic_of_Iran_Navy_new_equipment_unveiling_2018_%2892%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/35/Islamic_Republic_of_Iran_Navy_new_equipment_unveiling_2018_%2892%29.jpg",
+      "width": 1050,
+      "height": 700,
+      "title": "Islamic Republic of Iran Navy new equipment unveiling 2018 (92).jpg",
+      "description": "\u0645\u0631\u0627\u0633\u0645 \u0631\u0648\u0646\u0645\u0627\u06cc\u06cc \u0627\u0632 \u062f\u0633\u062a\u0627\u0648\u0631\u062f\u0647\u0627\u06cc \u062c\u062f\u06cc\u062f \u0646\u06cc\u0631\u0648\u06cc \u062f\u0631\u06cc\u0627\u06cc\u06cc\u060c \u0635\u0628\u062d \u0627\u0645\u0631\u0648\u0632 \u0634\u0646\u0628\u0647 \u06f1\u06f7 \u0622\u0630\u0631 \u06f1\u06f3\u06f9\u06f7 \u0628\u0627 \u062d\u0636\u0648\u0631 \u0627\u0645\u06cc\u0631 \u062f\u0631\u06cc\u0627\u062f\u0627\u0631 \u062d\u0628\u06cc\u0628 \u0627\u0644\u0644\u0647 \u0633\u06cc\u0627\u0631\u06cc \u0645\u0639\u0627\u0648\u0646 \u0647\u0645\u0627\u0647\u0646\u06af \u06a9\u0646\u0646\u062f\u0647 \u0627\u0631\u062a\u0634 \u0648 \u0627\u0645\u06cc\u0631\u062f\u0631\u06cc\u0627\u062f\u0627\u0631 \u062d\u0633\u06cc\u0646 \u062e\u0627\u0646\u0632\u0627\u062f\u06cc\u060c \u0641\u0631\u0645\u0627\u0646\u062f\u0647 \u0646\u06cc\u0631\u0648\u06cc \u062f\u0631\u06cc\u0627\u06cc\u06cc \u0627\u0631\u062a\u0634 \u062f\u0631 \u0645\u0642\u0631 \u0641\u0631\u0645\u0627",
+      "license": "CC BY 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Nasir_%28701%29.jpg/1280px-Nasir_%28701%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Nasir_%28701%29.jpg",
+      "width": 3872,
+      "height": 2592,
+      "title": "Nasir (701).jpg",
+      "description": "The patrol ship Nasir arrives in Umm Qasar",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Nasir_Umm_Qasr.jpg/1280px-Nasir_Umm_Qasr.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/73/Nasir_Umm_Qasr.jpg",
+      "width": 3872,
+      "height": 2592,
+      "title": "Nasir Umm Qasr.jpg",
+      "description": "The Iraqi Patrol Ship Nasir arrives at it's homeport of Umm Qasar after a 5000 mile trip from the Fincantieri Shipyard in La Spezia, Italy.",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/RBNS_Ahmed_Al-Fateh_%2820%29_sails_in_the_Arabian_Gulf_during_exercise_Sentinel_Shield_on_23_August_2022.jpg/1280px-RBNS_Ahmed_Al-Fateh_%2820%29_sails_in_the_Arabian_Gulf_during_exercise_Sentinel_Shield_on_23_August_2022.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/8d/RBNS_Ahmed_Al-Fateh_%2820%29_sails_in_the_Arabian_Gulf_during_exercise_Sentinel_Shield_on_23_August_2022.jpg",
+      "width": 2921,
+      "height": 1558,
+      "title": "RBNS Ahmed Al-Fateh (20) sails in the Arabian Gulf during exercise Sentinel Shield on 23 August 2022.jpg",
+      "description": "220823-N-NO146-1001 ARABIAN GULF (Aug. 23, 2022) Royal Bahrain Naval Force patrol boat RBNS Ahmed Al-Fateh (P20) sails in the Arabian Gulf during exercise Sentinel Shield, Aug. 23. (U.S. Coast Guard P",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Commissioning_ceremony_of_Fateh_submarine_%2801%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Commissioning_ceremony_of_Fateh_submarine_%2801%29.jpg",
+      "width": 1000,
+      "height": 666,
+      "title": "Commissioning ceremony of Fateh submarine (01).jpg",
+      "description": "\u0645\u0631\u0627\u0633\u0645 \u0627\u0644\u062d\u0627\u0642 \u0632\u06cc\u0631 \u062f\u0631\u06cc\u0627\u06cc\u06cc \u067e\u06cc\u0634\u0631\u0641\u062a\u0647 \u00ab\u0641\u0627\u062a\u062d\u00bb \u0628\u0647 \u0646\u0627\u0648\u06af\u0627\u0646 \u0646\u06cc\u0631\u0648\u06cc \u062f\u0631\u06cc\u0627\u06cc \u0631\u0627\u0647\u0628\u0631\u062f\u06cc \u0627\u0631\u062a\u0634 \u062c\u0645\u0647\u0648\u0631\u06cc \u0627\u0633\u0644\u0627\u0645\u06cc \u0627\u06cc\u0631\u0627\u0646 \u0628\u0627 \u062d\u0636\u0648\u0631 \u062d\u0633\u0646 \u0631\u0648\u062d\u0627\u0646\u06cc \u0631\u06cc\u06cc\u0633 \u062c\u0645\u0647\u0648\u0631\u06cc \u0648 \u062c\u0645\u0639\u06cc \u0627\u0632 \u0645\u0633\u0626\u0648\u0644\u06cc\u0646 \u0648 \u0641\u0631\u0645\u0627\u0646\u062f\u0647\u0627\u0646 \u0627\u0631\u0634\u062f \u0646\u0638\u0627\u0645\u06cc \u062f\u0631 \u062f\u0631 \u0628\u0646\u062f\u0631\u0639\u0628\u0627\u0633 \u0628\u0631\u06af\u0632\u0627\u0631 \u0634\u062f.",
+      "license": "CC BY 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/81/Commissioning_ceremony_of_Fateh_submarine_%2807%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/81/Commissioning_ceremony_of_Fateh_submarine_%2807%29.jpg",
+      "width": 1000,
+      "height": 666,
+      "title": "Commissioning ceremony of Fateh submarine (07).jpg",
+      "description": "\u0645\u0631\u0627\u0633\u0645 \u0627\u0644\u062d\u0627\u0642 \u0632\u06cc\u0631 \u062f\u0631\u06cc\u0627\u06cc\u06cc \u067e\u06cc\u0634\u0631\u0641\u062a\u0647 \u00ab\u0641\u0627\u062a\u062d\u00bb \u0628\u0647 \u0646\u0627\u0648\u06af\u0627\u0646 \u0646\u06cc\u0631\u0648\u06cc \u062f\u0631\u06cc\u0627\u06cc \u0631\u0627\u0647\u0628\u0631\u062f\u06cc \u0627\u0631\u062a\u0634 \u062c\u0645\u0647\u0648\u0631\u06cc \u0627\u0633\u0644\u0627\u0645\u06cc \u0627\u06cc\u0631\u0627\u0646 \u0628\u0627 \u062d\u0636\u0648\u0631 \u062d\u0633\u0646 \u0631\u0648\u062d\u0627\u0646\u06cc \u0631\u06cc\u06cc\u0633 \u062c\u0645\u0647\u0648\u0631\u06cc \u0648 \u062c\u0645\u0639\u06cc \u0627\u0632 \u0645\u0633\u0626\u0648\u0644\u06cc\u0646 \u0648 \u0641\u0631\u0645\u0627\u0646\u062f\u0647\u0627\u0646 \u0627\u0631\u0634\u062f \u0646\u0638\u0627\u0645\u06cc \u062f\u0631 \u062f\u0631 \u0628\u0646\u062f\u0631\u0639\u0628\u0627\u0633 \u0628\u0631\u06af\u0632\u0627\u0631 \u0634\u062f.",
+      "license": "CC BY 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Commissioning_ceremony_of_Fateh_submarine_%2814%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Commissioning_ceremony_of_Fateh_submarine_%2814%29.jpg",
+      "width": 1000,
+      "height": 666,
+      "title": "Commissioning ceremony of Fateh submarine (14).jpg",
+      "description": "\u0645\u0631\u0627\u0633\u0645 \u0627\u0644\u062d\u0627\u0642 \u0632\u06cc\u0631 \u062f\u0631\u06cc\u0627\u06cc\u06cc \u067e\u06cc\u0634\u0631\u0641\u062a\u0647 \u00ab\u0641\u0627\u062a\u062d\u00bb \u0628\u0647 \u0646\u0627\u0648\u06af\u0627\u0646 \u0646\u06cc\u0631\u0648\u06cc \u062f\u0631\u06cc\u0627\u06cc \u0631\u0627\u0647\u0628\u0631\u062f\u06cc \u0627\u0631\u062a\u0634 \u062c\u0645\u0647\u0648\u0631\u06cc \u0627\u0633\u0644\u0627\u0645\u06cc \u0627\u06cc\u0631\u0627\u0646 \u0628\u0627 \u062d\u0636\u0648\u0631 \u062d\u0633\u0646 \u0631\u0648\u062d\u0627\u0646\u06cc \u0631\u06cc\u06cc\u0633 \u062c\u0645\u0647\u0648\u0631\u06cc \u0648 \u062c\u0645\u0639\u06cc \u0627\u0632 \u0645\u0633\u0626\u0648\u0644\u06cc\u0646 \u0648 \u0641\u0631\u0645\u0627\u0646\u062f\u0647\u0627\u0646 \u0627\u0631\u0634\u062f \u0646\u0638\u0627\u0645\u06cc \u062f\u0631 \u062f\u0631 \u0628\u0646\u062f\u0631\u0639\u0628\u0627\u0633 \u0628\u0631\u06af\u0632\u0627\u0631 \u0634\u062f.",
+      "license": "CC BY 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Commissioning_ceremony_of_Fateh_submarine_%2849%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Commissioning_ceremony_of_Fateh_submarine_%2849%29.jpg",
+      "width": 1000,
+      "height": 666,
+      "title": "Commissioning ceremony of Fateh submarine (49).jpg",
+      "description": "\u0645\u0631\u0627\u0633\u0645 \u0627\u0644\u062d\u0627\u0642 \u0632\u06cc\u0631 \u062f\u0631\u06cc\u0627\u06cc\u06cc \u067e\u06cc\u0634\u0631\u0641\u062a\u0647 \u00ab\u0641\u0627\u062a\u062d\u00bb \u0628\u0647 \u0646\u0627\u0648\u06af\u0627\u0646 \u0646\u06cc\u0631\u0648\u06cc \u062f\u0631\u06cc\u0627\u06cc \u0631\u0627\u0647\u0628\u0631\u062f\u06cc \u0627\u0631\u062a\u0634 \u062c\u0645\u0647\u0648\u0631\u06cc \u0627\u0633\u0644\u0627\u0645\u06cc \u0627\u06cc\u0631\u0627\u0646 \u0628\u0627 \u062d\u0636\u0648\u0631 \u062d\u0633\u0646 \u0631\u0648\u062d\u0627\u0646\u06cc \u0631\u06cc\u06cc\u0633 \u062c\u0645\u0647\u0648\u0631\u06cc \u0648 \u062c\u0645\u0639\u06cc \u0627\u0632 \u0645\u0633\u0626\u0648\u0644\u06cc\u0646 \u0648 \u0641\u0631\u0645\u0627\u0646\u062f\u0647\u0627\u0646 \u0627\u0631\u0634\u062f \u0646\u0638\u0627\u0645\u06cc \u062f\u0631 \u062f\u0631 \u0628\u0646\u062f\u0631\u0639\u0628\u0627\u0633 \u0628\u0631\u06af\u0632\u0627\u0631 \u0634\u062f.",
+      "license": "CC BY 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Fateh-class_submarine.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Fateh-class_submarine.jpg",
+      "width": 1000,
+      "height": 666,
+      "title": "Fateh-class submarine.jpg",
+      "description": "Iranian Fateh-class submarine at its commissioning ceremony.",
+      "license": "CC BY 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Fateh_submarine_joining_Army%27s_naval_fleet_-_Feb_2019_-_95.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Fateh_submarine_joining_Army%27s_naval_fleet_-_Feb_2019_-_95.jpg",
+      "width": 1000,
+      "height": 667,
+      "title": "Fateh submarine joining Army's naval fleet - Feb 2019 - 95.jpg",
+      "description": "BANDAR ABBAS, Feb. 18 (MNA) \u2013 Home-made Fateh submarine joined the Iranian Army naval fleet on Sunday in the presence of President Hassan Rouhani in southern Iran.",
+      "license": "CC BY 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/32/Opening_naval_review_of_Velayat_97_%2832%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/32/Opening_naval_review_of_Velayat_97_%2832%29.jpg",
+      "width": 800,
+      "height": 557,
+      "title": "Opening naval review of Velayat 97 (32).jpg",
+      "description": "\u0631\u0632\u0645\u0627\u06cc\u0634 \u062f\u0631\u06cc\u0627\u06cc\u06cc \u0648\u0644\u0627\u06cc\u062a \u0669\u0667 \u0628\u0627 \u0631\u0698\u0647 \u0628\u0632\u0631\u06af \u06cc\u06af\u0627\u0646 \u0647\u0627\u06cc \u0633\u0637\u062d\u06cc\u060c \u0632\u06cc\u0631\u0633\u0637\u062d\u06cc \u0648 \u067e\u0631\u0648\u0627\u0632\u06cc \u0646\u06cc\u0631\u0648\u06cc \u062f\u0631\u06cc\u0627\u06cc\u06cc \u0627\u0631\u062a\u0634 \u062f\u0631 \u0645\u0646\u0637\u0642\u0647 \u0645\u06a9\u0631\u0627\u0646 \u0622\u063a\u0627\u0632 \u0634\u062f.\u0627\u06cc\u0646 \u0631\u0632\u0645\u0627\u06cc\u0634 \u0628\u0647 \u0645\u062f\u062a \u06f3 \u0631\u0648\u0632 \u0627\u0632 \u0635\u0628\u062d \u0627\u0645\u0631\u0648\u0632 \u0628\u0627 \u0627\u0646\u062c\u0627\u0645 \u0631\u0698\u0647 \u062f\u0631\u06cc\u0627\u06cc\u06cc \u0627\u0646\u0648\u0627\u0639 \u0634\u0646\u0627\u0648\u0631\u0647\u0627\u06cc \u0633\u0637\u062d\u06cc \u0648 \u0632\u06cc\u0631 \u0633\u0637\u062d\u06cc \u0648 \u06cc\u06af",
+      "license": "CC BY 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/be/Opening_naval_review_of_Velayat_97_%2833%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/be/Opening_naval_review_of_Velayat_97_%2833%29.jpg",
+      "width": 800,
+      "height": 530,
+      "title": "Opening naval review of Velayat 97 (33).jpg",
+      "description": "\u0631\u0632\u0645\u0627\u06cc\u0634 \u062f\u0631\u06cc\u0627\u06cc\u06cc \u0648\u0644\u0627\u06cc\u062a \u0669\u0667 \u0628\u0627 \u0631\u0698\u0647 \u0628\u0632\u0631\u06af \u06cc\u06af\u0627\u0646 \u0647\u0627\u06cc \u0633\u0637\u062d\u06cc\u060c \u0632\u06cc\u0631\u0633\u0637\u062d\u06cc \u0648 \u067e\u0631\u0648\u0627\u0632\u06cc \u0646\u06cc\u0631\u0648\u06cc \u062f\u0631\u06cc\u0627\u06cc\u06cc \u0627\u0631\u062a\u0634 \u062f\u0631 \u0645\u0646\u0637\u0642\u0647 \u0645\u06a9\u0631\u0627\u0646 \u0622\u063a\u0627\u0632 \u0634\u062f.\u0627\u06cc\u0646 \u0631\u0632\u0645\u0627\u06cc\u0634 \u0628\u0647 \u0645\u062f\u062a \u06f3 \u0631\u0648\u0632 \u0627\u0632 \u0635\u0628\u062d \u0627\u0645\u0631\u0648\u0632 \u0628\u0627 \u0627\u0646\u062c\u0627\u0645 \u0631\u0698\u0647 \u062f\u0631\u06cc\u0627\u06cc\u06cc \u0627\u0646\u0648\u0627\u0639 \u0634\u0646\u0627\u0648\u0631\u0647\u0627\u06cc \u0633\u0637\u062d\u06cc \u0648 \u0632\u06cc\u0631 \u0633\u0637\u062d\u06cc \u0648 \u06cc\u06af",
+      "license": "CC BY 4.0",
+      "source": "wikimedia"
+    }
+  ],
+  "doctrine": {
+    "role": "Area denial and sea control in the Persian Gulf and Strait of Hormuz, designed to counter superior naval forces through asymmetric warfare in confined, shallow waters.",
+    "employment": "Operated as part of Iran's layered coastal defense strategy alongside fast attack craft, naval mines, and shore-based anti-ship missiles. Typically employed in small groups for ambush tactics, targeting high-value units like aircraft carriers and amphibious vessels. Command structure integrates with IRGC Navy for coordinated swarming attacks, while Islamic Republic Navy maintains operational control of conventional submarine operations.",
+    "design_philosophy": "Prioritized small size, quiet operation, and shallow-water capability over endurance and firepower, sacrificing blue-water range and heavy torpedo loads for maneuverability in the Persian Gulf's average 35-meter depths. Indigenous production capability was valued over absolute performance, accepting technological limitations to achieve strategic autonomy.",
+    "threat_context": "Originally designed to counter U.S. Fifth Fleet operations during the 2000s-2010s period of maximum tension, when large carrier strike groups represented the primary threat. The threat environment has evolved to include more distributed operations by adversaries and increased emphasis on unmanned systems, potentially reducing the relevance of traditional submarine ambush tactics.",
+    "comparison_frame": "Compare primarily on shallow-water performance, acoustic signature, and cost-effectiveness rather than absolute firepower or endurance. Displacement and diving depth matter more than speed or sensor range, as engagement scenarios assume short-range detection in confined waters where stealth trumps sustained operations."
+  },
+  "curated_sources": [
+    {
+      "title": "Iran's Naval Forces: From Guerrilla Warfare to a Modern Naval Strategy",
+      "type": "book",
+      "url": "",
+      "relevance": "Provides comprehensive analysis of Iranian naval doctrine and the role of submarines within Iran's asymmetric maritime strategy.",
+      "priority": "essential"
+    },
+    {
+      "title": "Iran's Navy: How to Study a Closed Military Organization",
+      "type": "report",
+      "url": "https://www.washingtoninstitute.org/policy-analysis/irans-navy-how-study-closed-military-organization",
+      "relevance": "Offers methodological framework for analyzing Iranian naval capabilities and doctrine despite limited open-source information.",
+      "priority": "essential"
+    },
+    {
+      "title": "HI Sutton - Covert Shores",
+      "type": "analyst",
+      "url": "https://www.hisutton.com/",
+      "relevance": "Leading open-source analyst on submarine developments with detailed technical analysis of Iranian submarine programs including Fateh-class specifications.",
+      "priority": "essential"
+    },
+    {
+      "title": "Iran's Fateh Class Submarine - Naval Technology",
+      "type": "database",
+      "url": "https://www.naval-technology.com/projects/fateh-class-submarine/",
+      "relevance": "Technical specifications database entry with construction details and reported capabilities of the Fateh-class program.",
+      "priority": "recommended"
+    },
+    {
+      "title": "Iran's Naval Strategy in the Persian Gulf",
+      "type": "report",
+      "url": "https://www.csis.org/analysis/irans-naval-forces-and-weapons-mass-destruction",
+      "relevance": "CSIS analysis of Iranian naval strategy placing submarine development within broader regional security context.",
+      "priority": "recommended"
+    },
+    {
+      "title": "The Iranian Military's Capacity to Threaten Shipping in the Persian Gulf",
+      "type": "report",
+      "url": "https://rusi.org/explore-our-research/publications/commentary/iranian-militarys-capacity-threaten-shipping-persian-gulf",
+      "relevance": "RUSI assessment of Iran's anti-shipping capabilities including submarine warfare potential in Gulf scenarios.",
+      "priority": "recommended"
+    },
+    {
+      "title": "World Directory of Modern Military Warships - Iran",
+      "type": "database",
+      "url": "https://www.wdmma.org/iran.php",
+      "relevance": "Comprehensive database entry tracking Iranian submarine fleet composition and modernization programs.",
+      "priority": "reference"
+    }
+  ]
+}

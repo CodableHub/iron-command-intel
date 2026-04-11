@@ -1,0 +1,318 @@
+{
+  "combat_history": [],
+  "modernization": [
+    {
+      "program": "Future Maritime Strike Capability",
+      "status": "planned",
+      "timeline": "2030s",
+      "description": "Integration of long-range strike missiles, likely Naval Strike Missile or similar anti-ship capability",
+      "impact": "Would provide credible anti-surface warfare capability currently lacking"
+    },
+    {
+      "program": "Mission Bay Modules",
+      "status": "in-progress",
+      "timeline": "2028-2035",
+      "description": "Development of containerized mission modules for MCM, hydrographic survey, and special forces support",
+      "impact": "Enables multi-role capability and operational flexibility"
+    }
+  ],
+  "vulnerabilities": [
+    {
+      "area": "Air Defense",
+      "description": "Limited to 24 Sea Ceptor missiles with no area air defense capability or long-range engagement",
+      "context": "Vulnerable to saturation attacks or advanced air threats in contested environments",
+      "mitigation": "Relies on task group air defense or land-based air cover"
+    },
+    {
+      "area": "Anti-Ship Capability",
+      "description": "No dedicated anti-ship missiles in baseline configuration, relying on 57mm gun and helicopter-delivered weapons",
+      "context": "Cannot credibly engage modern surface combatants beyond gun range",
+      "mitigation": "Future missile integration planned but not funded"
+    },
+    {
+      "area": "Electronic Warfare",
+      "description": "Basic EW suite compared to peer platforms, limited cyber hardening disclosure",
+      "context": "Vulnerable to sophisticated electronic attack in near-peer conflicts",
+      "mitigation": "Classified upgrades possible but not publicly acknowledged"
+    },
+    {
+      "area": "Crew Size",
+      "description": "Small crew of 100 limits damage control capability and sustained operations",
+      "context": "Reduced redundancy compared to larger frigate classes",
+      "mitigation": "Automation and simplified systems designed to compensate"
+    }
+  ],
+  "operational_patterns": {
+    "typical_deployment": "Global presence operations, maritime security, low-intensity escort duties",
+    "deployment_length_months": 7,
+    "key_operating_areas": [
+      "Caribbean",
+      "West Africa",
+      "Indo-Pacific",
+      "Mediterranean"
+    ],
+    "typical_task_group": "Independent operations or with RFA support vessels",
+    "readiness_notes": "New class with unproven maintenance requirements and automation systems"
+  },
+  "peer_comparisons": [
+    {
+      "platform": "Admiral Gorshkov-class frigate",
+      "country": "Russia",
+      "relationship": "direct rival",
+      "key_differences": "Gorshkov has superior firepower with Kalibr missiles and Poliment-Redut SAMs, but Type 31 emphasizes reliability and cost-effectiveness over raw capability",
+      "video_angle": "East vs West frigate philosophy - capability vs affordability"
+    },
+    {
+      "platform": "FREMM frigate",
+      "country": "France/Italy",
+      "relationship": "allied equivalent",
+      "key_differences": "FREMM is significantly more capable with Aster missiles and better ASW systems, but costs nearly double the Type 31 unit price",
+      "video_angle": "European frigate approaches - premium capability vs fleet numbers"
+    },
+    {
+      "platform": "Constellation-class frigate",
+      "country": "United States",
+      "relationship": "allied equivalent",
+      "key_differences": "Constellation has Aegis integration and 32 VLS cells vs Type 31's 24, representing US preference for individual unit capability over cost",
+      "video_angle": "Anglo-American frigate divergence post-Cold War"
+    },
+    {
+      "platform": "Type 054A frigate",
+      "country": "China",
+      "relationship": "direct rival",
+      "key_differences": "Type 054A has superior missile armament with 32 VLS cells and HQ-16 SAMs, but Type 31 has better sensors and crew efficiency",
+      "video_angle": "Democratic vs authoritarian naval procurement models"
+    },
+    {
+      "platform": "Iver Huitfeldt-class",
+      "country": "Denmark",
+      "relationship": "predecessor",
+      "key_differences": "Type 31 based on Danish hull but with UK-specific systems integration and reduced capability for cost savings",
+      "video_angle": "How navies adapt foreign designs for national requirements"
+    }
+  ],
+  "search_keywords": [
+    "type 31",
+    "type-31",
+    "inspiration class",
+    "inspiration-class",
+    "babcock frigate",
+    "venturer",
+    "active",
+    "bulldog",
+    "campbeltown",
+    "formidable",
+    "sea ceptor",
+    "royal navy frigate"
+  ],
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Admiral_Sir_Ben_Key%2C_First_Sea_Lord_%28cropped%29.jpg/1280px-Admiral_Sir_Ben_Key%2C_First_Sea_Lord_%28cropped%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/41/Admiral_Sir_Ben_Key%2C_First_Sea_Lord_%28cropped%29.jpg",
+      "width": 1835,
+      "height": 2564,
+      "title": "Admiral Sir Ben Key, First Sea Lord (cropped).jpg",
+      "description": "The torch of Naval leadership today changed hands as Admiral Sir Ben Key became the nation\u2019s most senior sailor.Aboard Nelson\u2019s flagship Victory, he took over as First Sea Lord from Admiral Sir Tony R",
+      "license": "OGL 3",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Ben_Key_2021.jpg/1280px-Ben_Key_2021.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/10/Ben_Key_2021.jpg",
+      "width": 5464,
+      "height": 5464,
+      "title": "Ben Key 2021.jpg",
+      "description": "The torch of Naval leadership today changed hands as Admiral Sir Ben Key became the nation\u2019s most senior sailor.Aboard Nelson\u2019s flagship Victory, he took over as First Sea Lord from Admiral Sir Tony R",
+      "license": "OGL 3",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Ben_Key_2021_%28cropped%29.jpg/1280px-Ben_Key_2021_%28cropped%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Ben_Key_2021_%28cropped%29.jpg",
+      "width": 3737,
+      "height": 4952,
+      "title": "Ben Key 2021 (cropped).jpg",
+      "description": "The torch of Naval leadership today changed hands as Admiral Sir Ben Key became the nation\u2019s most senior sailor.Aboard Nelson\u2019s flagship Victory, he took over as First Sea Lord from Admiral Sir Tony R",
+      "license": "OGL 3",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Future_of_the_Royal_Navy_2025.png/1280px-Future_of_the_Royal_Navy_2025.png",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/87/Future_of_the_Royal_Navy_2025.png",
+      "width": 4400,
+      "height": 4104,
+      "title": "Future of the Royal Navy 2025.png",
+      "description": "Silhouettes of all planned future ships of the Royal Navy from the end of 2024",
+      "license": "CC BY 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/HMS_Formidable_steel_cutting_ceremony.jpg/1280px-HMS_Formidable_steel_cutting_ceremony.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/52/HMS_Formidable_steel_cutting_ceremony.jpg",
+      "width": 1500,
+      "height": 1000,
+      "title": "HMS Formidable steel cutting ceremony.jpg",
+      "description": "HMS Formidable steel cutting ceremony, including Luke Pollard MP, Minister for the Armed Forces; David Lockwood, CEO of Babcock; and Commodore Stephen Roberts, SRO for the T31 Frigates",
+      "license": "OGL 3",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/HMS_Formidable_steel_cutting_ceremony_%28Cdre_Roberts_cropped%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/HMS_Formidable_steel_cutting_ceremony_%28Cdre_Roberts_cropped%29.jpg",
+      "width": 175,
+      "height": 175,
+      "title": "HMS Formidable steel cutting ceremony (Cdre Roberts cropped).jpg",
+      "description": "HMS Formidable steel cutting ceremony, including Luke Pollard MP, Minister for the Armed Forces; David Lockwood, CEO of Babcock; and Commodore Stephen Roberts, SRO for the T31 Frigates",
+      "license": "OGL 3",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/IVER_001.jpg/1280px-IVER_001.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/71/IVER_001.jpg",
+      "width": 5184,
+      "height": 3456,
+      "title": "IVER 001.jpg",
+      "description": "IVER HUITFELDT in Fredericia, Denmark - January 2011",
+      "license": "CC BY-SA 3.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Sir_Ben_Key_becomes_First_Sea_Lord%2C_succeeding_Sir_Tony_Radakin.jpg/1280px-Sir_Ben_Key_becomes_First_Sea_Lord%2C_succeeding_Sir_Tony_Radakin.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/36/Sir_Ben_Key_becomes_First_Sea_Lord%2C_succeeding_Sir_Tony_Radakin.jpg",
+      "width": 5440,
+      "height": 4352,
+      "title": "Sir Ben Key becomes First Sea Lord, succeeding Sir Tony Radakin.jpg",
+      "description": "The torch of Naval leadership today changed hands as Admiral Sir Ben Key became the nation\u2019s most senior sailor.Aboard Nelson\u2019s flagship Victory, he took over as First Sea Lord from Admiral Sir Tony R",
+      "license": "OGL 3",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/160803-N-RY232-001_-_Navy_Working_Uniform_%28NWU%29_Type_III.jpg/1280px-160803-N-RY232-001_-_Navy_Working_Uniform_%28NWU%29_Type_III.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/160803-N-RY232-001_-_Navy_Working_Uniform_%28NWU%29_Type_III.jpg",
+      "width": 1500,
+      "height": 2100,
+      "title": "160803-N-RY232-001 - Navy Working Uniform (NWU) Type III.jpg",
+      "description": "160803-N-RY232-001 \nWASHINGTON (Aug. 3, 2016) The Dept. of the Navy announced that it will transition from the Navy Working Uniform (NWU) Type I to the NWU Type III as its primary shore working unifor",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/22/160803-N-RY232-001_-_Navy_Working_Uniform_%28NWU%29_Type_III.png",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/22/160803-N-RY232-001_-_Navy_Working_Uniform_%28NWU%29_Type_III.png",
+      "width": 588,
+      "height": 1828,
+      "title": "160803-N-RY232-001 - Navy Working Uniform (NWU) Type III.png",
+      "description": "160803-N-RY232-001 \nWASHINGTON (Aug. 3, 2016) The Dept. of the Navy announced that it will transition from the Navy Working Uniform (NWU) Type I to the NWU Type III as its primary shore working unifor",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/160803-N-RY232-002_-_Navy_Working_Uniform_%28NWU%29_Type_III.jpg/1280px-160803-N-RY232-002_-_Navy_Working_Uniform_%28NWU%29_Type_III.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/0d/160803-N-RY232-002_-_Navy_Working_Uniform_%28NWU%29_Type_III.jpg",
+      "width": 1500,
+      "height": 2100,
+      "title": "160803-N-RY232-002 - Navy Working Uniform (NWU) Type III.jpg",
+      "description": "160803-N-RY232-002 \nWASHINGTON (Aug. 3, 2016) The Dept. of the Navy announced that it will transition from the Navy Working Uniform (NWU) Type I to the NWU Type III as its primary shore working unifor",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/15/160803-N-RY232-002_-_Navy_Working_Uniform_%28NWU%29_Type_III.png",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/15/160803-N-RY232-002_-_Navy_Working_Uniform_%28NWU%29_Type_III.png",
+      "width": 460,
+      "height": 1845,
+      "title": "160803-N-RY232-002 - Navy Working Uniform (NWU) Type III.png",
+      "description": "160803-N-RY232-002 \nWASHINGTON (Aug. 3, 2016) The Dept. of the Navy announced that it will transition from the Navy Working Uniform (NWU) Type I to the NWU Type III as its primary shore working unifor",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/160803-N-RY232-003_-_Navy_Working_Uniform_%28NWU%29_Type_III.jpg/1280px-160803-N-RY232-003_-_Navy_Working_Uniform_%28NWU%29_Type_III.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/91/160803-N-RY232-003_-_Navy_Working_Uniform_%28NWU%29_Type_III.jpg",
+      "width": 1500,
+      "height": 2100,
+      "title": "160803-N-RY232-003 - Navy Working Uniform (NWU) Type III.jpg",
+      "description": "160803-N-RY232-003 WASHINGTON (Aug. 3, 2016) Aug. 4, 2016, the Navy announced that it will transition from the NWU Type I to the NWU Type III as its primary shore working uniform. Beginning Oct. 1, 20",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/160803-N-RY232-013_-_United_States_Navy_Working_Uniform_%28NWU%29_Type_II_U.S._flag_patch.jpg/1280px-160803-N-RY232-013_-_United_States_Navy_Working_Uniform_%28NWU%29_Type_II_U.S._flag_patch.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/94/160803-N-RY232-013_-_United_States_Navy_Working_Uniform_%28NWU%29_Type_II_U.S._flag_patch.jpg",
+      "width": 1500,
+      "height": 2100,
+      "title": "160803-N-RY232-013 - United States Navy Working Uniform (NWU) Type II U.S. flag patch.jpg",
+      "description": "160803-N-RY232-013 \nWASHINGTON (Aug. 3, 2016) Effective immediately, Don\u2019t Tread on Me and Reverse U.S. Flag patches are authorized for optional wear on NWU Type II and Type III at the discretion of u",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Navy_-_Naval_Operations_-_Navy_Yards_-_Charlestown_Navy_Yard%2C_Mass._Soldiers_setting_type_in_the_printing_office_by_hand_-_NARA_-_45511830.jpg/1280px-Navy_-_Naval_Operations_-_Navy_Yards_-_Charlestown_Navy_Yard%2C_Mass._Soldiers_setting_type_in_the_printing_office_by_hand_-_NARA_-_45511830.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/96/Navy_-_Naval_Operations_-_Navy_Yards_-_Charlestown_Navy_Yard%2C_Mass._Soldiers_setting_type_in_the_printing_office_by_hand_-_NARA_-_45511830.jpg",
+      "width": 9180,
+      "height": 6120,
+      "title": "Navy - Naval Operations - Navy Yards - Charlestown Navy Yard, Mass. Soldiers setting type in the printing office by hand - NARA - 45511830.jpg",
+      "description": "<div class=\"description\">\n<ul><li><b>Scope and content:</b>  Photographer: Boston Transcript</li></ul></div>",
+      "license": "Public domain",
+      "source": "wikimedia"
+    }
+  ],
+  "doctrine": {
+    "role": "Forward presence and partnership engagement in permissive and contested environments where the Royal Navy requires global reach without the expense of deploying high-end assets. The Type 31 exists to maintain the RN's traditional global presence mission while preserving the more capable Type 26s for high-threat scenarios.",
+    "employment": "Typically deployed as single units or pairs on extended forward deployments, conducting maritime security operations, training partnerships, and showing the flag in regions like the Caribbean, West Africa, and Indo-Pacific. The platform is designed for integration with allied task groups rather than leading UK-centric formations. Command relationships emphasize regional maritime component commands and partnership engagement rather than carrier strike group integration.",
+    "design_philosophy": "The designers prioritized affordability, reliability, and export potential over sensor sophistication and weapons capacity. The platform sacrifices advanced radar capability and VLS depth for lower through-life costs and simplified logistics, accepting reduced effectiveness in high-threat environments to achieve the price point necessary for fleet numbers.",
+    "threat_context": "Designed for an era where the Royal Navy acknowledged it could not afford sufficient numbers of high-end frigates to maintain global presence while also providing credible warfighting capability. The platform assumes a threat environment where deterrence and partnership matter more than tactical superiority, though evolving great power competition may stress these assumptions.",
+    "comparison_frame": "Compare on cost-effectiveness and deployment sustainability rather than pure combat capability - the Type 31 succeeds if it can maintain presence at half the cost of alternatives. Focus on radar range, helicopter facilities, and crew size as key differentiators, while accepting that all competitors in this tier sacrifice magazine depth for affordability."
+  },
+  "curated_sources": [
+    {
+      "title": "British Destroyers & Frigates: The Second World War & After",
+      "type": "book",
+      "url": "",
+      "relevance": "Friedman provides essential context on Royal Navy frigate design philosophy and the evolution of general-purpose frigate concepts.",
+      "priority": "recommended"
+    },
+    {
+      "title": "Navy Ships: Acquisitions and Cost-Effectiveness",
+      "type": "report",
+      "url": "https://www.cbo.gov/publication/57240",
+      "relevance": "CBO analysis of frigate cost-effectiveness trade-offs directly relevant to Type 31's design philosophy.",
+      "priority": "essential"
+    },
+    {
+      "title": "The Royal Navy's Type 31 Frigate: Balancing Capability and Affordability",
+      "type": "report",
+      "url": "https://www.rusi.org/explore-our-research/publications/commentary/royal-navys-type-31-frigate-balancing-capability-and-affordability",
+      "relevance": "RUSI provides authoritative analysis of the Type 31 program's strategic rationale and capability trade-offs.",
+      "priority": "essential"
+    },
+    {
+      "title": "Naval Technology",
+      "type": "analyst",
+      "url": "https://www.naval-technology.com",
+      "relevance": "Consistent coverage of Type 31 development, sea trials, and operational deployment planning.",
+      "priority": "recommended"
+    },
+    {
+      "title": "Type 31 Inspiration Class Frigate",
+      "type": "database",
+      "url": "https://www.seaforces.org/marint/Royal-Navy/Frigate/Type-31-class.htm",
+      "relevance": "Comprehensive technical specifications and development timeline for the Type 31 program.",
+      "priority": "reference"
+    },
+    {
+      "title": "Save the Royal Navy",
+      "type": "analyst",
+      "url": "https://www.savetheroyalnavy.org",
+      "relevance": "Independent analysis focused specifically on Royal Navy programs with detailed Type 31 coverage and strategic context.",
+      "priority": "recommended"
+    },
+    {
+      "title": "UK Maritime Power",
+      "type": "report",
+      "url": "https://www.gov.uk/government/publications/uk-maritime-power",
+      "relevance": "Official Royal Navy doctrinal publication explaining the strategic context for platforms like the Type 31.",
+      "priority": "essential"
+    }
+  ]
+}

@@ -1,0 +1,449 @@
+{
+  "id": 17,
+  "slug": "lewis-b-puller-class-esb",
+  "name": "Lewis B. Puller-class expeditionary sea base",
+  "designation": "ESB",
+  "type": "other",
+  "country": "United States",
+  "operator": "United States Navy",
+  "overview_md": "The Lewis B. Puller-class expeditionary sea base (ESB) represents the U.S. Navy's innovative approach to forward-deployed logistics and special operations support in contested maritime environments. These massive auxiliary vessels, designated ESB-3 through ESB-6, serve as floating bases that can sustain special operations forces, support mine countermeasure operations, and provide aviation facilities for rotorcraft and unmanned systems far from traditional shore bases.\n\nStrategically, the ESB class fills a critical gap in the Navy's ability to project power and sustain operations in areas where traditional port access is unavailable or contested. The platform's modular design philosophy allows it to reconfigure mission packages rapidly, supporting everything from Navy SEAL insertion operations to humanitarian assistance and disaster relief. This flexibility is essential in the current strategic environment where great power competition demands sustained presence operations across vast ocean areas.\n\nThe ESB design is based on the proven Alaska-class crude oil tanker hull, modified extensively for military operations. This commercial heritage provides exceptional seakeeping abilities and endurance while keeping costs manageable compared to purpose-built military vessels. The large flight deck can accommodate multiple MH-53 Sea Dragon helicopters simultaneously, while the mission deck below provides 25,000 square feet of reconfigurable space for mission modules, small craft, or vehicle storage.\n\nIn the current threat environment, ESBs provide commanders with a unique capability to establish temporary forward operating bases in international waters, supporting distributed maritime operations concepts. Unlike traditional amphibious ships tied to Marine Expeditionary Units, ESBs can operate independently or with small surface action groups, providing persistent presence and rapid response capabilities. However, their limited self-defense systems and large signatures make them vulnerable in contested environments, requiring escort protection when operating near peer adversaries.",
+  "specs_json": {
+    "displacement_tonnes": 90000,
+    "length_m": 239,
+    "beam_m": 50,
+    "draft_m": 12.2,
+    "speed_knots": 15,
+    "range_nm": 9500,
+    "crew": 125,
+    "propulsion": "Diesel-electric, twin screw",
+    "radar": "SPS-73(V)12 surface search",
+    "sonar": null,
+    "combat_system": "Basic self-defense suite",
+    "vls_cells": 0,
+    "additional": {
+      "flight_deck_area_sqm": 11150,
+      "mission_deck_area_sqm": 2323,
+      "fuel_capacity_tonnes": 6800,
+      "accommodation": "250 personnel",
+      "helicopter_spots": 4,
+      "boat_davits": 4,
+      "cranes": "2x twin pedestal cranes"
+    }
+  },
+  "armament_json": [
+    {
+      "category": "CIWS",
+      "name": "Phalanx CIWS",
+      "type": "close-in weapons system",
+      "quantity": "2x",
+      "range_km": 3,
+      "notes": "20mm Gatling gun for missile defense"
+    },
+    {
+      "category": "Guns",
+      "name": "M2 Browning",
+      "type": "heavy machine gun",
+      "quantity": "4x .50 cal",
+      "range_km": 2,
+      "notes": "Small boat defense"
+    }
+  ],
+  "variants_json": [
+    {
+      "name": "ESB-3/4 Initial",
+      "designation_range": "ESB-3 to ESB-4",
+      "years": "2015-2018",
+      "count": 2,
+      "key_changes": "Original configuration based on Alaska-class tanker hull with basic aviation and mission deck facilities",
+      "status": "active"
+    },
+    {
+      "name": "ESB-5/6 Enhanced",
+      "designation_range": "ESB-5 to ESB-6",
+      "years": "2020-2023",
+      "count": 2,
+      "key_changes": "Improved C4ISR systems, enhanced self-defense capabilities, upgraded mission module interfaces",
+      "status": "active"
+    }
+  ],
+  "fleet_status_json": [
+    {
+      "hull_number": "ESB-3",
+      "name": "USNS Lewis B. Puller",
+      "variant": "Initial",
+      "commissioned": "2015-08-17",
+      "home_port": "Norfolk, VA",
+      "status": "active"
+    },
+    {
+      "hull_number": "ESB-4",
+      "name": "USNS Hershel 'Woody' Williams",
+      "variant": "Initial",
+      "commissioned": "2020-03-07",
+      "home_port": "Souda Bay, Greece",
+      "status": "active"
+    },
+    {
+      "hull_number": "ESB-5",
+      "name": "USNS Miguel Keith",
+      "variant": "Enhanced",
+      "commissioned": "2021-09-18",
+      "home_port": "San Diego, CA",
+      "status": "active"
+    },
+    {
+      "hull_number": "ESB-6",
+      "name": "USNS John Lewis",
+      "variant": "Enhanced",
+      "commissioned": "2023-03-18",
+      "home_port": "Norfolk, VA",
+      "status": "active"
+    }
+  ],
+  "cost_usd": 648000000.0,
+  "unit_count": 4,
+  "first_commissioned": "2015-08-17",
+  "builder": "General Dynamics NASSCO",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/USNS_John_Glenn_%28T-MLP-2%29_underway_in_January_2014.jpg",
+  "wiki_url": "https://en.wikipedia.org/wiki/Expeditionary_Transfer_Dock",
+  "sources_json": [
+    "https://en.wikipedia.org/wiki/Lewis_B._Puller-class_expeditionary_sea_base",
+    "https://www.navy.mil/Resources/Fact-Files/Display-FactFiles/Article/2169726/expeditionary-sea-base-esb/",
+    "https://www.navsea.navy.mil/Home/Warfare-Centers/NSWC-Carderock/Who-We-Are/Carderock-Program-Executive-Offices/PEO-Ships/ESB/"
+  ],
+  "comparison_tags": [
+    "auxiliary",
+    "sea-base",
+    "aviation",
+    "special-operations",
+    "logistics",
+    "us-navy"
+  ],
+  "created_at": "2026-04-10 18:06:28",
+  "updated_at": "2026-04-10T18:06:28.418545",
+  "news": [],
+  "events": [],
+  "ic_coverage": [],
+  "combat_history": [
+    {
+      "date": "2019-05",
+      "operation": "Operation Sentinel",
+      "event": "USNS Lewis B. Puller deployed to Persian Gulf providing base for special operations and surveillance assets during Iranian tanker attacks",
+      "significance": "First operational deployment demonstrated ESB capability to provide forward presence in contested waters"
+    },
+    {
+      "date": "2020-2022",
+      "operation": "Africa Partnership Station",
+      "event": "USNS Hershel 'Woody' Williams conducted sustained operations off West Africa, supporting counter-piracy and maritime security cooperation",
+      "significance": "Proved ESB concept for sustained forward presence operations, maintaining 18-month deployment"
+    },
+    {
+      "date": "2021",
+      "operation": null,
+      "event": "USNS Miguel Keith supported special operations exercises in Pacific, hosting MH-60 and unmanned systems operations",
+      "significance": "Validated multi-domain operations concept with manned-unmanned teaming from sea base platform"
+    }
+  ],
+  "modernization": [
+    {
+      "program": "ESB Mission Module Standardization",
+      "status": "in-progress",
+      "timeline": "2023-2026",
+      "description": "Standardizing mission module interfaces across all ESBs to support counter-mine, special operations, and humanitarian assistance packages",
+      "impact": "Increases operational flexibility and reduces logistics burden for forward deployments"
+    },
+    {
+      "program": "Enhanced Self-Defense Suite",
+      "status": "planned",
+      "timeline": "2024-2027",
+      "description": "Addition of SeaRAM point defense systems and improved electronic warfare capabilities",
+      "impact": "Reduces vulnerability in contested environments, allows operations closer to threat areas"
+    }
+  ],
+  "vulnerabilities": [
+    {
+      "area": "Self-defense capabilities",
+      "description": "Minimal defensive armament limited to Phalanx CIWS and small arms, no area air defense or anti-ship missile capability",
+      "context": "Large, slow signature makes attractive target for anti-ship missiles, requires escort protection in contested waters",
+      "mitigation": "Planned SeaRAM installation and reliance on escort vessels or shore-based air cover"
+    },
+    {
+      "area": "Signature management",
+      "description": "Large radar and thermal signature due to commercial hull origins, easily detectable by surveillance systems",
+      "context": "In era of proliferating ISR capabilities, difficult to conceal from adversary detection",
+      "mitigation": "Limited options due to hull size, relies on operating in permissive environments or with protective screen"
+    },
+    {
+      "area": "Damage control",
+      "description": "Commercial-standard damage control systems and crew training compared to warship standards",
+      "context": "Reduced survivability if attacked compared to purpose-built combatants",
+      "mitigation": "Enhanced damage control training and some military-standard systems retrofit"
+    }
+  ],
+  "operational_patterns": {
+    "typical_deployment": "Forward-deployed as independent sea base or with special operations task groups",
+    "deployment_length_months": 12,
+    "key_operating_areas": [
+      "Persian Gulf",
+      "Mediterranean",
+      "West Africa",
+      "Western Pacific"
+    ],
+    "typical_task_group": "Independent operations or with destroyer/frigate escort and special operations units",
+    "readiness_notes": "High operational tempo with extended deployments, some maintenance challenges due to commercial systems integration"
+  },
+  "peer_comparisons": [
+    {
+      "platform": "Type 901 Hulunhu-class",
+      "country": "China",
+      "relationship": "different role equivalent",
+      "key_differences": "Chinese vessel focused on fleet replenishment vs. ESB's special operations support role. Type 901 has better self-defense but less aviation capability.",
+      "video_angle": "Compare different approaches to forward logistics - Chinese fleet support vs. US special operations enabler"
+    },
+    {
+      "platform": "Absalon-class",
+      "country": "Denmark",
+      "relationship": "conceptual predecessor",
+      "key_differences": "Smaller Danish ships pioneered modular mission concept but with full warship capabilities. ESB trades combat power for size and endurance.",
+      "video_angle": "Evolution of modular warship concept from Danish innovation to US sea base application"
+    },
+    {
+      "platform": "Juan Carlos I-class",
+      "country": "Spain",
+      "relationship": "allied equivalent",
+      "key_differences": "Spanish LHD provides similar aviation platform but with amphibious assault focus and better self-defense. ESB offers more flexible mission space.",
+      "video_angle": "Different NATO approaches to expeditionary operations - assault vs. support focus"
+    }
+  ],
+  "search_keywords": [
+    "lewis b puller",
+    "ESB",
+    "expeditionary sea base",
+    "USNS Lewis B Puller",
+    "woody williams",
+    "miguel keith",
+    "john lewis",
+    "sea base",
+    "mobile landing platform"
+  ],
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/USNS_Hershel_Woody_Williams_%28T-ESB-4%29_at_anchor_in_the_Chesapeake_Bay_on_15_September_2019_%28190915-N-OH262-0709%29.JPG/1280px-USNS_Hershel_Woody_Williams_%28T-ESB-4%29_at_anchor_in_the_Chesapeake_Bay_on_15_September_2019_%28190915-N-OH262-0709%29.JPG",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/68/USNS_Hershel_Woody_Williams_%28T-ESB-4%29_at_anchor_in_the_Chesapeake_Bay_on_15_September_2019_%28190915-N-OH262-0709%29.JPG",
+      "width": 4443,
+      "height": 3174,
+      "title": "USNS Hershel Woody Williams (T-ESB-4) at anchor in the Chesapeake Bay on 15 September 2019 (190915-N-OH262-0709).JPG",
+      "description": "The U.S. Military Sealift Command expeditionary sea base USNS Hershel \"Woody\" Williams (T-ESB-4) at anchor in Chesapeake Bay (USA) on 15 September 2019 during mine countermeasure equipment testing.",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/USS_Hershel_%22Woody%22_Williams_%28ESB-4%29_Crest.png",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/USS_Hershel_%22Woody%22_Williams_%28ESB-4%29_Crest.png",
+      "width": 392,
+      "height": 500,
+      "title": "USS Hershel \"Woody\" Williams (ESB-4) Crest.png",
+      "description": "USS Hershel \"Woody\" Williams (ESB-4) Coat of Arms",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/USS_Miguel_Keith_%28ESB-5%29_insignia%2C_2021.png/1280px-USS_Miguel_Keith_%28ESB-5%29_insignia%2C_2021.png",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/d4/USS_Miguel_Keith_%28ESB-5%29_insignia%2C_2021.png",
+      "width": 2020,
+      "height": 2601,
+      "title": "USS Miguel Keith (ESB-5) insignia, 2021.png",
+      "description": "Inignia of the U.S. Navy expeditionary sea base USS <i>Miguel Keith</i> (ESB-5) in 2021.",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/USS_Miguel_Keith_%28ESB-5%29_underway_in_the_Pacific_Ocean_on_19_August_2021_%28210819-N-WY048-2631%29.JPG/1280px-USS_Miguel_Keith_%28ESB-5%29_underway_in_the_Pacific_Ocean_on_19_August_2021_%28210819-N-WY048-2631%29.JPG",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/USS_Miguel_Keith_%28ESB-5%29_underway_in_the_Pacific_Ocean_on_19_August_2021_%28210819-N-WY048-2631%29.JPG",
+      "width": 5568,
+      "height": 3712,
+      "title": "USS Miguel Keith (ESB-5) underway in the Pacific Ocean on 19 August 2021 (210819-N-WY048-2631).JPG",
+      "description": "U.S. Navy sailors assigned to expeditionary sea base USS <i>Miguel Keith</i> (ESB-5) stand in formation on the flight deck as the ship sails in the Pacific Ocean on 19 August 2021. <i>Miguel Keith</i>",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/USS_Miguel_Keith_aft_in_2021.jpg/1280px-USS_Miguel_Keith_aft_in_2021.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/0f/USS_Miguel_Keith_aft_in_2021.jpg",
+      "width": 4510,
+      "height": 3007,
+      "title": "USS Miguel Keith aft in 2021.jpg",
+      "description": "210819-N-WY048-2439 PACIFIC OCEAN (Aug. 19, 2021) \u2013 Sailors assigned to expeditionary sea base USS Miguel Keith (ESB 5) stand in formation on the flight deck as the ship sails in the Pacific Ocean, Au",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/USS_Miguel_Keith_commissioning.jpg/1280px-USS_Miguel_Keith_commissioning.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/91/USS_Miguel_Keith_commissioning.jpg",
+      "width": 2355,
+      "height": 1570,
+      "title": "USS Miguel Keith commissioning.jpg",
+      "description": "210508-N-OA516-1378 SAN DIEGO (May 8, 2021) \u2013 The crew of the Lewis B. Puller-class expeditionary mobile base USS Miguel Keith (ESB 5) prepare to board the ship during the ship\u2019s commissioning ceremon",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/USS_Miguel_Keith_in_2021.jpg/1280px-USS_Miguel_Keith_in_2021.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/6e/USS_Miguel_Keith_in_2021.jpg",
+      "width": 4719,
+      "height": 3539,
+      "title": "USS Miguel Keith in 2021.jpg",
+      "description": "210819-N-WY048-2459 PACIFIC OCEAN (Aug. 19, 2021) \u2013 Sailors assigned to expeditionary sea base USS Miguel Keith (ESB 5) stand in formation on the flight deck as the ship sails in the Pacific Ocean, Au",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Uss_hershel_woody_williams_operates_with_the_Kedougou_%281%29.jpg/1280px-Uss_hershel_woody_williams_operates_with_the_Kedougou_%281%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Uss_hershel_woody_williams_operates_with_the_Kedougou_%281%29.jpg",
+      "width": 3431,
+      "height": 2451,
+      "title": "Uss hershel woody williams operates with the Kedougou (1).jpg",
+      "description": "The Expeditionary Sea Base USS Hershel \u2018Woody\u2019 Williams conducted passing and communications exercises with Senegalese naval counterpart patrol vessel Kedougou in the Atlantic Ocean off the coast of S",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/220726-F-LN908-0213.jpg/1280px-220726-F-LN908-0213.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/27/220726-F-LN908-0213.jpg",
+      "width": 5008,
+      "height": 3577,
+      "title": "220726-F-LN908-0213.jpg",
+      "description": "220726-F-LN908-0213\nGULF OF ADEN (July 26, 2022) The Lewis B. Puller-class expeditionary sea base USS Hershel \"Woody\" Williams (ESB 4) and expeditionary sea base USS Lewis B. Puller (ESB 3) sail along",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Christening_ceremony_of_future_USNS_Hector_A._Cafferata_Jr._%28ESB-8%29.jpg/1280px-Christening_ceremony_of_future_USNS_Hector_A._Cafferata_Jr._%28ESB-8%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Christening_ceremony_of_future_USNS_Hector_A._Cafferata_Jr._%28ESB-8%29.jpg",
+      "width": 6117,
+      "height": 4078,
+      "title": "Christening ceremony of future USNS Hector A. Cafferata Jr. (ESB-8).jpg",
+      "description": "U.S. Marine Corps Sgt. Maj. Carlos A. Ruiz, the 20th Sergeant Major of the Marine Corps, attends and speaks during the christening ceremony of future United States Naval Ship Hector A. Cafferata Jr. (",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Hershel_%22Woody%22_Williams_Sailors_Participate_in_the_Flagging-Off_Ceremony_for_Exercise_Sea_Lion_2024_%288308300%29.jpg/1280px-Hershel_%22Woody%22_Williams_Sailors_Participate_in_the_Flagging-Off_Ceremony_for_Exercise_Sea_Lion_2024_%288308300%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/36/Hershel_%22Woody%22_Williams_Sailors_Participate_in_the_Flagging-Off_Ceremony_for_Exercise_Sea_Lion_2024_%288308300%29.jpg",
+      "width": 6639,
+      "height": 5191,
+      "title": "Hershel \"Woody\" Williams Sailors Participate in the Flagging-Off Ceremony for Exercise Sea Lion 2024 (8308300).jpg",
+      "description": "240319-N-LD903-2158\nTEMA, GHANA (March 19, 2024) U.S. Navy Sailors, assigned to the Lewis B. Puller-class Expeditionary Sea Base USS Hershel \u201cWoody Williams (ESB 4), stand at parade rest during a Flag",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Maritime_Raid_Force_Conduct_Visit%2C_Board%2C_Search_and_Seizure_%288864965%29.jpg/1280px-Maritime_Raid_Force_Conduct_Visit%2C_Board%2C_Search_and_Seizure_%288864965%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Maritime_Raid_Force_Conduct_Visit%2C_Board%2C_Search_and_Seizure_%288864965%29.jpg",
+      "width": 4664,
+      "height": 3109,
+      "title": "Maritime Raid Force Conduct Visit, Board, Search and Seizure (8864965).jpg",
+      "description": "U.S. Marines with Force Reconnaissance Platoon, Maritime Raid Force, 31st Marine Expeditionary Unit, conduct a brief aboard the Lewis B. Puller-Class Expeditionary Mobile Base USS John L. Canley (ESB ",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Maritime_Raid_Force_Conduct_Visit%2C_Board%2C_Search_and_Seizure_%288865100%29.jpg/1280px-Maritime_Raid_Force_Conduct_Visit%2C_Board%2C_Search_and_Seizure_%288865100%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/23/Maritime_Raid_Force_Conduct_Visit%2C_Board%2C_Search_and_Seizure_%288865100%29.jpg",
+      "width": 2069,
+      "height": 3496,
+      "title": "Maritime Raid Force Conduct Visit, Board, Search and Seizure (8865100).jpg",
+      "description": "A U.S. Marine with Force Reconnaissance Platoon, Maritime Raid Force, 31st Marine Expeditionary Unit, poses for a photo aboard the Lewis B. Puller-Class Expeditionary Mobile Base USS John L. Canley (E",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/U.S._Navy_Commissions_First-of-_Class_Expeditionary_Sea_Base%2C_USS_Lewis_B._Puller_170817-N-TB177-0152.jpg/1280px-U.S._Navy_Commissions_First-of-_Class_Expeditionary_Sea_Base%2C_USS_Lewis_B._Puller_170817-N-TB177-0152.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/11/U.S._Navy_Commissions_First-of-_Class_Expeditionary_Sea_Base%2C_USS_Lewis_B._Puller_170817-N-TB177-0152.jpg",
+      "width": 5568,
+      "height": 3712,
+      "title": "U.S. Navy Commissions First-of- Class Expeditionary Sea Base, USS Lewis B. Puller 170817-N-TB177-0152.jpg",
+      "description": "170817-N-TB177-0152 MANAMA, Bahrain (August 17, 2017) Capt. Adan G. Cruz, commanding officer of the USS Lewis B. Puller (ESB 3), walks through side boys during the ship's commissioning ceremony. Pulle",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/USS_Robert_E._Simanek_CoA.png/1280px-USS_Robert_E._Simanek_CoA.png",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/87/USS_Robert_E._Simanek_CoA.png",
+      "width": 2103,
+      "height": 2703,
+      "title": "USS Robert E. Simanek CoA.png",
+      "description": "<a href=\"https://en.wikipedia.org/wiki/USS_Robert_E._Simanek\" class=\"extiw\" title=\"w:USS Robert E. Simanek\">USS Robert E. Simanek</a> (ESB-7) Coat of Arms",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/USS_Robert_E._Simanek_delivery.jpg/1280px-USS_Robert_E._Simanek_delivery.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/49/USS_Robert_E._Simanek_delivery.jpg",
+      "width": 1920,
+      "height": 1033,
+      "title": "USS Robert E. Simanek delivery.jpg",
+      "description": "USS Robert E. Simanek during her delivery in 2024",
+      "license": "Public domain",
+      "source": "wikimedia"
+    }
+  ],
+  "doctrine": {
+    "role": "Forward logistics enablement and distributed operations support to extend special operations and mine warfare capabilities beyond traditional shore-based limitations in contested maritime environments.",
+    "employment": "ESBs typically operate as semi-independent logistics nodes supporting Maritime Expeditionary Security Force (MESF) operations, special operations task units, and mine countermeasure groups. They provide mothership capabilities for small craft, helicopter operations, and unmanned systems while maintaining sufficient distance from high-threat areas to preserve logistics sustainability. Command relationships typically fall under numbered fleet commanders with operational control delegated to task force commanders based on mission requirements.",
+    "design_philosophy": "Designers prioritized maximum deck space, fuel/stores capacity, and small craft handling over speed and survivability, accepting merchant-hull vulnerability to gain enormous logistics capacity. The platform sacrifices traditional naval damage control standards and self-defense capabilities to maximize aviation facilities and cargo handling, reflecting the assumption of permissive or lightly contested operational environments.",
+    "threat_context": "Originally designed for counter-piracy, partner capacity building, and uncontested logistics missions, the ESB now faces increasingly sophisticated anti-ship missile threats and submarine warfare challenges. The threat evolution toward long-range precision strike capabilities has forced reconsideration of ESB operating distances and defensive postures in peer competition scenarios.",
+    "comparison_frame": "Compare ESBs on logistics capacity, small craft handling capability, and aviation facilities rather than traditional naval metrics like speed or weapons systems. The key analytical dimensions are cargo throughput, operational endurance, and flexibility to support diverse mission sets\u2014conventional naval performance metrics are largely irrelevant for this platform type."
+  },
+  "curated_sources": [
+    {
+      "title": "U.S. Navy Ships and Submarines - Norman Friedman",
+      "type": "book",
+      "url": "",
+      "relevance": "Provides authoritative technical details and design evolution context for ESB development within broader U.S. Navy auxiliary ship programs.",
+      "priority": "essential"
+    },
+    {
+      "title": "Navy Expeditionary Sea Base (ESB) Program - Congressional Research Service",
+      "type": "report",
+      "url": "https://crsreports.congress.gov/search/results?termsToSearch=expeditionary+sea+base&orderBy=Date",
+      "relevance": "CRS analysis provides program history, cost analysis, and strategic rationale for ESB procurement decisions.",
+      "priority": "essential"
+    },
+    {
+      "title": "U.S. Naval Institute Proceedings",
+      "type": "analyst",
+      "url": "https://www.usni.org/",
+      "relevance": "Regular coverage of ESB operations and doctrinal development by serving and retired naval officers provides operational insights.",
+      "priority": "recommended"
+    },
+    {
+      "title": "Lewis B. Puller Class - Naval Technology",
+      "type": "database",
+      "url": "https://www.naval-technology.com/projects/lewis-b-puller-class/",
+      "relevance": "Comprehensive technical specifications and program details for ESB class characteristics and capabilities.",
+      "priority": "reference"
+    },
+    {
+      "title": "Littoral Operations in a Contested Environment - Center for Strategic and Budgetary Assessments",
+      "type": "report",
+      "url": "https://csbaonline.org/research/publications/littoral-operations-in-a-contested-environment",
+      "relevance": "Strategic context for ESB employment in contested environments and integration with distributed maritime operations concepts.",
+      "priority": "recommended"
+    },
+    {
+      "title": "Naval Doctrine Publication 1 (NDP-1) - Naval Warfare",
+      "type": "report",
+      "url": "https://www.navy.mil/Resources/Doctrine/",
+      "relevance": "Official U.S. Navy doctrinal foundation explaining ESB role within naval expeditionary warfare concepts.",
+      "priority": "essential"
+    },
+    {
+      "title": "Center for International Maritime Security (CIMSEC)",
+      "type": "analyst",
+      "url": "https://cimsec.org/",
+      "relevance": "Regular analysis of ESB operations and future employment concepts by maritime security professionals.",
+      "priority": "reference"
+    }
+  ]
+}

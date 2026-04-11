@@ -1,0 +1,285 @@
+{
+  "combat_history": [
+    {
+      "date": "2022-08",
+      "operation": "Eastern Theater Command exercises",
+      "event": "Hainan participated in large-scale amphibious assault exercises in response to Nancy Pelosi's Taiwan visit, conducting helicopter operations and amphibious landing drills",
+      "significance": "First major operational deployment demonstrating Type 075 in potential Taiwan scenario context"
+    },
+    {
+      "date": "2023-04",
+      "operation": "Joint Sword exercises",
+      "event": "Multiple Type 075s participated in simulated blockade and amphibious assault exercises around Taiwan, practicing multi-axis landing scenarios",
+      "significance": "Demonstrated coordinated multi-hull Type 075 operations and integration with PLAN surface combatants"
+    }
+  ],
+  "modernization": [
+    {
+      "program": "Enhanced Aviation Package",
+      "status": "in-progress",
+      "timeline": "2023-2025",
+      "description": "Integration of Z-8C heavy-lift helicopters, Z-20 utility helicopters, and potentially Z-10 attack helicopters for enhanced assault capability",
+      "impact": "Significantly improves vertical assault capacity and fire support options"
+    },
+    {
+      "program": "Electronic Warfare Upgrade",
+      "status": "planned",
+      "timeline": "2024-2026",
+      "description": "Installation of advanced electronic warfare suites and improved communications systems for contested environment operations",
+      "impact": "Enhances survivability in high-threat electromagnetic environments"
+    }
+  ],
+  "vulnerabilities": [
+    {
+      "area": "Anti-ship missile defense",
+      "description": "Limited area air defense capability with only point-defense systems, no medium/long-range SAMs",
+      "context": "Vulnerable to saturation attacks by anti-ship cruise missiles, requiring escort vessel protection",
+      "mitigation": "Operates within range of land-based air defense or with Type 055/052D escorts"
+    },
+    {
+      "area": "Aviation limitations",
+      "description": "No fixed-wing capability limits air support options and combat air patrol coverage",
+      "context": "Cannot provide organic air superiority, dependent on external air cover for contested operations",
+      "mitigation": "Must operate under friendly air umbrella or await potential STOVL aircraft integration"
+    },
+    {
+      "area": "Damage control experience",
+      "description": "Crew lacks combat damage control experience and large ship firefighting expertise",
+      "context": "PLAN has limited experience operating large-deck aviation ships in combat conditions",
+      "mitigation": "Extensive training programs and potential foreign expertise acquisition"
+    },
+    {
+      "area": "Logistical dependency",
+      "description": "Complex aviation and amphibious support requirements strain PLAN's still-developing logistics network",
+      "context": "Long-range operations limited by fuel, aviation parts, and specialized maintenance requirements",
+      "mitigation": "Development of auxiliary support vessels and forward logistics bases"
+    }
+  ],
+  "operational_patterns": {
+    "typical_deployment": "South China Sea patrol and amphibious exercise operations",
+    "deployment_length_months": 3,
+    "key_operating_areas": [
+      "South China Sea",
+      "East China Sea",
+      "Western Pacific"
+    ],
+    "typical_task_group": "Operates with Type 055/052D destroyers, Type 054A frigates, and submarine escort",
+    "readiness_notes": "High operational tempo for new class, focus on crew training and amphibious doctrine development"
+  },
+  "peer_comparisons": [
+    {
+      "platform": "Wasp-class LHD",
+      "country": "United States",
+      "relationship": "direct rival",
+      "key_differences": "Similar displacement and helicopter capacity but Wasp-class has proven F-35B fixed-wing capability and superior damage control systems. Type 075 has larger well deck for landing craft operations.",
+      "video_angle": "East vs West amphibious assault philosophy: helicopter-centric vs multi-role aviation approach"
+    },
+    {
+      "platform": "Izumo-class helicopter destroyer",
+      "country": "Japan",
+      "relationship": "regional competitor",
+      "key_differences": "Izumo converting to F-35B capability while Type 075 remains helicopter-only. Type 075 has true amphibious assault capability with well deck, while Izumo lacks landing craft capacity.",
+      "video_angle": "Japan's defensive helicopter carrier vs China's offensive amphibious assault ship evolution"
+    },
+    {
+      "platform": "Mistral-class LHD",
+      "country": "France",
+      "relationship": "design influence",
+      "key_differences": "Type 075 significantly larger with greater aviation capacity. Mistral has more flexible mission profile while Type 075 optimized for high-intensity amphibious assault.",
+      "video_angle": "European vs Chinese approach to amphibious warfare design philosophy"
+    },
+    {
+      "platform": "Dokdo-class LPH",
+      "country": "South Korea",
+      "relationship": "regional competitor",
+      "key_differences": "Type 075 nearly twice the displacement with much greater helicopter and landing craft capacity. Dokdo more focused on humanitarian missions and limited amphibious operations.",
+      "video_angle": "Regional amphibious arms race: Korean defensive vs Chinese offensive capabilities"
+    }
+  ],
+  "search_keywords": [
+    "type 075",
+    "yushen class",
+    "chinese amphibious assault ship",
+    "plan lhd",
+    "hainan class",
+    "type-075",
+    "china helicopter carrier"
+  ],
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/2024%E5%B9%B411%E6%9C%88-%E6%B5%B7%E5%8D%97%E8%99%9FA.jpg/1280px-2024%E5%B9%B411%E6%9C%88-%E6%B5%B7%E5%8D%97%E8%99%9FA.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/83/2024%E5%B9%B411%E6%9C%88-%E6%B5%B7%E5%8D%97%E8%99%9FA.jpg",
+      "width": 8860,
+      "height": 6645,
+      "title": "2024\u5e7411\u6708-\u6d77\u5357\u865fA.jpg",
+      "description": "\u200b\u505c\u6cca\u65bc\u5805\u5c3c\u5730\u57ce\u62db\u5546\u5c40\u78bc\u982d\u7684\u6d77\u5357\u865f\uff08\u53f3\u8237\uff09",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Type_075.jpg/1280px-Type_075.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/62/Type_075.jpg",
+      "width": 1920,
+      "height": 1080,
+      "title": "Type 075.jpg",
+      "description": "Artist impression of the Type 075 amphibious assault ship.",
+      "license": "CC BY 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/%E3%80%8C%E6%B5%B7%E5%8D%97%E8%99%9F%E3%80%8D%E5%85%A9%E6%A3%B2%E6%94%BB%E6%93%8A%E8%89%A6.jpeg/1280px-%E3%80%8C%E6%B5%B7%E5%8D%97%E8%99%9F%E3%80%8D%E5%85%A9%E6%A3%B2%E6%94%BB%E6%93%8A%E8%89%A6.jpeg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/a6/%E3%80%8C%E6%B5%B7%E5%8D%97%E8%99%9F%E3%80%8D%E5%85%A9%E6%A3%B2%E6%94%BB%E6%93%8A%E8%89%A6.jpeg",
+      "width": 3264,
+      "height": 2448,
+      "title": "\u300c\u6d77\u5357\u865f\u300d\u5169\u68f2\u653b\u64ca\u8266.jpeg",
+      "description": "\u200b\u5728\u9999\u6e2f<a href=\"https://zh.wikipedia.org/wiki/%E5%A0%85%E5%B0%BC%E5%9C%B0%E5%9F%8E\" class=\"extiw\" title=\"zh:\u5805\u5c3c\u5730\u57ce\">\u5805\u5c3c\u5730\u57ce</a>\u62cd\u651d\u7684\u300c<a href=\"https://zh.wikipedia.org/wiki/%E6%B5%B7%E5%8D%97%E8%99%9F\" class=\"ex",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/090701-N-1251W-075_-_A_midshipman_from_the_Japan_Maritime_Self-Defense_Force_fires_an_M-240_machine_gun_from_the_bridge_wing_of_the_guided-missile_cruiser_USS_Shiloh_%28CG-67%29.jpg/1280px-thumbnail.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/75/090701-N-1251W-075_-_A_midshipman_from_the_Japan_Maritime_Self-Defense_Force_fires_an_M-240_machine_gun_from_the_bridge_wing_of_the_guided-missile_cruiser_USS_Shiloh_%28CG-67%29.jpg",
+      "width": 2100,
+      "height": 1500,
+      "title": "090701-N-1251W-075 - A midshipman from the Japan Maritime Self-Defense Force fires an M-240 machine gun from the bridge wing of the guided-missile cruiser USS Shiloh (CG-67).jpg",
+      "description": "PACIFIC OCEAN (July 1, 2009) A midshipman from the Japan Maritime Self-Defense Force fires an M-240 machine gun from the bridge wing of the guided-missile cruiser USS Shiloh (CG 67) during a midshipme",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/120220-N-UN744-173.jpg/1280px-120220-N-UN744-173.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/3f/120220-N-UN744-173.jpg",
+      "width": 2100,
+      "height": 1390,
+      "title": "120220-N-UN744-173.jpg",
+      "description": "JINHAE, Republic of Korea (Feb. 20, 2012) - Rear Adm. Bill McQuilkin, commander of U.S. Naval Forces Korea, receives a brief from Republic of Korea (ROK) Capt. Jeong Il-sik, commanding officer of ROKS",
+      "license": "CC BY-SA 2.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/18/AFDCM-02-036.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/18/AFDCM-02-036.jpg",
+      "width": 973,
+      "height": 760,
+      "title": "AFDCM-02-036.jpg",
+      "description": "",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Royal_Navy_Trafalgar-class_submarine_HMS_Trenchant.jpg/1280px-Royal_Navy_Trafalgar-class_submarine_HMS_Trenchant.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/69/Royal_Navy_Trafalgar-class_submarine_HMS_Trenchant.jpg",
+      "width": 6016,
+      "height": 3486,
+      "title": "Royal Navy Trafalgar-class submarine HMS Trenchant.jpg",
+      "description": "Royal Navy <i>Trafalgar</i>-class submarine HMS <i>Trenchant</i> and Royal Navy Wildcat HMA2, attached to Type 23 frigate HMS <i>Iron Duke</i> (F234), participate in a passenger exchange during exerci",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/U.S._Sailors_conduct_an_inspection_of_flight_deck_damage_control_equipment_with_a_member_of_the_Type_Commander_Maintenance_Inspection_Team_in_the_hangar_bay_of_the_amphibious_assault_ship_USS_Bonhomme_Richard_130429-N-BJ178-075.jpg/1280px-thumbnail.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/10/U.S._Sailors_conduct_an_inspection_of_flight_deck_damage_control_equipment_with_a_member_of_the_Type_Commander_Maintenance_Inspection_Team_in_the_hangar_bay_of_the_amphibious_assault_ship_USS_Bonhomme_Richard_130429-N-BJ178-075.jpg",
+      "width": 4256,
+      "height": 2832,
+      "title": "U.S. Sailors conduct an inspection of flight deck damage control equipment with a member of the Type Commander Maintenance Inspection Team in the hangar bay of the amphibious assault ship USS Bonhomme Richard 130429-N-BJ178-075.jpg",
+      "description": "U.S. Sailors conduct an inspection of flight deck damage control equipment with a member of the Type Commander Maintenance Inspection Team in the hangar bay of the amphibious assault ship USS Bonhomme",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/US_Navy_060405-N-8629M-075_An_MH-60R_Seahawk_helicopter_assigned_to_the.jpg/1280px-US_Navy_060405-N-8629M-075_An_MH-60R_Seahawk_helicopter_assigned_to_the.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/9e/US_Navy_060405-N-8629M-075_An_MH-60R_Seahawk_helicopter_assigned_to_the.jpg",
+      "width": 2386,
+      "height": 1533,
+      "title": "US Navy 060405-N-8629M-075 An MH-60R Seahawk helicopter assigned to the.jpg",
+      "description": "San Diego, Calif. (April 5, 2006) - An MH-60R Seahawk helicopter assigned to the \"Seahawks\" of Helicopter Maritime Strike Squadron Four One (HSM-41) flies by the amphibious dock landing ship USS Comst",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/US_Navy_090227-N-9698C-075_Sailors_plant_%CA%BBAhu%CA%BBAwa%2C_a_type_of_Hawaiian_sedge%2C_during_a_Make-A-Difference_Day-Adopt-A-Stream_wetlands_community_project.jpg/1280px-US_Navy_090227-N-9698C-075_Sailors_plant_%CA%BBAhu%CA%BBAwa%2C_a_type_of_Hawaiian_sedge%2C_during_a_Make-A-Difference_Day-Adopt-A-Stream_wetlands_community_project.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/2a/US_Navy_090227-N-9698C-075_Sailors_plant_%CA%BBAhu%CA%BBAwa%2C_a_type_of_Hawaiian_sedge%2C_during_a_Make-A-Difference_Day-Adopt-A-Stream_wetlands_community_project.jpg",
+      "width": 1342,
+      "height": 2100,
+      "title": "US Navy 090227-N-9698C-075 Sailors plant \u02bbAhu\u02bbAwa, a type of Hawaiian sedge, during a Make-A-Difference Day-Adopt-A-Stream wetlands community project.jpg",
+      "description": "AIEA, Hawaii (Feb. 28, 2009) Construction Electrician 2nd Class Jeff Tarabochia and Boatswains Mate 2nd Class Thongvan Khalek, assigned to Naval Station Pearl Harbor First Lieutenant Division, plant \u00c4",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/US_Navy_101206-N-9643K-075_Aviation_Electronics_Technician_3rd_Class_David_Ferguson_checks_the_calibration_of_various_types_of_gauges_aboard_the_am.jpg/1280px-US_Navy_101206-N-9643K-075_Aviation_Electronics_Technician_3rd_Class_David_Ferguson_checks_the_calibration_of_various_types_of_gauges_aboard_the_am.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/2e/US_Navy_101206-N-9643K-075_Aviation_Electronics_Technician_3rd_Class_David_Ferguson_checks_the_calibration_of_various_types_of_gauges_aboard_the_am.jpg",
+      "width": 4592,
+      "height": 3056,
+      "title": "US Navy 101206-N-9643K-075 Aviation Electronics Technician 3rd Class David Ferguson checks the calibration of various types of gauges aboard the am.jpg",
+      "description": "SAN DIEGO (Dec. 6, 2010) Aviation Electronics Technician 3rd Class David Ferguson checks the calibration of various types of gauges aboard the amphibious assault ship USS Bonhomme Richard (LHD 6). The",
+      "license": "Public domain",
+      "source": "wikimedia"
+    }
+  ],
+  "doctrine": {
+    "role": "Vertical envelopment and sustained amphibious operations to enforce territorial claims, particularly designed to overcome heavily defended island positions within the first island chain through helicopter-borne assault rather than traditional beach landings.",
+    "employment": "Operates as the centerpiece of amphibious ready groups alongside Type 071 LPDs and conventional landing ships, providing the air mobility component for multi-domain operations. Typically employed in task groups of 2-3 amphibious vessels with destroyer escorts, conducting sustained helicopter operations from standoff distances to avoid shore-based anti-ship missiles. Integrates with PLAN carrier strike groups for major amphibious operations, serving as the specialized platform for getting troops ashore while carriers provide air superiority.",
+    "design_philosophy": "Prioritized helicopter capacity and well-deck functionality over speed and self-defense, accepting limited air defense suite and modest 23-knot speed to maximize troop lift and aviation facilities. Chinese designers emphasized rapid vehicle throughput and medical facilities for sustained operations, trading some aviation fuel capacity for enhanced command and control spaces compared to US equivalents.",
+    "threat_context": "Designed for operations against well-defended island positions with sophisticated anti-ship missile networks, requiring standoff assault capabilities rather than direct beach assault. The threat environment has evolved toward longer-range precision strikes and integrated air defense, validating the Type 075's emphasis on helicopter operations over traditional landing craft approaches.",
+    "comparison_frame": "Compare primarily on helicopter capacity, well-deck size, and medical facilities rather than speed or self-defense systems - all major amphibious assault ships accept similar speed limitations and minimal organic firepower. The critical dimensions are troop capacity, vehicle throughput rates, and aviation fuel/ammunition storage for sustained operations."
+  },
+  "curated_sources": [
+    {
+      "title": "China Naval Modernization: Implications for U.S. Navy Capabilities",
+      "type": "report",
+      "url": "https://crsreports.congress.gov/product/pdf/RL/RL33153",
+      "relevance": "O'Rourke's authoritative CRS analysis covers Type 075 development within broader PLAN amphibious modernization context.",
+      "priority": "essential"
+    },
+    {
+      "title": "Chinese Naval Shipbuilding: An Ambitious and Uncertain Course",
+      "type": "analyst",
+      "url": "https://www.usni.org/magazines/proceedings/2020/04/chinese-naval-shipbuilding-ambitious-and-uncertain-course",
+      "relevance": "Andrew Erickson provides the definitive analysis on Type 075 design choices and production timeline.",
+      "priority": "essential"
+    },
+    {
+      "title": "Amphibious Warfare Ships and Craft",
+      "type": "book",
+      "url": "",
+      "relevance": "Friedman's comprehensive technical analysis provides the doctrinal framework for comparing Type 075 to Western amphibious assault ship designs.",
+      "priority": "recommended"
+    },
+    {
+      "title": "China's Evolving Surface Fleet",
+      "type": "report",
+      "url": "https://www.csis.org/analysis/chinas-evolving-surface-fleet",
+      "relevance": "CSIS report contextualizes Type 075 within China's broader naval modernization and amphibious doctrine development.",
+      "priority": "recommended"
+    },
+    {
+      "title": "Type 075 Yushen Class",
+      "type": "database",
+      "url": "https://www.seaforces.org/marint/Chinese-Navy/Amphibious-Assault-Ship/Type-075-class.htm",
+      "relevance": "Comprehensive specifications and technical details for Type 075 class vessels with regular updates on construction progress.",
+      "priority": "reference"
+    },
+    {
+      "title": "China Maritime Studies Institute",
+      "type": "analyst",
+      "url": "https://usnwc.edu/Research-and-Wargaming/Research-Centers/China-Maritime-Studies-Institute",
+      "relevance": "Leading source for translations of Chinese naval doctrine and analysis of PLA amphibious warfare concepts.",
+      "priority": "recommended"
+    },
+    {
+      "title": "The Science of Military Strategy (2020 Edition)",
+      "type": "book",
+      "url": "",
+      "relevance": "Official PLA doctrinal publication outlining joint amphibious operations concepts that inform Type 075 employment.",
+      "priority": "reference"
+    },
+    {
+      "title": "China's Quest for Great Power: Ships, Oil, and Foreign Policy",
+      "type": "book",
+      "url": "",
+      "relevance": "Bernard Cole's analysis provides strategic context for why China prioritized large amphibious assault ships in its naval modernization.",
+      "priority": "reference"
+    }
+  ]
+}

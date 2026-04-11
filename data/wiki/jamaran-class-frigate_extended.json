@@ -1,0 +1,287 @@
+{
+  "combat_history": [
+    {
+      "date": "2012-02",
+      "operation": "Persian Gulf Transit",
+      "event": "IRIS Jamaran conducted first long-range deployment to Syrian waters, demonstrating Iranian power projection capability",
+      "significance": "First deployment beyond Persian Gulf demonstrated Iranian naval ambitions but also revealed maintenance and logistics limitations"
+    },
+    {
+      "date": "2018-01",
+      "operation": null,
+      "event": "IRIS Damavand lost in Caspian Sea due to weather-related accident, broke apart and sank",
+      "significance": "Highlighted structural or seaworthiness issues with Iranian indigenous construction quality"
+    },
+    {
+      "date": "2019-07",
+      "operation": "Persian Gulf Tensions",
+      "event": "IRIS Sahand participated in Iranian naval exercises amid US sanctions escalation and tanker war tensions",
+      "significance": "Demonstrated Iranian conventional naval presence during heightened regional tensions"
+    },
+    {
+      "date": "2021-02",
+      "operation": "Indian Ocean Deployment",
+      "event": "IRIS Sahand conducted extended deployment to Indian Ocean, reaching as far as Indonesia",
+      "significance": "Longest deployment demonstrated improved Iranian maintenance capabilities but also highlighted limited sustainment capacity"
+    }
+  ],
+  "modernization": [
+    {
+      "program": "Indigenous Systems Integration",
+      "status": "in-progress",
+      "timeline": "2018-ongoing",
+      "description": "Replacement of remaining foreign components with Iranian-developed systems, improved radar and combat management systems",
+      "impact": "Reduces foreign dependency but may compromise capability compared to Western systems"
+    },
+    {
+      "program": "Vertical Launch System Integration",
+      "status": "planned",
+      "timeline": "2024-2028",
+      "description": "Integration of Iranian indigenous VLS for surface-to-air and surface-to-surface missiles",
+      "impact": "Would significantly enhance offensive and defensive capabilities if successfully implemented"
+    }
+  ],
+  "vulnerabilities": [
+    {
+      "area": "Industrial quality control",
+      "description": "Loss of Damavand and reported maintenance issues suggest quality control problems in indigenous production",
+      "context": "Sanctions limit access to high-grade materials and manufacturing equipment",
+      "mitigation": "Increased focus on domestic quality standards, but fundamental resource constraints remain"
+    },
+    {
+      "area": "Electronic warfare susceptibility",
+      "description": "Indigenous electronic systems likely vulnerable to modern Western EW capabilities and cyber warfare",
+      "context": "Iranian electronics industry lacks access to cutting-edge semiconductor technology",
+      "mitigation": "Development of indigenous EW capabilities, but significant technology gap remains"
+    },
+    {
+      "area": "Limited air defense",
+      "description": "Aging SM-1 missiles and limited indigenous SAM capability provide inadequate protection against modern air threats",
+      "context": "Regional adversaries possess advanced air-launched anti-ship missiles and stealth capabilities",
+      "mitigation": "Development of indigenous SAM systems, but performance uncertain against modern threats"
+    },
+    {
+      "area": "Logistics and sustainability",
+      "description": "Limited ability to sustain extended operations due to indigenous supply chain constraints",
+      "context": "Extended deployments reveal maintenance and parts availability issues",
+      "mitigation": "Expansion of domestic production capacity, but resource limitations persist"
+    }
+  ],
+  "operational_patterns": {
+    "typical_deployment": "Persian Gulf patrol, occasional Indian Ocean power projection missions",
+    "deployment_length_months": 3,
+    "key_operating_areas": [
+      "Persian Gulf",
+      "Gulf of Oman",
+      "Arabian Sea",
+      "Indian Ocean"
+    ],
+    "typical_task_group": "Usually operates independently or with Iranian support vessels",
+    "readiness_notes": "Limited availability due to maintenance challenges and parts constraints"
+  },
+  "peer_comparisons": [
+    {
+      "platform": "Type 054A Jiangkai II-class",
+      "country": "China",
+      "relationship": "aspirational peer",
+      "key_differences": "Chinese frigate represents modern capabilities Iran seeks - 32 VLS cells, advanced radar, better build quality. Jamaran-class significantly less capable but represents similar indigenous development philosophy.",
+      "video_angle": "Sanctions vs integration - how isolation shapes naval development differently"
+    },
+    {
+      "platform": "FREMM frigate",
+      "country": "France/Italy",
+      "relationship": "capability benchmark",
+      "key_differences": "FREMM represents NATO-standard capabilities with 16 VLS cells, advanced sensors, and proven reliability. Jamaran-class roughly equivalent displacement but significantly less sophisticated systems.",
+      "video_angle": "Western vs sanctioned naval development - what $1 billion buys you"
+    },
+    {
+      "platform": "Baynunah-class corvette",
+      "country": "UAE",
+      "relationship": "regional competitor",
+      "key_differences": "UAE corvette smaller but with modern European systems. Represents Gulf state approach of buying Western technology vs Iranian indigenous development under sanctions.",
+      "video_angle": "Gulf naval arms race - buying vs building under sanctions"
+    },
+    {
+      "platform": "Sigma-class frigate",
+      "country": "Netherlands",
+      "relationship": "technological benchmark",
+      "key_differences": "Dutch design philosophy emphasizes modularity and proven systems. Iranian approach forced toward indigenous solutions with uncertain reliability and performance.",
+      "video_angle": "Design philosophy - proven systems vs sanctions-forced innovation"
+    }
+  ],
+  "search_keywords": [
+    "jamaran class",
+    "jamaran frigate",
+    "iran navy",
+    "IRIN",
+    "iranian frigate",
+    "sahand",
+    "damavand",
+    "taftan",
+    "F-74",
+    "persian gulf",
+    "iranian navy frigate"
+  ],
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Departure_of_Iranian_frigate_Jamaran_for_trip_to_international_waters_%2802%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Departure_of_Iranian_frigate_Jamaran_for_trip_to_international_waters_%2802%29.jpg",
+      "width": 600,
+      "height": 418,
+      "title": "Departure of Iranian frigate Jamaran for trip to international waters (02).jpg",
+      "description": "\u0633\u0641\u0631 \u062f\u0631\u06cc\u0627\u0646\u0648\u0631\u062f\u06cc \u0646\u0627\u0648\u0634\u06a9\u0646 \u062c\u0645\u0627\u0631\u0627\u0646 \u0628\u0647 \u0622\u0628\u0647\u0627\u06cc \u0628\u06cc\u0646 \u0627\u0644\u0645\u0644\u0644\u06cc",
+      "license": "CC BY 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/61/Departure_of_Iranian_frigate_Jamaran_for_trip_to_international_waters_%2803%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/61/Departure_of_Iranian_frigate_Jamaran_for_trip_to_international_waters_%2803%29.jpg",
+      "width": 600,
+      "height": 418,
+      "title": "Departure of Iranian frigate Jamaran for trip to international waters (03).jpg",
+      "description": "\u0633\u0641\u0631 \u062f\u0631\u06cc\u0627\u0646\u0648\u0631\u062f\u06cc \u0646\u0627\u0648\u0634\u06a9\u0646 \u062c\u0645\u0627\u0631\u0627\u0646 \u0628\u0647 \u0622\u0628\u0647\u0627\u06cc \u0628\u06cc\u0646 \u0627\u0644\u0645\u0644\u0644\u06cc",
+      "license": "CC BY 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Departure_of_Iranian_frigate_Jamaran_for_trip_to_international_waters_%2805%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Departure_of_Iranian_frigate_Jamaran_for_trip_to_international_waters_%2805%29.jpg",
+      "width": 600,
+      "height": 418,
+      "title": "Departure of Iranian frigate Jamaran for trip to international waters (05).jpg",
+      "description": "\u0633\u0641\u0631 \u062f\u0631\u06cc\u0627\u0646\u0648\u0631\u062f\u06cc \u0646\u0627\u0648\u0634\u06a9\u0646 \u062c\u0645\u0627\u0631\u0627\u0646 \u0628\u0647 \u0622\u0628\u0647\u0627\u06cc \u0628\u06cc\u0646 \u0627\u0644\u0645\u0644\u0644\u06cc",
+      "license": "CC BY 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Departure_of_Iranian_frigate_Jamaran_for_trip_to_international_waters_%2806%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Departure_of_Iranian_frigate_Jamaran_for_trip_to_international_waters_%2806%29.jpg",
+      "width": 600,
+      "height": 418,
+      "title": "Departure of Iranian frigate Jamaran for trip to international waters (06).jpg",
+      "description": "\u0633\u0641\u0631 \u062f\u0631\u06cc\u0627\u0646\u0648\u0631\u062f\u06cc \u0646\u0627\u0648\u0634\u06a9\u0646 \u062c\u0645\u0627\u0631\u0627\u0646 \u0628\u0647 \u0622\u0628\u0647\u0627\u06cc \u0628\u06cc\u0646 \u0627\u0644\u0645\u0644\u0644\u06cc",
+      "license": "CC BY 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Departure_of_Iranian_frigate_Jamaran_for_trip_to_international_waters_%2809%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Departure_of_Iranian_frigate_Jamaran_for_trip_to_international_waters_%2809%29.jpg",
+      "width": 600,
+      "height": 418,
+      "title": "Departure of Iranian frigate Jamaran for trip to international waters (09).jpg",
+      "description": "\u0633\u0641\u0631 \u062f\u0631\u06cc\u0627\u0646\u0648\u0631\u062f\u06cc \u0646\u0627\u0648\u0634\u06a9\u0646 \u062c\u0645\u0627\u0631\u0627\u0646 \u0628\u0647 \u0622\u0628\u0647\u0627\u06cc \u0628\u06cc\u0646 \u0627\u0644\u0645\u0644\u0644\u06cc",
+      "license": "CC BY 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/38/Departure_of_Iranian_frigate_Jamaran_for_trip_to_international_waters_%2811%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/38/Departure_of_Iranian_frigate_Jamaran_for_trip_to_international_waters_%2811%29.jpg",
+      "width": 600,
+      "height": 418,
+      "title": "Departure of Iranian frigate Jamaran for trip to international waters (11).jpg",
+      "description": "\u0633\u0641\u0631 \u062f\u0631\u06cc\u0627\u0646\u0648\u0631\u062f\u06cc \u0646\u0627\u0648\u0634\u06a9\u0646 \u062c\u0645\u0627\u0631\u0627\u0646 \u0628\u0647 \u0622\u0628\u0647\u0627\u06cc \u0628\u06cc\u0646 \u0627\u0644\u0645\u0644\u0644\u06cc",
+      "license": "CC BY 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Departure_of_Iranian_frigate_Jamaran_for_trip_to_international_waters_%2812%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Departure_of_Iranian_frigate_Jamaran_for_trip_to_international_waters_%2812%29.jpg",
+      "width": 600,
+      "height": 418,
+      "title": "Departure of Iranian frigate Jamaran for trip to international waters (12).jpg",
+      "description": "\u0633\u0641\u0631 \u062f\u0631\u06cc\u0627\u0646\u0648\u0631\u062f\u06cc \u0646\u0627\u0648\u0634\u06a9\u0646 \u062c\u0645\u0627\u0631\u0627\u0646 \u0628\u0647 \u0622\u0628\u0647\u0627\u06cc \u0628\u06cc\u0646 \u0627\u0644\u0645\u0644\u0644\u06cc",
+      "license": "CC BY 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/82/Iranian_Velayat-90_Naval_Exercise_by_IRIN_%286%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/82/Iranian_Velayat-90_Naval_Exercise_by_IRIN_%286%29.jpg",
+      "width": 894,
+      "height": 585,
+      "title": "Iranian Velayat-90 Naval Exercise by IRIN (6).jpg",
+      "description": "Jamaran frigate and one helicopter Agusta-Bell AB.212 in Velayat-90 Naval Exercise.",
+      "license": "CC BY 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/011218-N-9769P-047_F-A-18_With_Weapons_Ready_for_Mission.jpg/1280px-011218-N-9769P-047_F-A-18_With_Weapons_Ready_for_Mission.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/e9/011218-N-9769P-047_F-A-18_With_Weapons_Ready_for_Mission.jpg",
+      "width": 2000,
+      "height": 1312,
+      "title": "011218-N-9769P-047 F-A-18 With Weapons Ready for Mission.jpg",
+      "description": "011218-N-9769P-047\nAt sea aboard <a href=\"https://en.wikipedia.org/wiki/USS_John_C._Stennis_(CVN-74)\" class=\"extiw\" title=\"w:USS John C. Stennis (CVN-74)\">USS John C. Stennis (CVN-74)</a> Dec. 18, 200",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/2022-08-14_01_HMCS_WILLIAM_HALL_%28AOPV_433%29_-_IMO_4702539_-_under_construction.jpg/1280px-2022-08-14_01_HMCS_WILLIAM_HALL_%28AOPV_433%29_-_IMO_4702539_-_under_construction.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/12/2022-08-14_01_HMCS_WILLIAM_HALL_%28AOPV_433%29_-_IMO_4702539_-_under_construction.jpg",
+      "width": 4214,
+      "height": 2804,
+      "title": "2022-08-14 01 HMCS WILLIAM HALL (AOPV 433) - IMO 4702539 - under construction.jpg",
+      "description": "Royal Canadian Navy DeWolf class offshore patrol vessel, HMCS WILLIAM HALL (AOPV 433) - IMO 4702539. under construction at Irving Shipbuilding in Halifax, Nova Scotia on August 14, 2022.",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/F-14B_VF-74_In_Flight.JPEG/1280px-F-14B_VF-74_In_Flight.JPEG",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/a4/F-14B_VF-74_In_Flight.JPEG",
+      "width": 2830,
+      "height": 1840,
+      "title": "F-14B VF-74 In Flight.JPEG",
+      "description": "A Fighter Squadron 74 (VF-74) F-14B Tomcat aircraft loaded with Mark 76 practice bombs takes off on a training mission.",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/F-4B_VF-74_taking_off_1961.jpg/1280px-F-4B_VF-74_taking_off_1961.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/7d/F-4B_VF-74_taking_off_1961.jpg",
+      "width": 1883,
+      "height": 1322,
+      "title": "F-4B VF-74 taking off 1961.jpg",
+      "description": "A U.S. Navy McDonnell F4H-1 <i>Phantom II</i> of Fighter Squadron VF-74 <i>Be-Devilers</i> assigned to Carrier Air Group 8 (CVG-8) aboard the aircraft carrier USS <i>Forrestal</i> (CVA-59) pictured ta",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Royal_Canadian_Navy_Memorial_Halifax.JPG/1280px-Royal_Canadian_Navy_Memorial_Halifax.JPG",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Royal_Canadian_Navy_Memorial_Halifax.JPG",
+      "width": 3000,
+      "height": 4000,
+      "title": "Royal Canadian Navy Memorial Halifax.JPG",
+      "description": "Memorial in Halifax, Nova Scotia to the members of the Royal Canadian Navy who perished during the Battle of the Atlantic in the Second World War.  The monument was dedicated by Queen Elizabeth II in ",
+      "license": "CC BY-SA 3.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Royal_Canadian_Navy_van_at_Corus_Quay.jpg/1280px-Royal_Canadian_Navy_van_at_Corus_Quay.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/39/Royal_Canadian_Navy_van_at_Corus_Quay.jpg",
+      "width": 4608,
+      "height": 3456,
+      "title": "Royal Canadian Navy van at Corus Quay.jpg",
+      "description": "Royal Canadian Navy van at Corus Quay, Toronto, Ontario, Canada. Canadian military license plate 04692.",
+      "license": "CC0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/US_Navy_020123-N-9769P-012_F-14.jpg/1280px-US_Navy_020123-N-9769P-012_F-14.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/9d/US_Navy_020123-N-9769P-012_F-14.jpg",
+      "width": 2000,
+      "height": 1312,
+      "title": "US Navy 020123-N-9769P-012 F-14.jpg",
+      "description": "At sea aboard USS John C. Stennis (CVN 74) Jan. 23, 2002 -- Aviation Boatswain's Mate 1st Class Ruben Guererro (right) from Los Angeles Calif. and Aviation Boatswain's Mate 3rd Class Matt Porter from ",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/US_Navy_020307-N-9769P-277_F-A-18_Launching_from_flight_deck_CVN_74.jpg/1280px-US_Navy_020307-N-9769P-277_F-A-18_Launching_from_flight_deck_CVN_74.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/aa/US_Navy_020307-N-9769P-277_F-A-18_Launching_from_flight_deck_CVN_74.jpg",
+      "width": 2000,
+      "height": 1312,
+      "title": "US Navy 020307-N-9769P-277 F-A-18 Launching from flight deck CVN 74.jpg",
+      "description": "020307-N-9769P-277\nAt sea aboard USS John C. Stennis (CVN 74) Mar. 7, 2002 -- Armed with a 2000-pound MK-86 Joint Defense Attack Munition (JDAM), an F/A-18 \"Hornet\" from the \"Black Knights\" of Marine ",
+      "license": "Public domain",
+      "source": "wikimedia"
+    }
+  ]
+}

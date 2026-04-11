@@ -1,0 +1,332 @@
+{
+  "combat_history": [],
+  "modernization": [
+    {
+      "program": "PWR3 Reactor Development",
+      "status": "in-progress",
+      "timeline": "2024-2030",
+      "description": "Development of new reactor core that will not require refueling during submarine's operational life, incorporating US S9G reactor technology under AUKUS partnership",
+      "impact": "Eliminates complex and expensive mid-life refueling, reduces through-life costs by approximately \u00a34 billion"
+    },
+    {
+      "program": "Common Missile Compartment Integration",
+      "status": "in-progress",
+      "timeline": "2025-2030",
+      "description": "Integration of US-designed Common Missile Compartment (CMC) shared with Columbia-class, housing 12 Trident missile tubes",
+      "impact": "Reduces development costs through shared technology with US Navy, ensures Trident D5LE compatibility"
+    },
+    {
+      "program": "CMS-1 Combat System",
+      "status": "in-progress",
+      "timeline": "2026-2030",
+      "description": "New integrated combat management system replacing legacy systems, providing enhanced situational awareness and threat response capabilities",
+      "impact": "Modernizes command and control capabilities to handle 21st century threats and multi-domain operations"
+    }
+  ],
+  "vulnerabilities": [
+    {
+      "area": "Program delays and cost overruns",
+      "description": "First boat delivery has slipped multiple times, with costs rising from \u00a331bn to over \u00a341bn program total. Critical skills shortages at Barrow shipyard limiting construction pace",
+      "context": "Delays risk gap in continuous deterrent if Vanguard-class boats cannot be life-extended further. Skills crisis reflects decades of reduced submarine construction",
+      "mitigation": "Increased investment in apprenticeships, partnerships with US/Australian shipyards under AUKUS framework"
+    },
+    {
+      "area": "Dependence on US missile technology",
+      "description": "Complete reliance on US Trident missiles creates potential vulnerability to US policy changes or supply disruptions",
+      "context": "Brexit has complicated European defense cooperation, leaving US as only viable partner for strategic missile technology",
+      "mitigation": "AUKUS partnership deepens integration with US systems, but increases rather than reduces dependence"
+    },
+    {
+      "area": "Single point of failure infrastructure",
+      "description": "All boats will be based at Faslane, all built at Barrow. Single catastrophic event could cripple entire deterrent force",
+      "context": "Geographic concentration simplifies logistics but creates strategic vulnerability to targeted attack or accident",
+      "mitigation": "Enhanced base security and distributed maintenance capabilities, but fundamental vulnerability remains"
+    },
+    {
+      "area": "Advanced detection technologies",
+      "description": "Emerging quantum sensors, AI-enhanced sonar processing, and satellite surveillance technologies may erode traditional submarine stealth advantages",
+      "context": "China and Russia investing heavily in anti-submarine warfare technologies specifically designed to counter Western SSBNs",
+      "mitigation": "Advanced anechoic coatings and signature management, but technological arms race favors detection over concealment"
+    }
+  ],
+  "operational_patterns": {
+    "typical_deployment": "Continuous At-Sea Deterrent (CASD) patrol, one boat always at sea",
+    "deployment_length_months": 3,
+    "key_operating_areas": [
+      "North Atlantic",
+      "Arctic waters",
+      "Classified patrol areas"
+    ],
+    "typical_task_group": "Solo operations, no escorts to maintain stealth",
+    "readiness_notes": "Requires minimum of 3 boats operational to maintain CASD, with fourth in deep maintenance"
+  },
+  "peer_comparisons": [
+    {
+      "platform": "Columbia-class SSBN",
+      "country": "United States",
+      "relationship": "allied equivalent",
+      "key_differences": "Columbia-class larger with 16 missile tubes vs 12, shares Common Missile Compartment technology but different reactor design. US boats optimized for Pacific operations while Dreadnought focused on Atlantic/Arctic.",
+      "video_angle": "Comparing costs and capabilities of allied deterrent forces - why UK chose smaller boats"
+    },
+    {
+      "platform": "Type 094 Jin-class SSBN",
+      "country": "China",
+      "relationship": "strategic rival",
+      "key_differences": "Jin-class significantly noisier and less capable, carries shorter-range JL-2 missiles requiring forward deployment. Represents growing but still limited Chinese sea-based deterrent.",
+      "video_angle": "David vs Goliath - how Western submarine technology maintains qualitative edge over Chinese numbers"
+    },
+    {
+      "platform": "Borei-class SSBN",
+      "country": "Russia",
+      "relationship": "strategic rival",
+      "key_differences": "Borei-class carries 16 Bulava missiles with comparable range, but suffers reliability issues. Russian boats larger but potentially noisier than Dreadnought design.",
+      "video_angle": "Cold War submarine rivalry enters new generation - comparing British and Russian deterrent modernization"
+    },
+    {
+      "platform": "Le Triomphant-class SSBN",
+      "country": "France",
+      "relationship": "allied competitor",
+      "key_differences": "French boats carry indigenous M51 missiles, smaller crew, different operational pattern. Represents independent European approach vs UK reliance on US technology.",
+      "video_angle": "Brexit implications - comparing independent French deterrent vs UK-US integrated approach"
+    }
+  ],
+  "search_keywords": [
+    "dreadnought class",
+    "dreadnought submarine",
+    "SSBN(R)",
+    "trident replacement",
+    "successor submarine",
+    "PWR3",
+    "continuous at-sea deterrent",
+    "CASD",
+    "royal navy SSBN",
+    "HMS dreadnought"
+  ],
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Adm._Kinnaird_R._McKee_speaks_during_the_commissioning_of_the_submarine_USS_Nevada_%28SSBN_733%29.jpg/1280px-Adm._Kinnaird_R._McKee_speaks_during_the_commissioning_of_the_submarine_USS_Nevada_%28SSBN_733%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Adm._Kinnaird_R._McKee_speaks_during_the_commissioning_of_the_submarine_USS_Nevada_%28SSBN_733%29.jpg",
+      "width": 1974,
+      "height": 3000,
+      "title": "Adm. Kinnaird R. McKee speaks during the commissioning of the submarine USS Nevada (SSBN 733).jpg",
+      "description": "Adm. Kinnaird R. McKee, director, Naval Nuclear Propulsion Program, speaks during the commissioning of the nuclear-powered strategic missile submarine USS Nevada (SSBN 733).",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Flickr_-_Official_U.S._Navy_Imagery_-_USS_Maryland_transits_the_Saint_Marys_River..jpg/1280px-Flickr_-_Official_U.S._Navy_Imagery_-_USS_Maryland_transits_the_Saint_Marys_River..jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Flickr_-_Official_U.S._Navy_Imagery_-_USS_Maryland_transits_the_Saint_Marys_River..jpg",
+      "width": 3358,
+      "height": 2235,
+      "title": "Flickr - Official U.S. Navy Imagery - USS Maryland transits the Saint Marys River..jpg",
+      "description": "<p>KINGS BAY, Ga. (Aud. 1, 2012) The Ohio-class ballistic missile submarine USS Maryland (SSBN 738) transits the Saint Marys River. Maryland returned to Naval Submarine Base Kings Bay following routin",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/USS_Alabama_SSBN_731.jpg/1280px-USS_Alabama_SSBN_731.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/79/USS_Alabama_SSBN_731.jpg",
+      "width": 3910,
+      "height": 2793,
+      "title": "USS Alabama SSBN 731.jpg",
+      "description": "PUGET SOUND, Wash. (APRIL. 28, 2017) - The Gold Crew of the Ohio-class ballistic-missile submarine USS Alabama (SSBN 731) transits the Hood Canal as the boat returns home to Naval Base Kitsap-Bangor f",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/USS_Henry_M._Jackson_%28SSBN_730%29_transits_the_Hood_Canal._%2825042515806%29.jpg/1280px-USS_Henry_M._Jackson_%28SSBN_730%29_transits_the_Hood_Canal._%2825042515806%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/00/USS_Henry_M._Jackson_%28SSBN_730%29_transits_the_Hood_Canal._%2825042515806%29.jpg",
+      "width": 4203,
+      "height": 2805,
+      "title": "USS Henry M. Jackson (SSBN 730) transits the Hood Canal. (25042515806).jpg",
+      "description": "<p>PUGET SOUND, Wash. (Feb. 15, 2016) The Gold Crew of the Ohio-class ballistic-missile submarine USS Henry M. Jackson (SSBN 730) transits the Hood Canal as the boat returns home to Naval Base Kitsap-",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/USS_Maine_%28SSBN_741%29_Dependents_Cruise_160913-N-UD469-015.jpg/1280px-USS_Maine_%28SSBN_741%29_Dependents_Cruise_160913-N-UD469-015.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/USS_Maine_%28SSBN_741%29_Dependents_Cruise_160913-N-UD469-015.jpg",
+      "width": 3391,
+      "height": 2422,
+      "title": "USS Maine (SSBN 741) Dependents Cruise 160913-N-UD469-015.jpg",
+      "description": "160913-N-UD469-015\n<p>PUGET SOUND, Wash. (Sept. 13, 2016) Family members ride Ohio-class ballistic-missile submarine USS Maine (SSBN 741) as it transits the Hood Canal during a Dependents Cruise. The ",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/USS_Pennsylvania_%28SSBN_735%29_transits_the_Hood._%2835516387574%29.jpg/1280px-USS_Pennsylvania_%28SSBN_735%29_transits_the_Hood._%2835516387574%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/78/USS_Pennsylvania_%28SSBN_735%29_transits_the_Hood._%2835516387574%29.jpg",
+      "width": 6874,
+      "height": 4671,
+      "title": "USS Pennsylvania (SSBN 735) transits the Hood. (35516387574).jpg",
+      "description": "<p>PUGET SOUND, Wash. (Aug. 2, 2017) The Ohio-class ballistic-missile submarine USS Pennsylvania (SSBN 735) transits the Hood Canal as the boat returns to its homeport at Naval Base Kitsap-Bangor foll",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/US_Navy_021122-N-6497N-008_Raising_the_colors_aboard_the_Ohio-class_strategic_missile_submarine_USS_Kentucky_%28SSBN_737%29.jpg/1280px-US_Navy_021122-N-6497N-008_Raising_the_colors_aboard_the_Ohio-class_strategic_missile_submarine_USS_Kentucky_%28SSBN_737%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/e5/US_Navy_021122-N-6497N-008_Raising_the_colors_aboard_the_Ohio-class_strategic_missile_submarine_USS_Kentucky_%28SSBN_737%29.jpg",
+      "width": 1960,
+      "height": 3008,
+      "title": "US Navy 021122-N-6497N-008 Raising the colors aboard the Ohio-class strategic missile submarine USS Kentucky (SSBN 737).jpg",
+      "description": "Bangor, Wash. (Nov. 22, 2002) -- Raising the colors aboard the Ohio-class strategic missile submarine USS Kentucky (SSBN 737) are Yeoman Seaman Apprentice Shaun R. Ispas and Electrician\u2019s Mate 3rd Cla",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/US_Navy_101118-N-1938G-001_independent_duty_corpsman_assigned_to_the_Ohio-class_ballistic-missile_submarine_USS_Rhode_Island_%28SSBN_740%29_shares_info.jpg/1280px-US_Navy_101118-N-1938G-001_independent_duty_corpsman_assigned_to_the_Ohio-class_ballistic-missile_submarine_USS_Rhode_Island_%28SSBN_740%29_shares_info.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/83/US_Navy_101118-N-1938G-001_independent_duty_corpsman_assigned_to_the_Ohio-class_ballistic-missile_submarine_USS_Rhode_Island_%28SSBN_740%29_shares_info.jpg",
+      "width": 2496,
+      "height": 1664,
+      "title": "US Navy 101118-N-1938G-001 independent duty corpsman assigned to the Ohio-class ballistic-missile submarine USS Rhode Island (SSBN 740) shares info.jpg",
+      "description": "KINGS BAY, Ga. (Nov. 18, 2010) Hospital Corpsman 1st Class Shawn A. Fisher, right, independent duty corpsman assigned to the Ohio-class ballistic-missile submarine USS Rhode Island (SSBN 740) shares i",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/A_fleet_of_submarines_passing_H.M.S._Dreadnought%2C_by_Charles_Edward_Dixon.jpg/1280px-A_fleet_of_submarines_passing_H.M.S._Dreadnought%2C_by_Charles_Edward_Dixon.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/A_fleet_of_submarines_passing_H.M.S._Dreadnought%2C_by_Charles_Edward_Dixon.jpg",
+      "width": 3182,
+      "height": 3200,
+      "title": "A fleet of submarines passing H.M.S. Dreadnought, by Charles Edward Dixon.jpg",
+      "description": "A fleet of submarines passing H.M.S. Dreadnought, by Charles Edward Dixon<br>\n<p>signed and dated 'Charles Dixon/09 -' (lower left)<br>\npen and black ink, black wash and bodycolour, on paper<br>\n</p>\n",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Artist%27s_rendering_of_Dreadnought-class_submarine.jpg/1280px-Artist%27s_rendering_of_Dreadnought-class_submarine.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/82/Artist%27s_rendering_of_Dreadnought-class_submarine.jpg",
+      "width": 1500,
+      "height": 843,
+      "title": "Artist's rendering of Dreadnought-class submarine.jpg",
+      "description": "Rendering of planned British Dreadnought-class ballistic missile submarine by BAE Systems",
+      "license": "OGL 3",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Artist_rendering_of_the_Royal_Navy_nuclear_ballistic_missile_submarine_HMS_Dreadnought_on_patrol.jpg/1280px-Artist_rendering_of_the_Royal_Navy_nuclear_ballistic_missile_submarine_HMS_Dreadnought_on_patrol.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Artist_rendering_of_the_Royal_Navy_nuclear_ballistic_missile_submarine_HMS_Dreadnought_on_patrol.jpg",
+      "width": 1920,
+      "height": 1080,
+      "title": "Artist rendering of the Royal Navy nuclear ballistic missile submarine HMS Dreadnought on patrol.jpg",
+      "description": "A computer graphic depicting HMS Dreadnought on patrol",
+      "license": "OGL v1.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d3/De_eerste_Britse_nucleaire_onderzee%C3%ABr_Dreadnought_reproductie_schilderij%2C_asset_W9PbPqiYiFGtUAVSTHCVUwVq.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/d3/De_eerste_Britse_nucleaire_onderzee%C3%ABr_Dreadnought_reproductie_schilderij%2C_asset_W9PbPqiYiFGtUAVSTHCVUwVq.jpg",
+      "width": 320,
+      "height": 230,
+      "title": "De eerste Britse nucleaire onderzee\u00ebr Dreadnought reproductie schilderij, asset W9PbPqiYiFGtUAVSTHCVUwVq.jpg",
+      "description": "<br>Title: De eerste Britse nucleaire onderzee\u00ebr \"Dreadnought\"; reproductie schilderij<br>Dating: 1958-11-06<br>Format original: hoogte 178 mm (geheel)<br>breedte 231 mm (geheel)<br>hoogte 152 mm (geh",
+      "license": "CC0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/HMS_Dreadnought_1906_H61017.jpg/1280px-HMS_Dreadnought_1906_H61017.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/62/HMS_Dreadnought_1906_H61017.jpg",
+      "width": 3001,
+      "height": 2258,
+      "title": "HMS Dreadnought 1906 H61017.jpg",
+      "description": "<b>HMS <i>Dreadnought</i></b> (British Battleship, 1906) underway, circa 1906-07; \n<b>Removed caption read:</b> Photo # NH 61017 \u00a0\u00a0\u00a0 HMS <i>Dreadnought</i> (British battleship, 1906)",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Rendering_of_Dreadnought-class_submarine.webp/1280px-Rendering_of_Dreadnought-class_submarine.webp.png",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/40/Rendering_of_Dreadnought-class_submarine.webp",
+      "width": 1920,
+      "height": 995,
+      "title": "Rendering of Dreadnought-class submarine.webp",
+      "description": "Artist's impression of Dreadnought-class submarine, 2025",
+      "license": "OGL 3",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Submarines_passing_Dreadnought_RMG_PW1230.tiff/lossy-page1-1280px-Submarines_passing_Dreadnought_RMG_PW1230.tiff.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Submarines_passing_Dreadnought_RMG_PW1230.tiff",
+      "width": 2507,
+      "height": 3800,
+      "title": "Submarines passing Dreadnought RMG PW1230.tiff",
+      "description": "Submarines passing Dreadnought<br>\nSigned by artist.",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Successor-class_submarine_program.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Successor-class_submarine_program.jpg",
+      "width": 931,
+      "height": 638,
+      "title": "Successor-class submarine program.jpg",
+      "description": "An artist rendering of future Successor-class submarine. Successor-class is United Kingdom future ballistic missile submarine which will be the replacement for the Vanguard class.",
+      "license": "OGL v1.0",
+      "source": "wikimedia"
+    }
+  ],
+  "doctrine": {
+    "role": "Guarantee the survival of Britain's minimum credible nuclear deterrent through undetectable second-strike capability, ensuring national independence and NATO's extended deterrence architecture remains credible.",
+    "employment": "Operates under the Continuous At-Sea Deterrent (CASD) doctrine with one boat always on patrol in classified patrol areas, maintaining 24/7 launch readiness. Command authority flows directly from the Prime Minister through the Chief of Defence Staff, bypassing normal naval command structures. Each patrol typically lasts 2-3 months with complete operational independence, carrying sealed letters of last resort for use if the UK government is destroyed.",
+    "design_philosophy": "Prioritised absolute stealth and patrol endurance over speed or conventional warfare capability, accepting reduced torpedo capacity and eliminating non-essential systems that could compromise acoustic signature. Designers emphasised reliability and maintainability over cutting-edge technology to ensure 25+ year service life with minimal risk of mission-critical failures.",
+    "threat_context": "Originally designed against Cold War Soviet ASW capabilities, now faces increasingly sophisticated Chinese and Russian submarine detection networks including underwater sensor arrays and AI-enhanced acoustic processing. The threat environment has shifted from predictable bilateral deterrence to complex multipolar scenarios involving cyber warfare against command systems and space-based detection capabilities.",
+    "comparison_frame": "Compare primarily on patrol duration, acoustic signature, and missile capacity rather than speed or multi-role capability\u2014all modern SSBNs achieve adequate submerged performance. The critical metrics are stealth technology generation, reactor service life, and weapons system compatibility with national nuclear doctrine rather than platform versatility."
+  },
+  "curated_sources": [
+    {
+      "title": "British Nuclear Weapons: The Policy and Politics of Deterrence 1945-2020",
+      "type": "book",
+      "url": "",
+      "relevance": "Provides comprehensive analysis of UK nuclear doctrine evolution and how SSBN requirements derive from political deterrence strategy.",
+      "priority": "essential"
+    },
+    {
+      "title": "The Future of the UK's Strategic Nuclear Deterrent: the White Paper",
+      "type": "report",
+      "url": "https://www.gov.uk/government/publications/the-future-of-the-uks-strategic-nuclear-deterrent-the-white-paper",
+      "relevance": "Official UK government justification for Dreadnought programme including threat assessment and capability requirements.",
+      "priority": "essential"
+    },
+    {
+      "title": "RUSI Defence Systems: Naval Warfare and Maritime Security",
+      "type": "analyst",
+      "url": "https://rusi.org/explore-our-research/subjects/defence-systems",
+      "relevance": "Leading UK defence think tank providing ongoing analysis of Royal Navy submarine programmes and nuclear deterrent policy.",
+      "priority": "recommended"
+    },
+    {
+      "title": "Norman Friedman - British Submarines in Two World Wars",
+      "type": "book",
+      "url": "",
+      "relevance": "Friedman's analysis of British submarine design philosophy and operational doctrine provides historical context for modern SSBN development.",
+      "priority": "recommended"
+    },
+    {
+      "title": "UK Dreadnought Class - Naval Technology",
+      "type": "database",
+      "url": "https://www.naval-technology.com/projects/dreadnought-class/",
+      "relevance": "Comprehensive technical specifications and programme timeline for the Dreadnought-class development.",
+      "priority": "reference"
+    },
+    {
+      "title": "The Cost of Continuous At-Sea Deterrent - House of Commons Defence Committee",
+      "type": "report",
+      "url": "https://committees.parliament.uk/work/93/trident-and-alternatives/news/",
+      "relevance": "Parliamentary analysis of CASD operational requirements and their impact on submarine design specifications.",
+      "priority": "recommended"
+    },
+    {
+      "title": "Submarine Warfare: An Analysis of Submarine Operations in World War II",
+      "type": "book",
+      "url": "",
+      "relevance": "Milan Vego's doctrinal framework for understanding submarine operational employment and strategic roles.",
+      "priority": "reference"
+    },
+    {
+      "title": "World Directory of Modern Military Warships - UK Submarines",
+      "type": "database",
+      "url": "https://www.seaforces.org/marint/Royal-Navy/Submarine/",
+      "relevance": "Detailed specifications database for comparing Dreadnought-class capabilities against international SSBN programs.",
+      "priority": "reference"
+    }
+  ]
+}

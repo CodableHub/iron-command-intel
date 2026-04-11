@@ -1,0 +1,279 @@
+{
+  "combat_history": [
+    {
+      "date": "2015-12-08",
+      "operation": "Operation in Syria",
+      "event": "B-237 Rostov-on-Don fired Kalibr cruise missiles at ISIS targets in Syria from submerged position in Mediterranean, first combat use of submarine-launched Kalibr",
+      "significance": "Demonstrated Russia's new long-range precision strike capability from conventional submarines, major capability evolution"
+    },
+    {
+      "date": "2016-12-15",
+      "operation": "Syria strikes",
+      "event": "B-262 Stary Oskol launched Kalibr missiles at targets in Idlib province from Eastern Mediterranean",
+      "significance": "Confirmed operational deployment pattern of Kilo submarines for strategic strike missions beyond traditional ASW role"
+    },
+    {
+      "date": "2022-03-24",
+      "operation": "Ukraine conflict",
+      "event": "B-268 Velikiy Novgorod reportedly struck land targets in Ukraine with Kalibr missiles from Black Sea patrol area",
+      "significance": "Demonstrates continued tactical relevance in regional conflicts and area denial operations"
+    },
+    {
+      "date": "2019-06-19",
+      "operation": "Gulf of Oman incident",
+      "event": "Iranian Kilo-class Tareq closely shadowed USS Abraham Lincoln CSG, demonstrating ability to operate undetected near major surface combatants",
+      "significance": "Highlighted asymmetric threat potential and stealth capabilities against advanced naval forces"
+    }
+  ],
+  "modernization": [
+    {
+      "program": "Project 636.3 Varshavyanka production",
+      "status": "in-progress",
+      "timeline": "2014-2024",
+      "description": "Continued production of improved Kilo variants with Kalibr capability, enhanced sonar, and improved stealth characteristics for Russian Navy and export customers",
+      "impact": "Maintains relevance of diesel-electric submarine force with strategic strike capability"
+    },
+    {
+      "program": "Existing Kilo upgrades",
+      "status": "in-progress",
+      "timeline": "2020-2030",
+      "description": "Retrofit programs for earlier Project 877/636 boats to add Kalibr capability and modernize sonar/combat systems",
+      "impact": "Extends service life and enhances capability of legacy hulls"
+    },
+    {
+      "program": "Export modernization packages",
+      "status": "ongoing",
+      "timeline": "2018-2028",
+      "description": "Upgrade programs for export operators including India, China, and Algeria focusing on sonar improvements and weapon system updates",
+      "impact": "Maintains competitive position in export submarine market"
+    }
+  ],
+  "vulnerabilities": [
+    {
+      "area": "Air-independent propulsion",
+      "description": "Lacks AIP system, limiting underwater endurance to 72 hours compared to modern AIP submarines that can remain submerged for weeks",
+      "context": "Major disadvantage in extended patrol operations and contested waters where frequent snorkeling exposes the boat to detection",
+      "mitigation": "Russia developing new AIP systems but retrofitting existing Kilos appears unlikely due to cost"
+    },
+    {
+      "area": "Sonar technology gap",
+      "description": "While quiet, sonar and processing capabilities lag behind latest Western systems, particularly in shallow water detection and classification",
+      "context": "Reduces situational awareness and first-shot capability against advanced opponents with superior passive sonar arrays",
+      "mitigation": "Project 636.3 includes improved MGK-400EM sonar but still uses older processing algorithms"
+    },
+    {
+      "area": "Limited missile capacity",
+      "description": "Must sacrifice torpedo capacity for Kalibr missiles, creating difficult trade-offs between ASW and strike missions",
+      "context": "Unlike VLS-equipped submarines, Kilos cannot carry both full torpedo loadout and maximum cruise missiles simultaneously",
+      "mitigation": "Mission-specific loadouts required, reducing tactical flexibility"
+    },
+    {
+      "area": "Maintenance infrastructure",
+      "description": "Many export operators lack adequate submarine maintenance facilities, reducing operational availability",
+      "context": "Critical for sustained operations, several export navies report low availability rates due to maintenance bottlenecks",
+      "mitigation": "Russia providing maintenance support packages but this creates operational dependencies"
+    }
+  ],
+  "operational_patterns": {
+    "typical_deployment": "Coastal patrol and area denial, strategic strike missions from patrol areas",
+    "deployment_length_months": 1,
+    "key_operating_areas": [
+      "Black Sea",
+      "Baltic Sea",
+      "Mediterranean",
+      "Persian Gulf",
+      "South China Sea"
+    ],
+    "typical_task_group": "Independent operations, occasionally coordinated with surface fleet movements",
+    "readiness_notes": "Russian Navy Kilos maintain higher readiness than export operators due to better maintenance infrastructure"
+  },
+  "peer_comparisons": [
+    {
+      "platform": "Type 214 submarine",
+      "country": "Germany",
+      "relationship": "direct rival",
+      "key_differences": "Type 214 features AIP for extended underwater endurance but Kilo offers proven reliability and lower cost. Kilo has demonstrated combat effectiveness while Type 214 remains unproven in conflict.",
+      "video_angle": "Traditional diesel-electric vs modern AIP technology trade-offs"
+    },
+    {
+      "platform": "Soryu-class submarine",
+      "country": "Japan",
+      "relationship": "advanced peer",
+      "key_differences": "Soryu features sophisticated AIP system and advanced sonar but costs significantly more than Kilo. Soryu designed for open ocean operations while Kilo optimized for littoral combat.",
+      "video_angle": "High-tech vs cost-effective submarine design philosophies"
+    },
+    {
+      "platform": "Scorp\u00e8ne-class submarine",
+      "country": "France",
+      "relationship": "export rival",
+      "key_differences": "Scorp\u00e8ne offers modular design and Western systems integration but Kilo provides strategic missile capability and lower acquisition cost. Both compete heavily in export markets.",
+      "video_angle": "European vs Russian submarine export competition"
+    },
+    {
+      "platform": "Song-class submarine (Type 039)",
+      "country": "China",
+      "relationship": "successor design",
+      "key_differences": "Song-class incorporates Kilo technology acquired through purchases but adds indigenous Chinese systems. Less proven than Kilo but offers AIP capability in later variants.",
+      "video_angle": "Technology transfer impact on submarine development"
+    },
+    {
+      "platform": "Gotland-class submarine",
+      "country": "Sweden",
+      "relationship": "specialized peer",
+      "key_differences": "Gotland pioneered operational AIP and is extremely quiet but lacks Kilo's strategic strike capability and has limited export success. Designed specifically for Baltic operations.",
+      "video_angle": "Specialized regional design vs multi-role export platform"
+    }
+  ],
+  "search_keywords": [
+    "kilo class",
+    "project 877",
+    "project 636",
+    "varshavyanka",
+    "636.3",
+    "russian submarine",
+    "diesel electric submarine",
+    "kalibr missile",
+    "club-s",
+    "black hole submarine"
+  ],
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/A_starboard_view_of_the_Russian_Kilo-class_patrol_submarine_underway_-_DPLA_-_b35309edfcf0a00c7b63b6f196239aff.jpeg/1280px-A_starboard_view_of_the_Russian_Kilo-class_patrol_submarine_underway_-_DPLA_-_b35309edfcf0a00c7b63b6f196239aff.jpeg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/af/A_starboard_view_of_the_Russian_Kilo-class_patrol_submarine_underway_-_DPLA_-_b35309edfcf0a00c7b63b6f196239aff.jpeg",
+      "width": 3000,
+      "height": 2401,
+      "title": "A starboard view of the Russian Kilo-class patrol submarine underway - DPLA - b35309edfcf0a00c7b63b6f196239aff.jpeg",
+      "description": "<div class=\"description\">\nThe original finding aid described this photograph as: Country: Black Sea Scene Camera Operator: Unknown Release Status: Released to Public</div>",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/An_elevated_starboard_bow_view_of_a_Soviet_Kilo_class_patrol_submarine_underway_-_DPLA_-_f6fe48fa47c933871b49b0735ae55579.jpeg/1280px-An_elevated_starboard_bow_view_of_a_Soviet_Kilo_class_patrol_submarine_underway_-_DPLA_-_f6fe48fa47c933871b49b0735ae55579.jpeg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/ed/An_elevated_starboard_bow_view_of_a_Soviet_Kilo_class_patrol_submarine_underway_-_DPLA_-_f6fe48fa47c933871b49b0735ae55579.jpeg",
+      "width": 3000,
+      "height": 2400,
+      "title": "An elevated starboard bow view of a Soviet Kilo class patrol submarine underway - DPLA - f6fe48fa47c933871b49b0735ae55579.jpeg",
+      "description": "<div class=\"description\">\nThe original finding aid described this photograph as: Country: Unknown Scene Camera Operator: Unknown Release Status: Released to Public</div>",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Iranian_Kilo-class_submarine_4.jpg/1280px-Iranian_Kilo-class_submarine_4.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/30/Iranian_Kilo-class_submarine_4.jpg",
+      "width": 2600,
+      "height": 1860,
+      "title": "Iranian Kilo-class submarine 4.jpg",
+      "description": "A starboard quarter view of Iran's second Kilo-class diesel-powered attack submarine underway",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Kilo-class_in_SPb.JPG/1280px-Kilo-class_in_SPb.JPG",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/15/Kilo-class_in_SPb.JPG",
+      "width": 3264,
+      "height": 2448,
+      "title": "Kilo-class in SPb.JPG",
+      "description": "Russian built project 636M Algerian submarine \u00abAkram Pacha\u00bb in Saint-Petersburg.",
+      "license": "CC BY-SA 3.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Kilo_Submarine_DN-SC-96-00528.jpg/1280px-Kilo_Submarine_DN-SC-96-00528.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Kilo_Submarine_DN-SC-96-00528.jpg",
+      "width": 1926,
+      "height": 2889,
+      "title": "Kilo Submarine DN-SC-96-00528.jpg",
+      "description": "An aerial bow-on view of the Russian Northern Fleet KILO class diesel-powered attack submarine underway on the surface.(Exact date unknown)",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/64/Kilo_Vietnam_Submarine.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/64/Kilo_Vietnam_Submarine.jpg",
+      "width": 540,
+      "height": 270,
+      "title": "Kilo Vietnam Submarine.jpg",
+      "description": "Kilo class",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Submarine_Kilo_class.jpg/1280px-Submarine_Kilo_class.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/23/Submarine_Kilo_class.jpg",
+      "width": 3000,
+      "height": 2400,
+      "title": "Submarine Kilo class.jpg",
+      "description": "A starboard beam view of a Soviet Kilo class patrol submarine underway.",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Zr._Ms._Johan_de_Witt_intercepts_Kilo_class_submarine.jpg/1280px-Zr._Ms._Johan_de_Witt_intercepts_Kilo_class_submarine.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Zr._Ms._Johan_de_Witt_intercepts_Kilo_class_submarine.jpg",
+      "width": 3000,
+      "height": 2000,
+      "title": "Zr. Ms. Johan de Witt intercepts Kilo class submarine.jpg",
+      "description": "Zr. Ms. Johan de Witt begeleidde een nieuwe Russische onderzeeboot van de Kilo-klasse door de Noordzee, onderweg naar de Zwarte Zee. Als schip van de wacht kreeg de De Witt de opdracht om de onderzee\u00eb",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    }
+  ],
+  "doctrine": {
+    "role": "Sea denial in littoral waters and choke points, designed to attrit enemy naval forces attempting to approach Soviet/Russian territorial waters or threaten coastal installations.",
+    "employment": "Typically deployed as individual patrol units in predetermined defensive zones, operating from forward bases to maximize time on station. Primary mission profiles include anti-submarine warfare against enemy SSNs, anti-surface warfare against surface combatants, and intelligence gathering through covert surveillance. Command relationships emphasize coordination with coastal defense systems and shore-based maritime patrol aircraft for target cueing.",
+    "design_philosophy": "Designers prioritized acoustic stealth and simplicity over speed and endurance, accepting limited submerged speed (17-20 knots) and basic automation to achieve exceptional quietness and reliability. The platform sacrifices deep-ocean capability and sophisticated combat systems for cost-effectiveness and ease of maintenance, making it suitable for export and operation by smaller navies.",
+    "threat_context": "Originally designed to counter NATO submarine and surface threats in confined waters like the Baltic and Black Seas during the Cold War. The threat has evolved to include advanced Western SSNs with superior sensors and weapons range, forcing reliance on ambush tactics and defensive positioning rather than open-ocean pursuit.",
+    "comparison_frame": "Compare on acoustic signature and cost-effectiveness rather than speed or sensor suite sophistication \u2014 the Kilo's value lies in being undetectable while lying in wait. Endurance and weapons load matter for sustained operations, but stealth remains the primary performance metric for this defensive platform."
+  },
+  "curated_sources": [
+    {
+      "title": "Cold War Submarines: The Design and Construction of U.S. and Soviet Submarines by Norman Polmar and K.J. Moore",
+      "type": "book",
+      "url": "",
+      "relevance": "Provides comprehensive analysis of Soviet submarine design philosophy and the strategic context that drove Kilo-class development.",
+      "priority": "essential"
+    },
+    {
+      "title": "Russia's Military Modernisation: An Assessment by RUSI",
+      "type": "report",
+      "url": "https://rusi.org/explore-our-research/publications/whitehall-reports/russias-military-modernisation-assessment",
+      "relevance": "Examines current Russian naval doctrine and the role of conventional submarines in Moscow's maritime strategy.",
+      "priority": "essential"
+    },
+    {
+      "title": "The Military Balance 2024 - IISS",
+      "type": "database",
+      "url": "https://www.iiss.org/publications/the-military-balance",
+      "relevance": "Authoritative reference for current Kilo-class variants, operators, and technical specifications across all export customers.",
+      "priority": "recommended"
+    },
+    {
+      "title": "H I Sutton - Covert Shores",
+      "type": "analyst",
+      "url": "https://www.hisutton.com",
+      "relevance": "Leading open-source analyst tracking Kilo-class deployments, modifications, and operational patterns globally.",
+      "priority": "recommended"
+    },
+    {
+      "title": "Russian Nuclear Submarines by Norman Polmar",
+      "type": "book",
+      "url": "",
+      "relevance": "Despite the title, includes detailed coverage of Russian conventional submarine programs including Project 877/636 evolution.",
+      "priority": "recommended"
+    },
+    {
+      "title": "Kilo Class Submarines - Naval Technology",
+      "type": "database",
+      "url": "https://www.naval-technology.com/projects/kilo/",
+      "relevance": "Comprehensive technical specifications and export history of all Kilo-class variants.",
+      "priority": "reference"
+    },
+    {
+      "title": "Russia's Nuclear and Conventional Submarines by CSIS",
+      "type": "report",
+      "url": "https://www.csis.org/analysis/russias-nuclear-and-conventional-submarines",
+      "relevance": "Analysis of Russian submarine fleet modernization and the continued relevance of diesel-electric platforms.",
+      "priority": "reference"
+    }
+  ]
+}

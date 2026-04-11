@@ -1,0 +1,496 @@
+{
+  "id": 29,
+  "slug": "admiral-kuznetsov-carrier",
+  "name": "Admiral Kuznetsov-class aircraft carrier",
+  "designation": "Project 1143.5",
+  "type": "carrier",
+  "country": "Soviet Union/Russia",
+  "operator": "Russian Navy",
+  "overview_md": "**Admiral Kuznetsov** represents Russia's sole operational aircraft carrier and the last remnant of the Soviet Union's blue-water naval ambitions. Originally designed as Project 1143.5, she embodies a uniquely Soviet approach to carrier aviation\u2014combining traditional carrier capabilities with heavy surface combatant armament, including anti-ship missiles and defensive systems that Western carriers delegate to escorts.\n\nStrategically, Kuznetsov serves as the flagship of the Russian Navy and the centerpiece of Russian power projection capabilities, though her operational history reveals significant limitations. Her ski-jump launch system restricts aircraft payload and fuel capacity compared to catapult-equipped carriers, while chronic mechanical issues and limited dry-dock facilities have severely impacted readiness rates. The ship typically operates with 15-20 fixed-wing aircraft versus the 60-90 carried by US supercarriers.\n\nThe carrier's design philosophy reflects Soviet doctrine emphasizing self-defense and anti-surface warfare. Unlike American carriers that rely on escort vessels for protection, Kuznetsov mounts twelve P-700 Granit supersonic anti-ship missiles and comprehensive air defense systems. This approach sacrifices aircraft capacity for organic firepower, making her more of a hybrid aviation cruiser than a pure carrier.\n\nIn the current threat environment, Kuznetsov represents both Russia's naval prestige and its technological limitations. Her deployments to Syria (2016-2017) demonstrated Russia's commitment to power projection but also exposed severe operational deficiencies, including aircraft losses and propulsion failures. Compared to modern Chinese carriers or US Navy supercarriers, she represents 1980s Soviet technology struggling to maintain relevance in contemporary naval warfare, hampered by sanctions limiting access to Western components and Ukraine's control of her original construction facilities.",
+  "specs_json": {
+    "displacement_tonnes": 58500,
+    "length_m": 305,
+    "beam_m": 72,
+    "draft_m": 10,
+    "speed_knots": 29,
+    "range_nm": 8500,
+    "crew": 1960,
+    "propulsion": "Steam turbine, 4 shafts, 200,000 shp",
+    "radar": "Mars Passat (Top Plate) air search radar",
+    "sonar": "Zvezda-2 hull-mounted sonar",
+    "combat_system": "Russian naval combat data system",
+    "vls_cells": 192,
+    "additional": {
+      "aircraft_capacity": "20-30 fixed wing, 15-17 helicopters",
+      "ski_jump_angle": "12 degrees",
+      "flight_deck_length_m": 280,
+      "fuel_capacity_tonnes": 7200,
+      "aviation_fuel_tonnes": 3500
+    }
+  },
+  "armament_json": [
+    {
+      "category": "Anti-Ship Missiles",
+      "name": "P-700 Granit (SS-N-19 Shipwreck)",
+      "type": "supersonic anti-ship cruise missile",
+      "quantity": "12 launchers",
+      "range_km": 625,
+      "notes": "Primary anti-surface warfare capability"
+    },
+    {
+      "category": "SAM",
+      "name": "SA-N-9 Gauntlet (Kinzhal)",
+      "type": "short-range surface-to-air missile",
+      "quantity": "192 missiles, 8x24-cell VLS",
+      "range_km": 12,
+      "notes": "Point defense system"
+    },
+    {
+      "category": "CIWS",
+      "name": "AK-630",
+      "type": "30mm rotary cannon",
+      "quantity": "8 mounts",
+      "range_km": 4,
+      "notes": "Close-in weapons system"
+    },
+    {
+      "category": "ASW",
+      "name": "RBU-12000 Udav-1",
+      "type": "anti-submarine rocket launcher",
+      "quantity": "2 launchers",
+      "range_km": 12,
+      "notes": "240mm anti-submarine mortars"
+    },
+    {
+      "category": "Aircraft",
+      "name": "Su-33 Flanker-D",
+      "type": "carrier-based air superiority fighter",
+      "quantity": "12-18 aircraft",
+      "range_km": 3000,
+      "notes": "Primary fixed-wing aircraft"
+    }
+  ],
+  "variants_json": [
+    {
+      "name": "Project 1143.5 Kuznetsov",
+      "designation_range": "Admiral Kuznetsov (063)",
+      "years": "1991-present",
+      "count": 1,
+      "key_changes": "Original configuration with full armament suite and ski-jump launch system",
+      "status": "active"
+    },
+    {
+      "name": "Project 1143.6 Varyag",
+      "designation_range": "Varyag (later Liaoning)",
+      "years": "1988-1998 (incomplete)",
+      "count": 1,
+      "key_changes": "Sister ship sold incomplete to China, became Liaoning with significant modifications",
+      "status": "transferred"
+    },
+    {
+      "name": "Project 1143.7 Ulyanovsk",
+      "designation_range": "Ulyanovsk (cancelled)",
+      "years": "1988-1991",
+      "count": 0,
+      "key_changes": "Nuclear-powered variant with catapults and arresting gear, cancelled at 40% completion",
+      "status": "cancelled"
+    }
+  ],
+  "fleet_status_json": [
+    {
+      "hull_number": "063",
+      "name": "Admiral Kuznetsov",
+      "variant": "Project 1143.5",
+      "commissioned": "1991-01-21",
+      "home_port": "Severomorsk",
+      "status": "active"
+    }
+  ],
+  "cost_usd": 4500000000.0,
+  "unit_count": 1,
+  "first_commissioned": "1991-01-21",
+  "builder": "Nikolayev South Shipyard (Ukraine)",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e3/MilitarySportsHoliday2017-03.jpg",
+  "wiki_url": "https://en.wikipedia.org/wiki/Russian_aircraft_carrier_Admiral_Kuznetsov",
+  "sources_json": [
+    "https://en.wikipedia.org/wiki/Russian_aircraft_carrier_Admiral_Kuznetsov",
+    "https://www.naval-technology.com/projects/admiral_kuznetsov/",
+    "https://www.janes.com/defence-news",
+    "https://rusnavy.com/",
+    "https://www.defensenews.com/"
+  ],
+  "comparison_tags": [
+    "carrier",
+    "ski-jump",
+    "su-33",
+    "russian-navy",
+    "power-projection",
+    "hybrid-cruiser"
+  ],
+  "created_at": "2026-04-10 19:54:48",
+  "updated_at": "2026-04-10T19:54:48.163612",
+  "news": [
+    {
+      "id": 457,
+      "platform_id": 29,
+      "article_hash": "93eb7140d30e58ef",
+      "title": "Damen launches \u2018Drone Carrier\u2019 for the Portuguese Navy",
+      "url": "https://www.navalnews.com/naval-news/2026/04/damen-launches-drone-carrier-for-the-portuguese-navy/",
+      "source": "Naval News",
+      "published_at": "2026-04-07T20:47:26",
+      "relevance_score": 0.2,
+      "snippet": "Damen Shipyards Group has launched the NRP\u00a0D. Jo\u00e3o II a\u00a0Multi-Purpose Vessel\u00a0(MPV) 10720 for the Portuguese Navy. The vessel entered the water at\u00a0Damen Shipyards Galati\u00a0in Romania on April 7. Damen press release The launch event took place in the presence of Vice Admiral Pires on behalf of the Portu",
+      "created_at": "2026-04-10 21:05:29"
+    }
+  ],
+  "events": [],
+  "ic_coverage": [],
+  "combat_history": [
+    {
+      "date": "2016-11",
+      "operation": "Syrian Civil War deployment",
+      "event": "Admiral Kuznetsov deployed to Eastern Mediterranean, conducting air strikes against Syrian opposition forces. Lost 2 aircraft (Su-33 and MiG-29K) due to arresting gear failures, forced to operate from Syrian airfields.",
+      "significance": "First combat deployment exposed significant operational limitations and maintenance issues with carrier aviation systems"
+    },
+    {
+      "date": "2017-01",
+      "operation": "Syrian deployment conclusion",
+      "event": "Deployment cut short due to mechanical problems and aircraft losses. Heavy black smoke from propulsion issues became international embarrassment.",
+      "significance": "Highlighted chronic readiness problems and limited sustainable deployment capability"
+    },
+    {
+      "date": "2018-10",
+      "operation": "PD-50 dock incident",
+      "event": "Floating dry dock PD-50 sank during maintenance, damaging Kuznetsov with falling crane. Ship suffered hull damage and flooding.",
+      "significance": "Severely impacted maintenance schedule and highlighted Russia's limited naval infrastructure"
+    },
+    {
+      "date": "2019-12",
+      "operation": "Shipyard fire",
+      "event": "Major fire during refit killed 2 workers and caused extensive damage to internal systems during welding operations.",
+      "significance": "Further delayed modernization program and raised questions about Russian shipyard capabilities"
+    }
+  ],
+  "modernization": [
+    {
+      "program": "Major Overhaul and Modernization",
+      "status": "in-progress",
+      "timeline": "2018-2024 (delayed to 2024+)",
+      "description": "Complete overhaul including propulsion system repair, new boilers, updated electronics, and flight deck improvements. Originally planned to include new aircraft arresting systems.",
+      "impact": "Intended to extend service life to 2040s and improve operational availability, though multiple delays and accidents have compromised timeline"
+    },
+    {
+      "program": "Aircraft Wing Modernization",
+      "status": "planned",
+      "timeline": "2024-2030",
+      "description": "Replacement of aging Su-33s with MiG-29K/KUB aircraft and Ka-52K helicopters for improved multi-role capability.",
+      "impact": "Would provide more modern avionics and precision strike capability, though numbers remain limited"
+    }
+  ],
+  "vulnerabilities": [
+    {
+      "area": "Propulsion Reliability",
+      "description": "Chronic issues with steam boilers and propulsion plant, frequently producing visible black smoke and limiting speed/maneuverability. Lost propulsion during Syrian deployment.",
+      "context": "Severely limits operational deployment capability and creates vulnerability during combat operations",
+      "mitigation": "Current overhaul includes complete propulsion system renovation, but underlying design issues remain"
+    },
+    {
+      "area": "Aircraft Operations",
+      "description": "Ski-jump launch system limits aircraft payload and fuel capacity. Arresting gear failures caused multiple aircraft losses. Limited to 15-20 operational aircraft versus 60-90 on US carriers.",
+      "context": "Significantly reduces strike capability and operational flexibility compared to catapult-equipped carriers",
+      "mitigation": "Pilot training improvements and arresting gear modifications planned, but fundamental launch limitations cannot be addressed without major reconstruction"
+    },
+    {
+      "area": "Industrial Support",
+      "description": "Built in Ukraine (now hostile), limited dry-dock facilities in Russia, and sanctions restricting access to Western components for electronics and systems.",
+      "context": "Makes major repairs and modernization extremely difficult and expensive, limiting long-term viability",
+      "mitigation": "Attempting to develop domestic alternatives, but technological gaps remain significant especially in electronics and precision manufacturing"
+    },
+    {
+      "area": "Air Defense Saturation",
+      "description": "While heavily armed for self-defense, older radar systems and limited missile inventory vulnerable to coordinated saturation attacks by modern anti-ship missiles.",
+      "context": "In conflict with peer adversary, would require significant escort protection despite organic defensive armament",
+      "mitigation": "Modernization includes some radar updates, but fundamental sensor and processing limitations remain"
+    }
+  ],
+  "operational_patterns": {
+    "typical_deployment": "Flagship of Northern Fleet, primarily operates in North Atlantic and Arctic regions with occasional Mediterranean deployments",
+    "deployment_length_months": 4,
+    "key_operating_areas": [
+      "Barents Sea",
+      "Norwegian Sea",
+      "Eastern Mediterranean",
+      "Arctic Ocean"
+    ],
+    "typical_task_group": "Usually operates with Kirov-class cruiser, Udaloy-class destroyers, and nuclear submarines for protection",
+    "readiness_notes": "Extremely limited operational availability due to maintenance issues - typically 1-2 deployments per decade rather than regular rotations"
+  },
+  "peer_comparisons": [
+    {
+      "platform": "Liaoning (Type 001)",
+      "country": "China",
+      "relationship": "sister ship",
+      "key_differences": "Sister ship completed by China with improved electronics, better maintenance, and more reliable operations. Liaoning demonstrates what Kuznetsov could be with proper industrial support and investment.",
+      "video_angle": "Sister ships, different fates - how Chinese investment transformed Soviet hull into more capable platform"
+    },
+    {
+      "platform": "Charles de Gaulle",
+      "country": "France",
+      "relationship": "peer medium carrier",
+      "key_differences": "Nuclear powered, catapult launch system, modern electronics. Significantly more capable despite smaller size due to superior launch/recovery systems and higher operational availability.",
+      "video_angle": "Old vs new carrier design philosophy - Soviet quantity vs Western quality approach"
+    },
+    {
+      "platform": "INS Vikramaditya",
+      "country": "India",
+      "relationship": "modified Kiev-class predecessor",
+      "key_differences": "Heavily modified Kiev-class with ski-jump added, similar limitations but better industrial support and modernization. Shows alternative path for Soviet carrier development.",
+      "video_angle": "Soviet carrier evolution - different paths for similar designs"
+    },
+    {
+      "platform": "HMS Queen Elizabeth",
+      "country": "United Kingdom",
+      "relationship": "modern ski-jump carrier",
+      "key_differences": "Modern ski-jump design optimized for F-35B STOVL aircraft, much larger flight deck, no organic weapons. Represents modern interpretation of ski-jump carrier concept.",
+      "video_angle": "Ski-jump carriers old vs new - how technology changed the concept"
+    },
+    {
+      "platform": "USS Gerald R. Ford",
+      "country": "United States",
+      "relationship": "peer supercarrier",
+      "key_differences": "Nuclear powered, electromagnetic catapults, 3x aircraft capacity, dedicated aviation platform without organic weapons. Represents completely different carrier philosophy prioritizing air power over self-defense.",
+      "video_angle": "Carrier philosophy clash - Soviet hybrid cruiser-carrier vs American pure aviation platform"
+    }
+  ],
+  "search_keywords": [
+    "admiral kuznetsov",
+    "kuznetsov carrier",
+    "project 1143.5",
+    "russian carrier",
+    "soviet carrier",
+    "063 kuznetsov",
+    "su-33",
+    "granit missile",
+    "ski jump carrier"
+  ],
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/20110421_Tbilisi_Georgia_Panoramic.jpg/1280px-20110421_Tbilisi_Georgia_Panoramic.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/ae/20110421_Tbilisi_Georgia_Panoramic.jpg",
+      "width": 4000,
+      "height": 1889,
+      "title": "20110421 Tbilisi Georgia Panoramic.jpg",
+      "description": "Panoramic view of <a href=\"https://en.wikipedia.org/wiki/Tbilisi\" class=\"extiw\" title=\"en:Tbilisi\">Tbilisi</a>, <a href=\"https://en.wikipedia.org/wiki/en:Georgia_(country)\" class=\"extiw\" title=\"w:en:G",
+      "license": "CC BY-SA 3.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Admiral_Kuznetsov%2C_Russian_Aircraft_Carrier_%2818996981764%29.jpg/1280px-Admiral_Kuznetsov%2C_Russian_Aircraft_Carrier_%2818996981764%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Admiral_Kuznetsov%2C_Russian_Aircraft_Carrier_%2818996981764%29.jpg",
+      "width": 6912,
+      "height": 4613,
+      "title": "Admiral Kuznetsov, Russian Aircraft Carrier (18996981764).jpg",
+      "description": "Admiral Kuznetsov, Russian Aircraft Carrier",
+      "license": "CC BY 2.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Admiral_Kuznetsov_aircraft_carrier.jpg/1280px-Admiral_Kuznetsov_aircraft_carrier.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Admiral_Kuznetsov_aircraft_carrier.jpg",
+      "width": 1920,
+      "height": 950,
+      "title": "Admiral Kuznetsov aircraft carrier.jpg",
+      "description": "Admiral Kuznetsov aircraft carrier",
+      "license": "CC BY 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Aircraft_carrier_%22Admiral_Kuznetsov%22_in_1991.jpeg/1280px-Aircraft_carrier_%22Admiral_Kuznetsov%22_in_1991.jpeg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Aircraft_carrier_%22Admiral_Kuznetsov%22_in_1991.jpeg",
+      "width": 2960,
+      "height": 1936,
+      "title": "Aircraft carrier \"Admiral Kuznetsov\" in 1991.jpeg",
+      "description": "A starboard beam view of the Soviet aircraft carrier Fleet Admiral of the Soviet Union KUZNETSOV underway. The KUZNETSOV is en route to duty with the Soviet Northern Fleet.",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Aircraft_carrier_Admiral_Kuznetsov_%28in_dock%29.jpg/1280px-Aircraft_carrier_Admiral_Kuznetsov_%28in_dock%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/76/Aircraft_carrier_Admiral_Kuznetsov_%28in_dock%29.jpg",
+      "width": 1888,
+      "height": 1075,
+      "title": "Aircraft carrier Admiral Kuznetsov (in dock).jpg",
+      "description": "Aircraft carrier Admiral Kuznetsov (in dock)",
+      "license": "CC BY-SA 2.5",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Postage_stamps_presentation_booklet_for_limited_edition_government_gift_use_of_Iran%2C_official_visit_of_the_Chairman_of_the_Presidium_of_the_Supreme_Soviet_of_the_USSR_Leonid_Brezhnev_in_Iran%2C_november_1963.jpg/1280px-thumbnail.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/99/Postage_stamps_presentation_booklet_for_limited_edition_government_gift_use_of_Iran%2C_official_visit_of_the_Chairman_of_the_Presidium_of_the_Supreme_Soviet_of_the_USSR_Leonid_Brezhnev_in_Iran%2C_november_1963.jpg",
+      "width": 2900,
+      "height": 2068,
+      "title": "Postage stamps presentation booklet for limited edition government gift use of Iran, official visit of the Chairman of the Presidium of the Supreme Soviet of the USSR Leonid Brezhnev in Iran, november 1963.jpg",
+      "description": "Postage stamps presentation booklet for limited edition government gift use of Iran, official visit of the Chairman of the Presidium of the Supreme Soviet of the USSR Leonid Brezhnev in Iran, november",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Riga_Cathedral_Nave%2C_Riga%2C_Latvia_-_Diliff.jpg/1280px-Riga_Cathedral_Nave%2C_Riga%2C_Latvia_-_Diliff.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Riga_Cathedral_Nave%2C_Riga%2C_Latvia_-_Diliff.jpg",
+      "width": 6453,
+      "height": 6530,
+      "title": "Riga Cathedral Nave, Riga, Latvia - Diliff.jpg",
+      "description": "The nave of Riga Cathedral in Riga, Latvia.",
+      "license": "CC BY-SA 3.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Russian_aircraft_carrier_Kuznetsov.jpg/1280px-Russian_aircraft_carrier_Kuznetsov.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Russian_aircraft_carrier_Kuznetsov.jpg",
+      "width": 1459,
+      "height": 869,
+      "title": "Russian aircraft carrier Kuznetsov.jpg",
+      "description": "The Russian Aircraft Carrier Kuznetsov",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Amphibious_Training_and_Detachment%2C_Norfolk_VA._9-16-42_to_5-31-45_-_DPLA_-_56f49d0a2c2700944497d58be96439be_%28page_1143%29.jpg/1280px-Amphibious_Training_and_Detachment%2C_Norfolk_VA._9-16-42_to_5-31-45_-_DPLA_-_56f49d0a2c2700944497d58be96439be_%28page_1143%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Amphibious_Training_and_Detachment%2C_Norfolk_VA._9-16-42_to_5-31-45_-_DPLA_-_56f49d0a2c2700944497d58be96439be_%28page_1143%29.jpg",
+      "width": 3160,
+      "height": 4660,
+      "title": "Amphibious Training and Detachment, Norfolk VA. 9-16-42 to 5-31-45 - DPLA - 56f49d0a2c2700944497d58be96439be (page 1143).jpg",
+      "description": "",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Ariel_%28AF-22%29_Part_1%2C_5-14-42-12-31-43_-_DPLA_-_35714dcad5b731110b91fef32b26316e_%28page_1143%29.jpg/1280px-Ariel_%28AF-22%29_Part_1%2C_5-14-42-12-31-43_-_DPLA_-_35714dcad5b731110b91fef32b26316e_%28page_1143%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Ariel_%28AF-22%29_Part_1%2C_5-14-42-12-31-43_-_DPLA_-_35714dcad5b731110b91fef32b26316e_%28page_1143%29.jpg",
+      "width": 3097,
+      "height": 4340,
+      "title": "Ariel (AF-22) Part 1, 5-14-42-12-31-43 - DPLA - 35714dcad5b731110b91fef32b26316e (page 1143).jpg",
+      "description": "",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Augusta_%28CA-31%29%2C_1-31-39-5-31-45_-_DPLA_-_735659be8e3a31003e16d78295b7f551_%28page_1143%29.jpg/1280px-Augusta_%28CA-31%29%2C_1-31-39-5-31-45_-_DPLA_-_735659be8e3a31003e16d78295b7f551_%28page_1143%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Augusta_%28CA-31%29%2C_1-31-39-5-31-45_-_DPLA_-_735659be8e3a31003e16d78295b7f551_%28page_1143%29.jpg",
+      "width": 2908,
+      "height": 4492,
+      "title": "Augusta (CA-31), 1-31-39-5-31-45 - DPLA - 735659be8e3a31003e16d78295b7f551 (page 1143).jpg",
+      "description": "",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Bunker_Hill_%28CV-17%29%28Part_1%29%2C_5-25-42-12-31-44_-_DPLA_-_3c6dda9d5d27709ecf19755af983e5bf_%28page_1143%29.jpg/1280px-Bunker_Hill_%28CV-17%29%28Part_1%29%2C_5-25-42-12-31-44_-_DPLA_-_3c6dda9d5d27709ecf19755af983e5bf_%28page_1143%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Bunker_Hill_%28CV-17%29%28Part_1%29%2C_5-25-42-12-31-44_-_DPLA_-_3c6dda9d5d27709ecf19755af983e5bf_%28page_1143%29.jpg",
+      "width": 2000,
+      "height": 3012,
+      "title": "Bunker Hill (CV-17)(Part 1), 5-25-42-12-31-44 - DPLA - 3c6dda9d5d27709ecf19755af983e5bf (page 1143).jpg",
+      "description": "",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Chuichi_Hara%2C_Oct_27%2C_1948%28...%29_-_NARA_-_6997372_%28page_1143%29.jpg/1280px-Chuichi_Hara%2C_Oct_27%2C_1948%28...%29_-_NARA_-_6997372_%28page_1143%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Chuichi_Hara%2C_Oct_27%2C_1948%28...%29_-_NARA_-_6997372_%28page_1143%29.jpg",
+      "width": 3628,
+      "height": 5725,
+      "title": "Chuichi Hara, Oct 27, 1948(...) - NARA - 6997372 (page 1143).jpg",
+      "description": "",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/January_1945_-_Vol_5_-_DPLA_-_f004a2056fecf3d8810dd6408b1c4ce5_%28page_1143%29.jpg/1280px-January_1945_-_Vol_5_-_DPLA_-_f004a2056fecf3d8810dd6408b1c4ce5_%28page_1143%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/12/January_1945_-_Vol_5_-_DPLA_-_f004a2056fecf3d8810dd6408b1c4ce5_%28page_1143%29.jpg",
+      "width": 2376,
+      "height": 3691,
+      "title": "January 1945 - Vol 5 - DPLA - f004a2056fecf3d8810dd6408b1c4ce5 (page 1143).jpg",
+      "description": "",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/NMCB-5%E2%80%99s_Detachment_Diego_Garcia_set_up_for_a_project_requested_by_the_U_S_Air_Force_%285864604%29.jpg/1280px-NMCB-5%E2%80%99s_Detachment_Diego_Garcia_set_up_for_a_project_requested_by_the_U_S_Air_Force_%285864604%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/a1/NMCB-5%E2%80%99s_Detachment_Diego_Garcia_set_up_for_a_project_requested_by_the_U_S_Air_Force_%285864604%29.jpg",
+      "width": 2992,
+      "height": 2000,
+      "title": "NMCB-5\u2019s Detachment Diego Garcia set up for a project requested by the U S Air Force (5864604).jpg",
+      "description": "191023-N-XK887-1143 DIEGO GARCIA, British Indian Ocean Territory (Oct. 23, 2019) Steelworker 3rd Class Dalton O\u2019Cain, from Weirsdale, Florida, and Builder 3rd Class Bethann Crotchett, from Jerseyville",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/U_S_Navy_and_Royal_Thai_Navy_EOD_teams_conduct_surface_and_IED_scenarios_%289549841%29.jpg/1280px-U_S_Navy_and_Royal_Thai_Navy_EOD_teams_conduct_surface_and_IED_scenarios_%289549841%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/38/U_S_Navy_and_Royal_Thai_Navy_EOD_teams_conduct_surface_and_IED_scenarios_%289549841%29.jpg",
+      "width": 6406,
+      "height": 4271,
+      "title": "U S Navy and Royal Thai Navy EOD teams conduct surface and IED scenarios (9549841).jpg",
+      "description": "SATTAHIP, Thailand (March 2, 2026) - U.S. Navy and Royal Thai Navy Explosive Ordnance Disposal technicians conduct surface and Improvised Explosive Device (IED) scenario training, locating and disposi",
+      "license": "Public domain",
+      "source": "wikimedia"
+    }
+  ],
+  "doctrine": {
+    "role": "Power projection and sea control within defended bastions, serving as the centerpiece of Russia's Northern Fleet for Arctic and North Atlantic operations. Kuznetsov exists to challenge NATO naval supremacy in Russia's near-abroad while providing limited expeditionary capability for showing the flag in distant waters.",
+    "employment": "Operates as flagship of carrier strike groups typically including Kirov-class battlecruisers, Udaloy-class destroyers, and nuclear submarines for integrated air-surface warfare. Primary missions include fleet air defense, anti-submarine warfare coordination, and limited strike operations using embarked Su-33 fighters and Ka-27/29 helicopters. Command structure integrates with Northern Fleet headquarters for regional operations, though mechanical reliability severely constrains operational tempo and deployment duration.",
+    "design_philosophy": "Soviet designers prioritized survivability and self-sufficiency over aircraft capacity, incorporating heavy anti-ship missiles (P-700 Granit) and robust defensive systems that Western carriers delegate to escorts. This approach sacrificed hangar space and aviation fuel storage for magazine depth and armored protection, resulting in a smaller air wing (24 fixed-wing aircraft vs 60+ on comparable Western carriers) but greater independent combat capability.",
+    "threat_context": "Designed during the Cold War to operate under intense NATO air attack in the Norwegian Sea, facing coordinated strikes from land-based aviation, submarines, and carrier battle groups. The modern threat environment has shifted toward precision-guided munitions, space-based ISR, and distributed maritime operations, making Kuznetsov's heavy armor less relevant while exposing vulnerabilities in electronic warfare and missile defense systems.",
+    "comparison_frame": "Compare on air wing composition and sortie generation rates rather than displacement\u2014Kuznetsov's hybrid cruiser-carrier design makes tonnage comparisons misleading. Focus on defensive armament integration, ski-jump vs catapult trade-offs, and operational availability rates, as Russian carrier doctrine emphasizes combat resilience over sustained aviation operations."
+  },
+  "curated_sources": [
+    {
+      "title": "Russian Warships in the Age of Sail and Steam",
+      "type": "book",
+      "url": "",
+      "relevance": "Provides historical context for Russian naval aviation development and the strategic thinking behind Project 1143.5's unique design philosophy.",
+      "priority": "recommended"
+    },
+    {
+      "title": "Russia's Military Modernisation: An Assessment",
+      "type": "report",
+      "url": "https://www.iiss.org/publications/strategic-dossiers/russia-dossier",
+      "relevance": "IISS assessment covering Kuznetsov's role in Russian naval modernization and Arctic strategy implementation.",
+      "priority": "essential"
+    },
+    {
+      "title": "The Russian Navy: A Historical Transition in Fleet Development Strategy and Shipbuilding Technology",
+      "type": "report",
+      "url": "https://rusi.org/explore-our-research/publications/commentary/russian-navy-historical-transition-fleet-development-strategy-and-shipbuilding-technology",
+      "relevance": "RUSI analysis of Russian carrier development within broader fleet modernization context and operational constraints.",
+      "priority": "essential"
+    },
+    {
+      "title": "H I Sutton - Covert Shores",
+      "type": "analyst",
+      "url": "https://www.hisutton.com/",
+      "relevance": "Leading open-source analyst providing regular updates on Kuznetsov's operational status, refits, and deployment patterns.",
+      "priority": "recommended"
+    },
+    {
+      "title": "Admiral Kuznetsov - Project 1143.5",
+      "type": "database",
+      "url": "https://www.seaforces.org/marint/Russian-Navy/Aircraft-Carrier/Admiral-Kuznetsov_DAT/Admiral-Kuznetsov-aircraft-carrier.htm",
+      "relevance": "Comprehensive technical specifications and operational history database for Project 1143.5 class carriers.",
+      "priority": "reference"
+    },
+    {
+      "title": "The Future of the Russian Navy",
+      "type": "report",
+      "url": "https://www.csis.org/analysis/future-russian-navy",
+      "relevance": "CSIS strategic assessment of Russian naval priorities and Kuznetsov's role in future fleet architecture planning.",
+      "priority": "recommended"
+    },
+    {
+      "title": "Jane's Fighting Ships",
+      "type": "database",
+      "url": "",
+      "relevance": "Authoritative reference for current specifications, sensors, and weapons systems aboard Admiral Kuznetsov.",
+      "priority": "reference"
+    }
+  ]
+}

@@ -1,0 +1,416 @@
+{
+  "id": 48,
+  "slug": "atago-class-destroyer",
+  "name": "Atago-class destroyer",
+  "designation": "DDG-177/DDG-178",
+  "type": "destroyer",
+  "country": "Japan",
+  "operator": "Japan Maritime Self-Defense Force (JMSDF)",
+  "overview_md": "The Atago-class destroyer represents Japan's most sophisticated air defense platform, designed as a larger, enhanced variant of the Kongo-class to provide advanced ballistic missile defense (BMD) and area air defense capabilities. Built around the Aegis Combat System with SPY-1D(V) radar, these destroyers serve as cornerstone assets in Japan's layered missile defense architecture, particularly against North Korean ballistic missile threats.\n\nStrategically, the Atago-class fills a critical role in Japan's evolving defense posture, operating as independent BMD stations or integrated components of larger task forces. Their enhanced displacement and power generation compared to the Kongo-class allows for future upgrades including potential integration of directed energy weapons and enhanced electronic warfare systems. The class was specifically designed with lessons learned from post-9/11 naval operations and the emerging ballistic missile threat from North Korea.\n\nIn terms of capability, the Atago-class sits between the smaller Kongo-class and more modern Maya-class destroyers, featuring 96 VLS cells compared to the Kongo's 90. However, unlike newer designs, they lack the integrated mast structures and advanced electronic warfare systems of contemporary platforms. The ships excel in air defense and BMD missions but have limited anti-submarine warfare capabilities compared to specialized ASW platforms.\n\nWithin the current threat environment, particularly China's expanding A2/AD capabilities and North Korea's advancing ballistic missile program, the Atago-class provides Japan with credible defensive capabilities while supporting alliance operations with the U.S. Navy. Their Aegis interoperability makes them valuable assets in multi-national task forces, though their limited numbers (only two hulls) constrains their strategic impact compared to larger destroyer fleets operated by regional peers.",
+  "specs_json": {
+    "displacement_tonnes": 10000,
+    "length_m": 165,
+    "beam_m": 21,
+    "draft_m": 6.2,
+    "speed_knots": 30,
+    "range_nm": 4500,
+    "crew": 300,
+    "propulsion": "COGAG, 4 \u00d7 General Electric LM2500 gas turbines, 100,000 shp",
+    "radar": "AN/SPY-1D(V) phased array radar",
+    "sonar": "OQS-102 hull-mounted sonar",
+    "combat_system": "Aegis Combat System Baseline 7.1",
+    "vls_cells": 96,
+    "additional": {
+      "power_generation": "3 \u00d7 3,000 kW generators",
+      "electronic_warfare": "NOLQ-3D-1 ESM/ECM system",
+      "datalink": "Link 16, Link 11"
+    }
+  },
+  "armament_json": [
+    {
+      "category": "Missiles",
+      "name": "SM-2 Block IIIA",
+      "type": "surface-to-air missile",
+      "quantity": "Variable load in 96 VLS cells",
+      "range_km": 167,
+      "notes": "Primary air defense missile"
+    },
+    {
+      "category": "Missiles",
+      "name": "SM-3 Block IA",
+      "type": "ballistic missile interceptor",
+      "quantity": "Variable load in 96 VLS cells",
+      "range_km": 500,
+      "notes": "BMD capability"
+    },
+    {
+      "category": "Missiles",
+      "name": "ESSM",
+      "type": "surface-to-air missile",
+      "quantity": "Quad-packed in VLS cells",
+      "range_km": 50,
+      "notes": "Point defense SAM"
+    },
+    {
+      "category": "Missiles",
+      "name": "ASROC",
+      "type": "anti-submarine rocket",
+      "quantity": "Variable load in VLS cells",
+      "range_km": 20,
+      "notes": "ASW capability"
+    },
+    {
+      "category": "Guns",
+      "name": "Oto Melara 127mm/54",
+      "type": "naval gun",
+      "quantity": "1",
+      "range_km": 23,
+      "notes": "Primary gun system"
+    },
+    {
+      "category": "CIWS",
+      "name": "Phalanx Block 1B",
+      "type": "close-in weapons system",
+      "quantity": "2",
+      "range_km": 3.6,
+      "notes": "Last-resort defense"
+    },
+    {
+      "category": "Torpedoes",
+      "name": "Type 68 (Mk 46 Mod 5)",
+      "type": "lightweight torpedo",
+      "quantity": "2 \u00d7 triple launchers",
+      "range_km": 12,
+      "notes": "ASW defense"
+    }
+  ],
+  "variants_json": [
+    {
+      "name": "Atago-class",
+      "designation_range": "DDG-177 to DDG-178",
+      "years": "2007-2008",
+      "count": 2,
+      "key_changes": "Enhanced Kongo design with improved Aegis Baseline 7.1, larger displacement, enhanced power generation, integrated BMD capability from commissioning",
+      "status": "active"
+    }
+  ],
+  "fleet_status_json": [
+    {
+      "hull_number": "DDG-177",
+      "name": "JS Atago",
+      "variant": "Atago-class",
+      "commissioned": "2007-03-15",
+      "home_port": "Yokosuka",
+      "status": "active"
+    },
+    {
+      "hull_number": "DDG-178",
+      "name": "JS Ashigara",
+      "variant": "Atago-class",
+      "commissioned": "2008-03-13",
+      "home_port": "Sasebo",
+      "status": "active"
+    }
+  ],
+  "cost_usd": 1500000000.0,
+  "unit_count": 2,
+  "first_commissioned": "2007-03-15",
+  "builder": "Mitsubishi Heavy Industries",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/28/DDG-178_04l.jpg",
+  "wiki_url": "https://en.wikipedia.org/wiki/Atago-class_destroyer",
+  "sources_json": [
+    "https://en.wikipedia.org/wiki/Atago-class_destroyer",
+    "https://www.mod.go.jp/msdf/",
+    "https://www.globalsecurity.org/military/world/japan/atago.htm",
+    "https://www.mda.mil/global/documents/pdf/BMD_Overview_Handbook_2020.pdf"
+  ],
+  "comparison_tags": [
+    "destroyer",
+    "aegis",
+    "vls",
+    "japan",
+    "bmd",
+    "blue-water"
+  ],
+  "created_at": "2026-04-10 20:16:23",
+  "updated_at": "2026-04-10T20:16:23.831480",
+  "news": [
+    {
+      "id": 267,
+      "platform_id": 48,
+      "article_hash": "7903e38b3237a139",
+      "title": "Iran Is Piercing Israel\u2019s Ballistic Missile Defenses With High Altitude Cluster Warhead Releases",
+      "url": "https://www.twz.com/land/iran-is-piercing-israels-ballistic-missile-defenses-with-high-altitude-cluster-warhead-releases",
+      "source": "The War Zone",
+      "published_at": "2026-04-04T17:33:56",
+      "relevance_score": 0.6,
+      "snippet": "Unleashing submunitions at high altitudes has helped Iran to get through Israel's terminal missile defenses, and is a tactic others will likely seize upon.\nThe post Iran Is Piercing Israel&#8217;s Ballistic Missile Defenses With High Altitude Cluster Warhead Releases appeared first on The War Zone.",
+      "created_at": "2026-04-10 20:39:16"
+    }
+  ],
+  "events": [],
+  "ic_coverage": [],
+  "combat_history": [
+    {
+      "date": "2009-02-27",
+      "operation": null,
+      "event": "JS Atago collided with fishing vessel Seitoku-maru off Chiba Prefecture, resulting in two fatalities. Collision occurred during routine training operations.",
+      "significance": "Highlighted command and control issues during peacetime operations, led to enhanced bridge procedures and watchstanding protocols across JMSDF"
+    },
+    {
+      "date": "2012-12",
+      "operation": "North Korean satellite launch response",
+      "event": "Both Atago-class destroyers deployed to Sea of Japan for BMD coverage during North Korean Unha-3 rocket launch, first operational BMD deployment",
+      "significance": "Demonstrated operational BMD capability and integration with U.S. Pacific Command missile warning systems"
+    },
+    {
+      "date": "2016-2017",
+      "operation": "North Korean missile test responses",
+      "event": "Multiple deployments to western Pacific for BMD overwatch during escalated North Korean ICBM and intermediate-range missile testing",
+      "significance": "Validated sustained BMD operations and highlighted need for additional BMD-capable platforms"
+    }
+  ],
+  "modernization": [
+    {
+      "program": "SM-3 Block IIA Integration",
+      "status": "completed",
+      "timeline": "2018-2021",
+      "description": "Integration of advanced SM-3 Block IIA interceptors with enhanced range and discrimination capability against more sophisticated ballistic missile threats",
+      "impact": "Significantly enhanced BMD envelope and capability against IRBM/ICBM class targets"
+    },
+    {
+      "program": "Aegis Baseline 9 Upgrade",
+      "status": "planned",
+      "timeline": "2025-2028",
+      "description": "Major combat system upgrade to Aegis Baseline 9 for enhanced BMD discrimination, multi-mission capability, and integration with newer sensor systems",
+      "impact": "Will extend service life and maintain relevance against evolving hypersonic and maneuvering threats"
+    },
+    {
+      "program": "Enhanced Electronic Warfare Suite",
+      "status": "in-progress",
+      "timeline": "2023-2026",
+      "description": "Upgrade to electronic warfare systems to counter advanced electronic attack and provide enhanced situational awareness in contested environments",
+      "impact": "Improved survivability against advanced electronic warfare threats from peer competitors"
+    }
+  ],
+  "vulnerabilities": [
+    {
+      "area": "Limited magazine depth",
+      "description": "96 VLS cells provide substantial firepower but can be rapidly depleted in high-intensity BMD scenarios, with no underway replenishment capability for VLS missiles",
+      "context": "Against North Korean saturation attacks or Chinese missile raids, magazine depth becomes critical limiting factor",
+      "mitigation": "Developing distributed BMD architecture with ground-based systems and considering VLS expansion in future modernization"
+    },
+    {
+      "area": "Anti-submarine warfare capability",
+      "description": "Limited ASW sensors and weapons compared to dedicated ASW platforms, with aging sonar systems and minimal ASW helicopter integration",
+      "context": "Chinese submarine threat requires enhanced ASW capability for survivability in contested waters",
+      "mitigation": "Enhanced cooperation with dedicated ASW platforms and potential sonar upgrades in future modernization cycles"
+    },
+    {
+      "area": "Electronic warfare vulnerability",
+      "description": "Current EW systems lag behind advanced jamming and deception capabilities deployed by peer competitors, particularly in dense electronic attack environments",
+      "context": "Chinese and potentially North Korean advanced EW capabilities could degrade Aegis effectiveness",
+      "mitigation": "Ongoing EW suite upgrades and enhanced training in electronic warfare environments"
+    },
+    {
+      "area": "Limited numbers",
+      "description": "Only two hulls cannot provide continuous BMD coverage or sustained high-intensity operations without significant maintenance and crew rotation challenges",
+      "context": "Geographic requirements for Japan BMD and alliance operations exceed capacity of two platforms",
+      "mitigation": "Maya-class construction and potential future destroyer programs to increase BMD-capable hull count"
+    }
+  ],
+  "operational_patterns": {
+    "typical_deployment": "BMD patrol stations in Sea of Japan and Pacific approaches, alliance exercises with U.S. Navy",
+    "deployment_length_months": 3,
+    "key_operating_areas": [
+      "Sea of Japan",
+      "Western Pacific",
+      "Philippine Sea",
+      "East China Sea"
+    ],
+    "typical_task_group": "Operates independently for BMD missions or integrated with JMSDF escort flotillas and U.S. Navy CSGs",
+    "readiness_notes": "High operational tempo due to limited numbers strains maintenance cycles, particularly during North Korean missile test periods"
+  },
+  "peer_comparisons": [
+    {
+      "platform": "Arleigh Burke Flight IIA",
+      "country": "United States",
+      "relationship": "allied equivalent",
+      "key_differences": "Similar Aegis baseline and VLS capacity, but Burke has superior ASW capability with towed array sonar and dedicated ASW helicopter facilities. Atago has slightly larger displacement but less advanced electronic warfare systems.",
+      "video_angle": "Alliance interoperability and capability gaps - when Japan needs U.S. ASW support"
+    },
+    {
+      "platform": "Type 052D Luyang III",
+      "country": "China",
+      "relationship": "direct rival",
+      "key_differences": "Type 052D has 64 VLS cells versus Atago's 96, but features newer AESA radar and more advanced electronic warfare systems. Atago has proven BMD capability while Type 052D BMD capability remains unclear.",
+      "video_angle": "Pacific air defense competition - quality vs quantity in destroyer capabilities"
+    },
+    {
+      "platform": "Sejong the Great-class (KDX-III)",
+      "country": "South Korea",
+      "relationship": "allied equivalent",
+      "key_differences": "Korean variant has 128 VLS cells and more comprehensive armament including land-attack cruise missiles. Atago focuses more narrowly on BMD mission with proven operational experience.",
+      "video_angle": "Alliance burden-sharing and capability specialization in Northeast Asian security"
+    },
+    {
+      "platform": "Type 45 Daring-class",
+      "country": "United Kingdom",
+      "relationship": "western equivalent",
+      "key_differences": "Type 45 uses different air defense system (PAAMS/Aster) and lacks BMD capability entirely. Superior in anti-air warfare against aircraft but cannot engage ballistic missiles.",
+      "video_angle": "Air defense philosophy comparison - Aegis vs PAAMS in modern threat environment"
+    }
+  ],
+  "search_keywords": [
+    "atago class",
+    "atago-class",
+    "DDG-177",
+    "DDG-178",
+    "JS Atago",
+    "JS Ashigara",
+    "JMSDF destroyer",
+    "Japan BMD",
+    "Aegis destroyer Japan",
+    "ballistic missile defense"
+  ],
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/39/Atago_%28DDG-177%29%2C_officers.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/39/Atago_%28DDG-177%29%2C_officers.jpg",
+      "width": 1125,
+      "height": 1458,
+      "title": "Atago (DDG-177), officers.jpg",
+      "description": "PEARL HARBOR (June 2, 2010) Vice Adm. Richard W. Hunt, commander of Combined Task Force, is greeted as he arrives aboard the Japan Maritime Self-Defense Force guided-missile destroyer <a href=\"//commo",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/JS_ATAGO_atMaizuru.jpg/1280px-JS_ATAGO_atMaizuru.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/a1/JS_ATAGO_atMaizuru.jpg",
+      "width": 4007,
+      "height": 3005,
+      "title": "JS ATAGO atMaizuru.jpg",
+      "description": "AIGIS Destroyer JS \"Atago\" on Maizuru Bay",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JS_Atago%28DDG-177%29.jpg/1280px-JS_Atago%28DDG-177%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/6a/JS_Atago%28DDG-177%29.jpg",
+      "width": 4256,
+      "height": 2832,
+      "title": "JS Atago(DDG-177).jpg",
+      "description": "\u72b6\u6cc1\u304b\u3089\u3001\u8fd1\u63a5\u904b\u52d5\u3001\u30cf\u30a4\u30e9\u30a4\u30f3\u3001\u6d0b\u4e0a\u88dc\u7d66\u306e\u3044\u305a\u308c\u304b\u306e\u8a13\u7df4\u306b\u5f93\u4e8b\u4e2d\u3068\u601d\u308f\u308c\u308b\u3002",
+      "license": "CC BY 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/05/JS_Atago%28DDG-177%29_%2C_JMSDF.png",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/05/JS_Atago%28DDG-177%29_%2C_JMSDF.png",
+      "width": 1280,
+      "height": 719,
+      "title": "JS Atago(DDG-177) , JMSDF.png",
+      "description": "\u30a4\u30fc\u30b8\u30b9\u30b7\u30b9\u30c6\u30e0\u642d\u8f09\u306e\u8b77\u885b\u8266\u3042\u305f\u3054 (DDG-177)",
+      "license": "CC BY 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/JS_Atago_DDG-177_20220524a.jpg/1280px-JS_Atago_DDG-177_20220524a.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/JS_Atago_DDG-177_20220524a.jpg",
+      "width": 4200,
+      "height": 1900,
+      "title": "JS Atago DDG-177 20220524a.jpg",
+      "description": "\u8b77\u885b\u8266 \u3042\u305f\u3054\uff08\u6a2a\u9808\u8cc0\u57fa\u5730 2022\u5e745\u670824\u65e5\u64ae\u5f71\uff09",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/JS_Atago%EF%BC%88DDG-177%EF%BC%89on_the_ocean.jpg/1280px-JS_Atago%EF%BC%88DDG-177%EF%BC%89on_the_ocean.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/JS_Atago%EF%BC%88DDG-177%EF%BC%89on_the_ocean.jpg",
+      "width": 3008,
+      "height": 1960,
+      "title": "JS Atago\uff08DDG-177\uff09on the ocean.jpg",
+      "description": "\u6d0b\u4e0a\u3092\u9032\u3080\u8b77\u885b\u8266\u300c\u3042\u305f\u3054\u300d",
+      "license": "CC BY 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Mast_of_JS_Atago%28DDG-177%29_Radars.jpg/1280px-Mast_of_JS_Atago%28DDG-177%29_Radars.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Mast_of_JS_Atago%28DDG-177%29_Radars.jpg",
+      "width": 3712,
+      "height": 2588,
+      "title": "Mast of JS Atago(DDG-177) Radars.jpg",
+      "description": "Mast of JS Atago(DDG-177) Radars",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/US_Navy_111104-N-DS193-049_The_Japan_Maritime_Self-Defense_Force_guided-missile_destroyer_JDS_Atago_%28DDG_177%29_transits_in_formation_with_U.S._Navy.jpg/1280px-US_Navy_111104-N-DS193-049_The_Japan_Maritime_Self-Defense_Force_guided-missile_destroyer_JDS_Atago_%28DDG_177%29_transits_in_formation_with_U.S._Navy.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/US_Navy_111104-N-DS193-049_The_Japan_Maritime_Self-Defense_Force_guided-missile_destroyer_JDS_Atago_%28DDG_177%29_transits_in_formation_with_U.S._Navy.jpg",
+      "width": 2100,
+      "height": 1500,
+      "title": "US Navy 111104-N-DS193-049 The Japan Maritime Self-Defense Force guided-missile destroyer JDS Atago (DDG 177) transits in formation with U.S. Navy.jpg",
+      "description": "PACIFIC OCEAN (Nov. 4, 2011) The Japan Maritime Self-Defense Force guided-missile destroyer <a href=\"//commons.wikimedia.org/wiki/Category:JS_Atago_(DDG-177)\" title=\"Category:JS Atago (DDG-177)\">JDS A",
+      "license": "Public domain",
+      "source": "wikimedia"
+    }
+  ],
+  "doctrine": {
+    "role": "Ballistic missile defense and area air defense anchor for Japan's integrated missile defense network, providing persistent coverage over critical maritime approaches and population centers against North Korean and regional ballistic missile threats.",
+    "employment": "Typically deployed as the flagship of multi-platform task groups including AEGIS-equipped destroyers, conventional destroyers, and support vessels to provide layered defense. Operates in coordination with ground-based PAC-3 systems and US Navy BMD assets through shared datalinks. Primary mission profiles include ballistic missile defense patrols in the Sea of Japan, convoy escort for critical sea lanes, and integrated air defense of fleet formations during power projection operations.",
+    "design_philosophy": "Prioritized maximum VLS magazine depth (96 cells) and advanced radar capability over speed and traditional anti-surface warfare, accepting reduced helicopter facilities and higher acquisition costs to maximize BMD engagement opportunities. Design emphasizes sustained defensive operations rather than expeditionary strike capabilities, reflecting Japan's constitutional constraints and defensive strategic posture.",
+    "threat_context": "Originally designed to counter North Korean Nodong and Taepodong ballistic missiles in the early 2000s, but threat environment has evolved to include hypersonic glide vehicles, multiple independently targetable warheads, and coordinated saturation attacks from both North Korea and China. Platform now faces challenges from threats that may exceed original engagement envelope assumptions.",
+    "comparison_frame": "Compare primarily on VLS cell count, BMD-capable missile inventory, and radar detection ranges rather than anti-ship or land-attack capabilities, as these platforms prioritize defensive missile capacity over offensive striking power. Secondary comparison factors include datalink interoperability with allied systems and sustained operation endurance for persistent BMD patrols."
+  },
+  "curated_sources": [
+    {
+      "title": "U.S.-Japan Alliance: Prospects for Maritime Security Cooperation",
+      "type": "report",
+      "url": "https://www.csis.org/analysis/us-japan-alliance-prospects-maritime-security-cooperation",
+      "relevance": "Provides strategic context for Atago-class role within broader U.S.-Japan integrated missile defense architecture.",
+      "priority": "essential"
+    },
+    {
+      "title": "Japan's Security Strategy and the JSDF",
+      "type": "book",
+      "url": "",
+      "relevance": "Authoritative source on JMSDF doctrine and the strategic rationale behind major platform acquisitions including Atago-class development.",
+      "priority": "recommended"
+    },
+    {
+      "title": "Japan Naval Update",
+      "type": "analyst",
+      "url": "https://www.navalnews.com/tag/japan/",
+      "relevance": "Consistent coverage of JMSDF developments including Atago-class modifications and operational deployments.",
+      "priority": "recommended"
+    },
+    {
+      "title": "Atago Class Destroyer - Seaforces",
+      "type": "database",
+      "url": "https://www.seaforces.org/marint/Japan-Maritime-Self-Defense-Force/Destroyer/Atago-class.htm",
+      "relevance": "Comprehensive technical specifications and modification history for comparative analysis.",
+      "priority": "reference"
+    },
+    {
+      "title": "Ballistic Missile Defense in the Asia-Pacific Region",
+      "type": "report",
+      "url": "https://www.csis.org/programs/missile-defense-project/missile-defense-project-publications",
+      "relevance": "Detailed analysis of regional BMD architecture and specific capabilities of Japanese BMD-capable platforms.",
+      "priority": "essential"
+    },
+    {
+      "title": "The Modern Japanese Navy in World War Two",
+      "type": "book",
+      "url": "",
+      "relevance": "Historical context for understanding Japanese naval design philosophy and strategic culture influencing modern platform development.",
+      "priority": "reference"
+    },
+    {
+      "title": "RUSI Defence Systems",
+      "type": "analyst",
+      "url": "https://rusi.org/explore-our-research/publications/rusi-defence-systems",
+      "relevance": "Regular analysis of missile defense systems and naval platform effectiveness including Japanese capabilities.",
+      "priority": "recommended"
+    }
+  ]
+}

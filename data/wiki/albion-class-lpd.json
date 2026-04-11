@@ -1,0 +1,588 @@
+{
+  "id": 46,
+  "slug": "albion-class-lpd",
+  "name": "Albion-class Landing Platform Dock",
+  "designation": "L14",
+  "type": "amphibious",
+  "country": "United Kingdom",
+  "operator": "Royal Navy",
+  "overview_md": "The Albion-class Landing Platform Dock represents the Royal Navy's primary amphibious assault capability, designed to project British power ashore in contested environments. Built around a dock well concept similar to US Navy LPDs, these ships can simultaneously deploy landing craft, helicopters, and troops in complex amphibious operations. The class embodies Britain's post-Cold War shift toward expeditionary warfare, designed for rapid deployment to global hotspots rather than European land battles.\n\nStrategically, the Albion class fills a critical gap in NATO's amphibious capability, providing one of Europe's few credible forced-entry options. The ships feature a sophisticated command and control suite that allows them to serve as amphibious task group flagships, coordinating multi-national operations. Their ability to embark a full Royal Marine Commando unit (up to 710 troops) with vehicles and helicopters makes them essential for Britain's 'Global Britain' strategy.\n\nThe design philosophy emphasizes flexibility over specialization. Unlike purpose-built assault ships, the Albions can rapidly reconfigure for humanitarian operations, disaster relief, or high-end combat. The spacious flight deck can handle multiple Chinook operations simultaneously, while the dock well accommodates various landing craft combinations. However, this flexibility comes at the cost of reduced capacity compared to larger US amphibious ships.\n\nIn the current threat environment, the Albion class faces significant challenges. Their limited self-defense systems make them vulnerable to modern anti-ship missiles, requiring substantial escort forces. The small class size (only two hulls) creates availability issues, with typically only one ship operationally ready. Compared to peers like the US San Antonio class or France's Mistral class, the Albions offer superior command facilities but reduced aviation capacity and more limited self-defense systems.",
+  "specs_json": {
+    "displacement_tonnes": 21500,
+    "length_m": 176.0,
+    "beam_m": 28.9,
+    "draft_m": 7.1,
+    "speed_knots": 18,
+    "range_nm": 8000,
+    "crew": 325,
+    "propulsion": "2x MAN diesel engines, 2 shafts, 30,400 bhp total",
+    "radar": "Type 996 2D air/surface search radar",
+    "sonar": null,
+    "combat_system": "DNA(2) Combat Management System",
+    "vls_cells": 0,
+    "additional": {
+      "troop_capacity": 710,
+      "vehicle_deck_area_sqm": 900,
+      "dock_well_length_m": 50,
+      "flight_deck_spots": 4,
+      "lcvp_capacity": 4,
+      "mexeflote_capacity": 1
+    }
+  },
+  "armament_json": [
+    {
+      "category": "CIWS",
+      "name": "Phalanx Block 1B",
+      "type": "close-in weapons system",
+      "quantity": "2x 20mm",
+      "range_km": 3.6,
+      "notes": "Anti-missile and anti-surface"
+    },
+    {
+      "category": "Guns",
+      "name": "DS30M Mark 2",
+      "type": "automated gun mount",
+      "quantity": "2x 30mm",
+      "range_km": 6,
+      "notes": "Anti-surface and anti-air"
+    },
+    {
+      "category": "Missiles",
+      "name": "Stinger",
+      "type": "man-portable air defense",
+      "quantity": "Variable",
+      "range_km": 8,
+      "notes": "Embarked when required"
+    },
+    {
+      "category": "Guns",
+      "name": "General Purpose Machine Gun",
+      "type": "crew-served weapon",
+      "quantity": "Multiple 7.62mm",
+      "range_km": 1.8,
+      "notes": "Small boat defense"
+    }
+  ],
+  "variants_json": [
+    {
+      "name": "Albion-class Baseline",
+      "designation_range": "L14, L18",
+      "years": "2003-2004",
+      "count": 2,
+      "key_changes": "Original design with DNA(2) combat system, Type 996 radar, full amphibious capability",
+      "status": "active"
+    }
+  ],
+  "fleet_status_json": [
+    {
+      "hull_number": "L14",
+      "name": "HMS Albion",
+      "variant": "Baseline",
+      "commissioned": "2003-06-19",
+      "home_port": "Plymouth",
+      "status": "active"
+    },
+    {
+      "hull_number": "L18",
+      "name": "HMS Bulwark",
+      "variant": "Baseline",
+      "commissioned": "2004-12-10",
+      "home_port": "Plymouth",
+      "status": "active"
+    }
+  ],
+  "cost_usd": 650000000.0,
+  "unit_count": 2,
+  "first_commissioned": "2003-06-19",
+  "builder": "BAE Systems Marine (Govan)",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e9/HMS_Bulwark.jpg",
+  "wiki_url": "https://en.wikipedia.org/wiki/Albion-class_landing_platform_dock",
+  "sources_json": [
+    "https://en.wikipedia.org/wiki/Albion-class_landing_platform_dock",
+    "https://www.royalnavy.mod.uk/our-organisation/the-fighting-arms/surface-fleet/amphibious-ships/hms-albion",
+    "https://www.janes.com/defence-news/naval-warfare/latest/uk-completes-hms-albion-life-extension-programme",
+    "https://www.baesystems.com/en-uk/our-company/our-businesses/maritime/products-and-services/surface-ships/albion-class"
+  ],
+  "comparison_tags": [
+    "amphibious",
+    "lpd",
+    "royal-navy",
+    "uk",
+    "expeditionary",
+    "command-ship"
+  ],
+  "created_at": "2026-04-10 20:14:08",
+  "updated_at": "2026-04-10T20:14:08.608086",
+  "news": [
+    {
+      "id": 160,
+      "platform_id": 46,
+      "article_hash": "2f56948d48f4aaf8",
+      "title": "Once more the overstretched Royal Navy has played a deadly game with Putin's submarines - The Telegraph",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNTkxwVmczQkRtWlY2RkM1aUlqdTFwSWFBVWxFWmd0YjNNQlNLY0tkUTFPQVlEUHZxTWZyaHJNcmlMZ2FSR1E5MGRwRFpyRzYzS0w0cUNsTTRCbWhOOUU2UlBsQnRncmZaSWV4NXRfSEliTHV0a2VDdmoweGplVFd4WXduUDRNLWhaUEdiclJsd2lRLVM5ejFZVnlXRko?oc=5",
+      "source": "GNews (The Telegraph)",
+      "published_at": "2026-04-10T13:40:00",
+      "relevance_score": 0.6,
+      "snippet": "Once more the overstretched Royal Navy has played a deadly game with Putin's submarines - The Telegraph",
+      "created_at": "2026-04-10 20:39:14"
+    },
+    {
+      "id": 181,
+      "platform_id": 46,
+      "article_hash": "8221c7437962e18c",
+      "title": "Royal Navy team tests C-ROTV underwater survey system in Denmark",
+      "url": "https://www.naval-technology.com/news/royal-navy-underwater-survey-test/",
+      "source": "Naval Technology",
+      "published_at": "2026-04-09T15:24:26",
+      "relevance_score": 0.6,
+      "snippet": "The Royal Navy has recently carried out the first at-sea trials of a containerised remotely operated towed vehicle system.\nThe post Royal Navy team tests C-ROTV underwater survey system in Denmark appeared first on Naval Technology.",
+      "created_at": "2026-04-10 20:39:15"
+    },
+    {
+      "id": 198,
+      "platform_id": 46,
+      "article_hash": "5cdf23e944b6e35d",
+      "title": "Royal Navy completes ten days of intensive monitoring operations as Russian submarine and warships enter UK waters - U.K. Royal Navy",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNZmdOZGc4NFlvb0VRdEFGZ3BOVEg1T3NibzRDZEhHSENQcnpsWGZIdnAtTnhkdWt1emJkUHg5YWZHSmU5Q2UtWGF6TWNYSkxpWWtXbFNfazZaNW9UbzRna1YyM01LLVp0WXR1c2RxNm4zQlVIS3cxYlhacDRMMG5TYjZob2JyVnA1RjY0emlQdWtycFM1MTlBYTFvWDVBanFlcTVTblBYWDBjSHVGRVJ3WGhhTXMtTVNkVkhnTA?oc=5",
+      "source": "GNews (U.K. Royal Navy)",
+      "published_at": "2026-04-09T11:08:47",
+      "relevance_score": 0.6,
+      "snippet": "Royal Navy completes ten days of intensive monitoring operations as Russian submarine and warships enter UK waters - U.K. Royal Navy",
+      "created_at": "2026-04-10 20:39:15"
+    },
+    {
+      "id": 225,
+      "platform_id": 46,
+      "article_hash": "846ea712d441bf62",
+      "title": "U.S. Navy Rehearses Wartime Repairs in Central Philippine Port",
+      "url": "https://www.navalnews.com/naval-news/2026/04/u-s-navy-rehearses-wartime-repairs-in-central-philippine-port/",
+      "source": "Naval News",
+      "published_at": "2026-04-08T10:29:18",
+      "relevance_score": 0.2,
+      "snippet": "The U.S. Navy rehearsed wartime repairs and maintenance on an amphibious assault ship at a port located within the central interior of the Philippines last month in an exercise designed to validate the service&#8217;s expeditionary sustainment capabilities in the Western Pacific. USS Ashland (LSD-48",
+      "created_at": "2026-04-10 20:39:16"
+    },
+    {
+      "id": 240,
+      "platform_id": 46,
+      "article_hash": "c9cd25b2b43252ea",
+      "title": "Royal Navy's HMS Dragon forced to dock during Iran conflict deployment - Devon Live",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNSE05SjVOS2xzSlphMTJmOWJZb1F2TjNDSWwyVzdrcEZjVmRHVm9LVXFmeHh3UHlNbE5wZ0Jqb2RKXzFCSEVQUzdGMHp4UEphay1DUjdjTGpnVV90cGwyMVFIZV9ERUlmN3JqY1RXYjdRUk1zZVZZdzJHX3BjemdLYVB3aEhJeFJYaWg0?oc=5",
+      "source": "GNews (Devon Live)",
+      "published_at": "2026-04-07T21:34:56",
+      "relevance_score": 0.6,
+      "snippet": "Royal Navy's HMS Dragon forced to dock during Iran conflict deployment - Devon Live",
+      "created_at": "2026-04-10 20:39:16"
+    },
+    {
+      "id": 241,
+      "platform_id": 46,
+      "article_hash": "28f5c740779e1259",
+      "title": "Royal Navy's HMS Dragon forced to dock during Iran conflict deployment - Plymouth Live",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQeElVa2RNUzh0S0dtVkg2VDA5cmwzcV9BUFJlNXlyNFhJZl93VEc4SHZtNDhqdFlUVXRjaVYtMjRBUTVFaWF3bGt5Y3ZOUnVmUFJJVXZpTld1QVREUlZMb2JrOTZfZlFfY25GVXA2bTNrUlZKU2Y5dFRJczVSczFJY3pqLTQtME44eEVGdVJDRGlKc3c40gGaAUFVX3lxTFBNLV9tdVFLT2VHbGZtSU5PVzJRNGVGYU9SM3p6ZVNKMU1XamF2Z1luT0FsaTB1YjF1MUZtRnNrOVdpQ0x0UXBlMDh5VVZxV1ZGX01kOWYwamVtQVJnYVJnT3hmTXN0STZWRU1nTF9XZGRJeUhfRlh3TjVVeWpfejFfeFAzLWRMX3NYQXhOd3JqVzkwRl90THRvLXc?oc=5",
+      "source": "GNews (Plymouth Live)",
+      "published_at": "2026-04-07T21:34:00",
+      "relevance_score": 0.6,
+      "snippet": "Royal Navy's HMS Dragon forced to dock during Iran conflict deployment - Plymouth Live",
+      "created_at": "2026-04-10 20:39:16"
+    },
+    {
+      "id": 245,
+      "platform_id": 46,
+      "article_hash": "b4d398764371d2f1",
+      "title": "US Central Command denies IRGC missile strikes on USS Tripoli",
+      "url": "https://www.naval-technology.com/news/uss-tripoli-iran-centcom/",
+      "source": "Naval Technology",
+      "published_at": "2026-04-07T12:34:55",
+      "relevance_score": 0.2,
+      "snippet": "US CENTCOM has denied claims from Iran\u2019s Islamic Revolutionary Guard Corps that the amphibious assault ship USS Tripoli was hit by missiles.\nThe post US Central Command denies IRGC missile strikes on USS Tripoli\u00a0 appeared first on Naval Technology.",
+      "created_at": "2026-04-10 20:39:16"
+    },
+    {
+      "id": 249,
+      "platform_id": 46,
+      "article_hash": "e4f5edaaea574896",
+      "title": "Union pushes for Fife build of Royal Navy submarine docks - UK Defence Journal",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPVW9peXpUMU9adzBXQVYwRER2VFd5ZmU2N3NxS1FBMTE1Y052NGZYUHIwd0xWcVU5cDYxdkljSWRQTW1TTHNLcU92NUd5azhNV2NIT3h2UHE3SUpGelNHM3NnZ004QnpKdERScDdZRms2RlV3Zk5mZkdON2NzU19GQTFILUdxZlBoZG1jS2MyckNwM0I4?oc=5",
+      "source": "GNews (UK Defence Journal)",
+      "published_at": "2026-04-07T09:58:22",
+      "relevance_score": 0.6,
+      "snippet": "Union pushes for Fife build of Royal Navy submarine docks - UK Defence Journal",
+      "created_at": "2026-04-10 20:39:16"
+    },
+    {
+      "id": 281,
+      "platform_id": 46,
+      "article_hash": "26dccef4f951a9bb",
+      "title": "Royal Navy captain steps back from duties over link to MP whose husband faces China spy claims - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOZHRTUUYtcXM2WGRjeHFwdVZaTjFFTmNhXzRaN2p1YVBKVll4dHFheU5WTnp0RkpiazdrdElUek9JLXU1UDFobTFxckJ5OUlZNHJQeWFlLWNJdDhGZFEyNjFmLWVYall6NVg0NUtOa1FucG9yMGtKUUlQc1RlXy1CV0VFSFVCdFRpU2NtVnJPVHloT2tkUC0yLXZLUGFWRjczaDhUSm9RQmlSdFpaOWhUWG5nRjFsR28?oc=5",
+      "source": "GNews (The Guardian)",
+      "published_at": "2026-04-01T07:00:00",
+      "relevance_score": 0.6,
+      "snippet": "Royal Navy captain steps back from duties over link to MP whose husband faces China spy claims - The Guardian",
+      "created_at": "2026-04-10 20:39:16"
+    },
+    {
+      "id": 286,
+      "platform_id": 46,
+      "article_hash": "188931a4d38f0147",
+      "title": "Royal Navy destroyer arrives in Eastern Mediterranean - U.K. Royal Navy",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPMUEyTUJtcFpvUzEzNjZ5NE1NZURKVWZCY09ob0dNQkh6YTVyQzlHYzc5aFJ6cnBjUWRya0ZzLUNmWW9TbUxQWkw4S0RrU2VIYVZKN0hESzctTXdzU01HWGhKa2tSSXN2VUc0RnBSNkUtLTEzZWlEZGtMSDBuRGwzZmJPRThxV3locllfTER4ZUhJWHlkVmtVM3hqM1lQM09nM3k4Rk5zY2ctSlJkaURF?oc=5",
+      "source": "GNews (U.K. Royal Navy)",
+      "published_at": "2026-03-24T07:00:00",
+      "relevance_score": 0.6,
+      "snippet": "Royal Navy destroyer arrives in Eastern Mediterranean - U.K. Royal Navy",
+      "created_at": "2026-04-10 20:39:16"
+    },
+    {
+      "id": 294,
+      "platform_id": 46,
+      "article_hash": "4a60dd4c77e4c299",
+      "title": "New TV documentary captures Royal Navy Carrier Strike Group during last year\u2019s deployment - Navy Lookout",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQWENxQWV3Vnd4SzJYUERJeEszZzd5akdvS0xrWWtMRXQwdjAtUUtLUDFiTXlKTW9oTG9fS2l5dXVfQ1BLNEpCaE5qdUV0Z29qMWVoajk3eG5RQUVJWUZiZWxNR3k0c25OUHNBRE0xYS1rQTRrNUo4d2hDWno4allDN2ZZSWt3MmJLOWd6VXhOT0gzVWFqMmQ2YjFKSWdfOUtnTGhMT1JzaklNMXlrbnlrdWdLLWpGdlpU?oc=5",
+      "source": "GNews (Navy Lookout)",
+      "published_at": "2026-03-19T07:00:00",
+      "relevance_score": 0.6,
+      "snippet": "New TV documentary captures Royal Navy Carrier Strike Group during last year\u2019s deployment - Navy Lookout",
+      "created_at": "2026-04-10 20:39:17"
+    },
+    {
+      "id": 299,
+      "platform_id": 46,
+      "article_hash": "5b23aba7b0dad9cb",
+      "title": "Royal Navy warship HMS Dragon sails for Eastern Mediterranean mission - U.K. Royal Navy",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE53VVR4TW5UUXVQT2k0dUhqa3pHeGh4UzFrSDUxdzU5dGVnYW9HV0xhWmpHZUQ3WklQS1BiM3hPSTB0X3VSbjQ4Ny1rZ3lHOHZCVUNCenY4S2ZQWTdNS3dTRm5PYVFSNWptcmhkeTZCNVJDLWc2d3ZKczhvUHppZw?oc=5",
+      "source": "GNews (U.K. Royal Navy)",
+      "published_at": "2026-03-10T07:00:00",
+      "relevance_score": 0.6,
+      "snippet": "Royal Navy warship HMS Dragon sails for Eastern Mediterranean mission - U.K. Royal Navy",
+      "created_at": "2026-04-10 20:39:17"
+    }
+  ],
+  "events": [],
+  "ic_coverage": [],
+  "combat_history": [
+    {
+      "date": "2011-03",
+      "operation": "Operation Ellamy",
+      "event": "HMS Albion deployed to Mediterranean during Libya intervention, conducted humanitarian evacuation of civilians from Benghazi and provided command platform for coalition forces",
+      "significance": "First major combat deployment demonstrating command ship capabilities in multi-national operations"
+    },
+    {
+      "date": "2014-08",
+      "operation": "Operation Shader",
+      "event": "HMS Bulwark deployed to Eastern Mediterranean as part of UK response to ISIS, conducted humanitarian missions and provided staging for special operations",
+      "significance": "Showed adaptability for counter-terrorism support missions beyond traditional amphibious assault"
+    },
+    {
+      "date": "2017-09",
+      "operation": "Hurricane Irma Relief",
+      "event": "HMS Bulwark deployed to Caribbean for disaster relief, embarked Royal Marines and aid supplies, conducted helicopter operations to isolated islands",
+      "significance": "Demonstrated humanitarian capability and rapid global deployment ability"
+    },
+    {
+      "date": "2019-01",
+      "operation": "Operation Ruman",
+      "event": "HMS Albion transited Taiwan Strait in freedom of navigation operation, drawing strong Chinese diplomatic protest",
+      "significance": "Highlighted political utility of amphibious ships in great power competition"
+    }
+  ],
+  "modernization": [
+    {
+      "program": "Life Extension Programme",
+      "status": "completed",
+      "timeline": "2019-2022",
+      "description": "Major refit including propulsion system overhaul, accommodation upgrades, and combat system updates for both ships",
+      "impact": "Extended service life to approximately 2033-2035"
+    },
+    {
+      "program": "Future Commando Force Integration",
+      "status": "in-progress",
+      "timeline": "2021-2030",
+      "description": "Modifications to support Royal Marines Commando Force redesign, including enhanced C4ISR capabilities and support for autonomous systems",
+      "impact": "Better integration with distributed operations concept and unmanned systems"
+    },
+    {
+      "program": "Defensive Aids Suite Upgrade",
+      "status": "planned",
+      "timeline": "2025-2028",
+      "description": "Installation of improved electronic warfare systems and soft-kill decoy systems to counter modern missile threats",
+      "impact": "Marginal improvement in survivability against anti-ship missiles"
+    }
+  ],
+  "vulnerabilities": [
+    {
+      "area": "Air Defense",
+      "description": "Extremely limited air defense capability with only short-range CIWS and MANPADS, no area air defense missiles",
+      "context": "Vulnerable to modern anti-ship missiles, drones, and aircraft - requires constant escort protection",
+      "mitigation": "Relies entirely on escort ships (Type 45 destroyers) and RAF air cover when available"
+    },
+    {
+      "area": "Force Structure",
+      "description": "Only two hulls with typically one in extended refit, limiting operational availability to 50% at best",
+      "context": "Cannot maintain continuous global presence or handle multiple simultaneous operations",
+      "mitigation": "No current plans to increase fleet size; relying on ally cooperation"
+    },
+    {
+      "area": "Aviation Capacity",
+      "description": "Limited hangar space can only accommodate 2x medium helicopters, restricting air mobility compared to larger amphibious ships",
+      "context": "Reduces operational flexibility in distributed operations and limits casualty evacuation capability",
+      "mitigation": "Coordination with helicopter carriers like HMS Prince of Wales when available"
+    },
+    {
+      "area": "Electronic Warfare",
+      "description": "Limited electronic warfare and cyber defense capabilities compared to modern threats",
+      "context": "Vulnerable to GPS jamming, communications disruption, and cyber attacks on ship systems",
+      "mitigation": "Ongoing upgrades to communications and navigation systems"
+    }
+  ],
+  "operational_patterns": {
+    "typical_deployment": "Amphibious Ready Group flagship with Royal Marines embarked, or independent humanitarian/diplomatic missions",
+    "deployment_length_months": 6,
+    "key_operating_areas": [
+      "Mediterranean",
+      "Persian Gulf",
+      "Caribbean",
+      "Indo-Pacific"
+    ],
+    "typical_task_group": "With Type 45 destroyer, Type 23/26 frigate, RFA support ships, and Royal Marines",
+    "readiness_notes": "Chronic availability issues due to small fleet size and complex maintenance requirements"
+  },
+  "peer_comparisons": [
+    {
+      "platform": "San Antonio-class LPD",
+      "country": "United States",
+      "relationship": "direct rival",
+      "key_differences": "US ships are larger with better self-defense (RAM missiles, ECM) and greater capacity but less sophisticated command facilities. Albion class has superior flaghip capabilities for multinational ops.",
+      "video_angle": "David vs Goliath - how Britain's boutique amphibious capability compares to America's mass production approach"
+    },
+    {
+      "platform": "Mistral-class LHD",
+      "country": "France",
+      "relationship": "allied equivalent",
+      "key_differences": "French ships emphasize aviation with large flight deck and hangar, while Albions focus on dock well operations. Mistrals have better self-defense but worse command facilities.",
+      "video_angle": "Tale of two European approaches - helicopter assault vs traditional landing craft operations"
+    },
+    {
+      "platform": "Type 071 Yuzhao-class",
+      "country": "China",
+      "relationship": "peer competitor",
+      "key_differences": "Chinese ships are similar in concept but larger, with better air defense (HQ-10 SAMs) and greater capacity. Albions have more sophisticated C4I systems and better crew training standards.",
+      "video_angle": "Quality vs quantity - Western technology and training against Chinese mass production"
+    },
+    {
+      "platform": "Juan Carlos I-class",
+      "country": "Spain",
+      "relationship": "allied equivalent",
+      "key_differences": "Spanish design combines amphibious dock with aircraft carrier capability, offering greater aviation capacity but less dock well space than Albions. Similar self-defense limitations.",
+      "video_angle": "Specialization vs flexibility - pure amphibious assault ship vs multi-role aviation platform"
+    },
+    {
+      "platform": "Ivan Gren-class",
+      "country": "Russia",
+      "relationship": "peer competitor",
+      "key_differences": "Russian ships are smaller and less capable, with limited command facilities and older technology. Albions significantly superior in C4I and operational flexibility.",
+      "video_angle": "East vs West amphibious philosophy - Soviet-era thinking vs modern expeditionary warfare"
+    }
+  ],
+  "search_keywords": [
+    "albion class",
+    "albion-class",
+    "L14",
+    "L18",
+    "HMS Albion",
+    "HMS Bulwark",
+    "royal navy",
+    "LPD",
+    "landing platform dock",
+    "amphibious assault",
+    "royal marines"
+  ],
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Albion-class_and_Chinook_off_Plymouth.jpg/1280px-Albion-class_and_Chinook_off_Plymouth.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/21/Albion-class_and_Chinook_off_Plymouth.jpg",
+      "width": 1575,
+      "height": 1165,
+      "title": "Albion-class and Chinook off Plymouth.jpg",
+      "description": "A Chinook helicopter approaching one of the two Albion-class assault ships, in Plymouth Sound.",
+      "license": "CC BY-SA 3.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Albion-class_landing_platform_dock_ship_and_the_Eddystone_from_Whitsand_Bay_%280022%29.jpg/1280px-Albion-class_landing_platform_dock_ship_and_the_Eddystone_from_Whitsand_Bay_%280022%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Albion-class_landing_platform_dock_ship_and_the_Eddystone_from_Whitsand_Bay_%280022%29.jpg",
+      "width": 4288,
+      "height": 2848,
+      "title": "Albion-class landing platform dock ship and the Eddystone from Whitsand Bay (0022).jpg",
+      "description": "Bulwark class ship and the Eddystone from Whitsand Bay",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Amphious_Operations_by_HMS_Albion_MOD_45151293.jpg/1280px-Amphious_Operations_by_HMS_Albion_MOD_45151293.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Amphious_Operations_by_HMS_Albion_MOD_45151293.jpg",
+      "width": 3600,
+      "height": 2400,
+      "title": "Amphious Operations by HMS Albion MOD 45151293.jpg",
+      "description": "HMS Albion conducts amphibious operations with Landing Craft Utility (LCU) during Exercise Grey Heron off the coast of Portsmouth in 2007.\n<p>The Albion Class, Landing Platform Dock ships (LPD) primar",
+      "license": "OGL v1.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/HMS_Albion_Exercise_Wader_Scotland.jpg/1280px-HMS_Albion_Exercise_Wader_Scotland.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/51/HMS_Albion_Exercise_Wader_Scotland.jpg",
+      "width": 4800,
+      "height": 2700,
+      "title": "HMS Albion Exercise Wader Scotland.jpg",
+      "description": "HMS Albion prepares for WADER exercise in Scotland as 45 Commando join in Scotland.Many different types of armoured and Green Fleet vehicles can be seen on the jetty.The Littoral Response Group (North",
+      "license": "OGL v1.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/HMS_Albion_LRGN_deployment.jpg/1280px-HMS_Albion_LRGN_deployment.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/36/HMS_Albion_LRGN_deployment.jpg",
+      "width": 3600,
+      "height": 2400,
+      "title": "HMS Albion LRGN deployment.jpg",
+      "description": "Pictured; US Marines CH-53 Sea Stallion helicopter taking off from HMS ALBION off the coast of Scotland during LRG North.Royal Marines of 47 CDO conduct a WADER package off the coast of Scotland whils",
+      "license": "OGL v1.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/HMS_Albion_MOD_45151288.jpg/1280px-HMS_Albion_MOD_45151288.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/fe/HMS_Albion_MOD_45151288.jpg",
+      "width": 3600,
+      "height": 2400,
+      "title": "HMS Albion MOD 45151288.jpg",
+      "description": "HMS Albion is pictured operating with Dutch Royal Marines.\n<p>The Albion Class, Landing Platform Dock ships (LPD) primary function is to embark, transport, and deploy and recover (by air and sea) troo",
+      "license": "OGL v1.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/HMS_Albion_MOD_45151289.jpg/1280px-HMS_Albion_MOD_45151289.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/62/HMS_Albion_MOD_45151289.jpg",
+      "width": 3600,
+      "height": 2400,
+      "title": "HMS Albion MOD 45151289.jpg",
+      "description": "HMS Albion is pictured operating with Dutch Royal Marines.\n<p>The Albion Class, Landing Platform Dock ships (LPD) primary function is to embark, transport, and deploy and recover (by air and sea) troo",
+      "license": "OGL v1.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/HMS_Albion_in_Norway_MOD_45151290.jpg/1280px-HMS_Albion_in_Norway_MOD_45151290.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/HMS_Albion_in_Norway_MOD_45151290.jpg",
+      "width": 2400,
+      "height": 1800,
+      "title": "HMS Albion in Norway MOD 45151290.jpg",
+      "description": "Whilst on Exercise Armatura Borealis/Tundra HMS Albion sails through a snow shower, as she patrols the North West of Norway.\n<p>The Albion Class, Landing Platform Dock ships (LPD) primary function is ",
+      "license": "OGL v1.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Aft_mast_HMS_Albion.jpg/1280px-Aft_mast_HMS_Albion.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Aft_mast_HMS_Albion.jpg",
+      "width": 3084,
+      "height": 4644,
+      "title": "Aft mast HMS Albion.jpg",
+      "description": "Aft mast of HMS Albion while visiting Helsinki",
+      "license": "CC BY 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/HMS_ALBION_Aerial_Photex_MOD_45165982.jpg/1280px-HMS_ALBION_Aerial_Photex_MOD_45165982.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/29/HMS_ALBION_Aerial_Photex_MOD_45165982.jpg",
+      "width": 3600,
+      "height": 2400,
+      "title": "HMS ALBION Aerial Photex MOD 45165982.jpg",
+      "description": "On the 29th August 2017 HMS ALBION had her first Aerial photos after coming out of refit at HMNB Devonport.\n<p>HMS ALBION was in refit since 2011 and in January 2017, 350 Sailors joined her to start t",
+      "license": "OGL v1.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Mast_HMS_Albion.jpg/1280px-Mast_HMS_Albion.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Mast_HMS_Albion.jpg",
+      "width": 4644,
+      "height": 3084,
+      "title": "Mast HMS Albion.jpg",
+      "description": "A mast of HMS Albion while visiting Helsinki",
+      "license": "CC BY 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Stern_HMS_Albion.jpg/1280px-Stern_HMS_Albion.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Stern_HMS_Albion.jpg",
+      "width": 4608,
+      "height": 3072,
+      "title": "Stern HMS Albion.jpg",
+      "description": "Stern of HMS Albion while visiting Helsinki",
+      "license": "CC BY 4.0",
+      "source": "wikimedia"
+    }
+  ],
+  "doctrine": {
+    "role": "Enables power projection and intervention operations by delivering Royal Marine Commandos and their equipment to contested littorals, serving as the cornerstone of Britain's ability to conduct unilateral military interventions outside NATO's Article 5 framework.",
+    "employment": "Typically operates as flagship of the Littoral Response Group alongside escorts, support ships, and embarked Commando Force elements. Primary mission profiles include crisis response, non-combatant evacuation operations, and contested amphibious landings supporting 'upstream engagement' before conflicts escalate. Often deployed for extended periods to maintain persistent presence in key regions like the Indo-Pacific, with the ship serving as both transport and command platform for multinational amphibious task groups.",
+    "design_philosophy": "Prioritised strategic mobility and operational flexibility over tactical survivability, accepting reduced self-defence capabilities and armour protection to maximise global reach and multi-role adaptability. The design emphasises efficient movement of large numbers of troops and vehicles rather than survival in high-intensity combat, reflecting Britain's expeditionary focus on medium-scale interventions rather than major power conflict.",
+    "threat_context": "Designed during the 1990s for operations against regional powers with limited anti-access capabilities, anticipating scenarios similar to Sierra Leone rather than peer conflict. The threat environment has since evolved to include sophisticated missile systems, submarines, and electronic warfare capabilities that challenge the platform's survivability assumptions, particularly in contested environments like the South China Sea or Eastern Mediterranean.",
+    "comparison_frame": "Compare primarily on strategic mobility (range, endurance, global deployability) and operational flexibility (multi-role capability, command facilities) rather than tactical metrics like defensive armament or survivability features. Dock well capacity and aviation facilities matter more than protection levels, as these platforms prioritise getting forces ashore quickly rather than surviving prolonged combat."
+  },
+  "curated_sources": [
+    {
+      "title": "British Maritime Doctrine (BR 1806)",
+      "type": "report",
+      "url": "https://www.gov.uk/government/publications/british-maritime-doctrine-jdp-0-10",
+      "relevance": "Official Royal Navy doctrine explaining the strategic rationale for amphibious operations and expeditionary warfare concepts that drive Albion-class employment.",
+      "priority": "essential"
+    },
+    {
+      "title": "RUSI Amphibious Warfare Reports",
+      "type": "analyst",
+      "url": "https://rusi.org/",
+      "relevance": "Leading UK defence think tank providing ongoing analysis of Royal Navy amphibious capabilities and their role in contemporary British defence policy.",
+      "priority": "essential"
+    },
+    {
+      "title": "The Royal Navy: A History Since 1900 by Paul Halpern",
+      "type": "book",
+      "url": "",
+      "relevance": "Provides historical context for the evolution of Royal Navy amphibious warfare capabilities from World War II through the post-Cold War transformation that produced the Albion class.",
+      "priority": "recommended"
+    },
+    {
+      "title": "UK Amphibious Forces by Norman Friedman",
+      "type": "book",
+      "url": "",
+      "relevance": "Definitive technical and operational analysis of British amphibious warfare vessels including detailed coverage of Albion-class design decisions and capabilities.",
+      "priority": "essential"
+    },
+    {
+      "title": "Naval Technology - Albion Class",
+      "type": "database",
+      "url": "https://www.naval-technology.com/projects/albion/",
+      "relevance": "Comprehensive technical specifications and systems integration details for the Albion-class platform and its operational equipment.",
+      "priority": "reference"
+    },
+    {
+      "title": "House of Commons Defence Committee Reports on Amphibious Capability",
+      "type": "report",
+      "url": "https://committees.parliament.uk/committee/24/defence-committee/publications/",
+      "relevance": "Parliamentary oversight reports examining the strategic utility and cost-effectiveness of UK amphibious forces in contemporary threat environments.",
+      "priority": "recommended"
+    },
+    {
+      "title": "Littoral Warfare: Lessons from Recent History by CSBA",
+      "type": "report",
+      "url": "https://csbaonline.org/",
+      "relevance": "Analysis of contemporary amphibious operations and their implications for platform design and employment concepts in contested littoral environments.",
+      "priority": "recommended"
+    },
+    {
+      "title": "World Defence Almanac - Royal Navy",
+      "type": "database",
+      "url": "https://www.shephardmedia.com/",
+      "relevance": "Current fleet status, modernisation programmes, and operational deployments of Albion-class vessels within broader Royal Navy force structure.",
+      "priority": "reference"
+    }
+  ]
+}

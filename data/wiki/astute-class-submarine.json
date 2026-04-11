@@ -1,0 +1,535 @@
+{
+  "id": 43,
+  "slug": "astute-class-submarine",
+  "name": "Astute-class submarine",
+  "designation": "SSN",
+  "type": "submarine",
+  "country": "United Kingdom",
+  "operator": "Royal Navy",
+  "overview_md": "The Astute-class represents the Royal Navy's most advanced nuclear attack submarine capability and arguably the world's most sophisticated conventionally-armed SSN. These boats combine cutting-edge sonar technology, nuclear propulsion that never requires refueling, and a weapons loadout optimized for both anti-submarine warfare and land attack missions. The class was designed to maintain Britain's undersea dominance in an era of resurgent submarine threats from Russia and China's expanding naval capabilities.\n\nStrategically, the Astute-class serves as the backbone of the Royal Navy's submarine force, filling the critical gap between ballistic missile submarines and surface combatants. Their primary missions include intelligence gathering, special forces insertion, anti-submarine warfare in the GIUK gap, and precision strike capabilities via Tomahawk cruise missiles. The boats feature a revolutionary sonar suite that can reportedly detect ships leaving port in New York from a position south of the English Channel.\n\nThe design philosophy emphasizes stealth, endurance, and multi-mission capability over raw firepower. Unlike American Virginia-class boats with their large VLS sections, Astute-class submarines rely on torpedo tube-launched weapons, including the Tomahawk Block IV. This approach prioritizes acoustic signature reduction and operational flexibility. The class incorporates pump-jet propulsion for reduced noise signature and advanced reactor design providing 25+ year core life.\n\nIn the current threat environment, Astute-class submarines provide the UK with a credible deterrent against submarine threats in the North Atlantic while maintaining power projection capabilities globally. Compared to peers like the Virginia-class or Yasen-class, the Astute offers superior sonar performance and stealth characteristics but carries fewer weapons and lacks dedicated VLS cells. The class represents Britain's commitment to maintaining a world-class submarine capability despite budget constraints and industrial challenges that have plagued the program.",
+  "specs_json": {
+    "displacement_tonnes": 7800,
+    "length_m": 97,
+    "beam_m": 11.3,
+    "draft_m": 10,
+    "speed_knots": 29,
+    "range_nm": 999999,
+    "crew": 98,
+    "propulsion": "Rolls-Royce PWR2 nuclear reactor with pump-jet propulsion",
+    "radar": "Thales I-band navigation radar",
+    "sonar": "Thales 2076 integrated sonar suite",
+    "combat_system": "Thales SUBTICS combat management system",
+    "vls_cells": 0,
+    "additional": {
+      "torpedo_tubes": 6,
+      "weapon_capacity": "38 weapons (mix of torpedoes and missiles)",
+      "diving_depth_m": 300,
+      "reactor_life_years": 25,
+      "periscope": "Thales CK043 search periscope with thermal imaging"
+    }
+  },
+  "armament_json": [
+    {
+      "category": "Cruise Missiles",
+      "name": "Tomahawk Block IV",
+      "type": "land attack cruise missile",
+      "quantity": "Up to 12",
+      "range_km": 1600,
+      "notes": "Launched from torpedo tubes"
+    },
+    {
+      "category": "Torpedoes",
+      "name": "Spearfish",
+      "type": "heavyweight torpedo",
+      "quantity": "Up to 38 total weapons",
+      "range_km": 65,
+      "notes": "Wire-guided with 300kg warhead"
+    },
+    {
+      "category": "ASW",
+      "name": "Sting Ray",
+      "type": "lightweight torpedo",
+      "quantity": "Variable load",
+      "range_km": 11,
+      "notes": "For anti-submarine warfare"
+    }
+  ],
+  "variants_json": [
+    {
+      "name": "Astute-class Batch 1",
+      "designation_range": "S119-S121",
+      "years": "2010-2016",
+      "count": 3,
+      "key_changes": "Initial production standard with Thales 2076 sonar and SUBTICS combat system",
+      "status": "active"
+    },
+    {
+      "name": "Astute-class Batch 2",
+      "designation_range": "S122-S125",
+      "years": "2017-2025",
+      "count": 4,
+      "key_changes": "Enhanced communications systems, improved combat management software, updated sensor processing",
+      "status": "building"
+    }
+  ],
+  "fleet_status_json": [
+    {
+      "hull_number": "S119",
+      "name": "HMS Astute",
+      "variant": "Batch 1",
+      "commissioned": "2010-08-27",
+      "home_port": "Faslane",
+      "status": "active"
+    },
+    {
+      "hull_number": "S120",
+      "name": "HMS Ambush",
+      "variant": "Batch 1",
+      "commissioned": "2013-03-01",
+      "home_port": "Faslane",
+      "status": "active"
+    },
+    {
+      "hull_number": "S121",
+      "name": "HMS Artful",
+      "variant": "Batch 1",
+      "commissioned": "2016-03-18",
+      "home_port": "Faslane",
+      "status": "active"
+    },
+    {
+      "hull_number": "S122",
+      "name": "HMS Audacious",
+      "variant": "Batch 2",
+      "commissioned": "2020-04-23",
+      "home_port": "Faslane",
+      "status": "active"
+    },
+    {
+      "hull_number": "S123",
+      "name": "HMS Anson",
+      "variant": "Batch 2",
+      "commissioned": "2022-08-25",
+      "home_port": "Faslane",
+      "status": "active"
+    },
+    {
+      "hull_number": "S124",
+      "name": "HMS Agamemnon",
+      "variant": "Batch 2",
+      "commissioned": "2024-01-01",
+      "home_port": "Faslane",
+      "status": "fitting out"
+    },
+    {
+      "hull_number": "S125",
+      "name": "HMS Ajax",
+      "variant": "Batch 2",
+      "commissioned": "2025-01-01",
+      "home_port": "Faslane",
+      "status": "building"
+    }
+  ],
+  "cost_usd": 2100000000.0,
+  "unit_count": 7,
+  "first_commissioned": "2010-08-27",
+  "builder": "BAE Systems Submarines",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f9/HMS_Ambush_long.jpg",
+  "wiki_url": "https://en.wikipedia.org/wiki/Astute-class_submarine",
+  "sources_json": [
+    "https://en.wikipedia.org/wiki/Astute-class_submarine",
+    "https://www.royalnavy.mod.uk/our-organisation/the-fighting-arms/submarine-service/fleet/attack-submarines/hms-astute",
+    "https://www.baesystems.com/en/product/astute-class-submarines",
+    "https://www.janes.com/defence-news/naval-weapons/latest/uk-mods-astute-submarine-programme"
+  ],
+  "comparison_tags": [
+    "submarine",
+    "SSN",
+    "nuclear-submarine",
+    "royal-navy",
+    "attack-submarine",
+    "hunter-killer"
+  ],
+  "created_at": "2026-04-10 20:11:02",
+  "updated_at": "2026-04-10T20:11:02.014321",
+  "news": [
+    {
+      "id": 250,
+      "platform_id": 43,
+      "article_hash": "e4f5edaaea574896",
+      "title": "Union pushes for Fife build of Royal Navy submarine docks - UK Defence Journal",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPVW9peXpUMU9adzBXQVYwRER2VFd5ZmU2N3NxS1FBMTE1Y052NGZYUHIwd0xWcVU5cDYxdkljSWRQTW1TTHNLcU92NUd5azhNV2NIT3h2UHE3SUpGelNHM3NnZ004QnpKdERScDdZRms2RlV3Zk5mZkdON2NzU19GQTFILUdxZlBoZG1jS2MyckNwM0I4?oc=5",
+      "source": "GNews (UK Defence Journal)",
+      "published_at": "2026-04-07T09:58:22",
+      "relevance_score": 0.6,
+      "snippet": "Union pushes for Fife build of Royal Navy submarine docks - UK Defence Journal",
+      "created_at": "2026-04-10 20:39:16"
+    },
+    {
+      "id": 274,
+      "platform_id": 43,
+      "article_hash": "50228ea03cc4b35d",
+      "title": "News - USS Seawolf (SSN 21) returns home from deployment - DVIDS",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPLW1vNmpTS201R2FJMEhMM3hVOVEydHZQMlN5Yk0zaFBfM3d6YmVjLUdvWWo4bGJqMk1yWHF3MWlkWklCanpfa3AyMzJuNzdpelZHZDJRNFBwVnNYZGZNUlpEUElLNHlwYW5qTmxLUGpmc2pOM1phb29XY2xsc3BRV0sxNEYxZw?oc=5",
+      "source": "GNews (DVIDS)",
+      "published_at": "2026-04-03T19:36:00",
+      "relevance_score": 0.6,
+      "snippet": "News - USS Seawolf (SSN 21) returns home from deployment - DVIDS",
+      "created_at": "2026-04-10 20:39:16"
+    }
+  ],
+  "events": [],
+  "ic_coverage": [],
+  "combat_history": [
+    {
+      "date": "2011-04",
+      "operation": "Operation Ellamy",
+      "event": "HMS Astute conducted surveillance operations off Libya during NATO intervention, providing intelligence on coastal defenses and naval movements.",
+      "significance": "First operational deployment demonstrated boat's intelligence gathering capabilities in contested waters"
+    },
+    {
+      "date": "2011-10-20",
+      "operation": null,
+      "event": "HMS Astute ran aground off the Isle of Skye during sea trials, requiring tug assistance and causing significant embarrassment to the Royal Navy.",
+      "significance": "Highlighted training and operational challenges with the new class, leading to revised procedures"
+    },
+    {
+      "date": "2018-04",
+      "operation": null,
+      "event": "HMS Ambush fired Tomahawk missiles at Syrian chemical weapons facilities as part of coordinated strikes with US and French forces.",
+      "significance": "First combat use of Tomahawk from Astute-class, validating land attack capability"
+    },
+    {
+      "date": "2021",
+      "operation": "Indo-Pacific Deployment",
+      "event": "HMS Artful conducted extended patrol in South China Sea and Indo-Pacific region as part of CSG21 deployment.",
+      "significance": "Demonstrated global reach and ability to operate in contested regions far from home waters"
+    }
+  ],
+  "modernization": [
+    {
+      "program": "Combat System Upgrade",
+      "status": "in-progress",
+      "timeline": "2020-2025",
+      "description": "Upgrading SUBTICS combat management system software, enhanced sensor processing, and improved communications systems across the class.",
+      "impact": "Enhanced target tracking, improved data fusion, and better integration with joint forces"
+    },
+    {
+      "program": "Tomahawk Block V Integration",
+      "status": "planned",
+      "timeline": "2024-2026",
+      "description": "Integration of advanced Tomahawk Block V with enhanced range and multi-mission capabilities.",
+      "impact": "Extends land attack range and provides maritime strike capability against moving targets"
+    },
+    {
+      "program": "Sonar Processing Enhancement",
+      "status": "in-progress",
+      "timeline": "2022-2027",
+      "description": "Software upgrades to Thales 2076 sonar system incorporating AI-assisted target classification and tracking algorithms.",
+      "impact": "Improved detection range and classification accuracy, reduced operator workload"
+    }
+  ],
+  "vulnerabilities": [
+    {
+      "area": "Industrial delivery schedule",
+      "description": "Significant delays and cost overruns in construction program, with boats delivered years behind schedule and billions over budget.",
+      "context": "Limits Royal Navy's ability to maintain adequate SSN force levels as older boats retire",
+      "mitigation": "Improved project management and industrial base investment, but fundamental issues remain"
+    },
+    {
+      "area": "Weapons capacity limitation",
+      "description": "Only 38 weapons total capacity with no dedicated VLS cells limits sustained combat capability compared to competitors.",
+      "context": "In high-intensity conflict, limited magazine depth reduces operational persistence and mission flexibility",
+      "mitigation": "None planned - fundamental design constraint that cannot be easily addressed"
+    },
+    {
+      "area": "Single reactor design risk",
+      "description": "Any reactor design flaw affects entire class, and PWR2 reactor has experienced some technical challenges.",
+      "context": "Could potentially ground entire fleet if serious reactor issues emerge, as seen with other single-design fleets",
+      "mitigation": "Extensive testing and quality control, but risk remains inherent to single-design approach"
+    }
+  ],
+  "operational_patterns": {
+    "typical_deployment": "Independent patrols in North Atlantic, Mediterranean, and increasingly Indo-Pacific regions. Often operates in support of CSG deployments.",
+    "deployment_length_months": 6,
+    "key_operating_areas": [
+      "North Atlantic",
+      "GIUK Gap",
+      "Mediterranean",
+      "Indo-Pacific",
+      "Arabian Gulf"
+    ],
+    "typical_task_group": "Usually operates independently, occasionally with CSG or as part of multinational submarine exercises",
+    "readiness_notes": "Availability rates have been impacted by industrial delays and complex maintenance requirements for advanced systems"
+  },
+  "peer_comparisons": [
+    {
+      "platform": "Virginia-class SSN",
+      "country": "United States",
+      "relationship": "allied equivalent",
+      "key_differences": "Virginia-class has 12 VLS cells providing greater weapons capacity and mission flexibility, but Astute arguably has superior sonar performance and stealth characteristics. Virginia-class has better industrial production rate.",
+      "video_angle": "Anglo-American submarine design philosophy differences - VLS vs torpedo tube launched weapons"
+    },
+    {
+      "platform": "Yasen-class SSN",
+      "country": "Russia",
+      "relationship": "direct rival",
+      "key_differences": "Yasen-class carries significantly more weapons (32 VLS cells plus torpedoes) and has higher surface/submerged speed, but likely inferior sonar and stealth characteristics. Russian industrial challenges limit production.",
+      "video_angle": "Western vs Russian submarine design priorities - stealth vs firepower"
+    },
+    {
+      "platform": "Type 093B SSN",
+      "country": "China",
+      "relationship": "direct rival",
+      "key_differences": "Chinese boats likely inferior in sonar, stealth, and reactor technology but being produced in larger numbers. Significant capability gap but China rapidly improving design and industrial capacity.",
+      "video_angle": "Quality vs quantity in submarine warfare - British expertise vs Chinese industrial capacity"
+    },
+    {
+      "platform": "Barracuda-class SSN",
+      "country": "France",
+      "relationship": "allied equivalent",
+      "key_differences": "French boats smaller with pump-jet propulsion like Astute but carry fewer weapons and have less advanced sonar. Both programs experienced similar industrial challenges and delays.",
+      "video_angle": "European submarine programs comparison - shared challenges and different solutions"
+    },
+    {
+      "platform": "Soryu-class SSK",
+      "country": "Japan",
+      "relationship": "allied different category",
+      "key_differences": "Conventional submarine with AIP but excellent stealth characteristics and advanced sonar. Limited by battery endurance but potentially quieter than nuclear boats in littoral operations.",
+      "video_angle": "Nuclear vs conventional submarines in modern warfare - endurance vs stealth trade-offs"
+    }
+  ],
+  "search_keywords": [
+    "astute class",
+    "astute-class",
+    "HMS Astute",
+    "royal navy submarine",
+    "SSN",
+    "british submarine",
+    "PWR2 reactor",
+    "Thales 2076",
+    "SUBTICS",
+    "Spearfish torpedo",
+    "Faslane"
+  ],
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/24/Astute_class_SSN_silhouette.png",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/24/Astute_class_SSN_silhouette.png",
+      "width": 799,
+      "height": 200,
+      "title": "Astute class SSN silhouette.png",
+      "description": "Astute class SSN silhouette",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Future_of_the_Royal_Navy_2025.png/1280px-Future_of_the_Royal_Navy_2025.png",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/87/Future_of_the_Royal_Navy_2025.png",
+      "width": 4400,
+      "height": 4104,
+      "title": "Future of the Royal Navy 2025.png",
+      "description": "Silhouettes of all planned future ships of the Royal Navy from the end of 2024",
+      "license": "CC BY 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/HMS_Ambush.jpg/1280px-HMS_Ambush.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/HMS_Ambush.jpg",
+      "width": 1979,
+      "height": 2473,
+      "title": "HMS Ambush.jpg",
+      "description": "Astute class submarine HMS Ambush is pictured during sea trials near Scotland. Ambush, second of the nuclear powered attack submarines, was named in Barrow on 16 December 2010 and launched on 5 Januar",
+      "license": "OGL v1.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Royal_Navy_Submarine_HMS_Astute_Fires_a_Tomahawk_Cruise_Missile_%28TLAM%29_During_Testing_Near_the_USA_MOD_45153387.jpg/1280px-Royal_Navy_Submarine_HMS_Astute_Fires_a_Tomahawk_Cruise_Missile_%28TLAM%29_During_Testing_Near_the_USA_MOD_45153387.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Royal_Navy_Submarine_HMS_Astute_Fires_a_Tomahawk_Cruise_Missile_%28TLAM%29_During_Testing_Near_the_USA_MOD_45153387.jpg",
+      "width": 2400,
+      "height": 3000,
+      "title": "Royal Navy Submarine HMS Astute Fires a Tomahawk Cruise Missile (TLAM) During Testing Near the USA MOD 45153387.jpg",
+      "description": "Royal Navy Attack submarine HMS Astute fires a Tomahawk cruise missile during a testing mission near the USA.  \n<p>The Royal Navy\u2019s newest submarine has blasted Tomahawk missiles far across the North ",
+      "license": "OGL v1.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Royal_Navy_Submarine_HMS_Astute_Returns_to_HMNB_Clyde_MOD_45153733.jpg/1280px-Royal_Navy_Submarine_HMS_Astute_Returns_to_HMNB_Clyde_MOD_45153733.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/84/Royal_Navy_Submarine_HMS_Astute_Returns_to_HMNB_Clyde_MOD_45153733.jpg",
+      "width": 2712,
+      "height": 1804,
+      "title": "Royal Navy Submarine HMS Astute Returns to HMNB Clyde MOD 45153733.jpg",
+      "description": "HMS Astute returned home on Thursday, March 1 after a 142 day deployment to America.\n<p>It was also a voyage of discovery.  HMS Astute was tried and tested as never before \u00f1 and she came through with ",
+      "license": "OGL v1.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Royal_Navy_Submarine_HMS_Astute_Returns_to_HMNB_Clyde_MOD_45153735.jpg/1280px-Royal_Navy_Submarine_HMS_Astute_Returns_to_HMNB_Clyde_MOD_45153735.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Royal_Navy_Submarine_HMS_Astute_Returns_to_HMNB_Clyde_MOD_45153735.jpg",
+      "width": 2473,
+      "height": 1979,
+      "title": "Royal Navy Submarine HMS Astute Returns to HMNB Clyde MOD 45153735.jpg",
+      "description": "HMS Astute returned home on Thursday, March 1 after a 142 day deployment to America.\n<p>It was also a voyage of discovery.  HMS Astute was tried and tested as never before \u00f1 and she came through with ",
+      "license": "OGL v1.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Royal_Navy_Submarine_HMS_Astute_Returns_to_HMNB_Clyde_MOD_45153736.jpg/1280px-Royal_Navy_Submarine_HMS_Astute_Returns_to_HMNB_Clyde_MOD_45153736.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Royal_Navy_Submarine_HMS_Astute_Returns_to_HMNB_Clyde_MOD_45153736.jpg",
+      "width": 2712,
+      "height": 1804,
+      "title": "Royal Navy Submarine HMS Astute Returns to HMNB Clyde MOD 45153736.jpg",
+      "description": "HMS Astute returned home on Thursday, March 1 after a 142 day deployment to America.\n<p>It was also a voyage of discovery.  HMS Astute was tried and tested as never before and she came through with fl",
+      "license": "OGL v1.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/US_Navy_120126-N-WL435-428_Chief_of_Naval_Operations_%28CNO%29_Adm._Jonathan_Greenert_observes_the_crew_of_the_Royal_Navy_Astute-class_submarine_HMS_As.jpg/1280px-US_Navy_120126-N-WL435-428_Chief_of_Naval_Operations_%28CNO%29_Adm._Jonathan_Greenert_observes_the_crew_of_the_Royal_Navy_Astute-class_submarine_HMS_As.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/5a/US_Navy_120126-N-WL435-428_Chief_of_Naval_Operations_%28CNO%29_Adm._Jonathan_Greenert_observes_the_crew_of_the_Royal_Navy_Astute-class_submarine_HMS_As.jpg",
+      "width": 1500,
+      "height": 2100,
+      "title": "US Navy 120126-N-WL435-428 Chief of Naval Operations (CNO) Adm. Jonathan Greenert observes the crew of the Royal Navy Astute-class submarine HMS As.jpg",
+      "description": "ATLANTIC OCEAN (Jan. 26, 2012) Chief of Naval Operations (CNO) Adm. Jonathan Greenert observes the crew of the Royal Navy Astute-class submarine HMS Astute (SSN 20) during the joint exercise Fellowshi",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/NH_97214_USS_Scorpion_%28SSN-589%29.tif/lossy-page1-1280px-NH_97214_USS_Scorpion_%28SSN-589%29.tif.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/NH_97214_USS_Scorpion_%28SSN-589%29.tif",
+      "width": 6092,
+      "height": 4928,
+      "title": "NH 97214 USS Scorpion (SSN-589).tif",
+      "description": "USS Scorpion (SSN-589) off the coast of New London, Connecticut, photographed in August 1960",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/SSN-AUKUS_submarine.jpg/1280px-SSN-AUKUS_submarine.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/a1/SSN-AUKUS_submarine.jpg",
+      "width": 1500,
+      "height": 844,
+      "title": "SSN-AUKUS submarine.jpg",
+      "description": "Artist rendering of possible design for SSN-AUKUS submarines",
+      "license": "OGL 3",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/USN_1048964_USS_Thresher_%28SSN-593%29.jpg/1280px-USN_1048964_USS_Thresher_%28SSN-593%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/2e/USN_1048964_USS_Thresher_%28SSN-593%29.jpg",
+      "width": 5706,
+      "height": 4554,
+      "title": "USN 1048964 USS Thresher (SSN-593).jpg",
+      "description": "Launch of USS Thresher (SSN-593) at the Portsmouth Naval Shipyard, New Hampshire",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/USN_1048964_USS_Thresher_%28SSN-593%29.png/1280px-USN_1048964_USS_Thresher_%28SSN-593%29.png",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/7b/USN_1048964_USS_Thresher_%28SSN-593%29.png",
+      "width": 5706,
+      "height": 4554,
+      "title": "USN 1048964 USS Thresher (SSN-593).png",
+      "description": "Launch of USS Thresher (SSN-593) at the Portsmouth Naval Shipyard, New Hampshire",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/USS_Iowa_%28SSN_797%29_delivery.jpg/1280px-USS_Iowa_%28SSN_797%29_delivery.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/85/USS_Iowa_%28SSN_797%29_delivery.jpg",
+      "width": 3000,
+      "height": 1998,
+      "title": "USS Iowa (SSN 797) delivery.jpg",
+      "description": "The pre-commissioning unit (PCU) Iowa (SSN 797) arrives for the first time at Naval Submarine Base New London in Groton, Connecticut, December 19, 2024. The future USS Iowa was delivered to Submarine ",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/USS_Tullibee_%28SSN-597%29_underway_at_sea%2C_circa_in_1960.jpg/1280px-USS_Tullibee_%28SSN-597%29_underway_at_sea%2C_circa_in_1960.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/59/USS_Tullibee_%28SSN-597%29_underway_at_sea%2C_circa_in_1960.jpg",
+      "width": 2100,
+      "height": 1469,
+      "title": "USS Tullibee (SSN-597) underway at sea, circa in 1960.jpg",
+      "description": "The U.S. Navy submarine USS <i>Tullibee</i> (SSN-597) underway at sea, circa in 1960.",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/USS_Washington_%28SSN-787%29_16-Sep-2024.jpg/1280px-USS_Washington_%28SSN-787%29_16-Sep-2024.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/35/USS_Washington_%28SSN-787%29_16-Sep-2024.jpg",
+      "width": 3000,
+      "height": 1980,
+      "title": "USS Washington (SSN-787) 16-Sep-2024.jpg",
+      "description": "GROTON, Conn. The Virginia-class fast attack submarine USS Washington (SSN 787) pulls into to Submarine Base New London in Groton, Conn. on Monday, September 16, 2024. Washington and crew operate unde",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/US_Navy_030903-N-0435H-044_USS_Greeneville_%28SSN_772%29_departed.jpg/1280px-US_Navy_030903-N-0435H-044_USS_Greeneville_%28SSN_772%29_departed.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/33/US_Navy_030903-N-0435H-044_USS_Greeneville_%28SSN_772%29_departed.jpg",
+      "width": 3008,
+      "height": 1960,
+      "title": "US Navy 030903-N-0435H-044 USS Greeneville (SSN 772) departed.jpg",
+      "description": "Pearl Harbor, Hawaii (Sept. 3, 2003) -- USS Greeneville (SSN 772) departed for deployment Sept. 1, 2003, as part of Expeditionary Strike Group One (ESG-1), which set sail Aug. 22 from Naval Station Sa",
+      "license": "Public domain",
+      "source": "wikimedia"
+    }
+  ],
+  "doctrine": {
+    "role": "Multi-domain power projection and sea control, maintaining Britain's ability to conduct independent submarine operations globally while supporting NATO collective defence in the GIUK gap and other critical chokepoints.",
+    "employment": "Typically deployed on extended solo patrols lasting 3-4 months, conducting intelligence gathering, anti-submarine warfare, and maintaining continuous at-sea deterrent presence. Operates independently or in coordination with surface task groups, with command relationships flowing through Fleet Command Northwood to national leadership. Mission profiles emphasize covert operations, strategic reconnaissance, and the ability to strike high-value land targets with Tomahawk missiles in crisis escalation scenarios.",
+    "design_philosophy": "Prioritized acoustic stealth and sensor superiority over speed and weapons capacity, accepting a smaller magazine (38 weapons vs 48+ on Virginia-class) in exchange for the world's most advanced sonar suite and minimal acoustic signature. The design emphasized endurance and crew habitability for extended solo deployments, sacrificing some automation for proven reliability in critical systems.",
+    "threat_context": "Designed during the 2000s to counter improved Russian submarines in the North Atlantic while maintaining overmatch against potential adversaries globally. The threat environment has intensified since initial design with Russian submarine resurgence, Chinese naval expansion into global waters, and increased emphasis on submarine-launched land attack capabilities in hybrid warfare scenarios.",
+    "comparison_frame": "Compare primarily on acoustic signature and sonar performance rather than magazine capacity or speed\u2014all modern SSNs achieve similar tactical speeds. Focus on sensor range, signature management, and endurance as key differentiators, with weapons flexibility (torpedo vs cruise missile loadout) as a secondary consideration."
+  },
+  "curated_sources": [
+    {
+      "title": "British Destroyers & Frigates: The Second World War & After",
+      "type": "book",
+      "url": "",
+      "relevance": "Friedman's analysis of British naval design philosophy provides essential context for understanding Royal Navy procurement decisions and operational requirements.",
+      "priority": "recommended"
+    },
+    {
+      "title": "Royal Navy Nuclear Attack Submarines",
+      "type": "analyst",
+      "url": "https://www.rusi.org/",
+      "relevance": "RUSI consistently provides the most authoritative analysis of Royal Navy submarine doctrine and capability development from British perspectives.",
+      "priority": "essential"
+    },
+    {
+      "title": "Navy Nuclear Attack Submarine Programs: Background and Issues for Congress",
+      "type": "report",
+      "url": "https://crsreports.congress.gov/product/pdf/RL/RL32418",
+      "relevance": "O'Rourke's CRS reports provide comparative context for understanding how Astute-class capabilities compare to allied submarine programs.",
+      "priority": "recommended"
+    },
+    {
+      "title": "Astute Class Attack Submarine",
+      "type": "database",
+      "url": "https://www.seaforces.org/usnships/ssn/Astute-class.htm",
+      "relevance": "Comprehensive technical specifications and program timeline for the Astute-class development and deployment.",
+      "priority": "reference"
+    },
+    {
+      "title": "Britain's Nuclear Submarines: The Maritime Dimension of Nuclear Strategy",
+      "type": "report",
+      "url": "https://www.csba.org/",
+      "relevance": "CSBA analysis contextualizes British submarine capabilities within broader nuclear strategy and alliance frameworks.",
+      "priority": "recommended"
+    },
+    {
+      "title": "UK Defence Doctrine (JDP 0-01)",
+      "type": "report",
+      "url": "https://www.gov.uk/government/publications/uk-defence-doctrine-jdp-0-01-5th-edition",
+      "relevance": "Official UK doctrinal publication explaining how submarine capabilities integrate with broader British defence strategy and multi-domain operations.",
+      "priority": "essential"
+    },
+    {
+      "title": "The Future of the Undersea Deterrent",
+      "type": "report",
+      "url": "https://static.rusi.org/201907_whr_3-19_hart_web.pdf",
+      "relevance": "RUSI analysis of how British submarine capabilities must evolve to meet emerging threats in contested undersea environments.",
+      "priority": "essential"
+    }
+  ]
+}

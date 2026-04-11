@@ -1,0 +1,197 @@
+{
+  "combat_history": [
+    {
+      "date": "2020",
+      "operation": "Routine patrols",
+      "event": "Both Asahi-class destroyers have conducted regular ASW patrols in the Sea of Japan and East China Sea, focusing on tracking Chinese and North Korean submarine activity.",
+      "significance": "Demonstrates operational integration of new ASW sensors and indigenous combat systems in contested waters"
+    },
+    {
+      "date": "2021-2023",
+      "operation": "Bilateral exercises",
+      "event": "Participation in multiple US-Japan bilateral ASW exercises, testing interoperability of Japanese-developed systems with US Navy platforms.",
+      "significance": "Validates network-centric warfare capabilities and data-sharing with allied forces"
+    }
+  ],
+  "modernization": [
+    {
+      "program": "Combat system upgrades",
+      "status": "in-progress",
+      "timeline": "2023-2025",
+      "description": "Integration of improved ASW processing algorithms and enhanced electronic warfare capabilities. Potential integration of new indigenous missiles.",
+      "impact": "Enhances ASW detection range and classification accuracy while improving survivability in electronic warfare environments"
+    },
+    {
+      "program": "Next-generation destroyer development",
+      "status": "planned",
+      "timeline": "2027-2030",
+      "description": "Japan developing follow-on destroyer class incorporating lessons from Asahi operations and new technologies including hypersonic missile defense.",
+      "impact": "Asahi class serves as stepping stone to more capable multi-mission destroyer with enhanced air defense"
+    }
+  ],
+  "vulnerabilities": [
+    {
+      "area": "Air defense capability",
+      "description": "Limited area air defense capability compared to Aegis-equipped destroyers, with only 32 VLS cells and no dedicated long-range SAM system",
+      "context": "Vulnerable to saturation air attacks or advanced anti-ship missiles in high-threat environments without escort",
+      "mitigation": "Typically operates within range of land-based air defense or with Aegis-equipped vessels"
+    },
+    {
+      "area": "Small fleet size",
+      "description": "Only two hulls limits operational availability and geographic coverage for ASW missions",
+      "context": "Cannot provide persistent ASW coverage across all Japanese maritime approaches simultaneously",
+      "mitigation": "Supplemented by older destroyers and P-1 maritime patrol aircraft, but capability gap remains"
+    },
+    {
+      "area": "Electronic warfare resilience",
+      "description": "Heavy reliance on electronic sensors makes platform vulnerable to sophisticated EW attacks, particularly from peer adversaries",
+      "context": "Chinese and Russian EW capabilities could degrade ASW sensor effectiveness in contested environments",
+      "mitigation": "Ongoing upgrades to EW systems and development of EW-resilient operating procedures"
+    }
+  ],
+  "operational_patterns": {
+    "typical_deployment": "ASW patrols in Sea of Japan, East China Sea, and approaches to Japanese home islands",
+    "deployment_length_months": 3,
+    "key_operating_areas": [
+      "Sea of Japan",
+      "East China Sea",
+      "Pacific approaches to Japan"
+    ],
+    "typical_task_group": "Single ship operations or paired with P-1 maritime patrol aircraft, occasionally integrated with US Navy ASW task groups",
+    "readiness_notes": "High readiness maintained due to small fleet size and specialized mission, but limited surge capacity"
+  },
+  "peer_comparisons": [
+    {
+      "platform": "Type 26 City-class frigate",
+      "country": "United Kingdom",
+      "relationship": "ASW specialist peer",
+      "key_differences": "Type 26 is larger with more VLS cells but similar ASW focus. Asahi has indigenous Japanese systems while Type 26 uses more international components. Both prioritize stealth and advanced sonar.",
+      "video_angle": "Battle of the ASW specialists - comparing Japanese vs British approaches to submarine hunting"
+    },
+    {
+      "platform": "FREMM multipurpose frigate",
+      "country": "France/Italy",
+      "relationship": "European contemporary",
+      "key_differences": "FREMM is more balanced multi-mission platform with land-attack capability Asahi lacks, but Asahi has more advanced indigenous radar and sonar systems specifically optimized for ASW.",
+      "video_angle": "Specialist vs generalist - focused ASW destroyer vs multipurpose frigate design philosophies"
+    },
+    {
+      "platform": "Type 054A frigate",
+      "country": "China",
+      "relationship": "Regional rival",
+      "key_differences": "Type 054A is smaller, less capable but much more numerous. Asahi has superior sensors and ASW capability but Type 054A has better area air defense and larger fleet presence.",
+      "video_angle": "Quality vs quantity - Japanese high-tech ASW destroyer vs Chinese mass-production frigate"
+    },
+    {
+      "platform": "Sejong the Great-class destroyer",
+      "country": "South Korea",
+      "relationship": "Regional allied equivalent",
+      "key_differences": "Korean destroyer is much larger Aegis platform focused on air defense and land attack, while Asahi specializes in ASW with indigenous systems. Different threat priorities reflected in design.",
+      "video_angle": "Allied approaches - Korean air defense focus vs Japanese ASW specialization in Northeast Asia"
+    }
+  ],
+  "search_keywords": [
+    "asahi class",
+    "asahi-class",
+    "25DD",
+    "JS Asahi",
+    "JS Shiranui",
+    "DD-119",
+    "DD-120",
+    "JMSDF destroyer",
+    "FCS-3A",
+    "ATECS"
+  ],
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/JMSDF_ASUKA_6102_01l.jpg/1280px-JMSDF_ASUKA_6102_01l.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/bb/JMSDF_ASUKA_6102_01l.jpg",
+      "width": 3696,
+      "height": 2456,
+      "title": "JMSDF ASUKA 6102 01l.jpg",
+      "description": "\u6d77\u4e0a\u81ea\u885b\u968a\u6240\u5c5e\u8a66\u9a13\u8266\u300c\u3042\u3059\u304b\u300d\n25DD\u7528\u30ec\u30fc\u30c0\u30fc\u3001\u65b0\u578b\u30ec\u30fc\u30c0\u30fc\u8a66\u9a13\u642d\u8f09\u6642\u306e\u8266\u5f71",
+      "license": "CC BY 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/bb/DD-120_Shiranui_01.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/bb/DD-120_Shiranui_01.jpg",
+      "width": 1280,
+      "height": 894,
+      "title": "DD-120 Shiranui 01.jpg",
+      "description": "\u8b77\u885b\u8266\u300c\u3057\u3089\u306c\u3044\u300d",
+      "license": "CC BY 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/3c/DE262_Asahi.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/3c/DE262_Asahi.jpg",
+      "width": 500,
+      "height": 336,
+      "title": "DE262 Asahi.jpg",
+      "description": "\u8b77\u885b\u8266\u300c\u3042\u3055\u3072\u300d",
+      "license": "CC BY 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/JMSDF_Destroyer_JS_%22Shiranui%22_in_Ocean.jpg/1280px-JMSDF_Destroyer_JS_%22Shiranui%22_in_Ocean.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/57/JMSDF_Destroyer_JS_%22Shiranui%22_in_Ocean.jpg",
+      "width": 5124,
+      "height": 3579,
+      "title": "JMSDF Destroyer JS \"Shiranui\" in Ocean.jpg",
+      "description": "JMSDF Destroyer JS \"Shiranui\" in Ocean",
+      "license": "CC BY 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/JS_Asahi%28DD-119%29_at_Mitsubishi_Heavy_Industries_Nagasaki_Shipyard_November_25%2C_2017_02.jpg/1280px-JS_Asahi%28DD-119%29_at_Mitsubishi_Heavy_Industries_Nagasaki_Shipyard_November_25%2C_2017_02.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/JS_Asahi%28DD-119%29_at_Mitsubishi_Heavy_Industries_Nagasaki_Shipyard_November_25%2C_2017_02.jpg",
+      "width": 6000,
+      "height": 3376,
+      "title": "JS Asahi(DD-119) at Mitsubishi Heavy Industries Nagasaki Shipyard November 25, 2017 02.jpg",
+      "description": "\u6d77\u4e0a\u81ea\u885b\u968a\u3000\u8b77\u885b\u8266\u3042\u3055\u3072\uff08DD-119\uff09\u3000\u53f3\u8237\u524d\u9762\u30022017\u5e7411\u670825\u65e5\u3000\u4e09\u83f1\u91cd\u5de5\u696d\u9577\u5d0e\u9020\u8239\u6240\u306b\u3066\u3002",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/JS_Asahi_and_JS_Atago%2C_the_leading_ships_of_the_review_unit_turning_at_the_International_Fleet_Review_2022.jpg/1280px-JS_Asahi_and_JS_Atago%2C_the_leading_ships_of_the_review_unit_turning_at_the_International_Fleet_Review_2022.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/ed/JS_Asahi_and_JS_Atago%2C_the_leading_ships_of_the_review_unit_turning_at_the_International_Fleet_Review_2022.jpg",
+      "width": 2000,
+      "height": 1335,
+      "title": "JS Asahi and JS Atago, the leading ships of the review unit turning at the International Fleet Review 2022.jpg",
+      "description": "\u4ee4\u548c4\u5e74\u5ea6\u56fd\u969b\u89b3\u8266\u5f0f\u306b\u304a\u3044\u3066\u53cd\u8ee2\u56de\u982d\u3059\u308b\u53d7\u95b2\u90e8\u968a\u306e\u5148\u982d\u8266\u300c\u3042\u3055\u3072\u300d\u3068\u300c\u3042\u305f\u3054\u300d",
+      "license": "CC BY 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/JS_Ashigara%28DDG-178%29_%26_JS_Asahi%28DD-119%29_at_Mitsubishi_Heavy_Industries_Nagasaki_Shipyard_November_25%2C_2017_02.jpg/1280px-JS_Ashigara%28DDG-178%29_%26_JS_Asahi%28DD-119%29_at_Mitsubishi_Heavy_Industries_Nagasaki_Shipyard_November_25%2C_2017_02.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/b8/JS_Ashigara%28DDG-178%29_%26_JS_Asahi%28DD-119%29_at_Mitsubishi_Heavy_Industries_Nagasaki_Shipyard_November_25%2C_2017_02.jpg",
+      "width": 6000,
+      "height": 3376,
+      "title": "JS Ashigara(DDG-178) & JS Asahi(DD-119) at Mitsubishi Heavy Industries Nagasaki Shipyard November 25, 2017 02.jpg",
+      "description": "\u6d77\u4e0a\u81ea\u885b\u968a\u3000\u8b77\u885b\u8266\u3042\u3057\u304c\u3089\uff08DDG-178\uff09\u53ca\u3073\u3042\u3055\u3072\uff08DD-119\uff09\u30022017\u5e7411\u670825\u65e5\u3000\u4e09\u83f1\u91cd\u5de5\u696d\u9577\u5d0e\u9020\u8239\u6240\u306b\u3066\u3002",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/JS_Izumo_DD-120_%26_Kong%C5%8D-class_Destroyer_in_Yokosuka2023.jpg/1280px-JS_Izumo_DD-120_%26_Kong%C5%8D-class_Destroyer_in_Yokosuka2023.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/04/JS_Izumo_DD-120_%26_Kong%C5%8D-class_Destroyer_in_Yokosuka2023.jpg",
+      "width": 4193,
+      "height": 2360,
+      "title": "JS Izumo DD-120 & Kong\u014d-class Destroyer in Yokosuka2023.jpg",
+      "description": "In 2023, the JS Izumo helicopter carrier, the JS Asahi-class destroyer DD-120 Shiranui, and the Kongou-class destroyers inside Yokosuka Naval Base.",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/The_German_frigate_Bayern_%28F_217%29_underway_in_the_Pacific_Ocean_with_the_Japanese_destroyers_Kirishima_%28DDG-174%29%2C_Asahi_%28DD-119%29%2C_Ch%C5%8Dkai_%28DDG-176%29_and_Inazuma_%28DD-105%29%2C_21_November_2021_%28211121-N-HS181-1387%29.jpg/1280px-thumbnail.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/9b/The_German_frigate_Bayern_%28F_217%29_underway_in_the_Pacific_Ocean_with_the_Japanese_destroyers_Kirishima_%28DDG-174%29%2C_Asahi_%28DD-119%29%2C_Ch%C5%8Dkai_%28DDG-176%29_and_Inazuma_%28DD-105%29%2C_21_November_2021_%28211121-N-HS181-1387%29.jpg",
+      "width": 5401,
+      "height": 3038,
+      "title": "The German frigate Bayern (F 217) underway in the Pacific Ocean with the Japanese destroyers Kirishima (DDG-174), Asahi (DD-119), Ch\u014dkai (DDG-176) and Inazuma (DD-105), 21 November 2021 (211121-N-HS181-1387).jpg",
+      "description": "From left, the Japan Maritime Self-Defense Force (JMSDF) <i>Kongo</i>-class guided-missile destroyer JS <i>Kirishima</i> (DDG-174), the <i>Asahi</i>-class destroyer JS <i>Asahi</i> (DD-119), the <i>Ko",
+      "license": "Public domain",
+      "source": "wikimedia"
+    }
+  ]
+}

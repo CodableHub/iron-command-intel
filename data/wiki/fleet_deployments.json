@@ -1,0 +1,367 @@
+{
+  "last_updated": "2026-04-11T05:00:03Z",
+  "summary": {
+    "total_carriers": 11,
+    "deployed": 2,
+    "in_port": 3,
+    "maintenance": 0
+  },
+  "carriers": [
+    {
+      "hull": "CVN-68",
+      "name": "USS Nimitz",
+      "class_slug": "nimitz-class-aircraft-carrier",
+      "home_port": "Kitsap-Bremerton, WA",
+      "air_wing": "CVW-17",
+      "status": "unknown",
+      "region": "Western Pacific",
+      "latest_activity": "Eastern Pacific",
+      "recent_log": [
+        {
+          "date": "27Mar2026",
+          "activity": "Eastern Pacific"
+        },
+        {
+          "date": "28Mar2026",
+          "activity": "off the southwest coast of Panama"
+        },
+        {
+          "date": "01Apr2026",
+          "activity": "Panama City"
+        },
+        {
+          "date": "02Apr2026",
+          "activity": "in the waters outside Panama City"
+        },
+        {
+          "date": "06Apr2026",
+          "activity": "Eastern Pacific"
+        }
+      ]
+    },
+    {
+      "hull": "CVN-69",
+      "name": "USS Dwight D. Eisenhower",
+      "class_slug": "nimitz-class-aircraft-carrier",
+      "home_port": "Norfolk, VA",
+      "air_wing": "CVW-3",
+      "status": "deployed",
+      "region": "Atlantic",
+      "latest_activity": "transited the Elizabeth River from Naval Station Norfolk to begin a scheduled Planned Incremental Availability (PIA) at Norfolk Naval Shipyard -------",
+      "recent_log": [
+        {
+          "date": "08Jan2025",
+          "activity": "transited the Elizabeth River from Naval Station Norfolk to begin a scheduled Planned Incremental Availability (PIA) at Norfolk Naval Shipyard -------"
+        }
+      ]
+    },
+    {
+      "hull": "CVN-70",
+      "name": "USS Carl Vinson",
+      "class_slug": "nimitz-class-aircraft-carrier",
+      "home_port": "San Diego, CA",
+      "air_wing": "CVW-2",
+      "status": "in port",
+      "region": "Home Port",
+      "latest_activity": "returned to San Diego Oct.",
+      "recent_log": [
+        {
+          "date": "13Sep2025",
+          "activity": "departed San Diego"
+        },
+        {
+          "date": "15Sep2025",
+          "activity": "Southern California Operating Areas"
+        },
+        {
+          "date": "16Sep2025",
+          "activity": "returned to San Diego Oct."
+        }
+      ]
+    },
+    {
+      "hull": "CVN-71",
+      "name": "USS Theodore Roosevelt",
+      "class_slug": "nimitz-class-aircraft-carrier",
+      "home_port": "San Diego, CA",
+      "air_wing": "CVW-11",
+      "status": "in port",
+      "region": "Home Port",
+      "latest_activity": "returned to San Diego Apr.",
+      "recent_log": [
+        {
+          "date": "28Mar2026",
+          "activity": "departed San Diego"
+        },
+        {
+          "date": "04Apr2026",
+          "activity": "Fleet Replacement Squadron Carrier Qualifications (FRS CQ) in the Southern California Operating Areas"
+        },
+        {
+          "date": "05Apr2026",
+          "activity": "returned to San Diego Apr."
+        }
+      ]
+    },
+    {
+      "hull": "CVN-72",
+      "name": "USS Abraham Lincoln",
+      "class_slug": "nimitz-class-aircraft-carrier",
+      "home_port": "San Diego, CA",
+      "air_wing": "CVW-9",
+      "status": "unknown",
+      "region": "Middle East",
+      "latest_activity": "North Arabian Sea in support of Operation Epic Fury Apr.",
+      "recent_log": [
+        {
+          "date": "19Jan2026",
+          "activity": "transited the Malacca Strait"
+        },
+        {
+          "date": "20Jan2026",
+          "activity": "Andaman Sea"
+        },
+        {
+          "date": "22Jan2026",
+          "activity": "Indian Ocean"
+        },
+        {
+          "date": "27Feb2026",
+          "activity": "North Arabian Sea"
+        },
+        {
+          "date": "06Apr2026",
+          "activity": "North Arabian Sea in support of Operation Epic Fury Apr."
+        }
+      ]
+    },
+    {
+      "hull": "CVN-73",
+      "name": "USS George Washington",
+      "class_slug": "nimitz-class-aircraft-carrier",
+      "home_port": "Norfolk, VA",
+      "air_wing": null,
+      "status": "unknown",
+      "region": "Atlantic",
+      "latest_activity": "",
+      "recent_log": []
+    },
+    {
+      "hull": "CVN-74",
+      "name": "USS John C. Stennis",
+      "class_slug": "nimitz-class-aircraft-carrier",
+      "home_port": "Norfolk, VA",
+      "air_wing": null,
+      "status": "unknown",
+      "region": "Atlantic",
+      "latest_activity": "moved to an outfitting berth at Newport News Shipbuilding in Newport News",
+      "recent_log": [
+        {
+          "date": "06May2021",
+          "activity": "moved from Naval Station Norfolk to Newport News Shipyard for a Refueling and Complex Overhaul (RCOH)"
+        },
+        {
+          "date": "10Aug2021",
+          "activity": "removed arresting gear engine"
+        },
+        {
+          "date": "08Apr2024",
+          "activity": "moved to an outfitting berth at Newport News Shipbuilding in Newport News"
+        }
+      ]
+    },
+    {
+      "hull": "CVN-75",
+      "name": "USS Harry S. Truman",
+      "class_slug": "nimitz-class-aircraft-carrier",
+      "home_port": "Norfolk, VA",
+      "air_wing": "CVW-1",
+      "status": "in port",
+      "region": "Atlantic",
+      "latest_activity": "returned to Norfolk Oct.",
+      "recent_log": [
+        {
+          "date": "17Sep2025",
+          "activity": "departed Norfolk"
+        },
+        {
+          "date": "20Sep2025",
+          "activity": "Virginia Capes Operating Areas"
+        },
+        {
+          "date": "21Sep2025",
+          "activity": "off the East Coast of the United States in support of UNITAS"
+        },
+        {
+          "date": "25Sep2025",
+          "activity": "off the East Coast of the United States"
+        },
+        {
+          "date": "26Sep2025",
+          "activity": "returned to Norfolk Oct."
+        }
+      ]
+    },
+    {
+      "hull": "CVN-76",
+      "name": "USS Ronald Reagan",
+      "class_slug": "nimitz-class-aircraft-carrier",
+      "home_port": "Yokosuka, Japan",
+      "air_wing": null,
+      "status": "unknown",
+      "region": "Western Pacific",
+      "latest_activity": "",
+      "recent_log": []
+    },
+    {
+      "hull": "CVN-77",
+      "name": "USS George H.W. Bush",
+      "class_slug": "nimitz-class-aircraft-carrier",
+      "home_port": "Norfolk, VA",
+      "air_wing": "CVW-7",
+      "status": "deployed",
+      "region": "Atlantic",
+      "latest_activity": "transited the Atlantic Ocean Apr.",
+      "recent_log": [
+        {
+          "date": "31Mar2026",
+          "activity": "departed Norfolk to the Middle East"
+        },
+        {
+          "date": "04Apr2026",
+          "activity": "CVW-"
+        },
+        {
+          "date": "06Apr2026",
+          "activity": "transited the Atlantic Ocean Apr."
+        }
+      ]
+    },
+    {
+      "hull": "CVN-78",
+      "name": "USS Gerald R. Ford",
+      "class_slug": "gerald-r-ford-class",
+      "home_port": "Norfolk, VA",
+      "air_wing": "CVW-8",
+      "status": "unknown",
+      "region": "Atlantic",
+      "latest_activity": "anchored south of Oslo",
+      "recent_log": [
+        {
+          "date": "17Aug2025",
+          "activity": "transited the Strait of Dover into the North Sea"
+        },
+        {
+          "date": "22Aug2025",
+          "activity": "North Sea"
+        },
+        {
+          "date": "08Sep2025",
+          "activity": "conducted routine operations in the High North region"
+        },
+        {
+          "date": "11Sep2025",
+          "activity": "off the south coast of Norway"
+        },
+        {
+          "date": "15Sep2025",
+          "activity": "anchored south of Oslo"
+        }
+      ]
+    }
+  ],
+  "regions": {
+    "Western Pacific": {
+      "carriers": [
+        {
+          "hull": "CVN-68",
+          "name": "USS Nimitz",
+          "status": "unknown"
+        },
+        {
+          "hull": "CVN-76",
+          "name": "USS Ronald Reagan",
+          "status": "unknown"
+        }
+      ],
+      "total_ships": 2
+    },
+    "Atlantic": {
+      "carriers": [
+        {
+          "hull": "CVN-69",
+          "name": "USS Dwight D. Eisenhower",
+          "status": "deployed"
+        },
+        {
+          "hull": "CVN-73",
+          "name": "USS George Washington",
+          "status": "unknown"
+        },
+        {
+          "hull": "CVN-74",
+          "name": "USS John C. Stennis",
+          "status": "unknown"
+        },
+        {
+          "hull": "CVN-75",
+          "name": "USS Harry S. Truman",
+          "status": "in port"
+        },
+        {
+          "hull": "CVN-77",
+          "name": "USS George H.W. Bush",
+          "status": "deployed"
+        },
+        {
+          "hull": "CVN-78",
+          "name": "USS Gerald R. Ford",
+          "status": "unknown"
+        }
+      ],
+      "total_ships": 6
+    },
+    "Home Port": {
+      "carriers": [
+        {
+          "hull": "CVN-70",
+          "name": "USS Carl Vinson",
+          "status": "in port"
+        },
+        {
+          "hull": "CVN-71",
+          "name": "USS Theodore Roosevelt",
+          "status": "in port"
+        }
+      ],
+      "total_ships": 2
+    },
+    "Middle East": {
+      "carriers": [
+        {
+          "hull": "CVN-72",
+          "name": "USS Abraham Lincoln",
+          "status": "unknown"
+        }
+      ],
+      "total_ships": 1
+    }
+  },
+  "sources": [
+    {
+      "name": "GoNavy.jp",
+      "url": "http://www.gonavy.jp/CVLocation.html",
+      "cadence": "Frequently updated"
+    },
+    {
+      "name": "USNI Fleet Tracker",
+      "url": "https://news.usni.org/category/fleet-tracker",
+      "cadence": "Weekly (Monday)"
+    },
+    {
+      "name": "MarineTraffic",
+      "url": "https://www.marinetraffic.com",
+      "cadence": "Real-time AIS"
+    }
+  ]
+}

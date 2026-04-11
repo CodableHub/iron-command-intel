@@ -1,0 +1,334 @@
+{
+  "combat_history": [
+    {
+      "date": "2019-06",
+      "operation": "Persian Gulf tensions",
+      "event": "INS Chennai deployed to Persian Gulf during heightened US-Iran tensions, providing escort for Indian merchant vessels",
+      "significance": "Demonstrated India's ability to project power and protect commercial interests in distant waters"
+    },
+    {
+      "date": "2020-06",
+      "operation": "Galwan border crisis",
+      "event": "Multiple Kolkata-class destroyers deployed to Ladakh region via Arabian Sea during India-China border standoff",
+      "significance": "Showed integration of naval power in continental border disputes"
+    },
+    {
+      "date": "2021-08",
+      "operation": "Evacuation operations",
+      "event": "INS Kochi participated in evacuation of Indian nationals from Afghanistan via Chabahar Port",
+      "significance": "Highlighted the class's role in non-combat overseas operations and regional diplomacy"
+    }
+  ],
+  "modernization": [
+    {
+      "program": "Project 15B follow-on",
+      "status": "in-progress",
+      "timeline": "2024-2027",
+      "description": "Four Visakhapatnam-class destroyers incorporating lessons learned from Kolkata operations. Enhanced stealth, improved indigenous systems integration, upgraded electronic warfare capabilities",
+      "impact": "Will double India's modern destroyer fleet and increase indigenous content to 75%"
+    },
+    {
+      "program": "BrahMos-NG integration",
+      "status": "planned",
+      "timeline": "2025-2028",
+      "description": "Integration of next-generation BrahMos missile with extended range and reduced radar signature",
+      "impact": "Will extend anti-ship engagement envelope and improve survivability"
+    },
+    {
+      "program": "Indigenous sonar upgrade",
+      "status": "planned",
+      "timeline": "2026-2030",
+      "description": "Replacement of current sonar systems with advanced indigenous towed array sonar",
+      "impact": "Significant improvement in ASW capability and reduced foreign dependence"
+    }
+  ],
+  "vulnerabilities": [
+    {
+      "area": "Anti-submarine warfare",
+      "description": "Limited ASW capability compared to Western destroyers, with dated RBU-6000 systems and basic sonar suite",
+      "context": "Critical weakness given growing Chinese submarine presence in Indian Ocean",
+      "mitigation": "Project 15B includes improved ASW systems; towed array sonar upgrade planned"
+    },
+    {
+      "area": "Systems integration complexity",
+      "description": "Mix of Indian, Israeli, Russian, and Italian systems creates maintenance and upgrade challenges",
+      "context": "Could impact readiness rates and complicate future modernization efforts",
+      "mitigation": "Project 15B emphasizes greater systems standardization and indigenous content"
+    },
+    {
+      "area": "Limited production rate",
+      "description": "Mazagon Dock's limited capacity means slow delivery schedule and high per-unit costs",
+      "context": "Constrains India's ability to rapidly expand destroyer fleet to match regional rivals",
+      "mitigation": "Additional shipyard capacity being developed; private sector involvement increasing"
+    },
+    {
+      "area": "Electronic warfare suite",
+      "description": "EW capabilities appear limited compared to latest Chinese and Western systems",
+      "context": "Critical vulnerability in high-intensity electromagnetic warfare environment",
+      "mitigation": "Domestic EW system development underway for Project 15B"
+    }
+  ],
+  "operational_patterns": {
+    "typical_deployment": "Independent patrol or task group leader in Indian Ocean, often with frigate escort",
+    "deployment_length_months": 4,
+    "key_operating_areas": [
+      "Arabian Sea",
+      "Bay of Bengal",
+      "Malacca Strait",
+      "Persian Gulf"
+    ],
+    "typical_task_group": "Usually operates with Shivalik-class frigates and Kamorta-class corvettes",
+    "readiness_notes": "High operational tempo has stressed maintenance schedules; complex systems integration requires specialized technical support"
+  },
+  "peer_comparisons": [
+    {
+      "platform": "Type 052D Luyang III-class",
+      "country": "China",
+      "relationship": "direct rival",
+      "key_differences": "Type 052D has more VLS cells (64 vs 48 total) and integrated systems, but lacks supersonic anti-ship missiles. Kolkata has longer range but lower production numbers.",
+      "video_angle": "David vs Goliath: Can India's elite destroyers match China's mass production approach?"
+    },
+    {
+      "platform": "Sejong the Great-class",
+      "country": "South Korea",
+      "relationship": "allied equivalent",
+      "key_differences": "Korean ships are much larger (11,000 tons vs 7,500) with Aegis system and 128 VLS cells, but cost nearly twice as much. Different design philosophy: Korean emphasis on air defense vs Indian balanced approach.",
+      "video_angle": "Allied approaches: How different threat environments shape destroyer design"
+    },
+    {
+      "platform": "Atago-class",
+      "country": "Japan",
+      "relationship": "regional equivalent",
+      "key_differences": "Atago has proven Aegis system and superior ASW capability, while Kolkata emphasizes supersonic anti-ship missiles. Similar displacement but different mission focus.",
+      "video_angle": "East vs West: Japanese precision versus Indian firepower in destroyer design"
+    },
+    {
+      "platform": "Type 45 Daring-class",
+      "country": "United Kingdom",
+      "relationship": "capability benchmark",
+      "key_differences": "Type 45 has superior air defense radar (SAMPSON) but limited anti-ship capability. Both suffer from small production runs but Daring has power plant issues Kolkata avoided.",
+      "video_angle": "Empire builders: How former naval powers adapt destroyer designs for modern threats"
+    }
+  ],
+  "search_keywords": [
+    "kolkata class",
+    "kolkata-class",
+    "project 15a",
+    "INS Kolkata",
+    "INS Kochi",
+    "INS Chennai",
+    "indian navy destroyer",
+    "brahmos missile",
+    "MF-STAR radar",
+    "mazagon dock",
+    "project 15b",
+    "visakhapatnam class"
+  ],
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/17/Barak-8_missile_firing_by_Kolkata_class_destroyer.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/17/Barak-8_missile_firing_by_Kolkata_class_destroyer.jpg",
+      "width": 1280,
+      "height": 855,
+      "title": "Barak-8 missile firing by Kolkata class destroyer.jpg",
+      "description": "Barak-8 Missile firing by Kolkata class destroyer",
+      "license": "GODL-India",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/INS_Kolkata_%28D63%29_steams_in_formation_while_participating_in_Malabar_2020.jpg/1280px-INS_Kolkata_%28D63%29_steams_in_formation_while_participating_in_Malabar_2020.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/92/INS_Kolkata_%28D63%29_steams_in_formation_while_participating_in_Malabar_2020.jpg",
+      "width": 2000,
+      "height": 886,
+      "title": "INS Kolkata (D63) steams in formation while participating in Malabar 2020.jpg",
+      "description": "ARABIAN SEA (Nov. 17, 2020) The Indian navy stealth guided-missile destroyer INS Kolkata (D63) steams in formation while participating in Malabar 2020 in the north Arabian Sea. Malabar 2020 is the lat",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/INS_Kolkata_Class_Destroyer_Ship_Electrical_System.jpg/1280px-INS_Kolkata_Class_Destroyer_Ship_Electrical_System.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/INS_Kolkata_Class_Destroyer_Ship_Electrical_System.jpg",
+      "width": 2708,
+      "height": 1250,
+      "title": "INS Kolkata Class Destroyer Ship Electrical System.jpg",
+      "description": "INS Kolkata Class Destroyer Ship Electrical System",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Kolkata-class_destroyer_port_view_CGI.JPG/1280px-Kolkata-class_destroyer_port_view_CGI.JPG",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/49/Kolkata-class_destroyer_port_view_CGI.JPG",
+      "width": 1504,
+      "height": 808,
+      "title": "Kolkata-class destroyer port view CGI.JPG",
+      "description": "Computer generated image of the Indian Navy's Kolkata-class destroyer (port view). Features of the warship have been updated.",
+      "license": "CC BY-SA 3.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Kolkata_class_destroyer_CGI.png",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Kolkata_class_destroyer_CGI.png",
+      "width": 958,
+      "height": 634,
+      "title": "Kolkata class destroyer CGI.png",
+      "description": "CGI of a Kolkata class destroyer made using numerous external images",
+      "license": "CC BY-SA 3.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Kolkata_class_destroyer_CGI_2.png",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Kolkata_class_destroyer_CGI_2.png",
+      "width": 958,
+      "height": 634,
+      "title": "Kolkata class destroyer CGI 2.png",
+      "description": "CGI of a Kolkata class destroyer made using numerous external images",
+      "license": "CC BY-SA 3.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/P-15A_Kolkata_class_construction.JPG/1280px-P-15A_Kolkata_class_construction.JPG",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/ed/P-15A_Kolkata_class_construction.JPG",
+      "width": 1521,
+      "height": 1017,
+      "title": "P-15A Kolkata class construction.JPG",
+      "description": "The 2nd (background) and 3rd (foreground) Project 15A Kolkata Class destroyer being built at Mazagon Docks Ltd, Mumbai. The 15A destroyers are being indigenously designed, developed and built for use ",
+      "license": "CC BY 2.5 in",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/da/P-15A_Kolkata_class_hull_unit.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/da/P-15A_Kolkata_class_hull_unit.jpg",
+      "width": 990,
+      "height": 659,
+      "title": "P-15A Kolkata class hull unit.jpg",
+      "description": "A Hull module unit of the 3rd Project 15A Kolkata Class destroyer being built in the Assembly Shop at Mazagon Docks Ltd, Mumbai. The 15A destroyers are being indigenously designed, developed and built",
+      "license": "CC BY 2.5 in",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/15a.Keller.903.Trip12.Southbound.SE.DC.29August2012_%287972931252%29.jpg/1280px-15a.Keller.903.Trip12.Southbound.SE.DC.29August2012_%287972931252%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/e5/15a.Keller.903.Trip12.Southbound.SE.DC.29August2012_%287972931252%29.jpg",
+      "width": 4157,
+      "height": 2669,
+      "title": "15a.Keller.903.Trip12.Southbound.SE.DC.29August2012 (7972931252).jpg",
+      "description": "<p>RIDE-BY SHOOTING Series / View from window of Keller Commuter Bus Route 903 / Trip 12 Southbound across from Navy Yard on 11th Street Bridge, SE, Washington DC on Wednesday afternoon, 29 August 201",
+      "license": "CC BY-SA 2.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/15a.WMATA.Archives.WDC.10October2015_%2822071302942%29.jpg/1280px-15a.WMATA.Archives.WDC.10October2015_%2822071302942%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/02/15a.WMATA.Archives.WDC.10October2015_%2822071302942%29.jpg",
+      "width": 3500,
+      "height": 2848,
+      "title": "15a.WMATA.Archives.WDC.10October2015 (22071302942).jpg",
+      "description": "<p>Crowd exits from WMATA Archives / Navy Memorial / Penn Quarter Station in NW Washington DC on Saturday morning, 10 October 2015 by Elvert Barnes Photography\n</p><p>En route to 20th Anniversary of M",
+      "license": "CC BY-SA 2.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Mazagon_Dock_Shipbuilders_Limited_delivers_INS_Mormugao_to_the_Indian_Navy_01.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Mazagon_Dock_Shipbuilders_Limited_delivers_INS_Mormugao_to_the_Indian_Navy_01.jpg",
+      "width": 700,
+      "height": 466,
+      "title": "Mazagon Dock Shipbuilders Limited delivers INS Mormugao to the Indian Navy 01.jpg",
+      "description": "Y 12705 (Mormugao), the second ship of Project 15B stealth guided missile destroyers being built at Mazagon Dock Shipbuilders Limited (MDL), was delivered to the Indian Navy on 24 November 2022. The c",
+      "license": "GODL-India",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Mazagon_Dock_Shipbuilders_Limited_delivers_INS_Mormugao_to_the_Indian_Navy_02.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Mazagon_Dock_Shipbuilders_Limited_delivers_INS_Mormugao_to_the_Indian_Navy_02.jpg",
+      "width": 700,
+      "height": 467,
+      "title": "Mazagon Dock Shipbuilders Limited delivers INS Mormugao to the Indian Navy 02.jpg",
+      "description": "Y 12705 (Mormugao), the second ship of Project 15B stealth guided missile destroyers being built at Mazagon Dock Shipbuilders Limited (MDL), was delivered to the Indian Navy on 24 November 2022. The c",
+      "license": "GODL-India",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/96/Mazagon_Dock_Shipbuilders_Limited_delivers_INS_Mormugao_to_the_Indian_Navy_03.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/96/Mazagon_Dock_Shipbuilders_Limited_delivers_INS_Mormugao_to_the_Indian_Navy_03.jpg",
+      "width": 700,
+      "height": 466,
+      "title": "Mazagon Dock Shipbuilders Limited delivers INS Mormugao to the Indian Navy 03.jpg",
+      "description": "Y 12705 (Mormugao), the second ship of Project 15B stealth guided missile destroyers being built at Mazagon Dock Shipbuilders Limited (MDL), was delivered to the Indian Navy on 24 November 2022. The c",
+      "license": "GODL-India",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/28/Mazgaon_Dock_delivers_INS_Visakhapatnam_to_the_Indian_Navy.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/28/Mazgaon_Dock_delivers_INS_Visakhapatnam_to_the_Indian_Navy.jpg",
+      "width": 700,
+      "height": 467,
+      "title": "Mazgaon Dock delivers INS Visakhapatnam to the Indian Navy.jpg",
+      "description": "Y 12704 (Visakhapatnam), the lead ship of Project 15B stealth guided missile destroyers being built at Mazgaon Docks Limited (MDL), was delivered to the Indian Navy on 28 October 2021. The contract fo",
+      "license": "GODL-India",
+      "source": "wikimedia"
+    }
+  ],
+  "doctrine": {
+    "role": "Sea control and power projection in the Indian Ocean region, establishing India as the dominant maritime force between the Arabian Sea and Bay of Bengal while deterring Chinese naval expansion into Indian sphere of influence.",
+    "employment": "Operates as flagship of carrier battle groups or leads independent surface action groups, typically accompanied by Shivalik-class frigates and fleet tankers for extended operations. Primarily deployed for high-intensity warfare scenarios, freedom of navigation operations, and diplomatic presence missions across chokepoints like the Strait of Hormuz and Malacca Strait. Commands task groups through indigenous CMS and maintains networked operations with P-8I maritime patrol aircraft and shore-based surveillance systems.",
+    "design_philosophy": "Prioritized indigenous systems integration and stealth characteristics over pure firepower density, accepting slower construction timelines to build domestic naval shipbuilding capability. Sacrificed close-in defensive systems depth for long-range engagement capability, reflecting confidence in outer defensive perimeters and emphasis on first-strike advantages.",
+    "threat_context": "Designed primarily against Pakistani surface combatants and Chinese Type 052C/D destroyers operating in Indian Ocean, with emphasis on anti-ship missile defense and long-range strike capability. Threat environment has evolved to include Chinese Type 055 cruisers and Pakistani acquisition of Chinese systems, requiring software upgrades to Barak-8 and BrahMos systems.",
+    "comparison_frame": "Compare on sensor integration sophistication and indigenous content rather than raw VLS count - Indian doctrine emphasizes quality of engagement over magazine depth. Focus on stealth characteristics and multi-role flexibility versus specialized anti-air or anti-ship platforms, as these destroyers must operate independently across vast Indian Ocean distances."
+  },
+  "curated_sources": [
+    {
+      "title": "Indian Naval Strategy and Maritime Security",
+      "type": "book",
+      "url": "",
+      "relevance": "Provides comprehensive analysis of Indian naval doctrine and the strategic rationale behind Project 15A development.",
+      "priority": "essential"
+    },
+    {
+      "title": "India's Military Modernization: Progress and Challenges",
+      "type": "report",
+      "url": "https://crsreports.congress.gov/product/pdf/R/R46675",
+      "relevance": "Congressional Research Service report analyzing India's defense procurement strategy including indigenous shipbuilding programs.",
+      "priority": "recommended"
+    },
+    {
+      "title": "Naval Forces - Indian Navy",
+      "type": "database",
+      "url": "https://www.seaforces.org/marint/Indian-Navy/",
+      "relevance": "Comprehensive technical specifications and deployment history of Kolkata-class destroyers with regular updates.",
+      "priority": "reference"
+    },
+    {
+      "title": "The New Great Game in the Indian Ocean",
+      "type": "report",
+      "url": "https://www.csis.org/analysis/new-great-game-indian-ocean",
+      "relevance": "CSIS analysis of strategic competition in Indian Ocean that contextualizes Kolkata-class operational requirements.",
+      "priority": "recommended"
+    },
+    {
+      "title": "Indian Maritime Doctrine 2009",
+      "type": "report",
+      "url": "https://www.indiannavy.nic.in/sites/default/files/Indian-Maritime-Doctrine-2009-Updated.pdf",
+      "relevance": "Official Indian Navy doctrinal publication explaining sea control concepts that drove Project 15A requirements.",
+      "priority": "essential"
+    },
+    {
+      "title": "Ensuring Secure Seas: Indian Maritime Security Strategy",
+      "type": "report",
+      "url": "https://www.indiannavy.nic.in/sites/default/files/Indian_Maritime_Security_Strategy_Document_25Jan16.pdf",
+      "relevance": "Updated Indian maritime strategy document outlining force structure rationale for advanced destroyers.",
+      "priority": "essential"
+    },
+    {
+      "title": "Arun Prakash - Former Chief of Naval Staff Analysis",
+      "type": "analyst",
+      "url": "",
+      "relevance": "Leading Indian naval strategic thinker who provides authoritative commentary on Indian Navy force development and doctrine.",
+      "priority": "recommended"
+    },
+    {
+      "title": "Asia Maritime Transparency Initiative - India Ocean Tracker",
+      "type": "database",
+      "url": "https://amti.csis.org/indian-ocean-tracker/",
+      "relevance": "Tracks Indian Navy operations and deployment patterns of major surface combatants including Kolkata-class.",
+      "priority": "reference"
+    }
+  ]
+}

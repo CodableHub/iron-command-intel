@@ -1,0 +1,452 @@
+{
+  "id": 53,
+  "slug": "chungmugong-yi-sun-sin-class-destroyer",
+  "name": "Chungmugong Yi Sun-sin-class destroyer",
+  "designation": "KDX-II",
+  "type": "destroyer",
+  "country": "South Korea",
+  "operator": "Republic of Korea Navy (ROKN)",
+  "overview_md": "The Chungmugong Yi Sun-sin-class destroyer (KDX-II) represents South Korea's emergence as a major regional naval power, combining American combat systems with indigenous Korean shipbuilding expertise. These six destroyers form the backbone of the Republic of Korea Navy's blue-water capabilities, designed primarily for anti-air warfare with significant anti-surface and limited anti-submarine capabilities. The class bridges the gap between Korea's earlier frigate-focused fleet and their more ambitious Sejong the Great-class (KDX-III) destroyers.\n\nStrategically, the KDX-II addresses South Korea's unique geographic challenges \u2014 operating in the confined waters around the Korean Peninsula while maintaining the capability to project power into the broader East China Sea. The ships feature the proven Aegis combat system integrated with Korean-developed systems, creating a hybrid platform that reflects Korea's defense industrial ambitions. This approach allowed Korea to absorb critical naval technologies while building domestic expertise.\n\nIn the current threat environment, these destroyers serve as critical air defense nodes for Korean naval task forces, particularly against North Korean missile threats and increasingly sophisticated Chinese naval capabilities. Their 48-cell VLS capacity, while smaller than contemporary American or Chinese destroyers, provides substantial anti-air coverage when operating in coordinated groups. The class represents an important stepping stone in Korea's naval development, proving Korean ability to integrate complex foreign systems while developing indigenous variants.\n\nCompared to regional peers, the KDX-II sits in the middle tier of modern destroyers \u2014 more capable than most ASEAN naval platforms but less heavily armed than Chinese Type 052D or Japanese Maya-class destroyers. Their primary value lies in their integration with US Navy systems and their role in the broader US-Korea alliance structure, providing interoperable air defense capabilities in a critical theater.",
+  "specs_json": {
+    "displacement_tonnes": 5500,
+    "length_m": 154.0,
+    "beam_m": 17.4,
+    "draft_m": 5.2,
+    "speed_knots": 30,
+    "range_nm": 4500,
+    "crew": 300,
+    "propulsion": "CODAG (2 \u00d7 GE LM2500 gas turbines, 1 \u00d7 MTU diesel engine)",
+    "radar": "SPY-1D multi-function radar",
+    "sonar": "SQS-740K hull-mounted sonar",
+    "combat_system": "Aegis Combat System",
+    "vls_cells": 48,
+    "additional": {
+      "electronic_warfare": "SLQ-200K Sonata EW suite",
+      "data_link": "Link 11, Link 16",
+      "decoy_system": "KDLS-II chaff/flare launchers"
+    }
+  },
+  "armament_json": [
+    {
+      "category": "Missiles",
+      "name": "SM-2MR Block IIIA",
+      "type": "surface-to-air missile",
+      "quantity": "32 cells (typical load)",
+      "range_km": 167,
+      "notes": "Primary air defense weapon"
+    },
+    {
+      "category": "Missiles",
+      "name": "Hae Sung (SSM-700K)",
+      "type": "anti-ship missile",
+      "quantity": "16 cells (typical load)",
+      "range_km": 150,
+      "notes": "Indigenous Korean anti-ship missile"
+    },
+    {
+      "category": "Guns",
+      "name": "Oto Melara 127mm/54",
+      "type": "naval gun",
+      "quantity": "1x 127mm",
+      "range_km": 23,
+      "notes": "Main gun for surface and shore bombardment"
+    },
+    {
+      "category": "CIWS",
+      "name": "Goalkeeper CIWS",
+      "type": "close-in weapon system",
+      "quantity": "1x 30mm",
+      "range_km": 2,
+      "notes": "Dutch-made point defense system"
+    },
+    {
+      "category": "ASW",
+      "name": "K-ASROC",
+      "type": "anti-submarine rocket",
+      "quantity": "Variable VLS load",
+      "range_km": 18,
+      "notes": "Korean development of ASROC"
+    },
+    {
+      "category": "Torpedoes",
+      "name": "Mk 46 Mod 5",
+      "type": "lightweight torpedo",
+      "quantity": "2x 324mm tubes",
+      "range_km": 11,
+      "notes": "US-supplied ASW torpedoes"
+    }
+  ],
+  "variants_json": [
+    {
+      "name": "Batch I",
+      "designation_range": "DDH-975 to DDH-977",
+      "years": "2003-2004",
+      "count": 3,
+      "key_changes": "Initial production standard with SPY-1D radar, basic Aegis integration",
+      "status": "active"
+    },
+    {
+      "name": "Batch II",
+      "designation_range": "DDH-978 to DDH-980",
+      "years": "2006-2008",
+      "count": 3,
+      "key_changes": "Enhanced Korean systems integration, improved EW suite, Korean tactical data system",
+      "status": "active"
+    }
+  ],
+  "fleet_status_json": [
+    {
+      "hull_number": "DDH-975",
+      "name": "ROKS Chungmugong Yi Sun-sin",
+      "variant": "Batch I",
+      "commissioned": "2003-12-23",
+      "home_port": "Busan Naval Base",
+      "status": "active"
+    },
+    {
+      "hull_number": "DDH-976",
+      "name": "ROKS Munmu the Great",
+      "variant": "Batch I",
+      "commissioned": "2004-07-09",
+      "home_port": "Busan Naval Base",
+      "status": "active"
+    },
+    {
+      "hull_number": "DDH-977",
+      "name": "ROKS Eulji Mundeok",
+      "variant": "Batch I",
+      "commissioned": "2005-07-22",
+      "home_port": "Busan Naval Base",
+      "status": "active"
+    },
+    {
+      "hull_number": "DDH-978",
+      "name": "ROKS Yang Manchun",
+      "variant": "Batch II",
+      "commissioned": "2006-10-31",
+      "home_port": "Busan Naval Base",
+      "status": "active"
+    },
+    {
+      "hull_number": "DDH-979",
+      "name": "ROKS Yun Gwan",
+      "variant": "Batch II",
+      "commissioned": "2007-12-28",
+      "home_port": "Busan Naval Base",
+      "status": "active"
+    },
+    {
+      "hull_number": "DDH-980",
+      "name": "ROKS Choe Young",
+      "variant": "Batch II",
+      "commissioned": "2008-08-25",
+      "home_port": "Busan Naval Base",
+      "status": "active"
+    }
+  ],
+  "cost_usd": 850000000.0,
+  "unit_count": 6,
+  "first_commissioned": "2003-12-23",
+  "builder": "Daewoo Shipbuilding & Marine Engineering (DSME)",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/65/ROKS_Yi_SunShin_DDH-975.jpg",
+  "wiki_url": "https://en.wikipedia.org/wiki/Chungmugong_Yi_Sun-sin-class_destroyer",
+  "sources_json": [
+    "https://en.wikipedia.org/wiki/Chungmugong_Yi_Sun-sin-class_destroyer",
+    "https://www.navy.mil.kr/",
+    "https://www.janes.com/",
+    "https://www.naval-technology.com/"
+  ],
+  "comparison_tags": [
+    "destroyer",
+    "aegis",
+    "vls",
+    "korean-navy",
+    "regional-power",
+    "air-defense"
+  ],
+  "created_at": "2026-04-10 20:21:41",
+  "updated_at": "2026-04-10T20:21:41.322087",
+  "news": [],
+  "events": [],
+  "ic_coverage": [],
+  "combat_history": [
+    {
+      "date": "2010-11",
+      "operation": "Yeonpyeong Island Response",
+      "event": "Multiple KDX-II destroyers deployed to Yellow Sea following North Korean artillery attack on Yeonpyeong Island, providing air defense coverage for South Korean response operations.",
+      "significance": "First major operational deployment in crisis situation, demonstrated readiness and strategic mobility"
+    },
+    {
+      "date": "2014-04",
+      "operation": "MV Sewol Ferry Disaster Response",
+      "event": "ROKS Eulji Mundeok and other ships participated in search and rescue operations, using sonar systems and providing coordination platform.",
+      "significance": "Showed humanitarian response capabilities and sensor utility in non-combat operations"
+    },
+    {
+      "date": "2016-2017",
+      "operation": "THAAD Deployment Security",
+      "event": "KDX-II destroyers provided naval security and air defense coverage during controversial THAAD missile defense system deployment.",
+      "significance": "Demonstrated integration with broader missile defense architecture"
+    },
+    {
+      "date": "2019-12",
+      "operation": "Strait of Hormuz Escort Mission",
+      "event": "ROKS Choi Young deployed to Persian Gulf as part of international maritime security operations, first major overseas operational deployment.",
+      "significance": "Proved blue-water operational capability and international interoperability"
+    }
+  ],
+  "modernization": [
+    {
+      "program": "Korean Tactical Data System (KTDS) Upgrade",
+      "status": "completed",
+      "timeline": "2015-2020",
+      "description": "Integration of indigenous Korean tactical data management system to reduce dependence on US systems and improve ROK-specific operational integration.",
+      "impact": "Enhanced autonomous operational capability and reduced technology dependence"
+    },
+    {
+      "program": "Electronic Warfare Suite Enhancement",
+      "status": "in-progress",
+      "timeline": "2020-2025",
+      "description": "Upgrade to SLQ-200K EW systems with enhanced capability against Chinese and North Korean radar systems, incorporating lessons from regional threat development.",
+      "impact": "Improved survivability in contested electromagnetic environment"
+    },
+    {
+      "program": "VLS Compatibility Expansion",
+      "status": "planned",
+      "timeline": "2024-2028",
+      "description": "Software and hardware modifications to support broader range of Korean indigenous missiles including next-generation anti-ship and land-attack weapons.",
+      "impact": "Greater tactical flexibility and reduced dependence on US munitions"
+    }
+  ],
+  "vulnerabilities": [
+    {
+      "area": "Anti-submarine warfare capability",
+      "description": "Limited ASW sensors and weapons compared to dedicated ASW platforms, with only hull-mounted sonar and no towed array sonar system.",
+      "context": "Critical weakness given North Korean submarine threat and Chinese submarine activity in regional waters.",
+      "mitigation": "Typically operates with dedicated ASW helicopters and in coordination with ASW-specialized platforms"
+    },
+    {
+      "area": "VLS cell count",
+      "description": "48 VLS cells significantly fewer than contemporary Chinese (64+ cells) or US destroyers (96 cells), limiting sustained engagement capability.",
+      "context": "Insufficient for independent operations against massed missile attacks from North Korea or China.",
+      "mitigation": "Designed for coordinated operations with other Korean and US Navy units"
+    },
+    {
+      "area": "Aging radar technology",
+      "description": "SPY-1D radar, while proven, lacks the capability of newer AESA systems like SPY-6 or Chinese Type 346B radars against modern stealth targets.",
+      "context": "Potentially vulnerable to advanced stealth cruise missiles and low-observable targets.",
+      "mitigation": "No current plans for radar upgrade; capability gap addressed by newer KDX-III destroyers"
+    }
+  ],
+  "operational_patterns": {
+    "typical_deployment": "Regional patrol and air defense, typically operating in Yellow Sea or East China Sea",
+    "deployment_length_months": 3,
+    "key_operating_areas": [
+      "Yellow Sea",
+      "East China Sea",
+      "Korea Strait"
+    ],
+    "typical_task_group": "Korean naval task group with frigate and supply ship, or integrated with US Navy carrier strike groups",
+    "readiness_notes": "High operational tempo due to persistent North Korean threat; aging hulls showing increased maintenance requirements"
+  },
+  "peer_comparisons": [
+    {
+      "platform": "Akizuki-class destroyer",
+      "country": "Japan",
+      "relationship": "allied equivalent",
+      "key_differences": "Japanese platform more focused on ASW with better sonar systems, while KDX-II emphasizes air defense. Similar displacement but different tactical roles reflecting different threat priorities.",
+      "video_angle": "Korea vs Japan: Different approaches to regional destroyer design and alliance integration"
+    },
+    {
+      "platform": "Type 052C Luyang II-class",
+      "country": "China",
+      "relationship": "direct rival",
+      "key_differences": "Chinese platform has indigenous radar and combat systems with similar VLS capacity (48 cells) but different missile options. KDX-II benefits from proven Aegis integration while Type 052C represents Chinese technological independence.",
+      "video_angle": "East Asian destroyer rivalry: Technology transfer vs indigenous development paths"
+    },
+    {
+      "platform": "\u00c1lvaro de Baz\u00e1n-class frigate",
+      "country": "Spain",
+      "relationship": "technical cousin",
+      "key_differences": "Both use Aegis combat system but Spanish platform smaller (6,000 tons vs 5,500) with different regional requirements. Similar concept of mid-tier Aegis platform for regional power.",
+      "video_angle": "Aegis export success: How different nations adapted the same combat system"
+    },
+    {
+      "platform": "Arleigh Burke-class (Flight IIA)",
+      "country": "United States",
+      "relationship": "technology ancestor",
+      "key_differences": "US platform significantly larger (9,000+ tons) with double the VLS cells (96) and more comprehensive capabilities. KDX-II represents cost-effective adaptation of core Aegis technology for regional requirements.",
+      "video_angle": "Original vs adaptation: How Korea modified US destroyer concepts for Korean needs"
+    }
+  ],
+  "search_keywords": [
+    "KDX-II",
+    "KDX-2",
+    "chungmugong yi sun-sin",
+    "korean destroyer",
+    "ROKN destroyer",
+    "aegis korea",
+    "korean navy KDX",
+    "yi sun-sin class"
+  ],
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Munmu_The_Great03.jpg/1280px-Munmu_The_Great03.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Munmu_The_Great03.jpg",
+      "width": 4288,
+      "height": 2848,
+      "title": "Munmu The Great03.jpg",
+      "description": "The Republic of Korea Navy (ROKN) Munmu The Great (KDX II) participates in exercise Rim of the Pacific (RIMPAC). Eight nations are participating in RIMPAC, the world's largest biennial maritime exerci",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Munmu_The_Great_%28KDX_II%29.jpg/1280px-Munmu_The_Great_%28KDX_II%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Munmu_The_Great_%28KDX_II%29.jpg",
+      "width": 1663,
+      "height": 1105,
+      "title": "Munmu The Great (KDX II).jpg",
+      "description": "070327-N-7130B-150 SEA OF JAPAN (March 27, 2007) \u2013 The Republic of Korea Navy\u2019s Munmu The Great (KDX II) takes its place as part of a formation with USS Ronald Reagan (CVN 76) in conjunction with Exer",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Destroyer_Yi_%28DDH_975%29.jpg/1280px-Destroyer_Yi_%28DDH_975%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Destroyer_Yi_%28DDH_975%29.jpg",
+      "width": 2400,
+      "height": 1891,
+      "title": "Destroyer Yi (DDH 975).jpg",
+      "description": "040702-N-4304S-002 Pearl Harbor, Hawaii (July 2, 2004) - Republic of Korea Destroyer Yi (DDH 975) sits pierside at Naval Station Pearl Harbor, Hawaii. The ship is participating in this year's Rim of t",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/ROKS_Chungmugong_Yi_Sun-sin_%28DDH-975%29_sails_during_the_at-sea_phase_of_RIMPAC_2024.jpg/1280px-ROKS_Chungmugong_Yi_Sun-sin_%28DDH-975%29_sails_during_the_at-sea_phase_of_RIMPAC_2024.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/ROKS_Chungmugong_Yi_Sun-sin_%28DDH-975%29_sails_during_the_at-sea_phase_of_RIMPAC_2024.jpg",
+      "width": 4285,
+      "height": 2852,
+      "title": "ROKS Chungmugong Yi Sun-sin (DDH-975) sails during the at-sea phase of RIMPAC 2024.jpg",
+      "description": "Republic of Korea navy Chungmugong Yi Sun-sin-class destroyer ROKS Chungmugong Yi Sun-sin (DDH 975) sails during the at-sea phase of Exercise Rim of the Pacific (RIMPAC) 2024. Twenty-nine nations, 40 ",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/ROKS_Chungmugong_Yi_Sun-sin_%28DDH-975%29_sails_in_formation_off_the_coast_of_Hawaii_during_RIMPAC_2024_on_22_July_2024_-_1.jpg/1280px-ROKS_Chungmugong_Yi_Sun-sin_%28DDH-975%29_sails_in_formation_off_the_coast_of_Hawaii_during_RIMPAC_2024_on_22_July_2024_-_1.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/b0/ROKS_Chungmugong_Yi_Sun-sin_%28DDH-975%29_sails_in_formation_off_the_coast_of_Hawaii_during_RIMPAC_2024_on_22_July_2024_-_1.jpg",
+      "width": 5410,
+      "height": 3600,
+      "title": "ROKS Chungmugong Yi Sun-sin (DDH-975) sails in formation off the coast of Hawaii during RIMPAC 2024 on 22 July 2024 - 1.jpg",
+      "description": "Republic of Korea Navy destroyer ROKS Chungmugong Yi Sun-sin (DDH 975) sails in formation July 22, off the coast of Hawaii during Exercise Rim of the Pacific (RIMPAC) 2024. Twenty-nine nations, 40 sur",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/ROKS_Chungmugong_Yi_Sun-sin_%28DDH-975%29_sails_in_formation_off_the_coast_of_Hawaii_during_RIMPAC_2024_on_22_July_2024_-_2.jpg/1280px-ROKS_Chungmugong_Yi_Sun-sin_%28DDH-975%29_sails_in_formation_off_the_coast_of_Hawaii_during_RIMPAC_2024_on_22_July_2024_-_2.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/c6/ROKS_Chungmugong_Yi_Sun-sin_%28DDH-975%29_sails_in_formation_off_the_coast_of_Hawaii_during_RIMPAC_2024_on_22_July_2024_-_2.jpg",
+      "width": 4755,
+      "height": 3164,
+      "title": "ROKS Chungmugong Yi Sun-sin (DDH-975) sails in formation off the coast of Hawaii during RIMPAC 2024 on 22 July 2024 - 2.jpg",
+      "description": "Republic of Korea Navy destroyer ROKS Chungmugong Yi Sun-sin (DDH 975) sails in formation July 22, off the coast of Hawaii during Exercise Rim of the Pacific (RIMPAC) 2024. Twenty-nine nations, 40 sur",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/ROKS_Chungmugong_Yi_Sun-sin_%28DDH-975%29_sails_off_the_coast_of_Hawaii_during_RIMPAC_2024_on_22_July_2024_-_1.jpg/1280px-ROKS_Chungmugong_Yi_Sun-sin_%28DDH-975%29_sails_off_the_coast_of_Hawaii_during_RIMPAC_2024_on_22_July_2024_-_1.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/40/ROKS_Chungmugong_Yi_Sun-sin_%28DDH-975%29_sails_off_the_coast_of_Hawaii_during_RIMPAC_2024_on_22_July_2024_-_1.jpg",
+      "width": 5620,
+      "height": 3739,
+      "title": "ROKS Chungmugong Yi Sun-sin (DDH-975) sails off the coast of Hawaii during RIMPAC 2024 on 22 July 2024 - 1.jpg",
+      "description": "South Korean Navy destroyer ROKS Chungmugong Yi Sun-sin (DDH 975) sails in formation July 22, off the coast of Hawaii during Exercise Rim of the Pacific (RIMPAC) 2024. Twenty-nine nations, 40 surface ",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/ROKS_Chungmugong_Yi_Sun-sin_%28DDH-975%29_sails_off_the_coast_of_Hawaii_during_RIMPAC_2024_on_22_July_2024_-_2.jpg/1280px-ROKS_Chungmugong_Yi_Sun-sin_%28DDH-975%29_sails_off_the_coast_of_Hawaii_during_RIMPAC_2024_on_22_July_2024_-_2.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/16/ROKS_Chungmugong_Yi_Sun-sin_%28DDH-975%29_sails_off_the_coast_of_Hawaii_during_RIMPAC_2024_on_22_July_2024_-_2.jpg",
+      "width": 1987,
+      "height": 2987,
+      "title": "ROKS Chungmugong Yi Sun-sin (DDH-975) sails off the coast of Hawaii during RIMPAC 2024 on 22 July 2024 - 2.jpg",
+      "description": "South Korean Navy destroyer ROKS Chungmugong Yi Sun-sin (DDH 975) sails in formation July 22, off the coast of Hawaii during Exercise Rim of the Pacific (RIMPAC) 2024. Twenty-nine nations, 40 surface ",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/ROKS_Yi_SunShin_DDH-975.jpg/1280px-ROKS_Yi_SunShin_DDH-975.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/65/ROKS_Yi_SunShin_DDH-975.jpg",
+      "width": 3008,
+      "height": 1960,
+      "title": "ROKS Yi SunShin DDH-975.jpg",
+      "description": "040706-N-6811L-045 Pacific Ocean (July 6, 2004)\u00a0? Republic of Korea Destroyer Yi SunShin (DDH 975) cruises to position where it will participate in exercise Rim of the Pacific (RIMPAC) 2004. RIMPAC is",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Starboard_bow_view_of_international_group_of_ships_underway_at_the_conclusion_of_RIMPAC_2004_including_ROKS_Chungmugong_Yi_Sun-sin_%28DDH-975%29_and_USS_John_Paul_Jones_%28DDG-53%29_040722-N-1513W-202.jpg/1280px-thumbnail.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Starboard_bow_view_of_international_group_of_ships_underway_at_the_conclusion_of_RIMPAC_2004_including_ROKS_Chungmugong_Yi_Sun-sin_%28DDH-975%29_and_USS_John_Paul_Jones_%28DDG-53%29_040722-N-1513W-202.jpg",
+      "width": 2000,
+      "height": 1312,
+      "title": "Starboard bow view of international group of ships underway at the conclusion of RIMPAC 2004 including ROKS Chungmugong Yi Sun-sin (DDH-975) and USS John Paul Jones (DDG-53) 040722-N-1513W-202.jpg",
+      "description": "Pacific Ocean (July 22, 2004) - Pictured foreground-to-background The Republic of South Korea (KOR), KDX-2 Class: Frigate Chungmugong Yi Sun-sin (DDH-975); the US Navy (USN) Arleigh Burke Cass (Flight",
+      "license": "Public domain",
+      "source": "wikimedia"
+    }
+  ],
+  "doctrine": {
+    "role": "Fleet air defense and sea control within the Korean Peninsula's extended maritime approaches, enabling ROKN transition from coastal defense to regional blue-water operations.",
+    "employment": "Typically deployed as task group flagships integrating with Sejong the Great-class destroyers and frigates in layered air defense formations. Primary missions include escorting high-value units, establishing air defense bubbles around amphibious operations, and conducting independent patrol missions in the Korea Strait and East China Sea. Command relationships emphasize integration with US Seventh Fleet operations while maintaining sovereign Korean operational control.",
+    "design_philosophy": "Prioritized maximum Aegis-quality air defense capability within budget constraints, accepting reduced helicopter facilities (single hangar vs twin) and limited VLS magazine depth compared to larger destroyers. The design emphasized proven American combat systems over indigenous alternatives to ensure interoperability and reduce technical risk.",
+    "threat_context": "Designed primarily against North Korean air and missile threats, with secondary focus on Chinese naval expansion in the Yellow Sea. Since commissioning, the threat has evolved toward more sophisticated ballistic missiles, hypersonic weapons, and Chinese naval presence, stressing the platform's magazine depth limitations.",
+    "comparison_frame": "Compare primarily on air defense engagement envelope and magazine sustainability rather than raw VLS count - the 48-cell limitation versus 90+ cells on peers matters more than speed or displacement. Sensor integration quality and datalink interoperability with US systems are critical differentiators versus Chinese and Russian equivalents."
+  },
+  "curated_sources": [
+    {
+      "title": "The Naval Institute Guide to World Naval Weapon Systems",
+      "type": "book",
+      "url": "",
+      "relevance": "Norman Friedman's comprehensive analysis of the Aegis system variants and their implementation on allied platforms including KDX-II.",
+      "priority": "essential"
+    },
+    {
+      "title": "South Korea as a Middle Power: Change and Continuity in S. Korea-China-U.S. Relations",
+      "type": "report",
+      "url": "https://www.csis.org/programs/korea-chair",
+      "relevance": "CSIS analysis of ROK naval modernization within the broader strategic context of regional power competition.",
+      "priority": "recommended"
+    },
+    {
+      "title": "Republic of Korea Navy - Naval Technology",
+      "type": "analyst",
+      "url": "https://www.naval-technology.com/projects/chungmugong-yi-sun-sin-class/",
+      "relevance": "Comprehensive technical specifications and development history of the KDX-II program.",
+      "priority": "reference"
+    },
+    {
+      "title": "Chungmugong Yi Sun-sin Class - Seaforces",
+      "type": "database",
+      "url": "https://www.seaforces.org/marint/Republic-of-Korea-Navy/Destroyer/KDX-2-class.htm",
+      "relevance": "Detailed specifications, sensors, and weapons systems data for operational analysis.",
+      "priority": "reference"
+    },
+    {
+      "title": "The Future of the Republic of Korea Navy",
+      "type": "report",
+      "url": "https://www.usni.org/magazines/proceedings",
+      "relevance": "US Naval Institute analysis of ROKN doctrine and force structure evolution including KDX programs.",
+      "priority": "recommended"
+    },
+    {
+      "title": "Asian Security Practice: Material and Ideational Influences",
+      "type": "book",
+      "url": "",
+      "relevance": "Academic analysis of South Korean naval doctrine development and the strategic rationale behind the KDX program.",
+      "priority": "recommended"
+    },
+    {
+      "title": "Defense Acquisition Program Administration (DAPA) - KDX-II Program",
+      "type": "report",
+      "url": "https://www.dapa.go.kr/eng/",
+      "relevance": "Official South Korean government documentation of the KDX-II acquisition program and requirements.",
+      "priority": "essential"
+    }
+  ]
+}

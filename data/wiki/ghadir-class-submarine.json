@@ -1,0 +1,448 @@
+{
+  "id": 64,
+  "slug": "ghadir-class-submarine",
+  "name": "Ghadir-class submarine",
+  "designation": "None",
+  "type": "submarine",
+  "country": "Iran",
+  "operator": "Islamic Republic of Iran Navy",
+  "overview_md": "The Ghadir-class is Iran's domestically-produced midget submarine, designed for coastal defense and asymmetric naval warfare in the Persian Gulf's shallow waters. Based on North Korean Yono-class technology with Iranian modifications, these 120-ton boats represent Tehran's attempt to create a credible submarine deterrent despite international sanctions limiting access to advanced naval technology.\n\nStrategically, the Ghadir-class embodies Iran's asymmetric naval doctrine \u2014 using large numbers of small, hard-to-detect platforms to threaten much larger naval forces in confined waters. Their shallow draft and compact size make them well-suited for the Persian Gulf's average depth of 50 meters, where they can potentially ambush larger vessels or lay mines in shipping channels.\n\nThe design philosophy prioritizes simplicity, manufacturability, and stealth over conventional submarine capabilities like endurance or deep-water operations. Iran has reportedly built over 20 units, making it one of the world's largest midget submarine fleets. However, their operational effectiveness remains questionable due to limited range, basic sensors, and Iran's historical challenges with complex military systems.\n\nIn the current threat environment, these boats pose a nuisance-level threat to Gulf shipping and could complicate naval operations in a conflict scenario. While easily outmatched by modern anti-submarine warfare capabilities, their small signature and potential to operate in very shallow coastal waters create detection challenges. They represent quantity over quality \u2014 a classic asymmetric approach by a technologically inferior but determined adversary.",
+  "specs_json": {
+    "displacement_tonnes": 120,
+    "length_m": 29,
+    "beam_m": 2.75,
+    "draft_m": 2.6,
+    "speed_knots": 11,
+    "range_nm": 200,
+    "crew": 18,
+    "propulsion": "Single shaft diesel-electric, 1 \u00d7 diesel generator, electric motor",
+    "radar": "Basic navigation radar (surface only)",
+    "sonar": "Basic passive sonar array",
+    "combat_system": "Indigenous Iranian fire control system",
+    "vls_cells": 0,
+    "additional": {
+      "max_depth_m": 200,
+      "endurance_days": 5,
+      "torpedo_tubes": 2,
+      "mines_capacity": 8
+    }
+  },
+  "armament_json": [
+    {
+      "category": "Torpedoes",
+      "name": "533mm torpedoes",
+      "type": "heavyweight torpedo",
+      "quantity": "2 tubes, 4 torpedoes",
+      "range_km": 15,
+      "notes": "Likely Iranian-produced variants of foreign designs"
+    },
+    {
+      "category": "Mines",
+      "name": "Naval mines",
+      "type": "contact/influence mines",
+      "quantity": "8 mines (alternative load)",
+      "range_km": 0,
+      "notes": "Can substitute for torpedo load"
+    }
+  ],
+  "variants_json": [
+    {
+      "name": "Ghadir Block 1",
+      "designation_range": "Various names (Ghadir, Nahang, etc.)",
+      "years": "2007-2012",
+      "count": 15,
+      "key_changes": "Initial production variant based on North Korean Yono-class design with Iranian modifications",
+      "status": "active"
+    },
+    {
+      "name": "Ghadir Block 2",
+      "designation_range": "Later units",
+      "years": "2012-present",
+      "count": 8,
+      "key_changes": "Improved sensors, upgraded fire control system, enhanced battery capacity",
+      "status": "building"
+    }
+  ],
+  "fleet_status_json": [
+    {
+      "hull_number": "901",
+      "name": "Ghadir",
+      "variant": "Block 1",
+      "commissioned": "2007",
+      "home_port": "Bandar Abbas",
+      "status": "active"
+    },
+    {
+      "hull_number": "902",
+      "name": "Nahang",
+      "variant": "Block 1",
+      "commissioned": "2008",
+      "home_port": "Bandar Abbas",
+      "status": "active"
+    },
+    {
+      "hull_number": "Unknown",
+      "name": "Multiple unnamed units",
+      "variant": "Block 1/2",
+      "commissioned": "2008-2023",
+      "home_port": "Various Iranian naval bases",
+      "status": "active"
+    }
+  ],
+  "cost_usd": 15000000.0,
+  "unit_count": 23,
+  "first_commissioned": "2007",
+  "builder": "Iran Shipbuilding & Offshore Industries Complex (ISOICO)",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/96/Velayat_90_-_Naval_review_%2827%29.jpg",
+  "wiki_url": "https://en.wikipedia.org/wiki/Ghadir-class_submarine",
+  "sources_json": [
+    "https://en.wikipedia.org/wiki/Ghadir-class_submarine",
+    "https://www.navy.mil/",
+    "https://www.janes.com/",
+    "https://www.globalsecurity.org/"
+  ],
+  "comparison_tags": [
+    "submarine",
+    "midget-submarine",
+    "coastal-defense",
+    "iranian-navy",
+    "asymmetric-warfare"
+  ],
+  "created_at": "2026-04-10 20:33:30",
+  "updated_at": "2026-04-10T20:33:30.480064",
+  "news": [],
+  "events": [],
+  "ic_coverage": [],
+  "combat_history": [
+    {
+      "date": "2008",
+      "operation": "Persian Gulf exercises",
+      "event": "Early Ghadir-class units participated in Iranian naval exercises demonstrating mine-laying capabilities and mock attacks on surface vessels",
+      "significance": "First operational demonstration of Iran's indigenous submarine capability"
+    },
+    {
+      "date": "2019",
+      "operation": "Strait of Hormuz tensions",
+      "event": "Multiple Ghadir-class submarines reportedly deployed to patrol areas during US-Iran tensions, though no confirmed engagements",
+      "significance": "Showed Iran's willingness to deploy midget submarines in potential conflict scenarios"
+    },
+    {
+      "date": "2020-2023",
+      "operation": "Regular patrols",
+      "event": "Routine patrol operations in Persian Gulf, with occasional detection by US and allied naval forces",
+      "significance": "Demonstrates limited but persistent operational capability in regional waters"
+    }
+  ],
+  "modernization": [
+    {
+      "program": "Ghadir Block 2 improvements",
+      "status": "in-progress",
+      "timeline": "2012-ongoing",
+      "description": "Upgraded fire control systems, improved battery technology, enhanced sensor suite including better sonar arrays",
+      "impact": "Modest improvements in detection range and underwater endurance, but fundamental limitations remain"
+    },
+    {
+      "program": "Air-independent propulsion research",
+      "status": "planned",
+      "timeline": "Unknown",
+      "description": "Iran has claimed research into AIP systems for future submarine variants",
+      "impact": "Would significantly extend underwater endurance if successfully implemented"
+    }
+  ],
+  "vulnerabilities": [
+    {
+      "area": "Limited range and endurance",
+      "description": "200nm range and 5-day endurance severely limits operational flexibility and strategic impact",
+      "context": "Makes them purely coastal defense weapons with no ability to project power beyond immediate littoral areas",
+      "mitigation": "Iran building larger Fateh-class submarines with greater range"
+    },
+    {
+      "area": "Primitive sensors and combat systems",
+      "description": "Basic sonar and fire control systems limit target detection and engagement capabilities against modern vessels",
+      "context": "Modern naval forces have sophisticated ASW capabilities that can easily detect and track these boats",
+      "mitigation": "Incremental improvements in newer blocks, but fundamental technology gap remains"
+    },
+    {
+      "area": "Manufacturing quality and reliability",
+      "description": "Iran's industrial limitations and sanctions impact on quality components likely affect operational reliability",
+      "context": "Reports of mechanical failures and limited operational availability suggest maintenance challenges",
+      "mitigation": "Domestic production of spare parts and gradual improvement in manufacturing processes"
+    },
+    {
+      "area": "Crew training and experience",
+      "description": "Limited submarine operational experience in Iranian Navy affects crew proficiency and tactical effectiveness",
+      "context": "Complex submarine operations require extensive training and experience that Iran's isolated navy struggles to develop",
+      "mitigation": "Gradual accumulation of operational experience, but limited by international isolation"
+    }
+  ],
+  "operational_patterns": {
+    "typical_deployment": "Coastal patrol and port defense in Persian Gulf shallow waters",
+    "deployment_length_months": 0.2,
+    "key_operating_areas": [
+      "Persian Gulf",
+      "Strait of Hormuz",
+      "Coastal waters near Iranian naval bases"
+    ],
+    "typical_task_group": "Operates independently or in coordination with fast attack craft and coastal missiles",
+    "readiness_notes": "Limited operational availability due to maintenance challenges and crew training requirements"
+  },
+  "peer_comparisons": [
+    {
+      "platform": "Yono-class submarine",
+      "country": "North Korea",
+      "relationship": "predecessor",
+      "key_differences": "Ghadir is based on Yono technology but with Iranian modifications to sensors and weapons systems. Similar size and limitations but Iran has built more units.",
+      "video_angle": "Technology transfer and how regional powers adapt foreign designs to local needs"
+    },
+    {
+      "platform": "Sang-O-class submarine",
+      "country": "North Korea",
+      "relationship": "allied equivalent",
+      "key_differences": "Sang-O is larger with greater range and crew, but both serve similar coastal defense roles. North Korean design is more mature.",
+      "video_angle": "Comparing asymmetric submarine strategies of isolated nations"
+    },
+    {
+      "platform": "Type 206A submarine",
+      "country": "Germany",
+      "relationship": "professional equivalent",
+      "key_differences": "German boat is far more sophisticated with modern sensors, AIP propulsion, and superior build quality, but similar size class for coastal operations.",
+      "video_angle": "How Western technology compares to indigenous attempts by sanctioned nations"
+    },
+    {
+      "platform": "A26 Blekinge-class",
+      "country": "Sweden",
+      "relationship": "direct rival",
+      "key_differences": "Swedish design represents cutting-edge conventional submarine technology with AIP, advanced sensors, and network-centric warfare capabilities versus Iran's basic coastal defender.",
+      "video_angle": "Modern conventional submarine technology versus asymmetric quantity-based approaches"
+    }
+  ],
+  "search_keywords": [
+    "ghadir class",
+    "ghadir submarine",
+    "iranian submarine",
+    "nahang submarine",
+    "iran navy submarine",
+    "midget submarine",
+    "persian gulf submarine"
+  ],
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/2012_Bandar_Abbas_new_equipment_induction_ceremony_-_Ghadir-class_submarine%2818%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/2012_Bandar_Abbas_new_equipment_induction_ceremony_-_Ghadir-class_submarine%2818%29.jpg",
+      "width": 600,
+      "height": 418,
+      "title": "2012 Bandar Abbas new equipment induction ceremony - Ghadir-class submarine(18).jpg",
+      "description": "This photo is from a ceremony for several new pieces of military equipment joining the Islamic Republic of Iran Navy in Bandar Abbas.",
+      "license": "CC BY 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b1/2012_Bandar_Abbas_new_equipment_induction_ceremony_-_Ghadir-class_submarine_%2810%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/b1/2012_Bandar_Abbas_new_equipment_induction_ceremony_-_Ghadir-class_submarine_%2810%29.jpg",
+      "width": 600,
+      "height": 418,
+      "title": "2012 Bandar Abbas new equipment induction ceremony - Ghadir-class submarine (10).jpg",
+      "description": "This photo is from a ceremony for several new pieces of military equipment joining the Islamic Republic of Iran Navy in Bandar Abbas.",
+      "license": "CC BY 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/86/2012_Bandar_Abbas_new_equipment_induction_ceremony_-_Ghadir-class_submarine_%2814%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/86/2012_Bandar_Abbas_new_equipment_induction_ceremony_-_Ghadir-class_submarine_%2814%29.jpg",
+      "width": 600,
+      "height": 418,
+      "title": "2012 Bandar Abbas new equipment induction ceremony - Ghadir-class submarine (14).jpg",
+      "description": "This photo is from a ceremony for several new pieces of military equipment joining the Islamic Republic of Iran Navy in Bandar Abbas.",
+      "license": "CC BY 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/6c/2012_Bandar_Abbas_new_equipment_induction_ceremony_-_Ghadir-class_submarine_%2815%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/6c/2012_Bandar_Abbas_new_equipment_induction_ceremony_-_Ghadir-class_submarine_%2815%29.jpg",
+      "width": 600,
+      "height": 418,
+      "title": "2012 Bandar Abbas new equipment induction ceremony - Ghadir-class submarine (15).jpg",
+      "description": "This photo is from a ceremony for several new pieces of military equipment joining the Islamic Republic of Iran Navy in Bandar Abbas.",
+      "license": "CC BY 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c2/2012_Bandar_Abbas_new_equipment_induction_ceremony_-_Ghadir-class_submarine_%2819%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/c2/2012_Bandar_Abbas_new_equipment_induction_ceremony_-_Ghadir-class_submarine_%2819%29.jpg",
+      "width": 600,
+      "height": 418,
+      "title": "2012 Bandar Abbas new equipment induction ceremony - Ghadir-class submarine (19).jpg",
+      "description": "This photo is from a ceremony for several new pieces of military equipment joining the Islamic Republic of Iran Navy in Bandar Abbas.",
+      "license": "CC BY 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/07/2012_Bandar_Abbas_new_equipment_induction_ceremony_-_Ghadir-class_submarine_%2821%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/07/2012_Bandar_Abbas_new_equipment_induction_ceremony_-_Ghadir-class_submarine_%2821%29.jpg",
+      "width": 600,
+      "height": 418,
+      "title": "2012 Bandar Abbas new equipment induction ceremony - Ghadir-class submarine (21).jpg",
+      "description": "This photo is from a ceremony for several new pieces of military equipment joining the Islamic Republic of Iran Navy in Bandar Abbas.",
+      "license": "CC BY 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/9f/2012_Bandar_Abbas_new_equipment_induction_ceremony_-_Ghadir-class_submarine_%2822%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/9f/2012_Bandar_Abbas_new_equipment_induction_ceremony_-_Ghadir-class_submarine_%2822%29.jpg",
+      "width": 600,
+      "height": 418,
+      "title": "2012 Bandar Abbas new equipment induction ceremony - Ghadir-class submarine (22).jpg",
+      "description": "This photo is from a ceremony for several new pieces of military equipment joining the Islamic Republic of Iran Navy in Bandar Abbas.",
+      "license": "CC BY 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/82/2012_Bandar_Abbas_new_equipment_induction_ceremony_-_Ghadir-class_submarine_%2825%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/82/2012_Bandar_Abbas_new_equipment_induction_ceremony_-_Ghadir-class_submarine_%2825%29.jpg",
+      "width": 600,
+      "height": 418,
+      "title": "2012 Bandar Abbas new equipment induction ceremony - Ghadir-class submarine (25).jpg",
+      "description": "This photo is from a ceremony for several new pieces of military equipment joining the Islamic Republic of Iran Navy in Bandar Abbas.",
+      "license": "CC BY 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/British_Camouflage%2C_Type_None%2C_Design_C%2C_Port_-_NARA_-_56070469.jpg/1280px-British_Camouflage%2C_Type_None%2C_Design_C%2C_Port_-_NARA_-_56070469.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/1e/British_Camouflage%2C_Type_None%2C_Design_C%2C_Port_-_NARA_-_56070469.jpg",
+      "width": 8320,
+      "height": 2718,
+      "title": "British Camouflage, Type None, Design C, Port - NARA - 56070469.jpg",
+      "description": "",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Destroyer_Squadron_2_%28United_States_Navy%29_insignia%2C_2020.png",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Destroyer_Squadron_2_%28United_States_Navy%29_insignia%2C_2020.png",
+      "width": 242,
+      "height": 273,
+      "title": "Destroyer Squadron 2 (United States Navy) insignia, 2020.png",
+      "description": "Insignia of the U.S. Navy Destroyer Squadron 2 (DESRON 2).<br>\n<b>Official description:</b> \"The command insignia is a round heraldic design with a white background. On the white field is the abbrevia",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Gasshukoku_suishi_teitoku_k%C5%8Dj%C5%8Dgaki_%28Oral_statement_by_the_American_Navy_admiral%29.png/1280px-Gasshukoku_suishi_teitoku_k%C5%8Dj%C5%8Dgaki_%28Oral_statement_by_the_American_Navy_admiral%29.png",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Gasshukoku_suishi_teitoku_k%C5%8Dj%C5%8Dgaki_%28Oral_statement_by_the_American_Navy_admiral%29.png",
+      "width": 3512,
+      "height": 2624,
+      "title": "Gasshukoku suishi teitoku k\u014dj\u014dgaki (Oral statement by the American Navy admiral).png",
+      "description": "This image  is available from the United States <a href=\"//commons.wikimedia.org/wiki/Library_of_Congress\" title=\"Library of Congress\">Library of Congress</a>'s <a rel=\"nofollow\" class=\"external text\"",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/34/U.S._Navy_Presidential_Unit_Citation_streamer.png",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/34/U.S._Navy_Presidential_Unit_Citation_streamer.png",
+      "width": 500,
+      "height": 35,
+      "title": "U.S. Navy Presidential Unit Citation streamer.png",
+      "description": "Presidential Unit Citation (United States) (navy version)",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/US_Navy_050624-N-7783B-020_The_Royal_Thai_Navy_%28RTN%29_frigate_HTMS_Phutthayotfa_Chulalok_%28FF_461%29_leads_a_formation_of_U.S._Navy_and_RTN_ships.jpg/1280px-US_Navy_050624-N-7783B-020_The_Royal_Thai_Navy_%28RTN%29_frigate_HTMS_Phutthayotfa_Chulalok_%28FF_461%29_leads_a_formation_of_U.S._Navy_and_RTN_ships.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/42/US_Navy_050624-N-7783B-020_The_Royal_Thai_Navy_%28RTN%29_frigate_HTMS_Phutthayotfa_Chulalok_%28FF_461%29_leads_a_formation_of_U.S._Navy_and_RTN_ships.jpg",
+      "width": 1500,
+      "height": 2100,
+      "title": "US Navy 050624-N-7783B-020 The Royal Thai Navy (RTN) frigate HTMS Phutthayotfa Chulalok (FF 461) leads a formation of U.S. Navy and RTN ships.jpg",
+      "description": "Gulf of Thailand (June 24, 2005) - The Royal Thai Navy (RTN) frigate HTMS Phutthayotfa Chulalok (FF 461) leads a formation of U.S. Navy and RTN ships that includes, in order, USS Rodney M. Davis (FFG ",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/US_Navy_061213-N-9689V-002_Sailors_known_as_Slim_to_None_perform_for_their_shipmates_during_a_steel_beach_picnic_aboard_the_amphibious_assault_ship_USS_Boxer_%28LHD_4%29.jpg/1280px-thumbnail.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/fb/US_Navy_061213-N-9689V-002_Sailors_known_as_Slim_to_None_perform_for_their_shipmates_during_a_steel_beach_picnic_aboard_the_amphibious_assault_ship_USS_Boxer_%28LHD_4%29.jpg",
+      "width": 3008,
+      "height": 2000,
+      "title": "US Navy 061213-N-9689V-002 Sailors known as Slim to None perform for their shipmates during a steel beach picnic aboard the amphibious assault ship USS Boxer (LHD 4).jpg",
+      "description": "Persian Gulf (Dec. 13, 2006) - Sailors known as Slim to None perform for their shipmates during a steel beach picnic aboard the amphibious assault ship USS Boxer (LHD 4). Boxer is the flagship for Box",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/US_Navy_061213-N-9689V-007_Sailors_assigned_to_the_amphibious_assault_ship_USS_Boxer_%28LHD_4%29_listen_to_Slim_to_None%2C_a_band_made_up_of_other_Sailors_aboard_ship%2C_during_a_steel_beach_picnic.jpg/1280px-thumbnail.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/de/US_Navy_061213-N-9689V-007_Sailors_assigned_to_the_amphibious_assault_ship_USS_Boxer_%28LHD_4%29_listen_to_Slim_to_None%2C_a_band_made_up_of_other_Sailors_aboard_ship%2C_during_a_steel_beach_picnic.jpg",
+      "width": 3008,
+      "height": 2000,
+      "title": "US Navy 061213-N-9689V-007 Sailors assigned to the amphibious assault ship USS Boxer (LHD 4) listen to Slim to None, a band made up of other Sailors aboard ship, during a steel beach picnic.jpg",
+      "description": "Persian Gulf  (Dec. 13, 2006) - Sailors assigned to the amphibious assault ship USS Boxer (LHD 4) listen to Slim to None, a band made up of other Sailors aboard ship, during a steel beach picnic celeb",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/ae/US_Navy_P2V-5_Neptune_at_Blackbushe.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/ae/US_Navy_P2V-5_Neptune_at_Blackbushe.jpg",
+      "width": 886,
+      "height": 488,
+      "title": "US Navy P2V-5 Neptune at Blackbushe.jpg",
+      "description": "A U.S. Navy Lockheed P2V-6 <i>Neptune</i> from Patrol Squadron VP-21 <i>Black Jacks</i> at Blackbushe, Hampshire (UK), in September 1954.",
+      "license": "CC BY 3.0",
+      "source": "wikimedia"
+    }
+  ],
+  "doctrine": {
+    "role": "Asymmetric sea denial and area access deterrence in the shallow waters of the Persian Gulf and Strait of Hormuz. The Ghadir-class exists to compensate for Iran's inability to match Gulf Arab states' surface fleets through swarm tactics and stealth ambushes.",
+    "employment": "Operated in coordinated groups of 2-4 boats from hardened coastal bases, integrating with IRGCN fast attack craft and shore-based anti-ship missiles in layered defense. Primary missions include intelligence gathering, special forces insertion, and ambush attacks on high-value targets transiting the Strait of Hormuz. Command structure typically flows through IRIN submarine command with coordination through integrated coastal defense networks.",
+    "design_philosophy": "Prioritized shallow-water maneuverability, small acoustic signature, and low-cost mass production over range, endurance, and weapon capacity. Iran sacrificed blue-water capability and substantial firepower for a platform that could be built domestically under sanctions and operate effectively in Gulf littorals where larger submarines cannot.",
+    "threat_context": "Designed to counter U.S. Navy carrier strike groups and allied surface combatants in a Strait of Hormuz closure scenario during the 2000s-2010s sanctions period. The threat has evolved toward more sophisticated ASW capabilities and distributed maritime operations, potentially reducing the effectiveness of massed midget submarine tactics.",
+    "comparison_frame": "Compare on shallow-water performance, production rate, and acoustic signature rather than weapon load or range \u2014 Iran accepts severe operational limitations for tactical surprise and mass deployment. Cost-per-unit and domestic production capacity matter more than individual platform capability in Iran's quantity-over-quality approach."
+  },
+  "curated_sources": [
+    {
+      "title": "Iran's Naval Forces and Weapons of Mass Destruction: How Dangerous Can the Persian Gulf Get?",
+      "type": "report",
+      "url": "https://www.csis.org/analysis/irans-naval-forces-and-weapons-mass-destruction",
+      "relevance": "CSIS analysis provides comprehensive assessment of Iranian naval doctrine and the Ghadir-class role within broader asymmetric strategy.",
+      "priority": "essential"
+    },
+    {
+      "title": "The Iranian Navy: A Tale of Two Fleets",
+      "type": "report",
+      "url": "https://www.washingtoninstitute.org/policy-analysis/iranian-navy-tale-two-fleets",
+      "relevance": "Washington Institute report details the doctrinal split between IRIN and IRGCN and how midget submarines fit into coastal defense planning.",
+      "priority": "essential"
+    },
+    {
+      "title": "HI Sutton - Covert Shores",
+      "type": "analyst",
+      "url": "https://www.hisutton.com/",
+      "relevance": "Leading open-source analyst for submarine developments with detailed technical analysis and satellite imagery of Iranian submarine programs.",
+      "priority": "recommended"
+    },
+    {
+      "title": "Iran's Asymmetric Naval Warfare",
+      "type": "book",
+      "url": "",
+      "relevance": "Academic analysis of Iranian naval doctrine evolution and the role of unconventional platforms in Persian Gulf strategy.",
+      "priority": "recommended"
+    },
+    {
+      "title": "World Directory of Modern Military Warships - Ghadir Class",
+      "type": "database",
+      "url": "https://www.seaforces.org/marint/Iran-Navy/Submarine/Ghadir-class.htm",
+      "relevance": "Comprehensive technical specifications and operational history tracking for Iranian Ghadir-class boats.",
+      "priority": "reference"
+    },
+    {
+      "title": "Iran's Military Capabilities and Doctrine",
+      "type": "report",
+      "url": "https://www.iiss.org/publications/strategic-dossiers",
+      "relevance": "IISS strategic dossier provides authoritative analysis of Iranian military doctrine and force structure including naval asymmetric capabilities.",
+      "priority": "essential"
+    },
+    {
+      "title": "Small Submarines of the Iranian Navy",
+      "type": "article",
+      "url": "https://www.usni.org/magazines/proceedings",
+      "relevance": "U.S. Naval Institute analysis examining Iranian midget submarine capabilities and their impact on Gulf naval balance.",
+      "priority": "recommended"
+    }
+  ]
+}

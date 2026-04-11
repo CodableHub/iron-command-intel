@@ -1,0 +1,389 @@
+{
+  "combat_history": [
+    {
+      "date": "1998-12",
+      "operation": "Operation Desert Fox",
+      "event": "USS Wasp (LHD-1) conducted combat operations in the Persian Gulf, launching Harrier sorties against Iraqi targets during the four-day bombing campaign.",
+      "significance": "First major combat deployment demonstrating the class's ability to operate as a light carrier in high-threat environments."
+    },
+    {
+      "date": "2001-10",
+      "operation": "Operation Enduring Freedom",
+      "event": "USS Bataan (LHD-5) served as a forward staging base in the Arabian Sea, launching Special Operations raids into Afghanistan using embarked helicopters and Marines.",
+      "significance": "Proved the platform's value for unconventional warfare and special operations support in landlocked theaters."
+    },
+    {
+      "date": "2003-03",
+      "operation": "Operation Iraqi Freedom",
+      "event": "USS Boxer (LHD-4) and USS Kearsarge (LHD-3) conducted the largest amphibious assault since Inchon, landing 15th MEU in southern Iraq while Harriers provided close air support.",
+      "significance": "Validated the class's core mission of large-scale amphibious warfare in contested environments."
+    },
+    {
+      "date": "2011-03",
+      "operation": "Operation Odyssey Dawn",
+      "event": "USS Kearsarge (LHD-3) conducted combat search and rescue missions over Libya, recovering downed F-15E crew using embarked MV-22 Osprey and Marine rescue teams.",
+      "significance": "Demonstrated flexibility in conducting CSAR operations in contested airspace."
+    },
+    {
+      "date": "2019-05",
+      "operation": "Persian Gulf tensions",
+      "event": "USS Boxer (LHD-4) reportedly destroyed Iranian drone using electronic warfare systems, marking first documented use of directed energy weapons from the class.",
+      "significance": "Showcased evolving defensive capabilities against emerging drone threats."
+    },
+    {
+      "date": "2020-07",
+      "operation": "USS Bonhomme Richard fire",
+      "event": "LHD-6 suffered catastrophic fire during maintenance period in San Diego, burning for four days before being declared total loss due to structural damage.",
+      "significance": "Highlighted vulnerability to internal fires and led to enhanced fire suppression protocols across the class."
+    }
+  ],
+  "modernization": [
+    {
+      "program": "F-35B Integration",
+      "status": "completed",
+      "timeline": "2016-2020",
+      "description": "Flight deck modifications, enhanced aviation fuel systems, and communications upgrades to support F-35B Lightning II operations. Includes heat-resistant deck coatings and modified landing systems.",
+      "impact": "Transforms LHDs into credible light carriers with 5th generation fighter capability, significantly enhancing strike range and survivability."
+    },
+    {
+      "program": "Ship Self-Defense System Modernization",
+      "status": "in-progress",
+      "timeline": "2020-2027",
+      "description": "Upgrade to SSDS Mk 2 Mod 4, integrating improved radar processing, electronic warfare systems, and counter-drone capabilities. Enhanced threat detection and engagement automation.",
+      "impact": "Improved ability to counter modern missile and drone threats, reduced crew workload during combat operations."
+    },
+    {
+      "program": "Enterprise Air Surveillance Radar (EASR)",
+      "status": "planned",
+      "timeline": "2025-2030",
+      "description": "Installation of AN/SPY-6(V)4 Enterprise Air Surveillance Radar to replace legacy AN/SPS-52 systems, providing improved air picture and missile defense coordination.",
+      "impact": "Enhanced air defense coordination capability and improved detection of low-observable threats."
+    },
+    {
+      "program": "Amphibious Combat Vehicle Integration",
+      "status": "in-progress",
+      "timeline": "2022-2026",
+      "description": "Well deck modifications and support systems for new ACV-P1 vehicles replacing legacy AAV-7s, including enhanced communication systems and maintenance facilities.",
+      "impact": "Improved ship-to-shore capability with faster, more survivable amphibious vehicles."
+    }
+  ],
+  "vulnerabilities": [
+    {
+      "area": "Air Defense Saturation",
+      "description": "Limited magazine depth (16 Sea Sparrow + 42 RAM missiles) makes the class vulnerable to coordinated missile saturation attacks, particularly anti-ship ballistic missiles and hypersonic weapons.",
+      "context": "Chinese DF-21D and DF-26 missiles specifically target high-value amphibious vessels; current defensive load insufficient for sustained high-threat operations.",
+      "mitigation": "Emphasis on ARG-level defense coordination and standoff operations; consideration of additional RAM launchers."
+    },
+    {
+      "area": "Signature Management",
+      "description": "Large radar cross-section and infrared signature make detection easy at long range, while steam propulsion creates distinctive acoustic signature for submarine detection.",
+      "context": "Modern surveillance systems and satellite tracking make concealment nearly impossible in contested areas like South China Sea.",
+      "mitigation": "Limited stealth modifications possible; reliance on electronic warfare and deception rather than signature reduction."
+    },
+    {
+      "area": "Fire Suppression",
+      "description": "Bonhomme Richard fire exposed critical weaknesses in shipboard firefighting during maintenance periods and highlighted aviation fuel fire risks during combat operations.",
+      "context": "High aviation fuel loads (5570 tonnes JP-5) create catastrophic fire risk if containment fails; complex internal spaces impede firefighting access.",
+      "mitigation": "Enhanced fire suppression systems, improved damage control training, and modified maintenance protocols implemented fleet-wide."
+    },
+    {
+      "area": "Well Deck Vulnerability",
+      "description": "Ballast operations for well deck flooding create stability concerns and limit maneuverability; open well deck presents vulnerability to underwater attack during landing operations.",
+      "context": "Landing operations require stationary positioning with degraded defensive posture, creating window of vulnerability in contested environments.",
+      "mitigation": "Emphasis on pre-landing area clearance and coordinated defensive positioning with escort vessels."
+    }
+  ],
+  "operational_patterns": {
+    "typical_deployment": "Operates as centerpiece of three-ship Amphibious Ready Group (ARG) with embarked Marine Expeditionary Unit (MEU), conducting 7-month rotational deployments",
+    "deployment_length_months": 7,
+    "key_operating_areas": [
+      "Western Pacific",
+      "Persian Gulf",
+      "Mediterranean Sea",
+      "Horn of Africa",
+      "Caribbean"
+    ],
+    "typical_task_group": "ARG composition: 1x LHD, 1x LPD, 1x LSD plus 1-2 escort destroyers/cruisers",
+    "readiness_notes": "Steam propulsion requires extensive maintenance periods; typically 30% of class in major maintenance at any time. F-35B operations require specialized maintenance capabilities limiting forward deployment flexibility."
+  },
+  "peer_comparisons": [
+    {
+      "platform": "Queen Elizabeth-class aircraft carrier",
+      "country": "United Kingdom",
+      "relationship": "allied equivalent",
+      "key_differences": "QE-class larger (65,000 tons vs 40,500), carries more F-35Bs (24-36 vs 6-20) but lacks amphibious capability and well deck. QE-class is pure aircraft carrier while Wasp is multi-mission platform.",
+      "video_angle": "Light carrier comparison: specialized vs multi-role approach to naval aviation"
+    },
+    {
+      "platform": "Izumo-class helicopter destroyer",
+      "country": "Japan",
+      "relationship": "allied equivalent",
+      "key_differences": "Izumo smaller (27,000 tons), being modified for F-35B but lacks amphibious assault capability. More focused on ASW and air defense than power projection. No well deck or Marine capacity.",
+      "video_angle": "Pacific allies' F-35B platforms: different approaches to distributed maritime operations"
+    },
+    {
+      "platform": "Type 075 Yushen-class LHD",
+      "country": "China",
+      "relationship": "direct rival",
+      "key_differences": "Similar size (40,000 tons) and mission profile but lacks fixed-wing capability currently. More modern design with better survivability features but unproven in combat operations. Represents direct challenge to US amphibious dominance in Pacific.",
+      "video_angle": "Amphibious warfare face-off: battle-tested vs modern design philosophy"
+    },
+    {
+      "platform": "Juan Carlos I-class LHD",
+      "country": "Spain",
+      "relationship": "allied equivalent",
+      "key_differences": "Smaller (27,000 tons) but more modern design with ski-jump for STOVL operations. More fuel-efficient diesel propulsion but less aviation capacity. Represents newer generation amphibious design concepts.",
+      "video_angle": "Generational comparison: Cold War design vs modern efficiency-focused platforms"
+    },
+    {
+      "platform": "Mistral-class amphibious assault ship",
+      "country": "France",
+      "relationship": "allied equivalent",
+      "key_differences": "Smaller (21,000 tons), helicopter-only operations, more focused on humanitarian and peacekeeping missions. Less combat capability but greater operational flexibility in low-threat environments.",
+      "video_angle": "Mission focus comparison: expeditionary warfare vs crisis response platforms"
+    }
+  ],
+  "search_keywords": [
+    "wasp class",
+    "LHD",
+    "LHD-1",
+    "amphibious assault ship",
+    "marine expeditionary unit",
+    "MEU",
+    "F-35B",
+    "harrier",
+    "well deck",
+    "LCAC",
+    "MV-22",
+    "osprey",
+    "bonhomme richard",
+    "america class"
+  ],
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/USS_Wasp_%28LHD-1%29_Osprey.jpg/1280px-USS_Wasp_%28LHD-1%29_Osprey.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/64/USS_Wasp_%28LHD-1%29_Osprey.jpg",
+      "width": 1500,
+      "height": 2100,
+      "title": "USS Wasp (LHD-1) Osprey.jpg",
+      "description": "071004-N-1189B-190 GULF OF AQABA  - U.S. Marine Corps MV-22 Ospreys, assigned to Marine Medium Tiltrotor Squadron (VMM) 263, Marine Aircraft Group 29, prepare for flight on the deck of the multipurpos",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/USS_Wasp_%28LHD-1%29_Osprey_2.jpg/1280px-USS_Wasp_%28LHD-1%29_Osprey_2.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/fa/USS_Wasp_%28LHD-1%29_Osprey_2.jpg",
+      "width": 2100,
+      "height": 1500,
+      "title": "USS Wasp (LHD-1) Osprey 2.jpg",
+      "description": "071004-N-1189B-005 GULF OF AQABA - U.S. Marine Corps MV-22 Ospreys, assigned to Marine Medium Tiltrotor Squadron (VMM) 263, Marine Aircraft Group 29, prepare for flight on the deck of the multipurpose",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/cf/USS_Wasp_%28LHD-1%29_building.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/cf/USS_Wasp_%28LHD-1%29_building.jpg",
+      "width": 1211,
+      "height": 614,
+      "title": "USS Wasp (LHD-1) building.jpg",
+      "description": "<p>DN-ST-88-00319 \n</p><p>A view of the Nos. 1 and 2 Mark 7 16-inch/50-caliber gun turrets aboard the battleship USS WISCONSIN (BB 64). The ship is undergoing overhaul by Ingalls Shipbuilding and is 5",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/USS_Wasp_%28LHD-1%29_flightdeck_2.jpg/1280px-USS_Wasp_%28LHD-1%29_flightdeck_2.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/04/USS_Wasp_%28LHD-1%29_flightdeck_2.jpg",
+      "width": 1500,
+      "height": 2100,
+      "title": "USS Wasp (LHD-1) flightdeck 2.jpg",
+      "description": "980527-N-0000W-001 At sea with USS Wasp (LHD 1)-- The Amphibious Assault Ship USS Wasp during operations in the Mediterranean Sea.",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/USS_Wasp_%28LHD-1%29_parade.jpg/1280px-USS_Wasp_%28LHD-1%29_parade.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/USS_Wasp_%28LHD-1%29_parade.jpg",
+      "width": 2100,
+      "height": 1500,
+      "title": "USS Wasp (LHD-1) parade.jpg",
+      "description": "070608-N-6854D-002 NORFOLK, Va.  \u2013 Small sailboats and ships pass by amphibious assault ship USS Wasp (LHD 1) on the Elizabeth River while in transit to the Norfolk Harbor Fest.",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/60/USS_Wasp_%28LHD_1%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/60/USS_Wasp_%28LHD_1%29.jpg",
+      "width": 397,
+      "height": 317,
+      "title": "USS Wasp (LHD 1).jpg",
+      "description": "USS <i>Wasp</i> (LHD-1) underway.",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/US_Navy_091107-N-0890S-453_USS_Wasp_%28LHD_1%29_transits_the_Caribbean_Sea.jpg/1280px-US_Navy_091107-N-0890S-453_USS_Wasp_%28LHD_1%29_transits_the_Caribbean_Sea.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/US_Navy_091107-N-0890S-453_USS_Wasp_%28LHD_1%29_transits_the_Caribbean_Sea.jpg",
+      "width": 4288,
+      "height": 2848,
+      "title": "US Navy 091107-N-0890S-453 USS Wasp (LHD 1) transits the Caribbean Sea.jpg",
+      "description": "CARIBBEAN SEA (Nov. 7, 2009) The multipurpose amphibious assault ship USS Wasp (LHD 1) transits the Caribbean Sea. Wasp is deployed supporting Southern Partnership Station-Amphib with Destroyer Squadr",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Workman_beneath_stern_of_USS_Wasp_%28LHD-1%29.png",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Workman_beneath_stern_of_USS_Wasp_%28LHD-1%29.png",
+      "width": 1011,
+      "height": 662,
+      "title": "Workman beneath stern of USS Wasp (LHD-1).png",
+      "description": "A workman beneath the stern of the newly completed amphibious assault ship USS Wasp (LHD-1).",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/US_Navy_040426-N-3211R-003_An_Amphibious_Assault_Vehicle_disembarks_the_Wasp_class_amphibious_assault_ship_USS_Bonhomme_Richard_%28LHD_6%29.jpg/1280px-US_Navy_040426-N-3211R-003_An_Amphibious_Assault_Vehicle_disembarks_the_Wasp_class_amphibious_assault_ship_USS_Bonhomme_Richard_%28LHD_6%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/61/US_Navy_040426-N-3211R-003_An_Amphibious_Assault_Vehicle_disembarks_the_Wasp_class_amphibious_assault_ship_USS_Bonhomme_Richard_%28LHD_6%29.jpg",
+      "width": 2100,
+      "height": 1375,
+      "title": "US Navy 040426-N-3211R-003 An Amphibious Assault Vehicle disembarks the Wasp class amphibious assault ship USS Bonhomme Richard (LHD 6).jpg",
+      "description": "Pacific Ocean (Apr. 26, 2004) - An Amphibious Assault Vehicle assigned to the 3rd Amphibious Assault Battalion, Camp Pendleton, Calif., disembarks the Wasp class amphibious assault ship USS Bonhomme R",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/US_Navy_040426-N-3970R-033_An_Amphibious_Assault_Vehicle_departs_the_well_deck_aboard_the_Wasp-class_amphibious_assault_ship_USS_Bonhomme_Richard_%28LHD_6%29.jpg/1280px-US_Navy_040426-N-3970R-033_An_Amphibious_Assault_Vehicle_departs_the_well_deck_aboard_the_Wasp-class_amphibious_assault_ship_USS_Bonhomme_Richard_%28LHD_6%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/6d/US_Navy_040426-N-3970R-033_An_Amphibious_Assault_Vehicle_departs_the_well_deck_aboard_the_Wasp-class_amphibious_assault_ship_USS_Bonhomme_Richard_%28LHD_6%29.jpg",
+      "width": 3072,
+      "height": 2048,
+      "title": "US Navy 040426-N-3970R-033 An Amphibious Assault Vehicle departs the well deck aboard the Wasp-class amphibious assault ship USS Bonhomme Richard (LHD 6).jpg",
+      "description": "Pacific Ocean (Apr. 26, 2004) - An Amphibious Assault Vehicle assigned to the 3rd Amphibious Assault Battalion, Camp Pendleton, Calif., departs the well deck aboard the Wasp-class amphibious assault s",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/US_Navy_040426-N-3970R-075_An_Amphibious_Assault_Vehicle_maneuvers_inside_the_well_deck_aboard_the_Wasp_class_amphibious_assault_ship_USS_Bonhomme_Richard_%28LHD_6%29.jpg/1280px-thumbnail.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/d4/US_Navy_040426-N-3970R-075_An_Amphibious_Assault_Vehicle_maneuvers_inside_the_well_deck_aboard_the_Wasp_class_amphibious_assault_ship_USS_Bonhomme_Richard_%28LHD_6%29.jpg",
+      "width": 3072,
+      "height": 2048,
+      "title": "US Navy 040426-N-3970R-075 An Amphibious Assault Vehicle maneuvers inside the well deck aboard the Wasp class amphibious assault ship USS Bonhomme Richard (LHD 6).jpg",
+      "description": "A Pacific Ocean (Apr. 26, 2004) - An Amphibious Assault Vehicle assigned to the 3rd Amphibious Assault Battalion, Camp Pendleton, Calif., maneuvers inside the well deck aboard the Wasp class amphibiou",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/US_Navy_040918-N-1290G-034_Family_and_friends_welcome_home_the_Wasp-class_amphibious_assault_ship_USS_Wasp_%28LHD_1%29.jpg/1280px-US_Navy_040918-N-1290G-034_Family_and_friends_welcome_home_the_Wasp-class_amphibious_assault_ship_USS_Wasp_%28LHD_1%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/2c/US_Navy_040918-N-1290G-034_Family_and_friends_welcome_home_the_Wasp-class_amphibious_assault_ship_USS_Wasp_%28LHD_1%29.jpg",
+      "width": 2520,
+      "height": 1800,
+      "title": "US Navy 040918-N-1290G-034 Family and friends welcome home the Wasp-class amphibious assault ship USS Wasp (LHD 1).jpg",
+      "description": "Norfolk, Va. (Sept. 18, 2004) \u2013 Family and friends welcome home the Wasp-class amphibious assault ship USS Wasp (LHD 1) as it pulls into Naval Station Norfolk following a seven-month deployment in sup",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/US_Navy_100913-N-0780F-005_The_Wasp-class_amphibious_assault_ship_USS_Kearsarge_%28LHD_3%29_and_embarked_26th_Marine_Expeditionary_Unit_%2826th_MEU%29.jpg/1280px-US_Navy_100913-N-0780F-005_The_Wasp-class_amphibious_assault_ship_USS_Kearsarge_%28LHD_3%29_and_embarked_26th_Marine_Expeditionary_Unit_%2826th_MEU%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/25/US_Navy_100913-N-0780F-005_The_Wasp-class_amphibious_assault_ship_USS_Kearsarge_%28LHD_3%29_and_embarked_26th_Marine_Expeditionary_Unit_%2826th_MEU%29.jpg",
+      "width": 2826,
+      "height": 4068,
+      "title": "US Navy 100913-N-0780F-005 The Wasp-class amphibious assault ship USS Kearsarge (LHD 3) and embarked 26th Marine Expeditionary Unit (26th MEU).jpg",
+      "description": "SOUDA BAY, Greece (Sept. 13, 2010) The Wasp-class amphibious assault ship USS Kearsarge (LHD 3) and embarked 26th Marine Expeditionary Unit (26th MEU) arrive in Souda Bay, Greece, for a brief port vis",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Wasp-class_Amphibious_Assault_Ship_USS_Bonhomme_Richard_%28LHD-6%29.jpg/1280px-Wasp-class_Amphibious_Assault_Ship_USS_Bonhomme_Richard_%28LHD-6%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/21/Wasp-class_Amphibious_Assault_Ship_USS_Bonhomme_Richard_%28LHD-6%29.jpg",
+      "width": 2100,
+      "height": 1500,
+      "title": "Wasp-class Amphibious Assault Ship USS Bonhomme Richard (LHD-6).jpg",
+      "description": "The Wasp-class Amphibious Assault Ship USS Bonhomme Richard (LHD-6) sails in formation with ships and submarines from the U.S. Navy as well as the Navies of the seven other nations. To commemorate the",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Wasp_class.png/1280px-Wasp_class.png",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Wasp_class.png",
+      "width": 4626,
+      "height": 1131,
+      "title": "Wasp class.png",
+      "description": "LHD Wasp class",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/59/Wasp_class_amphibious_assault_ship_line_drawing_1995.png",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/59/Wasp_class_amphibious_assault_ship_line_drawing_1995.png",
+      "width": 952,
+      "height": 216,
+      "title": "Wasp class amphibious assault ship line drawing 1995.png",
+      "description": "Line drawing of a U.S. Navy <i>Wasp</i>-class amphibious assault ship.",
+      "license": "Public domain",
+      "source": "wikimedia"
+    }
+  ],
+  "doctrine": {
+    "role": "Enabling forward presence and crisis response by providing mobile sea bases for Marine Expeditionary Units, extending American military reach without dependence on overseas bases or host nation permission.",
+    "employment": "Typically operates as the centerpiece of an Amphibious Ready Group (ARG) with two accompanying amphibious ships (LPD and LSD), embarking a 2,200-Marine MEU with integrated aviation, ground, and logistics elements. Conducts operations ranging from humanitarian assistance to forcible entry, often positioning within 50-100 nautical miles of target coastlines. ARGs frequently integrate with Carrier Strike Groups for major operations while maintaining independent crisis response capability across multiple geographic combatant commands simultaneously.",
+    "design_philosophy": "Prioritized aircraft capacity and well deck capability over armor and defensive systems, accepting vulnerability to focus on power projection rather than survivability in contested environments. Designers emphasized versatility and rapid response over specialization, creating a platform capable of multiple mission sets but optimized for none, trading focused effectiveness for operational flexibility.",
+    "threat_context": "Originally designed during the Cold War for operations against Soviet naval aviation and submarines, assuming U.S. sea control and limited shore-based threats. Modern threat environment includes anti-ship ballistic missiles, diesel submarines, and integrated coastal defense systems that can engage these large, relatively undefended platforms at ranges exceeding 1,000 kilometers.",
+    "comparison_frame": "Compare on aircraft capacity, well deck volume, and medical facilities rather than sensors or weapons\u2014amphibious assault ships are measured by their ability to deliver and sustain Marines ashore, not engage in naval combat. Speed and range matter less than embarked capacity and versatility, as all modern amphibious platforms accept similar mobility limitations."
+  },
+  "curated_sources": [
+    {
+      "title": "U.S. Amphibious Ships: LHA/LHD/LPD/LSD Shipbuilding Programs",
+      "type": "report",
+      "url": "https://crsreports.congress.gov/product/pdf/RS/RS20643",
+      "relevance": "Provides comprehensive analysis of Wasp-class requirements, costs, and capabilities within broader amphibious fleet context.",
+      "priority": "essential"
+    },
+    {
+      "title": "U.S. Navy Amphibious Warfare Ships by Norman Friedman",
+      "type": "book",
+      "url": "",
+      "relevance": "Definitive technical and operational history of U.S. amphibious ship development including detailed Wasp-class design evolution.",
+      "priority": "essential"
+    },
+    {
+      "title": "Tentative Manual for Expeditionary Advanced Base Operations (EABO)",
+      "type": "report",
+      "url": "https://www.marines.mil/Portals/1/Publications/MCTP%2012-10F.pdf",
+      "relevance": "Current Marine Corps doctrine defining how Wasp-class ships will operate in distributed maritime operations against peer competitors.",
+      "priority": "essential"
+    },
+    {
+      "title": "Littoral Operations in a Contested Environment: Transforming Amphibious Warfare",
+      "type": "report",
+      "url": "https://www.csbaonline.org/research/publications/littoral-operations-in-a-contested-environment",
+      "relevance": "Examines how anti-access threats challenge traditional amphibious operations and Wasp-class employment concepts.",
+      "priority": "recommended"
+    },
+    {
+      "title": "Naval Warfare Studies Institute (Milan Vego)",
+      "type": "analyst",
+      "url": "https://usnwc.edu/Faculty-and-Departments/Directory/Milan-Vego",
+      "relevance": "Leading amphibious warfare theorist whose writings extensively cover operational employment of large amphibious platforms.",
+      "priority": "recommended"
+    },
+    {
+      "title": "Wasp Class (LHD) - Seaforces",
+      "type": "database",
+      "url": "https://www.seaforces.org/usnships/lhd/LHD-1_Wasp.htm",
+      "relevance": "Comprehensive technical specifications and configuration details for all Wasp-class variants.",
+      "priority": "reference"
+    },
+    {
+      "title": "Warship International Fleet Review (Amphibious Warfare Special Issues)",
+      "type": "article",
+      "url": "",
+      "relevance": "Regular technical analyses and operational assessments of amphibious platforms including Wasp-class modernization programs.",
+      "priority": "reference"
+    },
+    {
+      "title": "Proceedings Magazine - U.S. Naval Institute",
+      "type": "article",
+      "url": "https://www.usni.org/magazines/proceedings",
+      "relevance": "Primary venue for current operational assessments and future concepts for amphibious warfare by serving officers.",
+      "priority": "reference"
+    }
+  ]
+}

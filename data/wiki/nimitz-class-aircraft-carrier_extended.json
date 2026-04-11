@@ -1,0 +1,380 @@
+{
+  "combat_history": [
+    {
+      "date": "1987-1988",
+      "operation": "Operation Earnest Will",
+      "event": "USS Theodore Roosevelt conducted escort operations during Tanker War phase of Iran-Iraq War, providing air cover for reflagged Kuwaiti tankers in Persian Gulf",
+      "significance": "First major Nimitz-class combat deployment demonstrating sustained operations in contested waters"
+    },
+    {
+      "date": "1991-02",
+      "operation": "Operation Desert Storm",
+      "event": "USS Theodore Roosevelt and USS America launched over 4,800 sorties, USS Saratoga fired Tomahawk missiles. Carriers provided majority of coalition air power",
+      "significance": "Proved decisive value of carrier aviation in major combat operations far from land bases"
+    },
+    {
+      "date": "2001-2021",
+      "operation": "Operation Enduring Freedom",
+      "event": "Multiple Nimitz-class carriers rotated through Arabian Sea, launching thousands of sorties over Afghanistan. USS Carl Vinson conducted Osama bin Laden burial at sea",
+      "significance": "Demonstrated sustained power projection capability over two decades of continuous operations"
+    },
+    {
+      "date": "2014-2019",
+      "operation": "Operation Inherent Resolve",
+      "event": "USS George H.W. Bush, USS Carl Vinson, USS Theodore Roosevelt conducted air strikes against ISIS targets in Iraq and Syria, launching over 10,000 sorties",
+      "significance": "Showcased precision strike capabilities and ability to sustain high-tempo operations"
+    },
+    {
+      "date": "2019-2020",
+      "operation": "COVID-19 Impact",
+      "event": "USS Theodore Roosevelt experienced major COVID-19 outbreak in Guam, sidelining carrier for months. Captain Brett Crozier relieved for public letter seeking help for crew",
+      "significance": "Highlighted vulnerability of large crews to biological threats and readiness implications"
+    },
+    {
+      "date": "2021-2024",
+      "operation": "Operation Prosperity Guardian",
+      "event": "USS Dwight D. Eisenhower conducted extended deployment countering Houthi attacks on Red Sea shipping, launching strikes against missile sites in Yemen",
+      "significance": "Demonstrated continued relevance against asymmetric threats and regional power projection"
+    }
+  ],
+  "modernization": [
+    {
+      "program": "Refueling and Complex Overhaul (RCOH)",
+      "status": "in-progress",
+      "timeline": "Ongoing 4.5-year cycles",
+      "description": "Mid-life nuclear refueling combined with major systems upgrades, flight deck improvements, defensive systems modernization",
+      "impact": "Extends service life by 25 years, modernizes combat systems to current standards"
+    },
+    {
+      "program": "Ship Self Defense System (SSDS) Mk 2",
+      "status": "completed",
+      "timeline": "2010-2020",
+      "description": "Integrated combat system linking sensors and weapons for automated defense against anti-ship missiles",
+      "impact": "Significantly improved defensive capabilities against modern missile threats"
+    },
+    {
+      "program": "Enterprise Air Surveillance Radar (EASR)",
+      "status": "planned",
+      "timeline": "2025-2035",
+      "description": "Digital radar system replacement for aging AN/SPS-48 and AN/SPS-49 radars during RCOH periods",
+      "impact": "Enhanced detection range and tracking capability against low-observable threats"
+    },
+    {
+      "program": "Electromagnetic Aircraft Launch System (EMALS) Retrofit",
+      "status": "cancelled",
+      "timeline": "N/A",
+      "description": "Potential retrofit of steam catapults with electromagnetic launch systems used on Ford-class",
+      "impact": "Would have improved launch efficiency and reduced maintenance, deemed too expensive"
+    }
+  ],
+  "vulnerabilities": [
+    {
+      "area": "Anti-Ship Ballistic Missiles",
+      "description": "Large radar signature and predictable operating areas make carriers vulnerable to DF-21D and DF-26 'carrier killer' missiles with ranges exceeding 1,500km",
+      "context": "China's A2/AD strategy specifically targets carrier operations in Western Pacific, potentially pushing carriers beyond effective aircraft range",
+      "mitigation": "Distributed operations, improved missile defense, long-range strike weapons, and coordination with allies"
+    },
+    {
+      "area": "Submarine Threats",
+      "description": "Limited organic ASW capability beyond embarked helicopters. Reliant on escort ships and submarines for underwater protection in contested waters",
+      "context": "Modern diesel-electric and AIP submarines can remain undetected in carrier operating areas, as demonstrated in exercises",
+      "mitigation": "Enhanced ASW screening, improved sonobuoy networks, MQ-25 tanker allowing extended CAP ranges"
+    },
+    {
+      "area": "Aging Infrastructure",
+      "description": "Oldest ships approaching 50 years service life with increasing maintenance requirements, reduced availability rates, and higher operating costs",
+      "context": "Only 10 carriers for global commitments means high operational tempo with limited maintenance windows",
+      "mitigation": "RCOH programs extend life, but fundamental hull and systems limitations remain"
+    },
+    {
+      "area": "Crew Fatigue and Manning",
+      "description": "Extended deployments (9+ months) and high operational tempo lead to crew fatigue, maintenance backlogs, and recruitment challenges",
+      "context": "Competition with civilian sector for technical personnel, especially nuclear-trained sailors",
+      "mitigation": "Deployment length limits, improved quality of life programs, retention bonuses"
+    },
+    {
+      "area": "Electronic Warfare Vulnerability",
+      "description": "Heavy reliance on GPS, satellite communications, and data links vulnerable to jamming and cyber attacks",
+      "context": "Peer adversaries have developed sophisticated EW capabilities specifically targeting carrier operations",
+      "mitigation": "Hardened communications, alternative navigation systems, improved EMCON procedures"
+    }
+  ],
+  "operational_patterns": {
+    "typical_deployment": "Carrier Strike Group centerpiece with 1-2 cruisers, 2-3 destroyers, 1-2 attack submarines, and logistics ship",
+    "deployment_length_months": 9,
+    "key_operating_areas": [
+      "Western Pacific",
+      "Arabian Sea",
+      "Mediterranean",
+      "Atlantic"
+    ],
+    "typical_task_group": "Carrier Strike Group (CSG) with guided missile cruiser, destroyers, attack submarine, supply ship",
+    "readiness_notes": "Maintenance backlogs affecting availability rates, typically 2-3 carriers deployed at any time with others in maintenance or training cycles"
+  },
+  "peer_comparisons": [
+    {
+      "platform": "Liaoning/Shandong-class",
+      "country": "China",
+      "relationship": "direct rival",
+      "key_differences": "Chinese carriers are significantly smaller (60,000 tons vs 100,000+), use ski-jump launch vs catapults, and operate smaller air wings of J-15 fighters. Limited to regional operations vs global reach.",
+      "video_angle": "David vs Goliath: How China's carriers stack up against American supercarriers in the Pacific"
+    },
+    {
+      "platform": "Queen Elizabeth-class",
+      "country": "United Kingdom",
+      "relationship": "allied equivalent",
+      "key_differences": "Modern design but half the displacement, STOVL F-35B only vs varied air wing, no catapults limits aircraft types. Conventional propulsion vs nuclear limits range and deployment duration.",
+      "video_angle": "Old vs New: Why Britain chose a different path for its new carriers"
+    },
+    {
+      "platform": "Charles de Gaulle",
+      "country": "France",
+      "relationship": "allied equivalent",
+      "key_differences": "Nuclear-powered like Nimitz but much smaller (42,000 tons), single carrier limits availability, operates Rafale M fighters. More modern systems but far less capacity.",
+      "video_angle": "Nuclear carrier club: How France's sole carrier compares to American supercarriers"
+    },
+    {
+      "platform": "Admiral Kuznetsov",
+      "country": "Russia",
+      "relationship": "Cold War rival",
+      "key_differences": "Similar size to Chinese carriers but plagued by reliability issues, limited air wing, conventional propulsion. More heavily armed with missiles but poor availability record.",
+      "video_angle": "Paper tiger: Why Russia's only aircraft carrier can't compete with NATO"
+    },
+    {
+      "platform": "Ford-class",
+      "country": "United States",
+      "relationship": "successor",
+      "key_differences": "Next-generation American carrier with electromagnetic catapults, improved radar, smaller crew requirements. More expensive and experiencing technical issues but represents future of US carrier aviation.",
+      "video_angle": "Old reliable vs new problems: Nimitz vs Ford class growing pains"
+    }
+  ],
+  "search_keywords": [
+    "nimitz class",
+    "CVN-68",
+    "nuclear aircraft carrier",
+    "supercarrier",
+    "carrier strike group",
+    "CSG",
+    "Newport News",
+    "RCOH",
+    "naval aviation",
+    "power projection"
+  ],
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/A_U.S._Navy_Hull_Maintenance_Technician_3rd_Class_Robert_Frey_fabricates_a_steel_countertop_aboard_the_aircraft_carrier_USS_Nimitz_%28CVN_68%29_Aug._20%2C_2013%2C_while_underway_in_the_Gulf_of_Oman_130820-N-JC752-778.jpg/1280px-thumbnail.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/64/A_U.S._Navy_Hull_Maintenance_Technician_3rd_Class_Robert_Frey_fabricates_a_steel_countertop_aboard_the_aircraft_carrier_USS_Nimitz_%28CVN_68%29_Aug._20%2C_2013%2C_while_underway_in_the_Gulf_of_Oman_130820-N-JC752-778.jpg",
+      "width": 2216,
+      "height": 4065,
+      "title": "A U.S. Navy Hull Maintenance Technician 3rd Class Robert Frey fabricates a steel countertop aboard the aircraft carrier USS Nimitz (CVN 68) Aug. 20, 2013, while underway in the Gulf of Oman 130820-N-JC752-778.jpg",
+      "description": "A U.S. Navy Hull Maintenance Technician 3rd Class Robert Frey fabricates a steel countertop aboard the aircraft carrier USS Nimitz (CVN 68) Aug. 20, 2013, while underway in the Gulf of Oman.",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Aircraft_carrier_comparison_enh.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Aircraft_carrier_comparison_enh.jpg",
+      "width": 522,
+      "height": 770,
+      "title": "Aircraft carrier comparison enh.jpg",
+      "description": "A deck area comparison of the aircraft carriers USS Nimitz, HMS Queen Elizabeth, Admiral Kuznetsov/Liaoning, Charles de Gaulle (R91) and HMS Invincible",
+      "license": "CC0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Aircraft_carrier_comparison_mod.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Aircraft_carrier_comparison_mod.jpg",
+      "width": 1020,
+      "height": 770,
+      "title": "Aircraft carrier comparison mod.jpg",
+      "description": "A deck area comparison of the aircraft carriers of two post-war generations",
+      "license": "CC0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Artist%27s_impression_of_Nimitz-class_aircraft_carrier_in_1968.jpg/1280px-Artist%27s_impression_of_Nimitz-class_aircraft_carrier_in_1968.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Artist%27s_impression_of_Nimitz-class_aircraft_carrier_in_1968.jpg",
+      "width": 1440,
+      "height": 643,
+      "title": "Artist's impression of Nimitz-class aircraft carrier in 1968.jpg",
+      "description": "An artist's imprssion of the U.S. Navy's nuclear-powered aircraft carrier USS <i>Nimitz</i> (CVAN-68) in 1968. The ship was authorized under the Fiscal Year 1967 shipbuilding and conversion program, l",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/USS_Nimitz_in_Victoria_Canada_036.jpg/1280px-USS_Nimitz_in_Victoria_Canada_036.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/81/USS_Nimitz_in_Victoria_Canada_036.jpg",
+      "width": 3032,
+      "height": 2008,
+      "title": "USS Nimitz in Victoria Canada 036.jpg",
+      "description": "<a href=\"https://en.wikipedia.org/wiki/en:USS_Nimitz_(CVN-68)\" class=\"extiw\" title=\"w:en:USS Nimitz (CVN-68)\">USS <i>Nimitz</i> (CVN-68)</a>, a US Navy aircraft carrier. Photo is from after her 1999-2",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/US_Navy_051216-N-4776G-072_Four_Sailors_carry_a_fire_hose_across_the_flight_deck_aboard_the_Nimitz-class_aircraft_carrier_USS_Ronald_Reagan_%28CVN_76%29.jpg/1280px-US_Navy_051216-N-4776G-072_Four_Sailors_carry_a_fire_hose_across_the_flight_deck_aboard_the_Nimitz-class_aircraft_carrier_USS_Ronald_Reagan_%28CVN_76%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/6d/US_Navy_051216-N-4776G-072_Four_Sailors_carry_a_fire_hose_across_the_flight_deck_aboard_the_Nimitz-class_aircraft_carrier_USS_Ronald_Reagan_%28CVN_76%29.jpg",
+      "width": 1801,
+      "height": 1181,
+      "title": "US Navy 051216-N-4776G-072 Four Sailors carry a fire hose across the flight deck aboard the Nimitz-class aircraft carrier USS Ronald Reagan (CVN 76).jpg",
+      "description": "Pacific Ocean (Dec. 16, 2005) - Four Sailors carry a fire hose across the flight deck aboard the Nimitz-class aircraft carrier USS Ronald Reagan (CVN 76). Reagan just completed a nine-day Joint Task F",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/US_Navy_071105-N-7597A-091_Sailors_aboard_Nimitz-class_aircraft_carrier_USS_Harry_S._Truman_%28CVN_75%29_man_the_rails_as_the_ship_transits_the_Chesapeake_Bay.jpg/1280px-US_Navy_071105-N-7597A-091_Sailors_aboard_Nimitz-class_aircraft_carrier_USS_Harry_S._Truman_%28CVN_75%29_man_the_rails_as_the_ship_transits_the_Chesapeake_Bay.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/0b/US_Navy_071105-N-7597A-091_Sailors_aboard_Nimitz-class_aircraft_carrier_USS_Harry_S._Truman_%28CVN_75%29_man_the_rails_as_the_ship_transits_the_Chesapeake_Bay.jpg",
+      "width": 3872,
+      "height": 2592,
+      "title": "US Navy 071105-N-7597A-091 Sailors aboard Nimitz-class aircraft carrier USS Harry S. Truman (CVN 75) man the rails as the ship transits the Chesapeake Bay.jpg",
+      "description": "NORFOLK, Va. (Nov. 5, 2007) \u2013 Sailors aboard Nimitz-class aircraft carrier USS Harry S. Truman (CVN 75) man the rails as the ship transits the Chesapeake Bay. Truman is part of Carrier Strike Group 10",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/US_Navy_100908-D-4748B-024_Tugboats_guide_the_Nimitz-class_aircraft_carrier_USS_Dwight_D._Eisenhower_%28CVN_69%29_on_the_Elizabeth_River.jpg/1280px-US_Navy_100908-D-4748B-024_Tugboats_guide_the_Nimitz-class_aircraft_carrier_USS_Dwight_D._Eisenhower_%28CVN_69%29_on_the_Elizabeth_River.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/68/US_Navy_100908-D-4748B-024_Tugboats_guide_the_Nimitz-class_aircraft_carrier_USS_Dwight_D._Eisenhower_%28CVN_69%29_on_the_Elizabeth_River.jpg",
+      "width": 3000,
+      "height": 2400,
+      "title": "US Navy 100908-D-4748B-024 Tugboats guide the Nimitz-class aircraft carrier USS Dwight D. Eisenhower (CVN 69) on the Elizabeth River.jpg",
+      "description": "PORTSMOUTH, Va. (Sept. 8, 2010) Tugboats guide the Nimitz-class aircraft carrier USS Dwight D. Eisenhower (CVN 69) on the Elizabeth River to its new berth at Norfolk Naval Shipyard. Dwight D. Eisenhow",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/USS_NIMITZ_%28CVN_68%29_130828-N-LP801-342_%289622292230%29.jpg/1280px-USS_NIMITZ_%28CVN_68%29_130828-N-LP801-342_%289622292230%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/52/USS_NIMITZ_%28CVN_68%29_130828-N-LP801-342_%289622292230%29.jpg",
+      "width": 3174,
+      "height": 2112,
+      "title": "USS NIMITZ (CVN 68) 130828-N-LP801-342 (9622292230).jpg",
+      "description": "GULF OF OMAN (Aug. 28, 2013) \u2013An F/A-18C Hornet assigned to the \u201cDeath Rattlers\u201d of Marine Fighter Attack Squadron (VMFA) 323 lands on the flight deck of the aircraft carrier USS Nimitz (CVN 68). Nimi",
+      "license": "CC BY 2.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/USS_NIMITZ_%28CVN_68%29_130829-N-RX668-1011_%289641163385%29.jpg/1280px-USS_NIMITZ_%28CVN_68%29_130829-N-RX668-1011_%289641163385%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/64/USS_NIMITZ_%28CVN_68%29_130829-N-RX668-1011_%289641163385%29.jpg",
+      "width": 3637,
+      "height": 2156,
+      "title": "USS NIMITZ (CVN 68) 130829-N-RX668-1011 (9641163385).jpg",
+      "description": "ARABIAN SEA (Aug. 29, 2013) The aircraft carrier USS Nimitz (CVN 68) sails in the Arabian Sea. Nimitz Strike Group is deployed to the U.S. 5th Fleet area of responsibility conducting maritime security",
+      "license": "CC BY 2.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/USS_NIMITZ_%28CVN_68%29_130904-N-JS205-055_%289679300984%29.jpg/1280px-USS_NIMITZ_%28CVN_68%29_130904-N-JS205-055_%289679300984%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/ce/USS_NIMITZ_%28CVN_68%29_130904-N-JS205-055_%289679300984%29.jpg",
+      "width": 4256,
+      "height": 2832,
+      "title": "USS NIMITZ (CVN 68) 130904-N-JS205-055 (9679300984).jpg",
+      "description": "RED SEA (Sept. 4, 2013) The aircraft carrier USS Nimitz (CVN 68) transits the Red Sea. Nimitz Strike Group is currently deployed to the 5th Fleet area of responsibility conducting maritime security op",
+      "license": "CC BY 2.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/USS_NIMITZ_%28CVN_68%29_131005-N-LN619-598_%2810264823833%29.jpg/1280px-USS_NIMITZ_%28CVN_68%29_131005-N-LN619-598_%2810264823833%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/b9/USS_NIMITZ_%28CVN_68%29_131005-N-LN619-598_%2810264823833%29.jpg",
+      "width": 3265,
+      "height": 2332,
+      "title": "USS NIMITZ (CVN 68) 131005-N-LN619-598 (10264823833).jpg",
+      "description": "U.S. 5TH FLEET AREA OF RESPONSIBILITY (Oct. 5, 2013)  An F/A-18E Super Hornet prepares to land on the flight deck aboard the aircraft carrier USS Nimitz (CVN 68) after participating in an air power de",
+      "license": "CC BY 2.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/USS_NIMITZ_%28CVN_68%29_131020-N-QL471-296_%2810418101484%29.jpg/1280px-USS_NIMITZ_%28CVN_68%29_131020-N-QL471-296_%2810418101484%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/59/USS_NIMITZ_%28CVN_68%29_131020-N-QL471-296_%2810418101484%29.jpg",
+      "width": 4928,
+      "height": 3280,
+      "title": "USS NIMITZ (CVN 68) 131020-N-QL471-296 (10418101484).jpg",
+      "description": "SUEZ CANAL (Oct. 20, 2013) The aircraft carrier USS Nimitz (CVN 68) passes under the Friendship Bridge as the ship transits the Suez Canal. Nimitz is deployed in support of maritime security operation",
+      "license": "CC BY 2.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/USS_Nimitz_%28CVN_68%29_6472914.jpg/1280px-USS_Nimitz_%28CVN_68%29_6472914.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/USS_Nimitz_%28CVN_68%29_6472914.jpg",
+      "width": 5005,
+      "height": 3337,
+      "title": "USS Nimitz (CVN 68) 6472914.jpg",
+      "description": "201229-N-OW019-0003 INDIAN OCEAN (Dec. 29, 2020) The aircraft carrier USS Nimitz (CVN 68) steams in the Indian Ocean. Nimitz is the flagship of Nimitz Carrier Strike Group and is deployed to the U.S. ",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/US_Navy_031103-N-6536T-004_USS_Nimitz_%28CVN_68%29_crewmembers_participate_in_a_flag_unfurling_rehearsal_with_the_help_of_family_and_friends.jpg/1280px-US_Navy_031103-N-6536T-004_USS_Nimitz_%28CVN_68%29_crewmembers_participate_in_a_flag_unfurling_rehearsal_with_the_help_of_family_and_friends.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/92/US_Navy_031103-N-6536T-004_USS_Nimitz_%28CVN_68%29_crewmembers_participate_in_a_flag_unfurling_rehearsal_with_the_help_of_family_and_friends.jpg",
+      "width": 3008,
+      "height": 1960,
+      "title": "US Navy 031103-N-6536T-004 USS Nimitz (CVN 68) crewmembers participate in a flag unfurling rehearsal with the help of family and friends.jpg",
+      "description": "Pacific Ocean (Nov. 3, 2003) -- USS Nimitz (CVN 68) crewmembers participate in a flag unfurling rehearsal with the help of family and friends on the ship\u2019s flight deck during a Tiger Cruise.  The Nimi",
+      "license": "Public domain",
+      "source": "wikimedia"
+    }
+  ],
+  "doctrine": {
+    "role": "Global power projection through sustained air operations, serving as the centerpiece of carrier strike groups that establish sea control and project American military presence into contested regions beyond the reach of land-based aviation.",
+    "employment": "Operates as the flagship of a Carrier Strike Group (CSG) typically including 1-2 Arleigh Burke destroyers, 1-2 Ticonderoga cruisers, and 1-2 attack submarines, with the carrier battle group commander (CVBG) coordinating multi-domain operations. Standard deployment cycles involve 6-8 month forward deployments with the carrier conducting flight operations 16-18 hours daily, supporting everything from combat air patrols and strike missions to humanitarian operations and freedom of navigation operations. The air wing's composition varies by theater, with higher fighter-to-attack ratios in contested environments like the Western Pacific versus more strike aircraft for power projection missions in regions like the Persian Gulf.",
+    "design_philosophy": "Prioritized maximum aircraft capacity, nuclear propulsion for unlimited range, and survivability through sheer size and compartmentalization, accepting the trade-offs of enormous cost, massive crew requirements (5,000+ personnel), and high signature that makes concealment impossible. The design sacrificed maneuverability and defensive armament (minimal point defense systems) in favor of relying on escort vessels for protection while maximizing the aviation facilities and fuel capacity needed for sustained high-tempo flight operations.",
+    "threat_context": "Originally designed to counter Soviet naval aviation and submarines during blue-water engagements in the Cold War, when the primary threats were Tu-95 Bear bombers, submarine-launched cruise missiles, and surface action groups. The threat environment has evolved to include sophisticated anti-access/area denial (A2/AD) systems featuring long-range precision missiles, advanced submarines, and integrated air defense networks that can potentially target carriers at distances exceeding 1,000nm from hostile coastlines.",
+    "comparison_frame": "Compare primarily on air wing size and composition, sustained sortie generation rates, and operational endurance rather than platform speed or self-defense capabilities\u2014all major carriers achieve similar transit speeds and rely on escorts for protection. The critical differentiators are aircraft capacity (65-85 aircraft), nuclear versus conventional propulsion affecting operational persistence, and the sophistication of command and control systems for managing complex multi-carrier operations."
+  },
+  "curated_sources": [
+    {
+      "title": "U.S. Aircraft Carriers: The Ultimate Naval Weapons System",
+      "type": "book",
+      "url": "",
+      "relevance": "Norman Friedman's definitive technical and operational history of U.S. carrier development, including detailed analysis of Nimitz-class design decisions and capability evolution.",
+      "priority": "essential"
+    },
+    {
+      "title": "Navy Ford (CVN-78) Class Aircraft Carrier Program: Background and Issues for Congress",
+      "type": "report",
+      "url": "https://crsreports.congress.gov/product/pdf/RS/RS20643",
+      "relevance": "Congressional Research Service report comparing Ford and Nimitz classes, with extensive discussion of current Nimitz-class operations and limitations driving next-generation requirements.",
+      "priority": "essential"
+    },
+    {
+      "title": "Distributed Maritime Operations and the Future of the Nimitz Class",
+      "type": "report",
+      "url": "https://www.csbaonline.org/research/publications/restoring-american-seapower-a-new-fleet-architecture-for-the-united-states-navy",
+      "relevance": "CSBA analysis examining how Nimitz-class carriers fit into evolving U.S. Navy distributed operations concepts in contested environments.",
+      "priority": "recommended"
+    },
+    {
+      "title": "Bryan Clark - Hudson Institute",
+      "type": "analyst",
+      "url": "https://www.hudson.org/experts/1308-bryan-clark",
+      "relevance": "Former Navy submarine officer and leading analyst on carrier operations, force structure, and adaptation to A2/AD threats in the Western Pacific.",
+      "priority": "recommended"
+    },
+    {
+      "title": "Nimitz Class Aircraft Carrier - Seaforces Online",
+      "type": "database",
+      "url": "https://www.seaforces.org/usnships/cvn/CVN-68-Nimitz.htm",
+      "relevance": "Comprehensive technical specifications, modification history, and deployment records for all ten Nimitz-class carriers with regular updates on refueling and overhaul schedules.",
+      "priority": "reference"
+    },
+    {
+      "title": "NDP 1: Naval Warfare",
+      "type": "report",
+      "url": "https://www.navy.mil/Resources/Library/Naval-Doctrine-Publications/",
+      "relevance": "U.S. Navy's foundational doctrine publication explaining carrier strike group integration, command relationships, and operational employment concepts.",
+      "priority": "essential"
+    },
+    {
+      "title": "The Future of the Aircraft Carrier",
+      "type": "report",
+      "url": "https://rusi.org/explore-our-research/publications/commentary/future-aircraft-carrier",
+      "relevance": "RUSI analysis of global carrier developments and the evolving role of large-deck carriers in modern naval warfare, with specific attention to Nimitz-class vulnerabilities.",
+      "priority": "recommended"
+    },
+    {
+      "title": "Carrier Air Wing Composition and Effectiveness",
+      "type": "article",
+      "url": "https://www.usni.org/magazines/proceedings",
+      "relevance": "U.S. Naval Institute Proceedings articles analyzing air wing evolution, strike package composition, and operational lessons from recent Nimitz-class deployments.",
+      "priority": "recommended"
+    }
+  ]
+}

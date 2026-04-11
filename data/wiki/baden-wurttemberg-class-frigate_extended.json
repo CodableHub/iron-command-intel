@@ -1,0 +1,310 @@
+{
+  "combat_history": [
+    {
+      "date": "2021",
+      "operation": "UNIFIL",
+      "event": "Baden-W\u00fcrttemberg deployed to Mediterranean for UN peacekeeping mission off Lebanon coast, demonstrating extended deployment concept",
+      "significance": "First operational deployment validated 24-month rotation concept but in low-threat environment"
+    },
+    {
+      "date": "2022-2023",
+      "operation": "EU Naval Force",
+      "event": "Nordrhein-Westfalen conducted counter-piracy operations in Red Sea and Gulf of Aden",
+      "significance": "Demonstrated capability for maritime security operations but highlighted air defense limitations"
+    }
+  ],
+  "modernization": [
+    {
+      "program": "Air Defense Upgrade",
+      "status": "planned",
+      "timeline": "2024-2027",
+      "description": "Potential integration of additional air defense systems beyond RAM, possibly including medium-range SAMs in VLS cells",
+      "impact": "Would address critical air defense gap but requires significant modification"
+    },
+    {
+      "program": "Mission Module Development",
+      "status": "in-progress",
+      "timeline": "2023-2025",
+      "description": "Development of specialized mission packages for different operations including ASW, MCM, and special forces support",
+      "impact": "Enables true multi-mission capability as originally envisioned"
+    }
+  ],
+  "vulnerabilities": [
+    {
+      "area": "Air defense",
+      "description": "Severely limited air defense with only short-range RAM missiles, making ships vulnerable to aircraft, cruise missiles, and drones",
+      "context": "Fatal flaw in contested environments where air superiority cannot be assumed",
+      "mitigation": "Planned upgrades under consideration but require major modifications"
+    },
+    {
+      "area": "ASW capability",
+      "description": "Minimal anti-submarine warfare capability with basic sonar and limited torpedo armament",
+      "context": "Major limitation in Baltic or North Atlantic where submarine threat is significant",
+      "mitigation": "Relies on helicopters and other platforms for ASW mission"
+    },
+    {
+      "area": "Over-automation",
+      "description": "Heavy reliance on automation with small crew creates vulnerability if systems fail or are compromised",
+      "context": "Cyber attacks or battle damage could severely degrade capability",
+      "mitigation": "Extensive redundancy built in but crew cannot manually override all systems"
+    },
+    {
+      "area": "Conceptual limitations",
+      "description": "Designed for low-intensity operations, fundamentally unsuited for high-end naval warfare",
+      "context": "Germany's strategic environment has shifted toward peer competition requiring different capabilities",
+      "mitigation": "F126 frigate program addresses these limitations for future vessels"
+    }
+  ],
+  "operational_patterns": {
+    "typical_deployment": "Extended stabilization operations in permissive environments, counter-piracy, maritime security",
+    "deployment_length_months": 24,
+    "key_operating_areas": [
+      "Mediterranean",
+      "Red Sea",
+      "West Africa",
+      "Indian Ocean"
+    ],
+    "typical_task_group": "Independent operations or with EU/UN task forces",
+    "readiness_notes": "Extended deployment cycle limits availability in home waters; complex systems require specialized maintenance"
+  },
+  "peer_comparisons": [
+    {
+      "platform": "FREMM multipurpose frigate",
+      "country": "France/Italy",
+      "relationship": "direct rival",
+      "key_differences": "FREMM prioritizes balanced AAW/ASW capability over endurance, conventional deployment cycle, proven design with multiple exports vs F125's experimental approach",
+      "video_angle": "Traditional vs revolutionary frigate concepts - why Germany's gamble failed"
+    },
+    {
+      "platform": "Type 26 Global Combat Ship",
+      "country": "United Kingdom",
+      "relationship": "allied equivalent",
+      "key_differences": "Type 26 emphasizes ASW excellence and modular mission bay but maintains strong combat capability, similar size but different priorities",
+      "video_angle": "Two approaches to modular frigate design - combat first vs presence first"
+    },
+    {
+      "platform": "Admiral Gorshkov-class",
+      "country": "Russia",
+      "relationship": "peer competitor",
+      "key_differences": "Russian frigate prioritizes heavy missile armament and air defense over endurance, designed for contested environments vs F125's stabilization focus",
+      "video_angle": "NATO vs Russian frigate philosophy - presence vs lethality"
+    },
+    {
+      "platform": "Constellation-class",
+      "country": "United States",
+      "relationship": "allied equivalent",
+      "key_differences": "US frigate based on FREMM design emphasizes combat capability and integration with carrier groups vs F125's independent operations focus",
+      "video_angle": "Why the US rejected Germany's revolutionary frigate concept"
+    }
+  ],
+  "search_keywords": [
+    "baden w\u00fcrttemberg",
+    "F125",
+    "F 125",
+    "german frigate",
+    "stabilization frigate",
+    "TKMS frigate",
+    "deutsche marine",
+    "24 month deployment"
+  ],
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Baden-W%C3%BCrttemberg_Departs_NAVSTA_Rota_%288386984%29.jpg/1280px-Baden-W%C3%BCrttemberg_Departs_NAVSTA_Rota_%288386984%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/df/Baden-W%C3%BCrttemberg_Departs_NAVSTA_Rota_%288386984%29.jpg",
+      "width": 4841,
+      "height": 3227,
+      "title": "Baden-W\u00fcrttemberg Departs NAVSTA Rota (8386984).jpg",
+      "description": "ROTA, Spain (May 7, 2024)- German Luftwaffe and Spanish Air Force fly in formation over the German Navy Baden-W\u00fcrttemberg-class frigate, Baden-W\u00fcrttemberg (F222), as the ship departs Naval Station (NA",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Baden-W%C3%BCrttemberg_Departs_NAVSTA_Rota_%288386985%29.jpg/1280px-Baden-W%C3%BCrttemberg_Departs_NAVSTA_Rota_%288386985%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Baden-W%C3%BCrttemberg_Departs_NAVSTA_Rota_%288386985%29.jpg",
+      "width": 7422,
+      "height": 4948,
+      "title": "Baden-W\u00fcrttemberg Departs NAVSTA Rota (8386985).jpg",
+      "description": "ROTA, Spain (May 7, 2024)- German Luftwaffe and Spanish Air Force fly in formation over the German Navy Baden-W\u00fcrttemberg-class frigate, Baden-W\u00fcrttemberg (F222), as the ship departs Naval Station (NA",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Baden-W%C3%BCrttemberg_Departs_NAVSTA_Rota_%288386992%29.jpg/1280px-Baden-W%C3%BCrttemberg_Departs_NAVSTA_Rota_%288386992%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Baden-W%C3%BCrttemberg_Departs_NAVSTA_Rota_%288386992%29.jpg",
+      "width": 8256,
+      "height": 5504,
+      "title": "Baden-W\u00fcrttemberg Departs NAVSTA Rota (8386992).jpg",
+      "description": "ROTA, Spain (May 7, 2024)- German Navy Baden-W\u00fcrttemberg-class frigate, Baden-W\u00fcrttemberg (F222), departs Naval Station (NAVSTA) Rota, Spain May 7, 2024. NAVSTA Rota is a force multiplier, capable of ",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/F222_-_Baden-W%C3%BCrttemberg.JPG/1280px-F222_-_Baden-W%C3%BCrttemberg.JPG",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/d6/F222_-_Baden-W%C3%BCrttemberg.JPG",
+      "width": 4896,
+      "height": 2752,
+      "title": "F222 - Baden-W\u00fcrttemberg.JPG",
+      "description": "Fregatte F222 Baden-W\u00fcrttemberg in der Werft Blohm&amp;Voss in Hamburg",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/FGS_Baden-W%C3%BCrttemberg_fires_cannon_during_GUNEX_at_RIMPAC_2024.jpg/1280px-FGS_Baden-W%C3%BCrttemberg_fires_cannon_during_GUNEX_at_RIMPAC_2024.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/14/FGS_Baden-W%C3%BCrttemberg_fires_cannon_during_GUNEX_at_RIMPAC_2024.jpg",
+      "width": 3357,
+      "height": 2278,
+      "title": "FGS Baden-W\u00fcrttemberg fires cannon during GUNEX at RIMPAC 2024.jpg",
+      "description": "The German Baden-W\u00fcrttemberg-class frigate FGS Baden-W\u00fcrttemberg (F222) fires a five-inch cannon in the Pacific Ocean during Exercise Rim of the Pacific (RIMPAC) 2024. Twenty-nine nations, 40 surface ",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/German_Navy_Crew_Charlie_of_the_4th_Frigate_Squadron_at_Spangdahlem_Air_Base%2C_Germany%2C_5_July_2023_%28230705-F-HO957-1208%29.JPG/1280px-German_Navy_Crew_Charlie_of_the_4th_Frigate_Squadron_at_Spangdahlem_Air_Base%2C_Germany%2C_5_July_2023_%28230705-F-HO957-1208%29.JPG",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/54/German_Navy_Crew_Charlie_of_the_4th_Frigate_Squadron_at_Spangdahlem_Air_Base%2C_Germany%2C_5_July_2023_%28230705-F-HO957-1208%29.JPG",
+      "width": 5886,
+      "height": 3389,
+      "title": "German Navy Crew Charlie of the 4th Frigate Squadron at Spangdahlem Air Base, Germany, 5 July 2023 (230705-F-HO957-1208).JPG",
+      "description": "Members assigned to the German Navy Crew Charlie of the 4th Frigate Squadron pose for a group photo 5 July 2023, at Spangdahlem Air Base, Germany. The German Navy visited Spangdahlem to learn more abo",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/SACHSEN-ANHALT_8091.jpg/1280px-SACHSEN-ANHALT_8091.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/SACHSEN-ANHALT_8091.jpg",
+      "width": 4323,
+      "height": 2882,
+      "title": "SACHSEN-ANHALT 8091.jpg",
+      "description": "Not yet commissioned frigate <i><b>Sachsen-Anhalt</b></i> conducting trials in the Nordhafen of Wilhelmshaven, assisted by tugboat <i><b>VB Berne</b></i>",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/91/USS_Princeton_%28CG_59%29_and_FGS_Baden-W%C3%BCrttemberg_%28F222%29_conduct_small_boat_operations_in_the_Pacific_Ocean_during_RIMPAC2024.webp",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/91/USS_Princeton_%28CG_59%29_and_FGS_Baden-W%C3%BCrttemberg_%28F222%29_conduct_small_boat_operations_in_the_Pacific_Ocean_during_RIMPAC2024.webp",
+      "width": 1000,
+      "height": 649,
+      "title": "USS Princeton (CG 59) and FGS Baden-W\u00fcrttemberg (F222) conduct small boat operations in the Pacific Ocean during RIMPAC2024.webp",
+      "description": "The U.S. Navy Ticonderoga-class guided-missile cruiser USS Princeton (CG 59) and German Baden-W\u00fcrttemberg-class frigate FGS Baden-W\u00fcrttemberg (F222) conduct small boat operations in the Pacific Ocean ",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/BW_Class%2C_Vorhafen%2C_Hamburg_%28P1080400%29.jpg/1280px-BW_Class%2C_Vorhafen%2C_Hamburg_%28P1080400%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/9e/BW_Class%2C_Vorhafen%2C_Hamburg_%28P1080400%29.jpg",
+      "width": 3630,
+      "height": 2042,
+      "title": "BW Class, Vorhafen, Hamburg (P1080400).jpg",
+      "description": "Wikipedia Ahoi in Hamburg 2019",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Foggy_sunset_view_from_Moos_mountain%2C_Baden-W%C3%BCrttemberg%2C_Germany.jpg/1280px-Foggy_sunset_view_from_Moos_mountain%2C_Baden-W%C3%BCrttemberg%2C_Germany.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Foggy_sunset_view_from_Moos_mountain%2C_Baden-W%C3%BCrttemberg%2C_Germany.jpg",
+      "width": 6728,
+      "height": 4487,
+      "title": "Foggy sunset view from Moos mountain, Baden-W\u00fcrttemberg, Germany.jpg",
+      "description": "Foggy sunset view from Moos mountain, Baden-W\u00fcrttemberg, Germany.",
+      "license": "CC BY 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/German_frigate_Baden-W%C3%BCrtemberg_%28F222%29_sails_off_the_coast_of_Hawaii_during_RIMPAC_2024_on_22_July_2024.jpg/1280px-German_frigate_Baden-W%C3%BCrtemberg_%28F222%29_sails_off_the_coast_of_Hawaii_during_RIMPAC_2024_on_22_July_2024.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/b9/German_frigate_Baden-W%C3%BCrtemberg_%28F222%29_sails_off_the_coast_of_Hawaii_during_RIMPAC_2024_on_22_July_2024.jpg",
+      "width": 1970,
+      "height": 2961,
+      "title": "German frigate Baden-W\u00fcrtemberg (F222) sails off the coast of Hawaii during RIMPAC 2024 on 22 July 2024.jpg",
+      "description": "German Navy frigate FGS Baden-Wurttemberg (F 222) sails in formation July 22, off the coast of Hawaii during Exercise Rim of the Pacific (RIMPAC) 2024. Twenty-nine nations, 40 surface ships, three sub",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/RIMPAC_2024_Ariel_view_of_FGS_Baden-Wurttemberg%2C_FGS_Frankfurt_Am_Main_moored_at_Pearl_Harbor.jpg/1280px-RIMPAC_2024_Ariel_view_of_FGS_Baden-Wurttemberg%2C_FGS_Frankfurt_Am_Main_moored_at_Pearl_Harbor.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/7e/RIMPAC_2024_Ariel_view_of_FGS_Baden-Wurttemberg%2C_FGS_Frankfurt_Am_Main_moored_at_Pearl_Harbor.jpg",
+      "width": 5590,
+      "height": 3719,
+      "title": "RIMPAC 2024 Ariel view of FGS Baden-Wurttemberg, FGS Frankfurt Am Main moored at Pearl Harbor.jpg",
+      "description": "An aerial view of German Navy frigate FGS Baden-Wurttemberg (F 222), right, and German Navy Berlin-class replenishment ship FGS Frankfurt Am Main (A 1412), moored at Joint Base Pearl Harbor-Hickam, Ha",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/SACHSEN-ANHALT_3204.jpg/1280px-SACHSEN-ANHALT_3204.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/81/SACHSEN-ANHALT_3204.jpg",
+      "width": 4510,
+      "height": 3007,
+      "title": "SACHSEN-ANHALT 3204.jpg",
+      "description": "German frigate <i><b>Sachsen-Anhalt</b></i> in the Naval Base Wilhelmshaven",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/USS_Princeton_%28CG-59%29_and_German_frigate_Baden-W%C3%BCrttemberg_%28F222%29_conduct_small_boat_operations_in_the_Pacific_Ocean_during_RIMPAC_2024%2C_14_July_2024_%28240714-N-PQ495-1808%29.jpg/1280px-thumbnail.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/77/USS_Princeton_%28CG-59%29_and_German_frigate_Baden-W%C3%BCrttemberg_%28F222%29_conduct_small_boat_operations_in_the_Pacific_Ocean_during_RIMPAC_2024%2C_14_July_2024_%28240714-N-PQ495-1808%29.jpg",
+      "width": 3195,
+      "height": 2073,
+      "title": "USS Princeton (CG-59) and German frigate Baden-W\u00fcrttemberg (F222) conduct small boat operations in the Pacific Ocean during RIMPAC 2024, 14 July 2024 (240714-N-PQ495-1808).jpg",
+      "description": "The U.S. Navy guided-missile cruiser USS <i>Princeton</i> (CG-59) and German Navy frigate <i>Baden-W\u00fcrttemberg</i> (F222) conduct small boat operations in the Pacific Ocean during exercise RIMPAC 2024",
+      "license": "Public domain",
+      "source": "wikimedia"
+    }
+  ],
+  "doctrine": {
+    "role": "Sustained presence and stabilization operations in littoral crisis regions, prioritizing endurance and persistent engagement over high-intensity naval warfare. The F125 exists to project German commitment through continuous deployment cycles rather than episodic naval diplomacy.",
+    "employment": "Deployed individually or in pairs for 24-month rotations with crew swaps every four months, maintaining persistent presence without ship rotation. Typically operates independently in stabilization missions, counter-piracy, or maritime security operations rather than as part of traditional naval task groups. Command structure emphasizes flexibility for extended autonomous operations under national or EU frameworks. The platform serves as a floating base for special operations, humanitarian assistance, and training partnerships with regional navies.",
+    "design_philosophy": "Prioritized habitability, endurance, and modularity over traditional frigate capabilities, sacrificing magazine depth and high-end sensors for crew comfort and extended deployment capability. The design accepts reduced anti-air and anti-submarine warfare performance in exchange for exceptional seakeeping, comprehensive C4ISR systems, and flexible mission spaces. This represents a fundamental shift from platform-centric to mission-centric naval architecture.",
+    "threat_context": "Designed for the post-Cold War security environment emphasizing failed states, piracy, and regional instability rather than peer naval competition. The platform assumed benign air threats and focused on asymmetric challenges, but faces criticism as great power competition returns and Germany's NATO commitments require more traditional naval warfare capabilities.",
+    "comparison_frame": "Compare on deployment endurance, crew rotation capability, and mission flexibility rather than magazine depth or sensor performance - the F125 optimized for persistence over lethality. Evaluate against other nations' approaches to sustained maritime presence: U.S. forward-deployed naval forces, French sovereignty missions, or UK forward presence. Cost-per-day deployed and crew welfare metrics matter more than traditional frigate benchmarks."
+  },
+  "curated_sources": [
+    {
+      "title": "Modern Warships: The Design, Development and Deployment - Norman Friedman",
+      "type": "book",
+      "url": "",
+      "relevance": "Provides comprehensive analysis of modern frigate design philosophies and the trade-offs between traditional naval warfare and stabilization missions.",
+      "priority": "essential"
+    },
+    {
+      "title": "German Navy's F125 Baden-W\u00fcrttemberg Class Frigates - RUSI Analysis",
+      "type": "report",
+      "url": "https://rusi.org/explore-our-research/publications/commentary/german-navys-f125-baden-wurttemberg-class-frigates",
+      "relevance": "Critical examination of the F125's controversial design choices and their implications for modern naval warfare doctrine.",
+      "priority": "essential"
+    },
+    {
+      "title": "Tim Fish - Naval Technology Expert",
+      "type": "analyst",
+      "url": "",
+      "relevance": "Leading analyst on European naval developments with extensive coverage of F125 program challenges and doctrinal implications.",
+      "priority": "recommended"
+    },
+    {
+      "title": "F125 Baden-W\u00fcrttemberg Class - Naval Technology",
+      "type": "database",
+      "url": "https://www.naval-technology.com/projects/f125-frigate/",
+      "relevance": "Comprehensive technical specifications and development timeline for the F125 program.",
+      "priority": "reference"
+    },
+    {
+      "title": "German Maritime Strategy and Naval Modernization - SWP Research Paper",
+      "type": "report",
+      "url": "https://www.swp-berlin.org/en/publication/german-maritime-strategy",
+      "relevance": "Analyzes Germany's strategic maritime doctrine and how the F125 fits into broader naval modernization efforts.",
+      "priority": "recommended"
+    },
+    {
+      "title": "NATO Maritime Command Doctrine - Allied Maritime Command",
+      "type": "report",
+      "url": "",
+      "relevance": "Official NATO maritime doctrine explaining how stabilization frigates like the F125 integrate with alliance operations.",
+      "priority": "reference"
+    },
+    {
+      "title": "European Naval Developments 2024 - IISS Military Balance Blog",
+      "type": "article",
+      "url": "https://www.iiss.org/blogs/military-balance",
+      "relevance": "Annual assessment of European naval capabilities including critical analysis of Germany's frigate programs.",
+      "priority": "recommended"
+    }
+  ]
+}

@@ -1,0 +1,479 @@
+{
+  "id": 7,
+  "slug": "constellation-class-frigate",
+  "name": "Constellation-class frigate",
+  "designation": "FFG-62",
+  "type": "frigate",
+  "country": "United States",
+  "operator": "United States Navy",
+  "overview_md": "The Constellation-class frigate (FFG-62) represents the U.S. Navy's return to blue-water frigate operations after a 13-year gap following the retirement of the Oliver Hazard Perry-class. Based on the FREMM multipurpose frigate design by Fincantieri, the Constellation class is designed to fill the critical capability gap between high-end destroyers and the failed Littoral Combat Ship program. These frigates are optimized for anti-submarine warfare, surface warfare, and electromagnetic spectrum operations in contested environments.\n\nStrategically, the Constellation class addresses the Navy's urgent need for affordable, numerous surface combatants capable of distributed maritime operations across multiple theaters. With a planned procurement of 20 hulls, these frigates will serve as the backbone of convoy escort operations, theater security cooperation, and lower-tier air defense missions. The design emphasizes reliability, maintenance accessibility, and interoperability with NATO allies\u2014lessons learned from the LCS program's operational failures.\n\nThe frigate's combat systems center around the AN/SPY-6(V)3 Enterprise Air Surveillance Radar and a 32-cell Mk 41 VLS, providing credible anti-air and anti-surface capabilities while maintaining the acoustic quieting necessary for ASW operations. Unlike the LCS, the Constellation class features a traditional steel hull optimized for blue-water operations rather than littoral speed, reflecting the Navy's pivot back to great power competition.\n\nIn the current threat environment, the Constellation class fills a critical role as the 'low' end of the Navy's high-low frigate-destroyer mix. While lacking the sophisticated air defense capabilities of Flight III Arleigh Burke destroyers, these frigates can perform presence operations, escort duties, and ASW missions that would otherwise tie up more expensive capital ships. Their greatest strategic value lies in their numbers\u2014providing the distributed lethality that current Navy doctrine demands but cannot achieve with a destroyer-heavy surface fleet.",
+  "specs_json": {
+    "displacement_tonnes": 7291,
+    "length_m": 151.4,
+    "beam_m": 19.7,
+    "draft_m": 5.5,
+    "speed_knots": 26,
+    "range_nm": 6000,
+    "crew": 200,
+    "propulsion": "CODLAG - 1x Rolls-Royce MT30 gas turbine (36.6 MW), 4x diesel generators",
+    "radar": "AN/SPY-6(V)3 Enterprise Air Surveillance Radar",
+    "sonar": "AN/SQS-62 Variable Depth Sonar",
+    "combat_system": "COMBATSS-21",
+    "vls_cells": 32,
+    "additional": {
+      "hangar": "1x MH-60R helicopter",
+      "small_boats": "2x 11m RHIBs",
+      "decoy_systems": "AN/SLQ-32(V)6 SEWIP Block 2, Nulka decoy launchers"
+    }
+  },
+  "armament_json": [
+    {
+      "category": "Missiles",
+      "name": "Mk 41 VLS",
+      "type": "vertical launch system",
+      "quantity": "32 cells",
+      "range_km": 0,
+      "notes": "SM-2, SM-6, ESSM, Tomahawk capable"
+    },
+    {
+      "category": "Guns",
+      "name": "Mk 110 57mm Gun",
+      "type": "naval gun",
+      "quantity": "1x 57mm",
+      "range_km": 17,
+      "notes": "Dual-purpose gun for surface and air targets"
+    },
+    {
+      "category": "CIWS",
+      "name": "RAM Block 2",
+      "type": "point defense missile",
+      "quantity": "1x 21-cell launcher",
+      "range_km": 10,
+      "notes": "Close-in air defense"
+    },
+    {
+      "category": "ASW",
+      "name": "Mk 32 SVTT",
+      "type": "torpedo tubes",
+      "quantity": "2x triple tubes",
+      "range_km": 15,
+      "notes": "Mk 54 lightweight torpedoes"
+    },
+    {
+      "category": "Missiles",
+      "name": "Naval Strike Missile",
+      "type": "anti-ship missile",
+      "quantity": "8 missiles",
+      "range_km": 185,
+      "notes": "Over-the-horizon anti-ship capability"
+    }
+  ],
+  "variants_json": [
+    {
+      "name": "Baseline",
+      "designation_range": "FFG-62 to FFG-81",
+      "years": "2026-2035",
+      "count": 20,
+      "key_changes": "Initial production configuration with AN/SPY-6(V)3 radar, 32-cell VLS, NSM anti-ship missiles",
+      "status": "building"
+    }
+  ],
+  "fleet_status_json": [
+    {
+      "hull_number": "FFG-62",
+      "name": "USS Constellation",
+      "variant": "Baseline",
+      "commissioned": "2026-12-01",
+      "home_port": "TBD",
+      "status": "building"
+    },
+    {
+      "hull_number": "FFG-63",
+      "name": "USS Congress",
+      "variant": "Baseline",
+      "commissioned": "2028-06-01",
+      "home_port": "TBD",
+      "status": "building"
+    },
+    {
+      "hull_number": "FFG-64",
+      "name": "USS Chesapeake",
+      "variant": "Baseline",
+      "commissioned": "2029-01-01",
+      "home_port": "TBD",
+      "status": "building"
+    },
+    {
+      "hull_number": "FFG-65",
+      "name": "USS Stalingrad",
+      "variant": "Baseline",
+      "commissioned": "2029-08-01",
+      "home_port": "TBD",
+      "status": "building"
+    }
+  ],
+  "cost_usd": 1300000000.0,
+  "unit_count": 1,
+  "first_commissioned": "2026",
+  "builder": "Fincantieri Marinette Marine",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/U.S._Navy_guided-missile_frigate_FFG%28X%29_artist_rendering%2C_30_April_2020_%28200430-N-NO101-150%29.JPG",
+  "wiki_url": "https://en.wikipedia.org/wiki/Constellation-class_frigate",
+  "sources_json": [
+    "https://en.wikipedia.org/wiki/Constellation-class_frigate",
+    "https://www.navy.mil/Resources/Fact-Files/Display-FactFiles/Article/2169401/constellation-class-frigate-ffg-62/",
+    "https://www.fincantieri.com/en/products-services/naval-vessels/fremm-multipurpose-frigate/",
+    "https://news.usni.org/category/fleet-tracker/constellation-class"
+  ],
+  "comparison_tags": [
+    "frigate",
+    "vls",
+    "spy-6",
+    "us-navy",
+    "blue-water",
+    "asw",
+    "fremm-based"
+  ],
+  "created_at": "2026-04-10 17:54:22",
+  "updated_at": "2026-04-10T17:54:22.676045",
+  "news": [
+    {
+      "id": 9,
+      "platform_id": 7,
+      "article_hash": "e3ef4878141e902d",
+      "title": "The Golden Dome\u2019s missing layer: On-orbit logistics for a resilient missile\u00a0defense",
+      "url": "https://breakingdefense.com/2026/04/the-golden-domes-missing-layer-on-orbit-logistics-for-a-resilient-missile-defense/",
+      "source": "Breaking Defense",
+      "published_at": "2026-04-10T12:26:00",
+      "relevance_score": 0.2,
+      "snippet": "[Sponsored] Building on-orbit servicing into the architecture of the constellation is foundational to sustaining missile defense in space.",
+      "created_at": "2026-04-10 18:06:42"
+    },
+    {
+      "id": 24,
+      "platform_id": 7,
+      "article_hash": "2d73d10736ffbf5f",
+      "title": "\u2018Hybrid constellations\u2019 are making it hard for militaries to hide",
+      "url": "https://www.defenseone.com/technology/2026/04/hybrid-constellations-are-making-it-hard-militaries-hide/412728/",
+      "source": "Defense One",
+      "published_at": "2026-04-09T06:00:00",
+      "relevance_score": 0.6,
+      "snippet": "Vantor plans to combine high- and low-resolution space imagery in its satellite fleet.",
+      "created_at": "2026-04-10 18:06:42"
+    }
+  ],
+  "events": [],
+  "ic_coverage": [],
+  "combat_history": [],
+  "modernization": [
+    {
+      "program": "Constellation Flight II Planning",
+      "status": "planned",
+      "timeline": "2030-2035",
+      "description": "Potential upgrades including enhanced VLS cell count, improved electronic warfare systems, and integrated directed energy weapons",
+      "impact": "Would address VLS cell count limitations and improve survivability in high-threat environments"
+    },
+    {
+      "program": "SEWIP Block III Integration",
+      "status": "planned",
+      "timeline": "2028-2032",
+      "description": "Integration of advanced electronic warfare capabilities including offensive jamming systems",
+      "impact": "Significantly enhances electronic warfare and survivability capabilities"
+    }
+  ],
+  "vulnerabilities": [
+    {
+      "area": "VLS Cell Count",
+      "description": "Only 32 VLS cells compared to 96+ on destroyers limits magazine depth for extended operations",
+      "context": "In high-intensity conflict, frigate would quickly exhaust missile inventory",
+      "mitigation": "Designed for operations closer to logistics hubs; emphasis on reloading capabilities at sea"
+    },
+    {
+      "area": "Air Defense Capability",
+      "description": "Limited area air defense compared to Aegis destroyers; primarily self-defense focused",
+      "context": "Cannot provide area air defense for high-value units or task groups in contested airspace",
+      "mitigation": "Designed to operate under destroyer/cruiser air defense umbrella"
+    },
+    {
+      "area": "Program Schedule Risk",
+      "description": "First-in-class delivery delays and cost overruns typical of new shipbuilding programs",
+      "context": "Navy desperately needs these hulls to replace aging fleet; delays impact overall fleet size",
+      "mitigation": "Use of proven FREMM baseline design intended to reduce technical risk"
+    },
+    {
+      "area": "Single Point Failures",
+      "description": "CODLAG propulsion system complexity and single gas turbine create potential mobility vulnerabilities",
+      "context": "Loss of main gas turbine significantly reduces operational capability",
+      "mitigation": "Diesel generators provide backup propulsion at reduced speed"
+    }
+  ],
+  "operational_patterns": {
+    "typical_deployment": "Independent patrol operations, convoy escort, theater security cooperation, ASW screen for high-value units",
+    "deployment_length_months": 6,
+    "key_operating_areas": [
+      "Western Pacific",
+      "Eastern Mediterranean",
+      "Arabian Gulf",
+      "Baltic Sea"
+    ],
+    "typical_task_group": "Independent operations or as escort for amphibious ready groups, logistics vessels",
+    "readiness_notes": "New class with unproven maintenance requirements; designed for higher operational availability than LCS"
+  },
+  "peer_comparisons": [
+    {
+      "platform": "Type 054A Jiangkai II-class",
+      "country": "China",
+      "relationship": "direct rival",
+      "key_differences": "Similar displacement and role but Chinese design emphasizes longer-range air defense missiles (HQ-16) while Constellation focuses on ASW and multi-mission flexibility. Type 054A has 32 VLS cells but different missile options.",
+      "video_angle": "New American frigate vs proven Chinese design - quantity vs quality in frigate warfare"
+    },
+    {
+      "platform": "Admiral Gorshkov-class",
+      "country": "Russia",
+      "relationship": "direct rival",
+      "key_differences": "Russian design emphasizes heavy anti-ship firepower (Kalibr/Oniks) and area air defense while Constellation prioritizes ASW and NATO interoperability. Gorshkov class more heavily armed but less reliable.",
+      "video_angle": "Western NATO-standard frigate vs Russian 'super-frigate' - different philosophies of naval warfare"
+    },
+    {
+      "platform": "FREMM Multipurpose Frigate",
+      "country": "France/Italy",
+      "relationship": "predecessor",
+      "key_differences": "Constellation based on FREMM design but Americanized with SPY-6 radar, different combat system, and optimized for U.S. Navy operations. Very similar capabilities but different sensors and weapons fit.",
+      "video_angle": "How America adapted Europe's most successful frigate design for Pacific operations"
+    },
+    {
+      "platform": "Type 26 Global Combat Ship",
+      "country": "United Kingdom",
+      "relationship": "allied equivalent",
+      "key_differences": "Both emphasize ASW but Type 26 is larger (8000+ tons) with more sophisticated ASW sensors and 48 VLS cells. UK design prioritizes ASW excellence while Constellation balances multiple missions.",
+      "video_angle": "Anglo-American frigate showdown - specialized vs multi-mission design philosophy"
+    },
+    {
+      "platform": "Mogami-class",
+      "country": "Japan",
+      "relationship": "allied equivalent",
+      "key_differences": "Japanese design emphasizes mine warfare and compact crew (90 vs 200) while Constellation focuses on traditional blue-water missions. Both incorporate advanced radar and similar displacement.",
+      "video_angle": "Pacific allies' frigate face-off - Japanese automation vs American traditional crewing"
+    }
+  ],
+  "search_keywords": [
+    "constellation class",
+    "FFG-62",
+    "FFG 62",
+    "constellation frigate",
+    "us navy frigate",
+    "FREMM",
+    "SPY-6",
+    "new navy frigate",
+    "post-LCS frigate"
+  ],
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/03/20040725_USS_Constellation_Baltimore.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/03/20040725_USS_Constellation_Baltimore.jpg",
+      "width": 800,
+      "height": 533,
+      "title": "20040725 USS Constellation Baltimore.jpg",
+      "description": "USS Constellation in Baltimore. Taken By: Joe Webster (www.joewebster.net)\nLocation: Baltimore, Maryland",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Artist_rendering_of_USS_Constellation_%28FFG-62%29.jpg/1280px-Artist_rendering_of_USS_Constellation_%28FFG-62%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/25/Artist_rendering_of_USS_Constellation_%28FFG-62%29.jpg",
+      "width": 1876,
+      "height": 869,
+      "title": "Artist rendering of USS Constellation (FFG-62).jpg",
+      "description": "PORT HUENEME, Calif. (April 2, 2021) A cross-warfare center team, including Naval Surface Warfare Center, Port Hueneme Division, is developing a total ship Frigate Readiness Assessment Model (FRAM) fo",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/89/Ballou%27s_USS_Constellation_1859.png",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/89/Ballou%27s_USS_Constellation_1859.png",
+      "width": 1021,
+      "height": 560,
+      "title": "Ballou's USS Constellation 1859.png",
+      "description": "USS Constellation in drydock, Boston - Charlestown",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/USS_Constellation_%281854%29_in_Baltimore.jpg/1280px-USS_Constellation_%281854%29_in_Baltimore.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/USS_Constellation_%281854%29_in_Baltimore.jpg",
+      "width": 2835,
+      "height": 1890,
+      "title": "USS Constellation (1854) in Baltimore.jpg",
+      "description": "<a href=\"https://en.wikipedia.org/wiki/USS_Constellation_(1854)\" class=\"extiw\" title=\"w:USS Constellation (1854)\">USS Constellation (1854)</a> docked at the <a href=\"https://en.wikipedia.org/wiki/Inne",
+      "license": "CC BY-SA 3.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/USS_Constellation_1994.jpg/1280px-USS_Constellation_1994.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/c8/USS_Constellation_1994.jpg",
+      "width": 1285,
+      "height": 1571,
+      "title": "USS Constellation 1994.jpg",
+      "description": "USS Constellation in Baltimore harbor in 1994, showing her configuration before the late-1990s renovation.",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/USS_Constellation_ships_bell.jpg/1280px-USS_Constellation_ships_bell.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/64/USS_Constellation_ships_bell.jpg",
+      "width": 3024,
+      "height": 4032,
+      "title": "USS Constellation ships bell.jpg",
+      "description": "USS Constellation ship\u2019s bell",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/USS_Midway_%28CV-41%29_and_USS_Constellation_%28CV-64%29_in_1980.JPEG/1280px-USS_Midway_%28CV-41%29_and_USS_Constellation_%28CV-64%29_in_1980.JPEG",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/d6/USS_Midway_%28CV-41%29_and_USS_Constellation_%28CV-64%29_in_1980.JPEG",
+      "width": 3002,
+      "height": 2118,
+      "title": "USS Midway (CV-41) and USS Constellation (CV-64) in 1980.JPEG",
+      "description": "The U.S. Navy aircraft carriers USS <i>Midway</i> (CV-41) and USS <i>Constellation</i> (CV-64) underway. <i>Midway</i>, with assigned Carrier Air Wing 5 (CVW-5), was deployed to the Western Pacific an",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/US_Navy_050530-N-5781F-060_Royal_Australian_Navy_Frigate_HMAS_Canberra_%28FFG_02%29_and_guided_missile_destroyer_USS_Fitzgerald_%28DDG_62%29_steam_in_formation.jpg/1280px-US_Navy_050530-N-5781F-060_Royal_Australian_Navy_Frigate_HMAS_Canberra_%28FFG_02%29_and_guided_missile_destroyer_USS_Fitzgerald_%28DDG_62%29_steam_in_formation.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/03/US_Navy_050530-N-5781F-060_Royal_Australian_Navy_Frigate_HMAS_Canberra_%28FFG_02%29_and_guided_missile_destroyer_USS_Fitzgerald_%28DDG_62%29_steam_in_formation.jpg",
+      "width": 3008,
+      "height": 2000,
+      "title": "US Navy 050530-N-5781F-060 Royal Australian Navy Frigate HMAS Canberra (FFG 02) and guided missile destroyer USS Fitzgerald (DDG 62) steam in formation.jpg",
+      "description": "Pacific Ocean (May 30, 2005) - Royal Australian Navy Frigate HMAS Canberra (FFG 02) and guided missile destroyer USS Fitzgerald (DDG 62) steam in formation prior to a replenishment at sea with the Mil",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Artist_rendering_of_USS_Lafayette_%28FFG-65%29.jpg/1280px-Artist_rendering_of_USS_Lafayette_%28FFG-65%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Artist_rendering_of_USS_Lafayette_%28FFG-65%29.jpg",
+      "width": 4500,
+      "height": 2531,
+      "title": "Artist rendering of USS Lafayette (FFG-65).jpg",
+      "description": "WASHINGTON (June 28, 2023) A graphic rendering of the future guided-missile frigate USS Lafayette (FFG 65). The ship is named in honor of the Marquis de Lafayette and his service during the American R",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/FFG%28X%29_Technical-System_Details.png/1280px-FFG%28X%29_Technical-System_Details.png",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/34/FFG%28X%29_Technical-System_Details.png",
+      "width": 3538,
+      "height": 2070,
+      "title": "FFG(X) Technical-System Details.png",
+      "description": "FFG(X) artist rendering with system-technical details from Program Executive Office Unmanned and Small Combatants (PEO USC) as presented in the 2022 Surface Navy Association symposium",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/FFG%28X%29_port_bow_view.jpg/1280px-FFG%28X%29_port_bow_view.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/d4/FFG%28X%29_port_bow_view.jpg",
+      "width": 1424,
+      "height": 763,
+      "title": "FFG(X) port bow view.jpg",
+      "description": "Port bow view of guided missile frigate",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/FFG%28X%29_side_view.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/FFG%28X%29_side_view.jpg",
+      "width": 1280,
+      "height": 800,
+      "title": "FFG(X) side view.jpg",
+      "description": "Guided missile frigate",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/FFG%28X%29_stbd_qtr_view.jpg/1280px-FFG%28X%29_stbd_qtr_view.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/aa/FFG%28X%29_stbd_qtr_view.jpg",
+      "width": 1424,
+      "height": 763,
+      "title": "FFG(X) stbd qtr view.jpg",
+      "description": "Next generation Guided Missile Frigate",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Next_Generation_Frigate_linesplan.jpg/1280px-Next_Generation_Frigate_linesplan.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Next_Generation_Frigate_linesplan.jpg",
+      "width": 1440,
+      "height": 900,
+      "title": "Next Generation Frigate linesplan.jpg",
+      "description": "Next generation guided missile frigate",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/U.S._Navy_guided-missile_frigate_FFG%28X%29_artist_rendering%2C_30_April_2020_%28200430-N-NO101-150%29.JPG/1280px-U.S._Navy_guided-missile_frigate_FFG%28X%29_artist_rendering%2C_30_April_2020_%28200430-N-NO101-150%29.JPG",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/U.S._Navy_guided-missile_frigate_FFG%28X%29_artist_rendering%2C_30_April_2020_%28200430-N-NO101-150%29.JPG",
+      "width": 3679,
+      "height": 2400,
+      "title": "U.S. Navy guided-missile frigate FFG(X) artist rendering, 30 April 2020 (200430-N-NO101-150).JPG",
+      "description": "An artist rendering of the U.S. Navy guided-missile frigate FFG(X). The new small surface combatant will have multi-mission capability to conduct air warfare, anti-submarine warfare, surface warfare, ",
+      "license": "Public domain",
+      "source": "wikimedia"
+    }
+  ],
+  "doctrine": {
+    "role": "Restore distributed lethality across a larger fleet of blue-water combatants capable of operating independently or in task groups against peer adversaries. Fill the critical capability gap between high-end destroyers and failed littoral platforms to enable contested sea control operations.",
+    "employment": "Deployed in surface action groups with destroyers for distributed maritime operations, or as independent escorts for supply convoys and amphibious forces. Optimized for anti-submarine warfare in the forward edge of contested zones, particularly in the Western Pacific first island chain. Integrates into carrier strike groups as additional missile capacity and ASW screening, while capable of autonomous operations that preserve high-value units for primary missions.",
+    "design_philosophy": "Prioritized proven European technology and rapid fielding over developmental systems to restore frigate capacity quickly. Sacrificed speed (27 knots vs 30+ knot destroyers) and magazine depth for multi-mission flexibility and cost control. Emphasized reliability and maintainability over maximum performance to support sustained forward presence operations.",
+    "threat_context": "Designed specifically for great power competition against China's expanding submarine force and integrated air-sea denial capabilities. Addresses the capability gap exposed by LCS failures against peer threats requiring blue-water endurance and sophisticated sensors. Threat evolution toward hypersonic missiles and advanced submarines has reinforced the emphasis on distributed operations and survivable platforms.",
+    "comparison_frame": "Compare primarily on cost-per-VLS-cell and ASW capability against peer frigates, not absolute performance metrics. Magazine depth and sensor integration matter more than top speed since all modern frigates accept 27-30 knots as sufficient. Focus on maintenance requirements and forward presence sustainability rather than single-mission optimization."
+  },
+  "curated_sources": [
+    {
+      "title": "Navy Frigate (FFG[X]) Program: Background and Issues for Congress",
+      "type": "report",
+      "url": "https://crsreports.congress.gov/product/pdf/R/R44972",
+      "relevance": "Comprehensive analysis of the FFG(X) program development, requirements, and Congressional oversight issues.",
+      "priority": "essential"
+    },
+    {
+      "title": "U.S. Navy Destroyers and Frigates by Norman Friedman",
+      "type": "book",
+      "url": "",
+      "relevance": "Definitive technical and historical analysis of U.S. Navy surface combatant design philosophy and evolution.",
+      "priority": "essential"
+    },
+    {
+      "title": "Restoring American Seapower: A New Fleet Architecture for the United States Navy",
+      "type": "report",
+      "url": "https://csbaonline.org/research/publications/restoring-american-seapower-a-new-fleet-architecture-for-the-united-states-navy",
+      "relevance": "Strategic context for distributed maritime operations and the role of frigates in future fleet architecture.",
+      "priority": "recommended"
+    },
+    {
+      "title": "Bryan Clark - Center for Strategic and Budgetary Assessments",
+      "type": "analyst",
+      "url": "https://csbaonline.org/about/people/bryan-clark",
+      "relevance": "Leading analyst on U.S. Navy distributed lethality concepts and surface combatant requirements.",
+      "priority": "recommended"
+    },
+    {
+      "title": "FFG 62 Constellation Class - Naval Technology",
+      "type": "database",
+      "url": "https://www.naval-technology.com/projects/ffg-62-constellation-class-frigates/",
+      "relevance": "Technical specifications and program timeline for the Constellation-class frigate development.",
+      "priority": "reference"
+    },
+    {
+      "title": "The Future of the U.S. Navy's Force Structure",
+      "type": "report",
+      "url": "https://www.csis.org/analysis/future-us-navys-force-structure",
+      "relevance": "Analysis of how frigates fit into overall Navy force structure planning and great power competition.",
+      "priority": "recommended"
+    },
+    {
+      "title": "U.S. Naval Institute Proceedings - Surface Force Strategy",
+      "type": "article",
+      "url": "https://www.usni.org/magazines/proceedings",
+      "relevance": "Professional military journal with ongoing analysis of surface warfare doctrine and frigate employment.",
+      "priority": "reference"
+    }
+  ]
+}

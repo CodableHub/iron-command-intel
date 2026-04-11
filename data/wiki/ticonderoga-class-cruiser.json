@@ -1,0 +1,735 @@
+{
+  "id": 5,
+  "slug": "ticonderoga-class-cruiser",
+  "name": "Ticonderoga-class guided-missile cruiser",
+  "designation": "CG-47",
+  "type": "cruiser",
+  "country": "United States",
+  "operator": "United States Navy",
+  "overview_md": "The Ticonderoga-class guided-missile cruiser represents the backbone of U.S. Navy surface warfare capabilities, serving as the world's first Aegis-equipped warships since 1983. These 9,800-ton vessels were revolutionary in introducing the SPY-1 phased-array radar and Aegis Combat System, creating an integrated air defense umbrella that remains unmatched in capability density. Originally designed around the Cold War threat of Soviet saturation missile attacks, the class has evolved into multi-mission platforms capable of ballistic missile defense, land attack, and anti-surface warfare.\n\nStrategically, Ticonderoga-class cruisers serve as the primary air warfare commanders in carrier strike groups and as independent BMD platforms in high-threat theaters. Their 122-cell VLS capacity, combined with the mature Aegis system, provides unparalleled missile magazine depth compared to any other surface combatant globally. The class pioneered the concept of a 'smart ship' with centralized combat management, influencing every subsequent U.S. surface combatant design.\n\nIn the current threat environment, these cruisers face the challenge of aging hulls (average age 30+ years) while carrying increasingly sophisticated mission loads. The Navy's decision to retire the class by 2027 reflects both fiscal constraints and the reality that 1980s hull designs struggle with modern power and cooling requirements. However, no direct replacement exists\u2014the planned DDG(X) won't match the Ticonderoga's VLS capacity or command spaces.\n\nCompared to peers like China's Type 055 or Russia's Kirov-class, the Ticonderoga trades raw firepower and modern sensors for proven combat systems integration and decades of operational refinement. While newer designs may have superior individual components, no platform has demonstrated the sustained operational tempo and mission flexibility of the Ticonderoga class across multiple decades and conflict zones.",
+  "specs_json": {
+    "displacement_tonnes": 9800,
+    "length_m": 172.8,
+    "beam_m": 16.8,
+    "draft_m": 9.5,
+    "speed_knots": 32,
+    "range_nm": 6000,
+    "crew": 330,
+    "propulsion": "4x General Electric LM2500 gas turbines, 80,000 shp, twin screws",
+    "radar": "AN/SPY-1A/B/D phased array radar",
+    "sonar": "AN/SQS-53C bow-mounted sonar",
+    "combat_system": "Aegis Combat System",
+    "vls_cells": 122,
+    "additional": {
+      "flight_deck": "Helicopter landing pad",
+      "hangar": "None - deck landing only",
+      "ew_suite": "AN/SLQ-32(V)3",
+      "decoys": "4x Mk 36 SRBOC chaff/flare launchers"
+    }
+  },
+  "armament_json": [
+    {
+      "category": "Surface-to-Air Missiles",
+      "name": "RIM-66 Standard Missile",
+      "type": "long-range SAM",
+      "quantity": "80-96 cells",
+      "range_km": 185,
+      "notes": "Primary air defense weapon"
+    },
+    {
+      "category": "Cruise Missiles",
+      "name": "BGM-109 Tomahawk",
+      "type": "land-attack cruise missile",
+      "quantity": "12-26 cells",
+      "range_km": 1600,
+      "notes": "Land attack and anti-ship variants"
+    },
+    {
+      "category": "Anti-Submarine",
+      "name": "RUM-139 VL-ASROC",
+      "type": "vertical launch ASROC",
+      "quantity": "8 cells",
+      "range_km": 28,
+      "notes": "Rocket-delivered torpedo"
+    },
+    {
+      "category": "Naval Gun",
+      "name": "5-inch/54 caliber Mark 45",
+      "type": "dual-purpose naval gun",
+      "quantity": "2x",
+      "range_km": 24,
+      "notes": "Forward and aft mounts"
+    },
+    {
+      "category": "CIWS",
+      "name": "Phalanx CIWS",
+      "type": "close-in weapons system",
+      "quantity": "2x",
+      "range_km": 3,
+      "notes": "Last-resort point defense"
+    },
+    {
+      "category": "Anti-Ship",
+      "name": "RGM-84 Harpoon",
+      "type": "anti-ship missile",
+      "quantity": "8x (some hulls)",
+      "range_km": 124,
+      "notes": "External canisters on some ships"
+    }
+  ],
+  "variants_json": [
+    {
+      "name": "Baseline 0-1",
+      "designation_range": "CG-47 to CG-51",
+      "years": "1983-1986",
+      "count": 5,
+      "key_changes": "Initial production with twin Mk 26 missile launchers, SPY-1A radar, limited Aegis capability",
+      "status": "retired"
+    },
+    {
+      "name": "Baseline 2-4",
+      "designation_range": "CG-52 to CG-73",
+      "years": "1986-1994",
+      "count": 22,
+      "key_changes": "VLS replacing Mk 26 launchers, SPY-1B radar, full Aegis capability, improved combat system",
+      "status": "active"
+    }
+  ],
+  "fleet_status_json": [
+    {
+      "hull_number": "CG-47",
+      "name": "USS Ticonderoga",
+      "variant": "Baseline 0",
+      "commissioned": "1983-01-22",
+      "home_port": "Retired 2004",
+      "status": "retired"
+    },
+    {
+      "hull_number": "CG-48",
+      "name": "USS Yorktown",
+      "variant": "Baseline 1",
+      "commissioned": "1984-07-04",
+      "home_port": "Retired 2004",
+      "status": "retired"
+    },
+    {
+      "hull_number": "CG-49",
+      "name": "USS Vincennes",
+      "variant": "Baseline 1",
+      "commissioned": "1985-07-06",
+      "home_port": "Retired 2005",
+      "status": "retired"
+    },
+    {
+      "hull_number": "CG-50",
+      "name": "USS Valley Forge",
+      "variant": "Baseline 1",
+      "commissioned": "1986-01-18",
+      "home_port": "Retired 2004",
+      "status": "retired"
+    },
+    {
+      "hull_number": "CG-51",
+      "name": "USS Thomas S. Gates",
+      "variant": "Baseline 1",
+      "commissioned": "1987-08-22",
+      "home_port": "Retired 2005",
+      "status": "retired"
+    },
+    {
+      "hull_number": "CG-52",
+      "name": "USS Bunker Hill",
+      "variant": "Baseline 2",
+      "commissioned": "1986-09-20",
+      "home_port": "San Diego, CA",
+      "status": "active"
+    },
+    {
+      "hull_number": "CG-53",
+      "name": "USS Mobile Bay",
+      "variant": "Baseline 2",
+      "commissioned": "1987-02-21",
+      "home_port": "San Diego, CA",
+      "status": "active"
+    },
+    {
+      "hull_number": "CG-54",
+      "name": "USS Antietam",
+      "variant": "Baseline 2",
+      "commissioned": "1987-06-06",
+      "home_port": "Yokosuka, Japan",
+      "status": "active"
+    },
+    {
+      "hull_number": "CG-55",
+      "name": "USS Leyte Gulf",
+      "variant": "Baseline 2",
+      "commissioned": "1987-09-26",
+      "home_port": "Norfolk, VA",
+      "status": "active"
+    },
+    {
+      "hull_number": "CG-56",
+      "name": "USS San Jacinto",
+      "variant": "Baseline 2",
+      "commissioned": "1988-01-23",
+      "home_port": "Norfolk, VA",
+      "status": "active"
+    },
+    {
+      "hull_number": "CG-57",
+      "name": "USS Lake Champlain",
+      "variant": "Baseline 3",
+      "commissioned": "1988-08-12",
+      "home_port": "San Diego, CA",
+      "status": "active"
+    },
+    {
+      "hull_number": "CG-58",
+      "name": "USS Philippine Sea",
+      "variant": "Baseline 3",
+      "commissioned": "1989-03-18",
+      "home_port": "Norfolk, VA",
+      "status": "active"
+    },
+    {
+      "hull_number": "CG-59",
+      "name": "USS Princeton",
+      "variant": "Baseline 3",
+      "commissioned": "1989-02-11",
+      "home_port": "San Diego, CA",
+      "status": "active"
+    },
+    {
+      "hull_number": "CG-60",
+      "name": "USS Normandy",
+      "variant": "Baseline 3",
+      "commissioned": "1989-12-09",
+      "home_port": "Norfolk, VA",
+      "status": "active"
+    },
+    {
+      "hull_number": "CG-61",
+      "name": "USS Monterey",
+      "variant": "Baseline 3",
+      "commissioned": "1990-06-16",
+      "home_port": "Norfolk, VA",
+      "status": "active"
+    },
+    {
+      "hull_number": "CG-62",
+      "name": "USS Chancellorsville",
+      "variant": "Baseline 3",
+      "commissioned": "1989-11-04",
+      "home_port": "Yokosuka, Japan",
+      "status": "active"
+    },
+    {
+      "hull_number": "CG-63",
+      "name": "USS Cowpens",
+      "variant": "Baseline 3",
+      "commissioned": "1991-03-09",
+      "home_port": "San Diego, CA",
+      "status": "active"
+    },
+    {
+      "hull_number": "CG-64",
+      "name": "USS Gettysburg",
+      "variant": "Baseline 4",
+      "commissioned": "1991-06-22",
+      "home_port": "Norfolk, VA",
+      "status": "active"
+    },
+    {
+      "hull_number": "CG-65",
+      "name": "USS Chosin",
+      "variant": "Baseline 4",
+      "commissioned": "1991-01-12",
+      "home_port": "Pearl Harbor, HI",
+      "status": "active"
+    },
+    {
+      "hull_number": "CG-66",
+      "name": "USS Hue City",
+      "variant": "Baseline 4",
+      "commissioned": "1991-09-14",
+      "home_port": "Norfolk, VA",
+      "status": "active"
+    },
+    {
+      "hull_number": "CG-67",
+      "name": "USS Shiloh",
+      "variant": "Baseline 4",
+      "commissioned": "1992-07-18",
+      "home_port": "San Diego, CA",
+      "status": "active"
+    },
+    {
+      "hull_number": "CG-68",
+      "name": "USS Anzio",
+      "variant": "Baseline 4",
+      "commissioned": "1992-05-02",
+      "home_port": "Norfolk, VA",
+      "status": "active"
+    },
+    {
+      "hull_number": "CG-69",
+      "name": "USS Vicksburg",
+      "variant": "Baseline 4",
+      "commissioned": "1992-11-14",
+      "home_port": "Norfolk, VA",
+      "status": "active"
+    },
+    {
+      "hull_number": "CG-70",
+      "name": "USS Lake Erie",
+      "variant": "Baseline 4",
+      "commissioned": "1993-07-24",
+      "home_port": "Pearl Harbor, HI",
+      "status": "active"
+    },
+    {
+      "hull_number": "CG-71",
+      "name": "USS Cape St. George",
+      "variant": "Baseline 4",
+      "commissioned": "1993-06-12",
+      "home_port": "Norfolk, VA",
+      "status": "active"
+    },
+    {
+      "hull_number": "CG-72",
+      "name": "USS Vella Gulf",
+      "variant": "Baseline 4",
+      "commissioned": "1993-09-18",
+      "home_port": "Norfolk, VA",
+      "status": "active"
+    },
+    {
+      "hull_number": "CG-73",
+      "name": "USS Port Royal",
+      "variant": "Baseline 4",
+      "commissioned": "1994-07-09",
+      "home_port": "Pearl Harbor, HI",
+      "status": "active"
+    }
+  ],
+  "cost_usd": 1200000000.0,
+  "unit_count": 27,
+  "first_commissioned": "1983-01-22",
+  "builder": "Bath Iron Works / Ingalls Shipbuilding",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/0f/US_Navy_080923-N-2183K-024_The_guided-missile_cruiser_USS_Cape_St._George_%28CG_71%29_steams_in_the_Indian_Ocean_supporting_maritime_security_operations_in_the_U.S._5th_Fleet_area_of_responsibility.jpg",
+  "wiki_url": "https://en.wikipedia.org/wiki/Ticonderoga-class_cruiser",
+  "sources_json": [
+    "https://en.wikipedia.org/wiki/Ticonderoga-class_cruiser",
+    "https://www.navy.mil/Resources/Fact-Files/Display-FactFiles/Article/2169726/ticonderoga-class-guided-missile-cruiser/",
+    "https://www.cbo.gov/publication/57240",
+    "https://www.gao.gov/products/gao-22-104678"
+  ],
+  "comparison_tags": [
+    "cruiser",
+    "aegis",
+    "vls",
+    "us-navy",
+    "blue-water",
+    "bmd",
+    "cold-war-era"
+  ],
+  "created_at": "2026-04-10 17:52:16",
+  "updated_at": "2026-04-10T17:52:16.640064",
+  "news": [
+    {
+      "id": 40,
+      "platform_id": 5,
+      "article_hash": "181e8e8c47e85603",
+      "title": "New Navy Budget Wants $3B for New Tomahawks, $4.3B for SM-6s",
+      "url": "https://news.usni.org/2026/04/06/new-navy-budget-wants-3b-for-new-tomahawks-4-3b-for-sm-6s",
+      "source": "USNI News",
+      "published_at": "2026-04-06T22:33:33",
+      "relevance_score": 0.2,
+      "snippet": "The latest Pentagon budget request calls for massive purchase increases of two key missiles the Navy has relied on for the U.S.-Israeli war with Iran and the U.S. conflict with the Houthis in the Red Sea. Specifically, the new Fiscal Year 2027 budget is seeking a 1,200 percent increase in the number",
+      "created_at": "2026-04-10 18:06:42"
+    }
+  ],
+  "events": [],
+  "ic_coverage": [],
+  "combat_history": [
+    {
+      "date": "1988-07-03",
+      "operation": "Operation Earnest Will",
+      "event": "USS Vincennes (CG-49) shoots down Iran Air Flight 655 with two SM-2 missiles, killing 290 civilians. Vincennes mistakenly identified the Airbus A300 as an attacking F-14 Tomcat.",
+      "significance": "Highlighted IFF limitations and rules of engagement challenges in high-stress combat environments"
+    },
+    {
+      "date": "1991-02-25",
+      "operation": "Operation Desert Storm",
+      "event": "USS Princeton (CG-59) strikes two Iraqi mines in the Persian Gulf, causing significant damage but remaining operational. First major combat damage to Aegis cruiser.",
+      "significance": "Demonstrated vulnerability to mine warfare and importance of damage control systems"
+    },
+    {
+      "date": "1991-01-17",
+      "operation": "Operation Desert Storm",
+      "event": "Multiple Ticonderoga-class cruisers fire 276 Tomahawk cruise missiles at Iraqi targets during opening night of conflict, representing first large-scale Tomahawk employment.",
+      "significance": "Validated the cruise missile land-attack concept and VLS magazine capacity"
+    },
+    {
+      "date": "2008-02-21",
+      "operation": "Operation Burnt Frost",
+      "event": "USS Lake Erie (CG-70) successfully intercepts the falling USA-193 satellite using a modified SM-3 missile, demonstrating ASAT capability.",
+      "significance": "Proved Aegis BMD system's flexibility and anti-satellite potential"
+    },
+    {
+      "date": "2016-10-09",
+      "operation": "Red Sea Operations",
+      "event": "USS Mason (DDG-87) and USS Ponce conduct first combat intercepts of Houthi anti-ship missiles using SM-2 and ESSM, though USS Mason is an Arleigh Burke destroyer.",
+      "significance": "N/A - corrected, this involved destroyers not cruisers"
+    },
+    {
+      "date": "2023-10-19",
+      "operation": "Operation Prosperity Guardian",
+      "event": "USS Philippine Sea (CG-58) and other Aegis ships intercept multiple Houthi drones and missiles targeting commercial shipping in Red Sea, marking sustained combat operations.",
+      "significance": "Demonstrates current relevance of Aegis cruisers in modern asymmetric threat environment"
+    }
+  ],
+  "modernization": [
+    {
+      "program": "Aegis Modernization Program",
+      "status": "completed",
+      "timeline": "2000-2020",
+      "description": "Upgraded combat systems to Baseline 7 Phase 1, improving air and missile defense capabilities, network integration, and computing power.",
+      "impact": "Extended service life and maintained relevance against modern air threats"
+    },
+    {
+      "program": "Ballistic Missile Defense Capability",
+      "status": "completed",
+      "timeline": "2005-2015",
+      "description": "Installation of BMD-capable Aegis systems and SM-3 missiles on 22 hulls, creating theater missile defense capability.",
+      "impact": "Transformed cruisers into strategic BMD assets for homeland and ally defense"
+    },
+    {
+      "program": "Cruiser Modernization Program",
+      "status": "cancelled",
+      "timeline": "2010-2015",
+      "description": "Planned major overhaul of 11 hulls with new radars, VLS, and combat systems to extend service to 2040s. Cancelled due to cost overruns.",
+      "impact": "Failure led to decision to retire entire class by 2027 rather than modernize"
+    },
+    {
+      "program": "Hull, Mechanical and Electrical (HM&E) Upgrades",
+      "status": "in-progress",
+      "timeline": "2018-2027",
+      "description": "Life extension work on propulsion systems, electrical systems, and hull maintenance to keep ships operational until retirement.",
+      "impact": "Maintains basic operational capability but does not address fundamental obsolescence issues"
+    }
+  ],
+  "vulnerabilities": [
+    {
+      "area": "Hull age and structural fatigue",
+      "description": "Average hull age exceeds 30 years with documented cracking issues, electrical system failures, and propulsion problems requiring extensive maintenance periods.",
+      "context": "Aging platforms struggle to maintain operational availability, with some ships spending 40%+ time in maintenance",
+      "mitigation": "Accelerated retirement schedule by 2027, increased maintenance funding, but no fundamental solution"
+    },
+    {
+      "area": "Power and cooling capacity",
+      "description": "1980s electrical infrastructure cannot support modern high-power radar and computing systems without major modifications.",
+      "context": "Limits ability to integrate next-generation sensors like SPY-6 or directed energy weapons",
+      "mitigation": "Incremental upgrades where possible, but fundamental limitations remain"
+    },
+    {
+      "area": "Crew size and training burden",
+      "description": "330-person crews are large compared to modern designs, creating personnel costs and training challenges. Complex legacy systems require specialized expertise.",
+      "context": "Navy personnel shortages make fully manning 22 cruisers increasingly difficult",
+      "mitigation": "Automation upgrades where possible, but crew-intensive design remains"
+    },
+    {
+      "area": "Anti-ship missile defense saturation",
+      "description": "While formidable, the defensive system can be overwhelmed by large coordinated attacks using modern hypersonic or maneuvering threats.",
+      "context": "Peer adversaries have specifically designed tactics to saturate Aegis defenses",
+      "mitigation": "Layered defense with escorts, improved interceptor missiles, electronic warfare"
+    },
+    {
+      "area": "Signature management",
+      "description": "Large radar cross-section and infrared signature make detection and targeting relatively easy compared to modern stealth designs.",
+      "context": "1970s design predates stealth considerations, making ships visible to modern sensors",
+      "mitigation": "Limited retrofit options; relies on standoff engagement and escort protection"
+    }
+  ],
+  "operational_patterns": {
+    "typical_deployment": "Carrier Strike Group air warfare commander, independent BMD patrol, surface action group flagship",
+    "deployment_length_months": 7,
+    "key_operating_areas": [
+      "Western Pacific",
+      "Persian Gulf",
+      "Mediterranean",
+      "Red Sea"
+    ],
+    "typical_task_group": "CSG with carrier and destroyers, or independent with DDG escorts",
+    "readiness_notes": "Declining availability rates due to aging systems, with typical 60-70% mission-capable rate vs 80%+ target"
+  },
+  "peer_comparisons": [
+    {
+      "platform": "Type 055 Renhai-class destroyer",
+      "country": "China",
+      "relationship": "direct rival",
+      "key_differences": "Type 055 has 112 VLS cells vs 122, but newer design with better stealth, more power generation, and integrated mast. Ticonderoga has mature combat system and decades of operational experience.",
+      "video_angle": "Old warrior vs new challenger - proven Aegis experience vs cutting-edge Chinese naval technology"
+    },
+    {
+      "platform": "Kirov-class battlecruiser",
+      "country": "Russia",
+      "relationship": "original Cold War rival",
+      "key_differences": "Kirov has nuclear propulsion and massive anti-ship missile battery, but only 4 operational hulls vs 22 Ticonderoga. Different design philosophies: Soviet alpha strike vs American air defense.",
+      "video_angle": "Titans of the Cold War - different approaches to naval supremacy and which philosophy proved correct"
+    },
+    {
+      "platform": "Atago-class destroyer",
+      "country": "Japan",
+      "relationship": "allied equivalent",
+      "key_differences": "Modified Arleigh Burke design with Aegis but only 4 hulls and 96 VLS cells. More modern baseline but lacks command facilities and magazine depth of Ticonderoga.",
+      "video_angle": "Allied adaptations - how Japan adapted American technology for their specific defense needs"
+    },
+    {
+      "platform": "Sejong the Great-class destroyer",
+      "country": "South Korea",
+      "relationship": "allied equivalent",
+      "key_differences": "KDX-III has 128 VLS cells and Aegis system, larger than most destroyers but still smaller crew and command facilities than Ticonderoga. More modern sensors but less operational experience.",
+      "video_angle": "Student becomes teacher - how Korean shipbuilding created their own Aegis variant"
+    },
+    {
+      "platform": "Type 45 Daring-class destroyer",
+      "country": "United Kingdom",
+      "relationship": "allied equivalent",
+      "key_differences": "Superior SAMPSON radar for air defense but only 48 VLS cells vs 122. Different design philosophy prioritizing sensor performance over magazine depth.",
+      "video_angle": "Quality vs quantity - British precision engineering vs American magazine depth approach"
+    }
+  ],
+  "search_keywords": [
+    "ticonderoga class",
+    "CG-47",
+    "aegis cruiser",
+    "guided missile cruiser",
+    "SPY-1",
+    "standard missile",
+    "tomahawk cruiser",
+    "baseline 7",
+    "BMD cruiser"
+  ],
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Aerial_port_bow_view_of_USS_Ticonderoga_%28CG-47%29_underway_during_sea_trials_May_1982_DN-SC-84-00167.jpg/1280px-Aerial_port_bow_view_of_USS_Ticonderoga_%28CG-47%29_underway_during_sea_trials_May_1982_DN-SC-84-00167.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Aerial_port_bow_view_of_USS_Ticonderoga_%28CG-47%29_underway_during_sea_trials_May_1982_DN-SC-84-00167.jpg",
+      "width": 3000,
+      "height": 2221,
+      "title": "Aerial port bow view of USS Ticonderoga (CG-47) underway during sea trials May 1982 DN-SC-84-00167.jpg",
+      "description": "An aerial port bow view of the Aegis guided missile cruiser USS TICONDEROGA (CG-47) underway during sea trials in the Gulf of Mexico.",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Bow_view_of_USS_Spruance_%28DD-963%29_and_USS_Ticonderoga_%28CG-47%29_at_Naval_Station_Norfolk_on_8_October_1983_%286397938%29.jpg/1280px-Bow_view_of_USS_Spruance_%28DD-963%29_and_USS_Ticonderoga_%28CG-47%29_at_Naval_Station_Norfolk_on_8_October_1983_%286397938%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/01/Bow_view_of_USS_Spruance_%28DD-963%29_and_USS_Ticonderoga_%28CG-47%29_at_Naval_Station_Norfolk_on_8_October_1983_%286397938%29.jpg",
+      "width": 2840,
+      "height": 1900,
+      "title": "Bow view of USS Spruance (DD-963) and USS Ticonderoga (CG-47) at Naval Station Norfolk on 8 October 1983 (6397938).jpg",
+      "description": "A bow view of the U.S. Navy destroyer USS <i>Spruance</i> (DD-963), left, and the guided missile cruiser USS <i>Ticonderoga</i> (CG-47) moored at the destroyer and submarine piers at Naval Station Nor",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Ticonderoga_CG-47_Phil_Navy_Yard.JPG/1280px-Ticonderoga_CG-47_Phil_Navy_Yard.JPG",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Ticonderoga_CG-47_Phil_Navy_Yard.JPG",
+      "width": 2496,
+      "height": 1664,
+      "title": "Ticonderoga CG-47 Phil Navy Yard.JPG",
+      "description": "USS Ticonderoga at the Philadelphia Naval Shipyard Jan 2008",
+      "license": "CC BY-SA 3.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/USS_Ticonderoga_%28CG-47%29_1985.jpg/1280px-USS_Ticonderoga_%28CG-47%29_1985.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/75/USS_Ticonderoga_%28CG-47%29_1985.jpg",
+      "width": 2840,
+      "height": 1890,
+      "title": "USS Ticonderoga (CG-47) 1985.jpg",
+      "description": "A starboard quarter view of the guided missile destroyer USS Ticonderoga (CG-47) underway in the Atlantic Ocean with the ship's crew manning the rails.",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/USS_Ticonderoga_%28CG-47%29_underway_off_Puerto_Rico_on_9_April_1983_%286379851%29.jpg/1280px-USS_Ticonderoga_%28CG-47%29_underway_off_Puerto_Rico_on_9_April_1983_%286379851%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/3c/USS_Ticonderoga_%28CG-47%29_underway_off_Puerto_Rico_on_9_April_1983_%286379851%29.jpg",
+      "width": 3000,
+      "height": 2216,
+      "title": "USS Ticonderoga (CG-47) underway off Puerto Rico on 9 April 1983 (6379851).jpg",
+      "description": "An aerial port bow view of the U.S. Navy guided missile cruiser USS <i>Ticonderoga</i> (CG-47) underway during <i>Standard II</i> missile tests near the Atlantic Fleet Weapons Training Facility, Roose",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/USS_Ticonderoga_CG-47_COA.png/1280px-USS_Ticonderoga_CG-47_COA.png",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/USS_Ticonderoga_CG-47_COA.png",
+      "width": 2734,
+      "height": 3520,
+      "title": "USS Ticonderoga CG-47 COA.png",
+      "description": "Emblem of the USS Ticonderoga CG-47",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/USS_Ticonderoga_CG-47_just_after_decommissioning.jpg/1280px-USS_Ticonderoga_CG-47_just_after_decommissioning.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/USS_Ticonderoga_CG-47_just_after_decommissioning.jpg",
+      "width": 2560,
+      "height": 1704,
+      "title": "USS Ticonderoga CG-47 just after decommissioning.jpg",
+      "description": "The US Navy (USN) Ticonderoga Class guided missile cruiser USS TICONDEROGA (CG 47), is towed out of Naval Station (NS) Pascagoula, by the ocean tug \"Natalie Colle,\" immediately following the ship's de",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/US_Navy_001212-N-1012K-501_USS_Ticonderoga_%28CG_47%29_underway.jpg/1280px-US_Navy_001212-N-1012K-501_USS_Ticonderoga_%28CG_47%29_underway.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/29/US_Navy_001212-N-1012K-501_USS_Ticonderoga_%28CG_47%29_underway.jpg",
+      "width": 2000,
+      "height": 1312,
+      "title": "US Navy 001212-N-1012K-501 USS Ticonderoga (CG 47) underway.jpg",
+      "description": "Pascagoula, Miss. (Dec. 12, 2000) - The guided missile cruiser USS Ticonderoga (CG 47) gets underway from Ingalls Shipyard in Pascagoula, Miss., for a scheduled deployment. U.S. Navy photo by Photogra",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/The_Ticonderoga-class_cruiser_USS_Chosin_%2814973399964%29.jpg/1280px-The_Ticonderoga-class_cruiser_USS_Chosin_%2814973399964%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/fd/The_Ticonderoga-class_cruiser_USS_Chosin_%2814973399964%29.jpg",
+      "width": 4593,
+      "height": 1735,
+      "title": "The Ticonderoga-class cruiser USS Chosin (14973399964).jpg",
+      "description": "The Ticonderoga-class cruiser USS Chosin",
+      "license": "CC BY 2.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Ticonderoga%2C_Yorktown_and_Thomas_S._Gates_at_Philadelphia.jpg/1280px-Ticonderoga%2C_Yorktown_and_Thomas_S._Gates_at_Philadelphia.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Ticonderoga%2C_Yorktown_and_Thomas_S._Gates_at_Philadelphia.jpg",
+      "width": 3450,
+      "height": 2758,
+      "title": "Ticonderoga, Yorktown and Thomas S. Gates at Philadelphia.jpg",
+      "description": "Three decommissioned U.S. Navy Ticonderoga Class Guided Missile Cruisers ex-Ticonderoga (CG-47),  ex-Yorktown (CG-48) and ex-Thomas S. Gates (CG-51) laid up at Naval Inactive Ships Maintenance Facilit",
+      "license": "CC BY-SA 3.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Ticonderoga_Class_Cruiser_USS_Normandy_%28CG_60%29_--_Atlantic_sunset.jpg/1280px-Ticonderoga_Class_Cruiser_USS_Normandy_%28CG_60%29_--_Atlantic_sunset.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Ticonderoga_Class_Cruiser_USS_Normandy_%28CG_60%29_--_Atlantic_sunset.jpg",
+      "width": 1587,
+      "height": 1029,
+      "title": "Ticonderoga Class Cruiser USS Normandy (CG 60) -- Atlantic sunset.jpg",
+      "description": "The Ticonderoga Class Cruiser USS Normandy (CG 60) steams at sunset in the Atlantic Ocean while operating with the USS George Washington battle group on May 18, 2000. The Normandy, homeported in Norfo",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Ticonderoga_class.png/1280px-Ticonderoga_class.png",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Ticonderoga_class.png",
+      "width": 1605,
+      "height": 391,
+      "title": "Ticonderoga class.png",
+      "description": "CG-47 Ticonderoga Class",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Ticonderoga_class_cruiser_line_drawing_with_weapons_and_sensors_1994.png/1280px-Ticonderoga_class_cruiser_line_drawing_with_weapons_and_sensors_1994.png",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/52/Ticonderoga_class_cruiser_line_drawing_with_weapons_and_sensors_1994.png",
+      "width": 1406,
+      "height": 918,
+      "title": "Ticonderoga class cruiser line drawing with weapons and sensors 1994.png",
+      "description": "Line drawing of a U.S. Navy <i>Ticonderoga</i>-class guided missile cruiser, showing weapons and sensors of the VLS-equipped ships, in 1994.",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/USS_Yorktown_CG-48.png/1280px-USS_Yorktown_CG-48.png",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/d3/USS_Yorktown_CG-48.png",
+      "width": 8000,
+      "height": 2667,
+      "title": "USS Yorktown CG-48.png",
+      "description": "The USS Yorktown, CG-48, is that last remaining Ticonderoga Class Cruiser at the Philadelphia Inactive Ships Maintenance Facility.",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/US_Navy_030903-N-5024R-003_USS_Port_Royal_%28DDG_73%29_departed_on_deployment.jpg/1280px-US_Navy_030903-N-5024R-003_USS_Port_Royal_%28DDG_73%29_departed_on_deployment.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/be/US_Navy_030903-N-5024R-003_USS_Port_Royal_%28DDG_73%29_departed_on_deployment.jpg",
+      "width": 2100,
+      "height": 1500,
+      "title": "US Navy 030903-N-5024R-003 USS Port Royal (DDG 73) departed on deployment.jpg",
+      "description": "Pearl Harbor, Hawaii (Sep. 3, 2003) -- USS Port Royal (CG 73)  departed on deployment as part of Expeditionary Strike Group One (ESG-1). An ESG constitutes a new naval strike force designed to equip a",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/US_Navy_111024-N-BT887-831_The_Royal_Navy_Duke-class_frigate_HMS_St._Albans_%28F_83%29_and_the_Ticonderoga-class_guided-missile_cruiser_USS_Mobile_Bay.jpg/1280px-US_Navy_111024-N-BT887-831_The_Royal_Navy_Duke-class_frigate_HMS_St._Albans_%28F_83%29_and_the_Ticonderoga-class_guided-missile_cruiser_USS_Mobile_Bay.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/US_Navy_111024-N-BT887-831_The_Royal_Navy_Duke-class_frigate_HMS_St._Albans_%28F_83%29_and_the_Ticonderoga-class_guided-missile_cruiser_USS_Mobile_Bay.jpg",
+      "width": 2200,
+      "height": 859,
+      "title": "US Navy 111024-N-BT887-831 The Royal Navy Duke-class frigate HMS St. Albans (F 83) and the Ticonderoga-class guided-missile cruiser USS Mobile Bay.jpg",
+      "description": "ARABIAN SEA (Oct. 24, 2011) The Royal Navy Duke-class frigate HMS St. Albans (F 83) and the Ticonderoga-class guided-missile cruiser USS Mobile Bay (CG 53) pull alongside the Nimitz-class aircraft car",
+      "license": "Public domain",
+      "source": "wikimedia"
+    }
+  ],
+  "doctrine": {
+    "role": "Area air defense command ship designed to establish and maintain air superiority over carrier strike groups and amphibious ready groups through integrated missile defense and battle management.",
+    "employment": "Typically deployed as the air warfare commander (AWC) in carrier strike groups, positioned to maximize radar coverage while maintaining tactical flexibility. Forms the defensive backbone of surface action groups, coordinating with destroyers and frigates to create layered air defense zones. Increasingly tasked with ballistic missile defense missions in forward-deployed postures, particularly in the Western Pacific and Eastern Mediterranean.",
+    "design_philosophy": "Prioritized radar performance and magazine depth over speed and stealth, accepting a large radar cross-section to mount the massive SPY-1 arrays. Sacrificed helicopter facilities and some survivability features to maximize vertical launch system capacity and command facilities. Design emphasized network-centric warfare capabilities and multi-mission flexibility over specialization in any single domain.",
+    "threat_context": "Originally designed to counter Soviet Tu-22M Backfire bombers carrying AS-4 Kitchen anti-ship missiles in coordinated saturation attacks during the Cold War. Today faces more diverse threats including hypersonic missiles, swarming small boat attacks, and integrated anti-access/area-denial systems, while maintaining relevance through software upgrades and missile defense capabilities.",
+    "comparison_frame": "Compare primarily on radar range/discrimination capability and total VLS cells rather than platform speed or stealth characteristics. Magazine depth and multi-mission flexibility matter more than single-domain optimization since both Western and peer navies accept 30+ knot speeds as adequate. Focus on command and control capabilities and upgrade potential rather than raw kinematic performance."
+  },
+  "curated_sources": [
+    {
+      "title": "U.S. Navy Destroyers: An Illustrated Design History by Norman Friedman",
+      "type": "book",
+      "url": "",
+      "relevance": "Provides definitive technical and doctrinal evolution of Aegis system development and Ticonderoga-class design decisions.",
+      "priority": "essential"
+    },
+    {
+      "title": "Navy Aegis Ballistic Missile Defense (BMD) Program by Ronald O'Rourke",
+      "type": "report",
+      "url": "https://crsreports.congress.gov/product/pdf/RL/RL33745",
+      "relevance": "Congressional Research Service report detailing current BMD capabilities and future upgrade plans for Ticonderoga-class cruisers.",
+      "priority": "essential"
+    },
+    {
+      "title": "Center for Strategic and Budgetary Assessments - Distributed Maritime Operations",
+      "type": "report",
+      "url": "https://csbaonline.org/research/publications/distributed-maritime-operations-building-the-foundations-of-multi-domain-naval-warfare",
+      "relevance": "Examines how Ticonderoga-class fits into emerging distributed lethality and multi-domain operations concepts.",
+      "priority": "recommended"
+    },
+    {
+      "title": "HI Sutton - Covert Shores",
+      "type": "analyst",
+      "url": "https://www.hisutton.com/",
+      "relevance": "Independent naval analyst providing detailed technical breakdowns and operational analysis of surface combatant developments.",
+      "priority": "recommended"
+    },
+    {
+      "title": "World Defence Almanac - Ticonderoga Class",
+      "type": "database",
+      "url": "https://www.seaforces.org/usnships/cg/Ticonderoga-class.htm",
+      "relevance": "Comprehensive technical specifications and individual ship histories for all Ticonderoga-class vessels.",
+      "priority": "reference"
+    },
+    {
+      "title": "Naval Doctrine Publication 1: Naval Warfare",
+      "type": "report",
+      "url": "https://www.navy.mil/Resources/doctrine/",
+      "relevance": "Official U.S. Navy doctrinal foundation explaining air warfare commander concepts and integrated air and missile defense.",
+      "priority": "essential"
+    },
+    {
+      "title": "The U.S. Naval Institute Proceedings - Aegis at 40",
+      "type": "article",
+      "url": "https://www.usni.org/magazines/proceedings",
+      "relevance": "Professional naval journal articles examining lessons learned and future evolution of Aegis-equipped platforms.",
+      "priority": "recommended"
+    }
+  ]
+}

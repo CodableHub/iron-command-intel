@@ -1,0 +1,496 @@
+{
+  "id": 38,
+  "slug": "queen-elizabeth-class-carrier",
+  "name": "Queen Elizabeth-class aircraft carrier",
+  "designation": "CVF",
+  "type": "carrier",
+  "country": "United Kingdom",
+  "operator": "Royal Navy",
+  "overview_md": "The Queen Elizabeth-class represents Britain's return to full-spectrum carrier aviation after a decade-long gap following HMS Illustrious' retirement. These 65,000-tonne behemoths are designed around the Short Take-Off and Vertical Landing (STOVL) concept, optimized for F-35B Lightning II operations with a ski-jump configuration rather than catapults and arrestor wires. This design choice reflects both budget constraints and the UK's emphasis on interoperability with the US Marine Corps and other F-35B operators.\n\nStrategically, these carriers project British power globally while serving as the backbone of NATO's European carrier capability. The class embodies a \"carrier-enabled power projection\" philosophy, designed to operate independently or as part of multinational task groups. The innovative twin-island superstructure separates navigation and aviation functions, reducing electromagnetic interference and providing redundancy\u2014a lesson learned from decades of single-island operations.\n\nIn today's threat environment, the Queen Elizabeth-class faces significant challenges. The STOVL-only configuration limits aircraft payload and range compared to CATOBAR carriers, while the lack of organic airborne early warning beyond F-35B sensors creates capability gaps. However, the class excels in expeditionary operations and serves as a crucial NATO asset in an era of renewed great power competition.\n\nCompared to peers like the Ford-class or Charles de Gaulle, the QE-class trades raw capability for operational flexibility and cost-effectiveness. While unable to launch E-2D Hawkeyes or operate at maximum F-35C performance, these carriers can deploy globally with minimal host-nation support and integrate seamlessly with US Marine Corps aviation\u2014a unique capability among NATO carriers.",
+  "specs_json": {
+    "displacement_tonnes": 65000,
+    "length_m": 284,
+    "beam_m": 73,
+    "draft_m": 11,
+    "speed_knots": 25,
+    "range_nm": 10000,
+    "crew": 1600,
+    "propulsion": "CODLAG - 2x Rolls-Royce MT30 gas turbines, 4x W\u00e4rtsil\u00e4 diesels, electric drive",
+    "radar": "BAE Systems Type 997 Artisan 3D",
+    "sonar": null,
+    "combat_system": "BAE Systems CMS-1",
+    "vls_cells": 0,
+    "additional": {
+      "aircraft_capacity": 40,
+      "max_aircraft_surge": 50,
+      "ski_jump_angle_degrees": 12,
+      "flight_deck_area_sqm": 16000,
+      "hangar_area_sqm": 4700,
+      "aviation_fuel_tonnes": 8500,
+      "ordnance_capacity_tonnes": 1000
+    }
+  },
+  "armament_json": [
+    {
+      "category": "CIWS",
+      "name": "Phalanx Block 1B",
+      "type": "close-in weapons system",
+      "quantity": "3x 20mm",
+      "range_km": 3,
+      "notes": "Anti-missile and anti-surface"
+    },
+    {
+      "category": "CIWS",
+      "name": "DS30M Mark 2",
+      "type": "automated small caliber gun",
+      "quantity": "4x 30mm",
+      "range_km": 5,
+      "notes": "Anti-small boat and helicopter"
+    },
+    {
+      "category": "Missiles",
+      "name": "Sea Ceptor (CAMM)",
+      "type": "point defense SAM",
+      "quantity": "24 cells",
+      "range_km": 25,
+      "notes": "Short-range air defense, planned upgrade"
+    },
+    {
+      "category": "Aircraft",
+      "name": "F-35B Lightning II",
+      "type": "multirole fighter",
+      "quantity": "24-36 aircraft",
+      "range_km": 1670,
+      "notes": "Primary fixed-wing aircraft"
+    },
+    {
+      "category": "Aircraft",
+      "name": "AW101 Merlin",
+      "type": "anti-submarine helicopter",
+      "quantity": "4-8 aircraft",
+      "range_km": 1000,
+      "notes": "ASW and utility missions"
+    }
+  ],
+  "variants_json": [
+    {
+      "name": "HMS Queen Elizabeth",
+      "designation_range": "R08",
+      "years": "2017-present",
+      "count": 1,
+      "key_changes": "Initial operational capability configuration, basic defensive systems",
+      "status": "active"
+    },
+    {
+      "name": "HMS Prince of Wales",
+      "designation_range": "R09",
+      "years": "2019-present",
+      "count": 1,
+      "key_changes": "Minor improvements based on QE trials, enhanced communications fit",
+      "status": "active"
+    }
+  ],
+  "fleet_status_json": [
+    {
+      "hull_number": "R08",
+      "name": "HMS Queen Elizabeth",
+      "variant": "CVF",
+      "commissioned": "2017-12-07",
+      "home_port": "Portsmouth, UK",
+      "status": "active"
+    },
+    {
+      "hull_number": "R09",
+      "name": "HMS Prince of Wales",
+      "variant": "CVF",
+      "commissioned": "2019-12-10",
+      "home_port": "Portsmouth, UK",
+      "status": "active"
+    }
+  ],
+  "cost_usd": 4100000000.0,
+  "unit_count": 2,
+  "first_commissioned": "2017-12-07",
+  "builder": "BAE Systems / Thales / Babcock",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ed/HMS_Queen_Elizabeth_and_HMS_Prince_of_Wales_meet_at_sea_for_the_first_time.jpg",
+  "wiki_url": "https://en.wikipedia.org/wiki/Queen_Elizabeth-class_aircraft_carrier",
+  "sources_json": [
+    "https://en.wikipedia.org/wiki/Queen_Elizabeth-class_aircraft_carrier",
+    "https://www.royalnavy.mod.uk/our-organisation/the-fighting-arms/surface-fleet/aircraft-carriers",
+    "https://www.baesystems.com/en/product/queen-elizabeth-class-aircraft-carriers",
+    "https://www.janes.com/",
+    "https://www.navylookout.com/"
+  ],
+  "comparison_tags": [
+    "carrier",
+    "STOVL",
+    "F-35B",
+    "royal-navy",
+    "power-projection",
+    "NATO",
+    "ski-jump"
+  ],
+  "created_at": "2026-04-10 20:05:11",
+  "updated_at": "2026-04-10T20:05:11.419040",
+  "news": [],
+  "events": [],
+  "ic_coverage": [],
+  "combat_history": [
+    {
+      "date": "2021",
+      "operation": "Operation Fortis (CSG21)",
+      "event": "HMS Queen Elizabeth led UK Carrier Strike Group on maiden operational deployment through Mediterranean, Indian Ocean, and Indo-Pacific. First operational F-35B missions from UK carrier.",
+      "significance": "Demonstrated UK power projection capability and F-35B operational effectiveness in high-threat environments"
+    },
+    {
+      "date": "2022",
+      "operation": "NATO exercises",
+      "event": "Both carriers participated in major NATO exercises with US Marine Corps F-35Bs embarked, validating interoperability concepts.",
+      "significance": "Proved the carriers can effectively integrate USMC aviation, multiplying NATO's carrier capability"
+    },
+    {
+      "date": "2022-11",
+      "operation": null,
+      "event": "HMS Prince of Wales suffered starboard shaft coupling failure departing for US deployment, requiring extended repairs.",
+      "significance": "Highlighted mechanical reliability concerns with the complex CODLAG propulsion system"
+    }
+  ],
+  "modernization": [
+    {
+      "program": "Sea Ceptor Integration",
+      "status": "planned",
+      "timeline": "2024-2026",
+      "description": "Installation of CAMM Sea Ceptor point defense missiles to address air defense gap. 24 cells planned per ship.",
+      "impact": "Provides organic point defense capability currently lacking, reducing reliance on escort vessels"
+    },
+    {
+      "program": "Crowsnest AEW&C",
+      "status": "in-progress",
+      "timeline": "2023-2025",
+      "description": "AW101 Merlin helicopters fitted with Thales Searchwater radar for airborne early warning.",
+      "impact": "Addresses critical AEW gap, though range and endurance remain limited vs fixed-wing platforms"
+    },
+    {
+      "program": "F-35B Full Capability",
+      "status": "in-progress",
+      "timeline": "2023-2028",
+      "description": "Achieving full squadron strength of F-35B aircraft and expanding weapons integration.",
+      "impact": "Transforms carriers from limited capability to full multi-role power projection platforms"
+    }
+  ],
+  "vulnerabilities": [
+    {
+      "area": "Airborne Early Warning",
+      "description": "Crowsnest helicopter-based AEW provides significantly less coverage and endurance than fixed-wing E-2 Hawkeye systems on CATOBAR carriers.",
+      "context": "Against peer adversaries with long-range anti-ship missiles, early warning gaps could prove fatal",
+      "mitigation": "Crowsnest integration ongoing, but fundamental physics limitations remain vs fixed-wing AEW"
+    },
+    {
+      "area": "Aircraft Payload/Range",
+      "description": "STOVL F-35B operations limit aircraft payload and range compared to conventional takeoff F-35C operations.",
+      "context": "Reduces strike radius and weapons load in high-threat environments where standoff is critical",
+      "mitigation": "No viable mitigation without fundamental design change to CATOBAR configuration"
+    },
+    {
+      "area": "Propulsion Reliability",
+      "description": "Complex CODLAG propulsion system has shown reliability issues, as demonstrated by HMS Prince of Wales' shaft coupling failure.",
+      "context": "Single-point failures can remove entire carrier from operations for months",
+      "mitigation": "Enhanced maintenance protocols and spare parts stockage, but fundamental complexity remains"
+    },
+    {
+      "area": "Air Defense",
+      "description": "Currently limited to CIWS with no medium-range SAM capability until Sea Ceptor installation.",
+      "context": "Vulnerable to saturation attacks by anti-ship missiles or drones",
+      "mitigation": "Sea Ceptor installation planned, but still relies heavily on escort vessels for area defense"
+    }
+  ],
+  "operational_patterns": {
+    "typical_deployment": "Carrier Strike Group leader with Type 45 destroyers, Type 23/26 frigates, nuclear submarine, and RFA support vessels",
+    "deployment_length_months": 8,
+    "key_operating_areas": [
+      "North Atlantic",
+      "Mediterranean",
+      "Indo-Pacific",
+      "Arabian Gulf"
+    ],
+    "typical_task_group": "UK Carrier Strike Group or integrated with allied task groups",
+    "readiness_notes": "One carrier typically available for operations while other in maintenance/training cycle. F-35B squadron strength still building to full capability."
+  },
+  "peer_comparisons": [
+    {
+      "platform": "Gerald R. Ford-class",
+      "country": "United States",
+      "relationship": "allied equivalent",
+      "key_differences": "Ford-class offers superior aircraft capacity, CATOBAR operations enable E-2D AEW and greater F-35C payload/range. QE-class trades raw capability for lower cost and global deployability without host nation support.",
+      "video_angle": "CATOBAR vs STOVL: Why Britain chose ski-jumps over catapults"
+    },
+    {
+      "platform": "Charles de Gaulle",
+      "country": "France",
+      "relationship": "allied equivalent",
+      "key_differences": "CdG operates Rafale M and E-2C via CATOBAR but is much smaller (42,000 tons). Nuclear propulsion provides unlimited range but requires extensive maintenance periods. QE-class offers greater surge capacity.",
+      "video_angle": "Europe's carrier showdown: Nuclear vs conventional, CATOBAR vs STOVL"
+    },
+    {
+      "platform": "Liaoning/Shandong-class",
+      "country": "China",
+      "relationship": "direct rival",
+      "key_differences": "Chinese carriers use J-15 fighters via ski-jump but are larger and carry more aircraft. Lack of fifth-generation aircraft currently gives QE-class qualitative edge. Chinese carriers optimized for regional operations vs global deployment.",
+      "video_angle": "Fifth-generation advantage: F-35B vs J-15 in carrier aviation"
+    },
+    {
+      "platform": "INS Vikrant",
+      "country": "India",
+      "relationship": "comparable capability",
+      "key_differences": "Similar STOBAR configuration but operates MiG-29K fighters. Smaller size and conventional aircraft limit capability vs F-35B equipped QE-class. Both represent mid-tier carrier powers.",
+      "video_angle": "Middle power carriers: Comparing India and UK's carrier ambitions"
+    },
+    {
+      "platform": "JS Kaga (converted)",
+      "country": "Japan",
+      "relationship": "allied equivalent",
+      "key_differences": "Smaller converted helicopter destroyer now operating F-35B. More limited capability but represents Japan's return to fixed-wing carrier aviation. Both use F-35B for allied interoperability.",
+      "video_angle": "F-35B diplomacy: How STOVL creates new alliance opportunities"
+    }
+  ],
+  "search_keywords": [
+    "queen elizabeth class",
+    "HMS Queen Elizabeth",
+    "HMS Prince of Wales",
+    "CVF",
+    "R08",
+    "R09",
+    "UK carrier",
+    "British carrier",
+    "F-35B carrier",
+    "STOVL carrier",
+    "ski jump carrier"
+  ],
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/aa/A_computer_graphic_of_the_Queen_Elizabeth_carrier_and_carrier_group.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/aa/A_computer_graphic_of_the_Queen_Elizabeth_carrier_and_carrier_group.jpg",
+      "width": 953,
+      "height": 517,
+      "title": "A computer graphic of the Queen Elizabeth carrier and carrier group.jpg",
+      "description": "A computer graphic of the planned carrier group of the Royal Navy made up of HMS <i>Queen Elizabeth</i> and her escorts",
+      "license": "OGL v1.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/HMS_Queen_Elizabeth_and_HMS_Prince_of_Wales_meet_at_sea_for_the_first_time.jpg/1280px-HMS_Queen_Elizabeth_and_HMS_Prince_of_Wales_meet_at_sea_for_the_first_time.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/ed/HMS_Queen_Elizabeth_and_HMS_Prince_of_Wales_meet_at_sea_for_the_first_time.jpg",
+      "width": 1500,
+      "height": 1000,
+      "title": "HMS Queen Elizabeth and HMS Prince of Wales meet at sea for the first time.jpg",
+      "description": "HMS Prince of Wales and HMS Queen Elizabeth pictured at sea for the first time.Wednesday 19 May 2021 saw a historic moment in Britain\u2019s carrier renaissance as HMS Queen Elizabeth and HMS Prince of Wal",
+      "license": "OGL 3",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Mojave_UAV_HMS_Prince_of_Wales.jpg/1280px-Mojave_UAV_HMS_Prince_of_Wales.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/89/Mojave_UAV_HMS_Prince_of_Wales.jpg",
+      "width": 3597,
+      "height": 2398,
+      "title": "Mojave UAV HMS Prince of Wales.jpg",
+      "description": "Image of the Mojave unmanned aerial vehicle (UAV), seen here on the flight deck of HMS Prince of Wales.On 15th November 2023, Codenamed\u201cMojave\u201d, the specially modified remotely piloted aircraft succes",
+      "license": "OGL v1.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Queen_Elizabeth_Class_Aircraft_Carrier_Aft_Island_Assembly.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Queen_Elizabeth_Class_Aircraft_Carrier_Aft_Island_Assembly.jpg",
+      "width": 1024,
+      "height": 683,
+      "title": "Queen Elizabeth Class Aircraft Carrier Aft Island Assembly.jpg",
+      "description": "Queen Elizabeth Class Aircraft Carrier Aft Island Assembly",
+      "license": "CC BY 2.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/85/Queen_Elizabeth_aircraft_carrier.png",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/85/Queen_Elizabeth_aircraft_carrier.png",
+      "width": 725,
+      "height": 405,
+      "title": "Queen Elizabeth aircraft carrier.png",
+      "description": "Plan views of the British Queen Elizabeth aircraft carrier",
+      "license": "CC BY-SA 3.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/10/Queen_Elizabeth_class_silhouette.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/10/Queen_Elizabeth_class_silhouette.jpg",
+      "width": 692,
+      "height": 182,
+      "title": "Queen Elizabeth class silhouette.jpg",
+      "description": "Queen Elizabeth class aircraft carrier silhouette",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/The_forward_island_of_the_queen_elizabeth_class_aircraft_carrier_being_attached_to_the_main_body_of_the_carrier.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/The_forward_island_of_the_queen_elizabeth_class_aircraft_carrier_being_attached_to_the_main_body_of_the_carrier.jpg",
+      "width": 960,
+      "height": 720,
+      "title": "The forward island of the queen elizabeth class aircraft carrier being attached to the main body of the carrier.jpg",
+      "description": "the forward island of the queen elizabeth class aircraft carrier being attached to the main body of the carrier",
+      "license": "CC BY-SA 3.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/UKCSG21.jpg/1280px-UKCSG21.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/UKCSG21.jpg",
+      "width": 5548,
+      "height": 3699,
+      "title": "UKCSG21.jpg",
+      "description": "USS The Sullivans bids farewell to CSG21Pictured: From front to back are HMS Queen Elizabeth, HMS Defender, HMS Richmond, HNLMS Evertsen, RFA Tidespring and RFA Fort Victoria in formation ready to wav",
+      "license": "OGL v1.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/HMS_Prince_of_Wales_%2853606072619%29.jpg/1280px-HMS_Prince_of_Wales_%2853606072619%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/67/HMS_Prince_of_Wales_%2853606072619%29.jpg",
+      "width": 5882,
+      "height": 3921,
+      "title": "HMS Prince of Wales (53606072619).jpg",
+      "description": "HMS Prince of Wales in Rotterdam, March 2024",
+      "license": "CC BY-SA 2.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/HMS_Prince_of_Wales_%28R09%29_depart_Forth_for_initial_sea_trials_-_19.jpg/1280px-HMS_Prince_of_Wales_%28R09%29_depart_Forth_for_initial_sea_trials_-_19.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/73/HMS_Prince_of_Wales_%28R09%29_depart_Forth_for_initial_sea_trials_-_19.jpg",
+      "width": 3600,
+      "height": 2400,
+      "title": "HMS Prince of Wales (R09) depart Forth for initial sea trials - 19.jpg",
+      "description": "Britains newest aircraft carrier, Prince of Wales, has sailed from Rosyth Dockyard for the very first time. Eight years after her steel was cut, the 65000 tonne warship will head under the iconic Fort",
+      "license": "OGL v1.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/HMS_Prince_of_Wales_%28R09%29_sets_sail_for_the_first_time_-_20.jpg/1280px-HMS_Prince_of_Wales_%28R09%29_sets_sail_for_the_first_time_-_20.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/HMS_Prince_of_Wales_%28R09%29_sets_sail_for_the_first_time_-_20.jpg",
+      "width": 3526,
+      "height": 1983,
+      "title": "HMS Prince of Wales (R09) sets sail for the first time - 20.jpg",
+      "description": "Image of HMS Prince Of Wales leaving Rosyth Dock Yard for sea trials today (19/09/2019).Britain\u2019s newest aircraft carrier, HMS Prince of Wales, has sailed from Rosyth Dockyard for the first time.Eight",
+      "license": "OGL v1.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/HMS_Prince_of_Wales_%28R09%29_sets_sail_for_the_first_time_-_21.jpg/1280px-HMS_Prince_of_Wales_%28R09%29_sets_sail_for_the_first_time_-_21.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/a8/HMS_Prince_of_Wales_%28R09%29_sets_sail_for_the_first_time_-_21.jpg",
+      "width": 3600,
+      "height": 2400,
+      "title": "HMS Prince of Wales (R09) sets sail for the first time - 21.jpg",
+      "description": "Image of HMS Prince Of Wales leaving Rosyth Dock Yard for sea trials today (19/09/2019).Britain\u2019s newest aircraft carrier, HMS Prince of Wales, has sailed from Rosyth Dockyard for the first time.Eight",
+      "license": "OGL v1.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/HMS_Prince_of_Wales_%28R09%29_sets_sail_for_the_first_time_-_22.jpg/1280px-HMS_Prince_of_Wales_%28R09%29_sets_sail_for_the_first_time_-_22.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/HMS_Prince_of_Wales_%28R09%29_sets_sail_for_the_first_time_-_22.jpg",
+      "width": 4911,
+      "height": 3274,
+      "title": "HMS Prince of Wales (R09) sets sail for the first time - 22.jpg",
+      "description": "Image of HMS Prince Of Wales leaving Rosyth Dock Yard for sea trials today (19/09/2019).Britain\u2019s newest aircraft carrier, HMS Prince of Wales, has sailed from Rosyth Dockyard for the first time.Eight",
+      "license": "OGL v1.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/HMS_Prince_of_Wales_%28R09%29_sets_sail_for_the_first_time_-_4.jpg/1280px-HMS_Prince_of_Wales_%28R09%29_sets_sail_for_the_first_time_-_4.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/6e/HMS_Prince_of_Wales_%28R09%29_sets_sail_for_the_first_time_-_4.jpg",
+      "width": 5472,
+      "height": 3648,
+      "title": "HMS Prince of Wales (R09) sets sail for the first time - 4.jpg",
+      "description": "Image of HMS Prince Of Wales leaving Rosyth Dock Yard for sea trials.Britain\u2019s newest aircraft carrier, HMS Prince of Wales, has sailed from Rosyth Dockyard for the first time.Eight years after her fi",
+      "license": "OGL v1.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/HMS_Prince_of_Wales_%28R09%29_sets_sail_for_the_first_time_-_7.jpg/1280px-HMS_Prince_of_Wales_%28R09%29_sets_sail_for_the_first_time_-_7.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/1d/HMS_Prince_of_Wales_%28R09%29_sets_sail_for_the_first_time_-_7.jpg",
+      "width": 5176,
+      "height": 3432,
+      "title": "HMS Prince of Wales (R09) sets sail for the first time - 7.jpg",
+      "description": "Britain\u2019s newest aircraft carrier, HMS Prince of Wales, has sailed from Rosyth Dockyard for the first time.Eight years after her first steel was cut, the 65,000 tonne warship will head under the iconi",
+      "license": "OGL v1.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/HMS_Prince_of_Wales_-_geograph.org.uk_-_6372625.jpg/1280px-HMS_Prince_of_Wales_-_geograph.org.uk_-_6372625.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/HMS_Prince_of_Wales_-_geograph.org.uk_-_6372625.jpg",
+      "width": 4160,
+      "height": 3120,
+      "title": "HMS Prince of Wales - geograph.org.uk - 6372625.jpg",
+      "description": "HMS Prince of Wales\u00a0<span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"//commons.wikimedia.org/wiki/File:HMS_Prince_of_Wales_-_geograph.org.uk_-_6372625.jpg#ooui-php-4\" title",
+      "license": "CC BY-SA 2.0",
+      "source": "wikimedia"
+    }
+  ],
+  "doctrine": {
+    "role": "Expeditionary power projection and sea control to maintain Britain's global maritime influence in the absence of permanent overseas bases, serving as the cornerstone of a 'Global Britain' strategy that projects sovereign capability worldwide.",
+    "employment": "Operates as the centerpiece of a Carrier Strike Group (CSG) alongside Type 45 destroyers, Type 23/26 frigates, and Astute-class submarines, with embarked Royal Marines for amphibious operations. Typical deployments involve 6-9 month global tours combining high-end warfighting exercises with ally reassurance and freedom of navigation operations. Command structure integrates closely with US Navy carrier groups and NATO maritime task forces, reflecting the UK's role as a 'tier one' military partner. The ship typically embarks 12-24 F-35Bs depending on mission requirements, with surge capacity for larger air wings.",
+    "design_philosophy": "Prioritized affordability and political sustainability over raw capability, accepting STOVL limitations to avoid the cost and complexity of catapult systems. Sacrificed aircraft performance and sortie generation rates for lower through-life costs and easier pilot training pipelines shared with the RAF and USMC. The design emphasized modularity and adaptability over specialization, allowing the ship to serve in roles from high-intensity warfare to humanitarian assistance.",
+    "threat_context": "Designed primarily for expeditionary operations against regional powers lacking sophisticated anti-access capabilities, but has been upgraded with enhanced electronic warfare and defensive systems as great power competition intensified. The original threat model assumed permissive or contested environments rather than the high-end anti-ship missile threats now posed by China and Russia. Current modifications focus on survivability improvements and integration with broader NATO missile defense networks.",
+    "comparison_frame": "Compare primarily on strategic reach and allied integration rather than raw sortie rates\u2014both Queen Elizabeth and Charles de Gaulle sacrifice some efficiency for operational flexibility. Aviation capacity matters more than aircraft performance given STOVL limitations across all operators. Focus on cost-per-deployment and sustainment rather than peak capability, as these ships compete more with amphibious assault ships than supercarriers in most scenarios."
+  },
+  "curated_sources": [
+    {
+      "title": "British Carrier Aviation: The Evolution of the Ships and Their Aircraft",
+      "type": "book",
+      "url": "",
+      "relevance": "Friedman provides essential technical and doctrinal context for understanding how the Queen Elizabeth class fits into the broader evolution of Royal Navy carrier doctrine.",
+      "priority": "essential"
+    },
+    {
+      "title": "Carrier Strike: The Evolution of the Ships and Their Aircraft",
+      "type": "book",
+      "url": "",
+      "relevance": "Comprehensive analysis of modern carrier operations and design trade-offs, with specific coverage of STOVL vs CATOBAR decisions.",
+      "priority": "recommended"
+    },
+    {
+      "title": "Future Maritime Aviation Force: Assessing the Queen Elizabeth Class Aircraft Carriers",
+      "type": "report",
+      "url": "https://rusi.org/explore-our-research/publications/commentary/future-maritime-aviation-force-assessing-queen-elizabeth-class-aircraft-carriers",
+      "relevance": "RUSI analysis of the strategic rationale and operational concepts for the Queen Elizabeth class within UK defense planning.",
+      "priority": "essential"
+    },
+    {
+      "title": "The Queen Elizabeth Class Aircraft Carriers: A Capability and Industrial Assessment",
+      "type": "report",
+      "url": "https://www.csis.org/analysis/queen-elizabeth-class-aircraft-carriers-capability-and-industrial-assessment",
+      "relevance": "CSIS evaluation of the industrial and strategic implications of the UK's return to carrier aviation.",
+      "priority": "recommended"
+    },
+    {
+      "title": "Royal United Services Institute (RUSI) Naval Analysis",
+      "type": "analyst",
+      "url": "https://rusi.org/explore-our-research/subjects/sea-power",
+      "relevance": "Leading source for ongoing analysis of Royal Navy operations and strategic developments affecting carrier operations.",
+      "priority": "essential"
+    },
+    {
+      "title": "Save the Royal Navy",
+      "type": "analyst",
+      "url": "https://www.savetheroyalnavy.org/",
+      "relevance": "Detailed technical analysis and operational updates on Queen Elizabeth class operations and modifications.",
+      "priority": "recommended"
+    },
+    {
+      "title": "Queen Elizabeth Class - Royal Navy",
+      "type": "database",
+      "url": "https://www.seaforces.org/marint/Royal-Navy/Aircraft-Carrier/Queen-Elizabeth-class.htm",
+      "relevance": "Comprehensive technical specifications and modification tracking for the Queen Elizabeth class carriers.",
+      "priority": "reference"
+    },
+    {
+      "title": "JDP 0-30: UK Maritime Power",
+      "type": "report",
+      "url": "https://www.gov.uk/government/publications/jdp-0-30-uk-maritime-power",
+      "relevance": "Official UK doctrinal publication outlining how carrier strike groups fit into broader maritime strategy and joint operations.",
+      "priority": "essential"
+    }
+  ]
+}

@@ -1,0 +1,344 @@
+{
+  "combat_history": [
+    {
+      "date": "2022-10",
+      "operation": "NATO Exercise",
+      "event": "USS Gerald R. Ford conducted first operational deployment to Norwegian Sea, demonstrating EMALS capability in North Atlantic conditions with F/A-18E/F operations",
+      "significance": "First combat-ready deployment proving system integration after years of technical problems"
+    },
+    {
+      "date": "2023-05",
+      "operation": "Mediterranean Deployment",
+      "event": "CVN-78 operated in Eastern Mediterranean with full air wing, conducting sustained flight operations and demonstrating improved sortie generation rates",
+      "significance": "Validated higher operational tempo capabilities versus Nimitz class under operational conditions"
+    }
+  ],
+  "modernization": [
+    {
+      "program": "EMALS Reliability Improvement",
+      "status": "in-progress",
+      "timeline": "2019-2025",
+      "description": "Software updates and component reliability improvements to achieve 4,166 MTBF target for electromagnetic catapults",
+      "impact": "Critical for achieving required sortie generation rates"
+    },
+    {
+      "program": "Laser Weapon System Integration",
+      "status": "planned",
+      "timeline": "2025-2030",
+      "description": "Integration of directed energy weapons leveraging Ford-class electrical power generation capacity",
+      "impact": "Would provide advanced CIWS capability against UAV swarms and missiles"
+    },
+    {
+      "program": "Advanced Weapons Elevator Fixes",
+      "status": "completed",
+      "timeline": "2019-2021",
+      "description": "Software integration and mechanical reliability improvements for 11 advanced weapons elevators",
+      "impact": "Restored weapons handling capability to design specifications"
+    },
+    {
+      "program": "Dual-Band Radar Optimization",
+      "status": "in-progress",
+      "timeline": "2020-2026",
+      "description": "Software improvements to AN/SPY-3/SPY-4 integration and performance optimization",
+      "impact": "Improved air traffic control and threat detection in high-density airspace"
+    }
+  ],
+  "vulnerabilities": [
+    {
+      "area": "EMALS Reliability",
+      "description": "Electromagnetic catapults still suffer reliability issues below design specifications, with higher failure rates than steam catapults",
+      "context": "Could limit sortie generation rates during sustained combat operations against peer adversaries",
+      "mitigation": "Ongoing reliability improvements and operator training programs"
+    },
+    {
+      "area": "Cost and Complexity",
+      "description": "Extreme unit cost ($13.8B) and system complexity limit fleet size and create single points of failure",
+      "context": "Only 4 planned units versus 10 Nimitz-class carriers, creating capability gaps during maintenance cycles",
+      "mitigation": "Life extension of Nimitz-class and potential future carrier class"
+    },
+    {
+      "area": "Electromagnetic Signature",
+      "description": "Massive electrical power generation and EMALS operations create significant electromagnetic emissions",
+      "context": "Potentially detectable by advanced ESM systems at extended ranges, compromising stealth approach",
+      "mitigation": "Electromagnetic signature management measures under development"
+    },
+    {
+      "area": "Crew Reduction Risk",
+      "description": "25% crew reduction may impact damage control and sustained operations capability",
+      "context": "Fewer personnel available for damage control during combat operations versus Nimitz-class",
+      "mitigation": "Enhanced automation and damage control systems partially offset crew reduction"
+    }
+  ],
+  "operational_patterns": {
+    "typical_deployment": "Carrier Strike Group centerpiece with guided-missile cruiser, 2-3 destroyers, attack submarine, and supply ship",
+    "deployment_length_months": 9,
+    "key_operating_areas": [
+      "Western Pacific",
+      "Mediterranean",
+      "North Atlantic",
+      "Persian Gulf"
+    ],
+    "typical_task_group": "Carrier Strike Group (CSG) with Ticonderoga-class cruiser and Arleigh Burke-class destroyers",
+    "readiness_notes": "Extended maintenance periods due to system complexity; EMALS requires specialized shore-based training facilities"
+  },
+  "peer_comparisons": [
+    {
+      "platform": "Type 003 Fujian",
+      "country": "China",
+      "relationship": "direct rival",
+      "key_differences": "Fujian uses EMALS but conventional propulsion; smaller capacity (~80,000 tons) with steam turbines versus nuclear power. Ford has superior electrical power generation but higher cost.",
+      "video_angle": "EMALS showdown: Nuclear supercarrier versus conventional power - which approach wins?"
+    },
+    {
+      "platform": "Queen Elizabeth-class",
+      "country": "United Kingdom",
+      "relationship": "allied equivalent",
+      "key_differences": "UK carriers use ski-jump with F-35B STOVL versus catapult launch; much smaller (65,000 tons) but lower cost and complexity. Ford optimized for strike missions, QE for sea control.",
+      "video_angle": "Catapults vs ski-jump: Different philosophies for carrier aviation in the 21st century"
+    },
+    {
+      "platform": "Charles de Gaulle",
+      "country": "France",
+      "relationship": "allied predecessor",
+      "key_differences": "French carrier is nuclear but much smaller (42,000 tons) with steam catapults. Ford represents scale and capability leap but at extreme cost premium.",
+      "video_angle": "Nuclear carrier evolution: From French proof-of-concept to American supercarrier"
+    },
+    {
+      "platform": "Liaoning/Shandong-class",
+      "country": "China",
+      "relationship": "predecessor rival",
+      "key_differences": "Chinese carriers use ski-jump launch limiting aircraft payload/range; conventional propulsion requires refueling. Ford has massive capability advantage but China has numbers.",
+      "video_angle": "Quality versus quantity: US supercarrier technology versus Chinese carrier mass production"
+    },
+    {
+      "platform": "Admiral Kuznetsov",
+      "country": "Russia",
+      "relationship": "predecessor rival",
+      "key_differences": "Russian carrier plagued by reliability issues, limited air wing, conventional propulsion. Ford represents technological generation gap in naval aviation capability.",
+      "video_angle": "Supercarrier versus heavy aircraft-carrying cruiser: Why design philosophy matters"
+    }
+  ],
+  "search_keywords": [
+    "gerald r ford",
+    "CVN-78",
+    "CVN 78",
+    "ford class",
+    "ford-class",
+    "EMALS",
+    "electromagnetic catapult",
+    "A1B reactor",
+    "advanced arresting gear",
+    "AAG",
+    "dual band radar"
+  ],
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Turkish_Navy_S-70_lands_on_the_flight_deck_USS_Gerald_R._Ford_%28CVN_78%29.jpg/1280px-Turkish_Navy_S-70_lands_on_the_flight_deck_USS_Gerald_R._Ford_%28CVN_78%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Turkish_Navy_S-70_lands_on_the_flight_deck_USS_Gerald_R._Ford_%28CVN_78%29.jpg",
+      "width": 3773,
+      "height": 2338,
+      "title": "Turkish Navy S-70 lands on the flight deck USS Gerald R. Ford (CVN 78).jpg",
+      "description": "A Turkish Navy S-70 prepares to land on the flight deck of the world\u00e2\u20ac\u2122s largest aircraft carrier USS Gerald R. Ford (CVN 78) for a tour, Aug. 21, 2023. Gerald R. Ford is the U.S. Navy's newest and mo",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/USS_Gerald_R._Ford_%28CVN-78%29_USS_Dwight_D._Eisenhower_%28CVN-69%29_3_November_2023.png/1280px-USS_Gerald_R._Ford_%28CVN-78%29_USS_Dwight_D._Eisenhower_%28CVN-69%29_3_November_2023.png",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/99/USS_Gerald_R._Ford_%28CVN-78%29_USS_Dwight_D._Eisenhower_%28CVN-69%29_3_November_2023.png",
+      "width": 1710,
+      "height": 970,
+      "title": "USS Gerald R. Ford (CVN-78) USS Dwight D. Eisenhower (CVN-69) 3 November 2023.png",
+      "description": "The United States Navy aircraft carriers USS Gerald R. Ford (CVN-78) (foreground) and USS Dwight D. Eisenhower (CVN-69) on 3 November 2023.",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/7a/USS_Gerald_R._Ford_%28CVN-78%29_crest.png",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/7a/USS_Gerald_R._Ford_%28CVN-78%29_crest.png",
+      "width": 960,
+      "height": 960,
+      "title": "USS Gerald R. Ford (CVN-78) crest.png",
+      "description": "The <a href=\"https://en.wikipedia.org/wiki/USS_Gerald_R._Ford_(CVN-78)\" class=\"extiw\" title=\"en:USS Gerald R. Ford (CVN-78)\">USS <i>Gerald R. Ford</i> (CVN-78)</a> ship's crest.",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/USS_Gerald_R._Ford_%28CVN-78%29_in_dry_dock_front_view_2013.JPG/1280px-USS_Gerald_R._Ford_%28CVN-78%29_in_dry_dock_front_view_2013.JPG",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/b0/USS_Gerald_R._Ford_%28CVN-78%29_in_dry_dock_front_view_2013.JPG",
+      "width": 3000,
+      "height": 2002,
+      "title": "USS Gerald R. Ford (CVN-78) in dry dock front view 2013.JPG",
+      "description": "Newport News Shipbuilding begins flooding Dry Dock 12 to float the aircraft carrier USS <i>Gerald R. Ford</i> (CVN-78).",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/USS_Gerald_R._Ford_%28CVN-78%29_underway_in_the_Atlantic_Ocean_on_9_October_2022_%28221009-N-TL968-1248%29.JPG/1280px-USS_Gerald_R._Ford_%28CVN-78%29_underway_in_the_Atlantic_Ocean_on_9_October_2022_%28221009-N-TL968-1248%29.JPG",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/52/USS_Gerald_R._Ford_%28CVN-78%29_underway_in_the_Atlantic_Ocean_on_9_October_2022_%28221009-N-TL968-1248%29.JPG",
+      "width": 4322,
+      "height": 2880,
+      "title": "USS Gerald R. Ford (CVN-78) underway in the Atlantic Ocean on 9 October 2022 (221009-N-TL968-1248).JPG",
+      "description": "The U.S. Navy aircraft carrier USS <i>Gerald R. Ford</i> (CVN-78) steams the Atlantic Ocean during a simulated straits transit with the <i>Gerald R. Ford</i> Carrier Strike Group (GRFCSG) in the Atlan",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/USS_Gerald_R._Ford_%28CVN_78%29_shock_ttrial_1.jpg/1280px-USS_Gerald_R._Ford_%28CVN_78%29_shock_ttrial_1.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/fb/USS_Gerald_R._Ford_%28CVN_78%29_shock_ttrial_1.jpg",
+      "width": 4062,
+      "height": 2901,
+      "title": "USS Gerald R. Ford (CVN 78) shock ttrial 1.jpg",
+      "description": "The aircraft carrier USS Gerald R. Ford (CVN 78) successfully completes the third and final scheduled explosive event of Full Ship Shock Trials while underway in the Atlantic Ocean, Aug. 8, 2021. The ",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/USS_Gerald_R_Ford_%28CVN_78%29_Arrives_in_Marseille%2C_France_%289236254%29.jpg/1280px-USS_Gerald_R_Ford_%28CVN_78%29_Arrives_in_Marseille%2C_France_%289236254%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/21/USS_Gerald_R_Ford_%28CVN_78%29_Arrives_in_Marseille%2C_France_%289236254%29.jpg",
+      "width": 5866,
+      "height": 3911,
+      "title": "USS Gerald R Ford (CVN 78) Arrives in Marseille, France (9236254).jpg",
+      "description": "The world's largest aircraft carrier, USS Gerald R. Ford (CVN 78), arrives in Marseille, France, Aug. 4, 2025. Gerald R. Ford, a first-in-class aircraft carrier and deployed flagship of Carrier Strike",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/USS_Gerald_R_Ford_%28CVN_78%29_Arrives_in_Marseille%2C_France_%289236255%29.jpg/1280px-USS_Gerald_R_Ford_%28CVN_78%29_Arrives_in_Marseille%2C_France_%289236255%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/00/USS_Gerald_R_Ford_%28CVN_78%29_Arrives_in_Marseille%2C_France_%289236255%29.jpg",
+      "width": 5438,
+      "height": 3625,
+      "title": "USS Gerald R Ford (CVN 78) Arrives in Marseille, France (9236255).jpg",
+      "description": "The world's largest aircraft carrier, USS Gerald R. Ford (CVN 78), arrives in Marseille, France for a port visit, Aug. 4th, 2025. Gerald R. Ford, a first-in-class aircraft carrier and deployed flagshi",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/A_3D_graphic_of_aircraft_carrier_Gerald_R._Ford._%288414176488%29.jpg/1280px-A_3D_graphic_of_aircraft_carrier_Gerald_R._Ford._%288414176488%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/A_3D_graphic_of_aircraft_carrier_Gerald_R._Ford._%288414176488%29.jpg",
+      "width": 3000,
+      "height": 1500,
+      "title": "A 3D graphic of aircraft carrier Gerald R. Ford. (8414176488).jpg",
+      "description": "<p>WASHINGTON (May 12, 2012) A design rendering of the nuclear-powered, aircraft carrier Gerald R. Ford (CVN 78). Gerald R. Ford is the first in a class of new carriers to be built by Huntington Ingal",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Ford_class.png/1280px-Ford_class.png",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Ford_class.png",
+      "width": 5817,
+      "height": 1170,
+      "title": "Ford class.png",
+      "description": "CVN Ford Class",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Sailors_man_the_rails_of_the_aircraft_carrier_USS_Gerald_R._Ford_%28CVN_78%29_during_its_commissioning_ceremony_%2835702679750%29.jpg/1280px-Sailors_man_the_rails_of_the_aircraft_carrier_USS_Gerald_R._Ford_%28CVN_78%29_during_its_commissioning_ceremony_%2835702679750%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Sailors_man_the_rails_of_the_aircraft_carrier_USS_Gerald_R._Ford_%28CVN_78%29_during_its_commissioning_ceremony_%2835702679750%29.jpg",
+      "width": 7360,
+      "height": 4912,
+      "title": "Sailors man the rails of the aircraft carrier USS Gerald R. Ford (CVN 78) during its commissioning ceremony (35702679750).jpg",
+      "description": "<p>170722-N-WS581-072\n</p>\nNORFOLK (July 22, 2017) Sailors man the rails of the aircraft carrier USS Gerald R. Ford (CVN 78) during its commissioning ceremony at Naval Station Norfolk, Va. Ford is the",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Sailors_man_the_rails_of_the_aircraft_carrier_USS_Gerald_R._Ford_%28CVN_78%29_during_its_commissioning_ceremony_%2836052728606%29.jpg/1280px-Sailors_man_the_rails_of_the_aircraft_carrier_USS_Gerald_R._Ford_%28CVN_78%29_during_its_commissioning_ceremony_%2836052728606%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Sailors_man_the_rails_of_the_aircraft_carrier_USS_Gerald_R._Ford_%28CVN_78%29_during_its_commissioning_ceremony_%2836052728606%29.jpg",
+      "width": 3936,
+      "height": 2624,
+      "title": "Sailors man the rails of the aircraft carrier USS Gerald R. Ford (CVN 78) during its commissioning ceremony (36052728606).jpg",
+      "description": "<p>170722-N-JH384-222\n</p>\nNORFOLK (July 22, 2017) Sailors man the rails of the aircraft carrier USS Gerald R. Ford (CVN 78) during its commissioning ceremony at Naval Station Norfolk, Va. Ford is the",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Sailors_man_the_rails_of_the_aircraft_carrier_USS_Gerald_R._Ford_%28CVN_78%29_during_its_commissioning_ceremony_%2836052748006%29.jpg/1280px-Sailors_man_the_rails_of_the_aircraft_carrier_USS_Gerald_R._Ford_%28CVN_78%29_during_its_commissioning_ceremony_%2836052748006%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/29/Sailors_man_the_rails_of_the_aircraft_carrier_USS_Gerald_R._Ford_%28CVN_78%29_during_its_commissioning_ceremony_%2836052748006%29.jpg",
+      "width": 3760,
+      "height": 2613,
+      "title": "Sailors man the rails of the aircraft carrier USS Gerald R. Ford (CVN 78) during its commissioning ceremony (36052748006).jpg",
+      "description": "<p>170722-N-JH384-216\n</p>\nNORFOLK (July 22, 2017) Sailors man the rails of the aircraft carrier USS Gerald R. Ford (CVN 78) during its commissioning ceremony at Naval Station Norfolk, Va. Ford is the",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Susan_Ford_Bales_watches_Gerald_R._Ford_float._%2810297567545%29.jpg/1280px-Susan_Ford_Bales_watches_Gerald_R._Ford_float._%2810297567545%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/97/Susan_Ford_Bales_watches_Gerald_R._Ford_float._%2810297567545%29.jpg",
+      "width": 2100,
+      "height": 1398,
+      "title": "Susan Ford Bales watches Gerald R. Ford float. (10297567545).jpg",
+      "description": "<p>NEWPORT NEWS, Va. (Oct. 11, 2013) \nSusan Ford Bales, ship's sponsor for the Pre-Commissioning Unit Gerald R. Ford (CVN 78), observes the flooding of dry dock 12 at Newport News Shipbuilding, during",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/USS_Gerald_R._Ford_%28CVN-78%29_on_the_James_River_in_2013.JPG/1280px-USS_Gerald_R._Ford_%28CVN-78%29_on_the_James_River_in_2013.JPG",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/34/USS_Gerald_R._Ford_%28CVN-78%29_on_the_James_River_in_2013.JPG",
+      "width": 3471,
+      "height": 1044,
+      "title": "USS Gerald R. Ford (CVN-78) on the James River in 2013.JPG",
+      "description": "The U.S. Navy aircraft carrier <a href=\"https://en.wikipedia.org/wiki/USS_Gerald_R._Ford_(CVN_78)\" class=\"extiw\" title=\"en:USS Gerald R. Ford (CVN 78)\">USS <i>Gerald R. Ford</i> (CVN-78)</a> transits ",
+      "license": "Public domain",
+      "source": "wikimedia"
+    }
+  ],
+  "doctrine": {
+    "role": "Global power projection and sea control through forward-deployed carrier strike groups, maintaining American naval dominance in contested maritime environments where land-based air power cannot reach.",
+    "employment": "Deployed as the centerpiece of Carrier Strike Groups (CSG) typically comprising one guided-missile cruiser, two guided-missile destroyers, one attack submarine, and a logistics ship. Operates under numbered fleet command executing presence operations, crisis response, and high-end warfighting across multiple theaters simultaneously. The Ford class enables the Navy's distributed maritime operations concept by generating higher sortie rates with smaller crews while integrating with distributed sensor networks.",
+    "design_philosophy": "Prioritized increased sortie generation (25% more than Nimitz) and electrical power capacity for future directed energy weapons, accepting the risks of revolutionary technologies over evolutionary improvements. Designers sacrificed proven systems reliability for transformational capabilities like EMALS and AAG, betting that increased automation could offset reduced crew size without compromising damage control effectiveness.",
+    "threat_context": "Designed during the pivot to great power competition to counter advanced anti-access/area-denial (A2/AD) systems, particularly Chinese DF-21D and DF-26 anti-ship ballistic missiles. The threat has evolved to include hypersonic weapons, drone swarms, and sophisticated electronic warfare that the Ford's enhanced power generation and electromagnetic systems are specifically architected to address.",
+    "comparison_frame": "Compare Ford-class carriers on sortie generation rates, electrical power capacity, and crew efficiency rather than raw displacement or aircraft capacity - the revolution is in operational tempo and future weapon integration capability. Measure success against the ability to maintain higher operational availability with reduced logistical footprint compared to Nimitz-class and foreign carriers."
+  },
+  "curated_sources": [
+    {
+      "title": "U.S. Navy Aircraft Carriers: Procurement, Design, and Deployment Issues",
+      "type": "report",
+      "url": "https://crsreports.congress.gov/product/pdf/R/R45757",
+      "relevance": "CRS report providing comprehensive analysis of Ford-class cost, schedule, and capability issues with congressional oversight perspective.",
+      "priority": "essential"
+    },
+    {
+      "title": "U.S. Naval Institute Proceedings - Ford Class articles",
+      "type": "analyst",
+      "url": "https://www.usni.org/magazines/proceedings",
+      "relevance": "Primary venue for U.S. Navy officer analysis and debate on Ford-class operational concepts and lessons learned.",
+      "priority": "essential"
+    },
+    {
+      "title": "U.S. Aircraft Carriers by Norman Friedman",
+      "type": "book",
+      "url": "",
+      "relevance": "Definitive technical and design history of American aircraft carriers including Ford-class development decisions and engineering trade-offs.",
+      "priority": "essential"
+    },
+    {
+      "title": "Center for Strategic and Budgetary Assessments - Restoring American Seapower",
+      "type": "report",
+      "url": "https://csbaonline.org/research/publications/restoring-american-seapower-a-new-fleet-architecture-for-the-united-states-navy",
+      "relevance": "Strategic analysis questioning large carrier survivability and advocating for distributed fleet architecture alternatives.",
+      "priority": "recommended"
+    },
+    {
+      "title": "Naval Technology - Gerald R Ford Class",
+      "type": "database",
+      "url": "https://www.naval-technology.com/projects/gerald-r-ford-class/",
+      "relevance": "Comprehensive technical specifications and systems overview of Ford-class capabilities and construction timeline.",
+      "priority": "reference"
+    },
+    {
+      "title": "Naval War College Review - Carrier Operations in Contested Environments",
+      "type": "analyst",
+      "url": "https://digital-commons.usnwc.edu/nwc-review/",
+      "relevance": "Academic analysis of how Ford-class capabilities enable operations against peer competitors in A2/AD environments.",
+      "priority": "recommended"
+    },
+    {
+      "title": "Congressional Budget Office - The U.S. Navy's New Aircraft Carriers",
+      "type": "report",
+      "url": "https://www.cbo.gov/publication/56782",
+      "relevance": "Independent cost analysis and capability assessment of Ford-class program with alternatives comparison.",
+      "priority": "recommended"
+    }
+  ]
+}

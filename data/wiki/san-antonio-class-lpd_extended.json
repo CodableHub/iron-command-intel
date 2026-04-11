@@ -1,0 +1,347 @@
+{
+  "combat_history": [
+    {
+      "date": "2011-03",
+      "operation": "Operation Odyssey Dawn",
+      "event": "USS Kearsarge ARG including LPDs provided humanitarian assistance and NEO support during Libya operations",
+      "significance": "First major operational deployment demonstrating humanitarian mission capability"
+    },
+    {
+      "date": "2013-09",
+      "operation": "Syria Chemical Weapons Response",
+      "event": "USS San Antonio positioned in Eastern Mediterranean as part of potential strike force",
+      "significance": "Demonstrated strategic deterrent value beyond traditional amphibious role"
+    },
+    {
+      "date": "2020-05",
+      "operation": "Pacific Deterrence",
+      "event": "USS Portland conducted first operational test of Solid State Laser - Technology Maturation system, successfully disabling drone target",
+      "significance": "First shipboard laser weapon engagement by San Antonio class, indicating future directed energy integration"
+    },
+    {
+      "date": "2021-08",
+      "operation": "Operation Allies Refuge",
+      "event": "Multiple San Antonio-class ships provided logistical support for Afghanistan evacuation operations",
+      "significance": "Highlighted role in large-scale evacuation and humanitarian operations"
+    }
+  ],
+  "modernization": [
+    {
+      "program": "Ship-to-Shore Connector Integration",
+      "status": "in-progress",
+      "timeline": "2020-2025",
+      "description": "Integration of new SSC hovercraft replacing legacy LCAC, requiring well deck modifications and support systems",
+      "impact": "Improved ship-to-shore capability with better payload and reliability"
+    },
+    {
+      "program": "Directed Energy Systems Integration",
+      "status": "planned",
+      "timeline": "2025-2030",
+      "description": "Installation of high-energy laser systems for close-in defense, following successful Portland trials",
+      "impact": "Enhanced self-defense against small boats and UAVs with reduced ammunition dependence"
+    },
+    {
+      "program": "Communications and C4I Upgrade",
+      "status": "in-progress",
+      "timeline": "2022-2028",
+      "description": "Upgrade to advanced satellite communications and command systems to support distributed maritime operations",
+      "impact": "Better integration with joint forces and enhanced flagship capabilities"
+    }
+  ],
+  "vulnerabilities": [
+    {
+      "area": "Air Defense",
+      "description": "Limited area air defense capability with only point defense systems (RAM and Phalanx), vulnerable to coordinated air/missile attack",
+      "context": "Against near-peer adversaries with advanced anti-ship missiles, requires escort for survival",
+      "mitigation": "Must operate within protective umbrella of other combatants or land-based air defense"
+    },
+    {
+      "area": "Signature Management",
+      "description": "Large size and high heat signature from diesel engines make it vulnerable to thermal and radar tracking",
+      "context": "Difficult to conceal approach in contested amphibious operations",
+      "mitigation": "Some stealth features incorporated but fundamental size limitation remains"
+    },
+    {
+      "area": "Mechanical Reliability",
+      "description": "Complex systems integration led to significant reliability issues in early ships, high maintenance requirements",
+      "context": "Reduced operational availability affects readiness for rapid deployment",
+      "mitigation": "Flight II improvements and ongoing reliability upgrades addressing known issues"
+    },
+    {
+      "area": "Amphibious Doctrine Evolution",
+      "description": "Designed for traditional amphibious assault concepts that may be obsolete against advanced A2/AD systems",
+      "context": "Large, close-to-shore operations increasingly risky against modern threats",
+      "mitigation": "Doctrine evolving toward distributed operations and over-the-horizon approaches"
+    }
+  ],
+  "operational_patterns": {
+    "typical_deployment": "Amphibious Ready Group (ARG) deployment with embarked Marine Expeditionary Unit",
+    "deployment_length_months": 7,
+    "key_operating_areas": [
+      "Western Pacific",
+      "Persian Gulf",
+      "Mediterranean",
+      "Caribbean"
+    ],
+    "typical_task_group": "3-ship ARG with LHA/LHD and LSD, plus escort combatants",
+    "readiness_notes": "Maintenance intensive requiring significant yard time, limited by LCAC/SSC availability"
+  },
+  "peer_comparisons": [
+    {
+      "platform": "Type 071 Yuzhao-class",
+      "country": "China",
+      "relationship": "direct rival",
+      "key_differences": "Chinese design emphasizes simpler systems and lower cost but sacrifices command capabilities and survivability features. Similar displacement but different operational concept.",
+      "video_angle": "East vs West amphibious design philosophy - complexity vs simplicity"
+    },
+    {
+      "platform": "Mistral-class",
+      "country": "France",
+      "relationship": "allied equivalent",
+      "key_differences": "More focused on helicopter operations with larger aviation facilities but smaller well deck. Better suited for power projection than traditional beach assault.",
+      "video_angle": "NATO amphibious capabilities - complementary designs for different mission sets"
+    },
+    {
+      "platform": "Osumi-class",
+      "country": "Japan",
+      "relationship": "allied equivalent",
+      "key_differences": "Smaller and more austere design reflecting constitutional constraints and regional focus. Less capable but more affordable for larger numbers.",
+      "video_angle": "Alliance interoperability in Pacific amphibious operations"
+    },
+    {
+      "platform": "Juan Carlos I-class",
+      "country": "Spain/Australia",
+      "relationship": "allied equivalent",
+      "key_differences": "Combines LHD and LPD functions in single hull with ski-jump for fixed-wing aircraft. More aviation-centric than San Antonio class.",
+      "video_angle": "Multi-role vs specialized amphibious ship design trade-offs"
+    },
+    {
+      "platform": "Ivan Gren-class",
+      "country": "Russia",
+      "relationship": "rival",
+      "key_differences": "Much smaller and simpler design with limited capability. Reflects resource constraints and different operational requirements for Russian Navy.",
+      "video_angle": "Great power amphibious capabilities gap - quantity vs quality approaches"
+    }
+  ],
+  "search_keywords": [
+    "san antonio class",
+    "LPD-17",
+    "LPD 17",
+    "amphibious transport dock",
+    "landing platform dock",
+    "ARG",
+    "MEU",
+    "amphibious ready group",
+    "marine expeditionary unit"
+  ],
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/USS_San_Antonio_%28LPD-17%29.jpg/1280px-USS_San_Antonio_%28LPD-17%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/USS_San_Antonio_%28LPD-17%29.jpg",
+      "width": 2100,
+      "height": 1500,
+      "title": "USS San Antonio (LPD-17).jpg",
+      "description": "060524-N-7365V-032 New York Harbor  - The newest class of Amphibious Transport Dock ship USS San Antonio (LPD 17) passes the amphibious assault ship USS Kearsarge (LHD 3) while entering New York Harbo",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/USS_San_Antonio_%28LPD-17%29_deploy.jpg/1280px-USS_San_Antonio_%28LPD-17%29_deploy.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/USS_San_Antonio_%28LPD-17%29_deploy.jpg",
+      "width": 2100,
+      "height": 1500,
+      "title": "USS San Antonio (LPD-17) deploy.jpg",
+      "description": "ATLANTIC OCEAN (Sept. 6, 2008) The amphibious transport dock ship USS San Antonio (LPD 17) transits the Atlantic Ocean. San Antonio is deployed as part of the Iwo Jima Expeditionary Strike Group suppo",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/US_Navy_020830-N-9999T-001_Pre-commissioning_unit_San_Antonio_%28LPD_17%29.jpg/1280px-US_Navy_020830-N-9999T-001_Pre-commissioning_unit_San_Antonio_%28LPD_17%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/a8/US_Navy_020830-N-9999T-001_Pre-commissioning_unit_San_Antonio_%28LPD_17%29.jpg",
+      "width": 2048,
+      "height": 1536,
+      "title": "US Navy 020830-N-9999T-001 Pre-commissioning unit San Antonio (LPD 17).jpg",
+      "description": "New Orleans, La. (Aug 30, 2002) -- Pre-commissioning unit San Antonio (LPD 17) is under construction at Northrop Grumman Ship Systems, Avondale Operations.  San Antonio achieved a major construction m",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/US_Navy_020830-N-9999T-002_Pre-commissioning_unit_San_Antonio_%28LPD_17%29.jpg/1280px-US_Navy_020830-N-9999T-002_Pre-commissioning_unit_San_Antonio_%28LPD_17%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/US_Navy_020830-N-9999T-002_Pre-commissioning_unit_San_Antonio_%28LPD_17%29.jpg",
+      "width": 2048,
+      "height": 1536,
+      "title": "US Navy 020830-N-9999T-002 Pre-commissioning unit San Antonio (LPD 17).jpg",
+      "description": "New Orleans, La. (Aug 30, 2002) -- Pre-commissioning unit San Antonio (LPD 17) is under construction at Northrop Grumman Ship Systems, Avondale Operations.  San Antonio achieved a major construction m",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/US_Navy_081025-N-5681S-139_USS_San_Antonio_%28LPD_17%29_transits_the_Persian_Gulf.jpg/1280px-US_Navy_081025-N-5681S-139_USS_San_Antonio_%28LPD_17%29_transits_the_Persian_Gulf.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/US_Navy_081025-N-5681S-139_USS_San_Antonio_%28LPD_17%29_transits_the_Persian_Gulf.jpg",
+      "width": 2100,
+      "height": 1500,
+      "title": "US Navy 081025-N-5681S-139 USS San Antonio (LPD 17) transits the Persian Gulf.jpg",
+      "description": "PERSIAN GULF (Oct. 25, 2008) The amphibious transport dock ship USS San Antonio (LPD 17) transits the Persian Gulf. Iwo Jima is deployed as part of the Iwo Jima Expeditionary Strike Group (ESG) suppor",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/US_Navy_090210-N-9671T-052_USS_San_Antonio_%28LPD_17%29_anchors_off_the_Kuwaiti_coast.jpg/1280px-US_Navy_090210-N-9671T-052_USS_San_Antonio_%28LPD_17%29_anchors_off_the_Kuwaiti_coast.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/fb/US_Navy_090210-N-9671T-052_USS_San_Antonio_%28LPD_17%29_anchors_off_the_Kuwaiti_coast.jpg",
+      "width": 3200,
+      "height": 2000,
+      "title": "US Navy 090210-N-9671T-052 USS San Antonio (LPD 17) anchors off the Kuwaiti coast.jpg",
+      "description": "KUWAIT NAVAL BASE (Feb. 10, 2009) The amphibious transport dock ship USS San Antonio (LPD 17) anchors off the Kuwaiti coast. San Antonio is deployed as a part of the Iwo Jima Amphibious Ready Group su",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/US_Navy_110609-N-VL218-333_USS_San_Antonio_%28LPD_17%29%2C_front%2C_and_USS_New_York_%28LPD_21%29_are_underway_together_in_the_Atlantic_Ocean_off_the_coast_of.jpg/1280px-US_Navy_110609-N-VL218-333_USS_San_Antonio_%28LPD_17%29%2C_front%2C_and_USS_New_York_%28LPD_21%29_are_underway_together_in_the_Atlantic_Ocean_off_the_coast_of.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/55/US_Navy_110609-N-VL218-333_USS_San_Antonio_%28LPD_17%29%2C_front%2C_and_USS_New_York_%28LPD_21%29_are_underway_together_in_the_Atlantic_Ocean_off_the_coast_of.jpg",
+      "width": 2800,
+      "height": 2000,
+      "title": "US Navy 110609-N-VL218-333 USS San Antonio (LPD 17), front, and USS New York (LPD 21) are underway together in the Atlantic Ocean off the coast of.jpg",
+      "description": "ATLANTIC OCEAN (June 9, 2011) The amphibious transport dock ships USS San Antonio (LPD 17), front, and USS New York (LPD 21) are underway together in the Atlantic Ocean off the coast of Virginia. San ",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/US_Navy_110609-N-VL218-336_The_amphibious_transport_dock_ships_USS_San_Antonio_%28LPD_17%29_and_USS_New_York_%28LPD_21%29_are_underway_together_in_the_Atla.jpg/1280px-US_Navy_110609-N-VL218-336_The_amphibious_transport_dock_ships_USS_San_Antonio_%28LPD_17%29_and_USS_New_York_%28LPD_21%29_are_underway_together_in_the_Atla.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/46/US_Navy_110609-N-VL218-336_The_amphibious_transport_dock_ships_USS_San_Antonio_%28LPD_17%29_and_USS_New_York_%28LPD_21%29_are_underway_together_in_the_Atla.jpg",
+      "width": 2100,
+      "height": 1500,
+      "title": "US Navy 110609-N-VL218-336 The amphibious transport dock ships USS San Antonio (LPD 17) and USS New York (LPD 21) are underway together in the Atla.jpg",
+      "description": "ATLANTIC OCEAN (June 9, 2011) The amphibious transport dock ships USS San Antonio (LPD 17) and USS New York (LPD 21) are underway together in the Atlantic Ocean off the coast of Virginia. San Antonio ",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/San_Antonio_class.png/1280px-San_Antonio_class.png",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/e9/San_Antonio_class.png",
+      "width": 3752,
+      "height": 876,
+      "title": "San Antonio class.png",
+      "description": "San Antonio Class LPD",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/San_Antonio_class_rendering.jpg/1280px-San_Antonio_class_rendering.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/68/San_Antonio_class_rendering.jpg",
+      "width": 6406,
+      "height": 2588,
+      "title": "San Antonio class rendering.jpg",
+      "description": "Cutaway illustration of the U.S. Navy's San Antonio-class amphibious transport dock ship (LPD). The amphibious transports are used to transport and land Marines, their equipment, and supplies by embar",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/US_Navy_030606-N-0000X-003_Artist%27s_concept_of_the_San_Antonio_Class_amphibious_transport_dock_ships.jpg/1280px-US_Navy_030606-N-0000X-003_Artist%27s_concept_of_the_San_Antonio_Class_amphibious_transport_dock_ships.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/71/US_Navy_030606-N-0000X-003_Artist%27s_concept_of_the_San_Antonio_Class_amphibious_transport_dock_ships.jpg",
+      "width": 1752,
+      "height": 1500,
+      "title": "US Navy 030606-N-0000X-003 Artist's concept of the San Antonio Class amphibious transport dock ships.jpg",
+      "description": "Washington, D. C.  (Jun. 6, 2003) -- Artist\u2019s concept of  the San Antonio Class amphibious transport dock ships. These versatile ships perform the mission of amphibious transport and amphibious cargo ",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/US_Navy_060501-N-8269F-002_Amphibious_transport_dock_USS_San_Antonio_%28LPD_17%29_arrives_at_Port_Everglades_in_support_of_South_Florida%27s_Fleet_Week_USA.jpg/1280px-US_Navy_060501-N-8269F-002_Amphibious_transport_dock_USS_San_Antonio_%28LPD_17%29_arrives_at_Port_Everglades_in_support_of_South_Florida%27s_Fleet_Week_USA.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/8f/US_Navy_060501-N-8269F-002_Amphibious_transport_dock_USS_San_Antonio_%28LPD_17%29_arrives_at_Port_Everglades_in_support_of_South_Florida%27s_Fleet_Week_USA.jpg",
+      "width": 2000,
+      "height": 1312,
+      "title": "US Navy 060501-N-8269F-002 Amphibious transport dock USS San Antonio (LPD 17) arrives at Port Everglades in support of South Florida's Fleet Week USA.jpg",
+      "description": "Port Everglades, Fla. (May 1, 2006) \u2013 Amphibious transport dock USS San Antonio (LPD 17) arrives at Port Everglades in support of South Florida\u2019s Fleet Week USA. Nearly 3,000 Sailors are participating",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/US_Navy_080903-N-1082Z-006_The_amphibious_transport_dock_ship_USS_San_Antonio_%28LPD_17%29_transits_the_Atlantic_Ocean.jpg/1280px-US_Navy_080903-N-1082Z-006_The_amphibious_transport_dock_ship_USS_San_Antonio_%28LPD_17%29_transits_the_Atlantic_Ocean.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/US_Navy_080903-N-1082Z-006_The_amphibious_transport_dock_ship_USS_San_Antonio_%28LPD_17%29_transits_the_Atlantic_Ocean.jpg",
+      "width": 2100,
+      "height": 1500,
+      "title": "US Navy 080903-N-1082Z-006 The amphibious transport dock ship USS San Antonio (LPD 17) transits the Atlantic Ocean.jpg",
+      "description": "ATLANTIC OCEAN (Sept. 3, 2008) The amphibious transport dock ship USS San Antonio (LPD 17) transits the Atlantic Ocean. San Antonio is deployed as part of the Iwo Jima Expeditionary Strike Group in su",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/US_Navy_110810-N-PB383-359_Amphibious_assault_vehicles_enter_the_well_deck_of_the_San_Antonio-class_amphibious_transport_dock_ship_USS_New_Orleans.jpg/1280px-US_Navy_110810-N-PB383-359_Amphibious_assault_vehicles_enter_the_well_deck_of_the_San_Antonio-class_amphibious_transport_dock_ship_USS_New_Orleans.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/69/US_Navy_110810-N-PB383-359_Amphibious_assault_vehicles_enter_the_well_deck_of_the_San_Antonio-class_amphibious_transport_dock_ship_USS_New_Orleans.jpg",
+      "width": 1500,
+      "height": 963,
+      "title": "US Navy 110810-N-PB383-359 Amphibious assault vehicles enter the well deck of the San Antonio-class amphibious transport dock ship USS New Orleans.jpg",
+      "description": "PACIFIC OCEAN (Aug. 10, 2011) Amphibious assault vehicles enter the well deck of the San Antonio-class amphibious transport dock ship USS New Orleans (LPD 18). New Orleans and embarked Marines assigne",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/US_Navy_110815-N-PB383-001_Amphibious_assault_vehicles_prepare_to_depart_the_well_deck_of_the_San_Antonio-class_amphibious_transport_dock_ship_USS.jpg/1280px-US_Navy_110815-N-PB383-001_Amphibious_assault_vehicles_prepare_to_depart_the_well_deck_of_the_San_Antonio-class_amphibious_transport_dock_ship_USS.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/93/US_Navy_110815-N-PB383-001_Amphibious_assault_vehicles_prepare_to_depart_the_well_deck_of_the_San_Antonio-class_amphibious_transport_dock_ship_USS.jpg",
+      "width": 4288,
+      "height": 2848,
+      "title": "US Navy 110815-N-PB383-001 Amphibious assault vehicles prepare to depart the well deck of the San Antonio-class amphibious transport dock ship USS.jpg",
+      "description": "PACIFIC OCEAN (Aug. 15, 2011) Amphibious assault vehicles prepare to depart the well deck of the San Antonio-class amphibious transport dock ship USS New Orleans (LPD 18). New Orleans, along with Mari",
+      "license": "Public domain",
+      "source": "wikimedia"
+    }
+  ],
+  "doctrine": {
+    "role": "Enables flexible forward presence and crisis response by delivering Marines from ship to shore across the full spectrum of conflict, from humanitarian assistance to high-intensity amphibious assault. Serves as the connector between sea-based expeditionary forces and land-based operations in contested littorals.",
+    "employment": "Typically operates as part of an Amphibious Ready Group (ARG) with an LHA/LHD and LSD, embarking a Marine Expeditionary Unit (MEU) for seven-month deployments. Commands amphibious operations from its sophisticated command and control suite, coordinating surface assault craft, helicopters, and ground forces. During distributed operations, can operate independently or in smaller task groups to support multiple simultaneous objectives across a theater.",
+    "design_philosophy": "Prioritized command and control capabilities, survivability, and operational flexibility over pure cargo capacity, accepting higher cost per embarked Marine compared to previous classes. Designers emphasized multi-mission capability and advanced electronics over traditional metrics like troop capacity, sacrificing some efficiency for greatly enhanced operational utility in complex threat environments.",
+    "threat_context": "Designed in the post-9/11 era for expeditionary operations against non-peer adversaries with limited naval capabilities, emphasizing irregular warfare and stability operations. The threat has evolved toward near-peer competitors with advanced anti-access/area-denial capabilities, forcing adaptation of employment concepts toward more distributed and survivable operations within contested zones.",
+    "comparison_frame": "Compare on command and control sophistication, well deck capacity, and aviation facilities rather than pure troop capacity - modern amphibious doctrine values operational flexibility over raw numbers. Focus on survivability features and sensor integration as these platforms must operate closer to hostile shores than previous generations. Cost per capability matters more than absolute unit cost given the multi-mission requirements."
+  },
+  "curated_sources": [
+    {
+      "title": "U.S. Amphibious Ships: LHA/LHD/LPD/LSD Amphibious Ships",
+      "type": "report",
+      "url": "https://crsreports.congress.gov/product/pdf/RL/RL33971",
+      "relevance": "Comprehensive Congressional Research Service analysis of U.S. amphibious warfare ships including detailed LPD-17 program history and capability assessment.",
+      "priority": "essential"
+    },
+    {
+      "title": "The Twenty-First Century U.S. Navy",
+      "type": "book",
+      "url": "",
+      "relevance": "Norman Friedman's authoritative analysis includes detailed coverage of San Antonio-class design evolution and doctrinal employment within modern amphibious warfare concepts.",
+      "priority": "essential"
+    },
+    {
+      "title": "Distributed Maritime Operations",
+      "type": "report",
+      "url": "https://www.cna.org/reports/2022/12/distributed-maritime-operations",
+      "relevance": "CNA analysis examining how amphibious platforms like LPD-17 enable distributed operations in contested environments against near-peer adversaries.",
+      "priority": "recommended"
+    },
+    {
+      "title": "USNI News Fleet and Marine Tracker",
+      "type": "database",
+      "url": "https://news.usni.org/fleet-tracker",
+      "relevance": "Real-time tracking of San Antonio-class deployments and operational status for understanding current employment patterns.",
+      "priority": "reference"
+    },
+    {
+      "title": "Tentative Manual for Expeditionary Advanced Base Operations",
+      "type": "report",
+      "url": "https://www.marines.mil/Portals/1/Publications/Tentative%20Manual%20for%20EABO_2021.pdf",
+      "relevance": "Marine Corps doctrinal publication explaining how LPD-17 platforms support distributed expeditionary advanced base operations in the Pacific.",
+      "priority": "recommended"
+    },
+    {
+      "title": "LPD-17 San Antonio Class",
+      "type": "database",
+      "url": "https://www.seaforces.org/usnships/lpd/LPD-17-San-Antonio-class.htm",
+      "relevance": "Comprehensive technical specifications and program details for all San Antonio-class vessels including variants and modifications.",
+      "priority": "reference"
+    },
+    {
+      "title": "Strengthening Allied and Partner Amphibious Capabilities",
+      "type": "report",
+      "url": "https://www.csis.org/analysis/strengthening-allied-and-partner-amphibious-capabilities",
+      "relevance": "CSIS analysis of how U.S. amphibious platforms integrate with allied forces and influence international amphibious warfare development.",
+      "priority": "recommended"
+    }
+  ]
+}

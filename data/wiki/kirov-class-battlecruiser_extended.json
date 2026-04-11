@@ -1,0 +1,352 @@
+{
+  "combat_history": [
+    {
+      "date": "2008-08",
+      "operation": "Russo-Georgian War",
+      "event": "Pyotr Velikiy deployed to Black Sea during Georgian conflict, first major combat deployment since Cold War",
+      "significance": "Demonstrated Russia's ability to project naval power using nuclear-powered surface combatants"
+    },
+    {
+      "date": "2013-2014",
+      "operation": "Syrian Civil War",
+      "event": "Pyotr Velikiy conducted extended Mediterranean deployment supporting Russian operations in Syria",
+      "significance": "Showcased sustained deep-water operations and power projection capabilities"
+    },
+    {
+      "date": "2016-10",
+      "operation": "Syrian Campaign",
+      "event": "Admiral Kuznetsov carrier group including Pyotr Velikiy transited English Channel en route to Syria",
+      "significance": "Largest Russian naval deployment since Cold War, demonstrated operational reach"
+    },
+    {
+      "date": "2019-07",
+      "operation": "Northern Sea Route patrol",
+      "event": "Pyotr Velikiy conducted Arctic patrol operations asserting Russian territorial claims",
+      "significance": "Nuclear propulsion enables sustained Arctic operations in contested waters"
+    }
+  ],
+  "modernization": [
+    {
+      "program": "Admiral Nakhimov Deep Modernization",
+      "status": "in-progress",
+      "timeline": "2013-2025",
+      "description": "Complete overhaul including new Kalibr/Oniks VLS systems, modern air defense, updated electronics and radar systems. Granit missiles being replaced with modern VLS cells.",
+      "impact": "Will restore one Kirov to frontline service with modern weapons and sensors comparable to current Russian surface combatants"
+    },
+    {
+      "program": "Pyotr Velikiy Mid-Life Upgrade",
+      "status": "planned",
+      "timeline": "2025-2028",
+      "description": "Electronics upgrade, weapons system modernization, reactor maintenance. Less extensive than Nakhimov refit.",
+      "impact": "Extends service life and maintains operational capability of Russia's only active battlecruiser"
+    },
+    {
+      "program": "Admiral Ushakov Reactivation",
+      "status": "cancelled",
+      "timeline": "2020s",
+      "description": "Planned return to service cancelled due to costs and technical challenges. Hull remains in reserve.",
+      "impact": "Reduces potential Kirov fleet to maximum of two operational hulls"
+    }
+  ],
+  "vulnerabilities": [
+    {
+      "area": "Electronic warfare susceptibility",
+      "description": "Cold War-era electronics and radar systems vulnerable to modern jamming and cyber warfare capabilities",
+      "context": "NATO forces possess sophisticated EW capabilities that could degrade Soviet-era combat systems",
+      "mitigation": "Admiral Nakhimov modernization includes updated electronic warfare suites"
+    },
+    {
+      "area": "Massive radar signature",
+      "description": "Enormous size and metallic superstructure create huge radar cross-section, easily detected at long range",
+      "context": "Modern anti-ship missiles can engage targets beyond visual range, negating armor protection",
+      "mitigation": "Limited stealth improvements possible due to fundamental design constraints"
+    },
+    {
+      "area": "Single-point failures",
+      "description": "Complex systems with limited redundancy; reactor or major system failures could mission-kill the platform",
+      "context": "Nuclear propulsion provides unlimited range but reactor casualties would leave ship dead in water",
+      "mitigation": "Extensive crew training and maintenance protocols, but fundamental design limitation remains"
+    },
+    {
+      "area": "Enormous crew requirements",
+      "description": "727-person crew creates massive logistical burden and increases casualty vulnerability",
+      "context": "Modern warships achieve similar capabilities with crews of 200-400, reducing costs and risks",
+      "mitigation": "Modernization programs include some automation but crew size remains necessarily large"
+    }
+  ],
+  "operational_patterns": {
+    "typical_deployment": "Flagship for Northern Fleet surface action groups or independent power projection missions",
+    "deployment_length_months": 4,
+    "key_operating_areas": [
+      "Barents Sea",
+      "Norwegian Sea",
+      "Mediterranean",
+      "Arctic Ocean"
+    ],
+    "typical_task_group": "Operates with destroyers, frigates, support vessels, and submarine escort",
+    "readiness_notes": "Limited operational availability due to maintenance requirements and crew training needs"
+  },
+  "peer_comparisons": [
+    {
+      "platform": "Ticonderoga-class cruiser",
+      "country": "United States",
+      "relationship": "direct rival",
+      "key_differences": "Kirov emphasizes massive anti-ship firepower while Ticonderoga focuses on area air defense and multi-mission capability. Nuclear vs conventional propulsion trades unlimited range for maintenance complexity.",
+      "video_angle": "Cold War cruiser philosophy comparison - Soviet alpha strike vs American multi-mission flexibility"
+    },
+    {
+      "platform": "Type 055 Renhai-class destroyer",
+      "country": "China",
+      "relationship": "successor concept",
+      "key_differences": "Type 055 represents modern approach to large surface combatants with stealth, advanced sensors, and flexible VLS. Similar displacement but completely different design philosophy.",
+      "video_angle": "Evolution of large surface combatants - Soviet brute force vs Chinese high-tech approach"
+    },
+    {
+      "platform": "Admiral Gorshkov-class frigate",
+      "country": "Russia",
+      "relationship": "successor",
+      "key_differences": "Modern Russian surface combatants emphasize stealth, modern sensors, and flexible missile systems over raw firepower. Much smaller but more survivable.",
+      "video_angle": "Russian naval evolution - from Cold War battlecruisers to modern multi-role frigates"
+    },
+    {
+      "platform": "Sejong the Great-class destroyer",
+      "country": "South Korea",
+      "relationship": "modern equivalent",
+      "key_differences": "Similar displacement and heavy armament but built with modern stealth features and Aegis-type integrated combat system. Conventional propulsion limits range.",
+      "video_angle": "Large destroyer concepts - Cold War Soviet vs modern allied approaches to firepower"
+    }
+  ],
+  "search_keywords": [
+    "kirov class",
+    "kirov-class",
+    "project 1144",
+    "orlan class",
+    "pyotr velikiy",
+    "peter the great",
+    "admiral nakhimov",
+    "battlecruiser",
+    "nuclear cruiser",
+    "granit missile",
+    "ss-n-19"
+  ],
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/428-GX-K-130720_%2826528903110%29.jpg/1280px-428-GX-K-130720_%2826528903110%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/82/428-GX-K-130720_%2826528903110%29.jpg",
+      "width": 2704,
+      "height": 1992,
+      "title": "428-GX-K-130720 (26528903110).jpg",
+      "description": "428-GX-K-130720: Cold War, Soviet Ships.   Atlantic Ocean.  Aerial port quarter view of a Soviet Kirov class nuclear powered guided missile cruiser underway, 1980.  U.S. Navy Photograph, now in the co",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/428-GX-K-130721_%2826776567356%29.jpg/1280px-428-GX-K-130721_%2826776567356%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/428-GX-K-130721_%2826776567356%29.jpg",
+      "width": 2105,
+      "height": 1482,
+      "title": "428-GX-K-130721 (26776567356).jpg",
+      "description": "428-GX-K-130721: Cold War, Soviet Ships.   Atlantic Ocean.  Aerial starboard quarter view of a Soviet Kirov class nuclear powered guided missile cruiser underway, 1980.  U.S. Navy Photograph, now in t",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/6c/428-GX-USN_1179384_%2826195991564%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/6c/428-GX-USN_1179384_%2826195991564%29.jpg",
+      "width": 496,
+      "height": 2140,
+      "title": "428-GX-USN 1179384 (26195991564).jpg",
+      "description": "428-GX-USN 1179384: Cold War, Soviet Ships.   Vertical view of Soviet Kirov class cruiser, received November 1980.  U.S. Navy Photograph, now in the collections of the National Archives. (2016/05/03).",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/HMS_Dragon_with_Kirov_Class_%27Pyotr_Velikiy%27_MOD_45157551.jpg/1280px-HMS_Dragon_with_Kirov_Class_%27Pyotr_Velikiy%27_MOD_45157551.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/53/HMS_Dragon_with_Kirov_Class_%27Pyotr_Velikiy%27_MOD_45157551.jpg",
+      "width": 3504,
+      "height": 2336,
+      "title": "HMS Dragon with Kirov Class 'Pyotr Velikiy' MOD 45157551.jpg",
+      "description": "HMS Dragon (background) with the Russian Kirov Class battlecruiser 'Pyotr Velikiy'.\n<p>A Royal Navy warship has tracked and met up with a Russian task group off the coast of Brest as they entered the ",
+      "license": "OGL v1.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/HMS_Dragon_with_Kirov_Class_%27Pyotr_Velikiy%27_MOD_45157553.jpg/1280px-HMS_Dragon_with_Kirov_Class_%27Pyotr_Velikiy%27_MOD_45157553.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/HMS_Dragon_with_Kirov_Class_%27Pyotr_Velikiy%27_MOD_45157553.jpg",
+      "width": 3504,
+      "height": 2336,
+      "title": "HMS Dragon with Kirov Class 'Pyotr Velikiy' MOD 45157553.jpg",
+      "description": "HMS Dragon (foreground) with the Russian Kirov Class battlecruiser 'Pyotr Velikiy'.\n<p>A Royal Navy warship has tracked and met up with a Russian task group off the coast of Brest as they entered the ",
+      "license": "OGL v1.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/1c/KSS_Wismar_110.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/1c/KSS_Wismar_110.jpg",
+      "width": 900,
+      "height": 636,
+      "title": "KSS Wismar 110.jpg",
+      "description": "Picture of an unidentified Kirov-class cruiser, taken from GDR navy ship \"Wismar\".",
+      "license": "CC BY-SA 3.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Kirov-class_battlecruiser.jpg/1280px-Kirov-class_battlecruiser.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/36/Kirov-class_battlecruiser.jpg",
+      "width": 2660,
+      "height": 1780,
+      "title": "Kirov-class battlecruiser.jpg",
+      "description": "A starboard bow view of the Soviet Kirov Class nuclear-powered guided missile cruiser FRUNZE underway. (Soviet Military Power, 1986. published by Defense Intelligence Agency.)",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Kirov-class_battlecruiser_profile_1986.png",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Kirov-class_battlecruiser_profile_1986.png",
+      "width": 1098,
+      "height": 227,
+      "title": "Kirov-class battlecruiser profile 1986.png",
+      "description": "Profile of a Soviet <i>Kirov</i>-class (Project 1144 <i>Orlan</i>) guided missile battlecruiser.",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/AdmiralUshakov%26AdmiralSenyavin%26General-AdmiralApraksin1905PortSaid.jpg/1280px-AdmiralUshakov%26AdmiralSenyavin%26General-AdmiralApraksin1905PortSaid.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/20/AdmiralUshakov%26AdmiralSenyavin%26General-AdmiralApraksin1905PortSaid.jpg",
+      "width": 2724,
+      "height": 1870,
+      "title": "AdmiralUshakov&AdmiralSenyavin&General-AdmiralApraksin1905PortSaid.jpg",
+      "description": "Imperial Russian coastal battleships at <a href=\"https://en.wikipedia.org/wiki/Port_Said\" class=\"extiw\" title=\"en:Port Said\">Port Said</a>, 11 March 1905.",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Admiral_Ushakov_-_IMO_7721251_%285694905973%29.jpg/1280px-Admiral_Ushakov_-_IMO_7721251_%285694905973%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/87/Admiral_Ushakov_-_IMO_7721251_%285694905973%29.jpg",
+      "width": 5418,
+      "height": 3010,
+      "title": "Admiral Ushakov - IMO 7721251 (5694905973).jpg",
+      "description": "<p>Admiral Ushakov IMO 7721251\n</p>\ncargo ship from Russia build in 1979",
+      "license": "CC BY 2.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/54/Admiral_Ushakov_at_Quay_in_Port_of_Kandalaksha_8_August_2008.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/54/Admiral_Ushakov_at_Quay_in_Port_of_Kandalaksha_8_August_2008.jpg",
+      "width": 1024,
+      "height": 768,
+      "title": "Admiral Ushakov at Quay in Port of Kandalaksha 8 August 2008.jpg",
+      "description": "<i>Admiral Ushakov</i> at quay in Port of Kandalaksha, White Sea, Kandalaksha Gulf, Murmansk Oblast, Kandalaksha 8 August 2008",
+      "license": "CC0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Admiral_Ushakov_memorial_table.jpg/1280px-Admiral_Ushakov_memorial_table.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/37/Admiral_Ushakov_memorial_table.jpg",
+      "width": 5184,
+      "height": 3888,
+      "title": "Admiral Ushakov memorial table.jpg",
+      "description": "Admiral Ushakov memorial table",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/BCGN_Kirov_1983.JPG/1280px-BCGN_Kirov_1983.JPG",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/25/BCGN_Kirov_1983.JPG",
+      "width": 2820,
+      "height": 1870,
+      "title": "BCGN Kirov 1983.JPG",
+      "description": "A port beam view of the Soviet nuclear-powered guided missile cruiser KIROV (065) underway.",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Kirov_Oblast_Falyonki_asv2019-05_img8.jpg/1280px-Kirov_Oblast_Falyonki_asv2019-05_img8.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Kirov_Oblast_Falyonki_asv2019-05_img8.jpg",
+      "width": 4812,
+      "height": 4812,
+      "title": "Kirov Oblast Falyonki asv2019-05 img8.jpg",
+      "description": "Abandoned grain elevator in Falyonki, Kirov Oblast, Russia",
+      "license": "FAL",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Kirov_Oblast_Zuevka_railway_station_asv2019-05_img2.jpg/1280px-Kirov_Oblast_Zuevka_railway_station_asv2019-05_img2.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Kirov_Oblast_Zuevka_railway_station_asv2019-05_img2.jpg",
+      "width": 6917,
+      "height": 4323,
+      "title": "Kirov Oblast Zuevka railway station asv2019-05 img2.jpg",
+      "description": "Soviet FD20 steam locomotive exposed at Zuevka railway station, Kirov Oblast, Russia",
+      "license": "FAL",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Naval_ships_of_Russia_by_Apostoli_-_014._Coastal_Defense_battleship_%22Admiral_Ushakov%22.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Naval_ships_of_Russia_by_Apostoli_-_014._Coastal_Defense_battleship_%22Admiral_Ushakov%22.jpg",
+      "width": 1082,
+      "height": 702,
+      "title": "Naval ships of Russia by Apostoli - 014. Coastal Defense battleship \"Admiral Ushakov\".jpg",
+      "description": "Series of postcards of naval ships of the Russian Empire. Publication by N. Apostoli. Otto Leder, Ansichtskarten-Manufaktur, Meissen i. Sa. Platin-Crayon. O.L-M. 4:04 25688. - \u2116 14. Coastal Defense ba",
+      "license": "Public domain",
+      "source": "wikimedia"
+    }
+  ],
+  "doctrine": {
+    "role": "Strategic sea denial and carrier battle group destruction, designed to break NATO's Atlantic sea lines of communication and eliminate US power projection capabilities in contested waters.",
+    "employment": "Operates as the centerpiece of a surface action group, typically accompanied by Udaloy-class destroyers and nuclear submarines for integrated anti-submarine warfare. Missions include long-range strikes against high-value targets, area air defense for fleet formations, and independent operations in sea denial campaigns. Command structure integrates with shore-based aviation and submarine forces through centralized Soviet-era battle management systems.",
+    "design_philosophy": "Prioritized overwhelming firepower and survivability over cost-effectiveness, accepting extreme expense and complexity to achieve carrier-killing capability. Designers sacrificed operational availability and maintenance simplicity for maximum combat power, resulting in a platform that spends most of its service life pier-side but remains unmatched in raw destructive potential when operational.",
+    "threat_context": "Designed specifically to counter US carrier battle groups during the Cold War when Soviet naval aviation lacked the range and capability for effective anti-carrier operations. The threat environment has evolved toward distributed lethality and multi-domain operations, making these concentrated high-value units potentially vulnerable to precision strikes while their massive missile salvos remain uniquely relevant against modern naval formations.",
+    "comparison_frame": "Compare primarily on missile magazine capacity and engagement range rather than availability rates or cost-per-hull\u2014this represents a fundamentally different design philosophy prioritizing peak combat capability over sustained operations. Evaluate sensor integration and battle management systems as force multipliers, not individual platform capabilities."
+  },
+  "curated_sources": [
+    {
+      "title": "The Naval Institute Guide to World Naval Weapon Systems by Norman Friedman",
+      "type": "book",
+      "url": "",
+      "relevance": "Provides detailed technical analysis of the Kirov's weapon systems and their tactical employment within Soviet naval doctrine.",
+      "priority": "essential"
+    },
+    {
+      "title": "RUSI Defence Systems: Russian Navy Capabilities and Limitations",
+      "type": "report",
+      "url": "https://rusi.org/explore-our-research/publications/commentary/russian-navy-putin-era-growth-ambitions-and-limitations",
+      "relevance": "Authoritative analysis of current Russian naval capabilities including operational status and strategic role of remaining Kirov-class units.",
+      "priority": "essential"
+    },
+    {
+      "title": "IISS Military Balance Annual Assessment",
+      "type": "report",
+      "url": "https://www.iiss.org/publications/the-military-balance",
+      "relevance": "Provides current operational status and fleet composition context for evaluating Kirov-class strategic relevance.",
+      "priority": "recommended"
+    },
+    {
+      "title": "Harpoon Naval Review Database - Project 1144",
+      "type": "database",
+      "url": "https://www.harpoonhq.com/waypoint/articles/Article_031.html",
+      "relevance": "Comprehensive technical specifications and weapons loadout data for tactical analysis and comparison frameworks.",
+      "priority": "reference"
+    },
+    {
+      "title": "Soviet Naval Strategy and Tactics by Milan Vego",
+      "type": "book",
+      "url": "",
+      "relevance": "Essential context for understanding the strategic rationale behind Kirov-class design and intended employment doctrine.",
+      "priority": "essential"
+    },
+    {
+      "title": "Naval War College Review - Russian Maritime Strategy Analysis",
+      "type": "article",
+      "url": "https://digital-commons.usnwc.edu/nwc-review/",
+      "relevance": "Academic analysis of how Russian naval doctrine has evolved and where legacy platforms like Kirov fit current strategy.",
+      "priority": "recommended"
+    },
+    {
+      "title": "Jane's Fighting Ships Annual Edition",
+      "type": "database",
+      "url": "https://www.janes.com/products/janes-fighting-ships",
+      "relevance": "Authoritative reference for current configuration details and modernization status of active Kirov-class units.",
+      "priority": "reference"
+    }
+  ]
+}

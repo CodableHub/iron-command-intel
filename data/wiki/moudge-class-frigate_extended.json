@@ -1,0 +1,290 @@
+{
+  "combat_history": [
+    {
+      "date": "2018-01",
+      "operation": "Training accident",
+      "event": "Damavand (77) ran aground and was severely damaged during Caspian Sea operations, later declared total loss",
+      "significance": "Highlighted navigation and seamanship challenges with new indigenous platforms"
+    },
+    {
+      "date": "2019-07-19",
+      "operation": "Strait of Hormuz tensions",
+      "event": "Jamaran participated in Iranian naval exercises during heightened tensions with U.S. forces following tanker incidents",
+      "significance": "First operational deployment of class during major regional crisis"
+    },
+    {
+      "date": "2021-02",
+      "operation": "Indian Ocean deployment",
+      "event": "Sahand conducted extended deployment to Indian Ocean, demonstrating long-range capability",
+      "significance": "Proved class capability for blue-water operations beyond Persian Gulf"
+    }
+  ],
+  "modernization": [
+    {
+      "program": "Batch 2 improvements",
+      "status": "completed",
+      "timeline": "2018-2023",
+      "description": "Enhanced radar systems, improved electronic warfare suite, upgraded combat management system with better sensor integration",
+      "impact": "Significantly improved situational awareness and defensive capabilities"
+    },
+    {
+      "program": "Vertical Launch System integration",
+      "status": "planned",
+      "timeline": "2024-2027",
+      "description": "Potential retrofit of VLS cells for improved air defense capability, possibly using domestically produced SAMs",
+      "impact": "Would transform air defense capability from point defense to area defense"
+    }
+  ],
+  "vulnerabilities": [
+    {
+      "area": "Electronic warfare susceptibility",
+      "description": "Indigenous electronic systems likely vulnerable to modern Western ECM due to limited sophistication and testing against advanced threats",
+      "context": "Critical weakness against U.S./Israeli electronic warfare capabilities in potential conflict scenarios",
+      "mitigation": "Ongoing development of improved EW systems, but technological gap remains significant"
+    },
+    {
+      "area": "Limited air defense envelope",
+      "description": "Mehrab SAM system provides only point defense with questionable reliability and limited engagement envelope against modern anti-ship missiles",
+      "context": "Vulnerable to saturation attacks or advanced supersonic/hypersonic missiles",
+      "mitigation": "Potential VLS upgrade planned, but timeline uncertain"
+    },
+    {
+      "area": "Maintenance and spares",
+      "description": "Mixed foreign/domestic systems create complex logistics challenges, particularly for foreign-origin components under sanctions",
+      "context": "Operational readiness likely limited by parts availability and maintenance capacity",
+      "mitigation": "Increasing indigenization of components, but some critical systems still foreign-dependent"
+    },
+    {
+      "area": "Crew training and experience",
+      "description": "Limited blue-water operational experience and training opportunities due to sanctions and international isolation",
+      "context": "Reduced effectiveness in complex multi-threat environments compared to Western-trained crews",
+      "mitigation": "Increased domestic training programs and exercises, but real-world experience remains limited"
+    }
+  ],
+  "operational_patterns": {
+    "typical_deployment": "Coastal patrol and area denial in Persian Gulf, occasional Indian Ocean presence missions",
+    "deployment_length_months": 3,
+    "key_operating_areas": [
+      "Persian Gulf",
+      "Strait of Hormuz",
+      "Gulf of Oman",
+      "Northern Arabian Sea",
+      "Caspian Sea"
+    ],
+    "typical_task_group": "Usually operates independently or with supply vessel, occasionally with submarine escort",
+    "readiness_notes": "Readiness likely limited to 50-60% due to maintenance challenges and component availability under sanctions"
+  },
+  "peer_comparisons": [
+    {
+      "platform": "Oliver Hazard Perry-class frigate",
+      "country": "United States",
+      "relationship": "capability benchmark",
+      "key_differences": "Perry-class offers superior sensors, combat systems, and reliability, but Moudge class is more modern design with potential for upgrades. Similar displacement but Perry-class has proven combat record.",
+      "video_angle": "David vs Goliath - how Iran's indigenous frigate compares to proven U.S. design"
+    },
+    {
+      "platform": "Type 053H3 Jiangwei II-class frigate",
+      "country": "China",
+      "relationship": "technological peer",
+      "key_differences": "Similar vintage and capability level, both use mix of indigenous and foreign systems. Chinese design has better air defense with HQ-7 SAMs and more mature electronics. Moudge has advantage in anti-ship missiles.",
+      "video_angle": "Regional power naval competition - Iran vs China frigate capabilities"
+    },
+    {
+      "platform": "Gepard-class frigate",
+      "country": "Vietnam",
+      "relationship": "regional equivalent",
+      "key_differences": "Russian-built Gepard offers superior sensors, weapons integration, and build quality. Moudge represents indigenous capability vs foreign procurement approach. Similar roles in regional navies.",
+      "video_angle": "Sanctions vs purchases - indigenous Iranian vs Russian-built Vietnamese frigates"
+    },
+    {
+      "platform": "MILGEM Ada-class corvette",
+      "country": "Turkey",
+      "relationship": "regional rival",
+      "key_differences": "Turkish design significantly more advanced with modern Western systems, stealth features, and NATO interoperability. Represents what Iran might achieve without sanctions. Ada-class smaller but more capable.",
+      "video_angle": "Regional power projection - Turkish vs Iranian naval modernization approaches"
+    }
+  ],
+  "search_keywords": [
+    "moudge class",
+    "jamaran",
+    "damavand",
+    "sahand",
+    "dena",
+    "iran navy",
+    "iranian frigate",
+    "moudge frigate",
+    "persian gulf",
+    "irin",
+    "islamic republic navy"
+  ],
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/82/Iranian_Velayat-90_Naval_Exercise_by_IRIN_%286%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/82/Iranian_Velayat-90_Naval_Exercise_by_IRIN_%286%29.jpg",
+      "width": 894,
+      "height": 585,
+      "title": "Iranian Velayat-90 Naval Exercise by IRIN (6).jpg",
+      "description": "Jamaran frigate and one helicopter Agusta-Bell AB.212 in Velayat-90 Naval Exercise.",
+      "license": "CC BY 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/75/Iranian_frigate_Damavand_2017-07-06.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/75/Iranian_frigate_Damavand_2017-07-06.jpg",
+      "width": 803,
+      "height": 484,
+      "title": "Iranian frigate Damavand 2017-07-06.jpg",
+      "description": "\u0631\u0698\u0647 \u0646\u06cc\u0631\u0648\u06cc \u062f\u0631\u06cc\u0627\u06cc\u06cc \u0627\u0631\u062a\u0634 \u062f\u0631 \u0631\u0648\u0632 \u067e\u0627\u06cc\u0627\u0646\u06cc \u0631\u0632\u0645\u0627\u06cc\u0634 \u00ab\u0627\u0645\u0646\u06cc\u062a \u067e\u0627\u06cc\u062f\u0627\u0631 \u0648 \u0627\u0642\u062a\u062f\u0627\u0631 \u062f\u0631\u06cc\u0627\u06cc\u06cc \u06f9\u06f6\u00bb \u0628\u0627 \u062d\u0636\u0648\u0631 \u0627\u0645\u06cc\u0631 \u0633\u06cc\u0627\u0631\u06cc \u0641\u0631\u0645\u0627\u0646\u062f\u0647 \u0646\u06cc\u0631\u0648\u06cc \u062f\u0631\u06cc\u0627\u06cc\u06cc \u0631\u0627\u0647\u0628\u0631\u062f\u06cc \u0627\u0631\u062a\u0634 \u0648 \u0644\u0627\u0631\u06cc\u062c\u0627\u0646\u06cc \u0631\u0626\u06cc\u0633 \u0645\u062c\u0644\u0633 \u0634\u0648\u0631\u0627\u06cc \u0627\u0633\u0644\u0627\u0645\u06cc \u0628\u0631\u06af\u0632\u0627\u0631 \u0634\u062f.",
+      "license": "CC BY 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/18/Iranian_naval_group_leaving_for_Caspian_mission_%2819%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/18/Iranian_naval_group_leaving_for_Caspian_mission_%2819%29.jpg",
+      "width": 800,
+      "height": 557,
+      "title": "Iranian naval group leaving for Caspian mission (19).jpg",
+      "description": "\u0646\u0627\u0648\u06af\u0631\u0648\u0647 \u0646\u06cc\u0631\u0648\u06cc \u062f\u0631\u06cc\u0627\u06cc\u06cc \u0627\u0631\u062a\u0634 \u0634\u0627\u0645\u0644 \u0646\u0627\u0648\u0634\u06a9\u0646 \"\u062f\u0645\u0627\u0648\u0646\u062f\" \u0648 \u0646\u0627\u0648 \u0645\u0648\u0634\u06a9\u200c\u0627\u0646\u062f\u0627\u0632 \"\u062c\u0648\u0634\u0646\" \u0635\u0628\u062d \u0627\u0645\u0631\u0648\u0632 \u0628\u0627 \u0628\u062f\u0631\u0642\u0647 \u0641\u0631\u0645\u0627\u0646\u062f\u0647 \u0646\u0627\u0648\u06af\u0627\u0646 \u0634\u0645\u0627\u0644 \u0646\u062f\u0627\u062c\u0627 \u0628\u0647 \u0633\u0645\u062a \u0628\u0646\u062f\u0631 \u0628\u0627\u06a9\u0648 \u0627\u0639\u0632\u0627\u0645 \u0634\u062f.",
+      "license": "CC BY 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Opening_naval_review_of_Velayat_97_%2801%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Opening_naval_review_of_Velayat_97_%2801%29.jpg",
+      "width": 800,
+      "height": 557,
+      "title": "Opening naval review of Velayat 97 (01).jpg",
+      "description": "\u0631\u0632\u0645\u0627\u06cc\u0634 \u062f\u0631\u06cc\u0627\u06cc\u06cc \u0648\u0644\u0627\u06cc\u062a \u0669\u0667 \u0628\u0627 \u0631\u0698\u0647 \u0628\u0632\u0631\u06af \u06cc\u06af\u0627\u0646 \u0647\u0627\u06cc \u0633\u0637\u062d\u06cc\u060c \u0632\u06cc\u0631\u0633\u0637\u062d\u06cc \u0648 \u067e\u0631\u0648\u0627\u0632\u06cc \u0646\u06cc\u0631\u0648\u06cc \u062f\u0631\u06cc\u0627\u06cc\u06cc \u0627\u0631\u062a\u0634 \u062f\u0631 \u0645\u0646\u0637\u0642\u0647 \u0645\u06a9\u0631\u0627\u0646 \u0622\u063a\u0627\u0632 \u0634\u062f.\u0627\u06cc\u0646 \u0631\u0632\u0645\u0627\u06cc\u0634 \u0628\u0647 \u0645\u062f\u062a \u06f3 \u0631\u0648\u0632 \u0627\u0632 \u0635\u0628\u062d \u0627\u0645\u0631\u0648\u0632 \u0628\u0627 \u0627\u0646\u062c\u0627\u0645 \u0631\u0698\u0647 \u062f\u0631\u06cc\u0627\u06cc\u06cc \u0627\u0646\u0648\u0627\u0639 \u0634\u0646\u0627\u0648\u0631\u0647\u0627\u06cc \u0633\u0637\u062d\u06cc \u0648 \u0632\u06cc\u0631 \u0633\u0637\u062d\u06cc \u0648 \u06cc\u06af",
+      "license": "CC BY 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/06/Opening_naval_review_of_Velayat_97_%2808%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/06/Opening_naval_review_of_Velayat_97_%2808%29.jpg",
+      "width": 800,
+      "height": 557,
+      "title": "Opening naval review of Velayat 97 (08).jpg",
+      "description": "\u0631\u0632\u0645\u0627\u06cc\u0634 \u062f\u0631\u06cc\u0627\u06cc\u06cc \u0648\u0644\u0627\u06cc\u062a \u0669\u0667 \u0628\u0627 \u0631\u0698\u0647 \u0628\u0632\u0631\u06af \u06cc\u06af\u0627\u0646 \u0647\u0627\u06cc \u0633\u0637\u062d\u06cc\u060c \u0632\u06cc\u0631\u0633\u0637\u062d\u06cc \u0648 \u067e\u0631\u0648\u0627\u0632\u06cc \u0646\u06cc\u0631\u0648\u06cc \u062f\u0631\u06cc\u0627\u06cc\u06cc \u0627\u0631\u062a\u0634 \u062f\u0631 \u0645\u0646\u0637\u0642\u0647 \u0645\u06a9\u0631\u0627\u0646 \u0622\u063a\u0627\u0632 \u0634\u062f.\u0627\u06cc\u0646 \u0631\u0632\u0645\u0627\u06cc\u0634 \u0628\u0647 \u0645\u062f\u062a \u06f3 \u0631\u0648\u0632 \u0627\u0632 \u0635\u0628\u062d \u0627\u0645\u0631\u0648\u0632 \u0628\u0627 \u0627\u0646\u062c\u0627\u0645 \u0631\u0698\u0647 \u062f\u0631\u06cc\u0627\u06cc\u06cc \u0627\u0646\u0648\u0627\u0639 \u0634\u0646\u0627\u0648\u0631\u0647\u0627\u06cc \u0633\u0637\u062d\u06cc \u0648 \u0632\u06cc\u0631 \u0633\u0637\u062d\u06cc \u0648 \u06cc\u06af",
+      "license": "CC BY 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Opening_naval_review_of_Velayat_97_%2831%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Opening_naval_review_of_Velayat_97_%2831%29.jpg",
+      "width": 800,
+      "height": 557,
+      "title": "Opening naval review of Velayat 97 (31).jpg",
+      "description": "\u0631\u0632\u0645\u0627\u06cc\u0634 \u062f\u0631\u06cc\u0627\u06cc\u06cc \u0648\u0644\u0627\u06cc\u062a \u0669\u0667 \u0628\u0627 \u0631\u0698\u0647 \u0628\u0632\u0631\u06af \u06cc\u06af\u0627\u0646 \u0647\u0627\u06cc \u0633\u0637\u062d\u06cc\u060c \u0632\u06cc\u0631\u0633\u0637\u062d\u06cc \u0648 \u067e\u0631\u0648\u0627\u0632\u06cc \u0646\u06cc\u0631\u0648\u06cc \u062f\u0631\u06cc\u0627\u06cc\u06cc \u0627\u0631\u062a\u0634 \u062f\u0631 \u0645\u0646\u0637\u0642\u0647 \u0645\u06a9\u0631\u0627\u0646 \u0622\u063a\u0627\u0632 \u0634\u062f.\u0627\u06cc\u0646 \u0631\u0632\u0645\u0627\u06cc\u0634 \u0628\u0647 \u0645\u062f\u062a \u06f3 \u0631\u0648\u0632 \u0627\u0632 \u0635\u0628\u062d \u0627\u0645\u0631\u0648\u0632 \u0628\u0627 \u0627\u0646\u062c\u0627\u0645 \u0631\u0698\u0647 \u062f\u0631\u06cc\u0627\u06cc\u06cc \u0627\u0646\u0648\u0627\u0639 \u0634\u0646\u0627\u0648\u0631\u0647\u0627\u06cc \u0633\u0637\u062d\u06cc \u0648 \u0632\u06cc\u0631 \u0633\u0637\u062d\u06cc \u0648 \u06cc\u06af",
+      "license": "CC BY 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Opening_naval_review_of_Velayat_97_%2850%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Opening_naval_review_of_Velayat_97_%2850%29.jpg",
+      "width": 1050,
+      "height": 700,
+      "title": "Opening naval review of Velayat 97 (50).jpg",
+      "description": "\u0631\u0632\u0645\u0627\u06cc\u0634 \u062f\u0631\u06cc\u0627\u06cc\u06cc \u0648\u0644\u0627\u06cc\u062a \u06f9\u06f7 \u0628\u0627 \u0631\u0698\u0647 \u0628\u0632\u0631\u06af \u06cc\u06af\u0627\u0646\u0647\u0627\u06cc \u0633\u0637\u062d\u06cc\u060c \u0632\u06cc\u0631 \u0633\u0637\u062d\u06cc \u0648 \u067e\u0631\u0648\u0627\u0632\u06cc \u0627\u0631\u062a\u0634 \u062f\u0631 \u0645\u0646\u0637\u0642\u0647 \u0645\u06a9\u0631\u0627\u0646 \u0622\u063a\u0627\u0632 \u0634\u062f. \u0627\u06cc\u0646 \u0631\u0632\u0645\u0627\u06cc\u0634 \u0628\u0647 \u0645\u062f\u062a \u06f3 \u0631\u0648\u0632 \u062f\u0631 \u06af\u0633\u062a\u0631\u0647 \u0627\u06cc \u0628\u0647 \u0648\u0633\u0639\u062a \u0628\u06cc\u0634 \u0627\u0632 \u06f2 \u0645\u06cc\u0644\u06cc\u0648\u0646 \u06a9\u06cc\u0644\u0648\u0645\u062a\u0631 \u0645\u0631\u0628\u0639 \u0627\u062f\u0627\u0645\u0647 \u062e\u0648\u0627\u0647\u062f \u062f\u0627\u0634\u062a.",
+      "license": "CC BY 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/02/Velayat_89_-_Day_5_%2812%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/02/Velayat_89_-_Day_5_%2812%29.jpg",
+      "width": 595,
+      "height": 397,
+      "title": "Velayat 89 - Day 5 (12).jpg",
+      "description": "\u067e\u0646\u062c\u0645\u06cc\u0646 \u0631\u0648\u0632 \u0627\u0632 \u0631\u0632\u0645\u0627\u06cc\u0634 \u062f\u0631\u06cc\u0627\u06cc\u06cc \u0648\u0644\u0627\u06cc\u062a \u06f8\u06f9 \u0627\u0645\u0631\u0648\u0632 \u06cc\u06a9\u0634\u0646\u0628\u0647 \u06f1\u06f9 \u0627\u0631\u062f\u06cc\u0628\u0647\u0634\u062a \u06f1\u06f3\u06f8\u06f9 \u062f\u0631 \u0645\u0646\u0637\u0642\u0647 \u062c\u0627\u0633\u06a9 \u0628\u0627 \u0645\u0648\u0641\u0642\u06cc\u062a \u0628\u0647 \u067e\u0627\u06cc\u0627\u0646 \u0631\u0633\u06cc\u062f.",
+      "license": "CC BY 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Military_Photographer_of_the_Year_Winner_1998_Title-_A_Fine_Navy_Day_Category-_Combat_Camera_Place-_Honorable_Mention_Combat_Camera-_First_Place_PortfolioThe_Navy%27s_newest_Ohio-Clas_-_DPLA_-_7395ef9463db0bbb3b488c1a109fb187.jpeg/1280px-thumbnail.jpeg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Military_Photographer_of_the_Year_Winner_1998_Title-_A_Fine_Navy_Day_Category-_Combat_Camera_Place-_Honorable_Mention_Combat_Camera-_First_Place_PortfolioThe_Navy%27s_newest_Ohio-Clas_-_DPLA_-_7395ef9463db0bbb3b488c1a109fb187.jpeg",
+      "width": 3000,
+      "height": 2004,
+      "title": "Military Photographer of the Year Winner 1998 Title- A Fine Navy Day Category- Combat Camera Place- Honorable Mention Combat Camera- First Place PortfolioThe Navy's newest Ohio-Clas - DPLA - 7395ef9463db0bbb3b488c1a109fb187.jpeg",
+      "description": "<div class=\"description\">\nThe original finding aid described this photograph as: Country: Unknown Scene Camera Operator: JO1 Robert Benson Release Status: Released to Public</div>",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Seattle_Mail_and_Herald%2C_v._6%2C_no._Progress%2C_Dec._20%2C_1902_-_DPLA_-_5029cb25966ee8c2fff03f859b8e499e_%28page_29%29.jpg/1280px-Seattle_Mail_and_Herald%2C_v._6%2C_no._Progress%2C_Dec._20%2C_1902_-_DPLA_-_5029cb25966ee8c2fff03f859b8e499e_%28page_29%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/12/Seattle_Mail_and_Herald%2C_v._6%2C_no._Progress%2C_Dec._20%2C_1902_-_DPLA_-_5029cb25966ee8c2fff03f859b8e499e_%28page_29%29.jpg",
+      "width": 3894,
+      "height": 5256,
+      "title": "Seattle Mail and Herald, v. 6, no. Progress, Dec. 20, 1902 - DPLA - 5029cb25966ee8c2fff03f859b8e499e (page 29).jpg",
+      "description": "<div class=\"description\">\n<p>This edition (labeled \"Progress Edition\" rather than v.6, no. 5)  was a special 66-page edition of this weekly newspaper, which normally only ran to 16 pages.\n</p>\n<hr>\nPa",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/90/US_Navy_Fire_Control_Technician_3RD_Class_%28FC_3%29_Earl_Franklin_maintains_the_20mm_Vulcan_Phalanx_6-barrelled_%28Mk_15%29_Close-In_Weapons_System_%28CWIS%29%2C_onboard_the_US_Navy_aircraft_car_-_DPLA_-_508dc342ad3581c85f8cf17c13a80214.jpeg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/90/US_Navy_Fire_Control_Technician_3RD_Class_%28FC_3%29_Earl_Franklin_maintains_the_20mm_Vulcan_Phalanx_6-barrelled_%28Mk_15%29_Close-In_Weapons_System_%28CWIS%29%2C_onboard_the_US_Navy_aircraft_car_-_DPLA_-_508dc342ad3581c85f8cf17c13a80214.jpeg",
+      "width": 1015,
+      "height": 1421,
+      "title": "US Navy Fire Control Technician 3RD Class (FC 3) Earl Franklin maintains the 20mm Vulcan Phalanx 6-barrelled (Mk 15) Close-In Weapons System (CWIS), onboard the US Navy aircraft car - DPLA - 508dc342ad3581c85f8cf17c13a80214.jpeg",
+      "description": "<div class=\"description\">\nThe original finding aid described this photograph as: Subject Operation/Series: None Base: USS Constellation (CV 64) State: California (CA) Country: United States Of America",
+      "license": "Public domain",
+      "source": "wikimedia"
+    }
+  ],
+  "doctrine": {
+    "role": "Coastal sea denial and regional deterrence within the Persian Gulf's confined waters, designed to complicate U.S. naval operations through asymmetric tactics rather than direct confrontation.",
+    "employment": "Typically operates in small task groups of 2-3 vessels with fast attack craft and missile boats in a layered defense concept. Conducts anti-ship missile strikes from coastal positions, escorts higher-value units like Sahand-class frigates, and provides air defense for naval bases and chokepoints. Command relationships remain centralized under IRIN headquarters rather than distributed tactical control.",
+    "design_philosophy": "Prioritized anti-ship firepower and basic air defense over blue-water endurance and sophisticated sensors, accepting reduced range and habitability for indigenous production capability. Designers sacrificed helicopter facilities and advanced sonar systems to maximize surface-to-surface missile capacity within Iran's industrial constraints.",
+    "threat_context": "Designed primarily to counter U.S. carrier strike groups and allied naval forces in a Hormuz Strait closure scenario during the 2000s-2010s. The threat environment has evolved to include more sophisticated ISR capabilities and precision strike weapons that challenge the platform's survival in contested waters.",
+    "comparison_frame": "Compare primarily on anti-ship missile capacity and production sustainability rather than sensor sophistication or multi-mission capability\u2014Iran accepts reduced naval warfare complexity in exchange for numbers and indigenous control. Cost-per-unit and maintenance independence matter more than individual platform capability against peer competitors."
+  },
+  "curated_sources": [
+    {
+      "title": "Iran's Naval Forces and Weapons of Mass Destruction: How Dangerous?",
+      "type": "report",
+      "url": "https://www.csis.org/analysis/irans-naval-forces-and-weapons-mass-destruction-how-dangerous",
+      "relevance": "Comprehensive analysis of Iranian naval strategy and the Moudge class's role in Iran's asymmetric naval doctrine.",
+      "priority": "essential"
+    },
+    {
+      "title": "Iran's Military Capabilities and Doctrine",
+      "type": "report",
+      "url": "https://crsreports.congress.gov/product/pdf/R/R45048",
+      "relevance": "Congressional Research Service assessment providing official U.S. perspective on Iranian naval capabilities including indigenous frigate programs.",
+      "priority": "essential"
+    },
+    {
+      "title": "Fariborz Haghshenass - Naval Warfare Expert",
+      "type": "analyst",
+      "url": "",
+      "relevance": "Leading analyst on Iranian naval developments and former Iranian naval officer with detailed knowledge of IRIN modernization programs.",
+      "priority": "recommended"
+    },
+    {
+      "title": "Iran's Navy: How to Study a Lesser Naval Power",
+      "type": "article",
+      "url": "https://www.usni.org/magazines/proceedings/2013/march/irans-navy-how-study-lesser-naval-power",
+      "relevance": "Naval War College analysis of Iranian naval doctrine and how platforms like Moudge fit into broader strategic concepts.",
+      "priority": "recommended"
+    },
+    {
+      "title": "Moudge Class Frigate - Seaforces",
+      "type": "database",
+      "url": "https://www.seaforces.org/marint/Iranian-Navy/Frigate/Moudge-class.htm",
+      "relevance": "Detailed technical specifications and construction timeline for all Moudge-class vessels with regular updates.",
+      "priority": "reference"
+    },
+    {
+      "title": "The Blunt Instrument: Iran's Naval Power and Objectives",
+      "type": "report",
+      "url": "https://rusi.org/explore-our-research/publications/commentary/blunt-instrument-irans-naval-power-and-objectives",
+      "relevance": "RUSI analysis of Iranian naval modernization strategy and the limitations of platforms like the Moudge class.",
+      "priority": "recommended"
+    },
+    {
+      "title": "Iranian Naval Strategy in the Persian Gulf",
+      "type": "book",
+      "url": "",
+      "relevance": "Academic examination of IRIN doctrine evolution and indigenous shipbuilding programs including detailed Moudge class analysis.",
+      "priority": "reference"
+    }
+  ]
+}

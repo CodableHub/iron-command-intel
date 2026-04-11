@@ -1,0 +1,944 @@
+{
+  "id": 20,
+  "slug": "type-001-liaoning",
+  "name": "Type 001 Liaoning aircraft carrier",
+  "designation": "Type 001",
+  "type": "carrier",
+  "country": "China",
+  "operator": "People's Liberation Army Navy (PLAN)",
+  "overview_md": "The Type 001 Liaoning represents China's entry into the exclusive club of aircraft carrier operators, serving as both a training platform and a symbol of Beijing's naval ambitions. Originally laid down as the Soviet Admiral Kuznetsov-class carrier Varyag in 1985, the hull was purchased by China in 1998 and underwent extensive reconstruction at Dalian shipyard, commissioning in 2012 as the PLAN's first aircraft carrier.\n\nStrategically, Liaoning serves dual roles: developing China's carrier aviation capabilities and projecting power in the South China Sea and broader Indo-Pacific region. The platform has been crucial for training China's first generation of carrier pilots and establishing operational procedures for carrier strike group operations. While initially dismissed as merely a training ship, Liaoning has demonstrated increasing operational capability through multiple deployments and combat readiness exercises.\n\nThe design philosophy reflects Soviet naval doctrine adapted to Chinese requirements, featuring a ski-jump launch configuration rather than catapults, limiting it to shorter-range aircraft operations compared to US supercarriers. The ship operates J-15 Flying Shark fighters, based on the Su-33, along with Z-18 helicopters for various support roles. This configuration provides regional power projection capability but lacks the global reach of CATOBAR carriers.\n\nIn the current threat environment, Liaoning represents a significant capability gap closure for China, enabling sustained air operations beyond land-based fighter range. While not matching US carrier capabilities, it provides credible deterrence in regional scenarios and serves as the foundation for China's expanding carrier fleet, including the domestically-built Type 002 Shandong and future Type 003 carriers with electromagnetic catapults.",
+  "specs_json": {
+    "displacement_tonnes": 60000,
+    "length_m": 304.5,
+    "beam_m": 75,
+    "draft_m": 10.5,
+    "speed_knots": 32,
+    "range_nm": 3850,
+    "crew": 1960,
+    "propulsion": "Steam turbines, 8 boilers, 4 shafts, 200,000 shp",
+    "radar": "Type 346 Dragon Eye AESA radar",
+    "sonar": "Hull-mounted sonar suite",
+    "combat_system": "Integrated combat management system",
+    "vls_cells": 0,
+    "additional": {
+      "aircraft_capacity": 36,
+      "flight_deck_length_m": 300,
+      "hangar_area_sqm": 4500,
+      "elevators": 2,
+      "ski_jump_angle": 14
+    }
+  },
+  "armament_json": [
+    {
+      "category": "Surface-to-Air Missiles",
+      "name": "HQ-10",
+      "type": "Short-range SAM",
+      "quantity": "18-cell launcher",
+      "range_km": 9,
+      "notes": "Point defense system"
+    },
+    {
+      "category": "CIWS",
+      "name": "Type 1130",
+      "type": "Close-in weapon system",
+      "quantity": "3x 11-barrel",
+      "range_km": 3,
+      "notes": "11,000 rounds/minute rate of fire"
+    },
+    {
+      "category": "Electronic Warfare",
+      "name": "Type 726-4 chaff/flare",
+      "type": "Decoy launcher",
+      "quantity": "Multiple systems",
+      "range_km": 0,
+      "notes": "Self-defense countermeasures"
+    }
+  ],
+  "variants_json": [
+    {
+      "name": "Type 001 Liaoning",
+      "designation_range": "16",
+      "years": "2012-present",
+      "count": 1,
+      "key_changes": "Rebuilt from incomplete Soviet Varyag hull with Chinese electronics, weapons, and systems integration",
+      "status": "active"
+    }
+  ],
+  "fleet_status_json": [
+    {
+      "hull_number": "16",
+      "name": "Liaoning",
+      "variant": "Type 001",
+      "commissioned": "2012-09-25",
+      "home_port": "Qingdao Naval Base",
+      "status": "active"
+    }
+  ],
+  "cost_usd": 4500000000.0,
+  "unit_count": 1,
+  "first_commissioned": "2012-09-25",
+  "builder": "Dalian Shipbuilding Industry Company (completion)",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/76/Aircraft_Carrier_Liaoning_CV-16.jpg",
+  "wiki_url": "https://en.wikipedia.org/wiki/Chinese_aircraft_carrier_Liaoning",
+  "sources_json": [
+    "https://en.wikipedia.org/wiki/Chinese_aircraft_carrier_Liaoning",
+    "https://www.navy.mil/Resources/Fact-Files/",
+    "https://www.janes.com/",
+    "https://www.defensenews.com/",
+    "https://www.scmp.com/"
+  ],
+  "comparison_tags": [
+    "aircraft-carrier",
+    "plan",
+    "china",
+    "ski-jump",
+    "regional-power",
+    "training-carrier"
+  ],
+  "created_at": "2026-04-10 19:44:07",
+  "updated_at": "2026-04-10T19:44:07.435275",
+  "news": [
+    {
+      "id": 311,
+      "platform_id": 20,
+      "article_hash": "cba57d902a98e321",
+      "title": "Landmark U.S. budget request includes $65.8 Billion for Navy shipbuilding",
+      "url": "https://www.navalnews.com/naval-news/2026/04/landmark-u-s-budget-request-includes-65-8-billion-for-navy-shipbuilding/",
+      "source": "Naval News",
+      "published_at": "2026-04-10T12:13:55",
+      "relevance_score": 0.4,
+      "snippet": "In lieu of the U.S. Navy&#8217;s increasing emphasis towards revitalizing the maritime industrial base, the FY 2027 Budget request contains a requested $65,825,017,000 designated towards critical U.S. Navy shipbuilding efforts, with most of the funds tapped for noteworthy programs. Aircraft Carriers",
+      "created_at": "2026-04-10 21:05:27"
+    },
+    {
+      "id": 322,
+      "platform_id": 20,
+      "article_hash": "0cb0e40377d0b3b9",
+      "title": "Pakistan\u2019s Secret Air Shield: J-10C Fighters, Erieye AWACS and EW Aircraft Escort Iranian Delegation Amid Fears of Israeli Strike - Defence Security Asia",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNbFd0bDc0NTZ3ZjI1eVptWC1Wa2hYMjRXc1lVdzZSTlNRNkFMWTJ2LV9kX0EyTkdTQ0NSVnVhdHpTT1hjbkRqTUJVdmhhQ21mR1lQQllqQ3k3eHJDdjU0eGtkM0NiLTNOaldqVVNKUVhtTHdkRDJTYm1uc1dtWU1lZ1dRcDA3ZkR6X3VkWXJ5enZUUE1sMmpEOTdZd2pyX0lfaGVWQVBnTEwyeC1OZzhFcGVNNl9WXzNJV3Jic3pwdjdwaG9MUERmLXc1S3VSSEN2QXV2TXRR?oc=5",
+      "source": "GNews (Defence Security Asia)",
+      "published_at": "2026-04-10T00:25:09",
+      "relevance_score": 0.6,
+      "snippet": "Pakistan\u2019s Secret Air Shield: J-10C Fighters, Erieye AWACS and EW Aircraft Escort Iranian Delegation Amid Fears of Israeli Strike - Defence Security Asia",
+      "created_at": "2026-04-10 21:05:27"
+    },
+    {
+      "id": 331,
+      "platform_id": 20,
+      "article_hash": "55575a6fb36b8b05",
+      "title": "North Korea Holds 3 Days of Major Weapon Tests, Missile Launches",
+      "url": "https://news.usni.org/2026/04/09/north-korea-holds-3-days-of-major-weapon-tests-missile-launches",
+      "source": "USNI News",
+      "published_at": "2026-04-09T19:47:39",
+      "relevance_score": 0.2,
+      "snippet": "North Korea carried out three days of weapons, including a cluster munitions warhead on a ballistic missile, state media Korean Central News Agency said on Thursday. Earlier this week, North Korea\u2019s Academy of Defence Science and the Missile Administration fired electromagnetic weapon systems, carbo",
+      "created_at": "2026-04-10 21:05:27"
+    },
+    {
+      "id": 350,
+      "platform_id": 20,
+      "article_hash": "4508b5a005cb78b6",
+      "title": "UK says it deployed military to deter Russian submarines from attack on undersea cables",
+      "url": "https://www.defensenews.com/global/europe/2026/04/09/uk-says-it-deployed-military-to-deter-russian-submarines-from-attack-on-undersea-cables/",
+      "source": "Defense News",
+      "published_at": "2026-04-09T14:55:55",
+      "relevance_score": 0.2,
+      "snippet": "Norway\u2019s defense ministry said its armed forces had also deployed a P-8 maritime patrol aircraft and a frigate.",
+      "created_at": "2026-04-10 21:05:27"
+    },
+    {
+      "id": 355,
+      "platform_id": 20,
+      "article_hash": "037813b175e2a8fe",
+      "title": "Army moves toward contractor-run pilot training after years of safety concerns",
+      "url": "https://www.militarytimes.com/news/your-military/2026/04/09/army-moves-toward-contractor-run-pilot-training-after-years-of-safety-concerns/",
+      "source": "Military Times",
+      "published_at": "2026-04-09T14:49:52",
+      "relevance_score": 0.2,
+      "snippet": "Contractors bidding to train U.S. Army rotary-wing pilots have centered their plans on different training aircraft.",
+      "created_at": "2026-04-10 21:05:27"
+    },
+    {
+      "id": 360,
+      "platform_id": 20,
+      "article_hash": "3f99e72106d87a4b",
+      "title": "Greek SCYTALYS Partners with Indonesia\u2019s PTDI on Tactical Mission System for N219 and CN235",
+      "url": "https://www.navalnews.com/naval-news/2026/04/greek-scytalys-partners-with-indonesias-ptdi-on-tactical-mission-system-for-n219-and-cn235/",
+      "source": "Naval News",
+      "published_at": "2026-04-09T13:17:24",
+      "relevance_score": 0.2,
+      "snippet": "SCYTALYS signed an MoU with PT Dirgantara Indonesia to integrate its MIMS Airborne system into N219 and CN235 aircraft, enhancing maritime surveillance capabilities and expanding opportunities in the Asia-Pacific market. SCYTALYS Press Release Athens, 9 April 2026. SCYTALYS (part of EFA GROUP) has s",
+      "created_at": "2026-04-10 21:05:28"
+    },
+    {
+      "id": 372,
+      "platform_id": 20,
+      "article_hash": "620be17f5c32559f",
+      "title": "UK exposes covert Russian submarine operation in and around UK waters",
+      "url": "https://www.navalnews.com/naval-news/2026/04/uk-exposes-covert-russian-submarine-operation-in-and-around-uk-waters/",
+      "source": "Naval News",
+      "published_at": "2026-04-09T12:09:02",
+      "relevance_score": 0.2,
+      "snippet": "The British military has exposed a covert Russian submarine operation in and around UK waters, forcing the vessels to retreat back to Russia. UK Ministry of Defence press release British aircraft and warships identified a Russian attack submarine entering international waters in the High North sever",
+      "created_at": "2026-04-10 21:05:28"
+    },
+    {
+      "id": 377,
+      "platform_id": 20,
+      "article_hash": "9ac34fef43ee0569",
+      "title": "BAE Systems tests APKWS laser-guidance kit on RAF Typhoon aircraft",
+      "url": "https://www.airforce-technology.com/news/bae-systems-apkws-eurofighter-test/",
+      "source": "Airforce Technology",
+      "published_at": "2026-04-09T11:48:07",
+      "relevance_score": 0.6,
+      "snippet": "BAE Systems has confirmed the successful test firing of the APKWS laser-guidance kit from a Eurofighter Typhoon aircraft.",
+      "created_at": "2026-04-10 21:05:28"
+    },
+    {
+      "id": 405,
+      "platform_id": 20,
+      "article_hash": "c090e5d720c18e1d",
+      "title": "6 Military Aircraft That Were Produced In Lower Numbers - Simple Flying",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE8xcmgxX2lZY3owWkt0RDRvZWRNVXhoaVVtUVJ6RDBDV0NIbVc2Z2RKVEZ1QzR5THUtTTIycmZrUDVNZi1mTEFzTDd6bkxjNUEtUGQ4WmJtOTRYZ2haZVhWY3lwcWNLNGpYY1lqZEJmQlIzV1pV?oc=5",
+      "source": "GNews (Simple Flying)",
+      "published_at": "2026-04-09T02:00:00",
+      "relevance_score": 0.6,
+      "snippet": "6 Military Aircraft That Were Produced In Lower Numbers - Simple Flying",
+      "created_at": "2026-04-10 21:05:28"
+    },
+    {
+      "id": 412,
+      "platform_id": 20,
+      "article_hash": "15bc0d51f5587b38",
+      "title": "Lockheed C-5 Galaxy: Inside The Largest US Military Transport Aircraft Ever Constructed - Simple Flying",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNZjdET25IRkxYOGxYaFZYNVYxaTRlX2JEX2RJdzRRN3hkTDNPejBQc3REQ0pvZm4xQktyaTFoYkI5MHExMXZTUlJpci01ZmU3T1JHOGNlVG13a1g3Yzh0TEtfaGNRQjd0UTVIMWV0UGwzN1FlNDRJR09UMDJUNDZtODNEUjY0TkVQNDJWY3puMDc?oc=5",
+      "source": "GNews (Simple Flying)",
+      "published_at": "2026-04-08T21:30:19",
+      "relevance_score": 0.6,
+      "snippet": "Lockheed C-5 Galaxy: Inside The Largest US Military Transport Aircraft Ever Constructed - Simple Flying",
+      "created_at": "2026-04-10 21:05:28"
+    },
+    {
+      "id": 429,
+      "platform_id": 20,
+      "article_hash": "1e2f634206d1ae13",
+      "title": "U.S. Navy Deploys Nuclear-Powered Aircraft Carrier \"USS Nimitz\" to South America for One Last Mission Before Retirement - The Daily Galaxy",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNR0NPVVRYeW1BNnpycV9qaEd4aENiMkpual8wUUp5TTZwMC12UXpYRmdNY0RoWUNKajNZdG95TDJBbFZaVTludnRTU1RWbXZ3VXJ3azliRGZQSk9pMjhnMGZhLVI3UmxNSmoya0lPd1NWMHNnbGpOQkExa0V4NXA4c2VMLTNCME9UZFlueGN3?oc=5",
+      "source": "GNews (The Daily Galaxy)",
+      "published_at": "2026-04-08T12:15:00",
+      "relevance_score": 1.0,
+      "snippet": "U.S. Navy Deploys Nuclear-Powered Aircraft Carrier \"USS Nimitz\" to South America for One Last Mission Before Retirement - The Daily Galaxy",
+      "created_at": "2026-04-10 21:05:28"
+    },
+    {
+      "id": 449,
+      "platform_id": 20,
+      "article_hash": "69d5593f80947aa9",
+      "title": "Hermeus raises $350 million, reaches $1 billion valuation to accelerate development of high-speed military aircraft - Defence Industry Europe",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxORXctX1hxZTBleEt5RXRkcjgzb3pTQUFBV29wVTVUUDVKblZNOTMtZDJzN3Y5aVFlUldEZnhIa3U2MEVBR0V6R080WTA5NDlkQUdXLVNGM0YtbmY0QmJ6MVBOcVJIcFU5OTRBNUhfdG9NbDY4azR3RDBJeE5nb2U5bWg1Q0dXaFpkdVBB?oc=5",
+      "source": "GNews (Defence Industry Europe)",
+      "published_at": "2026-04-07T22:35:19",
+      "relevance_score": 0.6,
+      "snippet": "Hermeus raises $350 million, reaches $1 billion valuation to accelerate development of high-speed military aircraft - Defence Industry Europe",
+      "created_at": "2026-04-10 21:05:29"
+    },
+    {
+      "id": 453,
+      "platform_id": 20,
+      "article_hash": "128bc2e625ca4b7f",
+      "title": "Iran war: US military aircraft damage and losses - Anadolu Ajans\u0131",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA4SGRNTU9aLXpVaU5uenhTMnpBbHJQSm5yZktFcEdHT0F4NzZ6eWl0a2NTZVBBOUZ0amxJQXBrOUlvV1kwbVlXYlV3TEJ1Q1Z1eEFFb0drOWt2bzQ?oc=5",
+      "source": "GNews (Anadolu Ajans\u0131)",
+      "published_at": "2026-04-07T21:25:06",
+      "relevance_score": 0.6,
+      "snippet": "Iran war: US military aircraft damage and losses - Anadolu Ajans\u0131",
+      "created_at": "2026-04-10 21:05:29"
+    },
+    {
+      "id": 458,
+      "platform_id": 20,
+      "article_hash": "93eb7140d30e58ef",
+      "title": "Damen launches \u2018Drone Carrier\u2019 for the Portuguese Navy",
+      "url": "https://www.navalnews.com/naval-news/2026/04/damen-launches-drone-carrier-for-the-portuguese-navy/",
+      "source": "Naval News",
+      "published_at": "2026-04-07T20:47:26",
+      "relevance_score": 0.6,
+      "snippet": "Damen Shipyards Group has launched the NRP\u00a0D. Jo\u00e3o II a\u00a0Multi-Purpose Vessel\u00a0(MPV) 10720 for the Portuguese Navy. The vessel entered the water at\u00a0Damen Shipyards Galati\u00a0in Romania on April 7. Damen press release The launch event took place in the presence of Vice Admiral Pires on behalf of the Portu",
+      "created_at": "2026-04-10 21:05:29"
+    },
+    {
+      "id": 460,
+      "platform_id": 20,
+      "article_hash": "1d857240b722e5ea",
+      "title": "The HH-60W helped rescue a pilot in Iran. Here\u2019s why the Air Force might not buy more.",
+      "url": "https://breakingdefense.com/2026/04/iran-pilot-rescue-hh60-jolly-green-helicopter-trump/",
+      "source": "Breaking Defense",
+      "published_at": "2026-04-07T20:33:31",
+      "relevance_score": 0.2,
+      "snippet": "The Air Force in fiscal 2023 attempted to cap the Jolly Green II\u2019s fleet at 75 aircraft, but lawmakers have pushed back.",
+      "created_at": "2026-04-10 21:05:29"
+    },
+    {
+      "id": 466,
+      "platform_id": 20,
+      "article_hash": "26cf2995e1c2b22a",
+      "title": "Bell, M1 advance to final phase of Army\u2019s Flight School Next competition",
+      "url": "https://breakingdefense.com/2026/04/bell-m1-advance-to-final-phase-of-armys-flight-school-next-competition/",
+      "source": "Breaking Defense",
+      "published_at": "2026-04-07T17:18:58",
+      "relevance_score": 0.2,
+      "snippet": "During this phase members of the Army\u2019s \u201ctechnical evaluation team\u201d will fly each aircraft to make sure they meets all of the Aviation Center of Excellence&#8217;s standards.",
+      "created_at": "2026-04-10 21:05:29"
+    },
+    {
+      "id": 469,
+      "platform_id": 20,
+      "article_hash": "272f09da2b9d8bde",
+      "title": "FACTBOX - Iran war: US military aircraft damage and losses - Anadolu Ajans\u0131",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQajlFNEgzdUlKLWt3c18wd3FhVDhDTWFadFk5dW9ZU2VIZTVUTlNoWG9BeVZ5NVc5cVpkYVNRYXB1OXpxUnJhQWFZaWwzX3A3dmJVLWJ4cWg4RV80SjBCbkxXM3d0OWZHUlk0UDUzNnVRdDRjS3FldXJYZHF5UHh4b1FzWm5wVDRhbFk2TmstOXFMYnJpUFVMdG1BVWt3N0FzZ1E?oc=5",
+      "source": "GNews (Anadolu Ajans\u0131)",
+      "published_at": "2026-04-07T14:58:10",
+      "relevance_score": 0.6,
+      "snippet": "FACTBOX - Iran war: US military aircraft damage and losses - Anadolu Ajans\u0131",
+      "created_at": "2026-04-10 21:05:29"
+    },
+    {
+      "id": 471,
+      "platform_id": 20,
+      "article_hash": "4bc75752b5cd65cc",
+      "title": "Pentagon\u2019s Fiscal Year 2027 Budget Request for Procurement Programs",
+      "url": "https://news.usni.org/2026/04/07/pentagons-fiscal-year-2027-budget-request-for-procurement-programs",
+      "source": "USNI News",
+      "published_at": "2026-04-07T14:58:07",
+      "relevance_score": 0.2,
+      "snippet": "The following is the Pentagon\u2019s Fiscal Year 2027 budget request for procurement programs, released April 3, 2026. Summary This document outlines the Fiscal Year 2027 budget request for the Defense Department&#8217;s procurement programs. The document includes total obligational authority across Army",
+      "created_at": "2026-04-10 21:05:29"
+    },
+    {
+      "id": 473,
+      "platform_id": 20,
+      "article_hash": "025180d904ee24ca",
+      "title": "Australia\u2019s carrier sale resurfaces amid China\u2019s naval rise - MSN",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxORVlHOFNWZXhVWUY4RkdYWkpOcTlfS1FBOXdLSXV1VTJDWGZpZVdFVk03XzJvSEt2czUyLV94dkw2a1J2Mm1TejhfSHM2OXFkTnVUanhwM2VaU3Mxb2IxNDNsX2NCRHRPN0w4Q085bkUxZUZvTjBTazFLcjIySUw0TWR5X1dEQzNkWFduOWFTcDVPUzFNNmM1LVJNUDBCSmtKaWQ3cE43RTZMVHdzMU1kcnpNdTR3bERzNHhJX1hwYmc3TEVFeGVxNVJUNHlJMTFldFpydzZXci1RelBCM1hxTFNrcw?oc=5",
+      "source": "GNews (MSN)",
+      "published_at": "2026-04-07T13:11:56",
+      "relevance_score": 0.6,
+      "snippet": "Australia\u2019s carrier sale resurfaces amid China\u2019s naval rise - MSN",
+      "created_at": "2026-04-10 21:05:29"
+    },
+    {
+      "id": 482,
+      "platform_id": 20,
+      "article_hash": "7042aec941112ce2",
+      "title": "As aircraft losses mount, Pentagon wants a software fix to see through the fog of war",
+      "url": "https://www.defenseone.com/technology/2026/04/aircraft-losses-mount-pentagon-wants-software-fix-see-through-fog-war/412667/",
+      "source": "Defense One",
+      "published_at": "2026-04-07T04:40:29",
+      "relevance_score": 0.6,
+      "snippet": "The Defense Department is looking to update how older planes see each other and absorb data.",
+      "created_at": "2026-04-10 21:05:29"
+    },
+    {
+      "id": 488,
+      "platform_id": 20,
+      "article_hash": "93b2aca1e514f044",
+      "title": "USNI News Fleet and Marine Tracker: April 6, 2026",
+      "url": "https://news.usni.org/2026/04/06/usni-news-fleet-and-marine-tracker-april-6-2026",
+      "source": "USNI News",
+      "published_at": "2026-04-06T20:00:02",
+      "relevance_score": 0.4,
+      "snippet": "These are the approximate positions of the U.S. Navy\u2019s deployed carrier strike groups and amphibious ready groups throughout the world as of April 6, 2026, based on Navy and public data. In cases in which a CSG or ARG is conducting disaggregated operations, the chart reflects the location of the cap",
+      "created_at": "2026-04-10 21:05:29"
+    },
+    {
+      "id": 492,
+      "platform_id": 20,
+      "article_hash": "e77f66e94ead7e16",
+      "title": "SOUTHCOM Doesn\u2019t Need a Carrier for Maritime Interdiction, CNO Says",
+      "url": "https://news.usni.org/2026/04/06/southcom-doesnt-need-a-carrier-for-maritime-interdiction-cno-says",
+      "source": "USNI News",
+      "published_at": "2026-04-06T15:48:01",
+      "relevance_score": 0.6,
+      "snippet": "For more than 100 days, the Gerald R. Ford Carrier Strike Group \u2013 the U.S. Navy\u2019s premier platform \u2013 operated in the Caribbean after it was pulled from the Middle East late last year. USS Gerald R. Ford (CVN-78), Carrier Air Wing 8 and escorts USS Winston S. Churchill (DDG-81), USS Bainbridge (DDG-9",
+      "created_at": "2026-04-10 21:05:29"
+    },
+    {
+      "id": 494,
+      "platform_id": 20,
+      "article_hash": "94629ca21da2a2af",
+      "title": "SOUTHCOM Doesn\u2019t Need a Carrier for Maritime Interdiction, CNO Says - USNI News",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOWVJlSmdXeUd4dHFvWVAyWkd6eEM2UG9LQWd1eXN2U1BRODNqVGQyaTQ5Sjl2SjF4Q3dEVG84MkVsTXc2cVdTZzFNYTFqUEowR3pmc2tkdVRWeVAtekY3OF9XTmNXa2tTN00yZ2doYmRJVzk3VUV6SEVUZUlNTHpnVDFLR19Xbno0VlhxZ25NOS1FSWl6QnJFeTZ1d2Z4Rkk?oc=5",
+      "source": "GNews (USNI News)",
+      "published_at": "2026-04-06T15:48:00",
+      "relevance_score": 0.6,
+      "snippet": "SOUTHCOM Doesn\u2019t Need a Carrier for Maritime Interdiction, CNO Says - USNI News",
+      "created_at": "2026-04-10 21:05:29"
+    },
+    {
+      "id": 498,
+      "platform_id": 20,
+      "article_hash": "3181a88d52237fbc",
+      "title": "BAE Systems secures $180m contract for TRIDON Mk2 from FMV",
+      "url": "https://www.airforce-technology.com/news/bae-systems-anti-aircraft/",
+      "source": "Airforce Technology",
+      "published_at": "2026-04-06T13:00:05",
+      "relevance_score": 0.2,
+      "snippet": "BAE Systems has signed a $180m worth contract with the Swedish Defence Materiel Administration (FMV) for the TRIDON Mk2 anti-aircraft system.",
+      "created_at": "2026-04-10 21:05:29"
+    },
+    {
+      "id": 523,
+      "platform_id": 20,
+      "article_hash": "03f4c3625585d7a2",
+      "title": "Carrier Tracker As Of April 3, 2026 - The War Zone",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE85UTdzd1BGd1h6YUFkSlhBRE4tRWVsTUNfYnQzSDVnR1JaUVkzZ1BKX3EtYTRuM0xJbmtUck5GbHp6U25QVUFhWDNpalZocjJoS21YSjZ0Yy1tb3RFLU56Z2RrR0NtTUVuZkE?oc=5",
+      "source": "GNews (The War Zone)",
+      "published_at": "2026-04-03T18:16:29",
+      "relevance_score": 0.6,
+      "snippet": "Carrier Tracker As Of April 3, 2026 - The War Zone",
+      "created_at": "2026-04-10 21:05:30"
+    },
+    {
+      "id": 528,
+      "platform_id": 20,
+      "article_hash": "4f0c34e773e75c71",
+      "title": "Seoul Expands Sub Warfare Force with U.S. Helos, Patrol Aircraft",
+      "url": "https://news.usni.org/2026/04/02/seoul-expands-sub-warfare-force-with-u-s-helos-patrol-aircraft",
+      "source": "USNI News",
+      "published_at": "2026-04-02T21:01:33",
+      "relevance_score": 0.6,
+      "snippet": "The South Korean Navy stood up its first American-made MH-60R Seahawk helicopters Wednesday in the service\u2019s latest move to bolster Seoul\u2019s submarine hunting forces. Ordered in a $878 million deal from 2020, 12 anti-submarine helicopters were procured under the Republic of Korea Navy\u2019s (ROKN) Mariti",
+      "created_at": "2026-04-10 21:05:30"
+    },
+    {
+      "id": 533,
+      "platform_id": 20,
+      "article_hash": "43aaf64c97b0d879",
+      "title": "Carrier USS Gerald R. Ford Departs Croatia After Liberty, Additional Repairs",
+      "url": "https://news.usni.org/2026/04/02/carrier-uss-gerald-r-ford-departs-croatia-after-liberty-additional-repairs",
+      "source": "USNI News",
+      "published_at": "2026-04-02T20:10:31",
+      "relevance_score": 0.8,
+      "snippet": "USS Gerald R. Ford (CVN-78) departed Split, Croatia, following a five-day port visit, the Navy announced Thursday. It is unclear where the aircraft carrier is headed. Ford has been out for 282 days and is set to have a record-breaking deployment. \u201cGerald R. Ford remains poised for full mission taski",
+      "created_at": "2026-04-10 21:05:30"
+    },
+    {
+      "id": 535,
+      "platform_id": 20,
+      "article_hash": "12b1a368ebb3a674",
+      "title": "France delivers 39 armoured personnel carriers to LAF",
+      "url": "https://www.army-technology.com/news/france-lebanon-armoured-carrier/",
+      "source": "Army Technology",
+      "published_at": "2026-04-02T17:43:18",
+      "relevance_score": 0.6,
+      "snippet": "France has delivered 39 armoured personnel carriers (VABs) to the Lebanese Armed Forces (LAF) in a ceremony held at the Beirut Port, Lebanon.",
+      "created_at": "2026-04-10 21:05:30"
+    },
+    {
+      "id": 540,
+      "platform_id": 20,
+      "article_hash": "8085555828c9eb82",
+      "title": "Where Are America\u2019s Aircraft Carriers Now? - The National Interest",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPdzVad2M4akhrakQwY2h3ZEFld0ZoYWFQOTJEOEpUY0xlWWZSdmpOb1ktNERIVExWZlA1dXdTbVZ3ZWxFbGpBV1E5MDBkV0VVQWM0ZDBkNzF1aHhMNWRZdFVaRHM1eTl5R010SklLckM3Y181czFsY3pOXzhSSHotY3FaRXQxRWtmUVFaRXlWUExIdw?oc=5",
+      "source": "GNews (The National Interest)",
+      "published_at": "2026-04-01T07:00:00",
+      "relevance_score": 1.0,
+      "snippet": "Where Are America\u2019s Aircraft Carriers Now? - The National Interest",
+      "created_at": "2026-04-10 21:05:30"
+    },
+    {
+      "id": 548,
+      "platform_id": 20,
+      "article_hash": "d5055816b2bc2723",
+      "title": "Italy Denies US Aircraft Access to Military Base, Corriere Says - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQVFhYblBMZ1p2Qm9KSmw2bHJEWVVkNzFoS0dyc3YzZ1k3U3BOMDU5Qm9acWhVNU1WMjB4RkVOZkVvdTduWHpodXFUUFQwZkdWMHFoSzZDUGNJR1Jrak9obEt4SUlReE4zM3lDanRxZHpRQk9qb0hWSk1CVEM4OEdXNzUtZzIzamEyUnlOeE96SUJjV2VXLUxFbm1wSnJ6c3V5T3FyQWszWG1QYU1VOXVJZnZIbw?oc=5",
+      "source": "GNews (Bloomberg.com)",
+      "published_at": "2026-03-31T07:00:00",
+      "relevance_score": 0.6,
+      "snippet": "Italy Denies US Aircraft Access to Military Base, Corriere Says - Bloomberg.com",
+      "created_at": "2026-04-10 21:05:30"
+    },
+    {
+      "id": 543,
+      "platform_id": 20,
+      "article_hash": "dc9e13e99df8dc73",
+      "title": "US deploys third aircraft carrier to Middle East amid preperations for Iran invasion - ynetnews",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE96SVZObFd0M1lmSHNEZzlNZmNGNzZuOWNoZXVMRzQ4UWlaVEpkdDhyMmIzU2NNdVRPWHpwc1ViektWdnNpUVBwVW5SbVlnQ0RRNHZIWTlR?oc=5",
+      "source": "GNews (ynetnews)",
+      "published_at": "2026-03-31T07:00:00",
+      "relevance_score": 1.0,
+      "snippet": "US deploys third aircraft carrier to Middle East amid preperations for Iran invasion - ynetnews",
+      "created_at": "2026-04-10 21:05:30"
+    },
+    {
+      "id": 545,
+      "platform_id": 20,
+      "article_hash": "ef0850518720bc5a",
+      "title": "US deploys 3rd aircraft carrier \u2014 the USS George HW Bush \u2014 to Middle East as Iran war rumbles on - New York Post",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOWE9ZaW9NOU5rbFByWEJfSnlqS2pVaVhBYTgyWjQ1bXB6cEZTNEN4UUZFeUxFa1NiZFpDSFhhSVREZFNyVF84cDdqZ3NVaDNxbzRUV3RlUE1ZUVQ3SGtXRHhnTDhaUGJCd2k0bUxjZENWQ3NINEdVUkRIMmJuRi11MDdsLTBpQkQ2UlREY0RoWkR0bXZBNWlKSWNrYjJGWFlqRk1LNGZtaWFkaEhiOWdzam82dURDYUlhTndxQXF3UTlyLXZkUGNINnhnTQ?oc=5",
+      "source": "GNews (New York Post)",
+      "published_at": "2026-03-31T07:00:00",
+      "relevance_score": 1.0,
+      "snippet": "US deploys 3rd aircraft carrier \u2014 the USS George HW Bush \u2014 to Middle East as Iran war rumbles on - New York Post",
+      "created_at": "2026-04-10 21:05:30"
+    },
+    {
+      "id": 554,
+      "platform_id": 20,
+      "article_hash": "d777500599a62ae2",
+      "title": "Sailor Injured Aboard USS Abraham Lincoln During Flight Operations Against Iran",
+      "url": "https://www.military.com/daily-news/investigations-and-features/2026/03/26/sailor-injured-aboard-uss-abraham-lincoln-during-flight-operations-against-iran.html",
+      "source": "Military.com",
+      "published_at": "2026-03-26T17:54:57",
+      "relevance_score": 0.2,
+      "snippet": "A U.S. Navy sailor sustained a non-combat injury while the carrier conducted flight operations in the Arabian Sea on March 25. The sailor is in stable condition.",
+      "created_at": "2026-04-10 21:05:30"
+    },
+    {
+      "id": 562,
+      "platform_id": 20,
+      "article_hash": "b9829ad26fdb7955",
+      "title": "US Navy's Ford Aircraft Carrier Is in Port and Out of the Iran Fight - Business Insider",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPSDZ6YXVqZHZrc3hDUTAxM2lRRS1xb29MRWlwdHdzTzQzc0t4b1hoWHU5cmRnVDM0QnBSNmxvYnVKRGxhSnBxWWR3Y242dFM1NUVScHloa3g5UENxZUlRMVkyX1J1ZWxSQ3lZM2Y3b2VBYW9TUWJuV09UaXk3SXVFeDNEb095UDNnS1Nka1ZZcWIzbUh0QnpnRU55SS1FQVU?oc=5",
+      "source": "GNews (Business Insider)",
+      "published_at": "2026-03-23T07:00:00",
+      "relevance_score": 1.0,
+      "snippet": "US Navy's Ford Aircraft Carrier Is in Port and Out of the Iran Fight - Business Insider",
+      "created_at": "2026-04-10 21:05:30"
+    },
+    {
+      "id": 573,
+      "platform_id": 20,
+      "article_hash": "37e8507ca780c48b",
+      "title": "US Aircraft Losses Mount Amid High-Tempo Airstrike Campaign - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNaUFMTV9DVUkxaUJDTmRXdzY1RlYyVG5QWUtDWlZUZTlfWnJkMmFWZmdTeEY5engxWW1FcTN4NHJEMEpnZ2tJR0FaT3hTSEJSSERUVG1pUjY2SUM4MHhiaVdnOGFESnB4Y1F4UmlIaDd1S1ZIdEI0QW5xWklnTEN4QXRLR0tWSjFFUUhoMjdsbWRiLWRKWi1KMVRLbGZVNkxxTXZFel9IaXpLcmNCaFM4?oc=5",
+      "source": "GNews (Bloomberg.com)",
+      "published_at": "2026-03-19T07:00:00",
+      "relevance_score": 0.6,
+      "snippet": "US Aircraft Losses Mount Amid High-Tempo Airstrike Campaign - Bloomberg.com",
+      "created_at": "2026-04-10 21:05:30"
+    },
+    {
+      "id": 571,
+      "platform_id": 20,
+      "article_hash": "4a60dd4c77e4c299",
+      "title": "New TV documentary captures Royal Navy Carrier Strike Group during last year\u2019s deployment - Navy Lookout",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQWENxQWV3Vnd4SzJYUERJeEszZzd5akdvS0xrWWtMRXQwdjAtUUtLUDFiTXlKTW9oTG9fS2l5dXVfQ1BLNEpCaE5qdUV0Z29qMWVoajk3eG5RQUVJWUZiZWxNR3k0c25OUHNBRE0xYS1rQTRrNUo4d2hDWno4allDN2ZZSWt3MmJLOWd6VXhOT0gzVWFqMmQ2YjFKSWdfOUtnTGhMT1JzaklNMXlrbnlrdWdLLWpGdlpU?oc=5",
+      "source": "GNews (Navy Lookout)",
+      "published_at": "2026-03-19T07:00:00",
+      "relevance_score": 0.6,
+      "snippet": "New TV documentary captures Royal Navy Carrier Strike Group during last year\u2019s deployment - Navy Lookout",
+      "created_at": "2026-04-10 21:05:30"
+    },
+    {
+      "id": 575,
+      "platform_id": 20,
+      "article_hash": "969c18b9ed8b8469",
+      "title": "Operation Highmast: UK Eastern Deployment for a \u201cTwo-Carrier Navy\u201d - Center for International Maritime Security",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQQnpqVml6aFYtR0hJQjVfRkIyMTFXWGlMbE9hdThFUTJoS1hnUXZkS1NlYkJDYm52S2FLcTh3dHZobTVjajBYNXd6QTJOaGRoY1VyLXZUQy1WMjQzT2NDR2ZjNXdpMUJyRG8xSURBT2t0QkllYnNvd1YxZEMwZUFDNmc2TnR3RFdVSVNibktRRG9MUzdCLXVjTW1hbU56bkE4cVlUVDI4TDY3SlBYdGhRZGVpMA?oc=5",
+      "source": "GNews (Center for International Maritime Security)",
+      "published_at": "2026-03-18T07:00:00",
+      "relevance_score": 0.6,
+      "snippet": "Operation Highmast: UK Eastern Deployment for a \u201cTwo-Carrier Navy\u201d - Center for International Maritime Security",
+      "created_at": "2026-04-10 21:05:30"
+    },
+    {
+      "id": 580,
+      "platform_id": 20,
+      "article_hash": "d0488e70ee39690b",
+      "title": "Satellite Images Show U.S. Carrier Strike Groups Pull Back From Iran After Gunboat Incident, Signalling Major Naval Posture Shift Across Red Sea\u2013Oman Battlespace - Defence Security Asia",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOaWlUemdvTG42aFhYQzFYZHlXRkxFZ3JidTZxNk9ScUZLSG5iOUgwQm5SX3EtQkxkQ0NnUUMxY2tqYnpOX2NJdjMwejBtakFJZG1uNXlXMmRpZG1lVXh3U0JMcDFPNi1iLVVxNWNBbTNPbEViMXgxbjdXR3UxUVdWekdOdkRMUkp4OGdsWmg5OTFpb3lqWExxMzFyV2RpMGlOQTdVRFdrMzZLTG1aOHQ0Q2ZCZC1SVGFDUHl4NWY3NnR5aV9XWlFuclNn?oc=5",
+      "source": "GNews (Defence Security Asia)",
+      "published_at": "2026-03-16T07:00:00",
+      "relevance_score": 0.6,
+      "snippet": "Satellite Images Show U.S. Carrier Strike Groups Pull Back From Iran After Gunboat Incident, Signalling Major Naval Posture Shift Across Red Sea\u2013Oman Battlespace - Defence Security Asia",
+      "created_at": "2026-04-10 21:05:30"
+    },
+    {
+      "id": 585,
+      "platform_id": 20,
+      "article_hash": "e5b321cb4a929b86",
+      "title": "USS George H.W. Bush to deploy to Mediterranean, become third aircraft carrier in region - report - The Jerusalem Post",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE44T1libHh4c3lQdFhOS3ozTHpIS2ZublF5d0ozUVVBLVZ4UFE4cXQwMUFOS3psaU5HV1BId0p1OXJKU1E0MVZjZ09MMHVPSzQ4R0ZfWkp0YXdzcTRIenc4?oc=5",
+      "source": "GNews (The Jerusalem Post)",
+      "published_at": "2026-03-08T08:00:00",
+      "relevance_score": 1.0,
+      "snippet": "USS George H.W. Bush to deploy to Mediterranean, become third aircraft carrier in region - report - The Jerusalem Post",
+      "created_at": "2026-04-10 21:05:31"
+    },
+    {
+      "id": 589,
+      "platform_id": 20,
+      "article_hash": "da7ae6d73f15a719",
+      "title": "George H.W. Bush Carrier Strike Group Completes COMPTUEX - navy.mil",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxORllOeDVvS2FxaHlqSl94NGhNOHJ4U2dzMlMzNmphYVhZeW1zNFdDUkQ0dUJSUWJpZlNwWExadjYxRENfc2p1ZEJhZWMycnNCMkU4eDEzZ3BDUVJnYWllcUhXTHBBT1V3WW9JWEJMRzVfVnd5eXBfZjdiZklxM0VmUVpxdDB0S0NsWEQwVS12TF9ST2JfQzNYYlVCcEVZeTBIUlRkeXU5QnNfTVNqeWZIM0xTMDU0dGswQ19ETE5FUzlmUkU5alp3MHM2RQ?oc=5",
+      "source": "GNews (navy.mil)",
+      "published_at": "2026-03-06T08:00:00",
+      "relevance_score": 0.6,
+      "snippet": "George H.W. Bush Carrier Strike Group Completes COMPTUEX - navy.mil",
+      "created_at": "2026-04-10 21:05:31"
+    },
+    {
+      "id": 593,
+      "platform_id": 20,
+      "article_hash": "d6c135eb908e4694",
+      "title": "US military assembles largest force of warships, aircraft in Middle East in decades - Military Times",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNak1nOXJ2N2J0NXNsMnJaUWZaQjZZbjBmYVNvQVhfWGVRLTdEazlSNHozRDlPOWtsWTY0NFJTNjJDelhRSXJjT1ZDazZTY2lnZWZyMzY4cS1xZl9zMDZGRHpqbG1CWDM3QzVTTUU0NlhLejQxSTNjcjY2UkVZZ0x3bkNkMkJJTk5TSmVTcXZmMHpPMHZ6WDFHUW1GWGZzeGpJVGNmNVgyWWZ3SklNLVEyTUxIYWV4X1RQN2NzaXlCMk5ldzVtOFlUSjBRbEdhbU04a2lmRFJlVGhoVjQ?oc=5",
+      "source": "GNews (Military Times)",
+      "published_at": "2026-02-26T08:00:00",
+      "relevance_score": 0.6,
+      "snippet": "US military assembles largest force of warships, aircraft in Middle East in decades - Military Times",
+      "created_at": "2026-04-10 21:05:31"
+    }
+  ],
+  "events": [],
+  "ic_coverage": [],
+  "combat_history": [
+    {
+      "date": "2016-12",
+      "operation": "First Western Pacific deployment",
+      "event": "Liaoning conducted first deployment beyond first island chain, transiting through Miyako Strait with escort group",
+      "significance": "Demonstrated China's growing confidence in carrier operations and willingness to operate beyond regional waters"
+    },
+    {
+      "date": "2018-04",
+      "operation": "South China Sea exercises",
+      "event": "Large-scale combat exercises in disputed waters with live-fire drills involving J-15 fighters",
+      "significance": "First major combat training deployment showing operational capability development"
+    },
+    {
+      "date": "2019-06",
+      "operation": "Taiwan Strait passage",
+      "event": "Transit through Taiwan Strait with escort vessels, conducting flight operations",
+      "significance": "Political signaling deployment demonstrating reach into sensitive strategic waters"
+    },
+    {
+      "date": "2021-04",
+      "operation": "Western Pacific extended deployment",
+      "event": "40-day deployment with intensive flight operations and multi-carrier group exercises with Shandong",
+      "significance": "Longest deployment to date, demonstrating sustained operational capability and dual-carrier operations"
+    }
+  ],
+  "modernization": [
+    {
+      "program": "Mid-life upgrade program",
+      "status": "planned",
+      "timeline": "2025-2027",
+      "description": "Expected upgrades to radar systems, combat management systems, and defensive armament based on lessons learned from operations",
+      "impact": "Enhanced defensive capabilities and improved integration with newer PLAN systems"
+    },
+    {
+      "program": "J-15B fighter integration",
+      "status": "in-progress",
+      "timeline": "2023-2025",
+      "description": "Integration of improved J-15B variant with enhanced avionics, weapons systems, and reduced radar signature",
+      "impact": "Significant improvement in air wing capability and strike range"
+    }
+  ],
+  "vulnerabilities": [
+    {
+      "area": "Aircraft launch limitations",
+      "description": "Ski-jump configuration limits aircraft payload and range compared to catapult systems, reducing strike capability",
+      "context": "Critical limitation in high-intensity conflict against peer adversaries with long-range anti-ship missiles",
+      "mitigation": "Future Type 003 carriers will feature electromagnetic catapults; current focus on maximizing J-15 performance"
+    },
+    {
+      "area": "Limited air wing size",
+      "description": "36-aircraft capacity significantly smaller than US supercarriers' 75+ aircraft, reducing sustained operations capability",
+      "context": "Insufficient for major power projection missions or defending against massed air attacks",
+      "mitigation": "Emphasis on quality over quantity; integration with land-based aviation for major operations"
+    },
+    {
+      "area": "Defensive armament gaps",
+      "description": "Lacks long-range area air defense missiles, relying on escort vessels for protection against standoff threats",
+      "context": "Vulnerable to submarine-launched cruise missiles and long-range air-launched weapons",
+      "mitigation": "Always operates with Type 055 and Type 052D escorts providing area defense"
+    },
+    {
+      "area": "Operational experience deficit",
+      "description": "Limited combat experience and relatively new carrier aviation culture compared to US Navy's decades of operations",
+      "context": "May face significant challenges in high-tempo combat operations requiring complex coordination",
+      "mitigation": "Intensive training programs and increasing deployment frequency to build experience"
+    }
+  ],
+  "operational_patterns": {
+    "typical_deployment": "Regional power projection with destroyer/frigate escort group, training missions, and political signaling operations",
+    "deployment_length_months": 2,
+    "key_operating_areas": [
+      "South China Sea",
+      "East China Sea",
+      "Western Pacific",
+      "Taiwan Strait"
+    ],
+    "typical_task_group": "2-4 Type 055/052D destroyers, 1-2 Type 054A frigates, 1 Type 901 replenishment ship, 1-2 submarines",
+    "readiness_notes": "Approximately 30-40% time at sea, with significant maintenance periods between deployments"
+  },
+  "peer_comparisons": [
+    {
+      "platform": "Admiral Kuznetsov",
+      "country": "Russia",
+      "relationship": "predecessor",
+      "key_differences": "Liaoning features modern Chinese electronics and weapons systems, better maintained condition, and more active operational tempo than the frequently troubled Russian flagship",
+      "video_angle": "Soviet design heritage vs modern Chinese execution - how China improved on the original"
+    },
+    {
+      "platform": "INS Vikramaditya",
+      "country": "India",
+      "relationship": "regional rival",
+      "key_differences": "Similar Soviet origins but Vikramaditya operates MiG-29K fighters with different capabilities. Liaoning has larger air wing and more modern systems integration",
+      "video_angle": "Tale of two Soviet conversions - China vs India's different approaches to carrier modernization"
+    },
+    {
+      "platform": "HMS Queen Elizabeth",
+      "country": "United Kingdom",
+      "relationship": "contemporary rival",
+      "key_differences": "Queen Elizabeth is larger with F-35B STOVL capability providing superior strike range and stealth. Liaoning relies on conventional J-15 fighters with ski-jump limitations",
+      "video_angle": "Ski-jump showdown - STOVL vs conventional carrier aviation approaches"
+    },
+    {
+      "platform": "Charles de Gaulle",
+      "country": "France",
+      "relationship": "capability comparison",
+      "key_differences": "French carrier has catapults enabling heavier aircraft loads and AWACS operations, but is smaller and nuclear-powered. Liaoning larger but launch-limited",
+      "video_angle": "Medium carrier comparison - catapults vs capacity trade-offs"
+    },
+    {
+      "platform": "Nimitz-class",
+      "country": "United States",
+      "relationship": "aspirational target",
+      "key_differences": "US supercarriers dwarf Liaoning in every metric - twice the aircraft capacity, catapult launch, nuclear propulsion, and decades more operational experience",
+      "video_angle": "David vs Goliath - How China's first carrier stacks up against the supercarrier gold standard"
+    }
+  ],
+  "search_keywords": [
+    "liaoning",
+    "type 001",
+    "chinese aircraft carrier",
+    "plan carrier",
+    "varyag",
+    "j-15 flying shark",
+    "chinese navy carrier",
+    "liaoning carrier",
+    "cv-16"
+  ],
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Aircraft_Carrier_Liaoning_CV-16.jpg/1280px-Aircraft_Carrier_Liaoning_CV-16.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/76/Aircraft_Carrier_Liaoning_CV-16.jpg",
+      "width": 2400,
+      "height": 1600,
+      "title": "Aircraft Carrier Liaoning CV-16.jpg",
+      "description": "Aircraft Carrier Liaoning (16) at Hong Kong Waters",
+      "license": "CC BY-SA 2.5",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Dalian_Liaoning_China_CNS_Liaoning_%28CV-16%29-02.jpg/1280px-Dalian_Liaoning_China_CNS_Liaoning_%28CV-16%29-02.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Dalian_Liaoning_China_CNS_Liaoning_%28CV-16%29-02.jpg",
+      "width": 2934,
+      "height": 1370,
+      "title": "Dalian Liaoning China CNS Liaoning (CV-16)-02.jpg",
+      "description": "Dalian, Liaoning, China: CNS Liaoning (CV-16) during refurbishment in Dalian Shipyard",
+      "license": "CC BY-SA 3.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/PLANS_Liaoning_%28CV-16%29_20200428.jpg/1280px-PLANS_Liaoning_%28CV-16%29_20200428.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/0f/PLANS_Liaoning_%28CV-16%29_20200428.jpg",
+      "width": 2178,
+      "height": 564,
+      "title": "PLANS Liaoning (CV-16) 20200428.jpg",
+      "description": "\uff14\u6708\uff12\uff18\u65e5\uff08\u706b\uff09\u5348\u524d\uff19\u6642\u9803\u3001\u6d77\u4e0a\u81ea\u885b\u968a\u7b2c\uff15\u8b77\u885b\u968a\u6240\u5c5e\u300c\u3053\u3093\u3054\u3046\u300d\uff08\u4f50\u4e16\u4fdd\uff09\u3001\u7b2c\uff11\uff12\u8b77\u885b\u968a\u6240\u5c5e\u300c\u3046\u307f\u304e\u308a\u300d\uff08\u5449\uff09\u53ca\u3073\u7b2c\uff15\u822a\u7a7a\u7fa4\u6240\u5c5e\u300c\uff30\uff0d\uff13\uff23\u300d\uff08\u90a3\u8987\uff09\u304c\u3001\u5bae\u53e4\u5cf6\u306e\u5357\u6771\u7d04\uff18\uff10\uff4b\uff4d\u306e\u6d77\u57df\u3092\u5317\u897f\u9032\u3059\u308b\u4e2d\u56fd\u6d77\u8ecd\u30af\u30ba\u30cd\u30c4\u30a9\u30d5\u7d1a\u7a7a\u6bcd\u300c\u907c\u5be7\u300d\uff11\u96bb\u3001\u30eb\u30fc\u30e4\u30f3\u2162\u7d1a\u30df\u30b5\u30a4\u30eb\u99c6\u9010\u8266\uff12\u96bb\u3001\u30b8\u30e3\u30f3\u30ab\u30a4\u2161\u7d1a\u30d5\u30ea\u30b2\u30fc\u30c8\n<p>\uff12\u96bb\u53ca\u3073\u30d5\u30e6\u7d1a\u9ad8\u901f\u6226\u95d8\u652f\u63f4\u8266\uff11\u96bb\u306e\u8a08\uff16\u96bb\u3092\u78ba\u8a8d\u3057\u305f\u3002\n\u305d\u306e\u5f8c\u3001\u3053\u308c\u3089\u306e\u8266\u8247\u304c\u6c96\u7e04\u672c\u5cf6\u3068\u5bae\u53e4\u5cf6\u306e\u9593\u306e\u6d77\u57df\u3092",
+      "license": "CC BY 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/PLANS_Liaoning_%28CV-16%29_20210427.jpg/1280px-PLANS_Liaoning_%28CV-16%29_20210427.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/8a/PLANS_Liaoning_%28CV-16%29_20210427.jpg",
+      "width": 1599,
+      "height": 445,
+      "title": "PLANS Liaoning (CV-16) 20210427.jpg",
+      "description": "\uff14\u6708\uff12\uff16\u65e5\uff08\u6708\uff09\u5348\u5f8c\uff17\u6642\u9803\u3001\u6d77\u4e0a\u81ea\u885b\u968a\u306f\u3001\u5bae\u53e4\u5cf6\u306e\u5357\u7d04\uff11\uff16\uff10\uff4b\uff4d\u306e\u6d77\u57df\u306b\u304a\u3044\u3066\u3001\u540c\u6d77\u57df\u3092\u5317\u6771\u9032\u3059\u308b\u4e2d\u56fd\u6d77\u8ecd\u30af\u30ba\u30cd\u30c4\u30a9\u30d5\u7d1a\u7a7a\u6bcd\u300c\u907c\u5be7\u300d\uff11\u96bb\u3001\u30ec\u30f3\u30cf\u30a4\u7d1a\u30df\u30b5\u30a4\u30eb\u99c6\u9010\u8266\uff11\u96bb\u3001\u30eb\u30fc\u30e4\u30f3\u2162\u7d1a\u30df\u30b5\u30a4\u30eb\u99c6\u9010\u8266\uff12\u96bb\u3001\u30b8\u30e3\u30f3\u30ab\u30a4\u2161\u7d1a\u30d5\u30ea\u30b2\u30fc\u30c8\uff11\u96bb\u53ca\u3073\u30d5\u30e6\u7d1a\u9ad8\u901f\u6226\u95d8\u652f\u63f4\u8266\uff11\u96bb\u306e\u8a08\uff16\u96bb\u3092\u78ba\u8a8d\u3057\u305f\u3002\n<p>\u305d\u306e\u5f8c\u3001\u3053\u308c\u3089\u306e\u8266\u8247\u304c\u6c96\u7e04\u672c\u5cf6\u3068\u5bae\u53e4\u5cf6\u306e\u9593\u306e\u6d77\u57df\u3092\u5317\u4e0a\u3057\u3001\u6771\u30b7\u30ca\u6d77\u3078\u5411\u3051\u3066\u822a\u884c\u3057\u305f\u3053\u3068\u3092\u78ba\u8a8d\u3057\u305f\u3002\n</p><p>\u306a",
+      "license": "CC BY 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/PLANS_Liaoning_%28CV-16%29_20211221_-_1.jpg/1280px-PLANS_Liaoning_%28CV-16%29_20211221_-_1.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/00/PLANS_Liaoning_%28CV-16%29_20211221_-_1.jpg",
+      "width": 1498,
+      "height": 538,
+      "title": "PLANS Liaoning (CV-16) 20211221 - 1.jpg",
+      "description": "\uff11\uff12\u6708\uff11\uff19\u65e5\uff08\u65e5\uff09\u5348\u524d\uff18\u6642\u9803\u3001\u6d77\u4e0a\u81ea\u885b\u968a\u306f\u3001\u4e2d\u56fd\u6d77\u8ecd\u30af\u30ba\u30cd\u30c4\u30a9\u30d5\u7d1a\u7a7a\u6bcd\u300c\u907c\u5be7\u300d\uff11\u96bb\u3001\u30ec\u30f3\u30cf\u30a4\u7d1a\u30df\u30b5\u30a4\u30eb\u99c6\u9010\u8266\uff11\u96bb\u3001\u30eb\u30fc\u30e4\u30f3\u2162\u7d1a\u30df\u30b5\u30a4\u30eb\u99c6\u9010\u8266\uff11\u96bb\u3001\u30b8\u30e3\u30f3\u30ab\u30a4\u2161\u7d1a\u30d5\u30ea\u30b2\u30fc\u30c8\uff12\u96bb\u53ca\u3073\u30d5\u30e6\u7d1a\u9ad8\u901f\u6226\u95d8\u652f\u63f4\u8266\uff11\u96bb\u306e\u8a08\uff16\u96bb\u304c\u3001\u5317\u5927\u6771\u5cf6\uff08\u6c96\u7e04\u770c\uff09\u306e\u6771\u7d04\uff13\uff10\uff10\uff4b\uff4d\u306e\u6d77\u57df\u306b\u304a\u3044\u3066\u822a\u884c\u3057\u3066\u3044\u308b\u3053\u3068\u3092\u78ba\u8a8d\u3057\u305f\u3002\n<p>\u307e\u305f\u3001\u5348\u524d\uff18\u6642\u9803\u304b\u3089\u5348\u5f8c\uff19\u6642\u9803\u306b\u304b\u3051\u3066\u3001\u4e2d\u56fd\u6d77\u8ecd\u30af\u30ba\u30cd\u30c4\u30a9\u30d5\u7d1a\u7a7a\u6bcd\u300c\u907c\u5be7\u300d\u306e\u8266\u8f09\u6226\u95d8\u6a5f\u53ca\u3073\u8266\u8f09\u30d8\u30ea\u306e\u767a",
+      "license": "CC BY 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/PLANS_Liaoning_%28CV-16%29_20220506.jpg/1280px-PLANS_Liaoning_%28CV-16%29_20220506.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/PLANS_Liaoning_%28CV-16%29_20220506.jpg",
+      "width": 1498,
+      "height": 858,
+      "title": "PLANS Liaoning (CV-16) 20220506.jpg",
+      "description": "\uff15\u6708\uff15\u65e5\uff08\u6728\uff09\u5348\u5f8c\uff12\u6642\u9803\u3001\u6d77\u4e0a\u81ea\u885b\u968a\u306f\u3001\u4e2d\u56fd\u6d77\u8ecd\u30af\u30ba\u30cd\u30c4\u30a9\u30d5\u7d1a\u7a7a\u6bcd\u300c\u907c\u5be7\u300d\uff11\u96bb\u3001\u30eb\u30fc\u30e4\u30f3\u2162\u7d1a\u30df\u30b5\u30a4\u30eb\u99c6\u9010\u8266\uff13\u96bb\u3001\u30ec\u30f3\u30cf\u30a4\u7d1a\u30df\u30b5\u30a4\u30eb\u99c6\u9010\u8266\uff11\u96bb\u53ca\u3073\u30d5\u30e6\u7d1a\u9ad8\u901f\u6226\u95d8\u652f\u63f4\u8266\uff11\u96bb\u306e\u8a08\uff16\u96bb\u304c\u3001\u5bae\u53e4\u5cf6\uff08\u6c96\u7e04\u770c\uff09\u306e\u5357\u6771\u7d04\uff13\uff12\uff10\uff4b\uff4d\u306e\u6d77\u57df\u306b\u304a\u3044\u3066\u822a\u884c\u3057\u3066\u3044\u308b\u3053\u3068\u3092\u78ba\u8a8d\u3057\u305f\u3002\n<p>\u307e\u305f\u3001\uff15\u6708\uff13\u65e5\uff08\u706b\uff09\u53ca\u3073\uff14\u65e5\uff08\u6c34\uff09\u306b\u5f15\u304d\u7d9a\u304d\u3001\uff15\u6708\uff15\u65e5\uff08\u6728\uff09\u5348\u5f8c\uff12\u6642\u9803\u304b\u3089\u5348\u5f8c\uff18\u6642\u9803\u307e\u3067\u306b\u304b\u3051\u3066\u3001\u4e2d\u56fd\u6d77\u8ecd\u30af\u30ba\u30cd\u30c4\u30a9\u30d5\u7d1a\u7a7a\u6bcd\u300c\u907c\u5be7\u300d\u306e\u8266",
+      "license": "CC BY 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/PLANS_Liaoning_%28CV-16%29_20220522.jpg/1280px-PLANS_Liaoning_%28CV-16%29_20220522.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/a8/PLANS_Liaoning_%28CV-16%29_20220522.jpg",
+      "width": 1484,
+      "height": 348,
+      "title": "PLANS Liaoning (CV-16) 20220522.jpg",
+      "description": "\uff15\u6708\uff12\uff11\u65e5\uff08\u571f\uff09\u5348\u524d\uff11\uff10\u6642\u9803\u3001\u6d77\u4e0a\u81ea\u885b\u968a\u306f\u3001\u5bae\u53e4\u5cf6\u306e\u6771\u7d04\uff11\uff17\uff10\uff4b\uff4d\u306e\u6d77\u57df\u306b\u304a\u3044\u3066\u3001\u540c\u6d77\u57df\u3092\u5317\u897f\u9032\u3059\u308b\u4e2d\u56fd\u6d77\u8ecd\u30b8\u30e3\u30f3\u30ab\u30a4\u2161\u7d1a\u30d5\u30ea\u30b2\u30fc\u30c8\uff11\u96bb\u3092\u78ba\u8a8d\u3057\u305f\u3002\n<p>\u307e\u305f\u3001\u540c\u65e5\u5348\u5f8c\uff13\u6642\u9803\u3001\u5bae\u53e4\u5cf6\u306e\u6771\u7d04\uff11\uff18\uff10\uff4b\uff4d\u306e\u6d77\u57df\u306b\u304a\u3044\u3066\u3001\u540c\u6d77\u57df\u3092\u897f\u9032\u3059\u308b\u4e2d\u56fd\u6d77\u8ecd\u30ec\u30f3\u30cf\u30a4\u7d1a\u30df\u30b5\u30a4\u30eb\u99c6\u9010\u8266\uff11\u96bb\u3092\u78ba\u8a8d\u3057\u305f\u3002\n</p><p>\u66f4\u306b\u3001\u540c\u65e5\u5348\u5f8c\uff15\u6642\u9803\u3001\u5bae\u53e4\u5cf6\u306e\u6771\u7d04\uff12\uff12\uff10\uff4b\uff4d\u306e\u6d77\u57df\u306b\u304a\u3044\u3066\u3001\u540c\u6d77\u57df\u3092\u897f\u9032\u3059\u308b\u4e2d\u56fd\u6d77\u8ecd\u30af\u30ba\u30cd\u30c4\u30a9\u30d5\u7d1a\u7a7a\u6bcd\u300c",
+      "license": "CC BY 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/7d/PLANS_Liaoning_and_Z-18J_20220512.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/7d/PLANS_Liaoning_and_Z-18J_20220512.jpg",
+      "width": 639,
+      "height": 427,
+      "title": "PLANS Liaoning and Z-18J 20220512.jpg",
+      "description": "\uff15\u6708\uff11\uff11\u65e5\uff08\u6c34\uff09\u5348\u524d\uff19\u6642\u9803\u3001\u6d77\u4e0a\u81ea\u885b\u968a\u306f\u3001\u4e2d\u56fd\u6d77\u8ecd\u30af\u30ba\u30cd\u30c4\u30a9\u30d5\u7d1a\u7a7a\u6bcd\u300c\u907c\u5be7\u300d\uff11\u96bb\u53ca\u3073\u30eb\u30fc\u30e4\u30f3\u2162\u7d1a\u30df\u30b5\u30a4\u30eb\u99c6\u9010\u8266\uff12\u96bb\u306e\u8a08\uff13\u96bb\u304c\u3001\u77f3\u57a3\u5cf6\uff08\u6c96\u7e04\u770c\uff09\u306e\u5357\u7d04\uff11\uff16 \uff10\uff4b\uff4d\u306e\u6d77\u57df\u306b\u304a\u3044\u3066\u822a\u884c\u3057\u3066\u3044\u308b\u3053\u3068\u3092\u78ba\u8a8d\u3057\u305f\u3002\n<p>\u307e\u305f\u3001\uff15\u6708\uff13\u65e5\uff08\u706b\uff09\u304b\u3089\uff11\uff10\u65e5\uff08\u706b\uff09\u306b\u5f15\u304d\u7d9a\u304d\u3001\uff15\u6708\uff11\uff11\u65e5\uff08\u6c34\uff09\u5348\u524d\uff19\u6642\u9803\u304b\u3089\u5348\u5f8c\uff18\u6642\u9803\u307e\u3067\u306b\u304b\u3051\u3066\u3001\u4e2d\u56fd\u6d77\u8ecd\u30af\u30ba\u30cd\u30c4\u30a9\u30d5\u7d1a\u7a7a\u6bcd\u300c\u907c\u5be7\u300d\u306e\u8266\u8f09\u6226\u95d8\u6a5f\u53ca\u3073\u8266\u8f09\u30d8\u30ea\u306e\u767a\u7740\u8266\u306e\u767a\u7740\u8266\u3092\u78ba\u8a8d\u3057\u305f\u3002\n",
+      "license": "CC BY 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/160803-N-RY232-001_-_Navy_Working_Uniform_%28NWU%29_Type_III.jpg/1280px-160803-N-RY232-001_-_Navy_Working_Uniform_%28NWU%29_Type_III.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/160803-N-RY232-001_-_Navy_Working_Uniform_%28NWU%29_Type_III.jpg",
+      "width": 1500,
+      "height": 2100,
+      "title": "160803-N-RY232-001 - Navy Working Uniform (NWU) Type III.jpg",
+      "description": "160803-N-RY232-001 \nWASHINGTON (Aug. 3, 2016) The Dept. of the Navy announced that it will transition from the Navy Working Uniform (NWU) Type I to the NWU Type III as its primary shore working unifor",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/22/160803-N-RY232-001_-_Navy_Working_Uniform_%28NWU%29_Type_III.png",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/22/160803-N-RY232-001_-_Navy_Working_Uniform_%28NWU%29_Type_III.png",
+      "width": 588,
+      "height": 1828,
+      "title": "160803-N-RY232-001 - Navy Working Uniform (NWU) Type III.png",
+      "description": "160803-N-RY232-001 \nWASHINGTON (Aug. 3, 2016) The Dept. of the Navy announced that it will transition from the Navy Working Uniform (NWU) Type I to the NWU Type III as its primary shore working unifor",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/160803-N-RY232-002_-_Navy_Working_Uniform_%28NWU%29_Type_III.jpg/1280px-160803-N-RY232-002_-_Navy_Working_Uniform_%28NWU%29_Type_III.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/0d/160803-N-RY232-002_-_Navy_Working_Uniform_%28NWU%29_Type_III.jpg",
+      "width": 1500,
+      "height": 2100,
+      "title": "160803-N-RY232-002 - Navy Working Uniform (NWU) Type III.jpg",
+      "description": "160803-N-RY232-002 \nWASHINGTON (Aug. 3, 2016) The Dept. of the Navy announced that it will transition from the Navy Working Uniform (NWU) Type I to the NWU Type III as its primary shore working unifor",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/15/160803-N-RY232-002_-_Navy_Working_Uniform_%28NWU%29_Type_III.png",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/15/160803-N-RY232-002_-_Navy_Working_Uniform_%28NWU%29_Type_III.png",
+      "width": 460,
+      "height": 1845,
+      "title": "160803-N-RY232-002 - Navy Working Uniform (NWU) Type III.png",
+      "description": "160803-N-RY232-002 \nWASHINGTON (Aug. 3, 2016) The Dept. of the Navy announced that it will transition from the Navy Working Uniform (NWU) Type I to the NWU Type III as its primary shore working unifor",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/FA-18_Hornet_breaking_sound_barrier_%287_July_1999%29.jpg/1280px-FA-18_Hornet_breaking_sound_barrier_%287_July_1999%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/FA-18_Hornet_breaking_sound_barrier_%287_July_1999%29.jpg",
+      "width": 2100,
+      "height": 1500,
+      "title": "FA-18 Hornet breaking sound barrier (7 July 1999).jpg",
+      "description": "Off the coast of Pusan, South Korea: An F/A-18C Hornet assigned to Strike Fighter Squadron One Five One (VFA-151) breaks the sound barrier in the skies over the Pacific Ocean. VFA-151 is deployed aboa",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Navy_Region_Singapore_hosts_Date_Safe_Project_160620-N-QL164-001.jpg/1280px-Navy_Region_Singapore_hosts_Date_Safe_Project_160620-N-QL164-001.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/52/Navy_Region_Singapore_hosts_Date_Safe_Project_160620-N-QL164-001.jpg",
+      "width": 4512,
+      "height": 3008,
+      "title": "Navy Region Singapore hosts Date Safe Project 160620-N-QL164-001.jpg",
+      "description": "SINGAPORE (Jun. 20, 2016) - Navy Region Singapore hosted Mike Domitrz, author of, \"May I Kiss You,\" and executive director of The Date Safe Project June 20, 2016 as part of sexual assault awareness an",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/US_Navy_021121-N-0357S-001_Participants_in_the.jpg/1280px-US_Navy_021121-N-0357S-001_Participants_in_the.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/US_Navy_021121-N-0357S-001_Participants_in_the.jpg",
+      "width": 2100,
+      "height": 1575,
+      "title": "US Navy 021121-N-0357S-001 Participants in the.jpg",
+      "description": "At sea aboard USS Peleliu (LHA 5) Nov. 21, 2002 -- Escorted by Ensign Carine Ramin and Chief Journalist Robert Winkler, participants in the \"Leaders to Sea\" program are given a chance to tour USS Pele",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/US_Navy_030915-N-2970T-001_Landing_Craft-Utility_%28LCU%29_transports_Marines.jpg/1280px-US_Navy_030915-N-2970T-001_Landing_Craft-Utility_%28LCU%29_transports_Marines.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/30/US_Navy_030915-N-2970T-001_Landing_Craft-Utility_%28LCU%29_transports_Marines.jpg",
+      "width": 3000,
+      "height": 2008,
+      "title": "US Navy 030915-N-2970T-001 Landing Craft-Utility (LCU) transports Marines.jpg",
+      "description": "Philippine Sea (Sept. 15, 2003) -- A Landing Craft-Utility (LCU) transports Marines and equipment of the 31st Marine Expeditionary Unit (MEU) from the well deck of the amphibious assault ship USS Esse",
+      "license": "Public domain",
+      "source": "wikimedia"
+    }
+  ],
+  "doctrine": {
+    "role": "China's primary training platform for carrier aviation development and a symbol of naval power projection capability, serving as the foundation for PLAN's transition from coastal defense to blue-water operations within the first and second island chains.",
+    "employment": "Liaoning operates as the centerpiece of carrier strike groups alongside Type 052D destroyers, Type 054A frigates, and Type 903 replenishment ships, conducting training operations in the South China Sea and Western Pacific. The carrier focuses on developing pilot proficiency, deck crew procedures, and multi-ship coordination rather than high-intensity combat operations. Command structure integrates with PLAN's Northern Theatre Command, with increasing emphasis on joint operations with PLAAF and PLARF forces.",
+    "design_philosophy": "Prioritized rapid entry into carrier operations using proven Soviet hull design over developing indigenous capabilities from scratch, accepting limitations of ski-jump launch over catapult systems for faster commissioning. Designers emphasized training capacity and operational reliability over maximum combat effectiveness, sacrificing aircraft launch rates and payload flexibility to minimize technical risk during China's carrier learning curve.",
+    "threat_context": "Originally designed as Soviet Admiral Kuznetsov-class for operations against NATO carrier groups in contested environments with land-based air support, but repurposed by China for power projection in regional waters against primarily submarine and air threats. The threat environment has evolved to include advanced anti-ship missiles, stealth aircraft, and integrated air defense systems, exposing Liaoning's limited defensive capabilities and aircraft capacity constraints.",
+    "comparison_frame": "Compare on training throughput and operational learning curve rather than combat capability - Liaoning's value lies in developing institutional knowledge and pilot proficiency. Focus on aircraft operations rate, sortie generation, and crew training capacity versus Western carriers, accepting that ski-jump limitations make direct combat effectiveness comparisons less meaningful."
+  },
+  "curated_sources": [
+    {
+      "title": "China Naval Modernization: Implications for U.S. Navy Capabilities",
+      "type": "report",
+      "url": "https://crsreports.congress.gov/product/pdf/RL/RL33153",
+      "relevance": "Comprehensive analysis of PLAN carrier development including Liaoning's role in China's naval modernization strategy.",
+      "priority": "essential"
+    },
+    {
+      "title": "Andrew S. Erickson - Naval War College China Maritime Studies",
+      "type": "analyst",
+      "url": "https://www.andrewerickson.com/",
+      "relevance": "Leading Western expert on PLAN carrier operations and Chinese naval aviation development with extensive Liaoning analysis.",
+      "priority": "essential"
+    },
+    {
+      "title": "Chinese Naval Shipbuilding: An Ambitious and Uncertain Course",
+      "type": "report",
+      "url": "https://www.rand.org/pubs/research_reports/RR2684.html",
+      "relevance": "RAND assessment of China's carrier program including technical analysis of Liaoning's capabilities and limitations.",
+      "priority": "recommended"
+    },
+    {
+      "title": "China's Aircraft Carriers - Naval Technology",
+      "type": "database",
+      "url": "https://www.naval-technology.com/projects/liaoning-aircraft-carrier/",
+      "relevance": "Technical specifications and systems analysis for Liaoning including air wing composition and operational capabilities.",
+      "priority": "reference"
+    },
+    {
+      "title": "Learning the Ropes: China's Navy Trains with Its First Aircraft Carrier",
+      "type": "report",
+      "url": "https://www.csis.org/analysis/learning-ropes-chinas-navy-trains-its-first-aircraft-carrier",
+      "relevance": "CSIS analysis of Liaoning's training operations and development of Chinese carrier aviation doctrine.",
+      "priority": "recommended"
+    },
+    {
+      "title": "China's Quest for Great Power: Ships, Oil, and Foreign Policy",
+      "type": "book",
+      "url": "",
+      "relevance": "Bernard Cole's comprehensive analysis places Liaoning within broader context of China's naval modernization and strategic objectives.",
+      "priority": "recommended"
+    },
+    {
+      "title": "The PLA Navy: New Capabilities and Missions for the 21st Century",
+      "type": "book",
+      "url": "",
+      "relevance": "Detailed examination of PLAN transformation including carrier aviation development and Liaoning's operational integration.",
+      "priority": "reference"
+    }
+  ]
+}

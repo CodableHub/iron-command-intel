@@ -1,0 +1,346 @@
+{
+  "combat_history": [
+    {
+      "date": "2022-11",
+      "operation": "Maiden operational deployment",
+      "event": "INS Vikrant conducted first operational patrol in Arabian Sea with full air wing, including MiG-29K operations and helicopter trials",
+      "significance": "Demonstrated initial operational capability and air wing integration following commissioning"
+    },
+    {
+      "date": "2023-07",
+      "operation": "Malabar Exercise 2023",
+      "event": "Participated in quadrilateral naval exercise with US, Japanese, and Australian forces, conducting air defense and strike missions",
+      "significance": "First major international exercise participation, validating interoperability with allied forces"
+    }
+  ],
+  "modernization": [
+    {
+      "program": "Air Wing Expansion",
+      "status": "in-progress",
+      "timeline": "2024-2026",
+      "description": "Integration of additional MiG-29K variants and potential indigenous fighter aircraft trials",
+      "impact": "Enhanced strike capability and reduced dependence on foreign aircraft"
+    },
+    {
+      "program": "Combat System Upgrades",
+      "status": "planned",
+      "timeline": "2025-2027",
+      "description": "Upgrade of CMS with enhanced data links, improved EW suite, and integration of indigenous missiles",
+      "impact": "Better situational awareness and defensive capabilities"
+    },
+    {
+      "program": "TEDBF Integration",
+      "status": "planned",
+      "timeline": "2030-2035",
+      "description": "Integration of Twin Engine Deck Based Fighter to replace or supplement MiG-29K fleet",
+      "impact": "Indigenous fighter capability reducing foreign dependence"
+    }
+  ],
+  "vulnerabilities": [
+    {
+      "area": "Limited Air Wing Capability",
+      "description": "Ski-jump configuration severely limits aircraft payload and fuel capacity compared to catapult-equipped carriers. MiG-29K cannot take off with full fuel and weapon load simultaneously.",
+      "context": "Reduces effective combat radius and strike payload in high-threat environments where maximum range and firepower are critical",
+      "mitigation": "Future carriers planned with electromagnetic catapults; current focus on maximizing operational efficiency"
+    },
+    {
+      "area": "Lack of Organic AEW",
+      "description": "Relies on Ka-31 helicopters for airborne early warning rather than fixed-wing AEW aircraft, limiting radar horizon and persistence",
+      "context": "Critical vulnerability in contested airspace where early warning of incoming threats is essential for survival",
+      "mitigation": "Exploring indigenous AEW helicopter upgrades and potential future fixed-wing solutions"
+    },
+    {
+      "area": "Limited Air Defense",
+      "description": "Barak 8 provides medium-range capability but lacks the layered defense of US/European carriers. No long-range SAMs or comprehensive CIWS coverage",
+      "context": "Vulnerable to saturation missile attacks from peer adversaries, particularly in confined waters like Arabian Sea approaches",
+      "mitigation": "Relies on escort vessels for extended air defense; future upgrades may include additional missile systems"
+    },
+    {
+      "area": "Maintenance and Logistics",
+      "description": "First-of-class challenges with maintenance procedures, spare parts availability, and crew training on new indigenous systems",
+      "context": "Operational availability could be compromised during initial service years while procedures are refined",
+      "mitigation": "Extensive training programs and maintenance contracts with shipyard for initial support"
+    }
+  ],
+  "operational_patterns": {
+    "typical_deployment": "Carrier battle group operations in Indian Ocean, presence missions, power projection exercises",
+    "deployment_length_months": 4,
+    "key_operating_areas": [
+      "Arabian Sea",
+      "Bay of Bengal",
+      "Central Indian Ocean",
+      "Strait of Malacca"
+    ],
+    "typical_task_group": "2-3 destroyers/frigates, 1-2 submarines, 1 fleet tanker, 1 supply ship",
+    "readiness_notes": "Limited by single-carrier operations until second carrier or major Vikramaditya overhaul completion"
+  },
+  "peer_comparisons": [
+    {
+      "platform": "HMS Queen Elizabeth-class",
+      "country": "United Kingdom",
+      "relationship": "direct peer",
+      "key_differences": "Queen Elizabeth is larger (65,000t vs 45,000t) with more advanced F-35B aircraft but similar ski-jump limitations. Both lack catapults but QE has larger air wing capacity.",
+      "video_angle": "Medium power carrier comparison - ski-jump vs catapult trade-offs and air wing capabilities"
+    },
+    {
+      "platform": "Liaoning-class",
+      "country": "China",
+      "relationship": "regional rival",
+      "key_differences": "Liaoning is older Soviet design with similar ski-jump but larger displacement (60,000t). Both operate with limited AEW but Chinese J-15 has longer range than MiG-29K.",
+      "video_angle": "Indo-Pacific carrier rivalry - comparing China vs India's carrier aviation approach"
+    },
+    {
+      "platform": "Admiral Kuznetsov",
+      "country": "Russia",
+      "relationship": "design influence",
+      "key_differences": "Kuznetsov influenced Vikrant's design but is larger and combines carrier/cruiser roles with heavy missile armament. Vikrant is purely aviation-focused.",
+      "video_angle": "Evolution from Soviet carrier concepts to modern indigenous design"
+    },
+    {
+      "platform": "Charles de Gaulle",
+      "country": "France",
+      "relationship": "medium power comparison",
+      "key_differences": "Charles de Gaulle is nuclear-powered with catapults and advanced Rafale aircraft, representing more sophisticated but expensive approach to medium carrier operations.",
+      "video_angle": "Nuclear vs conventional power for medium navies - capability vs cost analysis"
+    },
+    {
+      "platform": "Giuseppe Garibaldi",
+      "country": "Italy",
+      "relationship": "predecessor generation",
+      "key_differences": "Garibaldi represents previous generation light carrier design. Vikrant shows evolution toward larger, more capable indigenous carrier construction for emerging naval powers.",
+      "video_angle": "Evolution of carrier aviation for medium naval powers"
+    }
+  ],
+  "search_keywords": [
+    "vikrant class",
+    "IAC-1",
+    "IAC 1",
+    "INS Vikrant",
+    "indian aircraft carrier",
+    "indigenous aircraft carrier",
+    "vikrant carrier",
+    "indian navy carrier",
+    "MiG-29K",
+    "indian carrier"
+  ],
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/2c/CNS_Reviews_the_progress_of_INS_Vikrant_in_Kochi_%281%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/2c/CNS_Reviews_the_progress_of_INS_Vikrant_in_Kochi_%281%29.jpg",
+      "width": 1000,
+      "height": 667,
+      "title": "CNS Reviews the progress of INS Vikrant in Kochi (1).jpg",
+      "description": "Admiral RK Dhowan, the Chief of Naval Staff arrived Kochi on 16 January 2016 to review the progress of the Indigenous Aircraft Carrier (IAC) \u2018Vikrant \u2018under construction at Cochin Shipyard limited (CS",
+      "license": "GODL-India",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/HS.125_Irish_Air_Corps_%2828984700615%29.jpg/1280px-HS.125_Irish_Air_Corps_%2828984700615%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/56/HS.125_Irish_Air_Corps_%2828984700615%29.jpg",
+      "width": 1400,
+      "height": 933,
+      "title": "HS.125 Irish Air Corps (28984700615).jpg",
+      "description": "<p>Valkenburg, 24 June 1986.\n</p><p>HS.125-700B 238 was delivered in 1980 and sold in 1992, if the information on the web is correct.\n</p><p>It was the only visit of 238 to Valkenburg, so I was lucky ",
+      "license": "CC BY-SA 2.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/94/IAC-1_Vikrant_going_for_its_maiden_sea_trials.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/94/IAC-1_Vikrant_going_for_its_maiden_sea_trials.jpg",
+      "width": 1280,
+      "height": 853,
+      "title": "IAC-1 Vikrant going for its maiden sea trials.jpg",
+      "description": "IAC-1 Vikrant going for its maiden sea trials",
+      "license": "GODL-India",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/IAC-1_Vikrant_leaving_Kochi_for_its_maiden_sea_trials.jpg/1280px-IAC-1_Vikrant_leaving_Kochi_for_its_maiden_sea_trials.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/08/IAC-1_Vikrant_leaving_Kochi_for_its_maiden_sea_trials.jpg",
+      "width": 2048,
+      "height": 1367,
+      "title": "IAC-1 Vikrant leaving Kochi for its maiden sea trials.jpg",
+      "description": "IAC-1 Vikrant leaving Kochi for its maiden sea trials",
+      "license": "GODL-India",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/dc/IAC-1_Vikrant_out_in_the_sea_during_its_maiden_sea_trials.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/dc/IAC-1_Vikrant_out_in_the_sea_during_its_maiden_sea_trials.jpg",
+      "width": 1280,
+      "height": 853,
+      "title": "IAC-1 Vikrant out in the sea during its maiden sea trials.jpg",
+      "description": "IAC-1 Vikrant out in the sea during its maiden sea trials",
+      "license": "GODL-India",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/ce/IAC-1_Vikrant_out_in_the_sea_during_its_maiden_sea_trials_%28cropped%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/ce/IAC-1_Vikrant_out_in_the_sea_during_its_maiden_sea_trials_%28cropped%29.jpg",
+      "width": 900,
+      "height": 600,
+      "title": "IAC-1 Vikrant out in the sea during its maiden sea trials (cropped).jpg",
+      "description": "IAC-1 Vikrant out in the sea during its maiden sea trials",
+      "license": "GODL-India",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/07/Tropex_2023_Indian_Navy_ships.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/07/Tropex_2023_Indian_Navy_ships.jpg",
+      "width": 1280,
+      "height": 718,
+      "title": "Tropex 2023 Indian Navy ships.jpg",
+      "description": "As part of the final Joint Phase, on 06 Mar 2023, Raksha Mantri Shri Rajnathsingh\n reviewed IndianNavy's operational preparedness &amp; material readiness, onboard the newly commissioned IAC  Vikrant,",
+      "license": "GODL-India",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Westland_Sea_King_landing_on_IAC-1_Vikrant_during_its_sea_trials.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Westland_Sea_King_landing_on_IAC-1_Vikrant_during_its_sea_trials.jpg",
+      "width": 1280,
+      "height": 853,
+      "title": "Westland Sea King landing on IAC-1 Vikrant during its sea trials.jpg",
+      "description": "Westland Sea King landing on IAC-1 Vikrant during its sea trials",
+      "license": "GODL-India",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Basin_Trials_of_Indigenous_Aircraft_Carrier_2.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Basin_Trials_of_Indigenous_Aircraft_Carrier_2.jpg",
+      "width": 1128,
+      "height": 752,
+      "title": "Basin Trials of Indigenous Aircraft Carrier 2.jpg",
+      "description": "Basin Trials of Indigenous Aircraft Carrier (IAC) were successfully conducted at Cochin Shipyard Limited on 30th November 2020.",
+      "license": "GODL-India",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/INS_Vikrant_Flag_hoisting_-_Republic_day.jpg/1280px-INS_Vikrant_Flag_hoisting_-_Republic_day.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/15/INS_Vikrant_Flag_hoisting_-_Republic_day.jpg",
+      "width": 1548,
+      "height": 1032,
+      "title": "INS Vikrant Flag hoisting - Republic day.jpg",
+      "description": "Team Vikrant, on the occasion of Republic Day; honors the diversity and richness of our nation and pledge to work together towards building a better and secure future for one and all..!!!",
+      "license": "GODL-India",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/13/INS_Vikrant_Fleet_Operation_4.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/13/INS_Vikrant_Fleet_Operation_4.jpg",
+      "width": 1280,
+      "height": 853,
+      "title": "INS Vikrant Fleet Operation 4.jpg",
+      "description": "The CINC complimented the Western Fleet, INS Hansa and IAF\n for the readiness to accomplish the concept of operations as envisaged by the Indian Navy and contribute towards maritime security of the na",
+      "license": "GODL-India",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/INS_Vikrant_Fleet_Operations_7.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/INS_Vikrant_Fleet_Operations_7.jpg",
+      "width": 1128,
+      "height": 752,
+      "title": "INS Vikrant Fleet Operations 7.jpg",
+      "description": "VAdm Ajendra Bahadur Singh, FOCINC WNC embarked Indian Navy Western Fleet\n for a review of operational/ combat readiness of the Sword Arm from 11-13 Oct.",
+      "license": "GODL-India",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/INS_Vikrant_berthed_at_Visakhapatnam_for_Milan_2024.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/INS_Vikrant_berthed_at_Visakhapatnam_for_Milan_2024.jpg",
+      "width": 1279,
+      "height": 714,
+      "title": "INS Vikrant berthed at Visakhapatnam for Milan 2024.jpg",
+      "description": "As The Sunrise Command welcomes India's Indigenous Aircraft Carrier IN R11 Vikrant, May she always live by her motto \"\u091c\u092f\u0947\u092e \u0938\u092e\u094d \u092f\u0941\u0927\u093f\u0938\u094d\u092a\u0943\u0927\u0903\" \u2014 \"I defeat those who dare to challenge me\"",
+      "license": "GODL-India",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/64/INS_Vikrant_berthing_on_her_arrival_at_Visakapatanam_to_participate_in_Milan_2024.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/64/INS_Vikrant_berthing_on_her_arrival_at_Visakapatanam_to_participate_in_Milan_2024.jpg",
+      "width": 1280,
+      "height": 595,
+      "title": "INS Vikrant berthing on her arrival at Visakapatanam to participate in Milan 2024.jpg",
+      "description": "A historic day unfolds at the Sunrise Command. INS Vikrant makes a grand debut at the scenic port of Visakhapatnam for MILAN 2024. It is not just a maiden alongside berthing for her but a Grihapravesh",
+      "license": "GODL-India",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/INS_Vikrant_refueling_by_INS_Deepak_Img3.jpg/1280px-INS_Vikrant_refueling_by_INS_Deepak_Img3.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/64/INS_Vikrant_refueling_by_INS_Deepak_Img3.jpg",
+      "width": 2178,
+      "height": 1451,
+      "title": "INS Vikrant refueling by INS Deepak Img3.jpg",
+      "description": "Thirsty for fuel and hungry for stores we were\u2026.\"Kabhi bhi kahin tak\" said Deepak and filled our bellies far from any shore!",
+      "license": "GODL-India",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/80/Vikrant_class_aircraft_carrier_CGI.png",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/80/Vikrant_class_aircraft_carrier_CGI.png",
+      "width": 322,
+      "height": 179,
+      "title": "Vikrant class aircraft carrier CGI.png",
+      "description": "Vikrant class aircraft carrier CGI",
+      "license": "GODL-India",
+      "source": "wikimedia"
+    }
+  ],
+  "doctrine": {
+    "role": "Regional power projection and sea lane control in the Indian Ocean, establishing India as the dominant naval force from the Arabian Sea to the Malacca Straits while providing credible deterrence against peer competitors.",
+    "employment": "Operates as the centerpiece of a carrier battle group typically including destroyers, frigates, submarines, and support vessels, conducting extended patrols in the Arabian Sea, Bay of Bengal, and broader Indian Ocean. Primary missions include air superiority over naval task forces, strike operations against surface targets, and providing air cover for amphibious operations. Command structure integrates with shore-based maritime patrol aircraft and satellite surveillance to create layered reconnaissance and strike capabilities across India's maritime domain.",
+    "design_philosophy": "Prioritized indigenous construction capability and operational autonomy over maximum capability, accepting a smaller air wing (30 aircraft vs 50+ on larger carriers) to achieve domestic shipbuilding expertise and reduced foreign dependency. Emphasized conventional STOBAR configuration using proven ski-jump technology rather than more complex catapult systems, trading aircraft payload capacity for design simplicity and maintenance reliability.",
+    "threat_context": "Designed primarily to counter Chinese naval expansion in the Indian Ocean and Pakistani maritime threats, with emphasis on controlling critical sea lanes and projecting power to distant island territories. The threat environment has intensified since conception with China's expanding submarine presence, advanced anti-ship missiles, and establishment of overseas naval facilities, requiring enhanced defensive capabilities and extended operational ranges.",
+    "comparison_frame": "Compare primarily on air wing composition and sortie generation rates rather than raw tonnage - India's STOBAR configuration fundamentally differs from CATOBAR systems. Focus on operational radius and endurance capabilities versus regional peers, as sustained presence in the vast Indian Ocean matters more than maximum aircraft capacity for India's specific geographic challenges."
+  },
+  "curated_sources": [
+    {
+      "title": "Indian Naval Strategy in the Twenty-First Century by Harsh Pant",
+      "type": "book",
+      "url": "",
+      "relevance": "Provides comprehensive analysis of India's maritime doctrine and the strategic rationale behind indigenous carrier development.",
+      "priority": "essential"
+    },
+    {
+      "title": "India's Aircraft Carriers: Operational Capabilities and Strategic Implications (CRS Report)",
+      "type": "report",
+      "url": "https://sgp.fas.org/crs/row/R45770.pdf",
+      "relevance": "Authoritative assessment of IAC-1's capabilities within India's broader naval modernization strategy.",
+      "priority": "essential"
+    },
+    {
+      "title": "Aircraft Carriers and the Future of Naval Aviation by Milan Vego",
+      "type": "book",
+      "url": "",
+      "relevance": "Essential reference for understanding carrier operations doctrine and employment principles applicable to INS Vikrant.",
+      "priority": "recommended"
+    },
+    {
+      "title": "RUSI Maritime Security Programme Analysis",
+      "type": "analyst",
+      "url": "https://rusi.org/explore-our-research/research-programmes/maritime-security",
+      "relevance": "Ongoing analysis of Indian Ocean naval developments and carrier operations by leading defense analysts.",
+      "priority": "recommended"
+    },
+    {
+      "title": "Observer Research Foundation Maritime Security Initiative",
+      "type": "analyst",
+      "url": "https://www.orfonline.org/research/maritime-security/",
+      "relevance": "Premier Indian think tank providing indigenous perspective on naval doctrine and carrier employment strategies.",
+      "priority": "essential"
+    },
+    {
+      "title": "Seaforces.org - INS Vikrant Specifications",
+      "type": "database",
+      "url": "http://www.seaforces.org/marint/Indian-Navy/Aircraft-Carrier/INS-Vikrant.htm",
+      "relevance": "Comprehensive technical specifications and configuration details for comparative analysis.",
+      "priority": "reference"
+    },
+    {
+      "title": "Indian Naval Doctrine 2009 (Updated Concepts)",
+      "type": "report",
+      "url": "https://www.indiannavy.nic.in/sites/default/files/Indian-Naval-Doctrine-2009-Updated.pdf",
+      "relevance": "Official doctrinal framework explaining India's maritime strategy and carrier employment philosophy.",
+      "priority": "essential"
+    }
+  ]
+}

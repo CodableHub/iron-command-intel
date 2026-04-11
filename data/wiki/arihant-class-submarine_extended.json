@@ -1,0 +1,213 @@
+{
+  "combat_history": [
+    {
+      "date": "2017-11",
+      "operation": "Operational Patrol",
+      "event": "INS Arihant completed its first deterrence patrol, marking India's nuclear triad operational status",
+      "significance": "Historic milestone establishing India's credible sea-based nuclear deterrent capability"
+    },
+    {
+      "date": "2018",
+      "operation": "K-4 Missile Test",
+      "event": "Successful test firing of K-4 SLBM from submerged position, extending strike range to 3,500km",
+      "significance": "Demonstrated ability to target deep into adversary territory from Indian Ocean patrol areas"
+    }
+  ],
+  "modernization": [
+    {
+      "program": "S5 Class Development",
+      "status": "planned",
+      "timeline": "2025-2030",
+      "description": "Larger 13,500-ton SSBN with 12-16 missile tubes and improved reactor technology",
+      "impact": "Will provide India with true strategic deterrent capability comparable to major nuclear powers"
+    },
+    {
+      "program": "K-5 SLBM Integration",
+      "status": "in-progress",
+      "timeline": "2023-2027",
+      "description": "Development of 5,000km range SLBM for S4 and future classes",
+      "impact": "Extends deterrent coverage to entire Chinese mainland from Indian Ocean positions"
+    }
+  ],
+  "vulnerabilities": [
+    {
+      "area": "Acoustic Signature",
+      "description": "Reportedly much noisier than contemporary SSBNs, potentially detectable by advanced sonar systems",
+      "context": "Chinese submarine detection capabilities in South China Sea and Indian Ocean pose threat to deterrent patrols",
+      "mitigation": "Improved acoustic dampening in later variants, restricted patrol areas"
+    },
+    {
+      "area": "Missile Capacity",
+      "description": "Only 4 missile tubes severely limits strike capability compared to 12-16 tubes on peer SSBNs",
+      "context": "Insufficient for credible deterrent against major adversaries with extensive ABM systems",
+      "mitigation": "S4 class increases to 8 tubes, S5 planned with 12-16 tubes"
+    },
+    {
+      "area": "Operational Experience",
+      "description": "Limited operational history and crew experience with nuclear submarine operations",
+      "context": "Critical for maintaining credible deterrent posture and avoiding accidents",
+      "mitigation": "Gradual buildup of operational tempo, training partnerships with Russia"
+    },
+    {
+      "area": "Single Point of Failure",
+      "description": "All hulls built at single facility, creating vulnerability to sabotage or natural disaster",
+      "context": "Limited industrial base compared to peer nations with multiple SSBN construction sites",
+      "mitigation": "Plans for second construction facility, improved security at Visakhapatnam"
+    }
+  ],
+  "operational_patterns": {
+    "typical_deployment": "Deterrent patrols in Bay of Bengal and Arabian Sea, bastion defense of Indian Ocean",
+    "deployment_length_months": 2,
+    "key_operating_areas": [
+      "Bay of Bengal",
+      "Arabian Sea",
+      "Central Indian Ocean"
+    ],
+    "typical_task_group": "Independent operations with distant escort by conventional submarines",
+    "readiness_notes": "Limited operational availability due to maintenance requirements and crew training needs"
+  },
+  "peer_comparisons": [
+    {
+      "platform": "Type 094 Jin-class SSBN",
+      "country": "China",
+      "relationship": "direct rival",
+      "key_differences": "Jin-class larger with 12 JL-2 missiles vs 4 K-15s, but both suffer from acoustic signature issues. Jin has greater strategic reach but Arihant operates in familiar waters.",
+      "video_angle": "David vs Goliath comparison highlighting how smaller deterrent forces can still provide credible threat"
+    },
+    {
+      "platform": "Le Triomphant-class SSBN",
+      "country": "France",
+      "relationship": "similar role model",
+      "key_differences": "French boats are larger, quieter, and carry 16 M51 SLBMs with much greater range. Represents the capability level India aspires to reach.",
+      "video_angle": "How medium powers build credible nuclear deterrents - lessons from French experience"
+    },
+    {
+      "platform": "Borei-class SSBN",
+      "country": "Russia",
+      "relationship": "technology provider",
+      "key_differences": "Borei-class vastly superior in all metrics - size, stealth, missile capacity (16 Bulava SLBMs). Shows evolution from Russian technology transfer.",
+      "video_angle": "Technology transfer relationships in submarine warfare - how much capability can actually be shared"
+    },
+    {
+      "platform": "Dreadnought-class SSBN",
+      "country": "United Kingdom",
+      "relationship": "peer medium power deterrent",
+      "key_differences": "UK boats will be larger with US Trident missiles, representing mature SSBN capability vs India's developmental program.",
+      "video_angle": "Different paths to sea-based deterrence - indigenous development vs alliance cooperation"
+    }
+  ],
+  "search_keywords": [
+    "arihant class",
+    "INS Arihant",
+    "indian SSBN",
+    "nuclear submarine india",
+    "ballistic missile submarine",
+    "K-15 sagarika",
+    "K-4 missile",
+    "ATV program",
+    "ship building centre visakhapatnam",
+    "indian nuclear triad"
+  ],
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/1st_Battalion_Marines_group_shot_during_Operation_Iraqi_Freedom.jpg/1280px-1st_Battalion_Marines_group_shot_during_Operation_Iraqi_Freedom.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/7a/1st_Battalion_Marines_group_shot_during_Operation_Iraqi_Freedom.jpg",
+      "width": 1500,
+      "height": 900,
+      "title": "1st Battalion Marines group shot during Operation Iraqi Freedom.jpg",
+      "description": "US Marine Corps (USMC) Marines of the 1st Battalion, 5th Marines (1/5) pose for a group shot at a forward deployed location during Operation IRAQI FREEDOM. All are US Marines except as noted.  Front R",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Bolgiano%27s_1902_catalogue_%2816349187282%29.jpg/1280px-Bolgiano%27s_1902_catalogue_%2816349187282%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Bolgiano%27s_1902_catalogue_%2816349187282%29.jpg",
+      "width": 1674,
+      "height": 2340,
+      "title": "Bolgiano's 1902 catalogue (16349187282).jpg",
+      "description": "<p>\u00a3.olgiano &amp; Co. 's tested Vegetable J'eecls. <br>\nSeeds from the Best Market Gardeners' Stocks and Perfect Germination <br>\nAsparagus. <br>\nSPARGEL <br>\nOne ounce to fifty feet of drill. Four p",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Arihant_2.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Arihant_2.jpg",
+      "width": 835,
+      "height": 505,
+      "title": "Arihant 2.jpg",
+      "description": "Arihant class submarine",
+      "license": "CC BY-SA 3.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Arihant_3.jpg/1280px-Arihant_3.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/34/Arihant_3.jpg",
+      "width": 1402,
+      "height": 600,
+      "title": "Arihant 3.jpg",
+      "description": "Arihant class Submarine",
+      "license": "CC BY-SA 3.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/68/Arihant_4.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/68/Arihant_4.jpg",
+      "width": 1073,
+      "height": 752,
+      "title": "Arihant 4.jpg",
+      "description": "Arihant class submarine",
+      "license": "CC BY-SA 3.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Arihant_class.png/1280px-Arihant_class.png",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Arihant_class.png",
+      "width": 1329,
+      "height": 322,
+      "title": "Arihant class.png",
+      "description": "Arihant class nuclear-powered ballistic missile submarine",
+      "license": "CC BY-SA 3.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Arihant_follow_on_class_submarine.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Arihant_follow_on_class_submarine.jpg",
+      "width": 1151,
+      "height": 751,
+      "title": "Arihant follow on class submarine.jpg",
+      "description": "Conceptual drawing of the follow on SSBN class of the Indian Navy",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/INS_Arihant_closeup.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/INS_Arihant_closeup.jpg",
+      "width": 1041,
+      "height": 445,
+      "title": "INS Arihant closeup.jpg",
+      "description": "Computer Graphics of of INS Arihant class submarine",
+      "license": "CC0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/PM_Modi_addressing_the_crew_of_INS_Arihant.jpg/1280px-PM_Modi_addressing_the_crew_of_INS_Arihant.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/PM_Modi_addressing_the_crew_of_INS_Arihant.jpg",
+      "width": 2048,
+      "height": 1553,
+      "title": "PM Modi addressing the crew of INS Arihant.jpg",
+      "description": "PM Modi addresses the crew of INS Arihant, congratulating them for completing the first deterrence patrol of INS Arihant.",
+      "license": "GODL-India",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Prime_Minister_Narendra_Modi_receiving_the_crew_of_INS_Arihant.jpg/1280px-Prime_Minister_Narendra_Modi_receiving_the_crew_of_INS_Arihant.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/18/Prime_Minister_Narendra_Modi_receiving_the_crew_of_INS_Arihant.jpg",
+      "width": 2048,
+      "height": 986,
+      "title": "Prime Minister Narendra Modi receiving the crew of INS Arihant.jpg",
+      "description": "Prime Minister Narendra Modi received today the crew of Strategic Strike Nuclear Submarine (SSBN) INS Arihant. The submarine recently returned from its first deterrence patrol, completing the establis",
+      "license": "GODL-India",
+      "source": "wikimedia"
+    }
+  ]
+}

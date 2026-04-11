@@ -1,0 +1,729 @@
+{
+  "id": 12,
+  "slug": "america-class-lha",
+  "name": "America-class amphibious assault ship",
+  "designation": "LHA-6",
+  "type": "amphibious",
+  "country": "United States",
+  "operator": "United States Navy",
+  "overview_md": "The America-class amphibious assault ship represents the U.S. Navy's latest evolution in power projection platforms, designed primarily as aviation-centric assault ships optimizing vertical lift capability over traditional well deck operations. Unlike its predecessor Wasp-class, the America-class was initially designed without a well deck to maximize aviation fuel storage and hangar space, though this was reversed starting with LHA-8.\n\nStrategically, these ships serve as the backbone of Marine Expeditionary Units (MEUs), capable of launching F-35B Lightning II operations from their flight decks while simultaneously supporting Marine Corps air-ground task forces. The class embodies the shift toward distributed maritime operations and island-hopping campaigns in contested environments, particularly relevant for Pacific theater operations against peer adversaries.\n\nThe design philosophy prioritizes aviation operations above all else, with the flight deck and hangar optimized for the F-35B's operational requirements including specialized maintenance facilities and weapons handling. This represents a fundamental shift from balanced amphibious warfare to aviation-dominant power projection, reflecting lessons learned from Iraq and Afghanistan where helicopter and fixed-wing close air support proved critical.\n\nIn the current threat environment, America-class ships provide the Navy-Marine Corps team with a distributed, mobile airfield capability that can operate F-35Bs in contested airspace while remaining outside the range of most land-based anti-ship missiles. However, their large signature and high value make them prime targets for enemy long-range precision fires, requiring robust escort and defensive measures.",
+  "specs_json": {
+    "displacement_tonnes": 44971,
+    "length_m": 257.3,
+    "beam_m": 32.3,
+    "draft_m": 8.1,
+    "speed_knots": 22,
+    "range_nm": 9500,
+    "crew": 1059,
+    "propulsion": "Two General Electric LM2500+ gas turbines, 70,000 shp",
+    "radar": "AN/SPS-48E 3D air search radar, AN/SPS-73(V)12 surface search radar",
+    "sonar": null,
+    "combat_system": "Ship Self-Defense System (SSDS) Mk 2",
+    "vls_cells": 0,
+    "additional": {
+      "aircraft_capacity": "Up to 20 F-35B or mix of rotorcraft",
+      "aviation_fuel_capacity_gallons": 1600000,
+      "jp5_capacity_increase_vs_wasp": "50% more than Wasp-class",
+      "flight_deck_area_sqft": 52000,
+      "hangar_area_sqft": 26000,
+      "well_deck": "None (LHA-6, LHA-7), Present (LHA-8+)"
+    }
+  },
+  "armament_json": [
+    {
+      "category": "CIWS",
+      "name": "Phalanx CIWS",
+      "type": "Close-in weapons system",
+      "quantity": "2x 20mm",
+      "range_km": 1.5,
+      "notes": "Point defense against missiles and aircraft"
+    },
+    {
+      "category": "Missiles",
+      "name": "SeaRAM",
+      "type": "Rolling Airframe Missile system",
+      "quantity": "2x 11-cell launchers",
+      "range_km": 10,
+      "notes": "Self-defense against anti-ship missiles"
+    },
+    {
+      "category": "Guns",
+      "name": "M2 Browning",
+      "type": "Heavy machine gun",
+      "quantity": "Multiple .50 cal",
+      "range_km": 2,
+      "notes": "Small boat defense"
+    }
+  ],
+  "variants_json": [
+    {
+      "name": "Flight 0 (No Well Deck)",
+      "designation_range": "LHA-6 to LHA-7",
+      "years": "2014-2018",
+      "count": 2,
+      "key_changes": "Initial design without well deck, maximized aviation fuel storage and hangar space, optimized for F-35B operations",
+      "status": "active"
+    },
+    {
+      "name": "Flight I (Well Deck Restored)",
+      "designation_range": "LHA-8 to LHA-14",
+      "years": "2024-ongoing",
+      "count": 5,
+      "key_changes": "Well deck restored for surface assault craft, reduced fuel capacity but restored traditional amphibious capability",
+      "status": "building"
+    }
+  ],
+  "fleet_status_json": [
+    {
+      "hull_number": "LHA-6",
+      "name": "USS America",
+      "variant": "Flight 0",
+      "commissioned": "2014-10-11",
+      "home_port": "Sasebo, Japan",
+      "status": "active"
+    },
+    {
+      "hull_number": "LHA-7",
+      "name": "USS Tripoli",
+      "variant": "Flight 0",
+      "commissioned": "2020-07-15",
+      "home_port": "San Diego, CA",
+      "status": "active"
+    },
+    {
+      "hull_number": "LHA-8",
+      "name": "USS Bougainville",
+      "variant": "Flight I",
+      "commissioned": "2024-08-31",
+      "home_port": "San Diego, CA",
+      "status": "active"
+    },
+    {
+      "hull_number": "LHA-9",
+      "name": "USS Fallujah",
+      "variant": "Flight I",
+      "commissioned": "TBD",
+      "home_port": "TBD",
+      "status": "fitting out"
+    },
+    {
+      "hull_number": "LHA-10",
+      "name": "TBD",
+      "variant": "Flight I",
+      "commissioned": "TBD",
+      "home_port": "TBD",
+      "status": "under construction"
+    }
+  ],
+  "cost_usd": 3400000000.0,
+  "unit_count": 3,
+  "first_commissioned": "2014-10-11",
+  "builder": "Huntington Ingalls Industries",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/0a/USS_America_%28LHA-6%29_F-35B_loaded.jpg",
+  "wiki_url": "https://en.wikipedia.org/wiki/America-class_amphibious_assault_ship",
+  "sources_json": [
+    "https://en.wikipedia.org/wiki/America-class_amphibious_assault_ship",
+    "https://www.navy.mil/Resources/Fact-Files/Display-FactFiles/Article/2169795/amphibious-assault-ships-lha-lhd/",
+    "https://www.huntingtoningalls.com/what-we-do/ingalls-shipbuilding/ships-we-build/amphibious-assault-ships/",
+    "https://news.usni.org/category/fleet-tracker"
+  ],
+  "comparison_tags": [
+    "amphibious",
+    "aviation",
+    "f35b-capable",
+    "us-navy",
+    "power-projection",
+    "marine-corps"
+  ],
+  "created_at": "2026-04-10 18:00:25",
+  "updated_at": "2026-04-10T18:00:25.061258",
+  "news": [
+    {
+      "id": 15,
+      "platform_id": 12,
+      "article_hash": "6900e759b4f6f050",
+      "title": "American survivors of deadly Kuwait attack dispute Hegseth\u2019s account: \u2018Unprepared to provide any defense for itself\u2019 - The Independent",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQV29La1N6ckNDb0QtWXFZSkd1VVZFdm53TTA1SFR5QzlRUk01Z3hVYXpFMWR5RFRieGtUY3ZEZUVPSDUwZEZtNmdoNzU3WDR1X1o3ZEIxdC10aF95Y003VllHWGwzOGYtVGNzN24tSEpveXMzMldPWm5SWVNIWkV0RDdTTXpLcEdwTnZYendhZnVNREp1d0tXTTRSd0xWbXNXWElOQjhPT3B1LUd1SWFRaHpMSEdqb3NyWWpMUWpR?oc=5",
+      "source": "GNews (The Independent)",
+      "published_at": "2026-04-09T18:57:00",
+      "relevance_score": 0.6,
+      "snippet": "American survivors of deadly Kuwait attack dispute Hegseth\u2019s account: \u2018Unprepared to provide any defense for itself\u2019 - The Independent",
+      "created_at": "2026-04-10 18:06:42"
+    },
+    {
+      "id": 16,
+      "platform_id": 12,
+      "article_hash": "4dfac552f35afbe6",
+      "title": "Which Americans Will Be Automatically Registered for Military Draft, and When?",
+      "url": "https://www.military.com/daily-news/2026/04/09/which-americans-will-be-automatically-registered-military-draft-and-when.html",
+      "source": "Military.com",
+      "published_at": "2026-04-09T18:51:59",
+      "relevance_score": 0.6,
+      "snippet": "Last year's defense bill passed by Congress paved the way for the new automatic registration process.",
+      "created_at": "2026-04-10 18:06:42"
+    },
+    {
+      "id": 17,
+      "platform_id": 12,
+      "article_hash": "74226a13e7fea4aa",
+      "title": "China\u2019s dual-use ambitions could severely threaten America\u2019s force posture",
+      "url": "https://breakingdefense.com/2026/04/chinas-dual-use-ambitions-could-severely-threaten-americas-force-posture/",
+      "source": "Breaking Defense",
+      "published_at": "2026-04-09T17:14:00",
+      "relevance_score": 0.6,
+      "snippet": "The Pentagon already closely tracks dual-use technology, but The Heritage Foundation&#8217;s Brent Sadler and Allen Zhang write in this op-ed that it&#8217;s past time to keep an eye on potential dual-use maritime infrastructure.",
+      "created_at": "2026-04-10 18:06:42"
+    },
+    {
+      "id": 18,
+      "platform_id": 12,
+      "article_hash": "a802446aff25b035",
+      "title": "950,000 Gallons of Coffee and 2 Million Energy Drinks Fueled Epic Fury",
+      "url": "https://www.military.com/daily-news/investigations-and-features/2026/04/09/950000-gallons-of-coffee-and-2-million-energy-drinks-fueled-epic-fury.html",
+      "source": "Military.com",
+      "published_at": "2026-04-09T16:59:13",
+      "relevance_score": 0.2,
+      "snippet": "Gen. Dan Caine tallied the caffeine, nicotine and energy drinks that fueled 50,000 American troops across 38 days of combat against Iran as a two-week ceasefire took effect.",
+      "created_at": "2026-04-10 18:06:42"
+    },
+    {
+      "id": 19,
+      "platform_id": 12,
+      "article_hash": "632748c4046d6466",
+      "title": "How America\u2019s Shahed-136 Clone Became An \u201cIndispensible\u201d Weapon Of War",
+      "url": "https://www.twz.com/news-features/how-americas-shahed-136-clone-became-an-indispensible-weapon-of-war",
+      "source": "The War Zone",
+      "published_at": "2026-04-09T16:27:36",
+      "relevance_score": 0.6,
+      "snippet": "Michael Horowitz, who pushed for the LUCAS drone program while at the Pentagon, offers unique insights into its genesis and future.\nThe post How America&#8217;s Shahed-136 Clone Became An &#8220;Indispensible&#8221; Weapon Of War appeared first on The War Zone.",
+      "created_at": "2026-04-10 18:06:42"
+    },
+    {
+      "id": 21,
+      "platform_id": 12,
+      "article_hash": "8ba6cae03095f485",
+      "title": "China Claims AI System Tracked U.S. B-2 Stealth Bombers Over Iran, Raising Fears America\u2019s Air Dominance Is No Longer Invisible - Defence Security Asia",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOVVp0UEdHUVdWM3NHSVZ2OVl2R1VjY0xOUGdEaUdkQWhBdDE5S09TTU8xUGRaWEhPQkZRdFRRWmNIVTd1MXB3M2VCb1lkWkVSR29jRTVoQjMwRTJoQzdHVmJkSE9aLWRONElISzRwUFF1LV9ybS1kSTlicm14NUM1WllQMFc1dzdkVDFKRDQ1VDRhNjFUbU9fbmlkckVRTEpnZUZiYkN6VTQ?oc=5",
+      "source": "GNews (Defence Security Asia)",
+      "published_at": "2026-04-09T09:44:47",
+      "relevance_score": 0.6,
+      "snippet": "China Claims AI System Tracked U.S. B-2 Stealth Bombers Over Iran, Raising Fears America\u2019s Air Dominance Is No Longer Invisible - Defence Security Asia",
+      "created_at": "2026-04-10 18:06:42"
+    },
+    {
+      "id": 22,
+      "platform_id": 12,
+      "article_hash": "9d05ade58bed206a",
+      "title": "Not just West Asia: US' oldest nuclear-powered warship USS Nimitz is heading to South America - Here's why - WION",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxObFJNVTU4WnFVcjlRUFktVDVSNWJ6ZnNibFFJZ09FNWo3V3RWZUk0RWwyb01OUl8wUmdmY2t2dEZNTVhhUmRTeElqRVJicFRNeEdfSkRXNTE1SmJZMWRxcHhjSE1jOEp1RU5OZE9FOTFIYWpUMm1rZEh4UG55VGlUR0NtRTN1OWVMYUJtLTJ4Q0RpOEtYcXpfN2dDSEI1Q0pZaE01OGRsc1NlNFhMd1ZNMWllSjIweTZTT2puNzdneHBQWFE3NUE4eGRPNThJbHFuVXhxZlBBb1lJVk9fb3pPdg?oc=5",
+      "source": "GNews (WION)",
+      "published_at": "2026-04-09T08:51:00",
+      "relevance_score": 0.6,
+      "snippet": "Not just West Asia: US' oldest nuclear-powered warship USS Nimitz is heading to South America - Here's why - WION",
+      "created_at": "2026-04-10 18:06:42"
+    },
+    {
+      "id": 25,
+      "platform_id": 12,
+      "article_hash": "8d06dc9f82e5f51f",
+      "title": "Americans question Trump\u2019s instinct on Iran war",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/8/americans-question-trumps-instinct-on-iran-war?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "2026-04-08T21:59:51",
+      "relevance_score": 0.6,
+      "snippet": "Americans are split on whether to trust Donald Trump&#039;s instinct-driven approach to the Iran conflict.",
+      "created_at": "2026-04-10 18:06:42"
+    },
+    {
+      "id": 27,
+      "platform_id": 12,
+      "article_hash": "ea6a2b13509e4fb4",
+      "title": "Did America lose yet another war?",
+      "url": "https://www.aljazeera.com/opinions/2026/4/8/did-america-lose-yet-another-war?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "2026-04-08T14:57:19",
+      "relevance_score": 0.6,
+      "snippet": "The war on Iran has repeated the failures of past US conflicts defined by hubris and ignorance.",
+      "created_at": "2026-04-10 18:06:42"
+    },
+    {
+      "id": 29,
+      "platform_id": 12,
+      "article_hash": "1e2f634206d1ae13",
+      "title": "U.S. Navy Deploys Nuclear-Powered Aircraft Carrier \"USS Nimitz\" to South America for One Last Mission Before Retirement - The Daily Galaxy",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNR0NPVVRYeW1BNnpycV9qaEd4aENiMkpual8wUUp5TTZwMC12UXpYRmdNY0RoWUNKajNZdG95TDJBbFZaVTludnRTU1RWbXZ3VXJ3azliRGZQSk9pMjhnMGZhLVI3UmxNSmoya0lPd1NWMHNnbGpOQkExa0V4NXA4c2VMLTNCME9UZFlueGN3?oc=5",
+      "source": "GNews (The Daily Galaxy)",
+      "published_at": "2026-04-08T12:15:00",
+      "relevance_score": 0.6,
+      "snippet": "U.S. Navy Deploys Nuclear-Powered Aircraft Carrier \"USS Nimitz\" to South America for One Last Mission Before Retirement - The Daily Galaxy",
+      "created_at": "2026-04-10 18:06:42"
+    },
+    {
+      "id": 31,
+      "platform_id": 12,
+      "article_hash": "846ea712d441bf62",
+      "title": "U.S. Navy Rehearses Wartime Repairs in Central Philippine Port",
+      "url": "https://www.navalnews.com/naval-news/2026/04/u-s-navy-rehearses-wartime-repairs-in-central-philippine-port/",
+      "source": "Naval News",
+      "published_at": "2026-04-08T10:29:18",
+      "relevance_score": 0.2,
+      "snippet": "The U.S. Navy rehearsed wartime repairs and maintenance on an amphibious assault ship at a port located within the central interior of the Philippines last month in an exercise designed to validate the service&#8217;s expeditionary sustainment capabilities in the Western Pacific. USS Ashland (LSD-48",
+      "created_at": "2026-04-10 18:06:42"
+    },
+    {
+      "id": 33,
+      "platform_id": 12,
+      "article_hash": "cd365a322a0962e3",
+      "title": "LIG D&A Establishes U.S. Subsidiary Ahead of Sea-Air-Space Debut",
+      "url": "https://www.navalnews.com/naval-news/2026/04/lig-da-establishes-u-s-subsidiary-ahead-of-sea-air-space-debut/",
+      "source": "Naval News",
+      "published_at": "2026-04-08T02:00:00",
+      "relevance_score": 0.2,
+      "snippet": "South Korean defense technology company LIG Defense &#38; Aerospace (formerly LIG Nex1) has established a new U.S. entity, LIG Defense U.S. Inc., as part of a broader effort to expand its engagement with the American defense industrial base. The announcement comes ahead of the firm\u2019s planned partici",
+      "created_at": "2026-04-10 18:06:42"
+    },
+    {
+      "id": 34,
+      "platform_id": 12,
+      "article_hash": "afc1f5f7e713f262",
+      "title": "American military has halted all offensive operations against Iran \u2014 US official - The Times of Israel",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNRE52TldwSU9QalByaFZuZHNNcVBvaGtTSHFNc3RuUTFJcHNXQThpX2VzbW1FTEFRRnM0SlljdTdRU1dCWGQ1QnB6NFhzZDd0R3A1eWtmUWZfenZRbFdtT1NEaWpwX2JGQjlNY3JlTTNNTklPdmhLYktUNVdlTmFEb1FiYmV1aG1PMUFQVWRRQ3paZzBzdXBzVkdGN3lyeGl0RDFvN1hycWgzcFZIYWVKblNrUTFGWEtuUE5PNm5pV1FpUQ?oc=5",
+      "source": "GNews (The Times of Israel)",
+      "published_at": "2026-04-08T00:38:45",
+      "relevance_score": 0.6,
+      "snippet": "American military has halted all offensive operations against Iran \u2014 US official - The Times of Israel",
+      "created_at": "2026-04-10 18:06:42"
+    },
+    {
+      "id": 37,
+      "platform_id": 12,
+      "article_hash": "b4d398764371d2f1",
+      "title": "US Central Command denies IRGC missile strikes on USS Tripoli",
+      "url": "https://www.naval-technology.com/news/uss-tripoli-iran-centcom/",
+      "source": "Naval Technology",
+      "published_at": "2026-04-07T12:34:55",
+      "relevance_score": 0.8,
+      "snippet": "US CENTCOM has denied claims from Iran\u2019s Islamic Revolutionary Guard Corps that the amphibious assault ship USS Tripoli was hit by missiles.\nThe post US Central Command denies IRGC missile strikes on USS Tripoli\u00a0 appeared first on Naval Technology.",
+      "created_at": "2026-04-10 18:06:42"
+    },
+    {
+      "id": 53,
+      "platform_id": 12,
+      "article_hash": "0282a89e0c84f2ef",
+      "title": "American Battle Monuments Commission Expands Junior Guide Program to 24 Overseas Sites",
+      "url": "https://www.military.com/daily-news/investigations-and-features/2026/04/03/american-battle-monuments-commission-expands-junior-guide-program-24-overseas-sites.html",
+      "source": "Military.com",
+      "published_at": "2026-04-03T17:51:52",
+      "relevance_score": 0.6,
+      "snippet": "Children visiting ABMC's overseas military cemeteries can now earn badges by completing site-specific booklets filled with puzzles, riddles and coloring activities.",
+      "created_at": "2026-04-10 18:06:43"
+    },
+    {
+      "id": 54,
+      "platform_id": 12,
+      "article_hash": "4f0c34e773e75c71",
+      "title": "Seoul Expands Sub Warfare Force with U.S. Helos, Patrol Aircraft",
+      "url": "https://news.usni.org/2026/04/02/seoul-expands-sub-warfare-force-with-u-s-helos-patrol-aircraft",
+      "source": "USNI News",
+      "published_at": "2026-04-02T21:01:33",
+      "relevance_score": 0.2,
+      "snippet": "The South Korean Navy stood up its first American-made MH-60R Seahawk helicopters Wednesday in the service\u2019s latest move to bolster Seoul\u2019s submarine hunting forces. Ordered in a $878 million deal from 2020, 12 anti-submarine helicopters were procured under the Republic of Korea Navy\u2019s (ROKN) Mariti",
+      "created_at": "2026-04-10 18:06:43"
+    },
+    {
+      "id": 58,
+      "platform_id": 12,
+      "article_hash": "8085555828c9eb82",
+      "title": "Where Are America\u2019s Aircraft Carriers Now? - The National Interest",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPdzVad2M4akhrakQwY2h3ZEFld0ZoYWFQOTJEOEpUY0xlWWZSdmpOb1ktNERIVExWZlA1dXdTbVZ3ZWxFbGpBV1E5MDBkV0VVQWM0ZDBkNzF1aHhMNWRZdFVaRHM1eTl5R010SklLckM3Y181czFsY3pOXzhSSHotY3FaRXQxRWtmUVFaRXlWUExIdw?oc=5",
+      "source": "GNews (The National Interest)",
+      "published_at": "2026-04-01T07:00:00",
+      "relevance_score": 0.6,
+      "snippet": "Where Are America\u2019s Aircraft Carriers Now? - The National Interest",
+      "created_at": "2026-04-10 18:06:43"
+    },
+    {
+      "id": 59,
+      "platform_id": 12,
+      "article_hash": "14ba754883f50734",
+      "title": "Iranian attack on Saudi base injures US troops. More American forces arrive in the Middle East - AP News",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOblloY2RKTmxkUWY2ZUQwak54MXZLRHJzcTZVNWk4STFDb3VQZkU5OXg1ZUp6dXpITmxFVkRubXAwTDZkcDU4cTBjZmhHSnd3dzRqZ1dGQXBVUldqakRLbTFzUENheUotNTQ5Vm9jTV9HemE4dUtEVDhXbl93YnRIS3hoVHJWOFpoSHBzUUFUU1NjMDNDcGhEbmpvSFZndDByODVUT2dn?oc=5",
+      "source": "GNews (AP News)",
+      "published_at": "2026-03-28T07:00:00",
+      "relevance_score": 0.6,
+      "snippet": "Iranian attack on Saudi base injures US troops. More American forces arrive in the Middle East - AP News",
+      "created_at": "2026-04-10 18:06:43"
+    },
+    {
+      "id": 60,
+      "platform_id": 12,
+      "article_hash": "a479b109f4f8047e",
+      "title": "12 Americans wounded in Iranian missile, drone attack on US military base in Saudi Arabia: report - New York Post",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPTGZ0ang3RVI0MVlyS2JOTXlrTmZwZlNhc2oyTHJ6eWYyVEM1MHRuQndiVTNGRTIxZTVBY2M4UjUtX0w0NHZxZDM0cjJNcjdpSThjZlp4SnNmcUFyNTF5QWxYMzBEVWdPNUVSWm1SY0FUUGp4eGVHUGxJZ240bmJSaFpoTGZlQVBhNFhQVmYwc3d3TDBnbXdpeGRuVFNrRUllWm1yMHB6azZFT2VXS185WFY3THVoT3NlX252VUFicy1oSXRMS1JybTFlYkxjZjlI?oc=5",
+      "source": "GNews (New York Post)",
+      "published_at": "2026-03-27T07:00:00",
+      "relevance_score": 0.6,
+      "snippet": "12 Americans wounded in Iranian missile, drone attack on US military base in Saudi Arabia: report - New York Post",
+      "created_at": "2026-04-10 18:06:43"
+    },
+    {
+      "id": 61,
+      "platform_id": 12,
+      "article_hash": "2504f4d118bbca42",
+      "title": "Comedian Druski Goes Viral After Controversial Erika Kirk Sketch",
+      "url": "https://www.military.com/feature/2026/03/26/comedian-druski-goes-viral-after-controversial-erika-kirk-sketch.html",
+      "source": "Military.com",
+      "published_at": "2026-03-26T21:09:28",
+      "relevance_score": 0.2,
+      "snippet": "\u201cWe have to protect all men in America...especially the white men.\u201d  Druski\u2019s viral Erika Kirk sketch, \u201cHow Conservative Women in America Act,\u201d sparks online backlash in a divisive video.",
+      "created_at": "2026-04-10 18:06:43"
+    },
+    {
+      "id": 62,
+      "platform_id": 12,
+      "article_hash": "037b16d7e2303114",
+      "title": "US and UK teaming up to destroy underwater drones",
+      "url": "https://www.c4isrnet.com/naval/2026/03/23/us-and-uk-teaming-up-to-destroy-underwater-drones/",
+      "source": "C4ISRNET",
+      "published_at": "2026-03-23T18:41:44",
+      "relevance_score": 0.2,
+      "snippet": "America and Britain are joining forces to tackle the threat of underwater drones to ports and other critical infrastructure.",
+      "created_at": "2026-04-10 18:06:43"
+    }
+  ],
+  "events": [],
+  "ic_coverage": [],
+  "combat_history": [
+    {
+      "date": "2019",
+      "operation": "F-35B Operational Testing",
+      "event": "USS America conducted first operational F-35B Lightning II deployments, proving concept of distributed aviation operations from amphib platform",
+      "significance": "Validated the America-class design philosophy and F-35B integration for contested environment operations"
+    },
+    {
+      "date": "2021-2022",
+      "operation": "Pacific Operations",
+      "event": "USS Tripoli conducted extensive F-35B operations in South China Sea, demonstrating lightning carrier concept with 20 F-35Bs embarked",
+      "significance": "Proved viability of amphib as supplemental carrier in distributed maritime operations against peer threats"
+    },
+    {
+      "date": "2023",
+      "operation": "Red Sea Operations",
+      "event": "USS Bataan (Wasp-class) operations demonstrated amphib vulnerability to drone/missile threats, informing America-class defensive upgrades",
+      "significance": "Highlighted need for enhanced defensive systems on high-value amphibious platforms"
+    }
+  ],
+  "modernization": [
+    {
+      "program": "F-35B Integration Block 4",
+      "status": "in-progress",
+      "timeline": "2023-2026",
+      "description": "Upgrading maintenance facilities, weapons handling, and support systems for F-35B Block 4 capabilities including new weapons",
+      "impact": "Enables advanced F-35B weapons employment including long-range precision fires"
+    },
+    {
+      "program": "Enhanced Self-Defense",
+      "status": "planned",
+      "timeline": "2025-2030",
+      "description": "Additional SeaRAM systems, improved EW suite, and potential laser CIWS integration to counter drone swarms",
+      "impact": "Addresses vulnerability to small boat swarms and drone attacks demonstrated in recent conflicts"
+    },
+    {
+      "program": "Well Deck Restoration",
+      "status": "completed",
+      "timeline": "2024",
+      "description": "LHA-8 and follow-on ships include well deck for landing craft operations, restoring traditional amphibious assault capability",
+      "impact": "Balances aviation focus with surface assault requirements identified by Marine Corps"
+    }
+  ],
+  "vulnerabilities": [
+    {
+      "area": "High-value target signature",
+      "description": "Large radar cross-section and high electromagnetic signature make these ships easily detectable and prime targets for anti-ship ballistic missiles",
+      "context": "Chinese DF-21D and DF-26 specifically designed to target large naval vessels at extended ranges",
+      "mitigation": "Requires robust escort including Aegis destroyers and submarines, limits operating areas in contested environments"
+    },
+    {
+      "area": "Limited self-defense capability",
+      "description": "Minimal organic defensive armament compared to threats faced - only SeaRAM and Phalanx against sophisticated missile attacks",
+      "context": "Iran and China have demonstrated saturation missile attack capabilities exceeding ship's defensive capacity",
+      "mitigation": "Enhanced escort requirements and potential laser weapon integration being studied"
+    },
+    {
+      "area": "Aviation fuel vulnerability",
+      "description": "Massive JP-5 fuel storage creates catastrophic fire/explosion risk if hull is penetrated, particularly critical given increased capacity",
+      "context": "Lesson from Falklands War and USS Bonhomme Richard fire - aviation fuel fires extremely difficult to control",
+      "mitigation": "Enhanced firefighting systems and damage control training, but fundamental vulnerability remains"
+    },
+    {
+      "area": "Manning challenges",
+      "description": "Complex aviation maintenance requirements strain crew, particularly for F-35B operations requiring specialized training",
+      "context": "Navy-wide manning shortfalls particularly acute for specialized aviation maintenance ratings",
+      "mitigation": "Increased contractor support and cross-training programs, but remains persistent challenge"
+    }
+  ],
+  "operational_patterns": {
+    "typical_deployment": "Forward deployed with MEU, rotating between Pacific and Atlantic theaters, increasingly used as 'lightning carrier' with all F-35B loadout",
+    "deployment_length_months": 7,
+    "key_operating_areas": [
+      "Western Pacific",
+      "South China Sea",
+      "Persian Gulf",
+      "Mediterranean"
+    ],
+    "typical_task_group": "Amphibious Ready Group with San Antonio-class LPD and Whidbey Island-class LSD, plus Arleigh Burke escort",
+    "readiness_notes": "F-35B maintenance requirements strain deployment readiness, particularly for sustained high-tempo operations"
+  },
+  "peer_comparisons": [
+    {
+      "platform": "Type 075 Yushen-class",
+      "country": "China",
+      "relationship": "direct rival",
+      "key_differences": "Chinese ship focuses on helicopter operations with well deck, lacks F-35B equivalent capability. America-class prioritizes fixed-wing aviation but sacrifices surface assault capacity in early variants.",
+      "video_angle": "East vs West amphibious warfare philosophy - aviation dominance versus balanced approach"
+    },
+    {
+      "platform": "HMS Queen Elizabeth",
+      "country": "United Kingdom",
+      "relationship": "allied equivalent",
+      "key_differences": "Queen Elizabeth is pure aircraft carrier optimized for F-35B operations with larger air wing. America-class maintains amphibious mission with Marines but smaller air wing capacity.",
+      "video_angle": "Specialized carrier versus multi-mission amphib - design compromises and mission flexibility"
+    },
+    {
+      "platform": "Giuseppe Garibaldi",
+      "country": "Italy",
+      "relationship": "allied predecessor concept",
+      "key_differences": "Italian ship proved feasibility of F-35B operations from smaller platform. America-class scales up concept with much larger capacity and full amphibious capability.",
+      "video_angle": "Evolution of light carrier concept from European pioneers to US supersize implementation"
+    },
+    {
+      "platform": "Izumo-class",
+      "country": "Japan",
+      "relationship": "allied equivalent",
+      "key_differences": "Japanese ships being modified for F-35B operations but lack amphibious warfare capability entirely. America-class provides both missions but with complexity trade-offs.",
+      "video_angle": "Constitutional constraints versus operational requirements - Japanese helicopter destroyer evolution"
+    }
+  ],
+  "search_keywords": [
+    "america class",
+    "LHA-6",
+    "USS America",
+    "USS Tripoli",
+    "USS Bougainville",
+    "lightning carrier",
+    "F-35B operations",
+    "amphibious assault ship",
+    "america-class",
+    "LHA-8"
+  ],
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Overhead_view_of_USS_America_%28LHA-6%29_in_August_2014.JPG/1280px-Overhead_view_of_USS_America_%28LHA-6%29_in_August_2014.JPG",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Overhead_view_of_USS_America_%28LHA-6%29_in_August_2014.JPG",
+      "width": 2832,
+      "height": 3964,
+      "title": "Overhead view of USS America (LHA-6) in August 2014.JPG",
+      "description": "The U.S. Navy amphibious assault ship USS <i>America</i> (LHA-6) transits the Atlantic Ocean en route to its homeport, San Diego, California (USA). <i>America</i> was traveling through the U.S. Southe",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Stbd_side_view_of_USS_America_%28LHA-6%29_in_August_2014.JPG/1280px-Stbd_side_view_of_USS_America_%28LHA-6%29_in_August_2014.JPG",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/19/Stbd_side_view_of_USS_America_%28LHA-6%29_in_August_2014.JPG",
+      "width": 3088,
+      "height": 1954,
+      "title": "Stbd side view of USS America (LHA-6) in August 2014.JPG",
+      "description": "The U.S. Navy amphibious assault ship USS <i>America</i> (LHA-6) transits the Atlantic Ocean en route to its homeport, San Diego, California (USA). <i>America</i> was traveling through the U.S. Southe",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/USS_America_%28LHA-6%29_F-35B_loaded.jpg/1280px-USS_America_%28LHA-6%29_F-35B_loaded.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/0a/USS_America_%28LHA-6%29_F-35B_loaded.jpg",
+      "width": 5567,
+      "height": 4027,
+      "title": "USS America (LHA-6) F-35B loaded.jpg",
+      "description": "USS America (LHA-6) F-35B loaded",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a0/USS_America_%28LHA-6%29_USS_Gabrielle_Giffords_%28LCS-10%29.png",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/a0/USS_America_%28LHA-6%29_USS_Gabrielle_Giffords_%28LCS-10%29.png",
+      "width": 1099,
+      "height": 782,
+      "title": "USS America (LHA-6) USS Gabrielle Giffords (LCS-10).png",
+      "description": "The United States Navy amphibous assault ship USS America (LHA-6), back, and littoral combat ship USS Gabrielle Giffords (LCS-10)",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/USS_America_%28LHA-6%29_off_Pascagoula_in_2013.JPG/1280px-USS_America_%28LHA-6%29_off_Pascagoula_in_2013.JPG",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/6b/USS_America_%28LHA-6%29_off_Pascagoula_in_2013.JPG",
+      "width": 4256,
+      "height": 2832,
+      "title": "USS America (LHA-6) off Pascagoula in 2013.JPG",
+      "description": "The U.S. Navy amphibious assault ship USS <i>America</i> (LHA-6) returns to Huntington Ingalls Shipyard, Pascagoula, Mississippi (USA), after completing sea trials. During the trials, the ship's main ",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/90/USS_America_%28LHA_6%29_June_2012.JPG",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/90/USS_America_%28LHA_6%29_June_2012.JPG",
+      "width": 1135,
+      "height": 400,
+      "title": "USS America (LHA 6) June 2012.JPG",
+      "description": "The future <a href=\"https://en.wikipedia.org/wiki/USS_America_(LHA-6)\" class=\"extiw\" title=\"en:USS America (LHA-6)\">USS America</a> on her first underway voyage after her launch, Pascagoula, MS., 4 Ju",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/USS_America_%28LHA_6%29_is_underway_with_ships_from_the_Peruvian_navy._%2815188855251%29.jpg/1280px-USS_America_%28LHA_6%29_is_underway_with_ships_from_the_Peruvian_navy._%2815188855251%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/USS_America_%28LHA_6%29_is_underway_with_ships_from_the_Peruvian_navy._%2815188855251%29.jpg",
+      "width": 2324,
+      "height": 1492,
+      "title": "USS America (LHA 6) is underway with ships from the Peruvian navy. (15188855251).jpg",
+      "description": "<p>PACIFIC OCEAN (Sept. 3, 2014) The future amphibious assault ship USS America (LHA 6), front, and ships from the Peruvian navy are underway in formation during a passing exercise in the Pacific Ocea",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/USS_America_%28LHA_6%29_off_the_coast_of_San_Diego.JPG/1280px-USS_America_%28LHA_6%29_off_the_coast_of_San_Diego.JPG",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/8b/USS_America_%28LHA_6%29_off_the_coast_of_San_Diego.JPG",
+      "width": 2100,
+      "height": 1350,
+      "title": "USS America (LHA 6) off the coast of San Diego.JPG",
+      "description": "150219-N-FR671-097 \nPACIFIC OCEAN (Feb. 19, 2015) The amphibious assault ship USS America (LHA 6) is underway off the coast of San Diego preparing for final contract trials. America is the first ship ",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/72/Cpl._Ryan_Dills_communicates_with_other_assault_amphibious_vehicles_while_traveling_from_amphibious_assault_ship_USS_San_Diego_to_Royal_Australian_Navy_Canberra_class_amphibious_ship_HMAS_Canberra_%28L02%29_in_the_Pacific_Ocean.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/72/Cpl._Ryan_Dills_communicates_with_other_assault_amphibious_vehicles_while_traveling_from_amphibious_assault_ship_USS_San_Diego_to_Royal_Australian_Navy_Canberra_class_amphibious_ship_HMAS_Canberra_%28L02%29_in_the_Pacific_Ocean.jpg",
+      "width": 1200,
+      "height": 748,
+      "title": "Cpl. Ryan Dills communicates with other assault amphibious vehicles while traveling from amphibious assault ship USS San Diego to Royal Australian Navy Canberra class amphibious ship HMAS Canberra (L02) in the Pacific Ocean.jpg",
+      "description": "Cpl. Ryan Dills communicates with other assault amphibious vehicles while traveling from amphibious assault ship USS San Diego to Royal Australian Navy Canberra class amphibious ship HMAS Canberra (L0",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/U.S._Navy_Mass_Communication_Specialist_2nd_Class_Jonathan_Colon_prepares_to_take_photos_of_the_amphibious_assault_ship_USS_America_%28LHA_6%29_and_Peruvian_Navy_ships_as_they_sail_in_formation_during_a_passing_140903-N-MZ309-1171.jpg/1280px-thumbnail.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/U.S._Navy_Mass_Communication_Specialist_2nd_Class_Jonathan_Colon_prepares_to_take_photos_of_the_amphibious_assault_ship_USS_America_%28LHA_6%29_and_Peruvian_Navy_ships_as_they_sail_in_formation_during_a_passing_140903-N-MZ309-1171.jpg",
+      "width": 3998,
+      "height": 2660,
+      "title": "U.S. Navy Mass Communication Specialist 2nd Class Jonathan Colon prepares to take photos of the amphibious assault ship USS America (LHA 6) and Peruvian Navy ships as they sail in formation during a passing 140903-N-MZ309-1171.jpg",
+      "description": "U.S. Navy Mass Communication Specialist 2nd Class Jonathan Colon prepares to take photos of the amphibious assault ship USS America (LHA 6) and Peruvian Navy ships as they sail in formation during a p",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/U.S._Navy_Mass_Communication_Specialist_2nd_Class_Jonathan_Colon_takes_photos_of_the_amphibious_assault_ship_USS_America_%28LHA_6%29%2C_center%2C_and_Peruvian_Navy_ships_as_they_sail_in_formation_during_a_passing_140903-N-MZ309-1134.jpg/1280px-thumbnail.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/U.S._Navy_Mass_Communication_Specialist_2nd_Class_Jonathan_Colon_takes_photos_of_the_amphibious_assault_ship_USS_America_%28LHA_6%29%2C_center%2C_and_Peruvian_Navy_ships_as_they_sail_in_formation_during_a_passing_140903-N-MZ309-1134.jpg",
+      "width": 4256,
+      "height": 2832,
+      "title": "U.S. Navy Mass Communication Specialist 2nd Class Jonathan Colon takes photos of the amphibious assault ship USS America (LHA 6), center, and Peruvian Navy ships as they sail in formation during a passing 140903-N-MZ309-1134.jpg",
+      "description": "U.S. Navy Mass Communication Specialist 2nd Class Jonathan Colon takes photos of the amphibious assault ship USS America (LHA 6), center, and Peruvian Navy ships as they sail in formation during a pas",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/U.S._Navy_Mass_Communication_Specialist_2nd_Class_Jonathan_Colon_takes_photos_of_the_amphibious_assault_ship_USS_America_%28LHA_6%29%2C_left%2C_and_Peruvian_Navy_ships_as_they_sail_in_formation_during_a_passing_exercise_140903-N-MZ309-1241.jpg/1280px-thumbnail.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/74/U.S._Navy_Mass_Communication_Specialist_2nd_Class_Jonathan_Colon_takes_photos_of_the_amphibious_assault_ship_USS_America_%28LHA_6%29%2C_left%2C_and_Peruvian_Navy_ships_as_they_sail_in_formation_during_a_passing_exercise_140903-N-MZ309-1241.jpg",
+      "width": 4256,
+      "height": 2832,
+      "title": "U.S. Navy Mass Communication Specialist 2nd Class Jonathan Colon takes photos of the amphibious assault ship USS America (LHA 6), left, and Peruvian Navy ships as they sail in formation during a passing exercise 140903-N-MZ309-1241.jpg",
+      "description": "U.S. Navy Mass Communication Specialist 2nd Class Jonathan Colon takes photos of the amphibious assault ship USS America (LHA 6), left, and Peruvian Navy ships as they sail in formation during a passi",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/U.S._Navy_Mass_Communication_Specialist_2nd_Class_Jonathan_Colon_takes_photos_of_the_amphibious_assault_ship_USS_America_%28LHA_6%29_as_it_participates_in_a_passing_exercise_with_Peruvian_Navy_ships_in_the_Pacific_140903-N-MZ309-008.jpg/1280px-thumbnail.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/d7/U.S._Navy_Mass_Communication_Specialist_2nd_Class_Jonathan_Colon_takes_photos_of_the_amphibious_assault_ship_USS_America_%28LHA_6%29_as_it_participates_in_a_passing_exercise_with_Peruvian_Navy_ships_in_the_Pacific_140903-N-MZ309-008.jpg",
+      "width": 4256,
+      "height": 2832,
+      "title": "U.S. Navy Mass Communication Specialist 2nd Class Jonathan Colon takes photos of the amphibious assault ship USS America (LHA 6) as it participates in a passing exercise with Peruvian Navy ships in the Pacific 140903-N-MZ309-008.jpg",
+      "description": "U.S. Navy Mass Communication Specialist 2nd Class Jonathan Colon takes photos of the amphibious assault ship USS America (LHA 6) as it participates in a passing exercise with Peruvian Navy ships in th",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/USS_Bougainville_%28LHA-8%29_artist_depiction.jpg/1280px-USS_Bougainville_%28LHA-8%29_artist_depiction.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/f7/USS_Bougainville_%28LHA-8%29_artist_depiction.jpg",
+      "width": 8100,
+      "height": 5850,
+      "title": "USS Bougainville (LHA-8) artist depiction.jpg",
+      "description": "161108-N-LV331-002 \nWASHINGTON (Nov. 8, 2016) A graphic representation of the future USS Bougainville (LHA 8). (U.S. Navy photo illustration by Petty Officer 1st Class Armando Gonzales/Released)",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/US_Navy_110216-M-5402S-105_An_amphibious_assault_vehicle_crewman_navigates_an_amphibious_assault_vehicle_to_the_Whidbey_Island-class_amphibious_doc.jpg/1280px-US_Navy_110216-M-5402S-105_An_amphibious_assault_vehicle_crewman_navigates_an_amphibious_assault_vehicle_to_the_Whidbey_Island-class_amphibious_doc.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/1b/US_Navy_110216-M-5402S-105_An_amphibious_assault_vehicle_crewman_navigates_an_amphibious_assault_vehicle_to_the_Whidbey_Island-class_amphibious_doc.jpg",
+      "width": 2400,
+      "height": 1600,
+      "title": "US Navy 110216-M-5402S-105 An amphibious assault vehicle crewman navigates an amphibious assault vehicle to the Whidbey Island-class amphibious doc.jpg",
+      "description": "PUERTO BARRIOS, Guatemala (Feb. 15, 2011) Amphibious assault vehicle crewman Lance Cpl. Nathan E. Danford, assigned to Security Cooperation Task Force, Ground Combat Element, navigates an amphibious a",
+      "license": "Public domain",
+      "source": "wikimedia"
+    }
+  ],
+  "doctrine": {
+    "role": "Power projection platform designed to enable Marine Corps distributed operations across vast Pacific distances, serving as a mobile aviation base that can operate independently or as part of larger amphibious ready groups.",
+    "employment": "Typically operates as the centerpiece of an Amphibious Ready Group (ARG) paired with Marine Expeditionary Units (MEU), though increasingly employed in distributed operations supporting Expeditionary Advanced Base Operations (EABO). Mission profiles emphasize aviation-centric assault, crisis response, and humanitarian operations rather than traditional beach assault. Command relationships place these ships under Expeditionary Strike Group commanders, with embarked Marine Air-Ground Task Force commanders controlling aviation assets.",
+    "design_philosophy": "Prioritized maximum aviation capacity and fuel storage over traditional amphibious assault capabilities, sacrificing well deck space and surface connector capacity to accommodate larger aircraft complements and extended aviation operations. The design reflects a shift from World War II-style beach assault doctrine toward distributed aviation-centric operations across the Pacific's vast distances.",
+    "threat_context": "Originally designed for post-Cold War crisis response and irregular warfare scenarios, but threat evolution toward great power competition has highlighted vulnerabilities to advanced anti-ship missiles and submarines. The platform now operates in an environment where Chinese A2/AD capabilities can threaten traditional amphibious operations within the first island chain.",
+    "comparison_frame": "Compare primarily on aviation capacity, fuel storage, and operational range rather than traditional amphibious metrics like vehicle capacity or landing craft complement. Aviation fuel storage, aircraft spotting factors, and ability to sustain distributed operations matter more than beach assault capability when evaluating against foreign helicopter carriers or light carriers."
+  },
+  "curated_sources": [
+    {
+      "title": "U.S. Navy Ship Design and Force Structure",
+      "type": "book",
+      "url": "",
+      "relevance": "Friedman provides the most comprehensive technical and doctrinal evolution of U.S. amphibious ship design including the America-class development.",
+      "priority": "essential"
+    },
+    {
+      "title": "Navy Force Structure and Shipbuilding Plans: Background and Issues for Congress",
+      "type": "report",
+      "url": "https://crsreports.congress.gov/product/pdf/RL/RL32665",
+      "relevance": "O'Rourke's CRS report provides current analysis of America-class procurement, costs, and strategic rationale within broader Navy force structure.",
+      "priority": "essential"
+    },
+    {
+      "title": "Distributed Maritime Operations and the America Class",
+      "type": "report",
+      "url": "https://csbaonline.org/research/publications/distributed-maritime-operations",
+      "relevance": "CSBA analysis directly addresses how America-class design supports the Navy's distributed operations concept in contested environments.",
+      "priority": "recommended"
+    },
+    {
+      "title": "USS America (LHA 6)",
+      "type": "database",
+      "url": "https://www.seaforces.org/usnships/lha/LHA-6-USS-America.htm",
+      "relevance": "Comprehensive technical specifications and configuration details for comparing aviation capacity and design trade-offs.",
+      "priority": "reference"
+    },
+    {
+      "title": "Naval Doctrine Publication 1: Naval Warfare",
+      "type": "report",
+      "url": "https://www.marines.mil/Portals/1/Publications/NDP%201.pdf",
+      "relevance": "Official U.S. Navy doctrine explaining the role of amphibious platforms in modern naval warfare and power projection.",
+      "priority": "recommended"
+    },
+    {
+      "title": "Expeditionary Advanced Base Operations",
+      "type": "report",
+      "url": "https://www.hqmc.marines.mil/Portals/142/Docs/EABO.pdf",
+      "relevance": "Marine Corps doctrinal publication explaining how America-class ships enable distributed operations in the Pacific theater.",
+      "priority": "recommended"
+    },
+    {
+      "title": "RUSI Defence Systems",
+      "type": "analyst",
+      "url": "https://rusi.org/explore-our-research/publications/rusi-defence-systems",
+      "relevance": "Provides ongoing analysis of amphibious warfare evolution and great power competition impacts on platform employment.",
+      "priority": "reference"
+    }
+  ]
+}

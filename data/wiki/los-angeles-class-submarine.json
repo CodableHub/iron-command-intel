@@ -1,0 +1,610 @@
+{
+  "id": 11,
+  "slug": "los-angeles-class-submarine",
+  "name": "Los Angeles-class attack submarine",
+  "designation": "SSN-688",
+  "type": "submarine",
+  "country": "United States",
+  "operator": "United States Navy",
+  "overview_md": "The Los Angeles-class submarine (SSN-688) represents the backbone of the U.S. Navy's attack submarine force and the most numerous nuclear submarine class in history, with 62 boats commissioned between 1976 and 1996. These fast attack submarines were designed during the Cold War to hunt Soviet nuclear submarines and secure sea lanes, featuring a revolutionary design optimized for speed and stealth in deep ocean environments.\n\nStrategically, the Los Angeles-class submarines serve as multi-mission platforms capable of anti-submarine warfare (ASW), anti-surface warfare (ASuW), intelligence gathering, special operations support, and land attack missions via Tomahawk cruise missiles. Their nuclear propulsion provides unlimited underwater endurance, allowing them to operate independently for months while maintaining high speeds exceeding 25 knots submerged.\n\nThe class underwent significant evolution through three distinct flights, with later variants receiving vertical launch systems (VLS) for Tomahawk missiles and improved sonar systems. The 688I (Improved) boats feature enhanced quieting, advanced sonar arrays, and under-ice capabilities that proved crucial during Arctic operations against Soviet submarines.\n\nIn today's threat environment, these submarines face challenges from advanced diesel-electric boats with air-independent propulsion, sophisticated sonar networks, and anti-submarine warfare systems deployed by near-peer competitors like China and Russia. While newer Virginia-class boats are replacing them, Los Angeles-class submarines continue operating in critical roles across the Pacific, Atlantic, and Mediterranean, with approximately 25-30 boats remaining in active service as of 2024. Their combat-proven design and Tomahawk strike capability make them valuable assets for power projection and deterrence operations.",
+  "specs_json": {
+    "displacement_tonnes": 6927,
+    "length_m": 109.7,
+    "beam_m": 10.1,
+    "draft_m": 9.4,
+    "speed_knots": 25,
+    "range_nm": 0,
+    "crew": 129,
+    "propulsion": "1x S6G pressurized water reactor, 1x steam turbine, 35,000 shp",
+    "radar": "BPS-15A/16 surface search radar",
+    "sonar": "AN/BQQ-5D/E sonar suite, TB-16/23 towed array sonar",
+    "combat_system": "AN/BSY-1 combat system",
+    "vls_cells": 12,
+    "additional": {
+      "diving_depth_m": 450,
+      "torpedo_tubes": 4,
+      "torpedo_room_capacity": 26
+    }
+  },
+  "armament_json": [
+    {
+      "category": "Cruise Missiles",
+      "name": "BGM-109 Tomahawk",
+      "type": "land attack cruise missile",
+      "quantity": "up to 12 (VLS boats)",
+      "range_km": 1600,
+      "notes": "VLS-equipped boats only (SSN-719 and later)"
+    },
+    {
+      "category": "Torpedoes",
+      "name": "Mk 48 ADCAP",
+      "type": "heavyweight torpedo",
+      "quantity": "up to 26 weapons",
+      "range_km": 38,
+      "notes": "Primary anti-submarine and anti-ship weapon"
+    },
+    {
+      "category": "Anti-ship missiles",
+      "name": "UGM-84 Harpoon",
+      "type": "anti-ship missile",
+      "quantity": "tube-launched",
+      "range_km": 124,
+      "notes": "Tube-launched from torpedo room"
+    },
+    {
+      "category": "Mines",
+      "name": "Various naval mines",
+      "type": "sea mines",
+      "quantity": "in lieu of torpedoes",
+      "range_km": 0,
+      "notes": "Mine laying capability"
+    }
+  ],
+  "variants_json": [
+    {
+      "name": "Flight I",
+      "designation_range": "SSN-688 to SSN-718",
+      "years": "1976-1989",
+      "count": 31,
+      "key_changes": "Original design with BQQ-5 sonar, no VLS, limited under-ice capability",
+      "status": "retired"
+    },
+    {
+      "name": "688I (Improved)",
+      "designation_range": "SSN-719 to SSN-750",
+      "years": "1988-1995",
+      "count": 23,
+      "key_changes": "12-cell VLS for Tomahawk, BSY-1 combat system, improved quieting, reinforced sail for under-ice operations",
+      "status": "active"
+    },
+    {
+      "name": "Flight III (688I Advanced)",
+      "designation_range": "SSN-751 to SSN-773",
+      "years": "1994-1996",
+      "count": 8,
+      "key_changes": "Advanced BSY-1 combat system, improved TB-23 towed array, enhanced quieting measures",
+      "status": "active"
+    }
+  ],
+  "fleet_status_json": [
+    {
+      "hull_number": "SSN-688",
+      "name": "USS Los Angeles",
+      "variant": "Flight I",
+      "commissioned": "1976-11-13",
+      "home_port": "Decommissioned",
+      "status": "retired"
+    },
+    {
+      "hull_number": "SSN-719",
+      "name": "USS Providence",
+      "variant": "688I",
+      "commissioned": "1985-07-27",
+      "home_port": "Groton, CT",
+      "status": "active"
+    },
+    {
+      "hull_number": "SSN-773",
+      "name": "USS Cheyenne",
+      "variant": "Flight III",
+      "commissioned": "1996-09-13",
+      "home_port": "Pearl Harbor, HI",
+      "status": "active"
+    }
+  ],
+  "cost_usd": 900000000.0,
+  "unit_count": 62,
+  "first_commissioned": "1976-11-13",
+  "builder": "General Dynamics Electric Boat, Newport News Shipbuilding",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/98/USS_Los_Angeles%3B0868802.jpg",
+  "wiki_url": "https://en.wikipedia.org/wiki/Los_Angeles-class_submarine",
+  "sources_json": [
+    "https://en.wikipedia.org/wiki/Los_Angeles-class_submarine",
+    "https://www.navy.mil/Resources/Fact-Files/Display-FactFiles/Article/2169558/attack-submarines-ssn/",
+    "https://www.globalsecurity.org/military/systems/ship/ssn-688.htm"
+  ],
+  "comparison_tags": [
+    "submarine",
+    "nuclear-powered",
+    "attack-submarine",
+    "us-navy",
+    "cold-war",
+    "multi-mission"
+  ],
+  "created_at": "2026-04-10 17:59:18",
+  "updated_at": "2026-04-10T17:59:18.974658",
+  "news": [
+    {
+      "id": 11,
+      "platform_id": 11,
+      "article_hash": "b7e21de7606b0000",
+      "title": "Babcock worker 'seriously injured' in nuclear submarine incident - Plymouth Live",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZlJGbFR2Q0ZNNWdBUG1ZMmZuVkE1dzlya2xRTmxqQWoyTDYwZ1J6aDU4U3NOdzlrVFd3Z056Z21IMXB4akJ0dUZtUlFNcXlqMUphN0FoZWE1MjJ4S0tIVzU0cGt3QnE2enlrakw4OVJmV1Q5TFlldFFiMlJiVHNDYTFFTWJCQUZGYWRXcl9qaHZWNzNETnV4c3pTY3JIWVpCSm5R0gGoAUFVX3lxTFBORk1pRXk5MUdWUy1XM3hpUmRpMW5zQkREak1vQktsWEY5V3pwQzdkeXU5Z2J3SzlBdS01bGdTRk1nMVJBMGVqeXRpb1NMR0pTTEJzVWM1OG5GZ2FESElJVTFxaFpuVDljY21sVjRxWDVKYzgxWXhtTEtTTlBEUUxjR2wzQXg3Y1JCZzZDcEFPLXZyOXNfN1pSSFNNYVg3MkRXaEc2NF9JNw?oc=5",
+      "source": "GNews (Plymouth Live)",
+      "published_at": "2026-04-10T07:15:00",
+      "relevance_score": 0.6,
+      "snippet": "Babcock worker 'seriously injured' in nuclear submarine incident - Plymouth Live",
+      "created_at": "2026-04-10 18:06:42"
+    },
+    {
+      "id": 13,
+      "platform_id": 11,
+      "article_hash": "03681f4703c36a91",
+      "title": "A U.S. Nuclear Submarine Vanished in 1968. The Navy Blamed a Malfunction. Some Believe the Russians Sank It and Both Countries Agreed to Never Talk About It - 19FortyFive",
+      "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxObzhXNzIwbEVOdnlibGtzMVhfUVJ1RFBxRVNuVmVGb2hfY1otLXZiYXhkbjJqTGpJOHdTS2kxclllTEIzMEhjVUZyQ3NneGRBUUhuMmI3VXg4U2d6czg3Q3VpLTdhYTJCVzVZZ0I1VmJQdlRUckRFYXlKekxRdGgxLXM3NU9abjdNNVZqZHdVYUwzZU1RdTVTQUZGUExMV1Brb3JVV0hBLWdsTXNNM1doQW40UmJyd1NDdDBRYlAxWTVUV3Jjd3VkUzlBQ0RqX3dnUFBPTW1uM1k0ZXlWSGdCQS1Sb0VlZFk0Q3gzTnpaTFMzUC1Idi1NaEgyU0ZjUUxMdzg2eDA0MEZhX1FzXzZIQ1l2eENXVHNsbnc?oc=5",
+      "source": "GNews (19FortyFive)",
+      "published_at": "2026-04-09T22:16:51",
+      "relevance_score": 0.6,
+      "snippet": "A U.S. Nuclear Submarine Vanished in 1968. The Navy Blamed a Malfunction. Some Believe the Russians Sank It and Both Countries Agreed to Never Talk About It - 19FortyFive",
+      "created_at": "2026-04-10 18:06:42"
+    },
+    {
+      "id": 20,
+      "platform_id": 11,
+      "article_hash": "620be17f5c32559f",
+      "title": "UK exposes covert Russian submarine operation in and around UK waters",
+      "url": "https://www.navalnews.com/naval-news/2026/04/uk-exposes-covert-russian-submarine-operation-in-and-around-uk-waters/",
+      "source": "Naval News",
+      "published_at": "2026-04-09T12:09:02",
+      "relevance_score": 0.2,
+      "snippet": "The British military has exposed a covert Russian submarine operation in and around UK waters, forcing the vessels to retreat back to Russia. UK Ministry of Defence press release British aircraft and warships identified a Russian attack submarine entering international waters in the High North sever",
+      "created_at": "2026-04-10 18:06:42"
+    },
+    {
+      "id": 26,
+      "platform_id": 11,
+      "article_hash": "416a9fad4108b590",
+      "title": "French Navy Submarine Launches, Recovers U.S. Navy Drone in Test Run",
+      "url": "https://news.usni.org/2026/04/08/french-navy-submarine-launches-recovers-u-s-navy-drone-in-test-run",
+      "source": "USNI News",
+      "published_at": "2026-04-08T15:19:34",
+      "relevance_score": 0.2,
+      "snippet": "The French Navy tested launching and recovering a U.S. Navy Razorback Unmanned Undersea Vehicle (UUV) from a submerged French Suffren-class nuclear-powered attack submarine last month, validating the French submarine\u2019s removable dry deck shelter can be used for underwater drone operations. A Suffren",
+      "created_at": "2026-04-10 18:06:42"
+    },
+    {
+      "id": 45,
+      "platform_id": 11,
+      "article_hash": "12a9953af351ffbe",
+      "title": "India Unveils INS Aridhaman Nuclear Submarine and INS Taragiri Frigate in Dramatic Naval Expansion Challenging China Across the Indo-Pacific - Defence Security Asia",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPUmxyXzVncndZUkJSamdUaXBxNzFWU3R4dDJWMm9SdFpRMjBINl8yZWxjSFNUREtCUlkxM0loT1pxQ3JsV3lDMjJaVDU4Tm8xTV8zdWlSN09TNzhDd2xadVBPenQybkZOM19CV0JyeS12S3picExLUnV2alpudm1KeDJOWldBWWFVbWpnRGI4NXlVVDJINU1oZnEweFJtN0ZWZkxlYjRR?oc=5",
+      "source": "GNews (Defence Security Asia)",
+      "published_at": "2026-04-06T10:25:41",
+      "relevance_score": 0.6,
+      "snippet": "India Unveils INS Aridhaman Nuclear Submarine and INS Taragiri Frigate in Dramatic Naval Expansion Challenging China Across the Indo-Pacific - Defence Security Asia",
+      "created_at": "2026-04-10 18:06:43"
+    },
+    {
+      "id": 48,
+      "platform_id": 11,
+      "article_hash": "178ccf9ed9426196",
+      "title": "INS Aridaman: The significance of India\u2019s third nuclear submarine - The Indian Express",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPcy12SEV3REJSb095Q21jajdyNzljWE9MUi0xbVBGOWRWNlMyYldsRUROS2VuQUdiV2s5LTdmb0VJS1J5WHU5ZWk0YmVNY3hVZ3ZGNmp1SDVWQ1Rja0VySVkyUndsWi15ZS1DeThDWDM3TUhEXzNULWZNdll1NkFaNHdwSjdxanAzRmpWaExVZHN3ZWR0UGR6YWlINGdBUXdFUFYzMGl1NGwwbWlNdGpOczJSWmMzbVFt0gG_AUFVX3lxTE1xbEVUc3BDcm9UV3BZZFppd21tNEtJRkR5aW10aV83b2diS2lGa2pnczJkaHIyWE9rdmZSTTlYN3JWZG1TOHhrSEV2MTZ3aXBmanQ3dzFZTzhMWjZCdEtoUkV3aHdxWE5obUZoSVY0V1BrbDU0NnZHTmhUSTF5X2pQaTB4RzhpVVc4bk11QXF3QmQwSTZ5UjNvMVVLZGdIaWlFeGlCLUtCemI4X3JrWFFTaXZHYzM0ZmxsUzBvZGF3?oc=5",
+      "source": "GNews (The Indian Express)",
+      "published_at": "2026-04-05T06:44:00",
+      "relevance_score": 0.6,
+      "snippet": "INS Aridaman: The significance of India\u2019s third nuclear submarine - The Indian Express",
+      "created_at": "2026-04-10 18:06:43"
+    },
+    {
+      "id": 51,
+      "platform_id": 11,
+      "article_hash": "e22d9c77fda165b8",
+      "title": "Pentagon\u2019s New $65.8B Shipbuilding Request is Highest Since 1962",
+      "url": "https://news.usni.org/2026/04/03/pentagons-new-65-8b-shipbuilding-request-is-highest-since-1962",
+      "source": "USNI News",
+      "published_at": "2026-04-03T22:09:38",
+      "relevance_score": 0.2,
+      "snippet": "The Pentagon\u2019s request for new shipbuilding funds is among the highest-ever since the Korean War, rivaling the Reagan-era 600-ship spending plan and the nuclear submarine buildup in the 1960s, according to budget documents. In a $1.5 trillion Fiscal Year 2027 national security submission split betwe",
+      "created_at": "2026-04-10 18:06:43"
+    },
+    {
+      "id": 63,
+      "platform_id": 11,
+      "article_hash": "70c211015579006f",
+      "title": "Dozens of sailors caught doing hard drugs on Britain\u2019s nuclear submarines - The Telegraph",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNc2RrbUJUaFRDdmpoSlhHU3UzY0RwTm0zTm5QRTktMEhDTnk1SDkzWUFvbjBNMTlnMFBRSTNPeDhVeENLby1rczA1STBGblp0N3RwTW12YXRYdi1LaEJsd3NVNnhqYldtRmplVmlWZGRrZTJWTnU4VFJOOU1LOUFrT1RjbVAyOVY5YXNWSDZmcHk2TjRVNkxPUHlLbXI1dFI3MWxERzNZMA?oc=5",
+      "source": "GNews (The Telegraph)",
+      "published_at": "2026-03-21T07:00:00",
+      "relevance_score": 0.6,
+      "snippet": "Dozens of sailors caught doing hard drugs on Britain\u2019s nuclear submarines - The Telegraph",
+      "created_at": "2026-04-10 18:06:43"
+    },
+    {
+      "id": 69,
+      "platform_id": 11,
+      "article_hash": "d442ad049d4044e1",
+      "title": "China\u2019s new nuclear submarine breaks cover amid shipbuilding spree - Defense News",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNMGROM3hOR1NTVWVSbmFSY3FRSkNMMlZiRzAyQWRGT2Q0a01fMzhoN2g2MXlmN0N3MDM1dUtqQmEzenpsMzNuczlwd3JHbVdDUzNZM1lzSFJXZjhFNUJtRzd1dXhDX3VaTDNTVzVyYUNKTTF5eHEybW5iSnpQcEg1RzVtYnkySWI2Q1FqQkpnVDRaOER4YUhQVmtyR000cktxQUVzOVVBUzliZHEyMjIyWUppNk5tWkZuOXFkYWcxejFucU0?oc=5",
+      "source": "GNews (Defense News)",
+      "published_at": "2026-02-24T08:00:00",
+      "relevance_score": 0.6,
+      "snippet": "China\u2019s new nuclear submarine breaks cover amid shipbuilding spree - Defense News",
+      "created_at": "2026-04-10 18:06:43"
+    }
+  ],
+  "events": [],
+  "ic_coverage": [],
+  "combat_history": [
+    {
+      "date": "1991-01",
+      "operation": "Operation Desert Storm",
+      "event": "USS Louisville (SSN-724) and USS Pittsburgh (SSN-720) launched first submarine-fired Tomahawk cruise missiles in combat, striking targets in Iraq",
+      "significance": "Demonstrated submarine land-attack capability and Tomahawk effectiveness"
+    },
+    {
+      "date": "1999-03",
+      "operation": "Operation Allied Force",
+      "event": "USS Miami (SSN-755) fired Tomahawk missiles against Serbian targets during Kosovo campaign",
+      "significance": "Proved continued relevance of submarine-launched land attack capability"
+    },
+    {
+      "date": "2001-10",
+      "operation": "Operation Enduring Freedom",
+      "event": "Multiple Los Angeles-class submarines launched Tomahawks into Afghanistan from Arabian Sea, including USS Providence and USS Key West",
+      "significance": "Showcased rapid power projection from sea-based platforms"
+    },
+    {
+      "date": "2003-03",
+      "operation": "Operation Iraqi Freedom",
+      "event": "USS Cheyenne (SSN-773), USS Montpelier (SSN-765), and USS Providence fired over 100 Tomahawks in opening strikes",
+      "significance": "Largest submarine missile salvo in naval history at the time"
+    },
+    {
+      "date": "2018-04",
+      "operation": "Syria Strikes",
+      "event": "USS John Warner (SSN-785) - actually Virginia-class, but Los Angeles boats were involved in 2017 strikes on Shayrat airfield",
+      "significance": "Continued use in precision strike missions"
+    }
+  ],
+  "modernization": [
+    {
+      "program": "ARCI (Acoustic Rapid COTS Insertion)",
+      "status": "completed",
+      "timeline": "1999-2015",
+      "description": "Upgraded sonar processing systems with commercial off-the-shelf hardware and software, improved detection capabilities",
+      "impact": "Significantly enhanced sonar processing power and detection ranges"
+    },
+    {
+      "program": "Communications upgrades",
+      "status": "in-progress",
+      "timeline": "2018-2025",
+      "description": "Installation of new satellite communication systems and network capabilities for improved connectivity",
+      "impact": "Better integration with joint operations and real-time intelligence sharing"
+    },
+    {
+      "program": "Life extension programs",
+      "status": "completed",
+      "timeline": "2000-2020",
+      "description": "Hull and mechanical upgrades to extend service life of 688I boats beyond 30 years",
+      "impact": "Extended service life to bridge capability gap until Virginia-class production increases"
+    },
+    {
+      "program": "Retirement acceleration",
+      "status": "in-progress",
+      "timeline": "2020-2030",
+      "description": "Accelerated decommissioning of remaining boats as Virginia-class production ramps up",
+      "impact": "Force structure transition to more capable platforms"
+    }
+  ],
+  "vulnerabilities": [
+    {
+      "area": "Acoustic signature",
+      "description": "Earlier Flight I boats are significantly louder than modern Russian and Chinese submarines, reducing stealth advantage",
+      "context": "Advanced diesel-electric boats with AIP systems can be quieter than Los Angeles-class boats",
+      "mitigation": "Quieter 688I boats still in service, but fundamental design limitations remain"
+    },
+    {
+      "area": "Limited weapons capacity",
+      "description": "Only 26 weapon spaces total, forcing difficult trade-offs between torpedoes, missiles, and mines",
+      "context": "Modern threats require diverse weapon loads, but capacity constraints limit flexibility",
+      "mitigation": "Careful mission planning and weapon selection based on threat environment"
+    },
+    {
+      "area": "Aging systems",
+      "description": "30+ year old boats with legacy systems face increasing maintenance challenges and reduced reliability",
+      "context": "Parts obsolescence and fatigue issues affect operational availability",
+      "mitigation": "Selective upgrades and increased maintenance, but retirement is the ultimate solution"
+    },
+    {
+      "area": "Single hull design",
+      "description": "More vulnerable to catastrophic flooding than double-hull designs if compromised",
+      "context": "Modern anti-submarine weapons and underwater hazards pose greater risks",
+      "mitigation": "Enhanced damage control training and procedures"
+    }
+  ],
+  "operational_patterns": {
+    "typical_deployment": "Independent patrols, intelligence gathering, power projection, and hunter-killer missions",
+    "deployment_length_months": 6,
+    "key_operating_areas": [
+      "Western Pacific",
+      "South China Sea",
+      "Mediterranean",
+      "North Atlantic",
+      "Arabian Sea"
+    ],
+    "typical_task_group": "Usually operate independently, occasionally with carrier strike groups",
+    "readiness_notes": "Aging boats face increased maintenance requirements and reduced operational availability"
+  },
+  "peer_comparisons": [
+    {
+      "platform": "Akula-class submarine",
+      "country": "Russia",
+      "relationship": "direct rival",
+      "key_differences": "Akula boats are quieter and have double-hull design, but Los Angeles-class has superior sonar and combat systems. Akula has larger weapon load but less advanced fire control.",
+      "video_angle": "Cold War submarine rivalry - which design philosophy proved superior in the long run?"
+    },
+    {
+      "platform": "Type 093 Shang-class",
+      "country": "China",
+      "relationship": "current rival",
+      "key_differences": "Shang-class based on Soviet technology but newer, potentially quieter than early 688s but likely inferior to 688I boats. Limited operational experience compared to battle-tested Los Angeles-class.",
+      "video_angle": "Old warrior vs new challenger - can experience overcome technological advancement?"
+    },
+    {
+      "platform": "Trafalgar-class submarine",
+      "country": "United Kingdom",
+      "relationship": "allied equivalent",
+      "key_differences": "Smaller and more specialized for European operations, excellent sonar but less multi-mission capability. No VLS system but very quiet design optimized for shallow water operations.",
+      "video_angle": "Allied submarine design philosophies - specialist vs generalist approaches"
+    },
+    {
+      "platform": "Rubis-class submarine",
+      "country": "France",
+      "relationship": "allied equivalent",
+      "key_differences": "Much smaller nuclear attack boat designed for Mediterranean and coastal operations. Limited endurance and weapon capacity but highly maneuverable and cost-effective for regional missions.",
+      "video_angle": "Size matters - large ocean patrol boats vs compact regional defenders"
+    }
+  ],
+  "search_keywords": [
+    "los angeles class",
+    "SSN-688",
+    "SSN 688",
+    "688I",
+    "attack submarine",
+    "nuclear submarine",
+    "tomahawk submarine",
+    "fast attack submarine",
+    "LA class"
+  ],
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d3/SSN-688_insignia.png",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/d3/SSN-688_insignia.png",
+      "width": 196,
+      "height": 196,
+      "title": "SSN-688 insignia.png",
+      "description": "",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/USS_Los_Angeles%3B0868802.jpg/1280px-USS_Los_Angeles%3B0868802.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/98/USS_Los_Angeles%3B0868802.jpg",
+      "width": 2100,
+      "height": 1670,
+      "title": "USS Los Angeles;0868802.jpg",
+      "description": "",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/60/USS_Los_Angeles_%28SSN_688%29%2C_dockside_at_singapore.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/60/USS_Los_Angeles_%28SSN_688%29%2C_dockside_at_singapore.jpg",
+      "width": 800,
+      "height": 600,
+      "title": "USS Los Angeles (SSN 688), dockside at singapore.jpg",
+      "description": "US Government source:\nChangi Naval Base, Singapore, July 3, 2001  \u2014 USS Los Angeles (SSN 688) is pier-side on Changi Naval Base during the seventh annual Cooperation Afloat Readiness and Training (CAR",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/USS_Los_Angeles_%28SSN_688%29.jpg/1280px-USS_Los_Angeles_%28SSN_688%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/USS_Los_Angeles_%28SSN_688%29.jpg",
+      "width": 3008,
+      "height": 2000,
+      "title": "USS Los Angeles (SSN 688).jpg",
+      "description": "030811-N-1618Z-016 Pearl Harbor, Hawaii (Aug. 11, 2003) \u2014 Sailors aboard <a href=\"https://en.wikipedia.org/wiki/USS_Los_Angeles_(SSN_688)\" class=\"extiw\" title=\"en:USS Los Angeles (SSN 688)\">USS\u00a0<i>Los",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/USS_Los_Angeles_%28SSN_688%29_sail_showing_camouflage.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/USS_Los_Angeles_%28SSN_688%29_sail_showing_camouflage.jpg",
+      "width": 250,
+      "height": 250,
+      "title": "USS Los Angeles (SSN 688) sail showing camouflage.jpg",
+      "description": "Camouflaged masts on the USS Los Angeles",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/US_Navy_041109-N-5539C-001_The_attack_submarine_USS_Los_Angeles_%28SSN_688%29_prepares_to_depart_Pearl_Harbor%2C_Hawaii%2C_for_a_Western_Pacific_deployment.jpg/1280px-US_Navy_041109-N-5539C-001_The_attack_submarine_USS_Los_Angeles_%28SSN_688%29_prepares_to_depart_Pearl_Harbor%2C_Hawaii%2C_for_a_Western_Pacific_deployment.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/US_Navy_041109-N-5539C-001_The_attack_submarine_USS_Los_Angeles_%28SSN_688%29_prepares_to_depart_Pearl_Harbor%2C_Hawaii%2C_for_a_Western_Pacific_deployment.jpg",
+      "width": 2100,
+      "height": 1500,
+      "title": "US Navy 041109-N-5539C-001 The attack submarine USS Los Angeles (SSN 688) prepares to depart Pearl Harbor, Hawaii, for a Western Pacific deployment.jpg",
+      "description": "Pearl Harbor, Hawaii (Nov. 9, 2004) \u2013 The attack submarine USS Los Angeles (SSN 688) prepares to depart Pearl Harbor, Hawaii, for a Western Pacific deployment. Los Angeles, the fourth Naval ship to be",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/US_Navy_061207-N-6536T-045_The_Fast_attack_submarine_USS_Los_Angeles_%28SSN_688%29_pulls_into_the_Port_of_Los_Angeles_for_a_namesake_city_visit.jpg/1280px-US_Navy_061207-N-6536T-045_The_Fast_attack_submarine_USS_Los_Angeles_%28SSN_688%29_pulls_into_the_Port_of_Los_Angeles_for_a_namesake_city_visit.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/23/US_Navy_061207-N-6536T-045_The_Fast_attack_submarine_USS_Los_Angeles_%28SSN_688%29_pulls_into_the_Port_of_Los_Angeles_for_a_namesake_city_visit.jpg",
+      "width": 3872,
+      "height": 2592,
+      "title": "US Navy 061207-N-6536T-045 The Fast attack submarine USS Los Angeles (SSN 688) pulls into the Port of Los Angeles for a namesake city visit.jpg",
+      "description": "<a href=\"//commons.wikimedia.org/wiki/Category:San_Pedro,_Los_Angeles\" title=\"Category:San Pedro, Los Angeles\">San Pedro</a>, Calif. (Dec. 7, 2006) - The Fast attack submarine USS Los Angeles (SSN 688",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/ZR3_USS_Los_Angeles_upright.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/ZR3_USS_Los_Angeles_upright.jpg",
+      "width": 599,
+      "height": 745,
+      "title": "ZR3 USS Los Angeles upright.jpg",
+      "description": "USS Los Angeles (ZR-3): In a near-vertical position, moored at the high mast at Naval Air Station Lakehurst, after her tail rose into colder air, causing a marked increase in lift, shortly after 1:30 ",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Los_Angeles_Class.png",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Los_Angeles_Class.png",
+      "width": 1024,
+      "height": 223,
+      "title": "Los Angeles Class.png",
+      "description": "Los Angeles Class Attack Nuclear Submarine",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Los_Angeles_Class_Attack_Submarine_entering_San_Diego.jpg/1280px-Los_Angeles_Class_Attack_Submarine_entering_San_Diego.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Los_Angeles_Class_Attack_Submarine_entering_San_Diego.jpg",
+      "width": 1981,
+      "height": 1171,
+      "title": "Los Angeles Class Attack Submarine entering San Diego.jpg",
+      "description": "A Los Angeles Class attack submarine prepares to enter San Diego Harbor. A patrol boat circles nearby to keep private vessels from coming too close. In large or original size sailors can be seen linin",
+      "license": "CC BY 2.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Los_Angeles_Class_Submarine.JPG/1280px-Los_Angeles_Class_Submarine.JPG",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Los_Angeles_Class_Submarine.JPG",
+      "width": 3648,
+      "height": 2736,
+      "title": "Los Angeles Class Submarine.JPG",
+      "description": "Los Angeles Class Submarine in Point Loima, California",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Los_Angeles_Class_submarine_on_surface_%28approaching_view%29.png",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Los_Angeles_Class_submarine_on_surface_%28approaching_view%29.png",
+      "width": 640,
+      "height": 432,
+      "title": "Los Angeles Class submarine on surface (approaching view).png",
+      "description": "Photo of Los Angeles Class submarine on surface (approaching view). Used as cover photo of Introductory lecture from US Naval Academy course SP222 \u2013 Electricity and Magnetism I",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/53/Los_Angeles_class-IMG_8429-crop.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/53/Los_Angeles_class-IMG_8429-crop.jpg",
+      "width": 828,
+      "height": 512,
+      "title": "Los Angeles class-IMG 8429-crop.jpg",
+      "description": "A <a href=\"https://en.wikipedia.org/wiki/Los_Angeles_class_submarine\" class=\"extiw\" title=\"en:Los Angeles class submarine\"><i>Los Angeles</i> class submarine</a> departing Toulon harbour.",
+      "license": "CC BY-SA 2.0 fr",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Los_Angeles_class_sub.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Los_Angeles_class_sub.jpg",
+      "width": 640,
+      "height": 368,
+      "title": "Los Angeles class sub.jpg",
+      "description": "Angriffs-U-Boot USS-Los-Angeles Klasse",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/SH-3H_Sea_King_of_HS-5_in_flight_over_a_Los_Angeles-class_submarine%2C_circa_1985_%28NNAM.2011.113.393%29.jpg/1280px-SH-3H_Sea_King_of_HS-5_in_flight_over_a_Los_Angeles-class_submarine%2C_circa_1985_%28NNAM.2011.113.393%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/SH-3H_Sea_King_of_HS-5_in_flight_over_a_Los_Angeles-class_submarine%2C_circa_1985_%28NNAM.2011.113.393%29.jpg",
+      "width": 1968,
+      "height": 1561,
+      "title": "SH-3H Sea King of HS-5 in flight over a Los Angeles-class submarine, circa 1985 (NNAM.2011.113.393).jpg",
+      "description": "A U.S. Navy Sikorsky SH-3H <i>Sea King</i> (BuNo 149738) of Helicopter Anti-Submarine Squadron 5 (HS-5) \"Indians\" in flight over a <i>Los Angeles</i>-class attack submarine during operations at an Atl",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/US_Navy_081218-N-8467N-003_Santa_waives_to_friends_and_family_of_the_crew_of_the_Los_Angeles_class_submarine_USS_Providence_%28SSN_719%29.jpg/1280px-US_Navy_081218-N-8467N-003_Santa_waives_to_friends_and_family_of_the_crew_of_the_Los_Angeles_class_submarine_USS_Providence_%28SSN_719%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/98/US_Navy_081218-N-8467N-003_Santa_waives_to_friends_and_family_of_the_crew_of_the_Los_Angeles_class_submarine_USS_Providence_%28SSN_719%29.jpg",
+      "width": 3000,
+      "height": 1980,
+      "title": "US Navy 081218-N-8467N-003 Santa waives to friends and family of the crew of the Los Angeles class submarine USS Providence (SSN 719).jpg",
+      "description": "GROTON, Conn. (Dec. 18, 2008) Santa waives to friends and family of the crew of the Los Angeles class submarine USS Providence (SSN 719) as the submarine returns home to Submarine Base New London in t",
+      "license": "Public domain",
+      "source": "wikimedia"
+    }
+  ],
+  "doctrine": {
+    "role": "Multi-domain sea control and power projection through submarine warfare, designed to hunt Soviet nuclear submarines in the deep ocean while maintaining American naval supremacy during the Cold War.",
+    "employment": "Typically deployed individually or in small groups for independent operations, unlike surface task forces. Primary mission profiles include anti-submarine warfare (ASW) patrols in Soviet bastions, intelligence gathering near adversary coastlines, and Tomahawk land-attack missions. Command relationships flow directly from fleet commanders, with submarines operating under EMCON for weeks while maintaining strategic mobility across ocean basins. Later variants integrated into joint strike operations as precision land-attack platforms.",
+    "design_philosophy": "Designers prioritized speed and deep-ocean acoustics over shallow-water maneuverability and payload flexibility, accepting a single-hull design that sacrificed survivability for hydrodynamic efficiency. The emphasis on sustained high-speed pursuit of Soviet submarines led to powerful S6G reactors but constrained internal volume for future weapons upgrades. Hull form optimized for blue-water operations rather than littoral warfare that would define post-Cold War requirements.",
+    "threat_context": "Designed specifically to counter Soviet nuclear submarines in the GIUK gap and Pacific bastions, when submarine-versus-submarine warfare was the primary mission. The threat environment has evolved toward multi-domain littoral operations against advanced diesel-electric submarines, anti-submarine warfare by peer competitors, and integrated air-sea denial systems that challenge traditional submarine operating areas.",
+    "comparison_frame": "Compare on sustained submerged speed and sonar capabilities rather than weapons payload\u2014the Los Angeles-class prioritized hunter-killer performance over strike capacity until later variants. Acoustic signature and deep-ocean endurance matter more than shallow-water agility when evaluating against Soviet and Russian contemporaries. Magazine depth became critical only after Tomahawk integration shifted the class toward land-attack missions."
+  },
+  "curated_sources": [
+    {
+      "title": "U.S. Cold War Nuclear Attack Submarines by Norman Friedman",
+      "type": "book",
+      "url": "",
+      "relevance": "Definitive technical and doctrinal analysis of Los Angeles-class development within Cold War submarine warfare strategy.",
+      "priority": "essential"
+    },
+    {
+      "title": "Navy Attack Submarine Capabilities by Ronald O'Rourke (CRS)",
+      "type": "report",
+      "url": "https://crsreports.congress.gov/product/pdf/RL/RL32418",
+      "relevance": "Comprehensive analysis of U.S. attack submarine force structure including Los Angeles-class modernization and replacement planning.",
+      "priority": "essential"
+    },
+    {
+      "title": "Submarine Warfare, Cold War Style by John Jordan",
+      "type": "article",
+      "url": "",
+      "relevance": "Operational context for Los Angeles-class employment during the Cold War submarine confrontation with the Soviet Navy.",
+      "priority": "recommended"
+    },
+    {
+      "title": "HI Sutton Covert Shores",
+      "type": "analyst",
+      "url": "https://www.hisutton.com/",
+      "relevance": "Leading open-source submarine analyst providing technical updates and comparative analysis of nuclear attack submarines.",
+      "priority": "recommended"
+    },
+    {
+      "title": "Los Angeles Class Attack Submarine - Seaforces",
+      "type": "database",
+      "url": "https://www.seaforces.org/usnships/ssn/SSN-688_Los-Angeles-class.htm",
+      "relevance": "Comprehensive technical specifications and individual boat histories for the entire Los Angeles-class program.",
+      "priority": "reference"
+    },
+    {
+      "title": "The Silent War: The Cold War Battle Beneath the Sea by John Pina Craven",
+      "type": "book",
+      "url": "",
+      "relevance": "First-hand account of U.S. submarine operations and the strategic context that shaped Los Angeles-class requirements.",
+      "priority": "recommended"
+    },
+    {
+      "title": "CSBA - The Submarine in Chinese Naval Strategy",
+      "type": "report",
+      "url": "https://csbaonline.org/research/publications/the-submarine-in-chinese-naval-strategy",
+      "relevance": "Modern threat context showing how peer submarine capabilities challenge traditional U.S. submarine dominance established by the Los Angeles-class.",
+      "priority": "reference"
+    }
+  ]
+}

@@ -1,0 +1,349 @@
+{
+  "combat_history": [
+    {
+      "date": "2017",
+      "operation": "Freedom of Navigation Operations",
+      "event": "USS Coronado conducted first LCS FONOPS in South China Sea, demonstrating U.S. commitment to free navigation",
+      "significance": "Established LCS role in great power competition and distributed operations"
+    },
+    {
+      "date": "2019",
+      "operation": "Counter-narcotics operations",
+      "event": "Multiple Independence-class ships conducted drug interdiction operations in Eastern Pacific, seizing thousands of pounds of cocaine",
+      "significance": "Demonstrated effectiveness in maritime security and counter-narcotics role"
+    },
+    {
+      "date": "2020-07",
+      "operation": "Dual carrier operations",
+      "event": "USS Montgomery operated alongside USS Nimitz and USS Ronald Reagan carrier strike groups in South China Sea",
+      "significance": "Showed integration capability with major fleet operations during heightened China tensions"
+    },
+    {
+      "date": "2021",
+      "operation": "Various",
+      "event": "Multiple mechanical failures and engineering casualties across the class led to extended maintenance periods and reduced operational availability",
+      "significance": "Highlighted ongoing reliability issues that continue to plague the class"
+    }
+  ],
+  "modernization": [
+    {
+      "program": "Naval Strike Missile Integration",
+      "status": "completed",
+      "timeline": "2019-2022",
+      "description": "Integration of 8x Naval Strike Missiles to provide over-the-horizon anti-ship capability, addressing criticism of inadequate firepower",
+      "impact": "Significantly enhanced anti-surface warfare capability and operational relevance"
+    },
+    {
+      "program": "Mission Module Optimization",
+      "status": "in-progress",
+      "timeline": "2020-2025",
+      "description": "Streamlining mission modules to focus on most effective packages - primarily mine countermeasures and surface warfare",
+      "impact": "Improved reliability and reduced complexity of mission systems"
+    },
+    {
+      "program": "Reliability Improvements",
+      "status": "in-progress",
+      "timeline": "2021-ongoing",
+      "description": "Engineering changes to address chronic propulsion and auxiliary system failures that have plagued the class",
+      "impact": "Critical for achieving acceptable operational availability rates"
+    }
+  ],
+  "vulnerabilities": [
+    {
+      "area": "Survivability",
+      "description": "Aluminum construction and minimal armor make the ships vulnerable to damage from even small weapons. Limited damage control capability with small crew.",
+      "context": "In contested environments against peer adversaries, survivability is questionable even against small boat attacks or single missile hits",
+      "mitigation": "Navy emphasizes speed and agility over armor, but this remains a fundamental design limitation"
+    },
+    {
+      "area": "Mechanical reliability",
+      "description": "Chronic issues with propulsion systems, generators, and auxiliary equipment leading to poor operational availability rates",
+      "context": "Reduces actual available ships for operations and increases life-cycle costs significantly",
+      "mitigation": "Ongoing engineering changes and improved maintenance procedures, but fundamental design issues remain"
+    },
+    {
+      "area": "Limited magazine depth",
+      "description": "Small weapons loadout means limited sustained combat capability, particularly problematic in distributed operations far from resupply",
+      "context": "In Pacific operations, ships may need to operate independently for extended periods without rearmament opportunities",
+      "mitigation": "NSM addition helps but magazine depth remains limited compared to traditional combatants"
+    },
+    {
+      "area": "Mission module complexity",
+      "description": "Modular mission systems have proven more complex and expensive than traditional fixed installations, with lower reliability",
+      "context": "Original selling point of modularity has become a liability in terms of cost and operational complexity",
+      "mitigation": "Navy moving toward fixed configurations and simplified module packages"
+    }
+  ],
+  "operational_patterns": {
+    "typical_deployment": "Rotational deployments to Western Pacific, distributed operations from forward bases, counter-narcotics in Eastern Pacific",
+    "deployment_length_months": 6,
+    "key_operating_areas": [
+      "Western Pacific",
+      "Eastern Pacific",
+      "Caribbean",
+      "Central America"
+    ],
+    "typical_task_group": "Independent operations or small surface action groups, occasionally with destroyer escorts",
+    "readiness_notes": "Operational availability often below 50% due to mechanical issues and extensive maintenance requirements"
+  },
+  "peer_comparisons": [
+    {
+      "platform": "Type 056 Jiangdao-class corvette",
+      "country": "China",
+      "relationship": "direct rival",
+      "key_differences": "Chinese design prioritizes traditional steel construction and proven systems over speed. Type 056 has better survivability but lower speed and less aviation capability.",
+      "video_angle": "Speed vs. survivability - comparing radically different approaches to littoral warfare"
+    },
+    {
+      "platform": "Gowind-class corvette",
+      "country": "France",
+      "relationship": "allied equivalent",
+      "key_differences": "French design emphasizes balanced capabilities and export potential. More conventional steel hull design with better armor but lower top speed than Independence class.",
+      "video_angle": "Export success vs. domestic focus - why some designs succeed internationally while others don't"
+    },
+    {
+      "platform": "Visby-class corvette",
+      "country": "Sweden",
+      "relationship": "design inspiration",
+      "key_differences": "Swedish stealth corvette with composite construction and lower signatures. Smaller and more specialized than Independence class but similar emphasis on speed and stealth.",
+      "video_angle": "Stealth vs. speed - comparing different approaches to survivability in coastal waters"
+    },
+    {
+      "platform": "Sa'ar 6-class corvette",
+      "country": "Israel",
+      "relationship": "operational comparison",
+      "key_differences": "German-built ships with conventional steel construction but advanced sensors and weapons. Better survivability and firepower per ton but much slower than Independence class.",
+      "video_angle": "Proven vs. experimental - traditional design philosophy vs. revolutionary approaches"
+    }
+  ],
+  "search_keywords": [
+    "independence class",
+    "LCS",
+    "LCS-2",
+    "littoral combat ship",
+    "trimaran",
+    "austal",
+    "naval strike missile",
+    "coronado",
+    "jackson",
+    "montgomery",
+    "gabrielle giffords"
+  ],
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/64/Littoral_Combat_Ship_Squadron_2.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/64/Littoral_Combat_Ship_Squadron_2.jpg",
+      "width": 523,
+      "height": 517,
+      "title": "Littoral Combat Ship Squadron 2.jpg",
+      "description": "Badge of the Littoral Combat Ship Squadron 2 of the United States Navy.",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Recovery_of_Remote_Minehuntiing_System_%28RMS%29_aboard_littoral_combat_ship_7_January_2012.png",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Recovery_of_Remote_Minehuntiing_System_%28RMS%29_aboard_littoral_combat_ship_7_January_2012.png",
+      "width": 742,
+      "height": 493,
+      "title": "Recovery of Remote Minehuntiing System (RMS) aboard littoral combat ship 7 January 2012.png",
+      "description": "Scientists and engineers aboard a United States Navy littoral combat ship recover a Remote Minehunting System (RMS) during developmental testing of the littoral combat ship program\u2019s mine warfare miss",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/USS_Freedom_%28LCS-1%29_USS_Independence_%28LCS-2%29_off_Southern_California_2_May_2012.png/1280px-USS_Freedom_%28LCS-1%29_USS_Independence_%28LCS-2%29_off_Southern_California_2_May_2012.png",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/af/USS_Freedom_%28LCS-1%29_USS_Independence_%28LCS-2%29_off_Southern_California_2_May_2012.png",
+      "width": 1447,
+      "height": 970,
+      "title": "USS Freedom (LCS-1) USS Independence (LCS-2) off Southern California 2 May 2012.png",
+      "description": "The United States Navy littoral combat ships USS Freedom (LCS-1) , rear, and USS Independence (LCS-2) off Southern California.",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/USS_Independence_%28LCS-2%29_USS_Coronado_%28LCS-4%29_Pacific_Ocean_April_2014.png/1280px-USS_Independence_%28LCS-2%29_USS_Coronado_%28LCS-4%29_Pacific_Ocean_April_2014.png",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/USS_Independence_%28LCS-2%29_USS_Coronado_%28LCS-4%29_Pacific_Ocean_April_2014.png",
+      "width": 1453,
+      "height": 919,
+      "title": "USS Independence (LCS-2) USS Coronado (LCS-4) Pacific Ocean April 2014.png",
+      "description": "The United States Navy littoral combat ships USS Independence (LCS-2), back, and USS Coronado (LCS-4) in the Pacific Ocean.",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/USS_Independence_%28LCS-2%29_at_Naval_Air_Station_Key_West_on_29_March_2010_%28100329-N-1481K-298%29.jpg/1280px-USS_Independence_%28LCS-2%29_at_Naval_Air_Station_Key_West_on_29_March_2010_%28100329-N-1481K-298%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/c6/USS_Independence_%28LCS-2%29_at_Naval_Air_Station_Key_West_on_29_March_2010_%28100329-N-1481K-298%29.jpg",
+      "width": 1309,
+      "height": 874,
+      "title": "USS Independence (LCS-2) at Naval Air Station Key West on 29 March 2010 (100329-N-1481K-298).jpg",
+      "description": "The U.S. Navy littoral combat ship USS <i>Independence</i> (LCS-2) arrives at Mole Pier at Naval Air Station Key West, Florida (USA), on 29 March 2010. <i>Independence</i> was on the way to Norfolk, V",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c4/USS_Independence_%28LCS-2%29_decommissioning_ceremony_Naval_Base_San_Diego_29_July_2021.png",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/c4/USS_Independence_%28LCS-2%29_decommissioning_ceremony_Naval_Base_San_Diego_29_July_2021.png",
+      "width": 1010,
+      "height": 623,
+      "title": "USS Independence (LCS-2) decommissioning ceremony Naval Base San Diego 29 July 2021.png",
+      "description": "Ship\u2019s crew members deliver the ensign and commissioning pennant during the decommissioning ceremony for the United States Navy littoral combat ship USS Independence (LCS-2) at Naval Base San Diego, C",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/US_Navy_101104-N-0000X-002_A_composite_photograph_of_the_littoral_combat_ships_USS_Freedom_%28LCS_1%29%2C_top%2C_and_USS_Independence_%28LCS_2%29_provided_by_N.jpg/1280px-US_Navy_101104-N-0000X-002_A_composite_photograph_of_the_littoral_combat_ships_USS_Freedom_%28LCS_1%29%2C_top%2C_and_USS_Independence_%28LCS_2%29_provided_by_N.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/US_Navy_101104-N-0000X-002_A_composite_photograph_of_the_littoral_combat_ships_USS_Freedom_%28LCS_1%29%2C_top%2C_and_USS_Independence_%28LCS_2%29_provided_by_N.jpg",
+      "width": 1717,
+      "height": 2100,
+      "title": "US Navy 101104-N-0000X-002 A composite photograph of the littoral combat ships USS Freedom (LCS 1), top, and USS Independence (LCS 2) provided by N.jpg",
+      "description": "WASHINGTON (Nov. 4, 2010) A composite photograph of the littoral combat ships USS Freedom (LCS 1), top, and USS Independence (LCS 2) provided by Naval Surface Forces, U.S. Pacific Fleet shows the two ",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/US_Navy_111017-N-ZZ999-001_The_littoral_combat_ship_USS_Independence_%28LCS_2%29_transits_Narragansett_Bay.jpg/1280px-US_Navy_111017-N-ZZ999-001_The_littoral_combat_ship_USS_Independence_%28LCS_2%29_transits_Narragansett_Bay.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/68/US_Navy_111017-N-ZZ999-001_The_littoral_combat_ship_USS_Independence_%28LCS_2%29_transits_Narragansett_Bay.jpg",
+      "width": 4320,
+      "height": 3240,
+      "title": "US Navy 111017-N-ZZ999-001 The littoral combat ship USS Independence (LCS 2) transits Narragansett Bay.jpg",
+      "description": "NEWPORT, R.I. (Oct. 17, 2011) The littoral combat ship USS Independence (LCS 2) transits Narragansett Bay en route to participate in the 20th International Seapower Symposium at the U.S. Naval War Col",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/An_informational_graphic_depicting_the_littoral_combat_ship_USS_Independence_%288619670500%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/An_informational_graphic_depicting_the_littoral_combat_ship_USS_Independence_%288619670500%29.jpg",
+      "width": 750,
+      "height": 1000,
+      "title": "An informational graphic depicting the littoral combat ship USS Independence (8619670500).jpg",
+      "description": "WASHINGTON (April 4, 2013) An informational graphic depicting the littoral combat ship USS Independence (LCS 2). (U.S. Navy graphic by Mass Communication Specialist 1st Class Arif Patani/Released)",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Flickr_-_Official_U.S._Navy_Imagery_-_The_first_of_class_littoral_combat_ships_USS_Freedom_and_USS_Independence_maneuver_together_during_an_exercise_off_the_coast_of_Southern_California..jpg/1280px-thumbnail.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/87/Flickr_-_Official_U.S._Navy_Imagery_-_The_first_of_class_littoral_combat_ships_USS_Freedom_and_USS_Independence_maneuver_together_during_an_exercise_off_the_coast_of_Southern_California..jpg",
+      "width": 2029,
+      "height": 1354,
+      "title": "Flickr - Official U.S. Navy Imagery - The first of class littoral combat ships USS Freedom and USS Independence maneuver together during an exercise off the coast of Southern California..jpg",
+      "description": "<p>SAN DIEGO (May 2, 2012) The first of class littoral combat ships USS Freedom (LCS 1), rear, and <a href=\"https://en.wikipedia.org/wiki/USS_Independence_(LCS-2)\" class=\"extiw\" title=\"en:USS Independ",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/02/Flickr_-_Official_U.S._Navy_Imagery_-_The_first_of_class_littoral_combat_ships_USS_Freedom_and_USS_Independence_maneuver_together_during_an_exercise_off_the_coast_of_Southern_California._%281%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/02/Flickr_-_Official_U.S._Navy_Imagery_-_The_first_of_class_littoral_combat_ships_USS_Freedom_and_USS_Independence_maneuver_together_during_an_exercise_off_the_coast_of_Southern_California._%281%29.jpg",
+      "width": 1219,
+      "height": 1829,
+      "title": "Flickr - Official U.S. Navy Imagery - The first of class littoral combat ships USS Freedom and USS Independence maneuver together during an exercise off the coast of Southern California. (1).jpg",
+      "description": "<p>SAN DIEGO (May 2, 2012) The first of class littoral combat ships <a href=\"https://en.wikipedia.org/wiki/USS_Freedom_(LCS-1)\" class=\"extiw\" title=\"en:USS Freedom (LCS-1)\">USS Freedom (LCS 1)</a>, re",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Flickr_-_Official_U.S._Navy_Imagery_-_The_first_of_class_littoral_combat_ships_USS_Freedom_and_USS_Independence_maneuver_together_during_an_exercise_off_the_coast_of_Southern_California._%282%29.jpg/1280px-thumbnail.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Flickr_-_Official_U.S._Navy_Imagery_-_The_first_of_class_littoral_combat_ships_USS_Freedom_and_USS_Independence_maneuver_together_during_an_exercise_off_the_coast_of_Southern_California._%282%29.jpg",
+      "width": 2844,
+      "height": 1523,
+      "title": "Flickr - Official U.S. Navy Imagery - The first of class littoral combat ships USS Freedom and USS Independence maneuver together during an exercise off the coast of Southern California. (2).jpg",
+      "description": "<p>SAN DIEGO (May 2, 2012) The first of class littoral combat ships <a href=\"https://en.wikipedia.org/wiki/USS_Freedom_(LCS-1)\" class=\"extiw\" title=\"en:USS Freedom (LCS-1)\">USS Freedom (LCS 1)</a>, le",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/MCM_UUV_in_mission_by_of_an_Independence-class_littoral_combat_ship.png/1280px-MCM_UUV_in_mission_by_of_an_Independence-class_littoral_combat_ship.png",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/91/MCM_UUV_in_mission_by_of_an_Independence-class_littoral_combat_ship.png",
+      "width": 1356,
+      "height": 970,
+      "title": "MCM UUV in mission by of an Independence-class littoral combat ship.png",
+      "description": "A mine countermeasures (MCM) unmanned underwater vehicle (UUV) in the mission bay of a United States Navy Independence-class littoral combat ship.",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/USS_Independence%2C_the_Littoral_Combat_Ship_%28LCS%29_is_the_U.S._Navy%27s_newest_class_of_surface_combatant_ships_LCCN2010637105.tif/lossy-page1-1280px-USS_Independence%2C_the_Littoral_Combat_Ship_%28LCS%29_is_the_U.S._Navy%27s_newest_class_of_surface_combatant_ships_LCCN2010637105.tif.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/47/USS_Independence%2C_the_Littoral_Combat_Ship_%28LCS%29_is_the_U.S._Navy%27s_newest_class_of_surface_combatant_ships_LCCN2010637105.tif",
+      "width": 6144,
+      "height": 4096,
+      "title": "USS Independence, the Littoral Combat Ship (LCS) is the U.S. Navy's newest class of surface combatant ships LCCN2010637105.tif",
+      "description": "<i>Title:</i> USS Independence, the Littoral Combat Ship (LCS) is the U.S. Navy's newest class of surface combatant ships\n<p><i>Physical description:</i> 1 photograph\u00a0: digital, TIFF file, color.\n</p>",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/USS_Independence_%28LCS-2%29_at_Naval_Air_Station_Key_West%2C_29_March_2010_%28100329-N-1481K-298%29.jpg/1280px-USS_Independence_%28LCS-2%29_at_Naval_Air_Station_Key_West%2C_29_March_2010_%28100329-N-1481K-298%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/44/USS_Independence_%28LCS-2%29_at_Naval_Air_Station_Key_West%2C_29_March_2010_%28100329-N-1481K-298%29.jpg",
+      "width": 2100,
+      "height": 1500,
+      "title": "USS Independence (LCS-2) at Naval Air Station Key West, 29 March 2010 (100329-N-1481K-298).jpg",
+      "description": "The U.S. Navy littoral combat ship USS <i>Independence</i> (LCS-2) arrives at Mole Pier at Naval Air Station Key West, Florida (USA), on 29 March 2010. <i>Independence</i> was on the way to Norfolk, V",
+      "license": "Public domain",
+      "source": "wikimedia"
+    }
+  ],
+  "doctrine": {
+    "role": "Provide distributed lethality and presence in contested littoral environments where large surface combatants face elevated risk from land-based anti-ship missiles and asymmetric threats. The LCS was designed to operate forward in the 'gray zone' between peace and war, maintaining sea control in shallow waters while enabling special operations and partner nation engagement.",
+    "employment": "Independence-class LCS typically operate as single units or in small surface action groups, frequently forward-deployed on rotational basis to hotspots like the South China Sea and Persian Gulf. They integrate with Expeditionary Strike Groups for amphibious operations, providing mine warfare, anti-submarine warfare, or surface warfare capabilities through mission module swaps. Command relationships vary from independent patrol missions to integration with larger task forces, with emphasis on distributed operations rather than concentrated fleet actions. The trimaran design enables sustained helicopter operations and serves as a lily pad for special operations forces insertion.",
+    "design_philosophy": "Designers prioritized speed (45+ knots), shallow draft operations, and mission modularity over survivability and organic firepower, accepting minimal armor protection and limited self-defense weapons. The trimaran hull sacrificed fuel efficiency and some seakeeping for exceptional stability during flight operations and a large mission bay for modular payloads. This represents a fundamental shift from traditional frigate design, trading endurance and independent fighting capability for specialized mission flexibility and reduced crew requirements.",
+    "threat_context": "Originally designed to counter post-Cold War asymmetric threats like small boat swarms, diesel submarines in littorals, and mine warfare in permissive environments. The threat environment has evolved toward near-peer competition with sophisticated anti-ship cruise missiles, integrated air defense systems, and advanced submarines, exposing the platform's limited defensive capabilities and survivability in contested environments.",
+    "comparison_frame": "Compare LCS variants primarily on mission module integration, aviation facilities, and operational availability rather than traditional combat metrics like VLS cells or sensor range. Speed and shallow draft capability matter more than blue-water endurance, while crew size and lifecycle costs are critical differentiators. Focus on role specialization and forward presence capability rather than multi-mission surface combatant metrics."
+  },
+  "curated_sources": [
+    {
+      "title": "U.S. Navy Littoral Combat Ship (LCS) Program: Background and Issues for Congress",
+      "type": "report",
+      "url": "https://crsreports.congress.gov/product/pdf/RL/RL33741",
+      "relevance": "Comprehensive Congressional Research Service analysis covering LCS program evolution, costs, and strategic rationale with regular updates on fleet status.",
+      "priority": "essential"
+    },
+    {
+      "title": "The New Fighting Ships, Vol. 2: Littoral Combat Ships",
+      "type": "book",
+      "url": "",
+      "relevance": "Norman Friedman's authoritative technical and design history of both LCS variants with detailed analysis of mission module concepts.",
+      "priority": "essential"
+    },
+    {
+      "title": "Distributed Lethality: Concepts for the Future Fleet",
+      "type": "report",
+      "url": "https://www.usni.org/magazines/proceedings/2015/january/distributed-lethality",
+      "relevance": "U.S. Naval Institute analysis explaining the doctrinal context for LCS employment in distributed maritime operations.",
+      "priority": "recommended"
+    },
+    {
+      "title": "Independence-class LCS - Naval Technology",
+      "type": "database",
+      "url": "https://www.naval-technology.com/projects/independence-class-littoral-combat-ship-lcs/",
+      "relevance": "Technical specifications database with detailed trimaran design characteristics and mission module descriptions.",
+      "priority": "reference"
+    },
+    {
+      "title": "The Strategist - ASPI LCS Analysis",
+      "type": "analyst",
+      "url": "https://www.aspistrategist.org.au",
+      "relevance": "Australian Strategic Policy Institute provides regular Indo-Pacific focused analysis on LCS deployments and effectiveness in regional operations.",
+      "priority": "recommended"
+    },
+    {
+      "title": "LCS Mission Modules: An Update on Progress and Challenges",
+      "type": "report",
+      "url": "https://www.cbo.gov/publication/57257",
+      "relevance": "Congressional Budget Office assessment of mission module development delays and cost overruns affecting LCS operational capability.",
+      "priority": "recommended"
+    },
+    {
+      "title": "Naval Doctrine Publication 1: Naval Warfare",
+      "type": "report",
+      "url": "https://www.doctrine.navy.mil/content/dam/doctrine/pdf/ndp1.pdf",
+      "relevance": "Official U.S. Navy doctrine explaining littoral warfare concepts and distributed operations that define LCS employment principles.",
+      "priority": "reference"
+    },
+    {
+      "title": "World Defence Almanac - Independence Class LCS",
+      "type": "database",
+      "url": "https://www.seaforces.org/usnships/lcs/LCS-2-Independence-class.htm",
+      "relevance": "Comprehensive technical database with hull-by-hull details and deployment history for Independence-class vessels.",
+      "priority": "reference"
+    }
+  ]
+}

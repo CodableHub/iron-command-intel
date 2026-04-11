@@ -1,0 +1,243 @@
+{
+  "combat_history": [
+    {
+      "date": "2024-04",
+      "operation": "Anti-piracy patrol",
+      "event": "INS Nilgiri conducted first operational deployment in Arabian Sea, intercepted suspicious vessels near Socotra Island",
+      "significance": "Demonstrated operational readiness of lead ship, validated sensor integration in real-world environment"
+    }
+  ],
+  "modernization": [
+    {
+      "program": "Project 17B (Next Generation Frigates)",
+      "status": "planned",
+      "timeline": "2025-2035",
+      "description": "Follow-on class with enhanced stealth, indigenous combat management system, possible DEW integration",
+      "impact": "Will incorporate lessons learned from P17A operations, further reduce foreign dependencies"
+    }
+  ],
+  "vulnerabilities": [
+    {
+      "area": "Limited VLS capacity",
+      "description": "Only 32 VLS cells compared to 48+ on contemporary frigates, limits sustained engagement capability",
+      "context": "Against saturation attacks from Chinese or Pakistani missile boats, magazine depth becomes critical",
+      "mitigation": "Reliance on superior missile performance (BrahMos range advantage) and EW systems"
+    },
+    {
+      "area": "Foreign radar dependency",
+      "description": "Critical dependence on Israeli ELTA radar systems creates supply chain vulnerability during conflict",
+      "context": "Israel's complex Middle East relationships could complicate support during Indo-Pakistani tensions",
+      "mitigation": "DRDO developing indigenous AESA radar for future variants"
+    },
+    {
+      "area": "Limited area air defense",
+      "description": "Barak 8's 70km range inadequate against long-range Chinese anti-ship missiles like YJ-18",
+      "context": "Chinese submarines armed with 300km+ range missiles can engage outside Nilgiri's defensive umbrella",
+      "mitigation": "Operates within carrier group air defense envelope, coordinated defense with other platforms"
+    }
+  ],
+  "operational_patterns": {
+    "typical_deployment": "Carrier battle group escort, independent patrol in Indian Ocean, anti-piracy operations",
+    "deployment_length_months": 4,
+    "key_operating_areas": [
+      "Arabian Sea",
+      "Bay of Bengal",
+      "Andaman Sea",
+      "Western Indian Ocean"
+    ],
+    "typical_task_group": "Operates with INS Vikramaditya/Vikrant carrier groups or in frigate squadrons",
+    "readiness_notes": "Build delays due to COVID-19, sensor integration challenges in early hulls"
+  },
+  "peer_comparisons": [
+    {
+      "platform": "Type 054A Jiangkai II",
+      "country": "China",
+      "relationship": "direct rival",
+      "key_differences": "Type 054A has more VLS cells (32 SAM + 8 AShM) but lacks supersonic anti-ship missiles. Nilgiri trades quantity for quality with BrahMos superiority.",
+      "video_angle": "David vs Goliath: Quality vs Quantity in Indo-Pacific frigate design"
+    },
+    {
+      "platform": "Admiral Grigorovich-class",
+      "country": "Russia",
+      "relationship": "comparable export frigate",
+      "key_differences": "Similar displacement and role, but Grigorovich uses Shtil SAMs vs Barak 8. Nilgiri has better stealth characteristics and more modern sensors.",
+      "video_angle": "Russian vs Indian frigate philosophy: Traditional vs Modern approaches"
+    },
+    {
+      "platform": "FREMM-class",
+      "country": "France/Italy",
+      "relationship": "Western equivalent",
+      "key_differences": "FREMM is larger, more expensive, with greater multi-mission flexibility. Nilgiri optimized for Indian Ocean conditions and lower cost.",
+      "video_angle": "European luxury vs Indian pragmatism in frigate design"
+    },
+    {
+      "platform": "Babur-class",
+      "country": "Pakistan",
+      "relationship": "regional opponent",
+      "key_differences": "Babur is smaller corvette with Chinese systems. Nilgiri significantly outguns and outranges Pakistani surface combatants.",
+      "video_angle": "How India's naval buildup changes the Arabian Sea balance"
+    }
+  ],
+  "search_keywords": [
+    "nilgiri class",
+    "project 17a",
+    "p17a frigate",
+    "ins nilgiri",
+    "indian navy frigate",
+    "brahmos frigate",
+    "barak 8",
+    "stealth frigate india"
+  ],
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/1c/INS_Udaygiri_launch_at_MDL%2C_Mumbai_01.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/1c/INS_Udaygiri_launch_at_MDL%2C_Mumbai_01.jpg",
+      "width": 700,
+      "height": 467,
+      "title": "INS Udaygiri launch at MDL, Mumbai 01.jpg",
+      "description": "Hon\u2019ble Raksha Mantri Shri Rajnath Singh launched two frontline warships of the Indian Navy, \u2018Surat\u2019 and \u2018Udaygiri\u2019 at MDL, Mumbai on May 17, 2022. \u2018Surat\u2019 is the fourth Guided Missile Destroyer of P1",
+      "license": "GODL-India",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Launch_of_2nd_Project_17A_ship_Himgiri_01.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Launch_of_2nd_Project_17A_ship_Himgiri_01.jpg",
+      "width": 700,
+      "height": 400,
+      "title": "Launch of 2nd Project 17A ship Himgiri 01.jpg",
+      "description": "\u2018Himgiri\u2019, the first of the three Project 17A ships being built at M/s Garden Reach Shipbuilders and Engineers Limited (GRSE), Kolkata was launched on 14 December 2020. She made her first contact with",
+      "license": "GODL-India",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/be/Launch_of_2nd_Project_17A_ship_Himgiri_02.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/be/Launch_of_2nd_Project_17A_ship_Himgiri_02.jpg",
+      "width": 700,
+      "height": 400,
+      "title": "Launch of 2nd Project 17A ship Himgiri 02.jpg",
+      "description": "\u2018Himgiri\u2019, the first of the three Project 17A ships being built at M/s Garden Reach Shipbuilders and Engineers Limited (GRSE), Kolkata was launched on 14 December 2020. She made her first contact with",
+      "license": "GODL-India",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/96/Launch_of_2nd_Project_17A_ship_Himgiri_04.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/96/Launch_of_2nd_Project_17A_ship_Himgiri_04.jpg",
+      "width": 700,
+      "height": 400,
+      "title": "Launch of 2nd Project 17A ship Himgiri 04.jpg",
+      "description": "\u2018Himgiri\u2019, the first of the three Project 17A ships being built at M/s Garden Reach Shipbuilders and Engineers Limited (GRSE), Kolkata was launched on 14 December 2020. She made her first contact with",
+      "license": "GODL-India",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Launch_of_2nd_Project_17A_ship_Himgiri_05.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Launch_of_2nd_Project_17A_ship_Himgiri_05.jpg",
+      "width": 700,
+      "height": 400,
+      "title": "Launch of 2nd Project 17A ship Himgiri 05.jpg",
+      "description": "\u2018Himgiri\u2019, the first of the three Project 17A ships being built at M/s Garden Reach Shipbuilders and Engineers Limited (GRSE), Kolkata was launched on 14 December 2020. She made her first contact with",
+      "license": "GODL-India",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/be/Launch_of_2nd_Project_17A_ship_Himgiri_06.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/be/Launch_of_2nd_Project_17A_ship_Himgiri_06.jpg",
+      "width": 700,
+      "height": 400,
+      "title": "Launch of 2nd Project 17A ship Himgiri 06.jpg",
+      "description": "\u2018Himgiri\u2019, the first of the three Project 17A ships being built at M/s Garden Reach Shipbuilders and Engineers Limited (GRSE), Kolkata was launched on 14 December 2020. She made her first contact with",
+      "license": "GODL-India",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Launch_of_INS_Taragiri_at_Mazagon_Dock_Shipbuilders.jpg/1280px-Launch_of_INS_Taragiri_at_Mazagon_Dock_Shipbuilders.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/af/Launch_of_INS_Taragiri_at_Mazagon_Dock_Shipbuilders.jpg",
+      "width": 1600,
+      "height": 1067,
+      "title": "Launch of INS Taragiri at Mazagon Dock Shipbuilders.jpg",
+      "description": "The fifth Stealth Frigate of P17A, being built at MDL was launched today by Smt. Charu Singh, President NWWA (Western Region) who 0named the ship 'Taragiri'. In compliance with the notification issued",
+      "license": "GODL-India",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/P17A_Nilgiri_Class_Frigate_Design_of_Indian_Navy.jpg/1280px-P17A_Nilgiri_Class_Frigate_Design_of_Indian_Navy.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/c0/P17A_Nilgiri_Class_Frigate_Design_of_Indian_Navy.jpg",
+      "width": 2048,
+      "height": 1305,
+      "title": "P17A Nilgiri Class Frigate Design of Indian Navy.jpg",
+      "description": "Mahendragiri, the last of Project 17A Frigates - designed by Indian Navy\u2019s Warship Design Bureau - will be launched by Dr (Smt) Sudesh Dhankhar, wife of Vice President of India\n<p>Shri Jagdeep Dhankha",
+      "license": "GODL-India",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/04/P17A_design_1.png",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/04/P17A_design_1.png",
+      "width": 583,
+      "height": 328,
+      "title": "P17A design 1.png",
+      "description": "Launch of the 1st Project 17A ship 'Nilgiri' at #MDL on 28 Sep 19 will have history repeat itself. Old Nilgiri, first ever  major warship built in India, was also launched from the same shipyard.",
+      "license": "GODL-India",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/19/P17A_design_1B.png",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/19/P17A_design_1B.png",
+      "width": 583,
+      "height": 328,
+      "title": "P17A design 1B.png",
+      "description": "Launch of the 1st Project 17A ship 'Nilgiri' at #MDL on 28 Sep 19 will have history repeat itself. Old Nilgiri, first ever  major warship built in India, was also launched from the same shipyard.",
+      "license": "GODL-India",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c8/P17A_design_2.png",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/c8/P17A_design_2.png",
+      "width": 583,
+      "height": 328,
+      "title": "P17A design 2.png",
+      "description": "Launch of the 1st Project 17A ship 'Nilgiri' at #MDL on 28 Sep 19 will have history repeat itself. Old Nilgiri, first ever  major warship built in India, was also launched from the same shipyard.",
+      "license": "GODL-India",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/5a/P17A_design_4.png",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/5a/P17A_design_4.png",
+      "width": 583,
+      "height": 328,
+      "title": "P17A design 4.png",
+      "description": "Launch of the 1st Project 17A ship 'Nilgiri' at #MDL on 28 Sep 19 will have history repeat itself. Old Nilgiri, first ever  major warship built in India, was also launched from the same shipyard.",
+      "license": "GODL-India",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/41/P17A_design_5.png",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/41/P17A_design_5.png",
+      "width": 583,
+      "height": 328,
+      "title": "P17A design 5.png",
+      "description": "Launch of the 1st Project 17A ship 'Nilgiri' at #MDL on 28 Sep 19 will have history repeat itself. Old Nilgiri, first ever  major warship built in India, was also launched from the same shipyard.",
+      "license": "GODL-India",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/P17A_design_6.png",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/P17A_design_6.png",
+      "width": 583,
+      "height": 328,
+      "title": "P17A design 6.png",
+      "description": "Launch of the 1st Project 17A ship 'Nilgiri' at #MDL on 28 Sep 19 will have history repeat itself. Old Nilgiri, first ever  major warship built in India, was also launched from the same shipyard.",
+      "license": "GODL-India",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Project_17A_class_CGI.png",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Project_17A_class_CGI.png",
+      "width": 1024,
+      "height": 673,
+      "title": "Project 17A class CGI.png",
+      "description": "A depiction of a Project 17A class frigate of India made using official images of GRSE, the shipbuilder.",
+      "license": "CC BY-SA 3.0",
+      "source": "wikimedia"
+    }
+  ]
+}

@@ -1,0 +1,277 @@
+{
+  "combat_history": [
+    {
+      "date": "2019-01",
+      "operation": null,
+      "event": "Major boiler room fire during refit at Karwar naval base. Fire caused significant damage and delayed operations by several months.",
+      "significance": "Highlighted maintenance challenges and potential reliability issues with the aging propulsion system, raising questions about operational readiness"
+    },
+    {
+      "date": "2020-07",
+      "operation": "Malabar Exercise",
+      "event": "Participated in Malabar naval exercise with US, Japanese, and later Australian naval forces, conducting carrier operations in the Bay of Bengal.",
+      "significance": "Demonstrated Indian carrier capability in multilateral operations and interoperability with allied forces in the Indo-Pacific"
+    },
+    {
+      "date": "2021-11",
+      "operation": "Malabar Exercise",
+      "event": "Operated alongside USS Carl Vinson (CVN-70) in dual-carrier operations during Malabar 2021, practicing complex air operations.",
+      "significance": "First dual-carrier operations between Indian and US forces, showcasing growing military cooperation and Indian carrier maturity"
+    }
+  ],
+  "modernization": [
+    {
+      "program": "Mid-Life Upgrade (MLU)",
+      "status": "planned",
+      "timeline": "2025-2027",
+      "description": "Planned upgrade to combat systems, radar systems, and aircraft handling equipment. May include integration of indigenous systems and improved defensive capabilities.",
+      "impact": "Would extend service life and improve operational capabilities, particularly in electronic warfare and air defense"
+    },
+    {
+      "program": "Boiler System Overhaul",
+      "status": "in-progress",
+      "timeline": "2022-2024",
+      "description": "Comprehensive overhaul of propulsion system following 2019 fire damage and ongoing reliability issues with Soviet-era boilers.",
+      "impact": "Critical for maintaining operational availability and preventing future propulsion failures"
+    }
+  ],
+  "vulnerabilities": [
+    {
+      "area": "Propulsion Reliability",
+      "description": "Aging Soviet-era boiler system has suffered multiple failures including the 2019 fire. Complex steam propulsion requires extensive maintenance and has lower availability than gas turbine systems.",
+      "context": "Propulsion issues limit operational tempo and force structure planning, particularly critical given India operates only one operational carrier",
+      "mitigation": "Ongoing overhaul program and enhanced maintenance protocols, but fundamental system remains unchanged"
+    },
+    {
+      "area": "Air Wing Limitations",
+      "description": "MiG-29K aircraft have suffered high accident rates and serviceability issues. Limited to 24 fighters max, less than half the capacity of larger carriers. No organic AEW aircraft beyond helicopters.",
+      "context": "Reduces strike capability and defensive coverage compared to larger carrier air wings. High accident rate impacts pilot training and readiness",
+      "mitigation": "India considering replacement aircraft options including naval Tejas, but timeline uncertain"
+    },
+    {
+      "area": "Single Point of Failure",
+      "description": "As India's only operational large-deck carrier, any extended downtime eliminates Indian carrier capability entirely. No backup while INS Vikrant works up to full operational capability.",
+      "context": "Critical vulnerability for a navy seeking to project power across the vast Indian Ocean Region with multiple potential threat axes",
+      "mitigation": "INS Vikrant commissioning provides backup, but full operational capability will take years to develop"
+    },
+    {
+      "area": "Limited CIWS Coverage",
+      "description": "Relies primarily on short-range Barak-1 and AK-630 systems without longer-range area air defense. Vulnerable to saturation attacks by anti-ship missiles.",
+      "context": "Modern anti-ship missiles like the Chinese YJ-18 or Pakistani CM-400AKG pose significant threats that current defenses may not adequately counter",
+      "mitigation": "Future upgrades may include longer-range SAM systems, but currently relies on escort vessels for area defense"
+    }
+  ],
+  "operational_patterns": {
+    "typical_deployment": "Operates as centerpiece of Carrier Battle Group with destroyer and frigate escorts, typically 4-6 month deployments in Arabian Sea, Bay of Bengal, or extended Indian Ocean patrols",
+    "deployment_length_months": 4,
+    "key_operating_areas": [
+      "Arabian Sea",
+      "Bay of Bengal",
+      "Western Indian Ocean",
+      "Strait of Malacca approaches"
+    ],
+    "typical_task_group": "2-3 destroyers (Kolkata or Delhi class), 1-2 frigates, fleet tanker, submarine escort when available",
+    "readiness_notes": "Availability rate estimated at 60-70% due to maintenance requirements and propulsion issues. Requires extensive shore-based maintenance periods."
+  },
+  "peer_comparisons": [
+    {
+      "platform": "HTMS Chakri Naruebet",
+      "country": "Thailand",
+      "relationship": "smaller peer",
+      "key_differences": "Thai carrier much smaller (11,400 tons vs 45,400) and rarely operates aircraft due to cost. Vikramaditya represents serious carrier capability while Chakri Naruebet is essentially a helicopter carrier.",
+      "video_angle": "Compare operational tempo and actual carrier capability utilization between emerging naval powers"
+    },
+    {
+      "platform": "Admiral Kuznetsov",
+      "country": "Russia",
+      "relationship": "design predecessor",
+      "key_differences": "Similar STOBAR layout but Kuznetsov retains heavy missile armament and larger aircraft capacity (50+ vs 30). Russian carrier has had even worse reliability issues and rarely deploys.",
+      "video_angle": "Compare how two navies adapted similar Soviet carrier designs for different strategic needs and operational concepts"
+    },
+    {
+      "platform": "Liaoning (CV-16)",
+      "country": "China",
+      "relationship": "direct rival",
+      "key_differences": "Similar displacement and STOBAR design but newer refit, better maintained, and larger air wing (24-30 J-15 fighters). China operates two carriers vs India's one operational.",
+      "video_angle": "India vs China carrier capabilities in the Indian Ocean - comparing operational patterns, aircraft performance, and strategic objectives"
+    },
+    {
+      "platform": "Charles de Gaulle (R91)",
+      "country": "France",
+      "relationship": "capability benchmark",
+      "key_differences": "Nuclear powered, CATOBAR operations enable larger/heavier aircraft, but smaller than Vikramaditya. French carrier has higher availability and more advanced systems integration.",
+      "video_angle": "STOBAR vs CATOBAR operations - trade-offs in aircraft capability, operational flexibility, and maintenance requirements"
+    },
+    {
+      "platform": "Queen Elizabeth-class",
+      "country": "United Kingdom",
+      "relationship": "modern peer",
+      "key_differences": "Much larger (65,000 tons), STOVL F-35B aircraft vs STOBAR MiG-29K, twin-island design, newer systems but fewer defensive weapons. UK has two hulls vs India's one operational.",
+      "video_angle": "Traditional carrier powers vs emerging naval powers - comparing modern carrier design philosophies and operational concepts"
+    }
+  ],
+  "search_keywords": [
+    "vikramaditya",
+    "ins vikramaditya",
+    "indian aircraft carrier",
+    "admiral gorshkov",
+    "indian navy carrier",
+    "mig-29k",
+    "stobar carrier",
+    "r33",
+    "indian ocean carrier",
+    "vikramaditya fire"
+  ],
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/12/Aircraft_Carrier_INS_Vikramaditya.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/12/Aircraft_Carrier_INS_Vikramaditya.jpg",
+      "width": 670,
+      "height": 570,
+      "title": "Aircraft Carrier INS Vikramaditya.jpg",
+      "description": "INS Vikramaditya escorted by INS Viraat",
+      "license": "CC0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/51/Aircraft_Carrier_INS_Vikramaditya_%28cropped%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/51/Aircraft_Carrier_INS_Vikramaditya_%28cropped%29.jpg",
+      "width": 623,
+      "height": 262,
+      "title": "Aircraft Carrier INS Vikramaditya (cropped).jpg",
+      "description": "INS Vikramaditya escorted by INS Viraat",
+      "license": "CC0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/INS_Vikramaditya_%28R33%29_with_a_Sea_Harrier.jpg/1280px-INS_Vikramaditya_%28R33%29_with_a_Sea_Harrier.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/INS_Vikramaditya_%28R33%29_with_a_Sea_Harrier.jpg",
+      "width": 1600,
+      "height": 1066,
+      "title": "INS Vikramaditya (R33) with a Sea Harrier.jpg",
+      "description": "INS Vikramaditya (R33) with a Sea Harrier",
+      "license": "GODL-India",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/INS_Vikramaditya_during_trials.jpg/1280px-INS_Vikramaditya_during_trials.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/cf/INS_Vikramaditya_during_trials.jpg",
+      "width": 1500,
+      "height": 1000,
+      "title": "INS Vikramaditya during trials.jpg",
+      "description": "Indian Aircraft Carrier INS <i>Vikramaditya</i> (ex- Gorshkov) during her sea trials",
+      "license": "GODL-India",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/INS_Vikrant_%28R11%29_and_INS_Vikramaditya_%28R33%29_during_exercise_with_their_carrier_battle_group.jpg/1280px-INS_Vikrant_%28R11%29_and_INS_Vikramaditya_%28R33%29_during_exercise_with_their_carrier_battle_group.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/99/INS_Vikrant_%28R11%29_and_INS_Vikramaditya_%28R33%29_during_exercise_with_their_carrier_battle_group.jpg",
+      "width": 2048,
+      "height": 1363,
+      "title": "INS Vikrant (R11) and INS Vikramaditya (R33) during exercise with their carrier battle group.jpg",
+      "description": "The seamless operational integration of the two aircraft carriers INS Vikramaditya &amp; INS Vikrant as well as fleet ships &amp; submarines is a powerful testament to the pivotal role of sea based ai",
+      "license": "GODL-India",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/INS_Vikrant_%28R11%29_and_INS_Vikramaditya_%28R33%29_with_the_carrier_battle_group.jpg/1280px-INS_Vikrant_%28R11%29_and_INS_Vikramaditya_%28R33%29_with_the_carrier_battle_group.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/91/INS_Vikrant_%28R11%29_and_INS_Vikramaditya_%28R33%29_with_the_carrier_battle_group.jpg",
+      "width": 2048,
+      "height": 1365,
+      "title": "INS Vikrant (R11) and INS Vikramaditya (R33) with the carrier battle group.jpg",
+      "description": "The seamless operational integration of the two aircraft carriers INS Vikramaditya\n &amp; INS Vikrant as well as fleet ships &amp; submarines is a powerful testament to the pivotal role of sea based a",
+      "license": "GODL-India",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Indian_aircraft_carrier_INS_Vikramaditya%2C_former_Gorshkov.jpg/1280px-Indian_aircraft_carrier_INS_Vikramaditya%2C_former_Gorshkov.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/44/Indian_aircraft_carrier_INS_Vikramaditya%2C_former_Gorshkov.jpg",
+      "width": 1500,
+      "height": 1017,
+      "title": "Indian aircraft carrier INS Vikramaditya, former Gorshkov.jpg",
+      "description": "Indian aircraft carrier INS Vikramaditya, former Gorshkov",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Two_aircraft_carriers_of_the_Indian_Navy_-_INS_Vikramaditya_and_INS_Viraat.jpg/1280px-Two_aircraft_carriers_of_the_Indian_Navy_-_INS_Vikramaditya_and_INS_Viraat.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Two_aircraft_carriers_of_the_Indian_Navy_-_INS_Vikramaditya_and_INS_Viraat.jpg",
+      "width": 3840,
+      "height": 2560,
+      "title": "Two aircraft carriers of the Indian Navy - INS Vikramaditya and INS Viraat.jpg",
+      "description": "Two aircraft carriers of the Indian Navy - INS Vikramaditya and INS Viraat",
+      "license": "GODL-India",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/INS_Vikramaditya_%28R33%29_at_sea_with_its_full_complement_of_fighters.jpg/1280px-INS_Vikramaditya_%28R33%29_at_sea_with_its_full_complement_of_fighters.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/11/INS_Vikramaditya_%28R33%29_at_sea_with_its_full_complement_of_fighters.jpg",
+      "width": 2048,
+      "height": 1365,
+      "title": "INS Vikramaditya (R33) at sea with its full complement of fighters.jpg",
+      "description": "INS Vikramaditya (R33) at sea with full complement of fighters",
+      "license": "GODL-India",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/INS_Vikrant_%28R11%29_and_INS_Vikramaditya_%28R33%29_during_exercise.jpg/1280px-INS_Vikrant_%28R11%29_and_INS_Vikramaditya_%28R33%29_during_exercise.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/32/INS_Vikrant_%28R11%29_and_INS_Vikramaditya_%28R33%29_during_exercise.jpg",
+      "width": 6000,
+      "height": 3376,
+      "title": "INS Vikrant (R11) and INS Vikramaditya (R33) during exercise.jpg",
+      "description": "The seamless operational integration of the two aircraft carriers INS Vikramaditya &amp; INS Vikrant as well as fleet ships &amp; submarines is a powerful testament to the pivotal role of sea based ai",
+      "license": "GODL-India",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/INS_Vikrant_%28R11%29_and_INS_Vikramaditya_%28R33%29_during_joint_exercise.jpg/1280px-INS_Vikrant_%28R11%29_and_INS_Vikramaditya_%28R33%29_during_joint_exercise.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/c6/INS_Vikrant_%28R11%29_and_INS_Vikramaditya_%28R33%29_during_joint_exercise.jpg",
+      "width": 2048,
+      "height": 1363,
+      "title": "INS Vikrant (R11) and INS Vikramaditya (R33) during joint exercise.jpg",
+      "description": "The seamless operational integration of the two aircraft carriers INS Vikramaditya &amp; INS Vikrant as well as fleet ships &amp; submarines is a powerful testament to the pivotal role of sea based ai",
+      "license": "GODL-India",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Indian_Navy_flotilla_escorting_aircraft_carrier_Vikramaditya_%28R33%29.jpg/1280px-Indian_Navy_flotilla_escorting_aircraft_carrier_Vikramaditya_%28R33%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Indian_Navy_flotilla_escorting_aircraft_carrier_Vikramaditya_%28R33%29.jpg",
+      "width": 2000,
+      "height": 920,
+      "title": "Indian Navy flotilla escorting aircraft carrier Vikramaditya (R33).jpg",
+      "description": "The Indian navy flotilla escorts new aircraft carrier INS <i>Vikramaditya</i> (R33) through Arabian Sea. Looks more like a Carrier Battle Group!",
+      "license": "GODL-India",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Indian_Navy_flotilla_escorting_aircraft_carrier_Vikramaditya_%28R33%29_2.jpg/1280px-Indian_Navy_flotilla_escorting_aircraft_carrier_Vikramaditya_%28R33%29_2.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Indian_Navy_flotilla_escorting_aircraft_carrier_Vikramaditya_%28R33%29_2.jpg",
+      "width": 3456,
+      "height": 2276,
+      "title": "Indian Navy flotilla escorting aircraft carrier Vikramaditya (R33) 2.jpg",
+      "description": "Indian Navy flotilla escorting aircraft carrier INS Vikramaditya (R33) during her maiden voyage to her home port at INS Kadamba, Karwar.",
+      "license": "GODL-India",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Indian_Navy_flotilla_of_Western_Fleet_escort_INS_Vikramaditya_%28R33%29_and_INS_Viraat_%28R22%29_in_the_Arabian_Sea.jpg/1280px-Indian_Navy_flotilla_of_Western_Fleet_escort_INS_Vikramaditya_%28R33%29_and_INS_Viraat_%28R22%29_in_the_Arabian_Sea.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/37/Indian_Navy_flotilla_of_Western_Fleet_escort_INS_Vikramaditya_%28R33%29_and_INS_Viraat_%28R22%29_in_the_Arabian_Sea.jpg",
+      "width": 1600,
+      "height": 1066,
+      "title": "Indian Navy flotilla of Western Fleet escort INS Vikramaditya (R33) and INS Viraat (R22) in the Arabian Sea.jpg",
+      "description": "Indian Navy flotilla of Western Fleet escort INS Vikramaditya (R33) and INS Viraat (R22) in the Arabian Sea",
+      "license": "CC BY 2.5 in",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Indian_Navy_flotilla_with_aircraft_carriers_Vikramaditya_%28R33%29_and_Viraat_%28R22%29.jpg/1280px-Indian_Navy_flotilla_with_aircraft_carriers_Vikramaditya_%28R33%29_and_Viraat_%28R22%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Indian_Navy_flotilla_with_aircraft_carriers_Vikramaditya_%28R33%29_and_Viraat_%28R22%29.jpg",
+      "width": 3840,
+      "height": 1904,
+      "title": "Indian Navy flotilla with aircraft carriers Vikramaditya (R33) and Viraat (R22).jpg",
+      "description": "Indian Navy flotilla of the Western Fleet, with aircraft carriers INS Vikramaditya (R33) and INS Viraat (R22), during Vikramaditya's maiden voyage to her home port at INS Kadamba, Karwar.",
+      "license": "GODL-India",
+      "source": "wikimedia"
+    }
+  ]
+}

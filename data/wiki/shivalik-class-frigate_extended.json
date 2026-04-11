@@ -1,0 +1,274 @@
+{
+  "combat_history": [
+    {
+      "date": "2013",
+      "operation": "Operation Rahat",
+      "event": "INS Sahyadri deployed to evacuate Indian nationals from Yemen during civil unrest, demonstrating long-range deployment capability",
+      "significance": "First operational deployment showing the class's expeditionary capabilities in the Arabian Sea"
+    },
+    {
+      "date": "2020-06",
+      "operation": "Standoff with China",
+      "event": "Shivalik-class frigates deployed to Ladakh region waters during border tensions, maintaining naval readiness in the Indian Ocean",
+      "significance": "Demonstrated the class's role in India's multi-domain deterrence strategy"
+    },
+    {
+      "date": "2021",
+      "operation": "Malabar Exercise",
+      "event": "INS Shivalik participated in Quad naval exercises with US, Japanese, and Australian navies, testing interoperability",
+      "significance": "Showcased integration capabilities with allied navies and modern combat systems"
+    }
+  ],
+  "modernization": [
+    {
+      "program": "Mid-Life Upgrade (MLU)",
+      "status": "planned",
+      "timeline": "2025-2030",
+      "description": "Planned upgrades include improved air defense systems, possibly Barak-8 ER replacement for Barak-1, enhanced electronic warfare suite, and combat system updates",
+      "impact": "Will extend service life to 2040s and improve air defense coverage significantly"
+    },
+    {
+      "program": "BrahMos Integration Study",
+      "status": "under consideration",
+      "timeline": "2024-2027",
+      "description": "Feasibility study for replacing Klub missiles with indigenous BrahMos supersonic cruise missiles",
+      "impact": "Would provide supersonic anti-ship capability throughout flight profile and reduce import dependence"
+    }
+  ],
+  "vulnerabilities": [
+    {
+      "area": "Limited air defense range",
+      "description": "Barak-1 SAM system provides only 12km range, insufficient against modern anti-ship missiles",
+      "context": "Regional adversaries field missiles with 200+ km range, creating engagement envelope disadvantage",
+      "mitigation": "MLU program considering Barak-8 ER upgrade with 70+ km range"
+    },
+    {
+      "area": "Single-point radar failure",
+      "description": "Relies on single MF-STAR radar for fire control, creating vulnerability if damaged",
+      "context": "Modern naval combat requires redundant sensors for survivability",
+      "mitigation": "No current program to address this limitation due to cost constraints"
+    },
+    {
+      "area": "Limited VLS capacity",
+      "description": "Only 24 VLS cells compared to 32-64 on peer frigates, limiting sustained engagement capability",
+      "context": "Modern saturation attacks require higher missile loadout for effective defense",
+      "mitigation": "Follow-on Project 17A increased VLS capacity but no retrofit planned for Shivalik class"
+    }
+  ],
+  "operational_patterns": {
+    "typical_deployment": "Independent patrol missions in Indian Ocean, escort duty for replenishment groups, participation in naval exercises",
+    "deployment_length_months": 4,
+    "key_operating_areas": [
+      "Arabian Sea",
+      "Bay of Bengal",
+      "Malacca Strait approaches",
+      "Persian Gulf"
+    ],
+    "typical_task_group": "Usually operates independently or with replenishment vessel, occasionally as part of carrier battle group",
+    "readiness_notes": "High availability rate due to CODOG propulsion reliability, but limited by imported weapons system maintenance requirements"
+  },
+  "peer_comparisons": [
+    {
+      "platform": "Type 054A Jiangkai II-class",
+      "country": "China",
+      "relationship": "direct rival",
+      "key_differences": "Type 054A has 32 VLS cells vs 24, but Shivalik has superior stealth design and longer-range anti-ship missiles. Chinese frigate emphasizes air defense while Shivalik balances all mission areas.",
+      "video_angle": "Stealth vs firepower - comparing Indo-Pacific frigate design philosophies"
+    },
+    {
+      "platform": "F-22P Zulfiquar-class",
+      "country": "Pakistan",
+      "relationship": "regional rival",
+      "key_differences": "Shivalik significantly outclasses F-22P in stealth, sensors, and weapons range. F-22P is essentially a Chinese export frigate while Shivalik represents indigenous design capability.",
+      "video_angle": "India-Pakistan naval arms race: modern indigenous vs import-dependent capabilities"
+    },
+    {
+      "platform": "FREMM Frigate",
+      "country": "France/Italy",
+      "relationship": "allied equivalent",
+      "key_differences": "FREMM has superior air defense and ASW capabilities, but Shivalik offers better cost-effectiveness and anti-ship strike range. FREMM represents higher-end European design philosophy.",
+      "video_angle": "European vs Indian frigate design: capability vs cost trade-offs"
+    },
+    {
+      "platform": "Formidable-class",
+      "country": "Singapore",
+      "relationship": "regional peer",
+      "key_differences": "Both emphasize stealth and multi-mission capability, but Formidable has better air defense (Aster missiles) while Shivalik has longer-range strike capability and larger size for extended operations.",
+      "video_angle": "Small navy, big ambitions: comparing Singapore and Indian frigate capabilities"
+    }
+  ],
+  "search_keywords": [
+    "shivalik class",
+    "project 17",
+    "P17",
+    "INS Shivalik",
+    "INS Satpura",
+    "INS Sahyadri",
+    "indian navy frigate",
+    "stealth frigate",
+    "klub missile",
+    "barak sam"
+  ],
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/76/1867kma-p17.png",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/76/1867kma-p17.png",
+      "width": 797,
+      "height": 1849,
+      "title": "1867kma-p17.png",
+      "description": "\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0438\u043c\u043f\u0435\u0440\u0438\u044f. \n<p>\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0438\u0439 \u0418\u043c\u043f\u0435\u0440\u0430\u0442\u043e\u0440\u0441\u043a\u0438\u0439 \u0444\u043b\u043e\u0442.\n</p><p>\u041e\u0444\u0438\u0446\u0435\u0440\u044b <b>\u041a\u043e\u0440\u043f\u0443\u0441\u0430 \u043c\u043e\u0440\u0441\u043a\u043e\u0439 \u0430\u0440\u0442\u0438\u043b\u043b\u0435\u0440\u0438\u0438</b>, \u043f\u0440\u043e\u0434\u043e\u043b\u0436\u0430\u0432\u0448\u0438\u0435 \u0441\u043b\u0443\u0436\u0431\u0443 \u043f\u043e\u0441\u043b\u0435 \u0443\u043f\u0440\u0430\u0437\u0434\u043d\u0435\u043d\u0438\u044f \u041a\u043e\u0440\u043f\u0443\u0441\u0430 \u043d\u0430 \u0434\u0435\u0439\u0441\u0442\u0432\u0438\u0442\u0435\u043b\u044c\u043d\u043e\u0439 \u0441\u043b\u0443\u0436\u0431\u0435, \u043f\u0440\u0438\u0437\u0432\u0430\u043d\u043d\u044b\u0435 \u0432 \u0432\u043e\u0435\u043d\u043d\u043e\u0435 \u0432\u0440",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/1913mor-p17.png",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/1913mor-p17.png",
+      "width": 793,
+      "height": 1852,
+      "title": "1913mor-p17.png",
+      "description": "\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0418\u043c\u043f\u0435\u0440\u0438\u044f. \u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0438\u0439 \u0418\u043c\u043f\u0435\u0440\u0430\u0442\u043e\u0440\u0441\u043a\u0438\u0439 \u0444\u043b\u043e\u0442.\n<p>1. \u041f\u043e\u0433\u043e\u043d <b>\u0433\u0435\u043d\u0435\u0440\u0430\u043b-\u043b\u0435\u0439\u0442\u0435\u043d\u0430\u043d\u0442\u0430</b> \u0444\u043b\u043e\u0442\u0430.\n\u041f\u043e\u043b\u043d\u043e\u0435 \u0441\u043e\u0431\u0440\u0430\u043d\u0438\u0435 \u0417\u0430\u043a\u043e\u043d\u043e\u0432 \u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u043e\u0439 \u0438\u043c\u043f\u0435\u0440\u0438\u0438 \u211638998 \u043e\u0442 18 \u043c\u0430\u0440\u0442\u0430 1913\u0433.\n</p><p>2. <b>\u041a\u043e\u0440\u043f\u0443\u0441 \u0433\u0438\u0434\u0440\u043e\u0433\u0440\u0430\u0444\u043e\u0432 \u0444\u043b\u043e",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/69/1943morarm-p17.png",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/69/1943morarm-p17.png",
+      "width": 738,
+      "height": 1895,
+      "title": "1943morarm-p17.png",
+      "description": "\u0421\u043e\u044e\u0437 \u0421\u043e\u0432\u0435\u0442\u0441\u043a\u0438\u0445 \u0421\u043e\u0446\u0438\u0430\u043b\u0438\u0441\u0442\u0438\u0447\u0435\u0441\u043a\u0438\u0445 \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a/\u0421\u043e\u0432\u0435\u0442\u0441\u043a\u0438\u0439 \u0421\u043e\u044e\u0437/\u0421\u0421\u0421\u0420\n<p>\u0412\u043e\u043e\u0440\u0443\u0436\u0435\u043d\u043d\u044b\u0435 \u0441\u0438\u043b\u044b\n</p><p>\u0412\u043e\u0435\u043d\u043d\u043e-\u043c\u043e\u0440\u0441\u043a\u043e\u0439 \u0444\u043b\u043e\u0442\n</p><p>\u0411\u0435\u0440\u0435\u0433\u043e\u0432\u044b\u0435 \u0447\u0430\u0441\u0442\u0438 \u0444\u043b\u043e\u0442\u0430, \u0434\u043b\u044f \u043a\u043e\u0442\u043e\u0440\u044b\u0445 \u0443\u0441\u0442\u0430\u043d\u043e\u0432\u043b\u0435\u043d\u0430 \u0444\u043e\u0440\u043c\u0430 \u043e\u0434\u0435\u0436\u0434\u044b \u0430\u0440\u043c\u0435\u0439\u0441\u043a\u043e\u0433\u043e \u043e\u0431\u0440\u0430\u0437\u0446\u0430\n</p><",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Arthur_Onslow_RN_ca._1859.jpg/1280px-Arthur_Onslow_RN_ca._1859.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/44/Arthur_Onslow_RN_ca._1859.jpg",
+      "width": 3354,
+      "height": 4315,
+      "title": "Arthur Onslow RN ca. 1859.jpg",
+      "description": "Arthur Onslow, in Royal Navy uniform, ca. 1859, photographer unknown, Macarthur-Onslow album, State Library of New South Wales, <a rel=\"nofollow\" class=\"external text\" href=\"https://collection.sl.nsw.",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Captain_Tobias_Furneaux%2C_RN_%281735-1781%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Captain_Tobias_Furneaux%2C_RN_%281735-1781%29.jpg",
+      "width": 804,
+      "height": 815,
+      "title": "Captain Tobias Furneaux, RN (1735-1781).jpg",
+      "description": "Captain Tobias Furneaux, Royal Navy. Portrait by James Northcote. Oil on Canvas. Tobias Furneaux (1735-1781) was born at Swilly, near Plymouth on 21 August, 1735. Served on board HMS EDINBURGH, MELAMP",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Passeio_de_Buggy_no_Parque_das_Dunas_de_Genipabu%2C_RN_-_2.jpg/1280px-Passeio_de_Buggy_no_Parque_das_Dunas_de_Genipabu%2C_RN_-_2.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/45/Passeio_de_Buggy_no_Parque_das_Dunas_de_Genipabu%2C_RN_-_2.jpg",
+      "width": 2738,
+      "height": 1825,
+      "title": "Passeio de Buggy no Parque das Dunas de Genipabu, RN - 2.jpg",
+      "description": "Jeeps riding at Parque das Dunas de Genipabu, RN, Brazil",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Royal_Navy_Type_45_Destroyer_HMS_Dragon_MOD_45153124.jpg/1280px-Royal_Navy_Type_45_Destroyer_HMS_Dragon_MOD_45153124.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/93/Royal_Navy_Type_45_Destroyer_HMS_Dragon_MOD_45153124.jpg",
+      "width": 2709,
+      "height": 1806,
+      "title": "Royal Navy Type 45 Destroyer HMS Dragon MOD 45153124.jpg",
+      "description": "The <a href=\"https://en.wikipedia.org/wiki/Royal_Navy\" class=\"extiw\" title=\"en:Royal Navy\">Royal Navy's</a> (RN) latest addition to the fleet, the Type 45 destroyer <a href=\"https://en.wikipedia.org/w",
+      "license": "OGL v1.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Victory_Portsmouth_um_1900.jpg/1280px-Victory_Portsmouth_um_1900.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Victory_Portsmouth_um_1900.jpg",
+      "width": 2578,
+      "height": 3518,
+      "title": "Victory Portsmouth um 1900.jpg",
+      "description": "The \"Victory\" (Nelson's Flagship), stern, Portsmouth, England",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a4/INS_Shivalik_%28F47%29_crest.JPG",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/a4/INS_Shivalik_%28F47%29_crest.JPG",
+      "width": 272,
+      "height": 343,
+      "title": "INS Shivalik (F47) crest.JPG",
+      "description": "INS Shivalik (F47) crest",
+      "license": "GODL-India",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Indian_Navy%27s_TROPEX-2014_%281%29.JPG/1280px-Indian_Navy%27s_TROPEX-2014_%281%29.JPG",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Indian_Navy%27s_TROPEX-2014_%281%29.JPG",
+      "width": 1600,
+      "height": 1066,
+      "title": "Indian Navy's TROPEX-2014 (1).JPG",
+      "description": "The Indian Navy\u2019s major annual exercise \u2018TROPEX\u2019 (Theatre Level Operational Readiness Exercise) concluded on 28 Feb 14. The exercise involved large scale naval manoeuvres in all three dimensions viz. ",
+      "license": "GODL-India",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Indian_Navy%27s_TROPEX-2014_%284%29.jpg/1280px-Indian_Navy%27s_TROPEX-2014_%284%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/06/Indian_Navy%27s_TROPEX-2014_%284%29.jpg",
+      "width": 1600,
+      "height": 1334,
+      "title": "Indian Navy's TROPEX-2014 (4).jpg",
+      "description": "The Indian Navy\u2019s major annual exercise \u2018TROPEX\u2019 (Theatre Level Operational Readiness Exercise) concluded on 28 Feb 14. The exercise involved large scale naval manoeuvres in all three dimensions viz. ",
+      "license": "GODL-India",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Indian_Navy_Presents_scaled_model_of_Shivalik-class_frigate_and_AK_230_Gun_Mount_to_Gen._Thimaiyya_Museum_at_Madikeri_01.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Indian_Navy_Presents_scaled_model_of_Shivalik-class_frigate_and_AK_230_Gun_Mount_to_Gen._Thimaiyya_Museum_at_Madikeri_01.jpg",
+      "width": 700,
+      "height": 466,
+      "title": "Indian Navy Presents scaled model of Shivalik-class frigate and AK 230 Gun Mount to Gen. Thimaiyya Museum at Madikeri 01.jpg",
+      "description": "Vice Admiral Biswajit Dasgupta, AVSM, YSM, VSM, FOC-in-C Eastern Naval Command visited Gen Thimaiyya Museum 'Sunny Side ' at Madikeri, Karnataka and handed over a 24 feet scaled model of Shivalik Clas",
+      "license": "GODL-India",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Indian_Navy_Presents_scaled_model_of_Shivalik-class_frigate_and_AK_230_Gun_Mount_to_Gen._Thimaiyya_Museum_at_Madikeri_02.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Indian_Navy_Presents_scaled_model_of_Shivalik-class_frigate_and_AK_230_Gun_Mount_to_Gen._Thimaiyya_Museum_at_Madikeri_02.jpg",
+      "width": 700,
+      "height": 394,
+      "title": "Indian Navy Presents scaled model of Shivalik-class frigate and AK 230 Gun Mount to Gen. Thimaiyya Museum at Madikeri 02.jpg",
+      "description": "Vice Admiral Biswajit Dasgupta, AVSM, YSM, VSM, FOC-in-C Eastern Naval Command visited Gen Thimaiyya Museum 'Sunny Side ' at Madikeri, Karnataka and handed over a 24 feet scaled model of Shivalik Clas",
+      "license": "GODL-India",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Sailors_wave_to_the_Indian_Navy_frigate_INS_Shivalik_%28F_47%29_in_the_Indian_Ocean.jpg/1280px-Sailors_wave_to_the_Indian_Navy_frigate_INS_Shivalik_%28F_47%29_in_the_Indian_Ocean.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/29/Sailors_wave_to_the_Indian_Navy_frigate_INS_Shivalik_%28F_47%29_in_the_Indian_Ocean.jpg",
+      "width": 5068,
+      "height": 3652,
+      "title": "Sailors wave to the Indian Navy frigate INS Shivalik (F 47) in the Indian Ocean.jpg",
+      "description": "INDIAN OCEAN (July 21, 2020) Sailors on board the Arleigh Burke-class guided-missile destroyer USS Sterett (DDG 104) wave to the Indian Navy frigate INS Shivalik (F 47) in the Indian Ocean during a co",
+      "license": "CC BY 2.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/86/Shivalik_Maiden_Sortie.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/86/Shivalik_Maiden_Sortie.jpg",
+      "width": 1199,
+      "height": 732,
+      "title": "Shivalik Maiden Sortie.jpg",
+      "description": "INS Shivalik, India's stealth frigate.",
+      "license": "CC BY-SA 3.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/The_Chief_of_Naval_Staff%2C_Admiral_Nirmal_Varma%2C_commissioning_the_second_ship_of_the_Shivalik_class_frigate_%E2%80%9D_INS_Satpuda%E2%80%9D%2C_in_Mumbai_on_August_20%2C_2011.jpg/1280px-The_Chief_of_Naval_Staff%2C_Admiral_Nirmal_Varma%2C_commissioning_the_second_ship_of_the_Shivalik_class_frigate_%E2%80%9D_INS_Satpuda%E2%80%9D%2C_in_Mumbai_on_August_20%2C_2011.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/The_Chief_of_Naval_Staff%2C_Admiral_Nirmal_Varma%2C_commissioning_the_second_ship_of_the_Shivalik_class_frigate_%E2%80%9D_INS_Satpuda%E2%80%9D%2C_in_Mumbai_on_August_20%2C_2011.jpg",
+      "width": 1500,
+      "height": 844,
+      "title": "The Chief of Naval Staff, Admiral Nirmal Varma, commissioning the second ship of the Shivalik class frigate \u201d INS Satpuda\u201d, in Mumbai on August 20, 2011.jpg",
+      "description": "The Chief of Naval Staff, Admiral Nirmal Varma, commissioning the second ship of the Shivalik class frigate \u201d INS Satpuda\u201d,  in Mumbai on August 20, 2011.",
+      "license": "GODL-India",
+      "source": "wikimedia"
+    }
+  ]
+}

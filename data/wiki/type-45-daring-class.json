@@ -1,0 +1,472 @@
+{
+  "id": 39,
+  "slug": "type-45-daring-class",
+  "name": "Type 45 Daring-class destroyer",
+  "designation": "D32-D37",
+  "type": "destroyer",
+  "country": "United Kingdom",
+  "operator": "Royal Navy",
+  "overview_md": "The Type 45 Daring-class destroyer represents the Royal Navy's premier air defence platform, designed specifically to provide area air defence for naval task groups and high-value units. Built around the sophisticated SAMPSON multi-function radar and Sea Viper missile system, the Type 45 was conceived during the Cold War's end to counter evolving aerial threats including supersonic anti-ship missiles, aircraft, and eventually ballistic missiles.\n\nStrategically, the Type 45 embodies Britain's commitment to maintaining a credible blue-water navy capability despite budget constraints. With only six hulls built (down from an originally planned twelve), each vessel represents a significant portion of the Royal Navy's surface combatant strength. The design philosophy prioritized cutting-edge sensors and missiles over raw firepower, resulting in a platform optimized for air warfare but somewhat limited in surface and land-attack capabilities compared to peers.\n\nIn the current threat environment, the Type 45's advanced radar and missile systems make it highly capable against traditional air threats, but the class has faced significant challenges with propulsion reliability in warm climates\u2014a critical weakness for global operations. The ships' 48 Sea Viper cells provide fewer missiles than comparable destroyers, though each missile is exceptionally capable.\n\nCompared to international peers like the US Arleigh Burke or Chinese Type 052D, the Type 45 represents a more specialized approach\u2014superior in air defence sensors and missile technology, but lacking the multi-mission flexibility of larger VLS loadouts. The class demonstrates both the strengths of British naval technology and the constraints of operating as a medium-sized naval power in an era of great power competition.",
+  "specs_json": {
+    "displacement_tonnes": 8500,
+    "length_m": 152.4,
+    "beam_m": 21.2,
+    "draft_m": 7.4,
+    "speed_knots": 29,
+    "range_nm": 7000,
+    "crew": 191,
+    "propulsion": "2x Rolls-Royce WR-21 gas turbines, 2x W\u00e4rtsil\u00e4 diesel generators, electric drive",
+    "radar": "SAMPSON multi-function radar, S1850M long-range radar",
+    "sonar": "MFS-7000 sonar suite",
+    "combat_system": "BAE Systems DNA(2) Combat Management System",
+    "vls_cells": 48,
+    "additional": {
+      "helicopter_capacity": "1x Wildcat or Merlin",
+      "decoy_systems": "Sea Gnat chaff/flare, Siren ESM, UAT electronic warfare"
+    }
+  },
+  "armament_json": [
+    {
+      "category": "Surface-to-Air Missiles",
+      "name": "Sea Viper (Aster 15/30)",
+      "type": "SAM",
+      "quantity": "48 cells",
+      "range_km": 120,
+      "notes": "Aster 30 provides long-range area defence, Aster 15 for point defence"
+    },
+    {
+      "category": "Naval Gun",
+      "name": "4.5-inch Mark 8 Mod 1",
+      "type": "naval gun",
+      "quantity": "1x 114mm",
+      "range_km": 27,
+      "notes": "Multi-purpose gun for surface and shore bombardment"
+    },
+    {
+      "category": "CIWS",
+      "name": "Phalanx Block 1B",
+      "type": "close-in weapons system",
+      "quantity": "2x 20mm",
+      "range_km": 3,
+      "notes": "Last-line defence against missiles and aircraft"
+    },
+    {
+      "category": "Machine Guns",
+      "name": "General Purpose Machine Gun",
+      "type": "crew-served weapon",
+      "quantity": "2x 7.62mm",
+      "range_km": 2,
+      "notes": "For small boat and close-range threats"
+    },
+    {
+      "category": "ASW",
+      "name": "Stingray torpedo",
+      "type": "lightweight torpedo",
+      "quantity": "helicopter-launched",
+      "range_km": 11,
+      "notes": "Via embarked Wildcat helicopter"
+    }
+  ],
+  "variants_json": [
+    {
+      "name": "Batch 1",
+      "designation_range": "D32-D37",
+      "years": "2009-2013",
+      "count": 6,
+      "key_changes": "Original production standard with WR-21 gas turbine propulsion, SAMPSON radar, 48-cell Sea Viper VLS",
+      "status": "active"
+    }
+  ],
+  "fleet_status_json": [
+    {
+      "hull_number": "D32",
+      "name": "HMS Daring",
+      "variant": "Batch 1",
+      "commissioned": "2009-07-23",
+      "home_port": "Portsmouth",
+      "status": "active"
+    },
+    {
+      "hull_number": "D33",
+      "name": "HMS Dauntless",
+      "variant": "Batch 1",
+      "commissioned": "2010-06-03",
+      "home_port": "Portsmouth",
+      "status": "active"
+    },
+    {
+      "hull_number": "D34",
+      "name": "HMS Diamond",
+      "variant": "Batch 1",
+      "commissioned": "2011-05-06",
+      "home_port": "Portsmouth",
+      "status": "active"
+    },
+    {
+      "hull_number": "D35",
+      "name": "HMS Dragon",
+      "variant": "Batch 1",
+      "commissioned": "2012-04-20",
+      "home_port": "Portsmouth",
+      "status": "active"
+    },
+    {
+      "hull_number": "D36",
+      "name": "HMS Defender",
+      "variant": "Batch 1",
+      "commissioned": "2013-03-21",
+      "home_port": "Portsmouth",
+      "status": "active"
+    },
+    {
+      "hull_number": "D37",
+      "name": "HMS Duncan",
+      "variant": "Batch 1",
+      "commissioned": "2013-09-26",
+      "home_port": "Portsmouth",
+      "status": "active"
+    }
+  ],
+  "cost_usd": 1800000000.0,
+  "unit_count": 6,
+  "first_commissioned": "2009-07-23",
+  "builder": "BAE Systems (Portsmouth), Scotstoun",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/bf/HMS_Daring-1.jpg",
+  "wiki_url": "https://en.wikipedia.org/wiki/Type_45_destroyer",
+  "sources_json": [
+    "https://en.wikipedia.org/wiki/Type_45_destroyer",
+    "https://www.royalnavy.mod.uk/our-organisation/the-fighting-arms/surface-fleet/destroyers/type-45-destroyer",
+    "https://www.baesystems.com/en/product/type-45-destroyer",
+    "https://www.janes.com/",
+    "https://ukdefencejournal.org.uk/"
+  ],
+  "comparison_tags": [
+    "destroyer",
+    "air-defence",
+    "royal-navy",
+    "european",
+    "blue-water",
+    "sampson",
+    "sea-viper"
+  ],
+  "created_at": "2026-04-10 20:06:21",
+  "updated_at": "2026-04-10T20:06:21.423190",
+  "news": [
+    {
+      "id": 320,
+      "platform_id": 39,
+      "article_hash": "8674207b56007107",
+      "title": "Daring Iran War Rescue Highlights Small But Crucial Military Tech - The Daily Upside",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNQ0FPOGQ2Ni12ZUlpYkdKb2N2bmEwclZKRGNKdW5XWU9md1BwbHdNS0JTcjNXVGd1MjRWeDQxdU44UUdJanZlYVBwbTRUQ2ZqLWR6VjBaa3gyQkZ2U0RmVVkwQzNPOWdpZFdmYmN1a3dJWjJsTjZYVjFGN1VlbW52Nlp0Q000TzRYVHhVNWtSZGVoWElZNE1PbWYyMjd3OUhmZ3puNlpuTUhtOUpPSktiMWpwR19qeV91MWhWSUdvQQ?oc=5",
+      "source": "GNews (The Daily Upside)",
+      "published_at": "2026-04-10T04:03:00",
+      "relevance_score": 0.6,
+      "snippet": "Daring Iran War Rescue Highlights Small But Crucial Military Tech - The Daily Upside",
+      "created_at": "2026-04-10 21:05:27"
+    },
+    {
+      "id": 463,
+      "platform_id": 39,
+      "article_hash": "448edb3349fdf712",
+      "title": "Inside the daring mission to rescue a U.S. airman downed in Iran - CBS News",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5ZWndiUXU4SE9uSmpYelhMVWgzcUVLN2dEMld4bnpQZS1lMGZOdnBkWnRXQ0o4VFRjOXpjZjc0VUpTdjRaNVVBak5mLUtfVXJqUjBySENHdjRWWTlQeGM2XzA4cUdleGtOTThIdndYZw?oc=5",
+      "source": "GNews (CBS News)",
+      "published_at": "2026-04-07T19:54:16",
+      "relevance_score": 0.6,
+      "snippet": "Inside the daring mission to rescue a U.S. airman downed in Iran - CBS News",
+      "created_at": "2026-04-10 21:05:29"
+    },
+    {
+      "id": 287,
+      "platform_id": 39,
+      "article_hash": "188931a4d38f0147",
+      "title": "Royal Navy destroyer arrives in Eastern Mediterranean - U.K. Royal Navy",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPMUEyTUJtcFpvUzEzNjZ5NE1NZURKVWZCY09ob0dNQkh6YTVyQzlHYzc5aFJ6cnBjUWRya0ZzLUNmWW9TbUxQWkw4S0RrU2VIYVZKN0hESzctTXdzU01HWGhKa2tSSXN2VUc0RnBSNkUtLTEzZWlEZGtMSDBuRGwzZmJPRThxV3locllfTER4ZUhJWHlkVmtVM3hqM1lQM09nM3k4Rk5zY2ctSlJkaURF?oc=5",
+      "source": "GNews (U.K. Royal Navy)",
+      "published_at": "2026-03-24T07:00:00",
+      "relevance_score": 0.6,
+      "snippet": "Royal Navy destroyer arrives in Eastern Mediterranean - U.K. Royal Navy",
+      "created_at": "2026-04-10 20:39:16"
+    }
+  ],
+  "events": [],
+  "ic_coverage": [],
+  "combat_history": [
+    {
+      "date": "2021-06-23",
+      "operation": "Operation Shader",
+      "event": "HMS Defender transited through disputed waters off Crimea, resulting in confrontation with Russian forces including warning shots and alleged bombing",
+      "significance": "Demonstrated Type 45's role in freedom of navigation operations and highlighted tensions in contested waters"
+    },
+    {
+      "date": "2018-04-14",
+      "operation": "Operation Shader",
+      "event": "HMS Diamond provided air defence during coalition strikes on Syrian chemical weapons facilities",
+      "significance": "First operational deployment where Type 45's air defence capabilities were used in active combat environment"
+    },
+    {
+      "date": "2019-05",
+      "operation": "Persian Gulf deployment",
+      "event": "HMS Duncan deployed to Gulf to protect British-flagged shipping during heightened Iran-UK tensions",
+      "significance": "Showcased Type 45's role in protecting commercial shipping and deterrence operations"
+    }
+  ],
+  "modernization": [
+    {
+      "program": "Power Improvement Project (PIP)",
+      "status": "in-progress",
+      "timeline": "2019-2028",
+      "description": "Installation of additional diesel generators and upgraded electrical systems to address chronic propulsion failures in warm climates. Replaces problematic WR-21 intercooler systems.",
+      "impact": "Should resolve reliability issues that have plagued the class, improving availability rates from ~40% to target 70%+"
+    },
+    {
+      "program": "Sea Viper Evolution",
+      "status": "planned",
+      "timeline": "2025-2030",
+      "description": "Upgrade to Aster 30 Block 1NT missiles with improved anti-ballistic missile capability and enhanced electronic countermeasures resistance",
+      "impact": "Provides limited ballistic missile defence capability and improved performance against modern threats"
+    },
+    {
+      "program": "Future Combat Air System integration",
+      "status": "planned",
+      "timeline": "2030+",
+      "description": "Integration with Tempest fighter program and loyal wingman drones for enhanced air defence coordination",
+      "impact": "Would transform Type 45 into node in distributed air defence network"
+    }
+  ],
+  "vulnerabilities": [
+    {
+      "area": "Propulsion reliability",
+      "description": "WR-21 gas turbine intercoolers fail frequently in temperatures above 25\u00b0C, causing total power loss and leaving ships adrift",
+      "context": "Critical flaw for global operations, particularly in Middle East and Indo-Pacific where RN increasingly operates",
+      "mitigation": "Power Improvement Project ongoing but won't be complete until 2028, leaving vulnerability window"
+    },
+    {
+      "area": "Limited missile loadout",
+      "description": "48 VLS cells significantly fewer than peer destroyers (96+ cells), no provision for Tomahawk or anti-ship missiles",
+      "context": "Limits sustained operations and multi-mission capability compared to US, Chinese, and future European destroyers",
+      "mitigation": "No current plans to address this structural limitation due to cost and design constraints"
+    },
+    {
+      "area": "Single-point failure radar",
+      "description": "SAMPSON radar mast represents critical vulnerability - damage would eliminate primary air defence capability",
+      "context": "Unlike distributed radar systems, loss of SAMPSON severely degrades ship's primary mission",
+      "mitigation": "S1850M provides backup capability but with reduced performance"
+    },
+    {
+      "area": "Limited anti-submarine warfare capability",
+      "description": "Lacks towed array sonar and shipboard ASW weapons, relies entirely on embarked helicopter",
+      "context": "Significant gap given resurgent submarine threats from Russia and increasing Chinese submarine activity",
+      "mitigation": "Usually operates with Type 23/26 frigates providing ASW coverage"
+    }
+  ],
+  "operational_patterns": {
+    "typical_deployment": "Carrier strike group air defence, standing maritime tasks, freedom of navigation operations",
+    "deployment_length_months": 7,
+    "key_operating_areas": [
+      "Mediterranean",
+      "Persian Gulf",
+      "Caribbean",
+      "Indo-Pacific"
+    ],
+    "typical_task_group": "CSG with Queen Elizabeth-class carrier, Type 23 frigates, RFA support vessels",
+    "readiness_notes": "Availability rates historically ~40% due to propulsion issues, target improvement to 70% post-PIP"
+  },
+  "peer_comparisons": [
+    {
+      "platform": "Arleigh Burke Flight IIA",
+      "country": "United States",
+      "relationship": "allied equivalent",
+      "key_differences": "Burke has 96 VLS cells vs 48, Tomahawk capability, but Type 45 has superior air defence radar and missiles. Burke more multi-mission capable, Type 45 more specialized.",
+      "video_angle": "Quality vs Quantity: British precision engineering vs American multi-mission flexibility"
+    },
+    {
+      "platform": "Type 052D Luyang III",
+      "country": "China",
+      "relationship": "direct rival",
+      "key_differences": "Similar displacement but Type 052D has 64 VLS cells, anti-ship and land-attack missiles. Type 45 likely superior in pure air defence, 052D more balanced.",
+      "video_angle": "East vs West destroyer philosophy: Chinese quantity and balance vs British air defence specialization"
+    },
+    {
+      "platform": "Horizon-class",
+      "country": "France/Italy",
+      "relationship": "European contemporary",
+      "key_differences": "Similar mission and PAAMS missile system, but smaller (7000t vs 8500t) with 48 cells. Type 45 has better radar coverage with SAMPSON rotating array.",
+      "video_angle": "European air defence destroyers: why Britain went alone vs Franco-Italian cooperation"
+    },
+    {
+      "platform": "Atago-class",
+      "country": "Japan",
+      "relationship": "allied equivalent",
+      "key_differences": "Aegis-equipped with 96 VLS cells and ballistic missile defence. Larger and more capable but less advanced air defence missiles than Sea Viper.",
+      "video_angle": "Allied destroyer comparison: Japanese Aegis muscle vs British Sea Viper precision"
+    },
+    {
+      "platform": "Sachsen-class",
+      "country": "Germany",
+      "relationship": "European predecessor",
+      "key_differences": "Smaller (5800t) with 32 Sea Sparrow cells vs 48 Sea Viper. Type 45 represents evolution of European air defence destroyer concept with better radar and missiles.",
+      "video_angle": "European destroyer evolution: from German Sachsen to British Type 45"
+    }
+  ],
+  "search_keywords": [
+    "type 45",
+    "type-45",
+    "daring class",
+    "daring-class",
+    "royal navy destroyer",
+    "sampson radar",
+    "sea viper",
+    "aster missile",
+    "HMS daring",
+    "HMS defender",
+    "british destroyer"
+  ],
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Daring_class_Destroyer_near_the_Breakwater_-_geograph.org.uk_-_4673657.jpg/1280px-Daring_class_Destroyer_near_the_Breakwater_-_geograph.org.uk_-_4673657.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Daring_class_Destroyer_near_the_Breakwater_-_geograph.org.uk_-_4673657.jpg",
+      "width": 1600,
+      "height": 1200,
+      "title": "Daring class Destroyer near the Breakwater - geograph.org.uk - 4673657.jpg",
+      "description": "Daring class Destroyer near the Breakwater\u00a0<span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"//commons.wikimedia.org/wiki/File:Daring_class_Destroyer_near_the_Breakwater_-_g",
+      "license": "CC BY-SA 2.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/The_Launch_of_Type_45_Destroyer_HMS_Dragon_MOD_45149872.jpg/1280px-The_Launch_of_Type_45_Destroyer_HMS_Dragon_MOD_45149872.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/The_Launch_of_Type_45_Destroyer_HMS_Dragon_MOD_45149872.jpg",
+      "width": 3000,
+      "height": 1909,
+      "title": "The Launch of Type 45 Destroyer HMS Dragon MOD 45149872.jpg",
+      "description": "A sailor forming part of a ceremonial guard stands to attention as HMS Dragon is launched in the background.\n<p>HMS Dragon was launched at BVT Surface Fleet Ltd Govan, Scotland to a fanfare of music a",
+      "license": "OGL v1.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/The_Launch_of_Type_45_Destroyer_HMS_Dragon_MOD_45149874.jpg/1280px-The_Launch_of_Type_45_Destroyer_HMS_Dragon_MOD_45149874.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/89/The_Launch_of_Type_45_Destroyer_HMS_Dragon_MOD_45149874.jpg",
+      "width": 2400,
+      "height": 3000,
+      "title": "The Launch of Type 45 Destroyer HMS Dragon MOD 45149874.jpg",
+      "description": "HMS Dragon was launched at BVT Surface Fleet Ltd Govan, Scotland to a fanfare of music and balloons in November 2008.\n<p>She now faces an extensive fitting out and acceptance trials period before ente",
+      "license": "OGL v1.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/The_Launch_of_Type_45_Destroyer_HMS_Dragon_MOD_45149875.jpg/1280px-The_Launch_of_Type_45_Destroyer_HMS_Dragon_MOD_45149875.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/The_Launch_of_Type_45_Destroyer_HMS_Dragon_MOD_45149875.jpg",
+      "width": 3000,
+      "height": 2330,
+      "title": "The Launch of Type 45 Destroyer HMS Dragon MOD 45149875.jpg",
+      "description": "HMS Dragon was launched at BVT Surface Fleet Ltd Govan, Scotland to a fanfare of music and balloons in November 2008.\n<p>She now faces an extensive fitting out and acceptance trials period before ente",
+      "license": "OGL v1.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Type_45_Destroyer_HMS_Daring_Leaves_Portsmouth_for_First_Operational_Deployment_MOD_45153510.jpg/1280px-Type_45_Destroyer_HMS_Daring_Leaves_Portsmouth_for_First_Operational_Deployment_MOD_45153510.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Type_45_Destroyer_HMS_Daring_Leaves_Portsmouth_for_First_Operational_Deployment_MOD_45153510.jpg",
+      "width": 2712,
+      "height": 1804,
+      "title": "Type 45 Destroyer HMS Daring Leaves Portsmouth for First Operational Deployment MOD 45153510.jpg",
+      "description": "Type 45 destroyer HMS Daring leaves from Portsmouth for the Middle East, on the first ever operational deployment for the Royal Navy's newest class of vessel.\n<ul><li>Organization: ROYAL NAVY</li>\n<li",
+      "license": "OGL v1.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Type_45_Destroyer_HMS_Daring_Leaves_Portsmouth_for_First_Operational_Deployment_MOD_45153523.jpg/1280px-Type_45_Destroyer_HMS_Daring_Leaves_Portsmouth_for_First_Operational_Deployment_MOD_45153523.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Type_45_Destroyer_HMS_Daring_Leaves_Portsmouth_for_First_Operational_Deployment_MOD_45153523.jpg",
+      "width": 2709,
+      "height": 1806,
+      "title": "Type 45 Destroyer HMS Daring Leaves Portsmouth for First Operational Deployment MOD 45153523.jpg",
+      "description": "Type 45 destroyer HMS Daring leaves from Portsmouth for the Middle East, on the first ever operational deployment for the Royal Navy's newest class of vessel.\n<ul><li>Organization: ROYAL NAVY</li>\n<li",
+      "license": "OGL v1.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Type_45_Destroyer_HMS_Daring_Leaves_Portsmouth_for_First_Operational_Deployment_MOD_45153524.jpg/1280px-Type_45_Destroyer_HMS_Daring_Leaves_Portsmouth_for_First_Operational_Deployment_MOD_45153524.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Type_45_Destroyer_HMS_Daring_Leaves_Portsmouth_for_First_Operational_Deployment_MOD_45153524.jpg",
+      "width": 2709,
+      "height": 1806,
+      "title": "Type 45 Destroyer HMS Daring Leaves Portsmouth for First Operational Deployment MOD 45153524.jpg",
+      "description": "Type 45 destroyer HMS Daring leaves from Portsmouth for the Middle East, on the first ever operational deployment for the Royal Navy's newest class of vessel.\n<ul><li>Organization: ROYAL NAVY</li>\n<li",
+      "license": "OGL v1.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Type_45_Destroyer_HMS_Daring_in_Heavy_Seas_MOD_45153837.jpg/1280px-Type_45_Destroyer_HMS_Daring_in_Heavy_Seas_MOD_45153837.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Type_45_Destroyer_HMS_Daring_in_Heavy_Seas_MOD_45153837.jpg",
+      "width": 3055,
+      "height": 1602,
+      "title": "Type 45 Destroyer HMS Daring in Heavy Seas MOD 45153837.jpg",
+      "description": "Type 45 destroyer HMS Daring is pictured in heavy seas in the Middle East following the handover of patrol duties from HMS Argyll.\n<p>HMS Daring is the first of the Navy\u2019s six \u00a31bn Type 45 destroyers ",
+      "license": "OGL v1.0",
+      "source": "wikimedia"
+    }
+  ],
+  "doctrine": {
+    "role": "Provide fleet-level air defence against saturation anti-ship missile attacks while maintaining Britain's ability to deploy credible naval task groups in contested environments without reliance on allied air defence assets.",
+    "employment": "Typically deployed as the primary air defence coordinator for Carrier Strike Groups, amphibious task groups, or high-value convoy escorts. Operates in a layered defence concept with Type 23/26 frigates providing inner screening while the Type 45 engages threats at maximum range. Usually assigned as task group air defence commander due to superior radar picture and C2 capabilities. Single units also conduct independent operations in lower-threat environments where their presence provides deterrent value.",
+    "design_philosophy": "Prioritised maximum air defence capability over balanced multi-mission flexibility, sacrificing anti-submarine warfare depth and surface strike capability for unmatched area air defence. The designers accepted higher cost per hull to achieve technological superiority rather than building larger numbers of less capable platforms. Power and cooling systems were designed around the massive SAMPSON radar requirements, limiting space for other systems.",
+    "threat_context": "Originally designed to counter Soviet supersonic anti-ship missiles like SS-N-22 Sunburn in high-intensity fleet actions during the late Cold War period. The threat has evolved to include ballistic missiles, hypersonic weapons, and drone swarms, requiring software upgrades and new interceptor variants while the basic platform architecture remains relevant. Modern peer competitors have developed longer-range anti-ship missiles that challenge the Type 45's engagement envelope.",
+    "comparison_frame": "Compare primarily on radar detection range, simultaneous engagement capacity, and missile magazine depth rather than platform speed or endurance. All modern air defence destroyers achieve similar 29-30 knot speeds, so the critical metrics are sensor performance against low-observable targets and ability to engage multiple high-speed threats simultaneously. Magazine reload capability and network integration with allied systems are increasingly important factors."
+  },
+  "curated_sources": [
+    {
+      "title": "British Destroyers & Frigates: The Second World War & After by Norman Friedman",
+      "type": "book",
+      "url": "",
+      "relevance": "Provides comprehensive technical and doctrinal evolution context for Royal Navy surface combatants leading to the Type 45 program.",
+      "priority": "essential"
+    },
+    {
+      "title": "RUSI Defence Systems: Type 45 Destroyer Analysis",
+      "type": "report",
+      "url": "https://rusi.org/explore-our-research/publications/rusi-defence-systems",
+      "relevance": "Authoritative British defence analysis of Type 45 capabilities and operational employment from the UK's leading defence think tank.",
+      "priority": "essential"
+    },
+    {
+      "title": "Navy Recognition - Type 45 Technical Database",
+      "type": "database",
+      "url": "https://www.navyrecognition.com/index.php/naval-news/naval-news-archive/2020/october/8765-type-45-destroyer.html",
+      "relevance": "Comprehensive technical specifications and weapons systems details for the Daring-class destroyers.",
+      "priority": "recommended"
+    },
+    {
+      "title": "Think Defence - Type 45 Destroyer Analysis",
+      "type": "analyst",
+      "url": "https://www.thinkdefence.co.uk/type-45-destroyer/",
+      "relevance": "Detailed British military analyst perspective on Type 45 development, capabilities, and operational issues including the power plant problems.",
+      "priority": "essential"
+    },
+    {
+      "title": "Jane's Fighting Ships - Type 45 Daring Class",
+      "type": "database",
+      "url": "",
+      "relevance": "Standard reference for detailed technical specifications and weapons fit of the Type 45 class.",
+      "priority": "reference"
+    },
+    {
+      "title": "IISS Military Balance - UK Naval Forces",
+      "type": "report",
+      "url": "https://www.iiss.org/publications/the-military-balance",
+      "relevance": "Annual assessment of Type 45 operational status and Royal Navy force structure context.",
+      "priority": "recommended"
+    },
+    {
+      "title": "Congressional Research Service - Allied Contributions to Naval Operations",
+      "type": "report",
+      "url": "https://crsreports.congress.gov/search/results?searchTerms=allied+naval+forces",
+      "relevance": "US perspective on Type 45 capabilities and interoperability within NATO naval operations.",
+      "priority": "reference"
+    },
+    {
+      "title": "British Maritime Doctrine (BR 1806)",
+      "type": "report",
+      "url": "",
+      "relevance": "Official Royal Navy doctrine explaining how Type 45 destroyers fit into broader British maritime strategy and task group operations.",
+      "priority": "recommended"
+    }
+  ]
+}

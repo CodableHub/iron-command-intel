@@ -1,0 +1,325 @@
+{
+  "combat_history": [
+    {
+      "date": "2022-2024",
+      "operation": "Routine patrols",
+      "event": "Multiple Mogami-class vessels have conducted surveillance operations in the East China Sea, monitoring Chinese naval activities and conducting joint exercises with U.S. Navy ships.",
+      "significance": "Demonstrates operational integration with allied forces and validates sensor networking capabilities in contested waters"
+    }
+  ],
+  "modernization": [
+    {
+      "program": "Enhanced Network Integration",
+      "status": "in-progress",
+      "timeline": "2024-2027",
+      "description": "Integration of advanced data links and CEC capabilities to enhance interoperability with U.S. Navy and other JMSDF platforms",
+      "impact": "Transforms vessels into networked sensor nodes capable of extending engagement envelopes of other platforms"
+    },
+    {
+      "program": "Hypersonic Missile Integration",
+      "status": "planned",
+      "timeline": "2027-2030",
+      "description": "Potential integration of Japan's developing hypersonic anti-ship missiles to replace or supplement Type 17 SSMs",
+      "impact": "Significantly enhanced anti-ship capability against peer adversaries"
+    }
+  ],
+  "vulnerabilities": [
+    {
+      "area": "Light armament",
+      "description": "Only 16 VLS cells severely limits sustained combat capability and magazine depth compared to larger destroyers",
+      "context": "In high-intensity conflict against Chinese forces, limited missile inventory could be rapidly depleted",
+      "mitigation": "Emphasis on networking and coordinated engagement with other platforms to maximize effectiveness"
+    },
+    {
+      "area": "Crew automation dependency",
+      "description": "Heavy reliance on automated systems with minimal crew creates single points of failure and damage control limitations",
+      "context": "Battle damage could rapidly degrade capability with insufficient crew for manual backup operations",
+      "mitigation": "Enhanced damage control systems and redundancy built into critical automated functions"
+    },
+    {
+      "area": "Limited air defense",
+      "description": "Lacks long-range SAM capability, relying primarily on ESSM and SeaRAM for air defense",
+      "context": "Vulnerable to saturation attacks by Chinese anti-ship missiles and aircraft in contested scenarios",
+      "mitigation": "Designed to operate within umbrella of larger destroyers and shore-based air defense"
+    }
+  ],
+  "operational_patterns": {
+    "typical_deployment": "Regional patrol and ASW operations, often paired with larger destroyers or submarines",
+    "deployment_length_months": 3,
+    "key_operating_areas": [
+      "East China Sea",
+      "Sea of Japan",
+      "Western Pacific",
+      "Philippine Sea"
+    ],
+    "typical_task_group": "Operates with destroyer divisions or as part of escort flotillas",
+    "readiness_notes": "High automation allows for higher operational tempo but creates dependency on shore-based maintenance support"
+  },
+  "peer_comparisons": [
+    {
+      "platform": "Type 054A Jiangkai II-class",
+      "country": "China",
+      "relationship": "direct rival",
+      "key_differences": "Chinese frigate has 32 VLS cells vs 16, but Mogami has superior sensors and networking. Type 054A emphasizes quantity over individual capability.",
+      "video_angle": "David vs Goliath: Japan's tech-heavy approach versus China's numbers game in frigate design"
+    },
+    {
+      "platform": "Independence-class LCS",
+      "country": "United States",
+      "relationship": "allied equivalent",
+      "key_differences": "Mogami is more heavily armed and has better sensors, but LCS has greater speed and modularity. Both emphasize automation and reduced crews.",
+      "video_angle": "Allied approaches to modern frigate design: Japanese integration vs American flexibility"
+    },
+    {
+      "platform": "Admiral Gorshkov-class",
+      "country": "Russia",
+      "relationship": "regional competitor",
+      "key_differences": "Russian frigate has more VLS cells and longer range missiles, but Mogami has superior radar and electronic systems. Gorshkov emphasizes firepower over sensors.",
+      "video_angle": "Sensors vs Shooters: Japanese finesse meets Russian firepower in frigate design"
+    },
+    {
+      "platform": "FREMM",
+      "country": "France/Italy",
+      "relationship": "allied equivalent",
+      "key_differences": "FREMM is larger with more weapons but requires larger crew. Mogami prioritizes automation and cost-effectiveness over raw capability.",
+      "video_angle": "European tradition vs Japanese innovation in modern frigate concepts"
+    }
+  ],
+  "search_keywords": [
+    "mogami class",
+    "FFM",
+    "japan frigate",
+    "JMSDF frigate",
+    "mogami frigate",
+    "japanese navy",
+    "FCS-3A",
+    "type 17 ssm"
+  ],
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Conceptual_image_of_30FFM_by_MHI.png",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Conceptual_image_of_30FFM_by_MHI.png",
+      "width": 985,
+      "height": 474,
+      "title": "Conceptual image of 30FFM by MHI.png",
+      "description": "\u5e73\u6210\uff13\uff10\u5e74\u5ea6\u4ee5\u964d\u306e\u8b77\u885b\u8266\uff08\u65b0\u8266\u8247\uff09\u306b\u3064\u3044\u3066\u3001\u4e09\u83f1\u91cd\u5de5\u696d\u306b\u3088\u308b\u63d0\u6848\u56f3\u3002",
+      "license": "CC BY 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/91/JS_Mogami%EF%BC%88FFM-1%EF%BC%8901.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/91/JS_Mogami%EF%BC%88FFM-1%EF%BC%8901.jpg",
+      "width": 870,
+      "height": 580,
+      "title": "JS Mogami\uff08FFM-1\uff0901.jpg",
+      "description": "\u8b77\u885b\u8266\u3082\u304c\u307f\uff08FFM-1\uff09",
+      "license": "CC BY 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/JS_Mogami%EF%BC%88FFM-1%EF%BC%891.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/JS_Mogami%EF%BC%88FFM-1%EF%BC%891.jpg",
+      "width": 1279,
+      "height": 852,
+      "title": "JS Mogami\uff08FFM-1\uff091.jpg",
+      "description": "\u591a\u6a5f\u80fd\u8b77\u885b\u8266\uff08FFM\uff1aFrigate Multi-purpose/Mine\uff09\u300c\u3082\u304c\u307f\u578b\u300d\u306e1\u756a\u8266\u300c\u3082\u304c\u307f\u300d",
+      "license": "CC BY 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/79/JS_Mogami%EF%BC%88FFM-1%EF%BC%898.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/79/JS_Mogami%EF%BC%88FFM-1%EF%BC%898.jpg",
+      "width": 1279,
+      "height": 852,
+      "title": "JS Mogami\uff08FFM-1\uff098.jpg",
+      "description": "\u591a\u6a5f\u80fd\u8b77\u885b\u8266\uff08FFM\uff1aFrigate Multi-purpose/Mine\uff09\u300c\u3082\u304c\u307f\u578b\u300d\u306e1\u756a\u8266\u300c\u3082\u304c\u307f\u300d",
+      "license": "CC BY 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/JS_Mogami%EF%BC%88FFM-1%EF%BC%89entering_JMSDF_Yokosuka_Naval_Base.jpg/1280px-JS_Mogami%EF%BC%88FFM-1%EF%BC%89entering_JMSDF_Yokosuka_Naval_Base.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/24/JS_Mogami%EF%BC%88FFM-1%EF%BC%89entering_JMSDF_Yokosuka_Naval_Base.jpg",
+      "width": 1600,
+      "height": 1066,
+      "title": "JS Mogami\uff08FFM-1\uff09entering JMSDF Yokosuka Naval Base.jpg",
+      "description": "\u6a2a\u9808\u8cc0\u57fa\u5730\u306b\u5165\u6e2f\u3059\u308b\u8b77\u885b\u8266\u300c\u3082\u304c\u307f\u300d",
+      "license": "CC BY 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/JS_Mogami%EF%BC%88FFM-1%EF%BC%89under_review_at_the_International_Fleet_Review_2022.jpg/1280px-JS_Mogami%EF%BC%88FFM-1%EF%BC%89under_review_at_the_International_Fleet_Review_2022.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/9b/JS_Mogami%EF%BC%88FFM-1%EF%BC%89under_review_at_the_International_Fleet_Review_2022.jpg",
+      "width": 2000,
+      "height": 1333,
+      "title": "JS Mogami\uff08FFM-1\uff09under review at the International Fleet Review 2022.jpg",
+      "description": "\u4ee4\u548c4\u5e74\u5ea6\u56fd\u969b\u89b3\u8266\u5f0f\u306b\u304a\u3044\u3066\u89b3\u95b2\u3092\u53d7\u3051\u308b\u8b77\u885b\u8266\u300c\u3082\u304c\u307f\u300d",
+      "license": "CC BY 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/JS_Niyodo%EF%BC%88FFM-7%EF%BC%89Launching_ceremony_26_Sep_2023.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/JS_Niyodo%EF%BC%88FFM-7%EF%BC%89Launching_ceremony_26_Sep_2023.jpg",
+      "width": 1280,
+      "height": 853,
+      "title": "JS Niyodo\uff08FFM-7\uff09Launching ceremony 26 Sep 2023.jpg",
+      "description": "\u8b77\u885b\u8266\u300c\u306b\u3088\u3069\u300d\u306e\u547d\u540d\u30fb\u9032\u6c34\u5f0f",
+      "license": "CC BY 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Remote_weapon_system_of_Mogami-class_frigate.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Remote_weapon_system_of_Mogami-class_frigate.jpg",
+      "width": 1280,
+      "height": 853,
+      "title": "Remote weapon system of Mogami-class frigate.jpg",
+      "description": "\u3082\u304c\u307f\u578b\u8b77\u885b\u8266\u306b\u642d\u8f09\u3055\u308c\u305f\u6c34\u4e0a\u8266\u8247\u7528\u6a5f\u95a2\u9283\u67b6(\u9060\u9694\u64cd\u4f5c\u578b)\u306bM2\u91cd\u6a5f\u95a2\u9283\u304c\u53d6\u308a\u4ed8\u3051\u3089\u308c\u3066\u3044\u308b\u3002",
+      "license": "CC BY 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Admiral_SAITO_Akira%2CChief_of_Staff_of_the_JMSDF_and_Vice_Admiral_Mark_David_Hammond%2C_Chief_of_the_Royal_Australian_Navy%EF%BC%88onboard_the_JS_Kumano%29.jpg/1280px-Admiral_SAITO_Akira%2CChief_of_Staff_of_the_JMSDF_and_Vice_Admiral_Mark_David_Hammond%2C_Chief_of_the_Royal_Australian_Navy%EF%BC%88onboard_the_JS_Kumano%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/68/Admiral_SAITO_Akira%2CChief_of_Staff_of_the_JMSDF_and_Vice_Admiral_Mark_David_Hammond%2C_Chief_of_the_Royal_Australian_Navy%EF%BC%88onboard_the_JS_Kumano%29.jpg",
+      "width": 2475,
+      "height": 1650,
+      "title": "Admiral SAITO Akira,Chief of Staff of the JMSDF and Vice Admiral Mark David Hammond, Chief of the Royal Australian Navy\uff08onboard the JS Kumano).jpg",
+      "description": "\u9f4b\u85e4\u8061\u6d77\u4e0a\u5e55\u50da\u9577\u3068\u8c6a\u6d77\u8ecd\u672c\u90e8\u9577\u30de\u30fc\u30af\u30fb\u30cf\u30e2\u30f3\u30c9\u4e2d\u5c06\uff08\u8b77\u885b\u8266\u300c\u304f\u307e\u306e\u300d\u8266\u4e0a\uff09",
+      "license": "CC BY 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Balikatan_25-_USS_Savannah_%28LCS_28%29_Participates_in_MME_with_Japanese_Navy%2C_Philippine_Navy_and_Philippine_Coast_Guard_Ships_%289003839%29.jpg/1280px-Balikatan_25-_USS_Savannah_%28LCS_28%29_Participates_in_MME_with_Japanese_Navy%2C_Philippine_Navy_and_Philippine_Coast_Guard_Ships_%289003839%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/36/Balikatan_25-_USS_Savannah_%28LCS_28%29_Participates_in_MME_with_Japanese_Navy%2C_Philippine_Navy_and_Philippine_Coast_Guard_Ships_%289003839%29.jpg",
+      "width": 2100,
+      "height": 1400,
+      "title": "Balikatan 25- USS Savannah (LCS 28) Participates in MME with Japanese Navy, Philippine Navy and Philippine Coast Guard Ships (9003839).jpg",
+      "description": "The Independence-variant littoral combat ship USS Savannah (LCS 28), center front, participates in a multilateral maneuvering exercise with Whidbey Island-class dock landing ship USS Comstock (LSD 45)",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Balikatan_25-_USS_Savannah_%28LCS_28%29_Participates_in_MME_with_Japanese_Navy%2C_Philippine_Navy_and_Philippine_Coast_Guard_Ships_%289003840%29.jpg/1280px-Balikatan_25-_USS_Savannah_%28LCS_28%29_Participates_in_MME_with_Japanese_Navy%2C_Philippine_Navy_and_Philippine_Coast_Guard_Ships_%289003840%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/03/Balikatan_25-_USS_Savannah_%28LCS_28%29_Participates_in_MME_with_Japanese_Navy%2C_Philippine_Navy_and_Philippine_Coast_Guard_Ships_%289003840%29.jpg",
+      "width": 2100,
+      "height": 1180,
+      "title": "Balikatan 25- USS Savannah (LCS 28) Participates in MME with Japanese Navy, Philippine Navy and Philippine Coast Guard Ships (9003840).jpg",
+      "description": "The Independence-variant littoral combat ship USS Savannah (LCS 28), center front, participates in a multilateral maneuvering exercise with Whidbey Island-class dock landing ship USS Comstock (LSD 45)",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/FFM_-_Schild_Jm_Trierischen_Hof.jpg/1280px-FFM_-_Schild_Jm_Trierischen_Hof.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/0a/FFM_-_Schild_Jm_Trierischen_Hof.jpg",
+      "width": 3009,
+      "height": 619,
+      "title": "FFM - Schild Jm Trierischen Hof.jpg",
+      "description": "Intentional typo of the street sign of \"Im Trierischen Hof\" in the city of Frankfurt. According to a resident, <i>J</i> are used as uppercase <i>i</i> to differentiate them from lowercase <i>L</i>.",
+      "license": "CC0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/JS_Kumano_with_unmanned_surface_vessels_Ranger_and_Mariner.jpg/1280px-JS_Kumano_with_unmanned_surface_vessels_Ranger_and_Mariner.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/JS_Kumano_with_unmanned_surface_vessels_Ranger_and_Mariner.jpg",
+      "width": 7536,
+      "height": 5024,
+      "title": "JS Kumano with unmanned surface vessels Ranger and Mariner.jpg",
+      "description": "The unmanned surface vessels Ranger and Mariner steam alongside the Mogami-class frigate JS Kumano (FFM-2), of the Japanese Maritime Self-Defense Force, during a photo exercise as part of Integrated B",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/JS_Noshiro%EF%BC%88FFM-3%EF%BC%89_conducted_a_Japan-UK-Australia_trilateral_exercise_with_Royal_Navy_HMS_Tamar_%28P233%29_and_Royal_Australian_Navy_HMAS_Choules_%28L100%29.jpg/1280px-JS_Noshiro%EF%BC%88FFM-3%EF%BC%89_conducted_a_Japan-UK-Australia_trilateral_exercise_with_Royal_Navy_HMS_Tamar_%28P233%29_and_Royal_Australian_Navy_HMAS_Choules_%28L100%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/07/JS_Noshiro%EF%BC%88FFM-3%EF%BC%89_conducted_a_Japan-UK-Australia_trilateral_exercise_with_Royal_Navy_HMS_Tamar_%28P233%29_and_Royal_Australian_Navy_HMAS_Choules_%28L100%29.jpg",
+      "width": 3840,
+      "height": 2160,
+      "title": "JS Noshiro\uff08FFM-3\uff09 conducted a Japan-UK-Australia trilateral exercise with Royal Navy HMS Tamar (P233) and Royal Australian Navy HMAS Choules (L100).jpg",
+      "description": "\u5357\u592a\u5e73\u6d0b\u306b\u304a\u3044\u3066\u3001\u65e5\u82f1\u8c6a\u5171\u540c\u8a13\u7df4\u3092\u5b9f\u65bd\u4e2d\u306e\u6d77\u4e0a\u81ea\u885b\u968a\u8b77\u885b\u8266\u300c\u306e\u3057\u308d\u300d\u3068\u82f1\u6d77\u8ecd\u54e8\u6212\u8266\u300c\u30c6\u30a4\u30de\u30fc\u300d\u53ca\u3073\u8c6a\u6d77\u8ecd\u63da\u9678\u8266\u300c\u30c1\u30e7\u30fc\u30eb\u30ba\u300d",
+      "license": "CC BY 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/USS_Ronald_Reagan_%28CVN_76%29_steams_in_formation_with_guided-missile_cruiser_USS_Antietam_%28CG_54%29%2C_JMSDF_destroyer_JS_Yuudachi_%28DD_103%29_and_JMSDF_frigate_JS_Noshiro_%28FFM_3%29_%288058648%29.jpg/1280px-thumbnail.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/e9/USS_Ronald_Reagan_%28CVN_76%29_steams_in_formation_with_guided-missile_cruiser_USS_Antietam_%28CG_54%29%2C_JMSDF_destroyer_JS_Yuudachi_%28DD_103%29_and_JMSDF_frigate_JS_Noshiro_%28FFM_3%29_%288058648%29.jpg",
+      "width": 6457,
+      "height": 4126,
+      "title": "USS Ronald Reagan (CVN 76) steams in formation with guided-missile cruiser USS Antietam (CG 54), JMSDF destroyer JS Yuudachi (DD 103) and JMSDF frigate JS Noshiro (FFM 3) (8058648).jpg",
+      "description": "231004-N-IK052-1091 PHILIPPINE SEA (Oct. 4, 2023) The U.S. Navy\u2019s only forward-deployed aircraft carrier, USS Ronald Reagan (CVN 76), steams in the Philippine Sea, Oct. 4. Ronald Reagan, the flagship ",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/%E6%B5%B7%E4%B8%8A%E8%87%AA%E8%A1%9B%E9%9A%8A_%E8%AD%B7%E8%A1%9B%E8%89%A6%E3%82%82%E3%81%8C%E3%81%BF_FFM-1.3.jpg/1280px-%E6%B5%B7%E4%B8%8A%E8%87%AA%E8%A1%9B%E9%9A%8A_%E8%AD%B7%E8%A1%9B%E8%89%A6%E3%82%82%E3%81%8C%E3%81%BF_FFM-1.3.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/3c/%E6%B5%B7%E4%B8%8A%E8%87%AA%E8%A1%9B%E9%9A%8A_%E8%AD%B7%E8%A1%9B%E8%89%A6%E3%82%82%E3%81%8C%E3%81%BF_FFM-1.3.jpg",
+      "width": 7008,
+      "height": 4672,
+      "title": "\u6d77\u4e0a\u81ea\u885b\u968a \u8b77\u885b\u8266\u3082\u304c\u307f FFM-1.3.jpg",
+      "description": "\u5c31\u5f79\u5f8c\u4f50\u4e16\u4fdd\u6e2f\u5165\u6e2f\u4e2d",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    }
+  ],
+  "doctrine": {
+    "role": "Multi-mission sea control within Japan's expanded defense perimeter, bridging the capability gap between destroyers and patrol vessels while enabling distributed operations across the first island chain.",
+    "employment": "Typically deployed in small task groups of 2-3 FFMs with ASW helicopter support, conducting extended patrols in the East China Sea and approaches to key straits. Often operates independently or with a single Aegis destroyer for area air defense, leveraging high automation to maintain presence with reduced crew rotations. Integrates into JMSDF's layered ASW screen while providing flexible response to gray-zone operations and maritime intrusions.",
+    "design_philosophy": "Prioritized automation and multi-mission flexibility over traditional frigate specialization, accepting reduced crew comfort and magazine depth to achieve cost targets under \u00a550 billion per hull. Sacrificed dedicated ASW helicopter facilities for modular mission bays, trading proven systems integration for adaptability to evolving threat requirements.",
+    "threat_context": "Designed primarily for China's expanding submarine fleet and gray-zone operations in the 2010s, but threat evolution toward hypersonic missiles and massed drone attacks has exposed limitations in magazine depth and air defense integration. The platform's modular design provides some adaptation potential, but core architecture reflects pre-2020 threat assumptions.",
+    "comparison_frame": "Compare on automation levels and crew efficiency rather than raw firepower\u2014both Mogami and European equivalents accept reduced VLS capacity for operational sustainability. Focus on ASW sensor integration and helicopter operations, where design philosophies diverge significantly between navies facing different submarine threats."
+  },
+  "curated_sources": [
+    {
+      "title": "Modern Warships: The Design, Development and Operations",
+      "type": "book",
+      "url": "",
+      "relevance": "Friedman provides essential context on frigate design evolution and the automation trade-offs that define the Mogami class.",
+      "priority": "essential"
+    },
+    {
+      "title": "Japan's Growing Maritime Capabilities and Roles",
+      "type": "report",
+      "url": "https://crsreports.congress.gov/product/pdf/R/R46781",
+      "relevance": "CRS report by O'Rourke analyzing JMSDF modernization including detailed Mogami-class procurement and strategic rationale.",
+      "priority": "essential"
+    },
+    {
+      "title": "Japan Maritime Self-Defense Force Ship Data",
+      "type": "database",
+      "url": "https://www.seaforces.org/marint/Japan-Maritime-Self-Defense-Force/",
+      "relevance": "Comprehensive technical specifications and fleet status updates for all JMSDF platforms including Mogami-class variants.",
+      "priority": "recommended"
+    },
+    {
+      "title": "RUSI Defence Systems: Japanese Naval Modernisation",
+      "type": "analyst",
+      "url": "https://rusi.org/",
+      "relevance": "Regular analysis of JMSDF capability development and operational employment patterns in regional context.",
+      "priority": "recommended"
+    },
+    {
+      "title": "CSIS Japan Chair Maritime Security Analysis",
+      "type": "analyst",
+      "url": "https://www.csis.org/programs/japan-chair",
+      "relevance": "Leading open-source analysis on Japanese defense modernization and naval strategy including FFM program assessment.",
+      "priority": "recommended"
+    },
+    {
+      "title": "Jane's Fighting Ships - Mogami Class Entry",
+      "type": "database",
+      "url": "",
+      "relevance": "Authoritative technical analysis and comparison framework for evaluating Mogami against international frigate designs.",
+      "priority": "reference"
+    },
+    {
+      "title": "JMSDF Fleet Review and Maritime Strategy",
+      "type": "report",
+      "url": "https://www.mod.go.jp/msdf/en/",
+      "relevance": "Official JMSDF doctrinal publications outlining operational concepts and strategic employment of new frigate capabilities.",
+      "priority": "reference"
+    },
+    {
+      "title": "Naval War College Review: Japanese Maritime Strategy",
+      "type": "article",
+      "url": "https://digital-commons.usnwc.edu/nwc-review/",
+      "relevance": "Academic analysis of JMSDF doctrinal evolution and how platforms like Mogami fit into broader deterrence strategy.",
+      "priority": "reference"
+    }
+  ]
+}

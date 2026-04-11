@@ -1,0 +1,102 @@
+{
+  "combat_history": [
+    {
+      "date": "2006-2024",
+      "operation": "Various Iranian naval exercises",
+      "event": "Participated in multiple Iranian naval exercises and demonstrations, primarily for propaganda purposes. No confirmed combat deployments or engagements.",
+      "significance": "Demonstrates Iran's attempt to project submarine capability, though operational readiness remains questionable"
+    }
+  ],
+  "modernization": [
+    {
+      "program": "Potential systems upgrade",
+      "status": "uncertain",
+      "timeline": "Unknown",
+      "description": "Iran has made various claims about upgrading the Nahang's systems, but details are unverified and likely exaggerated.",
+      "impact": "Minimal - Iran appears to have moved focus to newer Fateh-class submarines"
+    }
+  ],
+  "vulnerabilities": [
+    {
+      "area": "Limited operational capability",
+      "description": "Extremely limited range, endurance, and sensors make it vulnerable to detection and ineffective beyond coastal waters",
+      "context": "Modern anti-submarine warfare capabilities of regional navies would likely detect and neutralize this platform quickly",
+      "mitigation": "Iran has focused on developing more capable Fateh and Besat-class submarines"
+    },
+    {
+      "area": "Technological limitations",
+      "description": "Basic systems, likely outdated battery technology, and limited manufacturing quality control",
+      "context": "Iran's industrial base limitations mean the submarine likely suffers from reliability and performance issues",
+      "mitigation": "Limited by Iran's access to advanced submarine technology due to sanctions"
+    },
+    {
+      "area": "Single unit vulnerability",
+      "description": "Only one submarine built suggests design flaws or production challenges",
+      "context": "Lack of series production indicates the platform was likely unsuccessful",
+      "mitigation": "Iran moved to different designs rather than producing additional Nahang units"
+    }
+  ],
+  "operational_patterns": {
+    "typical_deployment": "Coastal patrol and training missions in Persian Gulf",
+    "deployment_length_months": 1,
+    "key_operating_areas": [
+      "Persian Gulf coastal waters",
+      "Strait of Hormuz approaches"
+    ],
+    "typical_task_group": "Operates independently or with Iranian fast attack craft",
+    "readiness_notes": "Operational status uncertain - likely limited by maintenance challenges and crew training"
+  },
+  "peer_comparisons": [
+    {
+      "platform": "Yono-class submarine",
+      "country": "North Korea",
+      "relationship": "likely predecessor/technology source",
+      "key_differences": "Nahang appears to be based on or heavily influenced by North Korean Yono design, with possible Iranian modifications. Both are small coastal submarines with similar limitations.",
+      "video_angle": "Comparing Iran's submarine ambitions to North Korean technology transfer and regional submarine proliferation"
+    },
+    {
+      "platform": "Type 209 submarine",
+      "country": "Germany (various operators)",
+      "relationship": "regional comparison",
+      "key_differences": "Type 209 is a true conventional submarine with global range and modern systems, highlighting the Nahang's severe capability limitations. Shows the gap between Iranian and conventional submarine technology.",
+      "video_angle": "Comparing Iranian submarine capabilities to established conventional submarine designs in regional navies"
+    },
+    {
+      "platform": "Dolphin-class submarine",
+      "country": "Israel",
+      "relationship": "regional rival",
+      "key_differences": "Dolphin-class represents state-of-the-art conventional submarine technology with alleged nuclear capability, completely outclassing the Nahang in every category.",
+      "video_angle": "Regional submarine balance and how Iran's submarine programs compare to Israeli naval capabilities"
+    }
+  ],
+  "search_keywords": [
+    "nahang submarine",
+    "iranian submarine",
+    "iran navy submarine",
+    "nahang class",
+    "iranian midget submarine",
+    "IRIN submarine"
+  ],
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/fe/2022_Sacred_Defence_Week_exhibition_in_Bandar_Abbas_%2804%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/fe/2022_Sacred_Defence_Week_exhibition_in_Bandar_Abbas_%2804%29.jpg",
+      "width": 800,
+      "height": 557,
+      "title": "2022 Sacred Defence Week exhibition in Bandar Abbas (04).jpg",
+      "description": "\u0646\u0645\u0627\u06cc\u0634\u06af\u0627\u0647 \u062f\u0633\u062a\u0627\u0648\u0631\u062f\u0647\u0627\u06cc \u062f\u0641\u0627\u0639\u06cc \u0648 \u0646\u0638\u0627\u0645\u06cc \u0646\u06cc\u0631\u0648\u0647\u0627\u06cc \u0645\u0633\u0644\u062d \u062f\u0631 \u0633\u0627\u062d\u0644 \u0628\u0646\u062f\u0631\u0639\u0628\u0627\u0633 \u0627\u0632 \u0631\u0648\u0632 \u06af\u0630\u0634\u062a\u0647 \u0628\u0631\u067e\u0627 \u0634\u062f\u0647 \u0648 \u0647\u0645\u0647 \u0631\u0648\u0632\u0647 \u062a\u0627 \u067e\u0627\u06cc\u0627\u0646 \u0647\u0641\u062a\u0647 \u062f\u0641\u0627\u0639 \u0645\u0642\u062f\u0633 \u067e\u0630\u06cc\u0631\u0627\u06cc \u0645\u0631\u062f\u0645 \u062e\u0648\u0627\u0647\u062f \u0628\u0648\u062f.",
+      "license": "CC BY 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/93/IRIS_921_Nahang_submarine_model.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/93/IRIS_921_Nahang_submarine_model.jpg",
+      "width": 719,
+      "height": 306,
+      "title": "IRIS 921 Nahang submarine model.jpg",
+      "description": "\u0646\u0645\u0627\u06cc\u0634\u06af\u0627\u0647 \u062f\u0633\u062a\u0627\u0648\u0631\u062f\u0647\u0627\u06cc \u062f\u0641\u0627\u0639\u06cc \u0648 \u0646\u0638\u0627\u0645\u06cc \u0646\u06cc\u0631\u0648\u0647\u0627\u06cc \u0645\u0633\u0644\u062d \u062f\u0631 \u0633\u0627\u062d\u0644 \u0628\u0646\u062f\u0631\u0639\u0628\u0627\u0633 \u0627\u0632 \u0631\u0648\u0632 \u06af\u0630\u0634\u062a\u0647 \u0628\u0631\u067e\u0627 \u0634\u062f\u0647 \u0648 \u0647\u0645\u0647 \u0631\u0648\u0632\u0647 \u062a\u0627 \u067e\u0627\u06cc\u0627\u0646 \u0647\u0641\u062a\u0647 \u062f\u0641\u0627\u0639 \u0645\u0642\u062f\u0633 \u067e\u0630\u06cc\u0631\u0627\u06cc \u0645\u0631\u062f\u0645 \u062e\u0648\u0627\u0647\u062f \u0628\u0648\u062f.",
+      "license": "CC BY 4.0",
+      "source": "wikimedia"
+    }
+  ]
+}

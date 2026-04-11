@@ -1,0 +1,435 @@
+{
+  "id": 21,
+  "slug": "type-055-renhai-class-destroyer",
+  "name": "Type 055 Renhai-class destroyer",
+  "designation": "Type 055",
+  "type": "destroyer",
+  "country": "China",
+  "operator": "People's Liberation Army Navy (PLAN)",
+  "overview_md": "The Type 055 Renhai-class destroyer represents China's most advanced surface combatant and arguably the world's most capable destroyer currently in service. With its 13,000-ton displacement, it's technically a cruiser-sized platform that the PLAN designates as a destroyer, reflecting China's strategic messaging about its naval expansion. The Type 055 was designed as a multi-mission platform capable of air defense, anti-surface warfare, anti-submarine warfare, and land attack \u2014 serving as both an escort for Chinese carrier strike groups and as an independent power projection asset.\n\nStrategically, the Type 055 represents China's arrival as a blue-water naval power capable of challenging U.S. naval dominance in the Western Pacific and beyond. Its 112-cell VLS system can accommodate a full spectrum of Chinese missiles including the YJ-18 anti-ship missile, HHQ-9B long-range SAMs, and potentially the DF-21D anti-ship ballistic missile. The integrated mast design houses sophisticated phased-array radars and electronic warfare systems, giving it sensor capabilities that rival or exceed most Western destroyers.\n\nThe platform's design philosophy emphasizes stealth, automation, and multi-domain warfare capabilities. With a crew of only 310 personnel managing a ship larger than most cruisers, the Type 055 demonstrates China's advances in naval automation and damage control systems. Its dual-band radar configuration and comprehensive electronic warfare suite make it a formidable opponent in contested electromagnetic environments.\n\nIn the current threat environment, the Type 055 fundamentally alters the naval balance in the Indo-Pacific. Its long-range sensors and missiles extend China's anti-access/area-denial (A2/AD) bubble well beyond the first island chain, complicating U.S. and allied naval operations. Compared to peers like the Arleigh Burke Flight III or Type 45, the Type 055 carries significantly more missiles and has superior long-range strike capabilities, though questions remain about its combat systems integration and crew training standards.",
+  "specs_json": {
+    "displacement_tonnes": 13000,
+    "length_m": 180,
+    "beam_m": 20,
+    "draft_m": 6.6,
+    "speed_knots": 30,
+    "range_nm": 5000,
+    "crew": 310,
+    "propulsion": "COGAG (4x QC-280 gas turbines), 150MW total power",
+    "radar": "Type 346B S-band AESA, Type 517M L-band early warning",
+    "sonar": "Type 7503 hull-mounted sonar, towed array sonar",
+    "combat_system": "Integrated Combat Management System (H/ZBJ-1)",
+    "vls_cells": 112,
+    "additional": {
+      "ew_suite": "Type 726-4 electronic warfare system",
+      "data_link": "HN-900 tactical data link",
+      "helicopter_capacity": "2x Z-20F or Ka-28",
+      "stealth_features": "Radar cross-section reduction design"
+    }
+  },
+  "armament_json": [
+    {
+      "category": "Missiles",
+      "name": "Universal VLS",
+      "type": "multi-role VLS",
+      "quantity": "112 cells",
+      "range_km": 500,
+      "notes": "Can accommodate HHQ-9B SAM, YJ-18 AShM, CJ-10 LACM, Yu-8 ASW missiles"
+    },
+    {
+      "category": "Guns",
+      "name": "H/PJ-38",
+      "type": "naval gun",
+      "quantity": "1x 130mm",
+      "range_km": 29,
+      "notes": "Single-barrel, 40 rounds/min"
+    },
+    {
+      "category": "CIWS",
+      "name": "H/PJ-11",
+      "type": "close-in weapons system",
+      "quantity": "1x 11-barrel 30mm",
+      "range_km": 3,
+      "notes": "Gatling gun system, 10,000 rounds/min"
+    },
+    {
+      "category": "CIWS",
+      "name": "HQ-10",
+      "type": "point defense missile",
+      "quantity": "24 missiles",
+      "range_km": 10,
+      "notes": "RAM-equivalent short-range interceptor"
+    },
+    {
+      "category": "ASW",
+      "name": "Triple torpedo tubes",
+      "type": "anti-submarine torpedo",
+      "quantity": "2x 3-tube launchers",
+      "range_km": 50,
+      "notes": "Yu-7 lightweight torpedoes"
+    }
+  ],
+  "variants_json": [
+    {
+      "name": "Type 055",
+      "designation_range": "101-108 (currently known hulls)",
+      "years": "2020-present",
+      "count": 8,
+      "key_changes": "Initial production variant with Type 346B radar, 112-cell VLS, comprehensive sensor suite",
+      "status": "active"
+    }
+  ],
+  "fleet_status_json": [
+    {
+      "hull_number": "101",
+      "name": "Nanchang",
+      "variant": "Type 055",
+      "commissioned": "2020-01-12",
+      "home_port": "Qingdao",
+      "status": "active"
+    },
+    {
+      "hull_number": "102",
+      "name": "Lhasa",
+      "variant": "Type 055",
+      "commissioned": "2021-03-02",
+      "home_port": "Qingdao",
+      "status": "active"
+    },
+    {
+      "hull_number": "103",
+      "name": "Anshan",
+      "variant": "Type 055",
+      "commissioned": "2021-04-23",
+      "home_port": "Dalian",
+      "status": "active"
+    },
+    {
+      "hull_number": "104",
+      "name": "Wuxi",
+      "variant": "Type 055",
+      "commissioned": "2021-12-26",
+      "home_port": "Dalian",
+      "status": "active"
+    },
+    {
+      "hull_number": "105",
+      "name": "Dalian",
+      "variant": "Type 055",
+      "commissioned": "2022-04-11",
+      "home_port": "Sanya",
+      "status": "active"
+    },
+    {
+      "hull_number": "106",
+      "name": "Yan'an",
+      "variant": "Type 055",
+      "commissioned": "2022-04-11",
+      "home_port": "Sanya",
+      "status": "active"
+    },
+    {
+      "hull_number": "107",
+      "name": "Zunyi",
+      "variant": "Type 055",
+      "commissioned": "2022-07-17",
+      "home_port": "Qingdao",
+      "status": "active"
+    },
+    {
+      "hull_number": "108",
+      "name": "Xianyang",
+      "variant": "Type 055",
+      "commissioned": "2022-12-26",
+      "home_port": "Dalian",
+      "status": "active"
+    }
+  ],
+  "cost_usd": 900000000.0,
+  "unit_count": 8,
+  "first_commissioned": "2020-01-12",
+  "builder": "Jiangnan Shipyard, Dalian Shipyard",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/21/PLANS_Nanchang_%28DDG-101%29_20211021.jpg",
+  "wiki_url": "https://en.wikipedia.org/wiki/Type_055_destroyer",
+  "sources_json": [
+    "https://en.wikipedia.org/wiki/Type_055_destroyer",
+    "https://www.navy.mil/Resources/Fact-Files/",
+    "https://www.janes.com/defence-news",
+    "https://www.usni.org/magazines/proceedings"
+  ],
+  "comparison_tags": [
+    "destroyer",
+    "chinese-navy",
+    "vls",
+    "aesa-radar",
+    "blue-water",
+    "carrier-escort",
+    "anti-ship",
+    "area-defense"
+  ],
+  "created_at": "2026-04-10 19:45:17",
+  "updated_at": "2026-04-10T19:45:17.944378",
+  "news": [],
+  "events": [],
+  "ic_coverage": [],
+  "combat_history": [
+    {
+      "date": "2021-04",
+      "operation": "South China Sea Operations",
+      "event": "Multiple Type 055s conducted freedom of navigation challenges against U.S. Navy operations, demonstrating advanced tracking and shadowing capabilities.",
+      "significance": "First operational deployment showed the platform's sensor range and ability to maintain contact with U.S. surface action groups at extended distances."
+    },
+    {
+      "date": "2022-08",
+      "operation": "Taiwan Strait Crisis",
+      "event": "Type 055 destroyers participated in live-fire missile exercises following Speaker Pelosi's Taiwan visit, launching various missile types from VLS cells.",
+      "significance": "Demonstrated operational missile launch capabilities and integration of multiple weapon systems in high-tension environment."
+    },
+    {
+      "date": "2023-05",
+      "operation": "Western Pacific Transit",
+      "event": "Nanchang (101) transited through Miyako Strait with carrier Shandong, marking first Type 055 passage through key chokepoint.",
+      "significance": "Showcased platform's role in extending Chinese naval reach beyond first island chain and carrier escort capabilities."
+    }
+  ],
+  "modernization": [
+    {
+      "program": "Type 055A Development",
+      "status": "planned",
+      "timeline": "2025-2030",
+      "description": "Improved variant reportedly featuring enhanced radar systems, possible integration of hypersonic missiles, and upgraded electronic warfare suite.",
+      "impact": "Would maintain technological edge over emerging Western destroyer upgrades and extend missile strike range significantly."
+    },
+    {
+      "program": "Hypersonic Weapon Integration",
+      "status": "in-progress",
+      "timeline": "2023-2025",
+      "description": "Integration of DF-21D anti-ship ballistic missiles and potentially DF-ZF hypersonic glide vehicles into VLS cells.",
+      "impact": "Would provide unprecedented long-range precision strike capability against high-value naval targets."
+    }
+  ],
+  "vulnerabilities": [
+    {
+      "area": "Combat System Integration",
+      "description": "While technically advanced, the integrated combat system lacks the decades of refinement seen in Aegis. Sensor fusion and multi-target engagement capabilities remain largely untested in complex electromagnetic warfare environments.",
+      "context": "Against sophisticated EW threats from U.S./allied forces, system performance under jamming is questionable.",
+      "mitigation": "PLAN conducting extensive training exercises and reportedly receiving technical assistance from Russian naval systems experts."
+    },
+    {
+      "area": "Crew Training and Doctrine",
+      "description": "PLAN crews have limited blue-water operational experience compared to U.S. Navy counterparts. Damage control and multi-domain warfare tactics are still developing.",
+      "context": "In sustained high-intensity naval combat, crew experience becomes critical for survivability and mission effectiveness.",
+      "mitigation": "Increased deployment tempo and joint exercises with Russian Navy to gain operational experience."
+    },
+    {
+      "area": "Supply Chain Dependencies",
+      "description": "Key components including advanced semiconductors, precision manufacturing for radar systems, and specialized alloys still rely partially on foreign suppliers vulnerable to sanctions.",
+      "context": "Extended conflict could limit maintenance capabilities and production of replacement systems.",
+      "mitigation": "Massive investment in domestic semiconductor and advanced manufacturing capabilities through civil-military fusion programs."
+    }
+  ],
+  "operational_patterns": {
+    "typical_deployment": "Carrier strike group escort, independent surface action groups, territorial defense patrols",
+    "deployment_length_months": 4,
+    "key_operating_areas": [
+      "South China Sea",
+      "East China Sea",
+      "Western Pacific",
+      "Indian Ocean"
+    ],
+    "typical_task_group": "Operates with Type 052D destroyers, Type 054A frigates, and supply ships in surface action groups",
+    "readiness_notes": "High operational tempo with multiple hulls regularly at sea; maintenance performed at Dalian and Shanghai facilities"
+  },
+  "peer_comparisons": [
+    {
+      "platform": "Arleigh Burke Flight III",
+      "country": "United States",
+      "relationship": "direct rival",
+      "key_differences": "Type 055 carries 16 more VLS cells and has larger displacement, but Flight III has more mature Aegis combat system and proven crew training. Type 055 emphasizes stealth and automation while Burke prioritizes proven reliability.",
+      "video_angle": "David vs Goliath: Can American experience overcome Chinese technological advancement?"
+    },
+    {
+      "platform": "Type 45 Daring-class",
+      "country": "United Kingdom",
+      "relationship": "technological peer",
+      "key_differences": "Type 45 has superior air defense radar (SAMPSON) but carries far fewer missiles (48 vs 112 cells). Type 055 is larger, more automated, and has better land-attack capability. Both emphasize advanced sensors over missile quantity.",
+      "video_angle": "Quality vs Quantity: British precision engineering versus Chinese mass production philosophy"
+    },
+    {
+      "platform": "Sejong the Great-class",
+      "country": "South Korea",
+      "relationship": "regional rival",
+      "key_differences": "Korean destroyer uses proven Aegis system with 128 VLS cells, but older design philosophy and less stealth features. Type 055 more modern but unproven in combat. Similar displacement and multi-mission capability.",
+      "video_angle": "East Asian naval arms race: Allied tech versus indigenous Chinese development"
+    },
+    {
+      "platform": "Admiral Gorshkov-class",
+      "country": "Russia",
+      "relationship": "allied equivalent",
+      "key_differences": "Russian frigate smaller (4,500 tons vs 13,000) but carries advanced Tsirkon hypersonic missiles. Type 055 larger sensor suite and more missiles but conventional weapons. Different naval philosophy: Russian long-range precision vs Chinese area control.",
+      "video_angle": "Allied approaches: Russian missile technology versus Chinese integrated warfare systems"
+    },
+    {
+      "platform": "Atago-class",
+      "country": "Japan",
+      "relationship": "regional rival",
+      "key_differences": "Japanese destroyer uses Aegis baseline 7 with 96 VLS cells, smaller but proven combat system. Type 055 larger, more modern sensors, but Atago benefits from U.S. integration and training. Both designed for area air defense in contested Pacific environment.",
+      "video_angle": "Island chain defenders: Japanese-American cooperation versus Chinese naval expansion"
+    }
+  ],
+  "search_keywords": [
+    "type 055",
+    "type055",
+    "renhai class",
+    "renhai-class",
+    "chinese destroyer",
+    "PLAN destroyer",
+    "nanchang destroyer",
+    "055 destroyer",
+    "china navy destroyer",
+    "PLA navy type 055"
+  ],
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/49/Chinese_Hypersonic_Gliding_Vehicle.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/49/Chinese_Hypersonic_Gliding_Vehicle.jpg",
+      "width": 720,
+      "height": 667,
+      "title": "Chinese Hypersonic Gliding Vehicle.jpg",
+      "description": "One of the Chinese hypersonic gliding vehicle projects. Its configration was first exposed by Military Report on <a href=\"https://en.wikipedia.org/wiki/CCTV-7\" class=\"extiw\" title=\"en:CCTV-7\">CCTV-7</",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/PLANS_Nanchang_%28DDG-101%29_20210427.jpg/1280px-PLANS_Nanchang_%28DDG-101%29_20210427.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/7e/PLANS_Nanchang_%28DDG-101%29_20210427.jpg",
+      "width": 1489,
+      "height": 454,
+      "title": "PLANS Nanchang (DDG-101) 20210427.jpg",
+      "description": "\uff14\u6708\uff12\uff16\u65e5\uff08\u6708\uff09\u5348\u5f8c\uff17\u6642\u9803\u3001\u6d77\u4e0a\u81ea\u885b\u968a\u306f\u3001\u5bae\u53e4\u5cf6\u306e\u5357\u7d04\uff11\uff16\uff10\uff4b\uff4d\u306e\u6d77\u57df\u306b\u304a\u3044\u3066\u3001\u540c\u6d77\u57df\u3092\u5317\u6771\u9032\u3059\u308b\u4e2d\u56fd\u6d77\u8ecd\u30af\u30ba\u30cd\u30c4\u30a9\u30d5\u7d1a\u7a7a\u6bcd\u300c\u907c\u5be7\u300d\uff11\u96bb\u3001\u30ec\u30f3\u30cf\u30a4\u7d1a\u30df\u30b5\u30a4\u30eb\u99c6\u9010\u8266\uff11\u96bb\u3001\u30eb\u30fc\u30e4\u30f3\u2162\u7d1a\u30df\u30b5\u30a4\u30eb\u99c6\u9010\u8266\uff12\u96bb\u3001\u30b8\u30e3\u30f3\u30ab\u30a4\u2161\u7d1a\u30d5\u30ea\u30b2\u30fc\u30c8\uff11\u96bb\u53ca\u3073\u30d5\u30e6\u7d1a\u9ad8\u901f\u6226\u95d8\u652f\u63f4\u8266\uff11\u96bb\u306e\u8a08\uff16\u96bb\u3092\u78ba\u8a8d\u3057\u305f\u3002\n<p>\u305d\u306e\u5f8c\u3001\u3053\u308c\u3089\u306e\u8266\u8247\u304c\u6c96\u7e04\u672c\u5cf6\u3068\u5bae\u53e4\u5cf6\u306e\u9593\u306e\u6d77\u57df\u3092\u5317\u4e0a\u3057\u3001\u6771\u30b7\u30ca\u6d77\u3078\u5411\u3051\u3066\u822a\u884c\u3057\u305f\u3053\u3068\u3092\u78ba\u8a8d\u3057\u305f\u3002\n</p><p>\u306a",
+      "license": "CC BY 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/21/PLANS_Nanchang_%28DDG-101%29_20211021.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/21/PLANS_Nanchang_%28DDG-101%29_20211021.jpg",
+      "width": 1196,
+      "height": 405,
+      "title": "PLANS Nanchang (DDG-101) 20211021.jpg",
+      "description": "\uff11\uff10\u6708\uff11\uff18\u65e5\uff08\u6708\uff09\u5348\u5f8c\uff16\u6642\u9803\u3001\u6d77\u4e0a\u81ea\u885b\u968a\u306f\u3001\u6d25\u8efd\u6d77\u5ce1\u3092\u901a\u904e\u3057\u305f\u4e2d\u56fd\u6d77\u8ecd\u30ec\u30f3\u30cf\u30a4\u7d1a\u30df\u30b5\u30a4\u30eb\u99c6\u9010\u8266\uff11\u96bb\u3001\u30eb\u30fc\u30e4\u30f3\u2162\u7d1a\u30df\u30b5\u30a4\u30eb\u99c6\u9010\u8266\uff11\u96bb\u3001\u30b8\u30e3\u30f3\u30ab\u30a4\u2161\u7d1a\u30d5\u30ea\u30b2\u30fc\u30c8\uff12\u96bb\u53ca\u3073\u30d5\u30c1\u7d1a\u88dc\u7d66\u8266\uff11\u96bb\u4e26\u3073\u306b\u30ed\u30b7\u30a2\u6d77\u8ecd\u30a6\u30c0\u30ed\u30a4\u2160\u7d1a\u99c6\u9010\u8266\uff12\u96bb\u3001\u30b9\u30c6\u30ec\u30b0\u30b7\u30c1\u30fc\u7d1a\u30d5\u30ea\u30b2\u30fc\u30c8\uff12\u96bb\u53ca\u3073\u30de\u30eb\u30b7\u30e3\u30eb\u30fb\u30cd\u30c7\u30ea\u30f3\u7d1a\u30df\u30b5\u30a4\u30eb\u89b3\u6e2c\u652f\u63f4\u8266\uff11\u96bb\u304c\u9752\u68ee\u770c\u5c3b\u5c4b\u5d0e\u306e\u6771\u5357\u6771\u7d04\uff14\uff10\uff4b\uff4d\u306e\u6d77\u57df\u306b\u304a\u3044\u3066\u3001\u5357\u6771\u9032\u3057\u305f\u3053\u3068\u3092\u78ba\u8a8d\u3057\u305f\u3002\n<p>\uff11\uff10\u6708\uff12\uff10\u65e5\uff08\u6c34\uff09\u5348",
+      "license": "CC BY 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Type_055_destroyer.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Type_055_destroyer.jpg",
+      "width": 1280,
+      "height": 612,
+      "title": "Type 055 destroyer.jpg",
+      "description": "Artist's impression of type 055 destroyer.",
+      "license": "CC BY-SA 3.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/48/AFDCM-02-015.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/48/AFDCM-02-015.jpg",
+      "width": 973,
+      "height": 760,
+      "title": "AFDCM-02-015.jpg",
+      "description": "",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/18/AFDCM-02-036.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/18/AFDCM-02-036.jpg",
+      "width": 973,
+      "height": 760,
+      "title": "AFDCM-02-036.jpg",
+      "description": "",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/A_Japanese_Ground_Self-Defense_Force_soldier_gets_his_coordinates_during_a_patrolling_exercise_as_part_of_Dawn_Blitz_2013_at_Camp_Pendleton%2C_Calif.%2C_June_12%2C_2013_130612-M-JU912-055.jpg/1280px-thumbnail.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/88/A_Japanese_Ground_Self-Defense_Force_soldier_gets_his_coordinates_during_a_patrolling_exercise_as_part_of_Dawn_Blitz_2013_at_Camp_Pendleton%2C_Calif.%2C_June_12%2C_2013_130612-M-JU912-055.jpg",
+      "width": 5472,
+      "height": 3648,
+      "title": "A Japanese Ground Self-Defense Force soldier gets his coordinates during a patrolling exercise as part of Dawn Blitz 2013 at Camp Pendleton, Calif., June 12, 2013 130612-M-JU912-055.jpg",
+      "description": "A Japanese Ground Self-Defense Force soldier gets his coordinates during a patrolling exercise as part of Dawn Blitz 2013 at Camp Pendleton, Calif., June 12, 2013. Dawn Blitz is a multilateral amphibi",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/US_Navy_101028-N-6770T-055_Lt._Cmdr._Mike_Morley%2C_assigned_to_Commander_Task_Force_73_in_Singapore%2C_hands_out_donated_clothes_to_local_children_at.jpg/1280px-US_Navy_101028-N-6770T-055_Lt._Cmdr._Mike_Morley%2C_assigned_to_Commander_Task_Force_73_in_Singapore%2C_hands_out_donated_clothes_to_local_children_at.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/b9/US_Navy_101028-N-6770T-055_Lt._Cmdr._Mike_Morley%2C_assigned_to_Commander_Task_Force_73_in_Singapore%2C_hands_out_donated_clothes_to_local_children_at.jpg",
+      "width": 2100,
+      "height": 1500,
+      "title": "US Navy 101028-N-6770T-055 Lt. Cmdr. Mike Morley, assigned to Commander Task Force 73 in Singapore, hands out donated clothes to local children at.jpg",
+      "description": "REAM, Cambodia (Oct. 28, 2010) Lt. Cmdr. Mike Morley, assigned to Commander Task Force 73 in Singapore, hands out donated clothes to local children at a medical civic action project during Cooperation",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/US_Navy_Sailors_and_the_People%27s_Liberation_Army_Navy_Midshipmen_play_soccer_match_151013-N-WC566-055.jpg/1280px-US_Navy_Sailors_and_the_People%27s_Liberation_Army_Navy_Midshipmen_play_soccer_match_151013-N-WC566-055.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/US_Navy_Sailors_and_the_People%27s_Liberation_Army_Navy_Midshipmen_play_soccer_match_151013-N-WC566-055.jpg",
+      "width": 3000,
+      "height": 2088,
+      "title": "US Navy Sailors and the People's Liberation Army Navy Midshipmen play soccer match 151013-N-WC566-055.jpg",
+      "description": "151013-N-WC566-055 PEARL HARBOR (Oct. 13, 2015) Yeoman 1st Class Brandon Ellis (center), assigned to the USS Chosin (CG 65) gains control of the ball during a friendly soccer match with midshipmen ass",
+      "license": "Public domain",
+      "source": "wikimedia"
+    }
+  ],
+  "doctrine": {
+    "role": "Area air defense flagship for PLAN carrier strike groups and expeditionary task forces, designed to project Chinese naval power beyond the first island chain while providing theater-level command and control capabilities.",
+    "employment": "Typically deployed as the air defense coordinator for multi-ship task groups, either escorting carriers or leading surface action groups in contested waters. The Type 055 serves as both a sensor platform and missile magazine, cueing fires from other vessels while managing the overall air picture. Its large VLS capacity allows it to function as an arsenal ship, carrying land-attack missiles for joint fires missions. The platform's sophisticated C4I systems enable it to serve as a task force flagship, coordinating multi-domain operations across the electromagnetic spectrum.",
+    "design_philosophy": "Chinese designers prioritized maximum VLS capacity (112 cells) and sensor integration over traditional destroyer attributes like speed and maneuverability, accepting a cruiser-sized displacement to achieve cruiser-level capabilities. The design sacrifices cost-effectiveness and operational flexibility for raw firepower and sensor capability, reflecting China's willingness to build fewer, more capable platforms rather than larger numbers of smaller vessels. This represents a clear shift from the PLAN's historical emphasis on quantity over quality.",
+    "threat_context": "Designed to operate in a multi-threat environment dominated by advanced aircraft, anti-ship cruise missiles, and submarine threats from technologically sophisticated adversaries like the US Navy and JMSDF. The threat environment has evolved to include hypersonic weapons, distributed maritime operations, and enhanced electronic warfare capabilities since the Type 055's initial design phase. China's assessment of likely operating environments has shifted from primarily defensive operations within the first island chain to expeditionary operations requiring sustained power projection.",
+    "comparison_frame": "Compare primarily on VLS cell count, radar detection ranges, and C4I integration capabilities rather than traditional metrics like speed or cost-effectiveness, as the Type 055 represents a different design philosophy emphasizing maximum capability per hull. Sensor fusion and multi-domain coordination capabilities matter more than single-platform performance metrics. Magazine depth and sustained firing rates become critical when evaluating the Type 055's role as both sensor platform and arsenal ship in distributed operations."
+  },
+  "curated_sources": [
+    {
+      "title": "China Naval Modernization: Implications for U.S. Navy Capabilities",
+      "type": "report",
+      "url": "https://crsreports.congress.gov/product/pdf/RL/RL33153",
+      "relevance": "Ron O'Rourke's comprehensive analysis of PLAN modernization provides essential context for understanding the Type 055's role in China's broader naval strategy.",
+      "priority": "essential"
+    },
+    {
+      "title": "Chinese Naval Shipbuilding: An Ambitious and Uncertain Course",
+      "type": "analyst",
+      "url": "https://www.usni.org/magazines/proceedings/2019/04/chinese-naval-shipbuilding-ambitious-and-uncertain-course",
+      "relevance": "Andrew Erickson's expert analysis of PLAN shipbuilding priorities and industrial capacity provides crucial insights into Type 055 production and deployment strategies.",
+      "priority": "essential"
+    },
+    {
+      "title": "China's Military Power: Assessing Current and Future Capabilities",
+      "type": "report",
+      "url": "https://www.defense.gov/News/Releases/Release/Article/2831819/military-and-security-developments-involving-the-peoples-republic-of-china/",
+      "relevance": "DoD's annual China Military Power report provides official US assessment of Type 055 capabilities and their implications for regional military balance.",
+      "priority": "recommended"
+    },
+    {
+      "title": "Type 055 Renhai Class Destroyer",
+      "type": "database",
+      "url": "https://www.seaforces.org/madb/ship/China/Type-055.htm",
+      "relevance": "Comprehensive technical specifications and development history of the Type 055 platform with detailed sensor and weapons system information.",
+      "priority": "reference"
+    },
+    {
+      "title": "Modern Chinese Warships",
+      "type": "book",
+      "url": "",
+      "relevance": "Andreas Rupprecht's detailed examination of PLAN surface combatant development provides technical and operational context for the Type 055's design choices.",
+      "priority": "recommended"
+    },
+    {
+      "title": "China's Quest for a World-class Navy",
+      "type": "report",
+      "url": "https://www.csis.org/analysis/chinas-quest-world-class-navy",
+      "relevance": "CSIS analysis of PLAN transformation and the Type 055's role in achieving blue-water naval capabilities for global power projection.",
+      "priority": "recommended"
+    }
+  ]
+}

@@ -1,0 +1,449 @@
+{
+  "id": 19,
+  "slug": "type-002-shandong",
+  "name": "Type 002 Shandong",
+  "designation": "CV-17",
+  "type": "carrier",
+  "country": "China",
+  "operator": "People's Liberation Army Navy",
+  "overview_md": "The Type 002 Shandong represents China's first indigenously designed and built aircraft carrier, marking a crucial milestone in the PLAN's blue-water ambitions. While based heavily on the Soviet-derived Kuznetsov-class design (like its predecessor Liaoning), Shandong incorporates Chinese modifications and represents Beijing's growing naval construction capabilities. The carrier serves as both a training platform and operational asset, designed to project Chinese power beyond the first island chain.\n\nShandong employs a ski-jump launch system rather than catapults, limiting it to operating lighter aircraft loads compared to US carriers. This design philosophy prioritizes air defense and fleet protection over long-range strike capabilities. The carrier typically operates J-15 Flying Shark fighters and various helicopters, providing the PLAN with its first domestically-produced carrier aviation capability.\n\nIn the current threat environment, Shandong serves as a key component of China's anti-access/area-denial strategy in the South China Sea and Western Pacific. While not matching the capability of US supercarriers, it represents a significant force multiplier for Chinese naval operations and a clear statement of intent regarding Taiwan and regional territorial disputes. The carrier's operational patterns suggest it's being used to develop PLAN carrier doctrine and train personnel for future, more capable carriers.\n\nCompared to its peers, Shandong sits between smaller carriers like India's Vikrant and the larger US Ford-class. Its ski-jump configuration and conventional propulsion limit its operational flexibility, but for China's current strategic needs\u2014primarily regional power projection and fleet air defense\u2014it provides a solid foundation for building carrier expertise while more advanced designs (Type 003) come online.",
+  "specs_json": {
+    "displacement_tonnes": 70000,
+    "length_m": 315,
+    "beam_m": 75,
+    "draft_m": 10,
+    "speed_knots": 31,
+    "range_nm": 7000,
+    "crew": 2626,
+    "propulsion": "4 steam turbines, 8 boilers, conventional steam",
+    "radar": "Type 346A AESA radar, Type 382 air search radar",
+    "sonar": "hull-mounted sonar suite",
+    "combat_system": "integrated combat data system",
+    "vls_cells": 0,
+    "additional": {
+      "aircraft_capacity": "36-44 fixed wing aircraft, helicopters",
+      "elevators": 3,
+      "catapults": 0,
+      "ski_jump_angle": "12 degrees",
+      "hangar_area_sqm": 4500
+    }
+  },
+  "armament_json": [
+    {
+      "category": "Surface-to-Air Missiles",
+      "name": "HQ-10",
+      "type": "point defense SAM",
+      "quantity": "3x 24-cell launchers",
+      "range_km": 9,
+      "notes": "FL-3000N export variant"
+    },
+    {
+      "category": "CIWS",
+      "name": "Type 1130",
+      "type": "close-in weapon system",
+      "quantity": "3x 11-barrel",
+      "range_km": 3,
+      "notes": "30mm Gatling gun system"
+    },
+    {
+      "category": "Electronic Warfare",
+      "name": "Type 726-4 decoy launchers",
+      "type": "chaff/flare dispensers",
+      "quantity": "multiple systems",
+      "range_km": 0,
+      "notes": "defensive countermeasures"
+    },
+    {
+      "category": "Aircraft",
+      "name": "J-15 Flying Shark",
+      "type": "carrier-based fighter",
+      "quantity": "24-28 aircraft",
+      "range_km": 1500,
+      "notes": "primary fixed-wing aircraft"
+    }
+  ],
+  "variants_json": [
+    {
+      "name": "Type 002",
+      "designation_range": "CV-17",
+      "years": "2019-present",
+      "count": 1,
+      "key_changes": "First indigenous Chinese carrier design, improved island structure, enhanced sensors compared to Liaoning",
+      "status": "active"
+    }
+  ],
+  "fleet_status_json": [
+    {
+      "hull_number": "CV-17",
+      "name": "Shandong",
+      "variant": "Type 002",
+      "commissioned": "2019-12-17",
+      "home_port": "Sanya, Hainan",
+      "status": "active"
+    }
+  ],
+  "cost_usd": 6500000000.0,
+  "unit_count": 1,
+  "first_commissioned": "2019-12-17",
+  "builder": "Dalian Shipbuilding Industry Company",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Chinese_aircraft_carrier_Shandong_in_2019.jpg",
+  "wiki_url": "https://en.wikipedia.org/wiki/Chinese_aircraft_carrier_Shandong",
+  "sources_json": [
+    "https://en.wikipedia.org/wiki/Chinese_aircraft_carrier_Shandong",
+    "https://www.globalsecurity.org/military/world/china/cv.htm",
+    "https://www.naval-technology.com/projects/type-002-aircraft-carrier/",
+    "https://www.janes.com/defence-news"
+  ],
+  "comparison_tags": [
+    "carrier",
+    "ski-jump",
+    "plan-navy",
+    "conventional-propulsion",
+    "regional-power"
+  ],
+  "created_at": "2026-04-10 19:43:08",
+  "updated_at": "2026-04-10T19:43:08.184463",
+  "news": [],
+  "events": [],
+  "ic_coverage": [],
+  "combat_history": [
+    {
+      "date": "2021-04",
+      "operation": "South China Sea patrol",
+      "event": "First major operational deployment with full air wing, conducted flight operations near disputed Spratly Islands",
+      "significance": "Demonstrated China's commitment to projecting power in contested waters"
+    },
+    {
+      "date": "2022-12",
+      "operation": "Taiwan Strait transit",
+      "event": "Sailed through Taiwan Strait during heightened tensions, accompanied by destroyer escort",
+      "significance": "Political signaling during period of increased cross-strait tensions"
+    },
+    {
+      "date": "2023-04",
+      "operation": "Western Pacific deployment",
+      "event": "Extended deployment east of first island chain with multiple J-15 flight operations",
+      "significance": "First major blue-water deployment showing growing operational confidence"
+    }
+  ],
+  "modernization": [
+    {
+      "program": "Enhanced Combat Systems Integration",
+      "status": "in-progress",
+      "timeline": "2023-2025",
+      "description": "Upgrading combat data systems and sensor integration, improved datalinks with escort vessels",
+      "impact": "Better coordination with task group elements and improved situational awareness"
+    },
+    {
+      "program": "Air Wing Expansion",
+      "status": "ongoing",
+      "timeline": "2022-2026",
+      "description": "Adding more J-15 variants including electronic warfare and tanker versions",
+      "impact": "Enhanced air wing capabilities and operational flexibility"
+    }
+  ],
+  "vulnerabilities": [
+    {
+      "area": "Launch System Limitations",
+      "description": "Ski-jump launch restricts aircraft payload and fuel loads compared to catapult systems",
+      "context": "Limits strike range and heavy payload missions, reducing offensive capability against distant targets",
+      "mitigation": "Future Type 003 carrier will have electromagnetic catapults"
+    },
+    {
+      "area": "Air Wing Size",
+      "description": "Relatively small air wing (24-28 fighters) compared to US carriers (60+ aircraft)",
+      "context": "Limited sustained air operations and reduced ability to maintain combat air patrol while conducting strikes",
+      "mitigation": "Operational doctrine emphasizes quality over quantity and coordination with land-based aviation"
+    },
+    {
+      "area": "Experience Gap",
+      "description": "PLAN has limited carrier operational experience and doctrine development compared to US Navy",
+      "context": "Potential for tactical and operational mistakes during high-intensity operations",
+      "mitigation": "Extensive training programs and gradual operational expansion to build expertise"
+    },
+    {
+      "area": "Conventional Propulsion",
+      "description": "Steam propulsion limits operational flexibility and requires more frequent refueling",
+      "context": "Reduces deployment duration and operational tempo compared to nuclear-powered carriers",
+      "mitigation": "Adequate for regional operations within Chinese strategic priorities"
+    }
+  ],
+  "operational_patterns": {
+    "typical_deployment": "Carrier strike group operations in South China Sea and Western Pacific",
+    "deployment_length_months": 3,
+    "key_operating_areas": [
+      "South China Sea",
+      "Western Pacific",
+      "East China Sea"
+    ],
+    "typical_task_group": "2-3 Type 052D destroyers, 1-2 Type 054A frigates, Type 901 supply ship",
+    "readiness_notes": "High operational tempo for training, increasing operational deployments"
+  },
+  "peer_comparisons": [
+    {
+      "platform": "INS Vikrant",
+      "country": "India",
+      "relationship": "regional competitor",
+      "key_differences": "Shandong is larger with greater aircraft capacity but both use ski-jump launch. Similar displacement but different strategic focus areas.",
+      "video_angle": "Asian carrier competition - comparing China and India's indigenous carrier capabilities"
+    },
+    {
+      "platform": "Admiral Kuznetsov",
+      "country": "Russia",
+      "relationship": "design ancestor",
+      "key_differences": "Shandong incorporates Chinese improvements to basic Kuznetsov design with better electronics and reliability, but maintains same basic limitations.",
+      "video_angle": "Evolution of Soviet carrier design - how China improved on Russian blueprint"
+    },
+    {
+      "platform": "HMS Queen Elizabeth",
+      "country": "United Kingdom",
+      "relationship": "modern ski-jump competitor",
+      "key_differences": "Queen Elizabeth is larger, more modern design with better aviation facilities, but Shandong has more defensive armament and operates in more contested environment.",
+      "video_angle": "Ski-jump carriers: British innovation vs Chinese adaptation"
+    },
+    {
+      "platform": "USS Gerald R. Ford",
+      "country": "United States",
+      "relationship": "capability benchmark",
+      "key_differences": "Ford-class represents gold standard with electromagnetic catapults, nuclear power, and much larger air wing. Shandong is stepping stone toward similar capability.",
+      "video_angle": "Supercarrier gap - how close is China to matching US carrier capability"
+    },
+    {
+      "platform": "JS Kaga",
+      "country": "Japan",
+      "relationship": "regional light carrier",
+      "key_differences": "Kaga is much smaller helicopter carrier being modified for F-35B, while Shandong is full-size conventional carrier with larger air wing but less advanced aircraft.",
+      "video_angle": "Pacific carrier race - Japan's F-35B ships vs China's conventional carriers"
+    }
+  ],
+  "search_keywords": [
+    "shandong carrier",
+    "CV-17",
+    "type 002",
+    "chinese aircraft carrier",
+    "PLAN carrier",
+    "shandong cv17",
+    "china carrier",
+    "j-15 carrier"
+  ],
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Aircraft_carriers_of_the_People%27s_Liberation_Army_Navy.jpg/1280px-Aircraft_carriers_of_the_People%27s_Liberation_Army_Navy.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/78/Aircraft_carriers_of_the_People%27s_Liberation_Army_Navy.jpg",
+      "width": 2700,
+      "height": 1800,
+      "title": "Aircraft carriers of the People's Liberation Army Navy.jpg",
+      "description": "\u200b\u6b63\u5728\u5efa\u9020\u4e2d\u7684\u4e2d\u56fd\u6d77\u519b\u9996\u8258\u56fd\u4ea7\u822a\u7a7a\u6bcd\u8230",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Chinese_aircraft_carrier_Shandong_in_2019.jpg/1280px-Chinese_aircraft_carrier_Shandong_in_2019.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Chinese_aircraft_carrier_Shandong_in_2019.jpg",
+      "width": 2700,
+      "height": 1800,
+      "title": "Chinese aircraft carrier Shandong in 2019.jpg",
+      "description": "\u200b\u5efa\u9020\u4e2d\u7684\u4e2d\u56fd\u6d77\u519b\u9996\u8258\u56fd\u4ea7\u822a\u7a7a\u6bcd\u8230",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/13/PLANS_Shandong_%28CV-17%29_20231106.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/13/PLANS_Shandong_%28CV-17%29_20231106.jpg",
+      "width": 960,
+      "height": 270,
+      "title": "PLANS Shandong (CV-17) 20231106.jpg",
+      "description": "\u6d77\u4e0a\u81ea\u885b\u968a\u306f\u3001\u4ee4\u548c\uff15\u5e74\uff11\uff10\u6708\uff12\uff18\u65e5\uff08\u571f\uff09\u304b\u3089\uff11\uff11\u6708\uff15\u65e5\uff08\u65e5\uff09\u306b\u304b\u3051\u3066\u3001\u4e2d\u56fd\u6d77\u8ecd\u30af\u30ba\u30cd\u30c4\u30a9\u30d5\u7d1a\u7a7a\u6bcd\u300c\u5c71\u6771\u300d\uff08\u8266\u756a\u53f7\u300c\uff11\uff17\u300d\uff09\u3092\u542b\u3080\u8907\u6570\u306e\u4e2d\u56fd\u6d77\u8ecd\u8266\u8247\u304c\u3001\u4ee5\u4e0b\u306e\u3068\u304a\u308a\u592a\u5e73\u6d0b\u4e0a\u306e\u6d77\u57df\u306b\u304a\u3044\u3066\u822a\u884c\u3057\u3066\u3044\u308b\u3053\u3068\u3092\u78ba\u8a8d\u3057\u305f\u3002\n<p>\u65e5\u6642 \u4f4d\u7f6e \u78ba\u8a8d\u3055\u308c\u305f\u8266\u8247\n</p><p>\uff11\uff10\u6708\uff12\uff18\u65e5\uff08\u571f\uff09\u5348\u5f8c\uff18\u6642\u9803 \u5bae\u53e4\u5cf6\u306e\u5357\u7d04\uff14\uff13\uff10\uff4b\uff4d \u30af\u30ba\u30cd\u30c4\u30a9\u30d5\u7d1a\u7a7a\u6bcd\u300c\u5c71\u6771\u300d\uff08\uff11\uff17\uff09 \u30eb\u30fc\u30e4\u30f3\u2162\u7d1a\u30df\u30b5\u30a4\u30eb\u99c6\u9010\u8266\uff08\uff11\uff16\uff14\uff09\uff08\uff11\uff17\uff13\uff09 ",
+      "license": "CC BY 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/9b/PLANS_Shandong_%28CV-17%29_20250609.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/9b/PLANS_Shandong_%28CV-17%29_20250609.jpg",
+      "width": 605,
+      "height": 171,
+      "title": "PLANS Shandong (CV-17) 20250609.jpg",
+      "description": "\u4ee4\u548c\uff17\u5e74\uff16\u6708\uff17\u65e5\uff08\u571f\uff09\u5348\u5f8c\uff11\u6642\u9803\u3001\u6d77\u4e0a\u81ea\u885b\u968a\u306f\u3001\u4e2d\u56fd\u6d77\u8ecd\u30af\u30ba\u30cd\u30c4\u30a9\u30d5\u7d1a\u7a7a\u6bcd\u300c\u5c71\u6771\u300d\uff08\u8266\u756a\u53f7\u300c\uff11\uff17\u300d\uff09\u3001\u30ec\u30f3\u30cf\u30a4\u7d1a\u30df\u30b5\u30a4\u30eb\u99c6\u9010\u8266\uff08\u8266\u756a\u53f7\u300c\uff11\uff10\uff17\u300d\uff09\u3001\u30b8\u30e3\u30f3\u30ab\u30a4\u2161\u7d1a\u30d5\u30ea\u30b2\u30fc\u30c8\uff12\u96bb\uff08\u8266\u756a\u53f7\u300c\uff15\uff17\uff11\u300d\u53ca\u3073\u300c\uff15\uff17\uff12\u300d\uff09\u53ca\u3073\u30d5\u30e6\u7d1a\u9ad8\u901f\u6226\u95d8\u652f\u63f4\u8266\uff08\u8266\u756a\u53f7\u300c\uff19\uff10\uff15\u300d\uff09\u306e\u8a08\uff15\u96bb\u304c\u3001\u5bae\u53e4\u5cf6\uff08\u6c96\u7e04\u770c\uff09\u306e\u5357\u6771\u7d04 \uff15\uff15\uff10\uff4b\uff4d\u306e\u6d77\u57df\u306b\u304a\u3044\u3066\u822a\u884c\u3057\u3066\u3044\u308b\u3053\u3068\u3092\u78ba\u8a8d\u3057\u305f\u3002\n<p>\u307e\u305f\uff19\u65e5\uff08\u6708\uff09\u3001\u7a7a\u6bcd\u300c\u5c71\u6771\u300d\u306e\u8266\u8f09\u6226\u95d8\u6a5f\u53ca\u3073\u8266\u8f09",
+      "license": "CC BY 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d8/PLANS_Shandong_and_Z-18_20230424.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/d8/PLANS_Shandong_and_Z-18_20230424.jpg",
+      "width": 604,
+      "height": 170,
+      "title": "PLANS Shandong and Z-18 20230424.jpg",
+      "description": "\u6d77\u4e0a\u81ea\u885b\u968a\u306f\u3001\u4ee4\u548c\uff15\u5e74\uff14\u6708\uff11\uff17\u65e5\uff08\u6708\uff09\u304b\u3089\uff12\uff13\u65e5\uff08\u65e5\uff09\u306b\u304b\u3051\u3066\u3001\u4e2d\u56fd\u6d77\u8ecd\u30af\u30ba\u30cd\u30c4\u30a9\u30d5\u7d1a\u7a7a\u6bcd\u300c\u5c71\u6771\u300d\uff08\u8266\u756a\u53f7\u300c\uff11\uff17\u300d\uff09\u3092\u542b\u3080\u8907\u6570\u306e\u4e2d\u56fd\u6d77\u8ecd\u8266\u8247\u304c\u3001\u4ee5\u4e0b\u306e\u3068\u304a\u308a\u592a\u5e73\u6d0b\u4e0a\u306e\u6d77\u57df\u306b\u304a\u3044\u3066\u822a\u884c\u3057\u3066\u3044\u308b\u3053\u3068\u3092\u78ba\u8a8d\u3057\u305f\u3002\n<p>\u65e5\u6642 \u4f4d\u7f6e \u78ba\u8a8d\u3055\u308c\u305f\u8266\u8247\n</p><p>\uff14\u6708\uff11\uff17\u65e5\uff08\u6708\uff09\u5348\u5f8c\uff18\u6642\u9803 \u6c96\u30ce\u9ce5\u5cf6\u306e\u5357\u7d04\uff14\uff15\uff10\uff4b\uff4d \u30af\u30ba\u30cd\u30c4\u30a9\u30d5\u7d1a\u7a7a\u6bcd\u300c\u5c71\u6771\u300d\uff08\uff11\uff17\uff09 \u30ec\u30f3\u30cf\u30a4\u7d1a\u30df\u30b5\u30a4\u30eb\u99c6\u9010\u8266\uff08\uff11\uff10\uff16\uff09 \u30eb\u30fc\u30e4\u30f3\u2162\u7d1a\u30df\u30b5\u30a4",
+      "license": "CC BY 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/cd/PLAN_Shandong_CV-17_20230406.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/cd/PLAN_Shandong_CV-17_20230406.jpg",
+      "width": 945,
+      "height": 265,
+      "title": "PLAN Shandong CV-17 20230406.jpg",
+      "description": "\u4ee4\u548c\uff15\u5e74\uff14\u6708\uff15\u65e5\uff08\u6c34\uff09\u5348\u5f8c\uff16\u6642\u9803\u3001\u6d77\u4e0a\u81ea\u885b\u968a\u306f\u3001\u6ce2\u7167\u9593\u5cf6\uff08\u6c96\u7e04\u770c\uff09\u306e\u5357\u7d04\uff13\uff10\uff10\uff4b\uff4d\u306e\u6d77\u57df\u306b\u304a\u3044\u3066\u3001\u540c\u6d77\u57df\u3092\u6771\u9032\u3059\u308b\u4e2d\u56fd\u6d77\u8ecd\u30af\u30ba\u30cd\u30c4\u30a9\u30d5\u7d1a\u7a7a\u6bcd\u300c\u5c71\u6771\u300d\uff08\u8266\u756a\u53f7\u300c\uff11\uff17\u300d\uff09\u3001\u30b8\u30e3\u30f3\u30ab\u30a4\u2161\u7d1a\u30d5\u30ea\u30b2\u30fc\u30c8\uff11\u96bb\uff08\u8266\u756a\u53f7\u300c\uff15\uff17\uff13\u300d\uff09\u53ca\u3073\u30d5\u30e6\u7d1a\u9ad8\u901f\u6226\u95d8\u652f\u63f4\u8266\uff11\u96bb\uff08\u8266\u756a\u53f7\u300c\uff19\uff10\uff15\u300d\uff09\u306e\u8a08\uff13\u96bb\u3092\u78ba\u8a8d\u3057\u305f\u3002",
+      "license": "CC BY 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Type_002_aircraft_carrier_of_People%27s_Liberation_Army_Navy.jpg/1280px-Type_002_aircraft_carrier_of_People%27s_Liberation_Army_Navy.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Type_002_aircraft_carrier_of_People%27s_Liberation_Army_Navy.jpg",
+      "width": 2700,
+      "height": 1800,
+      "title": "Type 002 aircraft carrier of People's Liberation Army Navy.jpg",
+      "description": "\u200b\u6b63\u5728\u5efa\u9020\u4e2d\u7684\u4e2d\u56fd\u6d77\u519b\u822a\u7a7a\u6bcd\u8230\u3002",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Type_002_aircraft_carrier_of_People%27s_Liberation_Army_Navy_%28cropped%29.jpg/1280px-Type_002_aircraft_carrier_of_People%27s_Liberation_Army_Navy_%28cropped%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/72/Type_002_aircraft_carrier_of_People%27s_Liberation_Army_Navy_%28cropped%29.jpg",
+      "width": 2074,
+      "height": 1255,
+      "title": "Type 002 aircraft carrier of People's Liberation Army Navy (cropped).jpg",
+      "description": "\u200b\u6b63\u5728\u5efa\u9020\u4e2d\u7684\u4e2d\u56fd\u6d77\u519b\u822a\u7a7a\u6bcd\u8230\u3002",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/USS_Bunker_Hill_%28CV-17%29_arrives_at_Tacoma_in_April_1973.jpg/1280px-USS_Bunker_Hill_%28CV-17%29_arrives_at_Tacoma_in_April_1973.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/68/USS_Bunker_Hill_%28CV-17%29_arrives_at_Tacoma_in_April_1973.jpg",
+      "width": 5659,
+      "height": 4190,
+      "title": "USS Bunker Hill (CV-17) arrives at Tacoma in April 1973.jpg",
+      "description": "The U.S. Navy aircraft carrier USS <i>Bunker Hill</i> (CV-17) arrives at Tacoma, Washington (USA), to be scrapped, April 1973. While under tow en route, the <i>Bunker Hill</i> was rammed and damaged b",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/USS_Bunker_Hill_%28CV-17%29_at_San_Diego_in_1971.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/USS_Bunker_Hill_%28CV-17%29_at_San_Diego_in_1971.jpg",
+      "width": 718,
+      "height": 491,
+      "title": "USS Bunker Hill (CV-17) at San Diego in 1971.jpg",
+      "description": "The former U.S. Navy aircraft carrier USS <i>Bunker Hill</i> (CV-17) tied up at Naval Air Station, North Island, San Diego, California (USA), in October 1971. <i>Bunker Hill</i> had been decommissione",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/USS_Bunker_Hill_%28CV-17%29_at_sea_in_1945_%28NH_42373%29.jpg/1280px-USS_Bunker_Hill_%28CV-17%29_at_sea_in_1945_%28NH_42373%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/c1/USS_Bunker_Hill_%28CV-17%29_at_sea_in_1945_%28NH_42373%29.jpg",
+      "width": 5720,
+      "height": 4530,
+      "title": "USS Bunker Hill (CV-17) at sea in 1945 (NH 42373).jpg",
+      "description": "The U.S. Navy aircraft carrier USS <i>Bunker Hill</i> (CV-17) at sea in 1945.<br>\n<p>Note: The original photograph is dated 16 October 1945. <i>Bunker Hill</i> was still under repair at the Puget Soun",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/USS_Bunker_Hill_%28CV-17%29_being_scrapped_at_Tacoma_c1973.jpg/1280px-USS_Bunker_Hill_%28CV-17%29_being_scrapped_at_Tacoma_c1973.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/50/USS_Bunker_Hill_%28CV-17%29_being_scrapped_at_Tacoma_c1973.jpg",
+      "width": 5749,
+      "height": 4300,
+      "title": "USS Bunker Hill (CV-17) being scrapped at Tacoma c1973.jpg",
+      "description": "The U.S. Navy aircraft carrier USS <i>Bunker Hill</i> (CV-17) being scrapped at Tacoma, Washington (USA), circa 1973.",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/USS_Bunker_Hill_%28CV-17%29_insignia%2C_1944.png/1280px-USS_Bunker_Hill_%28CV-17%29_insignia%2C_1944.png",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/78/USS_Bunker_Hill_%28CV-17%29_insignia%2C_1944.png",
+      "width": 2740,
+      "height": 2812,
+      "title": "USS Bunker Hill (CV-17) insignia, 1944.png",
+      "description": "Insignia of the U.S. Navy aircraft carrier USS <i>Bunker Hill</i> (CV-17), in 1944.",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/USS_Bunker_Hill_%28CV-17%29_underway_off_the_Palau_Islands_on_27_March_1944_%2880-G-K-1560%29.jpg/1280px-USS_Bunker_Hill_%28CV-17%29_underway_off_the_Palau_Islands_on_27_March_1944_%2880-G-K-1560%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/USS_Bunker_Hill_%28CV-17%29_underway_off_the_Palau_Islands_on_27_March_1944_%2880-G-K-1560%29.jpg",
+      "width": 5748,
+      "height": 3850,
+      "title": "USS Bunker Hill (CV-17) underway off the Palau Islands on 27 March 1944 (80-G-K-1560).jpg",
+      "description": "The U.S. Navy aircraft carrier USS <i>Bunker Hill</i> (CV-17) at sea while participating in strikes on the Palau Islands, 27 March 1944. She is painted in camouflage Measure 33, Design 6A.",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/USS_Bunker_Hill_CV-17_1945_%2849254394843%29.jpg/1280px-USS_Bunker_Hill_CV-17_1945_%2849254394843%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/b6/USS_Bunker_Hill_CV-17_1945_%2849254394843%29.jpg",
+      "width": 8111,
+      "height": 6405,
+      "title": "USS Bunker Hill CV-17 1945 (49254394843).jpg",
+      "description": "<p>USS Bunker Hill (CV-17) burning after being hit by \"Kamikaze\" suicide planes during the Okinawa operation, 11 May 1945.  \" While operating with a fast carrier task force in the slot between Okinawa",
+      "license": "CC BY-SA 2.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/USS_Bunker_Hill_hit_by_two_Kamikazes.jpg/1280px-USS_Bunker_Hill_hit_by_two_Kamikazes.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/b6/USS_Bunker_Hill_hit_by_two_Kamikazes.jpg",
+      "width": 2962,
+      "height": 2048,
+      "title": "USS Bunker Hill hit by two Kamikazes.jpg",
+      "description": "\"<a href=\"https://en.wikipedia.org/wiki/USS_Bunker_Hill_(CV-17)\" class=\"extiw\" title=\"en:USS Bunker Hill (CV-17)\">USS\u00a0<i>Bunker Hill</i>\u00a0(CV-17)</a> hit by two <a href=\"https://en.wikipedia.org/wiki/K",
+      "license": "Public domain",
+      "source": "wikimedia"
+    }
+  ],
+  "doctrine": {
+    "role": "Regional power projection and sea control within the second island chain, serving as the centerpiece of carrier battle groups designed to challenge US naval dominance in the Western Pacific while providing expeditionary capabilities for Chinese interests beyond traditional coastal defense.",
+    "employment": "Operates as the nucleus of a carrier strike group alongside Type 055 destroyers, Type 052D destroyers, and Type 054A frigates, with Type 093/094 submarine escorts. Primary mission profiles include sea lane control in the South China Sea, Taiwan contingency operations, and power projection into the Indian Ocean. The carrier operates under theater command structure, integrating with land-based DF-21D and DF-26 anti-ship ballistic missiles for layered defense. Training cycles emphasize multi-domain operations with coordinated strikes involving carrier aviation, surface combatants, and shore-based missile forces.",
+    "design_philosophy": "Prioritized rapid indigenous construction capability and pilot training capacity over advanced catapult technology, accepting ski-jump limitations to accelerate operational experience. The design sacrificed aircraft payload and sortie generation rates for construction simplicity and reduced technical risk, reflecting China's focus on building naval aviation expertise rather than immediate technological parity with US carriers. Island modifications and improved flight deck layout demonstrate incremental improvement philosophy over revolutionary advancement.",
+    "threat_context": "Designed for contested environments where US submarine threats and long-range precision strikes necessitate integrated air defense and multi-layered protection from accompanying surface combatants. The threat environment has intensified since construction began, with increased US freedom of navigation operations, enhanced allied coordination through AUKUS and Quad partnerships, and accelerated US hypersonic weapon development forcing greater reliance on shore-based missile support.",
+    "comparison_frame": "Compare primarily on air wing capacity, sortie generation rates, and defensive integration rather than pure platform capabilities\u2014PLAN doctrine emphasizes system-of-systems warfare over individual platform performance. Aircraft launch rates and operational availability matter more than displacement or speed, as Chinese carriers operate within land-based missile coverage unlike US carriers designed for independent power projection. Focus on training throughput and maintenance cycles, as China prioritizes building institutional knowledge over immediate combat capability."
+  },
+  "curated_sources": [
+    {
+      "title": "China Naval Modernization: Implications for U.S. Navy Capabilities\u2014Background and Issues for Congress",
+      "type": "report",
+      "url": "https://crsreports.congress.gov/product/pdf/RL/RL33153",
+      "relevance": "Ron O'Rourke's definitive CRS analysis of PLAN carrier development and strategic implications for US naval planning.",
+      "priority": "essential"
+    },
+    {
+      "title": "Chinese Naval Shipbuilding: An Ambitious and Uncertain Course",
+      "type": "analyst",
+      "url": "https://www.usni.org/magazines/proceedings/2020/04/chinese-naval-shipbuilding-ambitious-and-uncertain-course",
+      "relevance": "Andrew Erickson's authoritative analysis of China's carrier construction program and naval aviation development.",
+      "priority": "essential"
+    },
+    {
+      "title": "China's Aircraft Carriers",
+      "type": "book",
+      "url": "",
+      "relevance": "Comprehensive technical and doctrinal analysis of PLAN carrier development from conception through operational deployment.",
+      "priority": "recommended"
+    },
+    {
+      "title": "The Chinese Navy: Expanding Capabilities, Evolving Roles",
+      "type": "report",
+      "url": "https://www.csis.org/analysis/chinese-navy-expanding-capabilities-evolving-roles",
+      "relevance": "CSIS strategic assessment of PLAN carrier operations within broader Chinese naval modernization and regional strategy.",
+      "priority": "recommended"
+    },
+    {
+      "title": "Type 002 Aircraft Carrier Shandong",
+      "type": "database",
+      "url": "https://www.seaforces.org/marint/Chinese-Navy/Aircraft-Carrier/Type-002_DAT/Type-002-aircraft-carrier.htm",
+      "relevance": "Detailed technical specifications and construction timeline for comparative analysis with other carrier platforms.",
+      "priority": "reference"
+    },
+    {
+      "title": "China Maritime Report: PLAN Aircraft Carrier Programme",
+      "type": "report",
+      "url": "https://digital-commons.usnwc.edu/cmsi-maritime-reports/16/",
+      "relevance": "US Naval War College analysis of Chinese carrier doctrine development and operational employment concepts.",
+      "priority": "recommended"
+    },
+    {
+      "title": "The Science of Military Strategy (2020 Edition)",
+      "type": "book",
+      "url": "",
+      "relevance": "PLA doctrinal publication outlining integrated joint operations and carrier employment within Chinese military strategy.",
+      "priority": "reference"
+    }
+  ]
+}

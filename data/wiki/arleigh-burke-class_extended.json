@@ -1,0 +1,383 @@
+{
+  "combat_history": [
+    {
+      "date": "1996-09",
+      "operation": "Operation Desert Strike",
+      "event": "USS Laboon (DDG-58) and USS Shiloh launched 27 Tomahawk missiles at Iraqi air defense targets",
+      "significance": "First operational Tomahawk strikes by Burke-class, proving land-attack capability"
+    },
+    {
+      "date": "1999-03",
+      "operation": "Operation Allied Force",
+      "event": "USS Gonzalez (DDG-66) and USS The Sullivans (DDG-68) conducted sustained Tomahawk strikes against Yugoslav targets",
+      "significance": "Demonstrated sustained combat operations and VLS reload procedures"
+    },
+    {
+      "date": "2001-10",
+      "operation": "Operation Enduring Freedom",
+      "event": "Multiple Burke-class destroyers launched opening Tomahawk salvos against Taliban and Al-Qaeda targets in Afghanistan",
+      "significance": "Showcased rapid deployment and precision strike capabilities"
+    },
+    {
+      "date": "2017-06-17",
+      "operation": "Routine patrol",
+      "event": "USS Fitzgerald (DDG-62) collided with merchant vessel ACX Crystal off Japan, killing 7 sailors",
+      "significance": "Exposed training and watchstanding deficiencies, led to major surface force reforms"
+    },
+    {
+      "date": "2017-08-21",
+      "operation": "Routine patrol",
+      "event": "USS John S. McCain (DDG-56) collided with merchant tanker Alnic MC near Singapore, killing 10 sailors",
+      "significance": "Second major collision highlighted systemic surface warfare training issues"
+    },
+    {
+      "date": "2023-10",
+      "operation": "Guardian Prosperity",
+      "event": "USS Carney (DDG-64) intercepted multiple Iranian-backed Houthi missiles and drones in Red Sea",
+      "significance": "First large-scale combat air defense operations, proved modern Aegis effectiveness"
+    },
+    {
+      "date": "2024-01",
+      "operation": "Operation Poseidon Archer",
+      "event": "Multiple Burke-class destroyers conducted Tomahawk strikes against Houthi missile sites in Yemen",
+      "significance": "Latest operational validation of precision strike capability against defended targets"
+    }
+  ],
+  "modernization": [
+    {
+      "program": "Flight III Construction",
+      "status": "in-progress",
+      "timeline": "2023-2034",
+      "description": "New construction with AN/SPY-6(V)1 AESA radar, enhanced power generation, improved cooling systems",
+      "impact": "Dramatically improved air and missile defense capability against advanced threats"
+    },
+    {
+      "program": "Aegis Baseline 9/10 Upgrades",
+      "status": "in-progress",
+      "timeline": "2020-2028",
+      "description": "Software and hardware upgrades to existing ships for improved BMD and integrated air defense",
+      "impact": "Enhanced ability to engage ballistic missiles and integrate with joint forces"
+    },
+    {
+      "program": "SPY-6 Backfit Studies",
+      "status": "planned",
+      "timeline": "2025-2035",
+      "description": "Feasibility studies for retrofitting Flight IIA ships with SPY-6 radar",
+      "impact": "Would extend service life and capability of existing fleet"
+    },
+    {
+      "program": "Hypersonic Defense Upgrades",
+      "status": "planned",
+      "timeline": "2025-2030",
+      "description": "Software and potentially hardware modifications to engage hypersonic weapons",
+      "impact": "Critical capability against emerging Chinese and Russian hypersonic threats"
+    }
+  ],
+  "vulnerabilities": [
+    {
+      "area": "Manning and Training",
+      "description": "Chronic understaffing and reduced training time leading to basic seamanship failures",
+      "context": "Multiple collisions and groundings demonstrate fundamental watchstanding breakdowns",
+      "mitigation": "Surface Warfare Officer School redesign, increased manning levels, extended training periods"
+    },
+    {
+      "area": "Electronic Warfare",
+      "description": "AN/SLQ-32(V)3 EW suite increasingly obsolete against modern jamming and spoofing",
+      "context": "Russian and Chinese EW capabilities can potentially degrade Aegis tracking and engagement",
+      "mitigation": "Next Generation Jammer integration and EW suite upgrades planned"
+    },
+    {
+      "area": "Magazine Depth",
+      "description": "96 VLS cells insufficient for sustained high-intensity combat without underway replenishment",
+      "context": "Peer competitors like Type 055 carry 112+ cells, limiting engagement capacity",
+      "mitigation": "No structural solution available; operational planning must account for reload requirements"
+    },
+    {
+      "area": "Power Generation",
+      "description": "Flight I/II/IIA lack sufficient electrical power for future directed-energy weapons",
+      "context": "Modern threats require high-power defensive systems that exceed current generation capacity",
+      "mitigation": "Flight III addresses this; backfit options limited for existing ships"
+    }
+  ],
+  "operational_patterns": {
+    "typical_deployment": "Carrier Strike Group escort, independent BMD patrols, freedom of navigation operations",
+    "deployment_length_months": 7,
+    "key_operating_areas": [
+      "Western Pacific",
+      "Persian Gulf",
+      "Mediterranean",
+      "Baltic Sea"
+    ],
+    "typical_task_group": "Usually 1-2 destroyers per CSG, or independent surface action groups",
+    "readiness_notes": "Maintenance backlog issues affecting some hulls, training pipeline stress limiting availability"
+  },
+  "peer_comparisons": [
+    {
+      "platform": "Type 055 Renhai-class",
+      "country": "China",
+      "relationship": "direct rival",
+      "key_differences": "Type 055 is larger (13,000t) with 112 VLS cells and dual-band radar, but lacks combat experience. Burke has proven Aegis system and extensive operational history.",
+      "video_angle": "David vs Goliath: Experience vs Raw Capability - can proven systems overcome numerical disadvantages?"
+    },
+    {
+      "platform": "Type 45 Daring-class",
+      "country": "United Kingdom",
+      "relationship": "allied equivalent",
+      "key_differences": "Type 45 has superior SAMPSON/PAAMS air defense but lacks land-attack capability and VLS flexibility. Burke trades some AAW performance for multi-mission capability.",
+      "video_angle": "Specialist vs Generalist: Should modern destroyers optimize for one mission or maintain flexibility?"
+    },
+    {
+      "platform": "Sejong the Great-class",
+      "country": "South Korea",
+      "relationship": "allied successor",
+      "key_differences": "Enlarged Burke design (11,000t) with 128 VLS cells and Korean modifications. Shows evolution path for Burke concept with larger magazine.",
+      "video_angle": "Student surpasses teacher? How allies improved on American designs"
+    },
+    {
+      "platform": "Horizon-class",
+      "country": "France/Italy",
+      "relationship": "allied equivalent",
+      "key_differences": "Smaller (7,000t) with focus on area air defense using PAAMS system. Less VLS capacity (48 cells) but different operational concept.",
+      "video_angle": "National philosophies in warship design: American quantity vs European sophistication"
+    },
+    {
+      "platform": "Admiral Gorshkov-class",
+      "country": "Russia",
+      "relationship": "direct rival",
+      "key_differences": "Smaller (5,000t) frigate with advanced weapons including Zircon hypersonics. Trades magazine depth for individual weapon lethality.",
+      "video_angle": "Quantity vs Quality: Large magazines vs hypersonic weapons - which wins?"
+    }
+  ],
+  "search_keywords": [
+    "arleigh burke",
+    "DDG-51",
+    "DDG 51",
+    "burke class",
+    "burke-class",
+    "Flight III",
+    "SPY-6",
+    "aegis destroyer",
+    "tomahawk",
+    "ballistic missile defense",
+    "USS Carney",
+    "red sea",
+    "houthis"
+  ],
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/An_informational_graphic_depicting_an_Arleigh_Burke-class_guided-missile_destroyer_%288618564739%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/An_informational_graphic_depicting_an_Arleigh_Burke-class_guided-missile_destroyer_%288618564739%29.jpg",
+      "width": 750,
+      "height": 1000,
+      "title": "An informational graphic depicting an Arleigh Burke-class guided-missile destroyer (8618564739).jpg",
+      "description": "WASHINGTON (April 4, 2013) An informational graphic depicting an Arleigh Burke-class guided-missile destroyer. (U.S. Navy graphic by Mass Communication Specialist 1st Class Arif Patani/Released)",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/ArleighBurkeClassShips.jpg/1280px-ArleighBurkeClassShips.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/e6/ArleighBurkeClassShips.jpg",
+      "width": 1766,
+      "height": 956,
+      "title": "ArleighBurkeClassShips.jpg",
+      "description": "Three Arleigh Burke Class United States Navy vessels docked in Norfolk, Virginia",
+      "license": "CC BY 3.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Arleigh_Burke_%28DDG_51_-_Flight_I%29.gif/1280px-Arleigh_Burke_%28DDG_51_-_Flight_I%29.gif",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Arleigh_Burke_%28DDG_51_-_Flight_I%29.gif",
+      "width": 1381,
+      "height": 487,
+      "title": "Arleigh Burke (DDG 51 - Flight I).gif",
+      "description": "Arleigh Burke (DDG 51 - Flight I)",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Arleigh_Burke_%28Flight_IIA%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Arleigh_Burke_%28Flight_IIA%29.jpg",
+      "width": 1188,
+      "height": 442,
+      "title": "Arleigh Burke (Flight IIA).jpg",
+      "description": "Arleigh Burke (Flight IIA)",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Arleigh_Burke_class_destroyer_Flight_1_line_drawing.png",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Arleigh_Burke_class_destroyer_Flight_1_line_drawing.png",
+      "width": 748,
+      "height": 254,
+      "title": "Arleigh Burke class destroyer Flight 1 line drawing.png",
+      "description": "Line drawing of a U.S. Navy <i>Arleigh Burke</i>-class Flight I destroyer.",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Burke_class_destroyer_profile%3Bwpe47485.png/1280px-Burke_class_destroyer_profile%3Bwpe47485.png",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/76/Burke_class_destroyer_profile%3Bwpe47485.png",
+      "width": 1912,
+      "height": 668,
+      "title": "Burke class destroyer profile;wpe47485.png",
+      "description": "<a href=\"https://en.wikipedia.org/wiki/Arleigh_Burke-class_destroyer\" class=\"extiw\" title=\"en:Arleigh Burke-class destroyer\">Arleigh Burke-class destroyer</a> profile",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Rendering_of_Arleigh_Burke-class_destroyer_with_SLQ-32%28V%297.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Rendering_of_Arleigh_Burke-class_destroyer_with_SLQ-32%28V%297.jpg",
+      "width": 453,
+      "height": 1239,
+      "title": "Rendering of Arleigh Burke-class destroyer with SLQ-32(V)7.jpg",
+      "description": "Artist rendering of an Arleigh Burke-class destroyer equipped with the AN/SLQ-32(V)7 electronic warfare suite",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/USS_Arleigh_Burke_%28DDG_51%29_steams_through_the_Mediterranean_Sea.jpg/1280px-USS_Arleigh_Burke_%28DDG_51%29_steams_through_the_Mediterranean_Sea.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/93/USS_Arleigh_Burke_%28DDG_51%29_steams_through_the_Mediterranean_Sea.jpg",
+      "width": 2100,
+      "height": 1400,
+      "title": "USS Arleigh Burke (DDG 51) steams through the Mediterranean Sea.jpg",
+      "description": "030313-N-0115R-077 The Mediterranean Sea (Mar. 13, 2003) -- The guided missile destroyer USS Arleigh Burke (DDG 51) steams through the Mediterranean Sea. Arleigh Burke is currently deployed in the Med",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Foch_%28R99%29_with_USS_Arleigh_Burke_%28DDG-51%29_1998.JPEG/1280px-Foch_%28R99%29_with_USS_Arleigh_Burke_%28DDG-51%29_1998.JPEG",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/94/Foch_%28R99%29_with_USS_Arleigh_Burke_%28DDG-51%29_1998.JPEG",
+      "width": 2100,
+      "height": 1500,
+      "title": "Foch (R99) with USS Arleigh Burke (DDG-51) 1998.JPEG",
+      "description": "The French aircraft carrier <i>Foch</i> (R99) is being escorted by the U.S. Navy guided missile destroyer USS <i>Arleigh Burke</i> (DDG-51) while a French Eurocopter SA 365 <i>Dauphin</i> helicopter m",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a4/USS_Arleigh_Burke-DDG-51.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/a4/USS_Arleigh_Burke-DDG-51.jpg",
+      "width": 800,
+      "height": 448,
+      "title": "USS Arleigh Burke-DDG-51.jpg",
+      "description": "<a href=\"https://en.wikipedia.org/wiki/USS_Arleigh_Burke_(DDG-51)\" class=\"extiw\" title=\"en:USS Arleigh Burke (DDG-51)\">USS Arleigh Burke (DDG-51)</a>",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/53/USS_Arleigh_Burke_%28DDG-51%29_approach.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/53/USS_Arleigh_Burke_%28DDG-51%29_approach.jpg",
+      "width": 367,
+      "height": 449,
+      "title": "USS Arleigh Burke (DDG-51) approach.jpg",
+      "description": "The U.S. Navy guided missile destroyer USS <i>Arleigh Burke</i> (DDG-51) during Bravo Sea Trials off Maine (USA).",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/08/USS_Arleigh_Burke_%28DDG-51%29_at_sea.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/08/USS_Arleigh_Burke_%28DDG-51%29_at_sea.jpg",
+      "width": 363,
+      "height": 273,
+      "title": "USS Arleigh Burke (DDG-51) at sea.jpg",
+      "description": "On the Atlantic Ocean, 9 May 2000, USS <i>Arleigh Burke</i> (DDG-51) maintains a steady course as she prepares to come alongside USS <i>Harry S. Truman</i> (CVN-75) for an underway refueling. <i>Burke",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/USS_Arleigh_Burke_%28DDG_51%29_departs_Clyde_Naval_Base.jpg/1280px-USS_Arleigh_Burke_%28DDG_51%29_departs_Clyde_Naval_Base.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/31/USS_Arleigh_Burke_%28DDG_51%29_departs_Clyde_Naval_Base.jpg",
+      "width": 2953,
+      "height": 1961,
+      "title": "USS Arleigh Burke (DDG 51) departs Clyde Naval Base.jpg",
+      "description": "050606-N-0000C-001 Faslane, Scotland (June 6, 2005) \u2013 The guided missile destroyer USS Arleigh Burke (DDG 51) departs Clyde Naval Base in Faslane, Scotland. Arleigh Burke is currently participating in",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/USS_Arleigh_Burke_%28DDG_51%29_in_Crete.jpg/1280px-USS_Arleigh_Burke_%28DDG_51%29_in_Crete.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/8a/USS_Arleigh_Burke_%28DDG_51%29_in_Crete.jpg",
+      "width": 2100,
+      "height": 1500,
+      "title": "USS Arleigh Burke (DDG 51) in Crete.jpg",
+      "description": "<a href=\"//commons.wikimedia.org/wiki/Commons:VIRIN\" title=\"Commons:VIRIN\">VIRIN</a>: <span class=\"plainlinks\"><a rel=\"nofollow\" class=\"external text\" href=\"http://www.defenseimagery.mil/imagery.html#",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/USS_Arleigh_Burke_arrives_in_Bahrain._%2814208351256%29.jpg/1280px-USS_Arleigh_Burke_arrives_in_Bahrain._%2814208351256%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/74/USS_Arleigh_Burke_arrives_in_Bahrain._%2814208351256%29.jpg",
+      "width": 3000,
+      "height": 1997,
+      "title": "USS Arleigh Burke arrives in Bahrain. (14208351256).jpg",
+      "description": "<p>MANAMA, Bahrain (May 13, 2014) Boatswain\u2019s Mate 2nd Class Travis Wilson, from Rio Vista, Calif., heaves a mooring line as the guided-missile destroyer USS Arleigh Burke (DDG 51) prepares to moor fo",
+      "license": "Public domain",
+      "source": "wikimedia"
+    }
+  ],
+  "doctrine": {
+    "role": "Fleet air defense and distributed lethality within contested maritime environments, serving as the primary multi-mission combatant for both carrier strike group escort and independent surface action group operations.",
+    "employment": "Typically deployed as part of carrier strike groups providing area air defense, or in surface action groups of 2-4 destroyers for distributed maritime operations. Standard loadouts vary by mission: heavy SM-2/SM-6 for air defense, balanced loads for multi-mission, or Tomahawk-heavy for land attack. Burke-class destroyers operate under tactical control of strike group commanders but maintain significant independent capability for distributed operations across multiple threat axes.",
+    "design_philosophy": "Prioritized magazine depth and Aegis integration over traditional destroyer attributes like speed and helicopter facilities. The design sacrificed a second helicopter hangar, reduced accommodations quality, and accepted 30-knot speed to maximize the 90-96 cell Mk 41 VLS capacity and ensure robust air defense radar performance in high sea states.",
+    "threat_context": "Originally designed for Cold War fleet air defense against Soviet bomber-launched anti-ship missiles, the class has evolved to address ballistic missile threats, distributed anti-ship missile attacks, and near-peer surface combatants. The threat environment now emphasizes longer-range precision strikes and multi-domain operations rather than the massed air attacks the Aegis system was optimized to counter.",
+    "comparison_frame": "Compare primarily on VLS cell count, radar performance, and magazine flexibility rather than traditional metrics like speed or gun armament. Both Chinese and European designers have accepted similar speed limitations, making sensor range, missile inventory depth, and combat system integration the key differentiators for modern surface combatants."
+  },
+  "curated_sources": [
+    {
+      "title": "U.S. Navy Destroyers: An Illustrated Design History",
+      "type": "book",
+      "url": "",
+      "relevance": "Friedman provides the definitive technical and doctrinal development history of the Arleigh Burke class from conception through early variants.",
+      "priority": "essential"
+    },
+    {
+      "title": "Navy Arleigh Burke Class (DDG-51) Destroyer Procurement",
+      "type": "report",
+      "url": "https://crsreports.congress.gov/product/pdf/RL/RL32109",
+      "relevance": "CRS report provides current procurement status, modernization programs, and congressional perspective on Burke-class capabilities and costs.",
+      "priority": "essential"
+    },
+    {
+      "title": "Distributed Lethality and the Future of Naval Surface Warfare",
+      "type": "report",
+      "url": "https://csbaonline.org/research/publications/distributed-lethality",
+      "relevance": "CSBA analysis explains how Burke-class destroyers fit into the Navy's distributed lethality concept and future surface warfare doctrine.",
+      "priority": "recommended"
+    },
+    {
+      "title": "Naval War College Review - Surface Warfare",
+      "type": "analyst",
+      "url": "https://digital-commons.usnwc.edu/nwc-review/",
+      "relevance": "Premier venue for US Navy surface warfare doctrinal analysis and Burke-class employment concepts from serving officers and analysts.",
+      "priority": "recommended"
+    },
+    {
+      "title": "WDMMW - Arleigh Burke Class",
+      "type": "database",
+      "url": "http://www.wdmmw.org/AEGIS.htm",
+      "relevance": "Comprehensive technical specifications and variant differences across all Burke-class flights with detailed weapons loadout options.",
+      "priority": "reference"
+    },
+    {
+      "title": "NDP 1 - Naval Warfare",
+      "type": "report",
+      "url": "https://www.navy.mil/Resources/Library/Naval-Doctrine-Publications/",
+      "relevance": "Official US Navy doctrinal publication outlining surface combatant roles including Burke-class employment in joint maritime operations.",
+      "priority": "recommended"
+    },
+    {
+      "title": "Breaking Defense - Naval Warfare",
+      "type": "analyst",
+      "url": "https://breakingdefense.com/tag/naval-warfare/",
+      "relevance": "Consistent coverage of Burke-class modernization programs, new construction, and evolving mission requirements from defense industry perspective.",
+      "priority": "reference"
+    },
+    {
+      "title": "The Aegis Combat System: Past, Present, and Future",
+      "type": "article",
+      "url": "https://www.usni.org/magazines/proceedings",
+      "relevance": "USNI Proceedings regularly features Burke-class operational employment and Aegis system evolution from fleet operators and program managers.",
+      "priority": "recommended"
+    }
+  ]
+}

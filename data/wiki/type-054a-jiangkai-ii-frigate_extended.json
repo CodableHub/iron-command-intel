@@ -1,0 +1,282 @@
+{
+  "combat_history": [
+    {
+      "date": "2008-12",
+      "operation": "Gulf of Aden Anti-Piracy",
+      "event": "Type 054As began regular rotations as part of PLAN anti-piracy task forces, marking China's first sustained blue-water naval operations. Multiple hulls have conducted hundreds of escort missions.",
+      "significance": "Demonstrated China's ability to sustain global naval operations and validated the Type 054A's long-range capabilities and reliability"
+    },
+    {
+      "date": "2015-03",
+      "operation": "Yemen Evacuation",
+      "event": "Frigate Weifang (550) evacuated 449 Chinese nationals and 225 foreign nationals from Yemen during civil war, operating independently in Red Sea.",
+      "significance": "First major non-combatant evacuation operation by modern PLAN frigate, showcasing diplomatic and humanitarian mission capabilities"
+    },
+    {
+      "date": "2019-04",
+      "operation": "International Fleet Review",
+      "event": "Multiple Type 054As participated in naval exercises with Russian, Indian, and other navies, demonstrating interoperability and advanced tactics.",
+      "significance": "Showed maturation of PLAN surface warfare doctrine and integration with international naval standards"
+    },
+    {
+      "date": "2020-2023",
+      "operation": "South China Sea Patrols",
+      "event": "Type 054As regularly intercept and shadow US and allied naval vessels during freedom of navigation operations, with multiple close encounters reported.",
+      "significance": "Primary PLAN asset for asserting territorial claims and challenging foreign naval presence in disputed waters"
+    }
+  ],
+  "modernization": [
+    {
+      "program": "Mid-Life Upgrade Program",
+      "status": "in-progress",
+      "timeline": "2022-2030",
+      "description": "Early batch hulls receiving upgraded combat management systems, improved ESM/ECM capabilities, and enhanced datalink systems to maintain relevance.",
+      "impact": "Extends service life and maintains combat effectiveness against evolving threats, particularly in electronic warfare"
+    },
+    {
+      "program": "Type 054B Development",
+      "status": "completed",
+      "timeline": "2020-2024",
+      "description": "Next-generation frigate incorporating lessons learned from Type 054A operations, featuring AESA radar, integrated mast, and larger VLS capacity.",
+      "impact": "Type 054A production ended in 2023 as focus shifts to more advanced Type 054B design"
+    }
+  ],
+  "vulnerabilities": [
+    {
+      "area": "Air Defense Radar",
+      "description": "Type 382 radar uses older rotating array technology, limiting simultaneous target tracking and engagement compared to modern AESA systems. Detection range against low-RCS targets is questionable.",
+      "context": "Makes the class vulnerable to coordinated missile attacks and reduces effectiveness against 5th generation aircraft and advanced anti-ship missiles",
+      "mitigation": "Batch 2 ships have improved radar processing, but fundamental limitations remain until mid-life upgrades"
+    },
+    {
+      "area": "Electronic Warfare",
+      "description": "Limited electronic attack capabilities and relatively basic electronic support measures compared to contemporary Western frigates. Vulnerable to jamming of datalinks and sensors.",
+      "context": "Critical weakness in contested electromagnetic environments like Taiwan Strait or against US/allied forces with advanced EW capabilities",
+      "mitigation": "Upgrade programs focus on ESM/ECM improvements, but hardware limitations constrain effectiveness"
+    },
+    {
+      "area": "VLS Magazine Depth",
+      "description": "Only 32 VLS cells limits sustained combat operations and forces difficult trade-offs between air defense and strike missions. Cannot reload at sea.",
+      "context": "In high-intensity conflict, Type 054As would quickly exhaust missile inventory, requiring frequent return to port or vulnerable at-sea replenishment",
+      "mitigation": "Tactical employment emphasizes coordination with other platforms, but fundamental limitation remains"
+    },
+    {
+      "area": "Anti-Submarine Warfare",
+      "description": "ASW sensors and processing are adequate but not exceptional. Towed array sonar is shorter and less capable than latest Western systems.",
+      "context": "Limits effectiveness against quiet nuclear submarines, particularly important given submarine threats to Chinese carrier groups",
+      "mitigation": "PLAN doctrine emphasizes coordinated ASW with helicopters and specialized ASW vessels"
+    }
+  ],
+  "operational_patterns": {
+    "typical_deployment": "Carrier strike group escort, independent task group operations, anti-piracy patrols, territorial waters enforcement",
+    "deployment_length_months": 4,
+    "key_operating_areas": [
+      "South China Sea",
+      "East China Sea",
+      "Western Pacific",
+      "Indian Ocean",
+      "Gulf of Aden"
+    ],
+    "typical_task_group": "2-3 Type 054As with Type 052D destroyer, supply ship, and submarine support",
+    "readiness_notes": "High operational tempo has strained maintenance cycles; some hulls showing wear from intensive South China Sea patrols"
+  },
+  "peer_comparisons": [
+    {
+      "platform": "FREMM multipurpose frigate",
+      "country": "France/Italy",
+      "relationship": "direct rival",
+      "key_differences": "FREMM has superior radar (EMPAR AESA), more VLS cells (16-32 Aster + 16 Scalp), but Type 054A has better cost-effectiveness and larger production run. FREMM emphasizes quality, Type 054A emphasizes quantity.",
+      "video_angle": "Mass production vs high-tech: comparing naval philosophies through frigate design choices"
+    },
+    {
+      "platform": "Admiral Gorshkov-class frigate",
+      "country": "Russia",
+      "relationship": "direct rival",
+      "key_differences": "Gorshkov has superior anti-ship firepower (Kalibr missiles), more advanced stealth shaping, but much smaller production numbers and reliability issues. Type 054A prioritizes proven systems over cutting-edge capability.",
+      "video_angle": "Reliability vs capability: Russian innovation vs Chinese mass production in modern frigate design"
+    },
+    {
+      "platform": "FFG-62 Constellation-class",
+      "country": "United States",
+      "relationship": "direct rival",
+      "key_differences": "Constellation emphasizes network warfare and Aegis integration with 32 VLS cells but costs 3x more than Type 054A. Type 054A trades advanced networking for affordability and proven systems.",
+      "video_angle": "The new frigate competition: US network warfare vs Chinese mass production strategies"
+    },
+    {
+      "platform": "Type 26 City-class frigate",
+      "country": "United Kingdom",
+      "relationship": "capability comparison",
+      "key_differences": "Type 26 is ASW-specialized with ultra-quiet propulsion and advanced sonar, while Type 054A is general-purpose. Type 26 costs 5x more but offers superior ASW capability in specific scenarios.",
+      "video_angle": "Specialist vs generalist: comparing ASW-focused and multi-role frigate approaches"
+    },
+    {
+      "platform": "Shivalik-class frigate",
+      "country": "India",
+      "relationship": "regional rival",
+      "key_differences": "Similar displacement and mission but Shivalik uses mix of Russian, Israeli, and Indian systems vs Chinese domestic systems on Type 054A. Both emphasize regional power projection but different industrial approaches.",
+      "video_angle": "Indian Ocean rivalry: comparing Chinese and Indian approaches to naval modernization"
+    }
+  ],
+  "search_keywords": [
+    "type 054a",
+    "jiangkai ii",
+    "jiangkai-ii",
+    "jiangkai 2",
+    "plan frigate",
+    "chinese frigate",
+    "054a",
+    "type-054a",
+    "hhq-16",
+    "yj-83"
+  ],
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/547_Linyi%2C_Type_054A_Jiangkai_II_class_Frigate%2C_People%27s_Liberation_Army_Navy%2C_15_October_2013_-_Auckland.jpg/1280px-547_Linyi%2C_Type_054A_Jiangkai_II_class_Frigate%2C_People%27s_Liberation_Army_Navy%2C_15_October_2013_-_Auckland.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/cd/547_Linyi%2C_Type_054A_Jiangkai_II_class_Frigate%2C_People%27s_Liberation_Army_Navy%2C_15_October_2013_-_Auckland.jpg",
+      "width": 4448,
+      "height": 2965,
+      "title": "547 Linyi, Type 054A Jiangkai II class Frigate, People's Liberation Army Navy, 15 October 2013 - Auckland.jpg",
+      "description": "547 Linyi, Type 054A Jiangkai II class Frigate, People's Liberation Army Navy, 15 October 2013 - Auckland",
+      "license": "CC BY-SA 2.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Handan_%28579%29_Frigate_-_Type_1130_CIWS_-_Closeup.jpg/1280px-Handan_%28579%29_Frigate_-_Type_1130_CIWS_-_Closeup.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Handan_%28579%29_Frigate_-_Type_1130_CIWS_-_Closeup.jpg",
+      "width": 4512,
+      "height": 2410,
+      "title": "Handan (579) Frigate - Type 1130 CIWS - Closeup.jpg",
+      "description": "Close up of the barrel of the Type 730 Close In Weapons System (CIWS) of the Handan (579), a Type 054A Frigate of the People's Liberation Army Navy (PLAN). Photo taken at the Manila South Harbor.",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Handan_%28579%29_Frigate_-_Type_1130_CIWS_-_Front_View.jpg/1280px-Handan_%28579%29_Frigate_-_Type_1130_CIWS_-_Front_View.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/de/Handan_%28579%29_Frigate_-_Type_1130_CIWS_-_Front_View.jpg",
+      "width": 4542,
+      "height": 2471,
+      "title": "Handan (579) Frigate - Type 1130 CIWS - Front View.jpg",
+      "description": "Front view of the Type 1130 Close In Weapons (CIWS) of the Wuhu (539), a Type 054A Frigate of the People's Liberation Army Navy (PLAN). Photo taken at the Manila South Harbor.",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Handan_%28579%29_Frigate_-_Type_1130_CIWS_-_Side_View.jpg/1280px-Handan_%28579%29_Frigate_-_Type_1130_CIWS_-_Side_View.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/28/Handan_%28579%29_Frigate_-_Type_1130_CIWS_-_Side_View.jpg",
+      "width": 4546,
+      "height": 2479,
+      "title": "Handan (579) Frigate - Type 1130 CIWS - Side View.jpg",
+      "description": "Side view of the Type 1130 Close In Weapons (CIWS) of the Wuhu (539), a Type 054A Frigate of the People's Liberation Army Navy (PLAN). Photo taken at the Manila South Harbor.",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Handan_%28579%29_Frigate_-_Type_345_Radar.jpg/1280px-Handan_%28579%29_Frigate_-_Type_345_Radar.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/50/Handan_%28579%29_Frigate_-_Type_345_Radar.jpg",
+      "width": 4608,
+      "height": 2592,
+      "title": "Handan (579) Frigate - Type 345 Radar.jpg",
+      "description": "The Type 345 Fire Control Radar (FCR) for the HQ-16 Surface to Air Missiles (SAM) of the Handan (579), a Type 054A Frigate of the People's Liberation Army Navy (PLAN). Also below the radar, a Type 89 ",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/26/Jiangkai_II_%28Type_054A%29_Class_Frigate.JPG",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/26/Jiangkai_II_%28Type_054A%29_Class_Frigate.JPG",
+      "width": 899,
+      "height": 501,
+      "title": "Jiangkai II (Type 054A) Class Frigate.JPG",
+      "description": "CSR Report RL33153 China Naval Modernization: Implications for U.S. Navy Capabilities\u2014Background and Issues for Congress by Ronald O'Rourke dated February 28, 2014.\n<p>Page 25 - Figure 8. Jiangkai II ",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Wuhu_%28539%29_Frigate_-_Type_1130_CIWS.jpg/1280px-Wuhu_%28539%29_Frigate_-_Type_1130_CIWS.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Wuhu_%28539%29_Frigate_-_Type_1130_CIWS.jpg",
+      "width": 4488,
+      "height": 2358,
+      "title": "Wuhu (539) Frigate - Type 1130 CIWS.jpg",
+      "description": "The Type 1130 Close In Weapons (CIWS) of the Wuhu (539), a Type 054A Frigate of the People's Liberation Army Navy (PLAN). Photo taken at the Manila South Harbor.",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Wuhu_%28539%29_Frigate_-_Type_1130_CIWS_Barrel.jpg/1280px-Wuhu_%28539%29_Frigate_-_Type_1130_CIWS_Barrel.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Wuhu_%28539%29_Frigate_-_Type_1130_CIWS_Barrel.jpg",
+      "width": 4516,
+      "height": 2418,
+      "title": "Wuhu (539) Frigate - Type 1130 CIWS Barrel.jpg",
+      "description": "Close up of the barrel of the Type 730 Close In Weapons System (CIWS) of the Wuhu (539), a Type 054A Frigate of the People's Liberation Army Navy (PLAN). Photo taken at the Manila South Harbor.",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/CNS_Linyi_%28FFG-547%29.jpg/1280px-CNS_Linyi_%28FFG-547%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/CNS_Linyi_%28FFG-547%29.jpg",
+      "width": 2035,
+      "height": 716,
+      "title": "CNS Linyi (FFG-547).jpg",
+      "description": "\uff15\u6708\uff12\uff17\u65e5\uff08\u6708\uff09\u5348\u5f8c\uff11\u6642\u9803\u3001\u6d77\u4e0a\u81ea\u885b\u968a\u7b2c\uff11\uff12\u8b77\u885b\u968a\u300c\u305b\u3093\u3060\u3044\u300d\uff08\u5449\uff09\u53ca\u3073\u7b2c\uff15\u822a\u7a7a\u7fa4\u6240\u5c5e\u300c\uff30\uff0d\uff13\uff23\u300d\uff08\u90a3\u8987\uff09\u304c\u3001\u5bae\u53e4\u5cf6\u306e\u5317\u6771\u7d04\uff11\uff11\uff10\uff4b\uff4d\u306e\u6d77\u57df\u3092\u6771\u30b7\u30ca\u6d77\u304b\u3089\u592a\u5e73\u6d0b\u306b\u5411\u3051\u3066\u5357\u6771\u9032\u3059\u308b\u4e2d\u56fd\u6d77\u8ecd\u30eb\u30d5\u7d1a\u99c6\u9010\u8266\uff11\u96bb\u3001\u30b8\u30e3\u30f3\u30ab\u30a4\u2161\u7d1a\u30d5\u30ea\u30b2\u30fc\u30c8\uff11\u96bb\u53ca\u3073\u30d5\u30fc\u30c1\u30f3\u7d1a\u88dc\u7d66\u8266\uff11\u96bb\u306e\u5408\u8a08\uff13\u96bb\u3092\u78ba\u8a8d\u3057\u307e\u3057\u305f\u3002",
+      "license": "CC BY 4.0",
+      "source": "wikimedia"
+    }
+  ],
+  "doctrine": {
+    "role": "Multi-domain area denial within the first and second island chains, serving as China's primary tool for establishing sea control in contested waters while providing credible anti-air warfare protection for high-value units.",
+    "employment": "Typically operates in task groups of 2-4 frigates with destroyer leadership, providing layered air defense for carrier strike groups or amphibious ready groups. Conducts independent patrol missions in South China Sea and East China Sea, often supported by Type 903A replenishment ships for extended deployments. Increasingly deployed on distant water operations including Gulf of Aden anti-piracy missions and showing-the-flag operations in Indian Ocean and Mediterranean.",
+    "design_philosophy": "Prioritized sensor integration and vertical launch capability over speed and endurance, accepting a modest 27-knot top speed to maximize magazine depth with 32 VLS cells. Designers emphasized multi-mission flexibility and reduced radar signature over specialized anti-submarine warfare capabilities, trading dedicated towed array sonar for hull-mounted systems to reduce complexity and cost.",
+    "threat_context": "Originally designed to counter U.S. carrier aviation and Tomahawk missile threats in Taiwan Strait scenarios, with HHQ-16 SAM system specifically chosen to engage subsonic cruise missiles. Threat environment has evolved to include hypersonic weapons and distributed lethality concepts, driving recent upgrades to combat management systems and electronic warfare suites.",
+    "comparison_frame": "Compare primarily on air defense magazine depth and sensor integration rather than anti-submarine warfare capabilities - the Type 054A prioritizes area air defense over ASW specialization. Speed comparisons are less relevant as all modern frigates accept 25-30 knots as adequate, focus instead on combat system architecture and multi-mission flexibility."
+  },
+  "curated_sources": [
+    {
+      "title": "China Naval Modernization: Implications for U.S. Navy Capabilities",
+      "type": "report",
+      "url": "https://crsreports.congress.gov/product/pdf/RL/RL33153",
+      "relevance": "Comprehensive analysis of PLAN surface combatant development including detailed Type 054A program assessment and strategic implications.",
+      "priority": "essential"
+    },
+    {
+      "title": "Chinese Naval Shipbuilding: An Ambitious and Uncertain Course",
+      "type": "analyst",
+      "url": "https://www.usni.org/magazines/proceedings/2019/04/chinese-naval-shipbuilding-ambitious-and-uncertain-course",
+      "relevance": "Andrew Erickson's authoritative analysis of PLAN shipbuilding priorities and the Type 054A's role in fleet modernization.",
+      "priority": "essential"
+    },
+    {
+      "title": "The PLA Navy: New Capabilities and Missions for the 21st Century",
+      "type": "book",
+      "url": "",
+      "relevance": "Definitive academic analysis of PLAN doctrinal evolution and surface combatant employment concepts including frigate operations.",
+      "priority": "recommended"
+    },
+    {
+      "title": "China's Military Strategy White Paper 2015",
+      "type": "report",
+      "url": "http://www.china.org.cn/china/2015-05/26/content_35661433.htm",
+      "relevance": "Official Chinese doctrinal publication outlining 'far seas protection' mission that drives Type 054A employment patterns.",
+      "priority": "recommended"
+    },
+    {
+      "title": "China's Anti-Access Area-Denial Strategy",
+      "type": "report",
+      "url": "https://www.csbaonline.org/research/publications/air-sea-battle-point-counterpoint",
+      "relevance": "CSBA analysis of A2/AD concepts that explain the Type 054A's design priorities and operational employment.",
+      "priority": "recommended"
+    },
+    {
+      "title": "Type 054A Jiangkai II Class Frigate",
+      "type": "database",
+      "url": "https://www.seaforces.org/marint/Chinese-Navy/Frigate/Type-054A-class.htm",
+      "relevance": "Comprehensive technical specifications and construction timeline for all Type 054A hulls with regular updates.",
+      "priority": "reference"
+    },
+    {
+      "title": "China's Navy 2007: Expanding Capabilities, Evolving Roles",
+      "type": "report",
+      "url": "https://digital-commons.usnwc.edu/nwc-review/vol61/iss4/5/",
+      "relevance": "Naval War College analysis of PLAN surface combatant doctrine during Type 054A development period.",
+      "priority": "reference"
+    }
+  ]
+}

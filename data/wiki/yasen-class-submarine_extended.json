@@ -1,0 +1,278 @@
+{
+  "combat_history": [
+    {
+      "date": "2015-10",
+      "operation": "Syrian intervention",
+      "event": "K-560 Severodvinsk conducted first operational cruise missile strikes using Kalibr missiles against targets in Syria from the Eastern Mediterranean",
+      "significance": "First combat use of Yasen-class weapons systems, demonstrated long-range precision strike capability"
+    },
+    {
+      "date": "2016-08",
+      "operation": "Arctic patrol",
+      "event": "Severodvinsk conducted extended Arctic patrol, testing under-ice operations and Arctic warfare capabilities",
+      "significance": "Validated Arctic operational capability crucial for Russia's northern strategy"
+    },
+    {
+      "date": "2018-11",
+      "operation": "Atlantic patrol",
+      "event": "Severodvinsk tracked by NATO forces during extended Atlantic deployment, reportedly approached US East Coast",
+      "significance": "Demonstrated strategic reach and ability to threaten CONUS from submarine platforms"
+    },
+    {
+      "date": "2022-05",
+      "operation": "Zircon missile test",
+      "event": "K-561 Kazan successfully test-fired Zircon hypersonic cruise missile, first submarine launch of the weapon",
+      "significance": "Major capability leap providing near-hypersonic anti-ship strike capability"
+    }
+  ],
+  "modernization": [
+    {
+      "program": "Zircon missile integration",
+      "status": "in-progress",
+      "timeline": "2022-2025",
+      "description": "Integration of 3M22 Zircon hypersonic cruise missiles into VLS cells, including fire control system updates and missile handling modifications",
+      "impact": "Provides Mach 8+ strike capability against high-value naval targets"
+    },
+    {
+      "program": "Omnibus-M combat system upgrade",
+      "status": "planned",
+      "timeline": "2024-2028",
+      "description": "Upgraded combat management system with improved sensor fusion, AI-assisted targeting, and enhanced electronic warfare capabilities",
+      "impact": "Significantly improves multi-target engagement and survivability"
+    },
+    {
+      "program": "Sonar array modernization",
+      "status": "in-progress",
+      "timeline": "2023-2026",
+      "description": "Installation of improved MGK-600M sonar systems on later hulls with enhanced signal processing and lower noise signatures",
+      "impact": "Improved detection ranges and acoustic stealth"
+    }
+  ],
+  "vulnerabilities": [
+    {
+      "area": "Acoustic signature",
+      "description": "Despite improvements, Yasen-class boats remain significantly louder than Western SSNs, with estimated acoustic signature 3-5 times higher than Virginia-class",
+      "context": "Makes them more vulnerable to detection by advanced sonar networks in contested areas like GIUK gap",
+      "mitigation": "Ongoing quieting improvements in later hulls, tactical emphasis on standoff engagement"
+    },
+    {
+      "area": "Industrial capacity",
+      "description": "Severe construction delays due to sanctions, economic constraints, and industrial capacity limitations at Sevmash",
+      "context": "Original plan called for much faster delivery schedule, limiting fleet expansion during critical period",
+      "mitigation": "Increased defense spending allocation, but fundamental industrial constraints remain"
+    },
+    {
+      "area": "Sensor integration",
+      "description": "Combat system integration reportedly problematic on early hulls, with sensor fusion and fire control reliability issues",
+      "context": "Reduces multi-target engagement effectiveness and increases crew workload in high-threat scenarios",
+      "mitigation": "Software updates and Omnibus-M upgrade program addressing integration issues"
+    },
+    {
+      "area": "Maintenance complexity",
+      "description": "Highly complex systems require extensive shore support infrastructure, limiting deployment flexibility",
+      "context": "Particularly problematic for Pacific Fleet operations from Kamchatka with limited facilities",
+      "mitigation": "Infrastructure investments at Vilyuchinsk and mobile repair capabilities"
+    }
+  ],
+  "operational_patterns": {
+    "typical_deployment": "Strategic deterrence patrols, SSBN protection, anti-carrier operations in contested zones",
+    "deployment_length_months": 3,
+    "key_operating_areas": [
+      "Barents Sea",
+      "Norwegian Sea",
+      "Eastern Mediterranean",
+      "Sea of Okhotsk"
+    ],
+    "typical_task_group": "Independent operations or with surface action groups during major exercises",
+    "readiness_notes": "Limited by small fleet size and maintenance requirements, typically 1-2 boats operationally available"
+  },
+  "peer_comparisons": [
+    {
+      "platform": "Virginia-class SSN",
+      "country": "United States",
+      "relationship": "direct rival",
+      "key_differences": "Virginia emphasizes stealth and special operations capability while Yasen prioritizes firepower and long-range strike. Virginia quieter but carries fewer missiles.",
+      "video_angle": "East vs West submarine philosophy - stealth vs firepower comparison"
+    },
+    {
+      "platform": "Astute-class SSN",
+      "country": "United Kingdom",
+      "relationship": "direct rival",
+      "key_differences": "Astute significantly smaller and stealthier but limited to torpedo armament. Yasen trades acoustic signature for missile strike capability.",
+      "video_angle": "Traditional torpedo submarine vs modern missile boat comparison"
+    },
+    {
+      "platform": "Seawolf-class SSN",
+      "country": "United States",
+      "relationship": "capability predecessor",
+      "key_differences": "Seawolf faster and quieter but lacks VLS capability. Both represent 'super submarine' approaches with different mission emphasis.",
+      "video_angle": "Cold War superships - pure hunter vs multi-mission striker"
+    },
+    {
+      "platform": "Type 093B Shang-class",
+      "country": "China",
+      "relationship": "allied equivalent",
+      "key_differences": "Type 093B smaller with fewer missiles but reportedly quieter. Both represent second-tier naval powers' attempts to match US capability.",
+      "video_angle": "Russia vs China submarine competition - who's catching up faster?"
+    },
+    {
+      "platform": "Suffren-class SSN",
+      "country": "France",
+      "relationship": "allied equivalent",
+      "key_differences": "Suffren smaller but more advanced sensors and quieter operation. Both feature pump-jet propulsion and modern combat systems.",
+      "video_angle": "European vs Russian submarine design philosophy comparison"
+    }
+  ],
+  "search_keywords": [
+    "yasen class",
+    "project 885",
+    "project 885M",
+    "severodvinsk",
+    "kazan submarine",
+    "russian ssn",
+    "kalibr submarine",
+    "zircon missile",
+    "yasen-m",
+    "project 885m"
+  ],
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Kazan_1.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Kazan_1.jpg",
+      "width": 1036,
+      "height": 588,
+      "title": "Kazan 1.jpg",
+      "description": "Roll out ceremony of nuclear submarine Kazan.",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Medyakovo%2C_Novosibirsk_oblast.jpg/1280px-Medyakovo%2C_Novosibirsk_oblast.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Medyakovo%2C_Novosibirsk_oblast.jpg",
+      "width": 4000,
+      "height": 3000,
+      "title": "Medyakovo, Novosibirsk oblast.jpg",
+      "description": "Udarnik street in Medyakovo, Kupinskiy district, Novosibirsk oblast, Russia",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Model_Yasen-class_submarine_at_the_exhibition_%C2%ABArmy_2016%C2%BB.jpg/1280px-Model_Yasen-class_submarine_at_the_exhibition_%C2%ABArmy_2016%C2%BB.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/31/Model_Yasen-class_submarine_at_the_exhibition_%C2%ABArmy_2016%C2%BB.jpg",
+      "width": 3144,
+      "height": 2064,
+      "title": "Model Yasen-class submarine at the exhibition \u00abArmy 2016\u00bb.jpg",
+      "description": "\u041c\u043e\u0434\u0435\u043b\u044c \u041f\u041b\u0410\u0420\u041a \u043f\u0440\u043e\u0435\u043a\u0442\u0430 885 \u00ab\u042f\u0441\u0435\u043d\u044c\u00bb \u043d\u0430 \u0432\u044b\u0441\u0442\u0430\u0432\u043a\u0435 \u00ab\u0410\u0440\u043c\u0438\u044f 2016\u00bb",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Novosibirsk_Chelyuskintsev_KFC_07-2016.jpg/1280px-Novosibirsk_Chelyuskintsev_KFC_07-2016.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/90/Novosibirsk_Chelyuskintsev_KFC_07-2016.jpg",
+      "width": 3603,
+      "height": 2402,
+      "title": "Novosibirsk Chelyuskintsev KFC 07-2016.jpg",
+      "description": "KFC restaurant at Chelyuskintsev Street in Novosibirsk, Russia",
+      "license": "FAL",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Novosibirsk_KrasnyPr_Opera_Theatre_07-2016.jpg/1280px-Novosibirsk_KrasnyPr_Opera_Theatre_07-2016.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Novosibirsk_KrasnyPr_Opera_Theatre_07-2016.jpg",
+      "width": 5011,
+      "height": 3132,
+      "title": "Novosibirsk KrasnyPr Opera Theatre 07-2016.jpg",
+      "description": "The Opera and Ballet Theatre in Novosibirsk, Russia",
+      "license": "FAL",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/2e/RUSMARKA-3132.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/2e/RUSMARKA-3132.jpg",
+      "width": 473,
+      "height": 331,
+      "title": "RUSMARKA-3132.jpg",
+      "description": "\u041c\u043e\u0440\u0441\u043a\u043e\u0439 \u0444\u043b\u043e\u0442 \u0420\u043e\u0441\u0441\u0438\u0438. \u0410\u0442\u043e\u043c\u043d\u0430\u044f \u043f\u043e\u0434\u0432\u043e\u0434\u043d\u0430\u044f \u043b\u043e\u0434\u043a\u0430 \u043f\u0440\u043e\u0435\u043a\u0442\u0430 885\u041c \u00ab\u042f\u0441\u0435\u043d\u044c-\u041c\u00bb",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c2/The_nuclear_submarine_Kazan_has_arrived_at_a_permanent_base_in_the_Northern_Fleet._May_2021.png",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/c2/The_nuclear_submarine_Kazan_has_arrived_at_a_permanent_base_in_the_Northern_Fleet._May_2021.png",
+      "width": 875,
+      "height": 617,
+      "title": "The nuclear submarine Kazan has arrived at a permanent base in the Northern Fleet. May 2021.png",
+      "description": "The nuclear submarine Kazan has arrived at a permanent base in the Northern Fleet. May 2021",
+      "license": "CC BY 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/%D0%AD%D0%BA%D1%81%D0%BF%D0%BE%D0%BD%D0%B0%D1%82%D1%8B_%D0%BC%D1%83%D0%B7%D0%B5%D1%8F_%D0%9C%D0%B0%D1%80%D0%B8%D0%BD%D0%B5%D1%81%D0%BA%D0%BE%2C_%D0%BC%D0%BE%D0%B4%D0%B5%D0%BB%D0%B8_%D0%BF%D0%BE%D0%B4%D0%BB%D0%BE%D0%B4%D0%BE%D0%BA_08.jpg/1280px-%D0%AD%D0%BA%D1%81%D0%BF%D0%BE%D0%BD%D0%B0%D1%82%D1%8B_%D0%BC%D1%83%D0%B7%D0%B5%D1%8F_%D0%9C%D0%B0%D1%80%D0%B8%D0%BD%D0%B5%D1%81%D0%BA%D0%BE%2C_%D0%BC%D0%BE%D0%B4%D0%B5%D0%BB%D0%B8_%D0%BF%D0%BE%D0%B4%D0%BB%D0%BE%D0%B4%D0%BE%D0%BA_08.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/68/%D0%AD%D0%BA%D1%81%D0%BF%D0%BE%D0%BD%D0%B0%D1%82%D1%8B_%D0%BC%D1%83%D0%B7%D0%B5%D1%8F_%D0%9C%D0%B0%D1%80%D0%B8%D0%BD%D0%B5%D1%81%D0%BA%D0%BE%2C_%D0%BC%D0%BE%D0%B4%D0%B5%D0%BB%D0%B8_%D0%BF%D0%BE%D0%B4%D0%BB%D0%BE%D0%B4%D0%BE%D0%BA_08.jpg",
+      "width": 2536,
+      "height": 1405,
+      "title": "\u042d\u043a\u0441\u043f\u043e\u043d\u0430\u0442\u044b \u043c\u0443\u0437\u0435\u044f \u041c\u0430\u0440\u0438\u043d\u0435\u0441\u043a\u043e, \u043c\u043e\u0434\u0435\u043b\u0438 \u043f\u043e\u0434\u043b\u043e\u0434\u043e\u043a 08.jpg",
+      "description": "\u041c\u043e\u0434\u0435\u043b\u044c \u043f\u043e\u0434\u0432\u043e\u0434\u043d\u043e\u0439 \u043b\u043e\u0434\u043a\u0438",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    }
+  ],
+  "doctrine": {
+    "role": "Strategic sea denial and power projection from Russian bastions, designed to break through NATO anti-submarine warfare cordons and threaten high-value targets including carrier strike groups in the Atlantic and Pacific.",
+    "employment": "Operates primarily from Northern and Pacific Fleet bases as individual hunters, leveraging superior quieting and sensor capabilities to penetrate enemy-controlled waters. Designed to operate independently for extended periods, conducting multi-mission profiles from traditional anti-submarine warfare to strategic land attack using Kalibr cruise missiles. Command relationship typically direct to fleet headquarters rather than tactical submarine groups, reflecting their strategic reconnaissance and strike role.",
+    "design_philosophy": "Prioritised multi-mission capability and sensor sophistication over production cost, resulting in extremely expensive platforms with unmatched versatility but limited procurement numbers. Designers sacrificed the rapid construction timelines of Soviet-era submarines for advanced Western-style quieting techniques and integrated combat systems, trading quantity for individual platform capability.",
+    "threat_context": "Developed during the Cold War's end to counter anticipated NATO submarine and surface superiority in a conventional conflict, with emphasis on defeating advanced sonar and anti-submarine warfare systems. The threat environment has evolved to include distributed surface action groups and land-based anti-ship missiles, validating the platform's long-range strike capabilities but challenging its survivability in contested littorals.",
+    "comparison_frame": "Compare primarily on acoustic signature and sensor capability rather than raw speed or diving depth, as stealth and detection range determine survival against peer ASW capabilities. Magazine capacity and missile versatility matter more than torpedo room size, reflecting the shift toward standoff engagement profiles rather than close-range torpedo attacks."
+  },
+  "curated_sources": [
+    {
+      "title": "Russian Nuclear Submarines: A History of Their Warship Development and Deployment",
+      "type": "book",
+      "url": "",
+      "relevance": "Provides comprehensive historical context for Russian submarine design evolution leading to the Yasen-class development.",
+      "priority": "essential"
+    },
+    {
+      "title": "The Russian Navy: A Historic Transition",
+      "type": "report",
+      "url": "https://www.rusi.org/explore-our-research/publications/special-resources/russian-navy-historic-transition",
+      "relevance": "RUSI analysis of modern Russian naval doctrine and the Yasen-class role in contemporary fleet strategy.",
+      "priority": "essential"
+    },
+    {
+      "title": "Russia's Nuclear Submarines",
+      "type": "report",
+      "url": "https://missilethreat.csis.org/country/russia/",
+      "relevance": "CSIS database providing technical specifications and deployment patterns for Russian submarine forces including Yasen-class.",
+      "priority": "recommended"
+    },
+    {
+      "title": "H I Sutton - Covert Shores",
+      "type": "analyst",
+      "url": "https://www.hisutton.com/",
+      "relevance": "Leading open-source analyst for submarine technical details and operational analysis of Russian naval platforms.",
+      "priority": "essential"
+    },
+    {
+      "title": "The Military Balance 2024",
+      "type": "report",
+      "url": "https://www.iiss.org/publications/the-military-balance",
+      "relevance": "IISS authoritative assessment of Russian submarine fleet composition and Yasen-class operational status.",
+      "priority": "recommended"
+    },
+    {
+      "title": "Project 885 Yasen Class",
+      "type": "database",
+      "url": "https://www.seaforces.org/uboat/Russia-Submarine-Nuclear-Attack-Project-885-Yasen-class.htm",
+      "relevance": "Comprehensive technical specifications and construction details for the Yasen-class submarine program.",
+      "priority": "reference"
+    },
+    {
+      "title": "Russian Naval Doctrine and Strategy",
+      "type": "report",
+      "url": "https://carnegieendowment.org/research/russia-eurasia?lang=en&center=russia-eurasia",
+      "relevance": "Carnegie analysis of contemporary Russian naval doctrine informing Yasen-class operational employment concepts.",
+      "priority": "recommended"
+    }
+  ]
+}

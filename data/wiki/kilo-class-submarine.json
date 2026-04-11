@@ -1,0 +1,678 @@
+{
+  "id": 35,
+  "slug": "kilo-class-submarine",
+  "name": "Kilo-class Submarine",
+  "designation": "Project 877/636",
+  "type": "submarine",
+  "country": "Russia",
+  "operator": "Russian Navy and export customers",
+  "overview_md": "The Kilo-class submarine (Project 877/636 *Paltus*) represents Russia's most successful conventional submarine export program and remains one of the world's quietest diesel-electric attack submarines. First commissioned in 1982, the Kilo was designed as a relatively simple, cost-effective platform optimized for coastal defense and ASW operations in Soviet territorial waters. Its reputation for stealth earned it the NATO nickname \"Black Hole\" due to its exceptionally quiet operation when running on battery power.\n\nStrategically, the Kilo serves as Russia's primary conventional submarine for both domestic use and foreign military sales, with over 60 units built for operators including China, India, Iran, Vietnam, and Algeria. The platform's enduring relevance stems from its proven reliability, low acoustic signature, and continuous modernization through the improved Project 636 variants. The latest 636.3 \"Varshavyanka\" variant features enhanced sonar, modern combat systems, and Kalibr cruise missile capability, transforming a coastal defense asset into a strategic strike platform.\n\nIn the current threat environment, Kilos represent a significant asymmetric challenge to Western naval forces. Their ability to operate in shallow littoral waters while remaining nearly undetectable makes them ideal for area denial operations. Recent combat deployments in the Black Sea and Mediterranean have demonstrated the platform's evolution from a defensive ASW asset to an offensive land-attack platform capable of striking targets 1,500+ km inland with Kalibr missiles.\n\nCompared to peers like the German Type 214 or Japanese Soryu-class, the Kilo trades advanced air-independent propulsion for proven reliability and lower cost. While it lacks the extended underwater endurance of AIP submarines, its traditional diesel-electric configuration offers advantages in maintenance simplicity and operational availability, particularly for navies with limited submarine support infrastructure.",
+  "specs_json": {
+    "displacement_tonnes": 2350,
+    "length_m": 73.8,
+    "beam_m": 9.9,
+    "draft_m": 6.6,
+    "speed_knots": 17,
+    "range_nm": 6000,
+    "crew": 57,
+    "propulsion": "Diesel-electric, 2x Kolomna 2D42M diesels, 1 shaft",
+    "radar": "Snoop Tray surface search radar",
+    "sonar": "MGK-400EM Rubikon sonar suite (Project 636.3)",
+    "combat_system": "MVU-110EM combat management system",
+    "vls_cells": 0,
+    "additional": {
+      "torpedo_tubes": 6,
+      "torpedo_capacity": 18,
+      "diving_depth_m": 240,
+      "underwater_endurance_hours": 72,
+      "snorkel_depth_m": 8.5
+    }
+  },
+  "armament_json": [
+    {
+      "category": "Torpedoes",
+      "name": "53-65KE wake-homing torpedo",
+      "type": "heavyweight torpedo",
+      "quantity": "18 total capacity",
+      "range_km": 40,
+      "notes": "Primary anti-ship weapon"
+    },
+    {
+      "category": "Torpedoes",
+      "name": "TEST-71MKE electric torpedo",
+      "type": "ASW torpedo",
+      "quantity": "Mixed loadout",
+      "range_km": 20,
+      "notes": "Anti-submarine warfare"
+    },
+    {
+      "category": "Missiles",
+      "name": "3M-54 Kalibr (Club-S)",
+      "type": "cruise missile",
+      "quantity": "Up to 18 (via torpedo tubes)",
+      "range_km": 1500,
+      "notes": "Project 636.3 variant only"
+    },
+    {
+      "category": "Mines",
+      "name": "Naval mines",
+      "type": "sea mines",
+      "quantity": "Up to 24",
+      "range_km": 0,
+      "notes": "Alternative to torpedo loadout"
+    }
+  ],
+  "variants_json": [
+    {
+      "name": "Project 877 (Original Kilo)",
+      "designation_range": "B-445 onwards",
+      "years": "1982-1994",
+      "count": 24,
+      "key_changes": "Original design with MGK-400 sonar, basic combat systems, export versions designated Project 877E",
+      "status": "mostly retired"
+    },
+    {
+      "name": "Project 636 (Improved Kilo)",
+      "designation_range": "B-871 onwards",
+      "years": "1997-2016",
+      "count": 16,
+      "key_changes": "Improved sonar, better noise isolation, enhanced combat system, some with Club-S missile capability",
+      "status": "active"
+    },
+    {
+      "name": "Project 636.3 (Varshavyanka)",
+      "designation_range": "B-261 onwards",
+      "years": "2014-present",
+      "count": 22,
+      "key_changes": "MGK-400EM sonar, Kalibr cruise missiles, improved electronics, enhanced stealth coating",
+      "status": "active"
+    }
+  ],
+  "fleet_status_json": [
+    {
+      "hull_number": "B-445",
+      "name": "Novorossiisk",
+      "variant": "Project 877",
+      "commissioned": "1982-12-25",
+      "home_port": "Severodvinsk",
+      "status": "retired"
+    },
+    {
+      "hull_number": "B-871",
+      "name": "Alrosa",
+      "variant": "Project 636",
+      "commissioned": "1997",
+      "home_port": "Black Sea Fleet",
+      "status": "active"
+    },
+    {
+      "hull_number": "B-261",
+      "name": "Novorossiisk",
+      "variant": "Project 636.3",
+      "commissioned": "2014-08-22",
+      "home_port": "Novorossiysk",
+      "status": "active"
+    },
+    {
+      "hull_number": "B-237",
+      "name": "Rostov-on-Don",
+      "variant": "Project 636.3",
+      "commissioned": "2014-12-30",
+      "home_port": "Novorossiysk",
+      "status": "active"
+    },
+    {
+      "hull_number": "B-262",
+      "name": "Stary Oskol",
+      "variant": "Project 636.3",
+      "commissioned": "2015-07-17",
+      "home_port": "Novorossiysk",
+      "status": "active"
+    },
+    {
+      "hull_number": "B-265",
+      "name": "Krasnodar",
+      "variant": "Project 636.3",
+      "commissioned": "2015-11-05",
+      "home_port": "Novorossiysk",
+      "status": "active"
+    },
+    {
+      "hull_number": "B-268",
+      "name": "Velikiy Novgorod",
+      "variant": "Project 636.3",
+      "commissioned": "2016-10-26",
+      "home_port": "Novorossiysk",
+      "status": "active"
+    },
+    {
+      "hull_number": "B-271",
+      "name": "Kolpino",
+      "variant": "Project 636.3",
+      "commissioned": "2016-11-24",
+      "home_port": "Novorossiysk",
+      "status": "active"
+    }
+  ],
+  "cost_usd": 350000000.0,
+  "unit_count": 62,
+  "first_commissioned": "1982",
+  "builder": "Admiralty Shipyard, Komsomolsk-on-Amur Shipyard",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e9/%C2%AB%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D0%BE%D0%B4%D0%B0%D1%80%C2%BB.jpg",
+  "wiki_url": "https://en.wikipedia.org/wiki/Kilo-class_submarine",
+  "sources_json": [
+    "https://en.wikipedia.org/wiki/Kilo-class_submarine",
+    "https://www.navy.mil/Resources/Fact-Files/",
+    "https://www.janes.com/",
+    "https://missilethreat.csis.org/",
+    "https://www.naval-technology.com/"
+  ],
+  "comparison_tags": [
+    "submarine",
+    "diesel-electric",
+    "ASW",
+    "cruise-missile",
+    "export",
+    "coastal-defense",
+    "stealth"
+  ],
+  "created_at": "2026-04-10 20:01:50",
+  "updated_at": "2026-04-10T20:01:50.138486",
+  "news": [
+    {
+      "id": 81,
+      "platform_id": 35,
+      "article_hash": "69c5230c12302e2e",
+      "title": "UK says three Russian submarines tracked during \u2018covert\u2019 operation",
+      "url": "https://www.aljazeera.com/news/2026/4/9/uk-says-three-russian-submarines-tracked-during-covert-operation?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "2026-04-09T18:20:57",
+      "relevance_score": 0.6,
+      "snippet": "British defence minister says the operation did not find evidence that Russia had damaged undersea infrastructure.",
+      "created_at": "2026-04-10 20:03:54"
+    },
+    {
+      "id": 85,
+      "platform_id": 35,
+      "article_hash": "d0c9c1caed1ce66c",
+      "title": "UK admits Russian submarines operated over subsea cables for a month",
+      "url": "https://www.naval-technology.com/news/uk-admits-russian-submarines-operated-over-subsea-cables-for-a-month/",
+      "source": "Naval Technology",
+      "published_at": "2026-04-09T15:06:42",
+      "relevance_score": 0.6,
+      "snippet": "The UK has unable to prevent Russian submarines from operating over subsea critical national infrastructure for week, in a new admission.\nThe post UK admits Russian submarines operated over subsea cables for a month appeared first on Naval Technology.",
+      "created_at": "2026-04-10 20:03:54"
+    },
+    {
+      "id": 86,
+      "platform_id": 35,
+      "article_hash": "4508b5a005cb78b6",
+      "title": "UK says it deployed military to deter Russian submarines from attack on undersea cables",
+      "url": "https://www.defensenews.com/global/europe/2026/04/09/uk-says-it-deployed-military-to-deter-russian-submarines-from-attack-on-undersea-cables/",
+      "source": "Defense News",
+      "published_at": "2026-04-09T14:55:55",
+      "relevance_score": 0.6,
+      "snippet": "Norway\u2019s defense ministry said its armed forces had also deployed a P-8 maritime patrol aircraft and a frigate.",
+      "created_at": "2026-04-10 20:03:54"
+    },
+    {
+      "id": 87,
+      "platform_id": 35,
+      "article_hash": "f2f52e823f8f78d0",
+      "title": "UK and Norway Led a Military Operation to Deter Russian Submarines in the North Atlantic - Military.com",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPVXdsazRYMXFoMmRjR1I0TmltQ29yLW5sNkFGenNpYWlLcHk4LVBKYUMyRTlCZWtTUmdiZU1Jb2gzOWh2ckNsTzhNMkJFR2VwMldUUkc4QVVXV3V6RXQ2SlV0MjBhT2lDYjN4ZmF4V1ByYng1NXNEMXJXQzdWTE5xeTQzOU5zYnNmangtMTJwdGpGeXRwTWxqVk5QWDFPU2hrbmU0UElpdVR5a2V2Y2YwWDJ2bkRsTzZhcFJPc0hHai1DczRTeFpV?oc=5",
+      "source": "GNews (Military.com)",
+      "published_at": "2026-04-09T12:33:55",
+      "relevance_score": 0.6,
+      "snippet": "UK and Norway Led a Military Operation to Deter Russian Submarines in the North Atlantic - Military.com",
+      "created_at": "2026-04-10 20:03:54"
+    },
+    {
+      "id": 88,
+      "platform_id": 35,
+      "article_hash": "89d3f8b9b7e4fed5",
+      "title": "Defence secretary reveals month-long Russian submarine operation over cables and pipelines north of UK - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9PbkpQX3oyamxubTM1WlM3WDFFUUV4VnUyX1ZELXB6U2laVE1uMHlEczk0Tm9kTlRDUDRrRW9KWkp5OGtqNWc5WHlySVVfTG9wcl81djhuYw?oc=5",
+      "source": "GNews (BBC)",
+      "published_at": "2026-04-09T12:16:30",
+      "relevance_score": 0.6,
+      "snippet": "Defence secretary reveals month-long Russian submarine operation over cables and pipelines north of UK - BBC",
+      "created_at": "2026-04-10 20:03:54"
+    },
+    {
+      "id": 89,
+      "platform_id": 35,
+      "article_hash": "de69111090538671",
+      "title": "UK exposes covert Russian submarine operation in and around UK waters - navalnews.com",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQSDE1MG1odVlrSTlhZmZ5cDM3ckRrUUhJSWg3UWxBUEtTZ3dtSXlIQnQtVkI1RDlYWVRVUjJ5XzFSZHliY0NWekk1VG5mY01PUnFvd1hObGI1Q3JXTjRGdGJPSnF5bXdXemNwRUhEMVY3aEJINGVBRmtaZVo3MmdxcGFqR19xZW1ET3pvU1ZZS0JOTklxdGh6Qlk0WHYyMmhYZ1BhcHdqVDVxN052Q1FJN2NYMktTUQ?oc=5",
+      "source": "GNews (navalnews.com)",
+      "published_at": "2026-04-09T12:10:49",
+      "relevance_score": 0.6,
+      "snippet": "UK exposes covert Russian submarine operation in and around UK waters - navalnews.com",
+      "created_at": "2026-04-10 20:03:54"
+    },
+    {
+      "id": 90,
+      "platform_id": 35,
+      "article_hash": "620be17f5c32559f",
+      "title": "UK exposes covert Russian submarine operation in and around UK waters",
+      "url": "https://www.navalnews.com/naval-news/2026/04/uk-exposes-covert-russian-submarine-operation-in-and-around-uk-waters/",
+      "source": "Naval News",
+      "published_at": "2026-04-09T12:09:02",
+      "relevance_score": 0.6,
+      "snippet": "The British military has exposed a covert Russian submarine operation in and around UK waters, forcing the vessels to retreat back to Russia. UK Ministry of Defence press release British aircraft and warships identified a Russian attack submarine entering international waters in the High North sever",
+      "created_at": "2026-04-10 20:03:55"
+    },
+    {
+      "id": 92,
+      "platform_id": 35,
+      "article_hash": "2d626dd2c1dad664",
+      "title": "Defence secretary reveals month-long Russian submarine operation over cables and pipelines north of UK - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1sS0NjSWUtU05GOUFrMXlIU0ZGaktUTkpSelgtbGhFcjNJSXBLWXRtWWprNi1YSGlMQWRqNk1YUmJKb2VaVVljVW1RMmV2ZHltY3V3Tw?oc=5",
+      "source": "GNews (BBC)",
+      "published_at": "2026-04-09T12:08:11",
+      "relevance_score": 0.6,
+      "snippet": "Defence secretary reveals month-long Russian submarine operation over cables and pipelines north of UK - BBC",
+      "created_at": "2026-04-10 20:03:55"
+    },
+    {
+      "id": 93,
+      "platform_id": 35,
+      "article_hash": "4dfbd9b1edd9bde4",
+      "title": "\u2018Malign activity\u2019: Russian submarines targeted UK undersea cables, pipelines in month-long operation, claims defence secretary - WION",
+      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQcHJZNElmSzhSbXhsVVBUQ3Nod3ItV21jZnB2ejE0Zl9KaTc3NFI3bTdyQ0ZkM0RLb3hQQzNLYmZDX3JTaGJid0o4b0h0OFFiX25DN2xIZUd4aE9HZVJXZTBsNkp1VDNjUG5PQzZGVnQ3T0FDeGcxVkhmWEl6WXM2aXJWM3g4SlIxeUgtcGFCUlUyTGtwb19GRXU1d1J6TEdDSFJSTm5WUTJUMWVTY3A4bHNMenB0VjJFdWFjTElfWGpjT3VaT2xvb1Npa09wTWUyTDhCczktYmI4cllVckhwemRjcXRLd3hSbmg5VGxrZjg1b3NWY0dWRlFLMNIBgAJBVV95cUxQeUQzWnM1WUFNQnNVeXp6Z3dSSmRyUVBTMmR6SW5qOE4zVGdiNjlCY0JPX0VpenVkRm1NcEFnSTZxcEdjVXBVbGhBVUx1ckVkWDcxMzlobEtDUklyYy1CT3hUWk9BeVdZNlRVNlZKSHZvSVE3QS1sQ1ozMUktQ2NiNzMySmEzZWdFQndZazViN2RvY3hWa1h4NWN5WjNDaXRiYUF4bUxtMGZJcGloRVV4YnFqOUlSVnRDajJoUFJveG9scW9yUkdJeXg2NmlqdTdlTWZmUlVyS2dxal8tU0hMMmt4TTk4MVYwYUJyc1NoenZmVjNERjV3Z1FLTXpZdTNV?oc=5",
+      "source": "GNews (WION)",
+      "published_at": "2026-04-09T11:29:00",
+      "relevance_score": 0.6,
+      "snippet": "\u2018Malign activity\u2019: Russian submarines targeted UK undersea cables, pipelines in month-long operation, claims defence secretary - WION",
+      "created_at": "2026-04-10 20:03:55"
+    },
+    {
+      "id": 94,
+      "platform_id": 35,
+      "article_hash": "145ce0ccfdf1b73a",
+      "title": "Military operation conducted to deter Russian submarines in North Atlantic - Yahoo",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQdmQ0X25Kb2pHazJoQmdITE5aY29uTlE3a0dmMnVWSzNsLWhCZDhhVDJBSFJ1aFRUcl9kOHF4ZjR2NzZxbHliYW10LXdIZWtLM2NxbGtIMm91ZEowbURRMVFGd0x2WEpkcElCUDJtQW5kc1FGb2o0Wk5TQnFIckZuRXU1T0UwOERxVU1CWkVla1MxV05EMGRxUA?oc=5",
+      "source": "GNews (Yahoo)",
+      "published_at": "2026-04-09T11:25:53",
+      "relevance_score": 0.6,
+      "snippet": "Military operation conducted to deter Russian submarines in North Atlantic - Yahoo",
+      "created_at": "2026-04-10 20:03:55"
+    },
+    {
+      "id": 95,
+      "platform_id": 35,
+      "article_hash": "5cdf23e944b6e35d",
+      "title": "Royal Navy completes ten days of intensive monitoring operations as Russian submarine and warships enter UK waters - U.K. Royal Navy",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNZmdOZGc4NFlvb0VRdEFGZ3BOVEg1T3NibzRDZEhHSENQcnpsWGZIdnAtTnhkdWt1emJkUHg5YWZHSmU5Q2UtWGF6TWNYSkxpWWtXbFNfazZaNW9UbzRna1YyM01LLVp0WXR1c2RxNm4zQlVIS3cxYlhacDRMMG5TYjZob2JyVnA1RjY0emlQdWtycFM1MTlBYTFvWDVBanFlcTVTblBYWDBjSHVGRVJ3WGhhTXMtTVNkVkhnTA?oc=5",
+      "source": "GNews (U.K. Royal Navy)",
+      "published_at": "2026-04-09T11:08:47",
+      "relevance_score": 0.6,
+      "snippet": "Royal Navy completes ten days of intensive monitoring operations as Russian submarine and warships enter UK waters - U.K. Royal Navy",
+      "created_at": "2026-04-10 20:03:55"
+    },
+    {
+      "id": 96,
+      "platform_id": 35,
+      "article_hash": "81754aba43523b14",
+      "title": "UK exposes covert Russian submarine operation - Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNNjd0ekxoNTVERXRvUzFMYkotSmV6MUVIYXd0aXI0Q0RLNzRMQU5xS1FrR1YxMTJrOXNPLTlEWDZ4NGR0ZUNtQmJFeUdHbkZPYU5yamFSU181Qk5JVlk2V1hpRmZ0andZR1I5Y1JyZlExZmFFZEx4dGZxUWtJdWRJazFvTG0?oc=5",
+      "source": "GNews (Financial Times)",
+      "published_at": "2026-04-09T11:05:27",
+      "relevance_score": 0.6,
+      "snippet": "UK exposes covert Russian submarine operation - Financial Times",
+      "created_at": "2026-04-10 20:03:55"
+    },
+    {
+      "id": 97,
+      "platform_id": 35,
+      "article_hash": "594da9e97f59b2b2",
+      "title": "UK 'tracked' three Russian submarines for a month - RTE.ie",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE00VzNBeW1LQ2MwYTlRcXpmWk03SjZkTU8taXpwbmNKZUVXTkNUaVZ2UE0tdDc3YVBCLUxHRmRvc0wxUUhpdDFtM2hncDNhM01IUklPMnZjNXNOYXFrM081NjF6MnZublZ4VWJkU3NUdk12cnlq?oc=5",
+      "source": "GNews (RTE.ie)",
+      "published_at": "2026-04-09T10:40:13",
+      "relevance_score": 0.6,
+      "snippet": "UK 'tracked' three Russian submarines for a month - RTE.ie",
+      "created_at": "2026-04-10 20:03:55"
+    },
+    {
+      "id": 98,
+      "platform_id": 35,
+      "article_hash": "dbf404e9c0d4c088",
+      "title": "UK exposes covert Russian submarine operation in and around UK waters - GOV.UK",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPaEdBUFFZbW9EUm85VDNVbEsxaFNjZVFIOFV5WTdHNlh1elBNZnpDdGpzWEtnUFZfMGUwVkFVWEc1Q0UzaTdVQXF2S2NWbW9rNHFTcG1VYk5JbGlMUGgxeXRER1EteTA0ckNZNU80MGhMSkFPbk9jMHh1cTFGLVdkVUtmdUZSV1NCT2ptczRmUHBNNmZOd0NmSjMzY3Z3MTBKY1k4cjJfcw?oc=5",
+      "source": "GNews (GOV.UK)",
+      "published_at": "2026-04-09T10:36:10",
+      "relevance_score": 0.6,
+      "snippet": "UK exposes covert Russian submarine operation in and around UK waters - GOV.UK",
+      "created_at": "2026-04-10 20:03:55"
+    },
+    {
+      "id": 99,
+      "platform_id": 35,
+      "article_hash": "22bc075f452221f6",
+      "title": "UK navy foiled Russian submarines surveying undersea cables, defence minister says - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNaEl4cmU3NEZKcEdkM1BvLUpnZVJpbnJOdV9ZZkNOUjR4aFdnMHBlejZ1QnN5bmdFaW9kWm5GNjNCOUlVZkotX25mWW5xazVWRFZqbzBfVlVaSURTdWZJZUpVX3hUOUFVMkhxRjBVVTg4Z1VnOEtGWHNaT3kzbkJlYnRIcFJMVnFNa0s3MEE4SDRKYjN3QW95eXNiN2p3YndhTzhhZkV5R3U?oc=5",
+      "source": "GNews (The Guardian)",
+      "published_at": "2026-04-09T10:23:00",
+      "relevance_score": 0.6,
+      "snippet": "UK navy foiled Russian submarines surveying undersea cables, defence minister says - The Guardian",
+      "created_at": "2026-04-10 20:03:55"
+    },
+    {
+      "id": 100,
+      "platform_id": 35,
+      "article_hash": "10361e4d6fb6b4dc",
+      "title": "UK and Norway led a military operation to deter Russian submarines in the North Atlantic - Yahoo",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNU0xlbXBPVmRleUpfWmRXbE95Z0ZmTjc1Rk9CTTRTeFRBbG5xWVJMYXhBT3hnMV9lRmRFdG9hM0RuM3NsOGs5VklYMHhpZU9iNHdIcVpEVFRxQnQxZlBMMHdKTFRiZ18tVXdSXzd3bUs3ZTBKQm53NjZTb3Y0UG1MR1ptSFdGUlFhZG5z?oc=5",
+      "source": "GNews (Yahoo)",
+      "published_at": "2026-04-09T10:17:44",
+      "relevance_score": 0.6,
+      "snippet": "UK and Norway led a military operation to deter Russian submarines in the North Atlantic - Yahoo",
+      "created_at": "2026-04-10 20:03:55"
+    },
+    {
+      "id": 105,
+      "platform_id": 35,
+      "article_hash": "29801fbda83e57c1",
+      "title": "Defence secretary reveals month-long Russian submarine operation over cables and pipelines north of UK - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1LT0lrdnkxUzVCdFN1ZDlwWmh0bkxGRk9JTmUydlZpRG4tekkzODd1VlV3dmExbDlrYkY3dWJPLWRTV3gwZEpDSGEyWFdhM3RaVzZ6d1RxeTlxTlduSE9Wdw?oc=5",
+      "source": "GNews (BBC)",
+      "published_at": "2026-04-09T02:12:00",
+      "relevance_score": 0.6,
+      "snippet": "Defence secretary reveals month-long Russian submarine operation over cables and pipelines north of UK - BBC",
+      "created_at": "2026-04-10 20:03:55"
+    },
+    {
+      "id": 107,
+      "platform_id": 35,
+      "article_hash": "9feec4be72cdd338",
+      "title": "South Korean Submarine Completes First Leg of Indo-Pacific Voyage to Canada",
+      "url": "https://news.usni.org/2026/04/08/south-korean-submarine-completes-first-leg-of-indo-pacific-voyage-to-canada",
+      "source": "USNI News",
+      "published_at": "2026-04-08T21:46:04",
+      "relevance_score": 0.2,
+      "snippet": "A Republic of Korea Navy attack boat docked in Guam on Tuesday, completed the first leg of what will be the longest voyage of a South Korean submarine to date. ROKS Dosan Ahn Chang-ho (SS-083), the first of Seoul\u2019s KSS-III-class of diesel electric submarines, departed South Korea last month for Cana",
+      "created_at": "2026-04-10 20:03:55"
+    }
+  ],
+  "events": [],
+  "ic_coverage": [],
+  "combat_history": [
+    {
+      "date": "2015-12-08",
+      "operation": "Operation in Syria",
+      "event": "B-237 Rostov-on-Don fired Kalibr cruise missiles at ISIS targets in Syria from submerged position in Mediterranean, first combat use of submarine-launched Kalibr",
+      "significance": "Demonstrated Russia's new long-range precision strike capability from conventional submarines, major capability evolution"
+    },
+    {
+      "date": "2016-12-15",
+      "operation": "Syria strikes",
+      "event": "B-262 Stary Oskol launched Kalibr missiles at targets in Idlib province from Eastern Mediterranean",
+      "significance": "Confirmed operational deployment pattern of Kilo submarines for strategic strike missions beyond traditional ASW role"
+    },
+    {
+      "date": "2022-03-24",
+      "operation": "Ukraine conflict",
+      "event": "B-268 Velikiy Novgorod reportedly struck land targets in Ukraine with Kalibr missiles from Black Sea patrol area",
+      "significance": "Demonstrates continued tactical relevance in regional conflicts and area denial operations"
+    },
+    {
+      "date": "2019-06-19",
+      "operation": "Gulf of Oman incident",
+      "event": "Iranian Kilo-class Tareq closely shadowed USS Abraham Lincoln CSG, demonstrating ability to operate undetected near major surface combatants",
+      "significance": "Highlighted asymmetric threat potential and stealth capabilities against advanced naval forces"
+    }
+  ],
+  "modernization": [
+    {
+      "program": "Project 636.3 Varshavyanka production",
+      "status": "in-progress",
+      "timeline": "2014-2024",
+      "description": "Continued production of improved Kilo variants with Kalibr capability, enhanced sonar, and improved stealth characteristics for Russian Navy and export customers",
+      "impact": "Maintains relevance of diesel-electric submarine force with strategic strike capability"
+    },
+    {
+      "program": "Existing Kilo upgrades",
+      "status": "in-progress",
+      "timeline": "2020-2030",
+      "description": "Retrofit programs for earlier Project 877/636 boats to add Kalibr capability and modernize sonar/combat systems",
+      "impact": "Extends service life and enhances capability of legacy hulls"
+    },
+    {
+      "program": "Export modernization packages",
+      "status": "ongoing",
+      "timeline": "2018-2028",
+      "description": "Upgrade programs for export operators including India, China, and Algeria focusing on sonar improvements and weapon system updates",
+      "impact": "Maintains competitive position in export submarine market"
+    }
+  ],
+  "vulnerabilities": [
+    {
+      "area": "Air-independent propulsion",
+      "description": "Lacks AIP system, limiting underwater endurance to 72 hours compared to modern AIP submarines that can remain submerged for weeks",
+      "context": "Major disadvantage in extended patrol operations and contested waters where frequent snorkeling exposes the boat to detection",
+      "mitigation": "Russia developing new AIP systems but retrofitting existing Kilos appears unlikely due to cost"
+    },
+    {
+      "area": "Sonar technology gap",
+      "description": "While quiet, sonar and processing capabilities lag behind latest Western systems, particularly in shallow water detection and classification",
+      "context": "Reduces situational awareness and first-shot capability against advanced opponents with superior passive sonar arrays",
+      "mitigation": "Project 636.3 includes improved MGK-400EM sonar but still uses older processing algorithms"
+    },
+    {
+      "area": "Limited missile capacity",
+      "description": "Must sacrifice torpedo capacity for Kalibr missiles, creating difficult trade-offs between ASW and strike missions",
+      "context": "Unlike VLS-equipped submarines, Kilos cannot carry both full torpedo loadout and maximum cruise missiles simultaneously",
+      "mitigation": "Mission-specific loadouts required, reducing tactical flexibility"
+    },
+    {
+      "area": "Maintenance infrastructure",
+      "description": "Many export operators lack adequate submarine maintenance facilities, reducing operational availability",
+      "context": "Critical for sustained operations, several export navies report low availability rates due to maintenance bottlenecks",
+      "mitigation": "Russia providing maintenance support packages but this creates operational dependencies"
+    }
+  ],
+  "operational_patterns": {
+    "typical_deployment": "Coastal patrol and area denial, strategic strike missions from patrol areas",
+    "deployment_length_months": 1,
+    "key_operating_areas": [
+      "Black Sea",
+      "Baltic Sea",
+      "Mediterranean",
+      "Persian Gulf",
+      "South China Sea"
+    ],
+    "typical_task_group": "Independent operations, occasionally coordinated with surface fleet movements",
+    "readiness_notes": "Russian Navy Kilos maintain higher readiness than export operators due to better maintenance infrastructure"
+  },
+  "peer_comparisons": [
+    {
+      "platform": "Type 214 submarine",
+      "country": "Germany",
+      "relationship": "direct rival",
+      "key_differences": "Type 214 features AIP for extended underwater endurance but Kilo offers proven reliability and lower cost. Kilo has demonstrated combat effectiveness while Type 214 remains unproven in conflict.",
+      "video_angle": "Traditional diesel-electric vs modern AIP technology trade-offs"
+    },
+    {
+      "platform": "Soryu-class submarine",
+      "country": "Japan",
+      "relationship": "advanced peer",
+      "key_differences": "Soryu features sophisticated AIP system and advanced sonar but costs significantly more than Kilo. Soryu designed for open ocean operations while Kilo optimized for littoral combat.",
+      "video_angle": "High-tech vs cost-effective submarine design philosophies"
+    },
+    {
+      "platform": "Scorp\u00e8ne-class submarine",
+      "country": "France",
+      "relationship": "export rival",
+      "key_differences": "Scorp\u00e8ne offers modular design and Western systems integration but Kilo provides strategic missile capability and lower acquisition cost. Both compete heavily in export markets.",
+      "video_angle": "European vs Russian submarine export competition"
+    },
+    {
+      "platform": "Song-class submarine (Type 039)",
+      "country": "China",
+      "relationship": "successor design",
+      "key_differences": "Song-class incorporates Kilo technology acquired through purchases but adds indigenous Chinese systems. Less proven than Kilo but offers AIP capability in later variants.",
+      "video_angle": "Technology transfer impact on submarine development"
+    },
+    {
+      "platform": "Gotland-class submarine",
+      "country": "Sweden",
+      "relationship": "specialized peer",
+      "key_differences": "Gotland pioneered operational AIP and is extremely quiet but lacks Kilo's strategic strike capability and has limited export success. Designed specifically for Baltic operations.",
+      "video_angle": "Specialized regional design vs multi-role export platform"
+    }
+  ],
+  "search_keywords": [
+    "kilo class",
+    "project 877",
+    "project 636",
+    "varshavyanka",
+    "636.3",
+    "russian submarine",
+    "diesel electric submarine",
+    "kalibr missile",
+    "club-s",
+    "black hole submarine"
+  ],
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/A_starboard_view_of_the_Russian_Kilo-class_patrol_submarine_underway_-_DPLA_-_b35309edfcf0a00c7b63b6f196239aff.jpeg/1280px-A_starboard_view_of_the_Russian_Kilo-class_patrol_submarine_underway_-_DPLA_-_b35309edfcf0a00c7b63b6f196239aff.jpeg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/af/A_starboard_view_of_the_Russian_Kilo-class_patrol_submarine_underway_-_DPLA_-_b35309edfcf0a00c7b63b6f196239aff.jpeg",
+      "width": 3000,
+      "height": 2401,
+      "title": "A starboard view of the Russian Kilo-class patrol submarine underway - DPLA - b35309edfcf0a00c7b63b6f196239aff.jpeg",
+      "description": "<div class=\"description\">\nThe original finding aid described this photograph as: Country: Black Sea Scene Camera Operator: Unknown Release Status: Released to Public</div>",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/An_elevated_starboard_bow_view_of_a_Soviet_Kilo_class_patrol_submarine_underway_-_DPLA_-_f6fe48fa47c933871b49b0735ae55579.jpeg/1280px-An_elevated_starboard_bow_view_of_a_Soviet_Kilo_class_patrol_submarine_underway_-_DPLA_-_f6fe48fa47c933871b49b0735ae55579.jpeg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/ed/An_elevated_starboard_bow_view_of_a_Soviet_Kilo_class_patrol_submarine_underway_-_DPLA_-_f6fe48fa47c933871b49b0735ae55579.jpeg",
+      "width": 3000,
+      "height": 2400,
+      "title": "An elevated starboard bow view of a Soviet Kilo class patrol submarine underway - DPLA - f6fe48fa47c933871b49b0735ae55579.jpeg",
+      "description": "<div class=\"description\">\nThe original finding aid described this photograph as: Country: Unknown Scene Camera Operator: Unknown Release Status: Released to Public</div>",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Iranian_Kilo-class_submarine_4.jpg/1280px-Iranian_Kilo-class_submarine_4.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/30/Iranian_Kilo-class_submarine_4.jpg",
+      "width": 2600,
+      "height": 1860,
+      "title": "Iranian Kilo-class submarine 4.jpg",
+      "description": "A starboard quarter view of Iran's second Kilo-class diesel-powered attack submarine underway",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Kilo-class_in_SPb.JPG/1280px-Kilo-class_in_SPb.JPG",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/15/Kilo-class_in_SPb.JPG",
+      "width": 3264,
+      "height": 2448,
+      "title": "Kilo-class in SPb.JPG",
+      "description": "Russian built project 636M Algerian submarine \u00abAkram Pacha\u00bb in Saint-Petersburg.",
+      "license": "CC BY-SA 3.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Kilo_Submarine_DN-SC-96-00528.jpg/1280px-Kilo_Submarine_DN-SC-96-00528.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Kilo_Submarine_DN-SC-96-00528.jpg",
+      "width": 1926,
+      "height": 2889,
+      "title": "Kilo Submarine DN-SC-96-00528.jpg",
+      "description": "An aerial bow-on view of the Russian Northern Fleet KILO class diesel-powered attack submarine underway on the surface.(Exact date unknown)",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/64/Kilo_Vietnam_Submarine.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/64/Kilo_Vietnam_Submarine.jpg",
+      "width": 540,
+      "height": 270,
+      "title": "Kilo Vietnam Submarine.jpg",
+      "description": "Kilo class",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Submarine_Kilo_class.jpg/1280px-Submarine_Kilo_class.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/23/Submarine_Kilo_class.jpg",
+      "width": 3000,
+      "height": 2400,
+      "title": "Submarine Kilo class.jpg",
+      "description": "A starboard beam view of a Soviet Kilo class patrol submarine underway.",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Zr._Ms._Johan_de_Witt_intercepts_Kilo_class_submarine.jpg/1280px-Zr._Ms._Johan_de_Witt_intercepts_Kilo_class_submarine.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Zr._Ms._Johan_de_Witt_intercepts_Kilo_class_submarine.jpg",
+      "width": 3000,
+      "height": 2000,
+      "title": "Zr. Ms. Johan de Witt intercepts Kilo class submarine.jpg",
+      "description": "Zr. Ms. Johan de Witt begeleidde een nieuwe Russische onderzeeboot van de Kilo-klasse door de Noordzee, onderweg naar de Zwarte Zee. Als schip van de wacht kreeg de De Witt de opdracht om de onderzee\u00eb",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    }
+  ],
+  "doctrine": {
+    "role": "Sea denial in littoral waters and choke points, designed to attrit enemy naval forces attempting to approach Soviet/Russian territorial waters or threaten coastal installations.",
+    "employment": "Typically deployed as individual patrol units in predetermined defensive zones, operating from forward bases to maximize time on station. Primary mission profiles include anti-submarine warfare against enemy SSNs, anti-surface warfare against surface combatants, and intelligence gathering through covert surveillance. Command relationships emphasize coordination with coastal defense systems and shore-based maritime patrol aircraft for target cueing.",
+    "design_philosophy": "Designers prioritized acoustic stealth and simplicity over speed and endurance, accepting limited submerged speed (17-20 knots) and basic automation to achieve exceptional quietness and reliability. The platform sacrifices deep-ocean capability and sophisticated combat systems for cost-effectiveness and ease of maintenance, making it suitable for export and operation by smaller navies.",
+    "threat_context": "Originally designed to counter NATO submarine and surface threats in confined waters like the Baltic and Black Seas during the Cold War. The threat has evolved to include advanced Western SSNs with superior sensors and weapons range, forcing reliance on ambush tactics and defensive positioning rather than open-ocean pursuit.",
+    "comparison_frame": "Compare on acoustic signature and cost-effectiveness rather than speed or sensor suite sophistication \u2014 the Kilo's value lies in being undetectable while lying in wait. Endurance and weapons load matter for sustained operations, but stealth remains the primary performance metric for this defensive platform."
+  },
+  "curated_sources": [
+    {
+      "title": "Cold War Submarines: The Design and Construction of U.S. and Soviet Submarines by Norman Polmar and K.J. Moore",
+      "type": "book",
+      "url": "",
+      "relevance": "Provides comprehensive analysis of Soviet submarine design philosophy and the strategic context that drove Kilo-class development.",
+      "priority": "essential"
+    },
+    {
+      "title": "Russia's Military Modernisation: An Assessment by RUSI",
+      "type": "report",
+      "url": "https://rusi.org/explore-our-research/publications/whitehall-reports/russias-military-modernisation-assessment",
+      "relevance": "Examines current Russian naval doctrine and the role of conventional submarines in Moscow's maritime strategy.",
+      "priority": "essential"
+    },
+    {
+      "title": "The Military Balance 2024 - IISS",
+      "type": "database",
+      "url": "https://www.iiss.org/publications/the-military-balance",
+      "relevance": "Authoritative reference for current Kilo-class variants, operators, and technical specifications across all export customers.",
+      "priority": "recommended"
+    },
+    {
+      "title": "H I Sutton - Covert Shores",
+      "type": "analyst",
+      "url": "https://www.hisutton.com",
+      "relevance": "Leading open-source analyst tracking Kilo-class deployments, modifications, and operational patterns globally.",
+      "priority": "recommended"
+    },
+    {
+      "title": "Russian Nuclear Submarines by Norman Polmar",
+      "type": "book",
+      "url": "",
+      "relevance": "Despite the title, includes detailed coverage of Russian conventional submarine programs including Project 877/636 evolution.",
+      "priority": "recommended"
+    },
+    {
+      "title": "Kilo Class Submarines - Naval Technology",
+      "type": "database",
+      "url": "https://www.naval-technology.com/projects/kilo/",
+      "relevance": "Comprehensive technical specifications and export history of all Kilo-class variants.",
+      "priority": "reference"
+    },
+    {
+      "title": "Russia's Nuclear and Conventional Submarines by CSIS",
+      "type": "report",
+      "url": "https://www.csis.org/analysis/russias-nuclear-and-conventional-submarines",
+      "relevance": "Analysis of Russian submarine fleet modernization and the continued relevance of diesel-electric platforms.",
+      "priority": "reference"
+    }
+  ]
+}

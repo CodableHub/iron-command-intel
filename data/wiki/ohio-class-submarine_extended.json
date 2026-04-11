@@ -1,0 +1,356 @@
+{
+  "combat_history": [
+    {
+      "date": "2011-03-19",
+      "operation": "Operation Odyssey Dawn",
+      "event": "USS Florida (SSGN-728) launched 93 Tomahawk cruise missiles against Libyan air defense targets, the largest single submarine strike in naval history.",
+      "significance": "Demonstrated the massive conventional firepower capability of SSGN conversions and their ability to conduct opening strikes in contested environments."
+    },
+    {
+      "date": "2014-09",
+      "operation": "Operation Inherent Resolve",
+      "event": "SSGN submarines launched Tomahawk strikes against ISIS targets in Syria, marking first combat use against terrorist organizations.",
+      "significance": "Showed strategic submarines' role in conventional warfare against asymmetric threats."
+    },
+    {
+      "date": "2018-04-14",
+      "operation": "Syria Strike",
+      "event": "USS John Warner (not Ohio-class) conducted strikes, but Ohio SSGNs were reportedly positioned for potential follow-up strikes.",
+      "significance": "Demonstrated strategic deterrent role even in limited conventional operations."
+    },
+    {
+      "date": "2019-2020",
+      "operation": "Freedom of Navigation",
+      "event": "Multiple Ohio-class boats conducted deterrent patrols in South China Sea and Western Pacific amid rising tensions with China.",
+      "significance": "Maintains strategic stability through visible deterrence in contested regions."
+    }
+  ],
+  "modernization": [
+    {
+      "program": "Trident II D5 Life Extension",
+      "status": "in-progress",
+      "timeline": "2020-2042",
+      "description": "Upgrading Trident missiles with improved accuracy, reliability, and penetration aids to counter advanced missile defenses.",
+      "impact": "Maintains credible deterrent against hardened targets and emerging missile defense systems."
+    },
+    {
+      "program": "Ohio Replacement Program (Columbia-class)",
+      "status": "in-progress",
+      "timeline": "2031-2042",
+      "description": "12 new Columbia-class SSBNs will replace Ohio SSBNs with improved stealth, 16 missile tubes, and 42-year hull life.",
+      "impact": "Essential for maintaining continuous deterrent patrols as Ohio-class reaches end of service life."
+    },
+    {
+      "program": "SSGN Service Life Extension",
+      "status": "completed",
+      "timeline": "2015-2023",
+      "description": "Extended SSGN service life through 2040s with reactor refueling, hull maintenance, and systems upgrades.",
+      "impact": "Maintains conventional strike capability until Virginia Payload Module submarines enter service."
+    }
+  ],
+  "vulnerabilities": [
+    {
+      "area": "Aging Hull and Systems",
+      "description": "Oldest boats are over 40 years old with original hull structures and many legacy systems reaching end of design life.",
+      "context": "Increased maintenance requirements and potential reliability issues as Columbia-class delays put pressure on Ohio availability.",
+      "mitigation": "Aggressive maintenance programs and selective component upgrades, but fundamental age limitations cannot be overcome."
+    },
+    {
+      "area": "Chokepoint Transit Vulnerability",
+      "description": "Must transit predictable chokepoints from Bangor and Kings Bay, potentially exposing boats to advanced persistent surveillance networks.",
+      "context": "China and Russia have invested heavily in underwater sensor networks and satellite-based submarine detection capabilities.",
+      "mitigation": "Varied transit patterns and advanced countermeasures, but geography constrains options."
+    },
+    {
+      "area": "Communications Vulnerability",
+      "description": "Strategic communications require boats to come to shallow depth or trail antennas, potentially exposing them to detection.",
+      "context": "Modern satellite and signals intelligence capabilities can exploit communication windows for tracking.",
+      "mitigation": "Very Low Frequency communications and burst transmissions minimize exposure, but fundamental vulnerability remains."
+    },
+    {
+      "area": "Industrial Base Constraints",
+      "description": "Only Electric Boat can maintain these submarines, creating single point of failure for the deterrent.",
+      "context": "Shipyard capacity limits simultaneous maintenance availability and creates strategic vulnerability to sabotage or attack.",
+      "mitigation": "Navy is expanding shipyard capacity and cross-training workforce, but fundamental constraint remains."
+    }
+  ],
+  "operational_patterns": {
+    "typical_deployment": "Strategic deterrent patrols (SSBN) lasting 70 days submerged, or special operations/strike missions (SSGN)",
+    "deployment_length_months": 2,
+    "key_operating_areas": [
+      "North Pacific",
+      "North Atlantic",
+      "Arabian Gulf",
+      "Mediterranean"
+    ],
+    "typical_task_group": "Operates independently for strategic missions, or with special operations forces for SSGN missions",
+    "readiness_notes": "Maintains minimum 12 of 14 SSBNs operationally available, with typically 4-5 on patrol simultaneously"
+  },
+  "peer_comparisons": [
+    {
+      "platform": "Borei-class (Project 955)",
+      "country": "Russia",
+      "relationship": "direct rival",
+      "key_differences": "Borei is newer but smaller (16 vs 24 missiles), less stealthy, and operates from more constrained bastions. Ohio has superior quieting and global reach but is much older.",
+      "video_angle": "Cold War titans: comparing the backbone submarines of US and Russian nuclear deterrents"
+    },
+    {
+      "platform": "Jin-class (Type 094)",
+      "country": "China",
+      "relationship": "emerging rival",
+      "key_differences": "Jin carries only 12 JL-2 missiles with shorter range, forcing closer approaches to US targets. Significantly noisier than Ohio but represents China's growing sea-based deterrent.",
+      "video_angle": "Dragon vs Eagle: How China's submarine deterrent stacks up against America's proven Ohio-class"
+    },
+    {
+      "platform": "Vanguard-class",
+      "country": "United Kingdom",
+      "relationship": "allied equivalent",
+      "key_differences": "Smaller (16 vs 24 tubes) but uses same Trident missiles. Similar stealth characteristics but limited to four boats total, providing minimal continuous deterrent.",
+      "video_angle": "Special relationship underwater: comparing British and American strategic submarine capabilities"
+    },
+    {
+      "platform": "Le Triomphant-class",
+      "country": "France",
+      "relationship": "allied equivalent",
+      "key_differences": "Uses shorter-range French M51 missiles (16 tubes) requiring closer patrol areas. More modern design but smaller strategic impact than Ohio-class.",
+      "video_angle": "Independent deterrent: how France's submarine nuclear force compares to the US Ohio-class"
+    },
+    {
+      "platform": "Columbia-class",
+      "country": "United States",
+      "relationship": "successor",
+      "key_differences": "Will have fewer missiles (16 vs 24) but improved stealth, longer hull life (42 vs 30 years), and advanced reactor design. More expensive per unit but more capable.",
+      "video_angle": "Passing the torch: how the new Columbia-class will replace the legendary Ohio submarines"
+    }
+  ],
+  "search_keywords": [
+    "ohio class",
+    "SSBN",
+    "SSGN",
+    "trident submarine",
+    "ballistic missile submarine",
+    "nuclear submarine",
+    "strategic deterrent",
+    "Columbia class replacement"
+  ],
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Four_Natick_class_harbor_tugs_guide_USS_Ohio_%28SSBN-726%29_out_of_drydock.jpg/1280px-Four_Natick_class_harbor_tugs_guide_USS_Ohio_%28SSBN-726%29_out_of_drydock.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/de/Four_Natick_class_harbor_tugs_guide_USS_Ohio_%28SSBN-726%29_out_of_drydock.jpg",
+      "width": 2960,
+      "height": 1970,
+      "title": "Four Natick class harbor tugs guide USS Ohio (SSBN-726) out of drydock.jpg",
+      "description": "YTB 760-class harbor tugs guide the nuclear-powered strategic missile submarine USS OHIO (SSBN 726) out of dry dock at Delta Pier.",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Rickover_on_board_USS_Ohio_%28SSBN-726%29.JPEG/1280px-Rickover_on_board_USS_Ohio_%28SSBN-726%29.JPEG",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Rickover_on_board_USS_Ohio_%28SSBN-726%29.JPEG",
+      "width": 2921,
+      "height": 2007,
+      "title": "Rickover on board USS Ohio (SSBN-726).JPEG",
+      "description": "ADM Hyman G. Rickover, deputy assistant secretary for naval reactors, Department of Energy, foreground; Mrs. Rickover and Secretary of the Navy John F. Lehman Jr. tour and nuclear-powered ballistic mi",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/USS_OHIO_%28SSBN-726%29_during_its_commissioning.JPEG/1280px-USS_OHIO_%28SSBN-726%29_during_its_commissioning.JPEG",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/USS_OHIO_%28SSBN-726%29_during_its_commissioning.JPEG",
+      "width": 1916,
+      "height": 2888,
+      "title": "USS OHIO (SSBN-726) during its commissioning.JPEG",
+      "description": "A bow-on view of the nuclear-powered ballistic missile submarine USS OHIO (SSBN-726) secured in the water during its commissioning. The submarine was built by General Dynamics Corp.",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/USS_OHIO_%28SSBN-726%29_in_Hood_Canal..JPEG/1280px-USS_OHIO_%28SSBN-726%29_in_Hood_Canal..JPEG",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/3f/USS_OHIO_%28SSBN-726%29_in_Hood_Canal..JPEG",
+      "width": 2860,
+      "height": 1910,
+      "title": "USS OHIO (SSBN-726) in Hood Canal..JPEG",
+      "description": "A port quarter view of the nuclear-powered strategic missile submarine USS OHIO (SSBN-726) as it transits the Hood Canal.",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/USS_Ohio_%28SSBN-726%29.jpg/1280px-USS_Ohio_%28SSBN-726%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/USS_Ohio_%28SSBN-726%29.jpg",
+      "width": 1788,
+      "height": 1260,
+      "title": "USS Ohio (SSBN-726).jpg",
+      "description": "A port bow view of the nuclear-powered strategic missile submarine USS OHIO (SSBN-726) as it transits the Hood Canal.",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/USS_Ohio_%28SSBN-726%29_hatches.jpg/1280px-USS_Ohio_%28SSBN-726%29_hatches.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/37/USS_Ohio_%28SSBN-726%29_hatches.jpg",
+      "width": 2860,
+      "height": 1890,
+      "title": "USS Ohio (SSBN-726) hatches.jpg",
+      "description": "ID: DN-ST-82-01336  Service Depicted: Navy \n<p>A deck view, looking toward the bow, of the nuclear-powered ballistic missile submarine OHIO (SSBN-726) with its missile tubes opened during precommissio",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/US_Navy_030814-N-0000X-001_USS_Ohio_%28SSGN_726%29_is_in_dry_dock_undergoing_a_conversion_from_a_Ballistic_Missile_Submarine_%28SSBN%29_to_a_Guided_Missile_Submarine_%28SSGN%29_designation.jpg/1280px-thumbnail.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/US_Navy_030814-N-0000X-001_USS_Ohio_%28SSGN_726%29_is_in_dry_dock_undergoing_a_conversion_from_a_Ballistic_Missile_Submarine_%28SSBN%29_to_a_Guided_Missile_Submarine_%28SSGN%29_designation.jpg",
+      "width": 3005,
+      "height": 1957,
+      "title": "US Navy 030814-N-0000X-001 USS Ohio (SSGN 726) is in dry dock undergoing a conversion from a Ballistic Missile Submarine (SSBN) to a Guided Missile Submarine (SSGN) designation.jpg",
+      "description": "Puget Sound Naval Shipyard, Wash. (Aug. 14, 2003) -- USS Ohio (SSGN 726) is in dry dock undergoing a conversion from a Ballistic Missile Submarine (SSBN) to a Guided Missile Submarine (SSGN) designati",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/US_Navy_030814-N-0000X-003_Illustration_of_USS_Ohio_%28SSGN_726%29_which_is_undergoing_a_conversion_from_a_Ballistic_Missile_Submarine_%28SSBN%29_to_a_Guided_Missile_Submarine_%28SSGN%29_designation.jpg/1280px-thumbnail.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/cd/US_Navy_030814-N-0000X-003_Illustration_of_USS_Ohio_%28SSGN_726%29_which_is_undergoing_a_conversion_from_a_Ballistic_Missile_Submarine_%28SSBN%29_to_a_Guided_Missile_Submarine_%28SSGN%29_designation.jpg",
+      "width": 1390,
+      "height": 1017,
+      "title": "US Navy 030814-N-0000X-003 Illustration of USS Ohio (SSGN 726) which is undergoing a conversion from a Ballistic Missile Submarine (SSBN) to a Guided Missile Submarine (SSGN) designation.jpg",
+      "description": "Puget Sound Naval Shipyard, Wash. (Aug. 14, 2003) -- Illustration of USS Ohio (SSGN 726) which is undergoing a conversion from a Ballistic Missile Submarine (SSBN) to a Guided Missile Submarine (SSGN)",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/100311-N-9818V-336_MCPON_Rick_West_tours_the_Ohio-class_ballistic_missile_submarine_USS_Henry_M._Jackson_%28SSBN_730%29_and_meets_with_sailors_during_his_visit_to_Naval_Base_Kitsap%2C.jpg/1280px-thumbnail.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/17/100311-N-9818V-336_MCPON_Rick_West_tours_the_Ohio-class_ballistic_missile_submarine_USS_Henry_M._Jackson_%28SSBN_730%29_and_meets_with_sailors_during_his_visit_to_Naval_Base_Kitsap%2C.jpg",
+      "width": 4288,
+      "height": 2848,
+      "title": "100311-N-9818V-336 MCPON Rick West tours the Ohio-class ballistic missile submarine USS Henry M. Jackson (SSBN 730) and meets with sailors during his visit to Naval Base Kitsap,.jpg",
+      "description": "BANGOR, Wash. (March 11, 2010) Master Chief Petty Officer of the Navy (MCPON) Rick West tours the Ohio-class ballistic missile submarine USS Henry M. Jackson (SSBN 730) and meets with Sailors during h",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Ohio-class_submarine_launches_Tomahawk_Cruise_missiles_%28artist_concept%29.jpg/1280px-Ohio-class_submarine_launches_Tomahawk_Cruise_missiles_%28artist_concept%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/63/Ohio-class_submarine_launches_Tomahawk_Cruise_missiles_%28artist_concept%29.jpg",
+      "width": 2988,
+      "height": 1992,
+      "title": "Ohio-class submarine launches Tomahawk Cruise missiles (artist concept).jpg",
+      "description": "<ul><li><b>Ohio-class submarine launches Tomahawk Cruise missiles (artist concept)</b></li>\n<li>original image caption: 030606-N-0000X-005 Washington, D.C. (Jun. 6, 2003) -- Artist concept of the SSGN",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Ohio_Class.png/1280px-Ohio_Class.png",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/09/Ohio_Class.png",
+      "width": 1677,
+      "height": 206,
+      "title": "Ohio Class.png",
+      "description": "SSBN Ohio Class",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/61/Trident_submarine_section.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/61/Trident_submarine_section.jpg",
+      "width": 1024,
+      "height": 809,
+      "title": "Trident submarine section.jpg",
+      "description": "Trident submarine section",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/96/USS_Henry_M._Jackson_%28SSBN-730%292.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/96/USS_Henry_M._Jackson_%28SSBN-730%292.jpg",
+      "width": 594,
+      "height": 480,
+      "title": "USS Henry M. Jackson (SSBN-730)2.jpg",
+      "description": "<a href=\"https://en.wikipedia.org/wiki/USS_Henry_M._Jackson_(SSBN-730)\" class=\"extiw\" title=\"en:USS Henry M. Jackson (SSBN-730)\">en:USS Henry M. Jackson (SSBN-730)</a> <a rel=\"nofollow\" class=\"externa",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/US_Navy_040714-N-8977L-009_Sailors_assigned_to_Naval_Station_San_Diego_Port_Operations_monitor_a_Ohio-class_submarine_preparing_to_get_underway.jpg/1280px-US_Navy_040714-N-8977L-009_Sailors_assigned_to_Naval_Station_San_Diego_Port_Operations_monitor_a_Ohio-class_submarine_preparing_to_get_underway.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/51/US_Navy_040714-N-8977L-009_Sailors_assigned_to_Naval_Station_San_Diego_Port_Operations_monitor_a_Ohio-class_submarine_preparing_to_get_underway.jpg",
+      "width": 2100,
+      "height": 1500,
+      "title": "US Navy 040714-N-8977L-009 Sailors assigned to Naval Station San Diego Port Operations monitor a Ohio-class submarine preparing to get underway.jpg",
+      "description": "San Diego, Calif. (July 14, 2004) - Sailors assigned to Naval Station San Diego Port Operations monitor a Ohio-class submarine preparing to get underway. Port Operations assist with security and safet",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/US_Navy_120121-N-GU530-007_A_rainbow_appears_off_the_bow_of_the_Ohio-class_ballistic-missile_submarine_USS_Henry_M._Jackson_%28SSBN_730%29_as_it_return.jpg/1280px-US_Navy_120121-N-GU530-007_A_rainbow_appears_off_the_bow_of_the_Ohio-class_ballistic-missile_submarine_USS_Henry_M._Jackson_%28SSBN_730%29_as_it_return.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/00/US_Navy_120121-N-GU530-007_A_rainbow_appears_off_the_bow_of_the_Ohio-class_ballistic-missile_submarine_USS_Henry_M._Jackson_%28SSBN_730%29_as_it_return.jpg",
+      "width": 2100,
+      "height": 1086,
+      "title": "US Navy 120121-N-GU530-007 A rainbow appears off the bow of the Ohio-class ballistic-missile submarine USS Henry M. Jackson (SSBN 730) as it return.jpg",
+      "description": "BANGOR, Wash. (Jan. 21, 2012) A rainbow appears off the bow of the Ohio-class ballistic-missile submarine USS Henry M. Jackson (SSBN 730) as it returns to Naval Base Kitsap-Bangor after a strategic de",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Weapons_of_the_Fleet_Ballistic_Missile_Submarine_Fleet.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Weapons_of_the_Fleet_Ballistic_Missile_Submarine_Fleet.jpg",
+      "width": 411,
+      "height": 298,
+      "title": "Weapons of the Fleet Ballistic Missile Submarine Fleet.jpg",
+      "description": "Weapons of the Fleet Ballistic Missile Submarine Fleet, (left to right): Polaris A1, Polaris A2, Polaris A3, Poseidon, Trident I and Trident II. \"The original FBM submarine force consisted of 41 subma",
+      "license": "Public domain",
+      "source": "wikimedia"
+    }
+  ],
+  "doctrine": {
+    "role": "Assured second-strike nuclear deterrence through survivable launch platforms that can remain undetected for extended periods, ensuring mutual assured destruction remains credible even after a first strike.",
+    "employment": "SSBNs operate independently on 70-day strategic deterrent patrols, maintaining constant at-sea presence through coordinated deployment cycles with shore-based command authority retaining launch control. SSGNs integrate into joint strike operations as precision fires platforms, typically operating alone but coordinating with carrier strike groups and special operations forces. Both variants leverage acoustic superiority and deep ocean access to achieve positional advantage before mission execution. Command relationships flow directly through STRATCOM for SSBNs and geographic combatant commanders for SSGNs.",
+    "design_philosophy": "Designers prioritized acoustic stealth and weapons magazine depth over speed and defensive systems, accepting reduced maneuverability for unmatched quieting and 24-missile capacity. The massive size was accepted as necessary for strategic payload requirements, sacrificing the operational flexibility of smaller attack submarines for deterrent credibility. SSGN conversions traded ballistic missile capacity for tactical flexibility, accepting reduced strategic value for enhanced conventional strike capability.",
+    "threat_context": "Originally designed to survive Soviet ASW networks during Cold War nuclear competition, emphasizing deep ocean operations beyond effective ASW barriers. Modern threat environment includes improved Chinese and Russian submarine-hunting capabilities, advanced sonar networks, and proliferation of quiet diesel-electric submarines that complicate traditional acoustic advantages.",
+    "comparison_frame": "Compare Ohio-class boats on strategic payload capacity and acoustic signature versus patrol duration, not surface speed or defensive armament\u2014all modern SSBNs accept similar performance parameters for survivability. SSGN variants should be evaluated against tactical missile capacity and special operations integration rather than traditional submarine metrics. The key analytical dimension remains detection probability over mission duration rather than engagement capability."
+  },
+  "curated_sources": [
+    {
+      "title": "U.S. Submarines Since 1945: An Illustrated Design History by Norman Friedman",
+      "type": "book",
+      "url": "",
+      "relevance": "Provides definitive technical development history and design rationale for Ohio-class submarines within broader U.S. submarine evolution.",
+      "priority": "essential"
+    },
+    {
+      "title": "U.S. Strategic Nuclear Forces: Background, Developments, and Issues by Amy F. Woolf (CRS)",
+      "type": "report",
+      "url": "https://crsreports.congress.gov/product/pdf/RL/RL33640",
+      "relevance": "Congressional Research Service analysis of Ohio-class role within nuclear triad and modernization requirements.",
+      "priority": "essential"
+    },
+    {
+      "title": "The Submarine Review - Naval Submarine League",
+      "type": "analyst",
+      "url": "https://navalsubleague.org/publications/submarine-review/",
+      "relevance": "Primary professional publication for U.S. submarine warfare community with regular Ohio-class operational insights.",
+      "priority": "recommended"
+    },
+    {
+      "title": "Sustaining the U.S. Nuclear Deterrent: The Case for a New Submarine by CSBA",
+      "type": "report",
+      "url": "https://csbaonline.org/research/publications/sustaining-the-u-s.-nuclear-deterrent-the-case-for-a-new-submarine",
+      "relevance": "Strategic analysis of Ohio-class replacement requirements and deterrent effectiveness in modern threat environment.",
+      "priority": "essential"
+    },
+    {
+      "title": "Global Security - Ohio Class Submarines",
+      "type": "database",
+      "url": "https://www.globalsecurity.org/wmd/systems/ssbn-726.htm",
+      "relevance": "Comprehensive technical specifications and deployment history for all Ohio-class variants.",
+      "priority": "reference"
+    },
+    {
+      "title": "Nuclear Operations Joint Publication 3-72",
+      "type": "report",
+      "url": "https://www.jcs.mil/Portals/36/Documents/Doctrine/pubs/jp3_72.pdf",
+      "relevance": "Official U.S. doctrine for nuclear operations including SSBN employment principles and command relationships.",
+      "priority": "recommended"
+    },
+    {
+      "title": "Undersea Warfare by RUSI",
+      "type": "analyst",
+      "url": "https://rusi.org/explore-our-research/subjects/sea-power/undersea-warfare",
+      "relevance": "Independent British analysis of submarine warfare developments affecting Ohio-class operational environment.",
+      "priority": "reference"
+    }
+  ]
+}

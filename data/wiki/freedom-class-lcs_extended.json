@@ -1,0 +1,338 @@
+{
+  "combat_history": [
+    {
+      "date": "2016",
+      "operation": "Freedom of Navigation Operations",
+      "event": "USS Freedom conducted multiple FONOPS in South China Sea, challenged Chinese territorial claims around artificial islands",
+      "significance": "First operational deployment demonstrated basic capability but also highlighted maintenance challenges in high-tempo operations"
+    },
+    {
+      "date": "2019",
+      "operation": "Counter-narcotics operations",
+      "event": "USS Detroit and USS Billings conducted drug interdiction missions in Caribbean, seized multiple vessels and thousands of pounds of cocaine",
+      "significance": "Showed effectiveness in low-threat constabulary missions, which became primary operational role"
+    },
+    {
+      "date": "2020",
+      "operation": "Pacific Partnership",
+      "event": "Multiple LCS hulls participated in humanitarian and partnership missions across Pacific region",
+      "significance": "Demonstrated utility for presence operations but limited combat relevance"
+    }
+  ],
+  "modernization": [
+    {
+      "program": "Frigate Conversion Study",
+      "status": "cancelled",
+      "timeline": "2018-2020",
+      "description": "Navy studied converting existing LCS hulls to more capable frigates with enhanced weapons and sensors",
+      "impact": "Ultimately abandoned as cost-prohibitive, leading to separate Constellation-class program"
+    },
+    {
+      "program": "LCS Mission Module Integration",
+      "status": "abandoned",
+      "timeline": "2010-2023",
+      "description": "Development of Anti-Submarine Warfare, Surface Warfare, and Mine Countermeasures mission packages",
+      "impact": "Chronic failures and delays led to effective abandonment of modular concept"
+    },
+    {
+      "program": "Service Life Extension",
+      "status": "cancelled",
+      "timeline": "2023",
+      "description": "Navy cancelled planned service life extensions, opting for early retirement instead",
+      "impact": "Confirmed end of LCS program viability"
+    }
+  ],
+  "vulnerabilities": [
+    {
+      "area": "Mechanical Reliability",
+      "description": "Chronic failures of combining gear systems, propulsion casualties, and mission system breakdowns plague the class",
+      "context": "Multiple hulls have suffered propulsion failures requiring towing, undermining operational availability",
+      "mitigation": "Navy implementing enhanced maintenance protocols but considering early retirement for most hulls"
+    },
+    {
+      "area": "Survivability",
+      "description": "Minimal armor protection, limited damage control capabilities, and small crew size create vulnerability to even minor weapon hits",
+      "context": "Against peer competitors with anti-ship missiles, LCS lacks defensive systems and damage tolerance of traditional warships",
+      "mitigation": "Navy acknowledged this as insurmountable design flaw, leading to Constellation-class development"
+    },
+    {
+      "area": "Mission System Effectiveness",
+      "description": "Mission modules have proven unreliable with poor performance in testing and evaluation",
+      "context": "Core concept of reconfigurable warship has failed, leaving ships with minimal combat capability",
+      "mitigation": "Navy has largely abandoned mission module concept"
+    },
+    {
+      "area": "Cost Effectiveness",
+      "description": "Operating costs exceed those of much more capable destroyers while providing minimal combat capability",
+      "context": "In budget-constrained environment, LCS consumes resources that could fund more effective platforms",
+      "mitigation": "Early retirement program to free up resources for Constellation-class frigates"
+    }
+  ],
+  "operational_patterns": {
+    "typical_deployment": "Rotational deployments to Western Pacific, Caribbean counter-narcotics, and partnership missions",
+    "deployment_length_months": 10,
+    "key_operating_areas": [
+      "South China Sea",
+      "Caribbean",
+      "Central America",
+      "Western Pacific"
+    ],
+    "typical_task_group": "Independent operations or small surface action groups",
+    "readiness_notes": "Chronic maintenance issues limit operational availability to approximately 50% fleet-wide"
+  },
+  "peer_comparisons": [
+    {
+      "platform": "Independence-class LCS",
+      "country": "United States",
+      "relationship": "sister class",
+      "key_differences": "Trimaran hull design vs monohull, similar problems with different engineering solutions. Both classes suffer from cost overruns and reliability issues.",
+      "video_angle": "LCS shootout - which failed experiment was worse?"
+    },
+    {
+      "platform": "Type 056 Jiangdao-class corvette",
+      "country": "China",
+      "relationship": "direct rival",
+      "key_differences": "Much cheaper (~$100M vs $670M), more traditional armament, better reliability. Chinese emphasis on quantity over modularity has proven more successful.",
+      "video_angle": "Quantity vs Quality: Why China's simple corvette beats America's high-tech LCS"
+    },
+    {
+      "platform": "Visby-class corvette",
+      "country": "Sweden",
+      "relationship": "similar concept",
+      "key_differences": "Smaller, stealthier design with proven anti-ship missiles. Swedish focus on specific mission vs American modularity. Much more cost-effective.",
+      "video_angle": "How Sweden built the stealth corvette America should have made"
+    },
+    {
+      "platform": "Sa'ar 6-class corvette",
+      "country": "Israel",
+      "relationship": "similar size/role",
+      "key_differences": "Heavily armed with advanced defensive systems, proven in combat. Israeli design prioritizes survivability and firepower over speed and modularity.",
+      "video_angle": "Battle-tested vs High-tech: Israel's practical corvette vs America's LCS experiment"
+    },
+    {
+      "platform": "Braunschweig-class corvette",
+      "country": "Germany",
+      "relationship": "allied equivalent",
+      "key_differences": "Similar size but conventional design with reliable systems. German emphasis on proven technology over revolutionary concepts has yielded better results.",
+      "video_angle": "German engineering vs American innovation: why boring wins"
+    }
+  ],
+  "search_keywords": [
+    "freedom class",
+    "LCS-1",
+    "LCS 1",
+    "littoral combat ship",
+    "freedom-class",
+    "lockheed martin lcs",
+    "marinette marine",
+    "modular warship",
+    "lcs failure"
+  ],
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/USS-Freedom-130222-N-DR144-174-crop.jpg/1280px-USS-Freedom-130222-N-DR144-174-crop.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/0a/USS-Freedom-130222-N-DR144-174-crop.jpg",
+      "width": 1900,
+      "height": 1426,
+      "title": "USS-Freedom-130222-N-DR144-174-crop.jpg",
+      "description": "Crop of 130222-N-DR144-174. The littoral combat ship USS Freedom (LCS 1) is underway conducting sea trials off the coast of Southern California. Freedom, the lead ship of the Freedom variant of LCS, i",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/USS_Freedom_%28LCS-1%29_acceptance_trials.jpg/1280px-USS_Freedom_%28LCS-1%29_acceptance_trials.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/USS_Freedom_%28LCS-1%29_acceptance_trials.jpg",
+      "width": 2100,
+      "height": 1500,
+      "title": "USS Freedom (LCS-1) acceptance trials.jpg",
+      "description": "080820-N-7090S-056 MARINETTE, Wis.  The littoral combat ship USS Freedom (LCS 1), the first ship in the Navy's new Littoral Combat Ship class, prepares to go to sea to begin acceptance trials. The Nav",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/USS_Freedom_%28LCS-1%29_front.jpg/1280px-USS_Freedom_%28LCS-1%29_front.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/USS_Freedom_%28LCS-1%29_front.jpg",
+      "width": 2100,
+      "height": 1500,
+      "title": "USS Freedom (LCS-1) front.jpg",
+      "description": "080819-N-7090S-041 MARINETTE, Wis.  The littoral combat ship USS Freedom (LCS 1), the first ship in the Navy's new Littoral Combat Ship class, prepares to go to sea to begin acceptance trials, conduct",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/USS_Freedom_%28LCS-1%29_rear.jpg/1280px-USS_Freedom_%28LCS-1%29_rear.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/USS_Freedom_%28LCS-1%29_rear.jpg",
+      "width": 2250,
+      "height": 1500,
+      "title": "USS Freedom (LCS-1) rear.jpg",
+      "description": "080820-N-7090S-132 MARINETTE, Wis.  The littoral combat ship USS Freedom (LCS 1), the first ship in the Navy's new Littoral Combat Ship class, prepares to go to sea to begin acceptance trials. The Nav",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/USS_Freedom_%28LCS_1%29.jpg/1280px-USS_Freedom_%28LCS_1%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/22/USS_Freedom_%28LCS_1%29.jpg",
+      "width": 2190,
+      "height": 1500,
+      "title": "USS Freedom (LCS 1).jpg",
+      "description": "080819-N-7090S-050 MARINETTE, Wis.  The littoral combat ship USS Freedom (LCS 1), the first ship in the Navy's new Littoral Combat Ship class, prepares to go to sea to begin acceptance trials. The Nav",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/US_Navy_081210-N-5390M-025_Boatswain%27s_Mate_3rd_Class_Jacob_Beard_and_Gunner%27s_Mate_3rd_Class_Andrew_Naff_await_the_arrival_of_USS_Freedom_%28LCS_1%29.jpg/1280px-US_Navy_081210-N-5390M-025_Boatswain%27s_Mate_3rd_Class_Jacob_Beard_and_Gunner%27s_Mate_3rd_Class_Andrew_Naff_await_the_arrival_of_USS_Freedom_%28LCS_1%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/0a/US_Navy_081210-N-5390M-025_Boatswain%27s_Mate_3rd_Class_Jacob_Beard_and_Gunner%27s_Mate_3rd_Class_Andrew_Naff_await_the_arrival_of_USS_Freedom_%28LCS_1%29.jpg",
+      "width": 2520,
+      "height": 1800,
+      "title": "US Navy 081210-N-5390M-025 Boatswain's Mate 3rd Class Jacob Beard and Gunner's Mate 3rd Class Andrew Naff await the arrival of USS Freedom (LCS 1).jpg",
+      "description": "ANNAPOLIS, Md. (Dec. 10, 2008) Boatswain's Mate 3rd Class Jacob Beard, left, and Gunner's Mate 3rd Class Andrew Naff await the arrival of the littoral combat ship USS Freedom (LCS 1) at the United Sta",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/US_Navy_081210-N-5390M-038_Boatswain%27s_Mate_2nd_Class_Lowmikico_Sellers%2C_Boatswain%27s_Mate_3rd_Class_Jacob_Beard_and_Gunner%27s_Mate_3rd_Class_Andrew_Naff_prepare_to_moor_USS_Freedom_%28LCS_1%29.jpg/1280px-thumbnail.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/59/US_Navy_081210-N-5390M-038_Boatswain%27s_Mate_2nd_Class_Lowmikico_Sellers%2C_Boatswain%27s_Mate_3rd_Class_Jacob_Beard_and_Gunner%27s_Mate_3rd_Class_Andrew_Naff_prepare_to_moor_USS_Freedom_%28LCS_1%29.jpg",
+      "width": 2520,
+      "height": 1800,
+      "title": "US Navy 081210-N-5390M-038 Boatswain's Mate 2nd Class Lowmikico Sellers, Boatswain's Mate 3rd Class Jacob Beard and Gunner's Mate 3rd Class Andrew Naff prepare to moor USS Freedom (LCS 1).jpg",
+      "description": "ANNAPOLIS, Md. (Dec. 10, 2008) Boatswain's Mate 2nd Class Lowmikico Sellers, left, Boatswain's Mate 3rd Class Jacob Beard and Gunner's Mate 3rd Class Andrew Naff prepare to moor the littoral combat sh",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/US_Navy_100407-N-0808V-167_The_littoral_combat_ship_USS_Freedom_%28LCS_1%29_comes_alongside_the_Nimitz-class_aircraft_carrier_USS_Carl_Vinson_%28CVN_70%29_for_a_refueling_at_sea.jpg/1280px-thumbnail.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/42/US_Navy_100407-N-0808V-167_The_littoral_combat_ship_USS_Freedom_%28LCS_1%29_comes_alongside_the_Nimitz-class_aircraft_carrier_USS_Carl_Vinson_%28CVN_70%29_for_a_refueling_at_sea.jpg",
+      "width": 3000,
+      "height": 1985,
+      "title": "US Navy 100407-N-0808V-167 The littoral combat ship USS Freedom (LCS 1) comes alongside the Nimitz-class aircraft carrier USS Carl Vinson (CVN 70) for a refueling at sea.jpg",
+      "description": "PACIFIC OCEAN (April 7, 2010) The littoral combat ship USS Freedom (LCS 1) comes alongside the Nimitz-class aircraft carrier USS Carl Vinson (CVN 70) for a refueling at sea. Freedom is conducting coun",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Gunner%E2%80%99s_Mate_1st_Class_Nicholas_Heidingsfelder_supervises_as_an_Indonesian_Navy_boarding_team_secures_the_flight_deck_aboard_the_littoral_combat_ship_USS_Freedom.jpg/1280px-thumbnail.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Gunner%E2%80%99s_Mate_1st_Class_Nicholas_Heidingsfelder_supervises_as_an_Indonesian_Navy_boarding_team_secures_the_flight_deck_aboard_the_littoral_combat_ship_USS_Freedom.jpg",
+      "width": 4928,
+      "height": 3280,
+      "title": "Gunner\u2019s Mate 1st Class Nicholas Heidingsfelder supervises as an Indonesian Navy boarding team secures the flight deck aboard the littoral combat ship USS Freedom.jpg",
+      "description": "STRAITS OF SINGAPORE (Sept. 11, 2013) - Gunner\u2019s Mate 1st Class Nicholas Heidingsfelder assigned to the Maritime Civil Affairs and Security Training (MCAST) team supervises as an Indonesian Navy board",
+      "license": "CC BY-SA 2.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/SECNAV_announces_the_name_of_the_Freedom-class_littoral_combat_ship_LCS_13_as_USS_Wichita._%2821482844202%29.jpg/1280px-SECNAV_announces_the_name_of_the_Freedom-class_littoral_combat_ship_LCS_13_as_USS_Wichita._%2821482844202%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/SECNAV_announces_the_name_of_the_Freedom-class_littoral_combat_ship_LCS_13_as_USS_Wichita._%2821482844202%29.jpg",
+      "width": 3000,
+      "height": 2002,
+      "title": "SECNAV announces the name of the Freedom-class littoral combat ship LCS 13 as USS Wichita. (21482844202).jpg",
+      "description": "<p>WICHITA, Kan. (Sept. 16, 2015) Secretary of the Navy (SECNAV) Ray Mabus announces the name of the Freedom-class littoral combat ship LCS 13 as USS Wichita during a ship naming ceremony. (U.S. Navy ",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/US_Navy_080820-N-7090S-405_Littoral_combat_ship_USS_Freedom_%28LCS_1%29_returns_to_its_homeport_in_Marinette%2C_Wis.jpg/1280px-US_Navy_080820-N-7090S-405_Littoral_combat_ship_USS_Freedom_%28LCS_1%29_returns_to_its_homeport_in_Marinette%2C_Wis.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/ca/US_Navy_080820-N-7090S-405_Littoral_combat_ship_USS_Freedom_%28LCS_1%29_returns_to_its_homeport_in_Marinette%2C_Wis.jpg",
+      "width": 2100,
+      "height": 1500,
+      "title": "US Navy 080820-N-7090S-405 Littoral combat ship USS Freedom (LCS 1) returns to its homeport in Marinette, Wis.jpg",
+      "description": "MARINETTE, Wis. (Aug. 20) Littoral combat ship USS Freedom (LCS 1) returns to its homeport in Marinette, Wis., after completing acceptance trials in Lake Michigan. A littoral combat ship is a fast, ag",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/US_Navy_090928-N-7241L-245_The_littoral_combat_ship_USS_Freedom_%28LCS_1%29_conducts_flight_deck_certification_with_an_MH-60S_Sea_Hawk_helicopter_assigned_to_the_Sea_Knights_of_Helicopter_Sea_Combat_Squadron_%28HSC%29_22.jpg/1280px-thumbnail.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/1b/US_Navy_090928-N-7241L-245_The_littoral_combat_ship_USS_Freedom_%28LCS_1%29_conducts_flight_deck_certification_with_an_MH-60S_Sea_Hawk_helicopter_assigned_to_the_Sea_Knights_of_Helicopter_Sea_Combat_Squadron_%28HSC%29_22.jpg",
+      "width": 1500,
+      "height": 2100,
+      "title": "US Navy 090928-N-7241L-245 The littoral combat ship USS Freedom (LCS 1) conducts flight deck certification with an MH-60S Sea Hawk helicopter assigned to the Sea Knights of Helicopter Sea Combat Squadron (HSC) 22.jpg",
+      "description": "ATLANTIC OCEAN (Sept. 28, 2009) The littoral combat ship USS Freedom (LCS 1) conducts flight deck certification with an MH-60S Sea Hawk helicopter assigned to the Sea Knights of Helicopter Sea Combat ",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/US_Navy_100407-N-8878B-053_The_littoral_combat_ship_USS_Freedom_%28LCS_1%29_is_underway_in_the_Pacific_Ocean.jpg/1280px-US_Navy_100407-N-8878B-053_The_littoral_combat_ship_USS_Freedom_%28LCS_1%29_is_underway_in_the_Pacific_Ocean.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/US_Navy_100407-N-8878B-053_The_littoral_combat_ship_USS_Freedom_%28LCS_1%29_is_underway_in_the_Pacific_Ocean.jpg",
+      "width": 3000,
+      "height": 1977,
+      "title": "US Navy 100407-N-8878B-053 The littoral combat ship USS Freedom (LCS 1) is underway in the Pacific Ocean.jpg",
+      "description": "PACIFIC OCEAN (April 7, 2010) The littoral combat ship USS Freedom (LCS 1) is underway in the Pacific Ocean.  Freedom is conducting counter-illicit trafficking operations. (U.S. Navy photo by Mass Com",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/US_Navy_100407-N-8878B-057_The_littoral_combat_ship_USS_Freedom_%28LCS_1%29_is_underway_in_the_Pacific_Ocean.jpg/1280px-US_Navy_100407-N-8878B-057_The_littoral_combat_ship_USS_Freedom_%28LCS_1%29_is_underway_in_the_Pacific_Ocean.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/1e/US_Navy_100407-N-8878B-057_The_littoral_combat_ship_USS_Freedom_%28LCS_1%29_is_underway_in_the_Pacific_Ocean.jpg",
+      "width": 2003,
+      "height": 3000,
+      "title": "US Navy 100407-N-8878B-057 The littoral combat ship USS Freedom (LCS 1) is underway in the Pacific Ocean.jpg",
+      "description": "PACIFIC OCEAN (April 7, 2010) The littoral combat ship USS Freedom (LCS 1) is underway in the Pacific Ocean.  Freedom is conducting counter-illicit trafficking operations. (U.S. Navy photo by Mass Com",
+      "license": "Public domain",
+      "source": "wikimedia"
+    }
+  ],
+  "doctrine": {
+    "role": "Gap-filling presence operations and asymmetric threat response in contested littorals where traditional blue-water combatants are either too valuable to risk or physically cannot operate effectively.",
+    "employment": "Typically deployed as part of surface action groups or independently for counter-piracy, counter-narcotics, and freedom of navigation operations. The modular mission package concept allows for rapid reconfiguration between anti-surface warfare, mine countermeasures, and anti-submarine warfare roles. Often operates with minimal escort due to speed reliance for survivability, though this has proven problematic in practice. Command relationships remain flexible, supporting both fleet operations and regional combatant commander taskings.",
+    "design_philosophy": "Prioritized speed, shallow draft, and modular reconfigurability over traditional survivability and firepower. Designers sacrificed armor protection, redundant systems, and heavy weaponry for a 40+ knot top speed and the ability to operate in waters as shallow as 12 feet. The aluminum hull construction further traded durability for weight savings and speed.",
+    "threat_context": "Originally designed for post-9/11 asymmetric threats including small boat swarms, coastal mines, and quiet diesel submarines in littoral environments. The threat environment has since evolved toward near-peer competition with China and Russia, exposing the platform's vulnerability to anti-ship cruise missiles and long-range precision fires that its speed-based survivability concept cannot adequately counter.",
+    "comparison_frame": "Compare primarily on operational availability, mission package effectiveness, and cost per presence day rather than traditional firepower metrics. Speed and shallow water capability are table stakes for this class, so focus on reliability, maintenance burden, and actual mission accomplishment versus theoretical capabilities when evaluating against international corvette designs."
+  },
+  "curated_sources": [
+    {
+      "title": "Navy Littoral Combat Ship (LCS) Program: Background and Issues for Congress",
+      "type": "report",
+      "url": "https://crsreports.congress.gov/product/pdf/RL/RL33741",
+      "relevance": "Comprehensive analysis of LCS program development, costs, and congressional oversight issues by the leading naval analyst.",
+      "priority": "essential"
+    },
+    {
+      "title": "The U.S. Navy's Littoral Combat Ship: Past, Present, and Future",
+      "type": "book",
+      "url": "",
+      "relevance": "Most detailed technical and operational analysis of LCS design decisions and performance by the premier U.S. naval historian.",
+      "priority": "essential"
+    },
+    {
+      "title": "Distributed Lethality and the Littoral Combat Ship",
+      "type": "article",
+      "url": "https://www.usni.org/magazines/proceedings",
+      "relevance": "Examines how LCS fits into current Navy distributed operations concept despite original design assumptions.",
+      "priority": "recommended"
+    },
+    {
+      "title": "Center for Strategic and Budgetary Assessments - Restoring American Seapower",
+      "type": "report",
+      "url": "https://csbaonline.org/research/publications/restoring-american-seapower-a-new-fleet-architecture-for-the-united-states-navy",
+      "relevance": "Critical assessment of LCS role in future fleet architecture and recommendations for platform employment.",
+      "priority": "recommended"
+    },
+    {
+      "title": "Congressional Budget Office - The Littoral Combat Ship: Alternative Approaches",
+      "type": "report",
+      "url": "https://www.cbo.gov/publication/57240",
+      "relevance": "Independent cost-effectiveness analysis comparing LCS approaches and alternatives for congressional decision-making.",
+      "priority": "essential"
+    },
+    {
+      "title": "Seaforces.org LCS Database",
+      "type": "database",
+      "url": "https://www.seaforces.org/usnships/lcs/LCS-1-class.htm",
+      "relevance": "Comprehensive technical specifications and operational history tracking for Freedom-class vessels.",
+      "priority": "reference"
+    },
+    {
+      "title": "Government Accountability Office LCS Reports",
+      "type": "report",
+      "url": "https://www.gao.gov/products/gao-19-257",
+      "relevance": "Independent oversight analysis of LCS operational availability and maintenance challenges affecting doctrine implementation.",
+      "priority": "recommended"
+    },
+    {
+      "title": "Naval War College Review LCS Analysis",
+      "type": "article",
+      "url": "https://digital-commons.usnwc.edu/nwc-review/",
+      "relevance": "Academic military analysis of LCS operational concepts and lessons learned from early deployments.",
+      "priority": "reference"
+    }
+  ]
+}

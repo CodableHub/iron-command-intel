@@ -1,0 +1,350 @@
+{
+  "combat_history": [
+    {
+      "date": "2016-12",
+      "operation": "First Western Pacific deployment",
+      "event": "Liaoning conducted first deployment beyond first island chain, transiting through Miyako Strait with escort group",
+      "significance": "Demonstrated China's growing confidence in carrier operations and willingness to operate beyond regional waters"
+    },
+    {
+      "date": "2018-04",
+      "operation": "South China Sea exercises",
+      "event": "Large-scale combat exercises in disputed waters with live-fire drills involving J-15 fighters",
+      "significance": "First major combat training deployment showing operational capability development"
+    },
+    {
+      "date": "2019-06",
+      "operation": "Taiwan Strait passage",
+      "event": "Transit through Taiwan Strait with escort vessels, conducting flight operations",
+      "significance": "Political signaling deployment demonstrating reach into sensitive strategic waters"
+    },
+    {
+      "date": "2021-04",
+      "operation": "Western Pacific extended deployment",
+      "event": "40-day deployment with intensive flight operations and multi-carrier group exercises with Shandong",
+      "significance": "Longest deployment to date, demonstrating sustained operational capability and dual-carrier operations"
+    }
+  ],
+  "modernization": [
+    {
+      "program": "Mid-life upgrade program",
+      "status": "planned",
+      "timeline": "2025-2027",
+      "description": "Expected upgrades to radar systems, combat management systems, and defensive armament based on lessons learned from operations",
+      "impact": "Enhanced defensive capabilities and improved integration with newer PLAN systems"
+    },
+    {
+      "program": "J-15B fighter integration",
+      "status": "in-progress",
+      "timeline": "2023-2025",
+      "description": "Integration of improved J-15B variant with enhanced avionics, weapons systems, and reduced radar signature",
+      "impact": "Significant improvement in air wing capability and strike range"
+    }
+  ],
+  "vulnerabilities": [
+    {
+      "area": "Aircraft launch limitations",
+      "description": "Ski-jump configuration limits aircraft payload and range compared to catapult systems, reducing strike capability",
+      "context": "Critical limitation in high-intensity conflict against peer adversaries with long-range anti-ship missiles",
+      "mitigation": "Future Type 003 carriers will feature electromagnetic catapults; current focus on maximizing J-15 performance"
+    },
+    {
+      "area": "Limited air wing size",
+      "description": "36-aircraft capacity significantly smaller than US supercarriers' 75+ aircraft, reducing sustained operations capability",
+      "context": "Insufficient for major power projection missions or defending against massed air attacks",
+      "mitigation": "Emphasis on quality over quantity; integration with land-based aviation for major operations"
+    },
+    {
+      "area": "Defensive armament gaps",
+      "description": "Lacks long-range area air defense missiles, relying on escort vessels for protection against standoff threats",
+      "context": "Vulnerable to submarine-launched cruise missiles and long-range air-launched weapons",
+      "mitigation": "Always operates with Type 055 and Type 052D escorts providing area defense"
+    },
+    {
+      "area": "Operational experience deficit",
+      "description": "Limited combat experience and relatively new carrier aviation culture compared to US Navy's decades of operations",
+      "context": "May face significant challenges in high-tempo combat operations requiring complex coordination",
+      "mitigation": "Intensive training programs and increasing deployment frequency to build experience"
+    }
+  ],
+  "operational_patterns": {
+    "typical_deployment": "Regional power projection with destroyer/frigate escort group, training missions, and political signaling operations",
+    "deployment_length_months": 2,
+    "key_operating_areas": [
+      "South China Sea",
+      "East China Sea",
+      "Western Pacific",
+      "Taiwan Strait"
+    ],
+    "typical_task_group": "2-4 Type 055/052D destroyers, 1-2 Type 054A frigates, 1 Type 901 replenishment ship, 1-2 submarines",
+    "readiness_notes": "Approximately 30-40% time at sea, with significant maintenance periods between deployments"
+  },
+  "peer_comparisons": [
+    {
+      "platform": "Admiral Kuznetsov",
+      "country": "Russia",
+      "relationship": "predecessor",
+      "key_differences": "Liaoning features modern Chinese electronics and weapons systems, better maintained condition, and more active operational tempo than the frequently troubled Russian flagship",
+      "video_angle": "Soviet design heritage vs modern Chinese execution - how China improved on the original"
+    },
+    {
+      "platform": "INS Vikramaditya",
+      "country": "India",
+      "relationship": "regional rival",
+      "key_differences": "Similar Soviet origins but Vikramaditya operates MiG-29K fighters with different capabilities. Liaoning has larger air wing and more modern systems integration",
+      "video_angle": "Tale of two Soviet conversions - China vs India's different approaches to carrier modernization"
+    },
+    {
+      "platform": "HMS Queen Elizabeth",
+      "country": "United Kingdom",
+      "relationship": "contemporary rival",
+      "key_differences": "Queen Elizabeth is larger with F-35B STOVL capability providing superior strike range and stealth. Liaoning relies on conventional J-15 fighters with ski-jump limitations",
+      "video_angle": "Ski-jump showdown - STOVL vs conventional carrier aviation approaches"
+    },
+    {
+      "platform": "Charles de Gaulle",
+      "country": "France",
+      "relationship": "capability comparison",
+      "key_differences": "French carrier has catapults enabling heavier aircraft loads and AWACS operations, but is smaller and nuclear-powered. Liaoning larger but launch-limited",
+      "video_angle": "Medium carrier comparison - catapults vs capacity trade-offs"
+    },
+    {
+      "platform": "Nimitz-class",
+      "country": "United States",
+      "relationship": "aspirational target",
+      "key_differences": "US supercarriers dwarf Liaoning in every metric - twice the aircraft capacity, catapult launch, nuclear propulsion, and decades more operational experience",
+      "video_angle": "David vs Goliath - How China's first carrier stacks up against the supercarrier gold standard"
+    }
+  ],
+  "search_keywords": [
+    "liaoning",
+    "type 001",
+    "chinese aircraft carrier",
+    "plan carrier",
+    "varyag",
+    "j-15 flying shark",
+    "chinese navy carrier",
+    "liaoning carrier",
+    "cv-16"
+  ],
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Aircraft_Carrier_Liaoning_CV-16.jpg/1280px-Aircraft_Carrier_Liaoning_CV-16.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/76/Aircraft_Carrier_Liaoning_CV-16.jpg",
+      "width": 2400,
+      "height": 1600,
+      "title": "Aircraft Carrier Liaoning CV-16.jpg",
+      "description": "Aircraft Carrier Liaoning (16) at Hong Kong Waters",
+      "license": "CC BY-SA 2.5",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Dalian_Liaoning_China_CNS_Liaoning_%28CV-16%29-02.jpg/1280px-Dalian_Liaoning_China_CNS_Liaoning_%28CV-16%29-02.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Dalian_Liaoning_China_CNS_Liaoning_%28CV-16%29-02.jpg",
+      "width": 2934,
+      "height": 1370,
+      "title": "Dalian Liaoning China CNS Liaoning (CV-16)-02.jpg",
+      "description": "Dalian, Liaoning, China: CNS Liaoning (CV-16) during refurbishment in Dalian Shipyard",
+      "license": "CC BY-SA 3.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/PLANS_Liaoning_%28CV-16%29_20200428.jpg/1280px-PLANS_Liaoning_%28CV-16%29_20200428.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/0f/PLANS_Liaoning_%28CV-16%29_20200428.jpg",
+      "width": 2178,
+      "height": 564,
+      "title": "PLANS Liaoning (CV-16) 20200428.jpg",
+      "description": "\uff14\u6708\uff12\uff18\u65e5\uff08\u706b\uff09\u5348\u524d\uff19\u6642\u9803\u3001\u6d77\u4e0a\u81ea\u885b\u968a\u7b2c\uff15\u8b77\u885b\u968a\u6240\u5c5e\u300c\u3053\u3093\u3054\u3046\u300d\uff08\u4f50\u4e16\u4fdd\uff09\u3001\u7b2c\uff11\uff12\u8b77\u885b\u968a\u6240\u5c5e\u300c\u3046\u307f\u304e\u308a\u300d\uff08\u5449\uff09\u53ca\u3073\u7b2c\uff15\u822a\u7a7a\u7fa4\u6240\u5c5e\u300c\uff30\uff0d\uff13\uff23\u300d\uff08\u90a3\u8987\uff09\u304c\u3001\u5bae\u53e4\u5cf6\u306e\u5357\u6771\u7d04\uff18\uff10\uff4b\uff4d\u306e\u6d77\u57df\u3092\u5317\u897f\u9032\u3059\u308b\u4e2d\u56fd\u6d77\u8ecd\u30af\u30ba\u30cd\u30c4\u30a9\u30d5\u7d1a\u7a7a\u6bcd\u300c\u907c\u5be7\u300d\uff11\u96bb\u3001\u30eb\u30fc\u30e4\u30f3\u2162\u7d1a\u30df\u30b5\u30a4\u30eb\u99c6\u9010\u8266\uff12\u96bb\u3001\u30b8\u30e3\u30f3\u30ab\u30a4\u2161\u7d1a\u30d5\u30ea\u30b2\u30fc\u30c8\n<p>\uff12\u96bb\u53ca\u3073\u30d5\u30e6\u7d1a\u9ad8\u901f\u6226\u95d8\u652f\u63f4\u8266\uff11\u96bb\u306e\u8a08\uff16\u96bb\u3092\u78ba\u8a8d\u3057\u305f\u3002\n\u305d\u306e\u5f8c\u3001\u3053\u308c\u3089\u306e\u8266\u8247\u304c\u6c96\u7e04\u672c\u5cf6\u3068\u5bae\u53e4\u5cf6\u306e\u9593\u306e\u6d77\u57df\u3092",
+      "license": "CC BY 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/PLANS_Liaoning_%28CV-16%29_20210427.jpg/1280px-PLANS_Liaoning_%28CV-16%29_20210427.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/8a/PLANS_Liaoning_%28CV-16%29_20210427.jpg",
+      "width": 1599,
+      "height": 445,
+      "title": "PLANS Liaoning (CV-16) 20210427.jpg",
+      "description": "\uff14\u6708\uff12\uff16\u65e5\uff08\u6708\uff09\u5348\u5f8c\uff17\u6642\u9803\u3001\u6d77\u4e0a\u81ea\u885b\u968a\u306f\u3001\u5bae\u53e4\u5cf6\u306e\u5357\u7d04\uff11\uff16\uff10\uff4b\uff4d\u306e\u6d77\u57df\u306b\u304a\u3044\u3066\u3001\u540c\u6d77\u57df\u3092\u5317\u6771\u9032\u3059\u308b\u4e2d\u56fd\u6d77\u8ecd\u30af\u30ba\u30cd\u30c4\u30a9\u30d5\u7d1a\u7a7a\u6bcd\u300c\u907c\u5be7\u300d\uff11\u96bb\u3001\u30ec\u30f3\u30cf\u30a4\u7d1a\u30df\u30b5\u30a4\u30eb\u99c6\u9010\u8266\uff11\u96bb\u3001\u30eb\u30fc\u30e4\u30f3\u2162\u7d1a\u30df\u30b5\u30a4\u30eb\u99c6\u9010\u8266\uff12\u96bb\u3001\u30b8\u30e3\u30f3\u30ab\u30a4\u2161\u7d1a\u30d5\u30ea\u30b2\u30fc\u30c8\uff11\u96bb\u53ca\u3073\u30d5\u30e6\u7d1a\u9ad8\u901f\u6226\u95d8\u652f\u63f4\u8266\uff11\u96bb\u306e\u8a08\uff16\u96bb\u3092\u78ba\u8a8d\u3057\u305f\u3002\n<p>\u305d\u306e\u5f8c\u3001\u3053\u308c\u3089\u306e\u8266\u8247\u304c\u6c96\u7e04\u672c\u5cf6\u3068\u5bae\u53e4\u5cf6\u306e\u9593\u306e\u6d77\u57df\u3092\u5317\u4e0a\u3057\u3001\u6771\u30b7\u30ca\u6d77\u3078\u5411\u3051\u3066\u822a\u884c\u3057\u305f\u3053\u3068\u3092\u78ba\u8a8d\u3057\u305f\u3002\n</p><p>\u306a",
+      "license": "CC BY 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/PLANS_Liaoning_%28CV-16%29_20211221_-_1.jpg/1280px-PLANS_Liaoning_%28CV-16%29_20211221_-_1.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/00/PLANS_Liaoning_%28CV-16%29_20211221_-_1.jpg",
+      "width": 1498,
+      "height": 538,
+      "title": "PLANS Liaoning (CV-16) 20211221 - 1.jpg",
+      "description": "\uff11\uff12\u6708\uff11\uff19\u65e5\uff08\u65e5\uff09\u5348\u524d\uff18\u6642\u9803\u3001\u6d77\u4e0a\u81ea\u885b\u968a\u306f\u3001\u4e2d\u56fd\u6d77\u8ecd\u30af\u30ba\u30cd\u30c4\u30a9\u30d5\u7d1a\u7a7a\u6bcd\u300c\u907c\u5be7\u300d\uff11\u96bb\u3001\u30ec\u30f3\u30cf\u30a4\u7d1a\u30df\u30b5\u30a4\u30eb\u99c6\u9010\u8266\uff11\u96bb\u3001\u30eb\u30fc\u30e4\u30f3\u2162\u7d1a\u30df\u30b5\u30a4\u30eb\u99c6\u9010\u8266\uff11\u96bb\u3001\u30b8\u30e3\u30f3\u30ab\u30a4\u2161\u7d1a\u30d5\u30ea\u30b2\u30fc\u30c8\uff12\u96bb\u53ca\u3073\u30d5\u30e6\u7d1a\u9ad8\u901f\u6226\u95d8\u652f\u63f4\u8266\uff11\u96bb\u306e\u8a08\uff16\u96bb\u304c\u3001\u5317\u5927\u6771\u5cf6\uff08\u6c96\u7e04\u770c\uff09\u306e\u6771\u7d04\uff13\uff10\uff10\uff4b\uff4d\u306e\u6d77\u57df\u306b\u304a\u3044\u3066\u822a\u884c\u3057\u3066\u3044\u308b\u3053\u3068\u3092\u78ba\u8a8d\u3057\u305f\u3002\n<p>\u307e\u305f\u3001\u5348\u524d\uff18\u6642\u9803\u304b\u3089\u5348\u5f8c\uff19\u6642\u9803\u306b\u304b\u3051\u3066\u3001\u4e2d\u56fd\u6d77\u8ecd\u30af\u30ba\u30cd\u30c4\u30a9\u30d5\u7d1a\u7a7a\u6bcd\u300c\u907c\u5be7\u300d\u306e\u8266\u8f09\u6226\u95d8\u6a5f\u53ca\u3073\u8266\u8f09\u30d8\u30ea\u306e\u767a",
+      "license": "CC BY 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/PLANS_Liaoning_%28CV-16%29_20220506.jpg/1280px-PLANS_Liaoning_%28CV-16%29_20220506.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/PLANS_Liaoning_%28CV-16%29_20220506.jpg",
+      "width": 1498,
+      "height": 858,
+      "title": "PLANS Liaoning (CV-16) 20220506.jpg",
+      "description": "\uff15\u6708\uff15\u65e5\uff08\u6728\uff09\u5348\u5f8c\uff12\u6642\u9803\u3001\u6d77\u4e0a\u81ea\u885b\u968a\u306f\u3001\u4e2d\u56fd\u6d77\u8ecd\u30af\u30ba\u30cd\u30c4\u30a9\u30d5\u7d1a\u7a7a\u6bcd\u300c\u907c\u5be7\u300d\uff11\u96bb\u3001\u30eb\u30fc\u30e4\u30f3\u2162\u7d1a\u30df\u30b5\u30a4\u30eb\u99c6\u9010\u8266\uff13\u96bb\u3001\u30ec\u30f3\u30cf\u30a4\u7d1a\u30df\u30b5\u30a4\u30eb\u99c6\u9010\u8266\uff11\u96bb\u53ca\u3073\u30d5\u30e6\u7d1a\u9ad8\u901f\u6226\u95d8\u652f\u63f4\u8266\uff11\u96bb\u306e\u8a08\uff16\u96bb\u304c\u3001\u5bae\u53e4\u5cf6\uff08\u6c96\u7e04\u770c\uff09\u306e\u5357\u6771\u7d04\uff13\uff12\uff10\uff4b\uff4d\u306e\u6d77\u57df\u306b\u304a\u3044\u3066\u822a\u884c\u3057\u3066\u3044\u308b\u3053\u3068\u3092\u78ba\u8a8d\u3057\u305f\u3002\n<p>\u307e\u305f\u3001\uff15\u6708\uff13\u65e5\uff08\u706b\uff09\u53ca\u3073\uff14\u65e5\uff08\u6c34\uff09\u306b\u5f15\u304d\u7d9a\u304d\u3001\uff15\u6708\uff15\u65e5\uff08\u6728\uff09\u5348\u5f8c\uff12\u6642\u9803\u304b\u3089\u5348\u5f8c\uff18\u6642\u9803\u307e\u3067\u306b\u304b\u3051\u3066\u3001\u4e2d\u56fd\u6d77\u8ecd\u30af\u30ba\u30cd\u30c4\u30a9\u30d5\u7d1a\u7a7a\u6bcd\u300c\u907c\u5be7\u300d\u306e\u8266",
+      "license": "CC BY 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/PLANS_Liaoning_%28CV-16%29_20220522.jpg/1280px-PLANS_Liaoning_%28CV-16%29_20220522.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/a8/PLANS_Liaoning_%28CV-16%29_20220522.jpg",
+      "width": 1484,
+      "height": 348,
+      "title": "PLANS Liaoning (CV-16) 20220522.jpg",
+      "description": "\uff15\u6708\uff12\uff11\u65e5\uff08\u571f\uff09\u5348\u524d\uff11\uff10\u6642\u9803\u3001\u6d77\u4e0a\u81ea\u885b\u968a\u306f\u3001\u5bae\u53e4\u5cf6\u306e\u6771\u7d04\uff11\uff17\uff10\uff4b\uff4d\u306e\u6d77\u57df\u306b\u304a\u3044\u3066\u3001\u540c\u6d77\u57df\u3092\u5317\u897f\u9032\u3059\u308b\u4e2d\u56fd\u6d77\u8ecd\u30b8\u30e3\u30f3\u30ab\u30a4\u2161\u7d1a\u30d5\u30ea\u30b2\u30fc\u30c8\uff11\u96bb\u3092\u78ba\u8a8d\u3057\u305f\u3002\n<p>\u307e\u305f\u3001\u540c\u65e5\u5348\u5f8c\uff13\u6642\u9803\u3001\u5bae\u53e4\u5cf6\u306e\u6771\u7d04\uff11\uff18\uff10\uff4b\uff4d\u306e\u6d77\u57df\u306b\u304a\u3044\u3066\u3001\u540c\u6d77\u57df\u3092\u897f\u9032\u3059\u308b\u4e2d\u56fd\u6d77\u8ecd\u30ec\u30f3\u30cf\u30a4\u7d1a\u30df\u30b5\u30a4\u30eb\u99c6\u9010\u8266\uff11\u96bb\u3092\u78ba\u8a8d\u3057\u305f\u3002\n</p><p>\u66f4\u306b\u3001\u540c\u65e5\u5348\u5f8c\uff15\u6642\u9803\u3001\u5bae\u53e4\u5cf6\u306e\u6771\u7d04\uff12\uff12\uff10\uff4b\uff4d\u306e\u6d77\u57df\u306b\u304a\u3044\u3066\u3001\u540c\u6d77\u57df\u3092\u897f\u9032\u3059\u308b\u4e2d\u56fd\u6d77\u8ecd\u30af\u30ba\u30cd\u30c4\u30a9\u30d5\u7d1a\u7a7a\u6bcd\u300c",
+      "license": "CC BY 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/7d/PLANS_Liaoning_and_Z-18J_20220512.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/7d/PLANS_Liaoning_and_Z-18J_20220512.jpg",
+      "width": 639,
+      "height": 427,
+      "title": "PLANS Liaoning and Z-18J 20220512.jpg",
+      "description": "\uff15\u6708\uff11\uff11\u65e5\uff08\u6c34\uff09\u5348\u524d\uff19\u6642\u9803\u3001\u6d77\u4e0a\u81ea\u885b\u968a\u306f\u3001\u4e2d\u56fd\u6d77\u8ecd\u30af\u30ba\u30cd\u30c4\u30a9\u30d5\u7d1a\u7a7a\u6bcd\u300c\u907c\u5be7\u300d\uff11\u96bb\u53ca\u3073\u30eb\u30fc\u30e4\u30f3\u2162\u7d1a\u30df\u30b5\u30a4\u30eb\u99c6\u9010\u8266\uff12\u96bb\u306e\u8a08\uff13\u96bb\u304c\u3001\u77f3\u57a3\u5cf6\uff08\u6c96\u7e04\u770c\uff09\u306e\u5357\u7d04\uff11\uff16 \uff10\uff4b\uff4d\u306e\u6d77\u57df\u306b\u304a\u3044\u3066\u822a\u884c\u3057\u3066\u3044\u308b\u3053\u3068\u3092\u78ba\u8a8d\u3057\u305f\u3002\n<p>\u307e\u305f\u3001\uff15\u6708\uff13\u65e5\uff08\u706b\uff09\u304b\u3089\uff11\uff10\u65e5\uff08\u706b\uff09\u306b\u5f15\u304d\u7d9a\u304d\u3001\uff15\u6708\uff11\uff11\u65e5\uff08\u6c34\uff09\u5348\u524d\uff19\u6642\u9803\u304b\u3089\u5348\u5f8c\uff18\u6642\u9803\u307e\u3067\u306b\u304b\u3051\u3066\u3001\u4e2d\u56fd\u6d77\u8ecd\u30af\u30ba\u30cd\u30c4\u30a9\u30d5\u7d1a\u7a7a\u6bcd\u300c\u907c\u5be7\u300d\u306e\u8266\u8f09\u6226\u95d8\u6a5f\u53ca\u3073\u8266\u8f09\u30d8\u30ea\u306e\u767a\u7740\u8266\u306e\u767a\u7740\u8266\u3092\u78ba\u8a8d\u3057\u305f\u3002\n",
+      "license": "CC BY 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/160803-N-RY232-001_-_Navy_Working_Uniform_%28NWU%29_Type_III.jpg/1280px-160803-N-RY232-001_-_Navy_Working_Uniform_%28NWU%29_Type_III.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/160803-N-RY232-001_-_Navy_Working_Uniform_%28NWU%29_Type_III.jpg",
+      "width": 1500,
+      "height": 2100,
+      "title": "160803-N-RY232-001 - Navy Working Uniform (NWU) Type III.jpg",
+      "description": "160803-N-RY232-001 \nWASHINGTON (Aug. 3, 2016) The Dept. of the Navy announced that it will transition from the Navy Working Uniform (NWU) Type I to the NWU Type III as its primary shore working unifor",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/22/160803-N-RY232-001_-_Navy_Working_Uniform_%28NWU%29_Type_III.png",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/22/160803-N-RY232-001_-_Navy_Working_Uniform_%28NWU%29_Type_III.png",
+      "width": 588,
+      "height": 1828,
+      "title": "160803-N-RY232-001 - Navy Working Uniform (NWU) Type III.png",
+      "description": "160803-N-RY232-001 \nWASHINGTON (Aug. 3, 2016) The Dept. of the Navy announced that it will transition from the Navy Working Uniform (NWU) Type I to the NWU Type III as its primary shore working unifor",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/160803-N-RY232-002_-_Navy_Working_Uniform_%28NWU%29_Type_III.jpg/1280px-160803-N-RY232-002_-_Navy_Working_Uniform_%28NWU%29_Type_III.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/0d/160803-N-RY232-002_-_Navy_Working_Uniform_%28NWU%29_Type_III.jpg",
+      "width": 1500,
+      "height": 2100,
+      "title": "160803-N-RY232-002 - Navy Working Uniform (NWU) Type III.jpg",
+      "description": "160803-N-RY232-002 \nWASHINGTON (Aug. 3, 2016) The Dept. of the Navy announced that it will transition from the Navy Working Uniform (NWU) Type I to the NWU Type III as its primary shore working unifor",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/15/160803-N-RY232-002_-_Navy_Working_Uniform_%28NWU%29_Type_III.png",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/15/160803-N-RY232-002_-_Navy_Working_Uniform_%28NWU%29_Type_III.png",
+      "width": 460,
+      "height": 1845,
+      "title": "160803-N-RY232-002 - Navy Working Uniform (NWU) Type III.png",
+      "description": "160803-N-RY232-002 \nWASHINGTON (Aug. 3, 2016) The Dept. of the Navy announced that it will transition from the Navy Working Uniform (NWU) Type I to the NWU Type III as its primary shore working unifor",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/FA-18_Hornet_breaking_sound_barrier_%287_July_1999%29.jpg/1280px-FA-18_Hornet_breaking_sound_barrier_%287_July_1999%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/FA-18_Hornet_breaking_sound_barrier_%287_July_1999%29.jpg",
+      "width": 2100,
+      "height": 1500,
+      "title": "FA-18 Hornet breaking sound barrier (7 July 1999).jpg",
+      "description": "Off the coast of Pusan, South Korea: An F/A-18C Hornet assigned to Strike Fighter Squadron One Five One (VFA-151) breaks the sound barrier in the skies over the Pacific Ocean. VFA-151 is deployed aboa",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Navy_Region_Singapore_hosts_Date_Safe_Project_160620-N-QL164-001.jpg/1280px-Navy_Region_Singapore_hosts_Date_Safe_Project_160620-N-QL164-001.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/52/Navy_Region_Singapore_hosts_Date_Safe_Project_160620-N-QL164-001.jpg",
+      "width": 4512,
+      "height": 3008,
+      "title": "Navy Region Singapore hosts Date Safe Project 160620-N-QL164-001.jpg",
+      "description": "SINGAPORE (Jun. 20, 2016) - Navy Region Singapore hosted Mike Domitrz, author of, \"May I Kiss You,\" and executive director of The Date Safe Project June 20, 2016 as part of sexual assault awareness an",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/US_Navy_021121-N-0357S-001_Participants_in_the.jpg/1280px-US_Navy_021121-N-0357S-001_Participants_in_the.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/US_Navy_021121-N-0357S-001_Participants_in_the.jpg",
+      "width": 2100,
+      "height": 1575,
+      "title": "US Navy 021121-N-0357S-001 Participants in the.jpg",
+      "description": "At sea aboard USS Peleliu (LHA 5) Nov. 21, 2002 -- Escorted by Ensign Carine Ramin and Chief Journalist Robert Winkler, participants in the \"Leaders to Sea\" program are given a chance to tour USS Pele",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/US_Navy_030915-N-2970T-001_Landing_Craft-Utility_%28LCU%29_transports_Marines.jpg/1280px-US_Navy_030915-N-2970T-001_Landing_Craft-Utility_%28LCU%29_transports_Marines.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/30/US_Navy_030915-N-2970T-001_Landing_Craft-Utility_%28LCU%29_transports_Marines.jpg",
+      "width": 3000,
+      "height": 2008,
+      "title": "US Navy 030915-N-2970T-001 Landing Craft-Utility (LCU) transports Marines.jpg",
+      "description": "Philippine Sea (Sept. 15, 2003) -- A Landing Craft-Utility (LCU) transports Marines and equipment of the 31st Marine Expeditionary Unit (MEU) from the well deck of the amphibious assault ship USS Esse",
+      "license": "Public domain",
+      "source": "wikimedia"
+    }
+  ],
+  "doctrine": {
+    "role": "China's primary training platform for carrier aviation development and a symbol of naval power projection capability, serving as the foundation for PLAN's transition from coastal defense to blue-water operations within the first and second island chains.",
+    "employment": "Liaoning operates as the centerpiece of carrier strike groups alongside Type 052D destroyers, Type 054A frigates, and Type 903 replenishment ships, conducting training operations in the South China Sea and Western Pacific. The carrier focuses on developing pilot proficiency, deck crew procedures, and multi-ship coordination rather than high-intensity combat operations. Command structure integrates with PLAN's Northern Theatre Command, with increasing emphasis on joint operations with PLAAF and PLARF forces.",
+    "design_philosophy": "Prioritized rapid entry into carrier operations using proven Soviet hull design over developing indigenous capabilities from scratch, accepting limitations of ski-jump launch over catapult systems for faster commissioning. Designers emphasized training capacity and operational reliability over maximum combat effectiveness, sacrificing aircraft launch rates and payload flexibility to minimize technical risk during China's carrier learning curve.",
+    "threat_context": "Originally designed as Soviet Admiral Kuznetsov-class for operations against NATO carrier groups in contested environments with land-based air support, but repurposed by China for power projection in regional waters against primarily submarine and air threats. The threat environment has evolved to include advanced anti-ship missiles, stealth aircraft, and integrated air defense systems, exposing Liaoning's limited defensive capabilities and aircraft capacity constraints.",
+    "comparison_frame": "Compare on training throughput and operational learning curve rather than combat capability - Liaoning's value lies in developing institutional knowledge and pilot proficiency. Focus on aircraft operations rate, sortie generation, and crew training capacity versus Western carriers, accepting that ski-jump limitations make direct combat effectiveness comparisons less meaningful."
+  },
+  "curated_sources": [
+    {
+      "title": "China Naval Modernization: Implications for U.S. Navy Capabilities",
+      "type": "report",
+      "url": "https://crsreports.congress.gov/product/pdf/RL/RL33153",
+      "relevance": "Comprehensive analysis of PLAN carrier development including Liaoning's role in China's naval modernization strategy.",
+      "priority": "essential"
+    },
+    {
+      "title": "Andrew S. Erickson - Naval War College China Maritime Studies",
+      "type": "analyst",
+      "url": "https://www.andrewerickson.com/",
+      "relevance": "Leading Western expert on PLAN carrier operations and Chinese naval aviation development with extensive Liaoning analysis.",
+      "priority": "essential"
+    },
+    {
+      "title": "Chinese Naval Shipbuilding: An Ambitious and Uncertain Course",
+      "type": "report",
+      "url": "https://www.rand.org/pubs/research_reports/RR2684.html",
+      "relevance": "RAND assessment of China's carrier program including technical analysis of Liaoning's capabilities and limitations.",
+      "priority": "recommended"
+    },
+    {
+      "title": "China's Aircraft Carriers - Naval Technology",
+      "type": "database",
+      "url": "https://www.naval-technology.com/projects/liaoning-aircraft-carrier/",
+      "relevance": "Technical specifications and systems analysis for Liaoning including air wing composition and operational capabilities.",
+      "priority": "reference"
+    },
+    {
+      "title": "Learning the Ropes: China's Navy Trains with Its First Aircraft Carrier",
+      "type": "report",
+      "url": "https://www.csis.org/analysis/learning-ropes-chinas-navy-trains-its-first-aircraft-carrier",
+      "relevance": "CSIS analysis of Liaoning's training operations and development of Chinese carrier aviation doctrine.",
+      "priority": "recommended"
+    },
+    {
+      "title": "China's Quest for Great Power: Ships, Oil, and Foreign Policy",
+      "type": "book",
+      "url": "",
+      "relevance": "Bernard Cole's comprehensive analysis places Liaoning within broader context of China's naval modernization and strategic objectives.",
+      "priority": "recommended"
+    },
+    {
+      "title": "The PLA Navy: New Capabilities and Missions for the 21st Century",
+      "type": "book",
+      "url": "",
+      "relevance": "Detailed examination of PLAN transformation including carrier aviation development and Liaoning's operational integration.",
+      "priority": "reference"
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "combat_history": [
+    {
+      "date": "2011-03",
+      "operation": "Operation Tomodachi support",
+      "event": "JS Hyuga provided helicopter operations support during Fukushima disaster response, demonstrating aviation coordination capabilities in humanitarian operations",
+      "significance": "First major operational deployment proved the platform's utility for disaster response and multi-helicopter coordination"
+    },
+    {
+      "date": "2019-09",
+      "operation": "Multilateral naval exercise",
+      "event": "JS Ise participated in joint exercises with US and Australian forces, conducting coordinated ASW operations in Philippine Sea",
+      "significance": "Demonstrated interoperability with allied forces and effectiveness in multi-national ASW scenarios"
+    }
+  ],
+  "modernization": [
+    {
+      "program": "Mid-life capability enhancement",
+      "status": "planned",
+      "timeline": "2025-2030",
+      "description": "Potential upgrades to radar systems, combat management system improvements, and enhanced helicopter maintenance facilities",
+      "impact": "Would extend service life and improve integration with newer Izumo-class platforms"
+    }
+  ],
+  "vulnerabilities": [
+    {
+      "area": "Anti-ship missile defense",
+      "description": "Limited VLS capacity (16 cells) and lack of area air defense capability makes the platform vulnerable to saturation attacks",
+      "context": "Chinese anti-ship missile development creates scenarios where 16 defensive missiles may be insufficient",
+      "mitigation": "Operates within broader fleet defensive umbrella, relies on escort vessels for area defense"
+    },
+    {
+      "area": "Aircraft capacity limitations",
+      "description": "Maximum 4 operational helicopters significantly limits simultaneous ASW operations compared to dedicated carriers",
+      "context": "Large submarine threat areas require sustained, multi-vector helicopter operations that exceed platform capacity",
+      "mitigation": "Designed to work in conjunction with Izumo-class and conventional destroyers for distributed operations"
+    },
+    {
+      "area": "Surface warfare capability",
+      "description": "No anti-ship missiles and minimal surface engagement capability beyond helicopters and lightweight weapons",
+      "context": "Limited effectiveness against surface combatants in contested environments without escort support",
+      "mitigation": "Platform not intended for independent surface warfare operations"
+    }
+  ],
+  "operational_patterns": {
+    "typical_deployment": "ASW patrol operations, fleet helicopter coordination, and training exercises in Western Pacific",
+    "deployment_length_months": 3,
+    "key_operating_areas": [
+      "Sea of Japan",
+      "East China Sea",
+      "Western Pacific",
+      "Philippine Sea"
+    ],
+    "typical_task_group": "Operates with Aegis destroyers and conventional ASW destroyers in escort groups",
+    "readiness_notes": "High availability rate but helicopter operations dependent on weather conditions and crew proficiency"
+  },
+  "peer_comparisons": [
+    {
+      "platform": "Dokdo-class amphibious assault ship",
+      "country": "South Korea",
+      "relationship": "regional equivalent",
+      "key_differences": "Dokdo class larger with amphibious capability but less sophisticated ASW systems. Hyuga more specialized for ASW operations with better sonar and combat systems.",
+      "video_angle": "East Asian helicopter carrier development - different approaches to similar regional security challenges"
+    },
+    {
+      "platform": "Giuseppe Garibaldi aircraft carrier",
+      "country": "Italy",
+      "relationship": "capability equivalent",
+      "key_differences": "Garibaldi operates fixed-wing aircraft and has greater aviation capacity, but Hyuga has more advanced ASW sensors and modern combat systems.",
+      "video_angle": "Light carrier vs helicopter destroyer - design philosophy differences between European and Pacific platforms"
+    },
+    {
+      "platform": "Type 075 Landing Helicopter Dock",
+      "country": "China",
+      "relationship": "regional rival",
+      "key_differences": "Type 075 much larger with amphibious assault focus vs Hyuga's ASW specialization. Different strategic roles but similar helicopter coordination challenges.",
+      "video_angle": "Pacific helicopter platforms - Japanese ASW focus vs Chinese amphibious capabilities"
+    },
+    {
+      "platform": "Juan Carlos I aircraft carrier",
+      "country": "Spain",
+      "relationship": "design inspiration",
+      "key_differences": "Juan Carlos I larger multi-role design with ski-jump and well deck vs Hyuga's pure helicopter destroyer configuration focused on ASW.",
+      "video_angle": "Evolution from European designs - how Japan adapted light carrier concepts for constitutional and operational requirements"
+    }
+  ],
+  "search_keywords": [
+    "hyuga class",
+    "DDH-181",
+    "DDH-182",
+    "helicopter destroyer",
+    "JS Hyuga",
+    "JS Ise",
+    "JMSDF",
+    "japanese destroyer",
+    "anti-submarine warfare"
+  ],
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/JS_Hy%C5%ABga_%28DDH-181%29_in_formation_with_USS_George_Washington_in_the_East_China_Sea_after_Keen_Sword_2013%2C_-16_Nov._2012_a.jpg/1280px-JS_Hy%C5%ABga_%28DDH-181%29_in_formation_with_USS_George_Washington_in_the_East_China_Sea_after_Keen_Sword_2013%2C_-16_Nov._2012_a.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/ca/JS_Hy%C5%ABga_%28DDH-181%29_in_formation_with_USS_George_Washington_in_the_East_China_Sea_after_Keen_Sword_2013%2C_-16_Nov._2012_a.jpg",
+      "width": 2144,
+      "height": 1424,
+      "title": "JS Hy\u016bga (DDH-181) in formation with USS George Washington in the East China Sea after Keen Sword 2013, -16 Nov. 2012 a.jpg",
+      "description": "<a href=\"//commons.wikimedia.org/wiki/Category:East_China_Sea\" title=\"Category:East China Sea\">EAST CHINA SEA</a> (Nov. 16, 2012) - Twenty-six ships from the U.S. Navy and the Japan Maritime Self Defe",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Ronald_Reagan_Carrier_Strike_Group_and_Japan_Maritime_Self-Defense_Force%2C_November_23%2C_2015.jpg/1280px-Ronald_Reagan_Carrier_Strike_Group_and_Japan_Maritime_Self-Defense_Force%2C_November_23%2C_2015.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/00/Ronald_Reagan_Carrier_Strike_Group_and_Japan_Maritime_Self-Defense_Force%2C_November_23%2C_2015.jpg",
+      "width": 2500,
+      "height": 1663,
+      "title": "Ronald Reagan Carrier Strike Group and Japan Maritime Self-Defense Force, November 23, 2015.jpg",
+      "description": "151123-N-OI810-363 WATERS SOUTH OF JAPAN (Nov. 23, 2015) The Ronald Reagan Carrier Strike Group (CSG) is underway in formation with Japan Maritime Self-Defense Force ships for a photo exercise during ",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Helicopter_carrier_Hy%C5%ABga_%2816DDH%29.jpg/1280px-Helicopter_carrier_Hy%C5%ABga_%2816DDH%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/36/Helicopter_carrier_Hy%C5%ABga_%2816DDH%29.jpg",
+      "width": 2100,
+      "height": 1500,
+      "title": "Helicopter carrier Hy\u016bga (16DDH).jpg",
+      "description": "PACIFIC OCEAN (Nov. 17, 2009) - The Japan Maritime Self-Defense Force helicopter destroyer <a href=\"//commons.wikimedia.org/wiki/Category:JS_Hy%C5%ABga_(DDH-181)\" title=\"Category:JS Hy\u016bga (DDH-181)\"><",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Indian_Navy_Deepak-class_fleet_oiler_INS_Shakti_%28A57%29%2C_Shivalik-class_stealth_multi-role_frigate_INS_Sahyadri_%28F49%29_and_Japanese_Maritime_Self-Defense_Force_Hyuga-class_helicopter_destroyer_JS_Hyuga_%28DDH-181%29_transit_together.jpg/1280px-thumbnail.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Indian_Navy_Deepak-class_fleet_oiler_INS_Shakti_%28A57%29%2C_Shivalik-class_stealth_multi-role_frigate_INS_Sahyadri_%28F49%29_and_Japanese_Maritime_Self-Defense_Force_Hyuga-class_helicopter_destroyer_JS_Hyuga_%28DDH-181%29_transit_together.jpg",
+      "width": 4628,
+      "height": 3080,
+      "title": "Indian Navy Deepak-class fleet oiler INS Shakti (A57), Shivalik-class stealth multi-role frigate INS Sahyadri (F49) and Japanese Maritime Self-Defense Force Hyuga-class helicopter destroyer JS Hyuga (DDH-181) transit together.jpg",
+      "description": "160617-N-EH218-107\n<p>PHILIPPINE SEA (June 17, 2016) From left to right, the Indian Navy Deepak-class fleet oiler INS Shakti (A57), Indian Navy Shivalik-class stealth multi-role frigate INS Sahyadri (",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/JS_Hy%C5%ABga%2C_Ise_Bay_01.jpg/1280px-JS_Hy%C5%ABga%2C_Ise_Bay_01.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/0b/JS_Hy%C5%ABga%2C_Ise_Bay_01.jpg",
+      "width": 2527,
+      "height": 1451,
+      "title": "JS Hy\u016bga, Ise Bay 01.jpg",
+      "description": "Ceremonial deck assembly aboard the <a href=\"https://en.wikipedia.org/wiki/JDS_Hy%C5%ABga_(DDH-181)\" class=\"extiw\" title=\"w:JDS Hy\u016bga (DDH-181)\">JDS <i>Hy\u016bga</i> (DDH-181)</a>. 2010 <a href=\"https://e",
+      "license": "CC BY-SA 3.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/JS%E2%80%9DHyuga%E2%80%9D%28DDH-181%29Low-visibility_01.jpg/1280px-JS%E2%80%9DHyuga%E2%80%9D%28DDH-181%29Low-visibility_01.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/b5/JS%E2%80%9DHyuga%E2%80%9D%28DDH-181%29Low-visibility_01.jpg",
+      "width": 4032,
+      "height": 2268,
+      "title": "JS\u201dHyuga\u201d(DDH-181)Low-visibility 01.jpg",
+      "description": "\u30ed\u30fc\u30d3\u30b8\u5857\u88c5\u3068\u3055\u308c\u305f\u3001\u6d77\u4e0a\u81ea\u885b\u968a\u30d8\u30ea\u30b3\u30d7\u30bf\u30fc\u642d\u8f09\u8b77\u885b\u8266\u300c\u3072\u3085\u3046\u304c\u300d\uff08DDH-181\uff092021/11/15\u3001\u821e\u9db4\u6e2f\u306b\u3066\u3002",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/JS%E2%80%9DHyuga%E2%80%9D%28DDH-181%29Low-visibility_02.jpg/1280px-JS%E2%80%9DHyuga%E2%80%9D%28DDH-181%29Low-visibility_02.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/30/JS%E2%80%9DHyuga%E2%80%9D%28DDH-181%29Low-visibility_02.jpg",
+      "width": 3953,
+      "height": 2224,
+      "title": "JS\u201dHyuga\u201d(DDH-181)Low-visibility 02.jpg",
+      "description": "\u30ed\u30fc\u30d3\u30b8\u5857\u88c5\u3068\u3055\u308c\u305f\u3001\u6d77\u4e0a\u81ea\u885b\u968a\u30d8\u30ea\u30b3\u30d7\u30bf\u30fc\u642d\u8f09\u8b77\u885b\u8266\u300c\u3072\u3085\u3046\u304c\u300d\uff08DDH-181\uff09\u3002\u98db\u884c\u7532\u677f\u4e0a\u306b\u306f\u3001\u30ed\u30fc\u30bf\u30fc\u683c\u7d0d\u72b6\u614b\u306eSH-60K\u54e8\u6212\u30d8\u30ea\u53ca\u3073\u8266\u4e0a\u6551\u96e3\u6d88\u9632\u8eca\u304c\u78ba\u8a8d\u3067\u304d\u308b\u3002",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/JS%E2%80%9DHyuga%E2%80%9D%28DDH-181%29Low-visibility_RearView.jpg/1280px-JS%E2%80%9DHyuga%E2%80%9D%28DDH-181%29Low-visibility_RearView.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/bf/JS%E2%80%9DHyuga%E2%80%9D%28DDH-181%29Low-visibility_RearView.jpg",
+      "width": 4032,
+      "height": 2268,
+      "title": "JS\u201dHyuga\u201d(DDH-181)Low-visibility RearView.jpg",
+      "description": "\u30ed\u30fc\u30d3\u30b8\u5857\u88c5\u3068\u3055\u308c\u305f\u3001\u6d77\u4e0a\u81ea\u885b\u968a\u30d8\u30ea\u30b3\u30d7\u30bf\u30fc\u642d\u8f09\u8b77\u885b\u8266\u300c\u3072\u3085\u3046\u304c\u300d\uff08DDH-181\uff09\u5f8c\u65b9\u304b\u3089\u671b\u3080\u30022021/11/15\u3001\u821e\u9db4\u6e2f\u306b\u3066\u3002",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Japan_Maritime_Self_Defense_Force_Hyuga-class_helicopter_destroyer_JS_Ise_%28DDH_182%29%2C_RIMPAC_2014_140707-N-MF909-117.jpg/1280px-Japan_Maritime_Self_Defense_Force_Hyuga-class_helicopter_destroyer_JS_Ise_%28DDH_182%29%2C_RIMPAC_2014_140707-N-MF909-117.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Japan_Maritime_Self_Defense_Force_Hyuga-class_helicopter_destroyer_JS_Ise_%28DDH_182%29%2C_RIMPAC_2014_140707-N-MF909-117.jpg",
+      "width": 4928,
+      "height": 3280,
+      "title": "Japan Maritime Self Defense Force Hyuga-class helicopter destroyer JS Ise (DDH 182), RIMPAC 2014 140707-N-MF909-117.jpg",
+      "description": "An U.S. Navy patrol boat assigned to Coastal Riverine Squadron (CORIVRON) 11 escorts Japan Maritime Self Defense Force Hyuga-class helicopter destroyer JS Ise (DDH 182) through Pearl Harbor during Rim",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/US_Navy_111104-N-DS193-090_The_Japan_Maritime_Self-Defense_Force_helicopter_destroyer_JS_Hyuga_%28DDH_181%29_prepares_to_turn_from_a_formation_of_U.S.jpg/1280px-US_Navy_111104-N-DS193-090_The_Japan_Maritime_Self-Defense_Force_helicopter_destroyer_JS_Hyuga_%28DDH_181%29_prepares_to_turn_from_a_formation_of_U.S.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/82/US_Navy_111104-N-DS193-090_The_Japan_Maritime_Self-Defense_Force_helicopter_destroyer_JS_Hyuga_%28DDH_181%29_prepares_to_turn_from_a_formation_of_U.S.jpg",
+      "width": 2100,
+      "height": 1500,
+      "title": "US Navy 111104-N-DS193-090 The Japan Maritime Self-Defense Force helicopter destroyer JS Hyuga (DDH 181) prepares to turn from a formation of U.S.jpg",
+      "description": "PACIFIC OCEAN (Nov. 4, 2011) The Japan Maritime Self-Defense Force helicopter destroyer <a href=\"//commons.wikimedia.org/wiki/Category:JS_Hy%C5%ABga_(DDH-181)\" title=\"Category:JS Hy\u016bga (DDH-181)\">JS H",
+      "license": "Public domain",
+      "source": "wikimedia"
+    }
+  ]
+}

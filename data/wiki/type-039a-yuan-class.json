@@ -1,0 +1,527 @@
+{
+  "id": 26,
+  "slug": "type-039a-yuan-class",
+  "name": "Type 039A Yuan-class submarine",
+  "designation": "Type 039A",
+  "type": "submarine",
+  "country": "China",
+  "operator": "People's Liberation Army Navy",
+  "overview_md": "The Type 039A Yuan-class represents China's most advanced conventional submarine design and a critical component of the PLAN's anti-access/area-denial (A2/AD) strategy in the Western Pacific. These diesel-electric attack submarines incorporate Air-Independent Propulsion (AIP) technology, enabling extended submerged endurance that significantly enhances their operational effectiveness compared to previous Chinese submarine designs.\n\nDesigned for littoral and blue-water operations, the Yuan-class serves multiple strategic roles: anti-submarine warfare against allied nuclear submarines, anti-surface warfare targeting high-value units like carriers and amphibious groups, intelligence gathering, and special operations support. The platform represents China's growing submarine construction expertise and marks a shift toward indigenous design capabilities rather than reliance on Russian or Western technology transfers.\n\nThe Type 039A's AIP system, believed to be based on Stirling engine technology, provides a tactical advantage in the shallow, acoustically complex waters of the South China Sea and Taiwan Strait. This capability allows the submarines to remain submerged for weeks rather than days, complicating ASW operations for potential adversaries. The class has been central to China's submarine force modernization, bridging the capability gap between older conventional boats and nuclear submarines.\n\nIn the current threat environment, the Yuan-class poses a significant challenge to U.S. and allied naval operations in the First Island Chain. Their relatively quiet operation, modern sensors, and land-attack cruise missile capability make them a credible threat to surface combatants and shore installations. Compared to peers like the Japanese Soryu-class or German Type 214, the Yuan-class emphasizes numbers and regional presence over individual platform sophistication, reflecting China's strategic approach to submarine warfare.",
+  "specs_json": {
+    "displacement_tonnes": 3600,
+    "length_m": 77.6,
+    "beam_m": 8.4,
+    "draft_m": 7.5,
+    "speed_knots": 18,
+    "range_nm": 8000,
+    "crew": 38,
+    "propulsion": "Diesel-electric with AIP (Stirling engine), single shaft",
+    "radar": "Type 362 surface search radar",
+    "sonar": "Integrated sonar suite with flank array, towed array sonar",
+    "combat_system": "H/ZBJ-1 combat management system",
+    "vls_cells": 0,
+    "additional": {
+      "torpedo_tubes": 6,
+      "submerged_endurance_days": "14-21 with AIP",
+      "max_depth_m": 300,
+      "snorkel_depth_m": 12
+    }
+  },
+  "armament_json": [
+    {
+      "category": "Torpedoes",
+      "name": "Yu-6 heavyweight torpedo",
+      "type": "anti-submarine/anti-ship torpedo",
+      "quantity": "18 total weapons load",
+      "range_km": 45,
+      "notes": "Wire-guided with active/passive homing"
+    },
+    {
+      "category": "Missiles",
+      "name": "YJ-18 anti-ship cruise missile",
+      "type": "anti-ship missile",
+      "quantity": "6-12 (depending on load)",
+      "range_km": 290,
+      "notes": "Supersonic terminal phase, launched via torpedo tubes"
+    },
+    {
+      "category": "Missiles",
+      "name": "CJ-10 land-attack cruise missile",
+      "type": "land-attack cruise missile",
+      "quantity": "Variable load",
+      "range_km": 1500,
+      "notes": "Suspected capability, launched via torpedo tubes"
+    },
+    {
+      "category": "Mines",
+      "name": "Naval mines",
+      "type": "contact/influence mines",
+      "quantity": "Up to 36 in lieu of torpedoes",
+      "range_km": 0,
+      "notes": "Minelaying capability for A2/AD operations"
+    }
+  ],
+  "variants_json": [
+    {
+      "name": "Type 039A",
+      "designation_range": "330-349 series",
+      "years": "2010-2015",
+      "count": 13,
+      "key_changes": "First production variant with Stirling AIP system, improved sonar suite, torpedo tube-launched cruise missiles",
+      "status": "active"
+    },
+    {
+      "name": "Type 039B",
+      "designation_range": "350+ series",
+      "years": "2015-present",
+      "count": 7,
+      "key_changes": "Enhanced AIP system, improved acoustic signature reduction, upgraded combat management system, possible lithium-ion batteries",
+      "status": "active"
+    }
+  ],
+  "fleet_status_json": [
+    {
+      "hull_number": "330",
+      "name": "Unknown",
+      "variant": "Type 039A",
+      "commissioned": "2010",
+      "home_port": "Qingdao",
+      "status": "active"
+    },
+    {
+      "hull_number": "331",
+      "name": "Unknown",
+      "variant": "Type 039A",
+      "commissioned": "2011",
+      "home_port": "Qingdao",
+      "status": "active"
+    },
+    {
+      "hull_number": "332",
+      "name": "Unknown",
+      "variant": "Type 039A",
+      "commissioned": "2011",
+      "home_port": "Lushun",
+      "status": "active"
+    },
+    {
+      "hull_number": "333",
+      "name": "Unknown",
+      "variant": "Type 039A",
+      "commissioned": "2012",
+      "home_port": "Lushun",
+      "status": "active"
+    },
+    {
+      "hull_number": "334",
+      "name": "Unknown",
+      "variant": "Type 039A",
+      "commissioned": "2012",
+      "home_port": "Xiangshan",
+      "status": "active"
+    },
+    {
+      "hull_number": "335",
+      "name": "Unknown",
+      "variant": "Type 039A",
+      "commissioned": "2013",
+      "home_port": "Xiangshan",
+      "status": "active"
+    },
+    {
+      "hull_number": "336",
+      "name": "Unknown",
+      "variant": "Type 039A",
+      "commissioned": "2013",
+      "home_port": "Yulin",
+      "status": "active"
+    },
+    {
+      "hull_number": "337",
+      "name": "Unknown",
+      "variant": "Type 039A",
+      "commissioned": "2014",
+      "home_port": "Yulin",
+      "status": "active"
+    },
+    {
+      "hull_number": "338",
+      "name": "Unknown",
+      "variant": "Type 039A",
+      "commissioned": "2014",
+      "home_port": "Qingdao",
+      "status": "active"
+    },
+    {
+      "hull_number": "339",
+      "name": "Unknown",
+      "variant": "Type 039A",
+      "commissioned": "2014",
+      "home_port": "Qingdao",
+      "status": "active"
+    },
+    {
+      "hull_number": "340",
+      "name": "Unknown",
+      "variant": "Type 039A",
+      "commissioned": "2015",
+      "home_port": "Lushun",
+      "status": "active"
+    },
+    {
+      "hull_number": "341",
+      "name": "Unknown",
+      "variant": "Type 039A",
+      "commissioned": "2015",
+      "home_port": "Lushun",
+      "status": "active"
+    },
+    {
+      "hull_number": "342",
+      "name": "Unknown",
+      "variant": "Type 039A",
+      "commissioned": "2015",
+      "home_port": "Xiangshan",
+      "status": "active"
+    },
+    {
+      "hull_number": "350",
+      "name": "Unknown",
+      "variant": "Type 039B",
+      "commissioned": "2016",
+      "home_port": "Qingdao",
+      "status": "active"
+    },
+    {
+      "hull_number": "351",
+      "name": "Unknown",
+      "variant": "Type 039B",
+      "commissioned": "2017",
+      "home_port": "Xiangshan",
+      "status": "active"
+    },
+    {
+      "hull_number": "352",
+      "name": "Unknown",
+      "variant": "Type 039B",
+      "commissioned": "2018",
+      "home_port": "Yulin",
+      "status": "active"
+    },
+    {
+      "hull_number": "353",
+      "name": "Unknown",
+      "variant": "Type 039B",
+      "commissioned": "2019",
+      "home_port": "Lushun",
+      "status": "active"
+    },
+    {
+      "hull_number": "354",
+      "name": "Unknown",
+      "variant": "Type 039B",
+      "commissioned": "2020",
+      "home_port": "Qingdao",
+      "status": "active"
+    },
+    {
+      "hull_number": "355",
+      "name": "Unknown",
+      "variant": "Type 039B",
+      "commissioned": "2021",
+      "home_port": "Xiangshan",
+      "status": "active"
+    },
+    {
+      "hull_number": "356",
+      "name": "Unknown",
+      "variant": "Type 039B",
+      "commissioned": "2022",
+      "home_port": "Yulin",
+      "status": "active"
+    }
+  ],
+  "cost_usd": 400000000.0,
+  "unit_count": 20,
+  "first_commissioned": "2010",
+  "builder": "Wuchang Shipbuilding Industry Group, Jiangnan Shipyard",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Chinese_Type_039A_submarine.jpg",
+  "wiki_url": "https://en.wikipedia.org/wiki/Type_039A%2FB%2FC_submarine",
+  "sources_json": [
+    "https://en.wikipedia.org/wiki/Type_039A_submarine",
+    "https://www.globalsecurity.org/military/world/china/type-039a.htm",
+    "https://www.naval-technology.com/projects/type-039a-yuan-class/",
+    "Office of Naval Intelligence Submarine Reference Guide"
+  ],
+  "comparison_tags": [
+    "submarine",
+    "diesel-electric",
+    "aip",
+    "chinese-navy",
+    "conventional-submarine",
+    "plan",
+    "anti-ship",
+    "torpedo"
+  ],
+  "created_at": "2026-04-10 19:51:29",
+  "updated_at": "2026-04-10T19:51:29.063463",
+  "news": [],
+  "events": [],
+  "ic_coverage": [],
+  "combat_history": [
+    {
+      "date": "2016-12",
+      "operation": "South China Sea patrol",
+      "event": "First confirmed deployment of Type 039A to disputed waters in South China Sea, tracked by U.S. P-8 Poseidon aircraft near Scarborough Shoal",
+      "significance": "Demonstrated PLAN's commitment to using submarines for territorial claims enforcement and A2/AD missions"
+    },
+    {
+      "date": "2018-04",
+      "operation": "Taiwan Strait transit",
+      "event": "Type 039A submarine detected transiting Taiwan Strait submerged, prompting increased ASW patrols by Taiwan and U.S. forces",
+      "significance": "First confirmed submarine transit highlighting cross-strait tension escalation and submarine force projection"
+    },
+    {
+      "date": "2020-07",
+      "operation": "Dual carrier exercise",
+      "event": "Multiple Yuan-class submarines participated in PLAN exercises targeting simulated carrier battle groups in South China Sea",
+      "significance": "Validated submarine swarm tactics against high-value targets and integration with surface forces"
+    },
+    {
+      "date": "2021-10",
+      "operation": "Malacca Strait deployment",
+      "event": "Type 039B submarine conducted extended patrol in approaches to Malacca Strait, first confirmed PLAN conventional submarine deployment in Indian Ocean approaches",
+      "significance": "Extended PLAN submarine operations beyond First Island Chain, demonstrating growing operational reach"
+    }
+  ],
+  "modernization": [
+    {
+      "program": "Type 039C development",
+      "status": "in-progress",
+      "timeline": "2023-2027",
+      "description": "Next-generation Yuan-class incorporating lithium-ion batteries, improved AIP system, vertical launch system for land-attack missiles, and enhanced acoustic signature reduction",
+      "impact": "Would significantly improve underwater endurance, firepower, and stealth capabilities against advanced ASW systems"
+    },
+    {
+      "program": "Combat system upgrade",
+      "status": "in-progress",
+      "timeline": "2022-2025",
+      "description": "Retrofitting early Type 039A boats with improved H/ZBJ-1 combat management system, enhanced sonar processing, and datalink capabilities",
+      "impact": "Improves sensor fusion, target tracking, and coordination with other PLAN units"
+    },
+    {
+      "program": "Weapons system enhancement",
+      "status": "completed",
+      "timeline": "2018-2021",
+      "description": "Integration of YJ-18 supersonic anti-ship missiles and suspected CJ-10 land-attack cruise missiles launched via torpedo tubes",
+      "impact": "Transforms platform from purely tactical ASW/ASuW role to strategic strike capability"
+    }
+  ],
+  "vulnerabilities": [
+    {
+      "area": "Acoustic signature",
+      "description": "Despite improvements, still noisier than latest Western and Japanese conventional submarines, particularly when snorkeling or using diesel engines",
+      "context": "Advanced allied ASW systems and quiet nuclear submarines retain detection advantage in open ocean scenarios",
+      "mitigation": "Type 039B incorporates better anechoic coatings and machinery quieting, Type 039C expected to address remaining issues"
+    },
+    {
+      "area": "Sensor limitations",
+      "description": "Sonar systems lag behind Western equivalents in processing power and detection range, particularly against quiet targets",
+      "context": "Limits effectiveness against advanced allied submarines and reduces situational awareness in complex acoustic environments",
+      "mitigation": "Ongoing sensor upgrades and integration of AI-based sonar processing systems"
+    },
+    {
+      "area": "AIP system reliability",
+      "description": "Stirling engine AIP system has experienced maintenance issues and reduced availability rates compared to fuel cell systems",
+      "context": "Affects operational tempo and sustained presence missions critical to A2/AD strategy",
+      "mitigation": "Design improvements in Type 039B, transition to fuel cells or lithium-ion batteries in future variants"
+    },
+    {
+      "area": "Crew experience",
+      "description": "Rapid fleet expansion has strained experienced submarine crews, affecting operational proficiency and tactical effectiveness",
+      "context": "Complex submarine operations require years of training that cannot match production rate",
+      "mitigation": "Expanded training programs and simulator facilities, gradual operational tempo increase"
+    }
+  ],
+  "operational_patterns": {
+    "typical_deployment": "Patrol areas within First Island Chain, South China Sea presence missions, ASW barriers during tensions, intelligence gathering near foreign naval bases",
+    "deployment_length_months": 2,
+    "key_operating_areas": [
+      "South China Sea",
+      "East China Sea",
+      "Taiwan Strait",
+      "Philippine Sea"
+    ],
+    "typical_task_group": "Usually operates independently or in coordination with surface action groups during exercises",
+    "readiness_notes": "Approximately 60-70% operational readiness due to AIP system maintenance requirements and crew training limitations"
+  },
+  "peer_comparisons": [
+    {
+      "platform": "Soryu-class submarine",
+      "country": "Japan",
+      "relationship": "direct rival",
+      "key_differences": "Soryu-class has superior acoustic signature reduction and sensor systems, but Yuan-class has advantage in numbers and land-attack capability. Soryu's lithium-ion batteries vs Yuan's Stirling AIP represents different technological approaches to air-independent propulsion.",
+      "video_angle": "Technology philosophy comparison: Japanese precision vs Chinese mass production approach to submarine warfare"
+    },
+    {
+      "platform": "Type 214 submarine",
+      "country": "Germany",
+      "relationship": "technological peer",
+      "key_differences": "Type 214's fuel cell AIP system is more reliable than Yuan's Stirling engine, and German boat has better export success. However, Yuan-class is larger with heavier armament load and cruise missile capability that Type 214 lacks.",
+      "video_angle": "European vs Chinese submarine design philosophy and the role of technology transfer in military development"
+    },
+    {
+      "platform": "Kilo-class submarine",
+      "country": "Russia",
+      "relationship": "predecessor influence",
+      "key_differences": "Yuan-class evolved from Chinese experience with Kilo-class boats but incorporates indigenous AIP system and modern Chinese weapons. Yuan represents China's transition from Russian technology dependence to indigenous capability.",
+      "video_angle": "How China adapted and improved upon Russian submarine technology to create indigenous capability"
+    },
+    {
+      "platform": "Scorp\u00e8ne-class submarine",
+      "country": "France",
+      "relationship": "export competitor",
+      "key_differences": "Scorp\u00e8ne has superior sensor integration and stealth characteristics with proven export record. Yuan-class is larger with longer range and heavier weapons load, but limited to Chinese use only.",
+      "video_angle": "Comparing Chinese domestic production vs European export-focused submarine design"
+    },
+    {
+      "platform": "Gotland-class submarine",
+      "country": "Sweden",
+      "relationship": "AIP technology peer",
+      "key_differences": "Gotland pioneered Stirling AIP technology that influenced Yuan development, but Swedish boat is smaller and designed for Baltic operations. Yuan adapts concept for Pacific operations with longer range and heavier armament.",
+      "video_angle": "How small nation innovation (Swedish Stirling AIP) influenced great power submarine development"
+    }
+  ],
+  "search_keywords": [
+    "type 039a",
+    "yuan class",
+    "yuan-class",
+    "chinese submarine",
+    "PLAN submarine",
+    "type 039",
+    "039a submarine",
+    "chinese aip submarine",
+    "stirling engine submarine",
+    "chinese diesel submarine"
+  ],
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Chinese_Type_041_submarine.jpg/1280px-Chinese_Type_041_submarine.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/04/Chinese_Type_041_submarine.jpg",
+      "width": 3000,
+      "height": 1996,
+      "title": "Chinese Type 041 submarine.jpg",
+      "description": "<p>110713-N-TT977-091\n</p>\nChairman of the Joint Chiefs of Staff Adm. Mike Mullen visits the Chinese People's Liberation Army-Navy submarine Yuan at the Zhoushan Naval Base in China on July 13, 2011. ",
+      "license": "CC BY 2.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Mike_Mullen_departs_the_Chinese_Navy_submarine_Yuan_at_the_Zhoushan_Naval_Base.jpg/1280px-Mike_Mullen_departs_the_Chinese_Navy_submarine_Yuan_at_the_Zhoushan_Naval_Base.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Mike_Mullen_departs_the_Chinese_Navy_submarine_Yuan_at_the_Zhoushan_Naval_Base.jpg",
+      "width": 3000,
+      "height": 1996,
+      "title": "Mike Mullen departs the Chinese Navy submarine Yuan at the Zhoushan Naval Base.jpg",
+      "description": "Chairman of the Joint Chiefs of Staff Adm. Mike Mullen departs the Chinese People's Liberation Army-Navy submarine Yuan at the Zhoushan Naval Base in China on July 13, 2011.",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/96/Yuan_%28Type_039A%29_Class_Attack_Submarine.JPG",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/96/Yuan_%28Type_039A%29_Class_Attack_Submarine.JPG",
+      "width": 919,
+      "height": 533,
+      "title": "Yuan (Type 039A) Class Attack Submarine.JPG",
+      "description": "CSR Report RL33153 China Naval Modernization: Implications for U.S. Navy Capabilities\u2014Background and Issues for Congress by Ronald O'Rourke dated February 28, 2014.\n<p>Page 9 - Figure 2. Yuan (Type 03",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Chinese_Type_039A_submarine.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Chinese_Type_039A_submarine.jpg",
+      "width": 442,
+      "height": 167,
+      "title": "Chinese Type 039A submarine.jpg",
+      "description": "<a href=\"https://en.wikipedia.org/wiki/China\" class=\"extiw\" title=\"en:China\">Chinese</a> <a href=\"https://en.wikipedia.org/wiki/Type_039A_submarine\" class=\"extiw\" title=\"en:Type 039A submarine\">Type 0",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Chinyen_Brassey%27s.jpg/1280px-Chinyen_Brassey%27s.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/48/Chinyen_Brassey%27s.jpg",
+      "width": 1702,
+      "height": 945,
+      "title": "Chinyen Brassey's.jpg",
+      "description": "Sketch of the Chinese battleship <a href=\"https://en.wikipedia.org/wiki/Chinese_turret_ship_Dingyuan\" class=\"extiw\" title=\"en:Chinese turret ship Dingyuan\"><i>Dingyuan</i></a> (<i>Ting Yuan</i>) class",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/SECNAV_departs_a_Chinese_submarine._%288232067241%29.jpg/1280px-SECNAV_departs_a_Chinese_submarine._%288232067241%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/7f/SECNAV_departs_a_Chinese_submarine._%288232067241%29.jpg",
+      "width": 2592,
+      "height": 1850,
+      "title": "SECNAV departs a Chinese submarine. (8232067241).jpg",
+      "description": "<p>NINGBO, China (Nov. 29, 2012) Secretary of the Navy (SECNAV) the Honorable Ray Mabus departs the Chinese People's Liberation Army Navy Yuan-class submarine Hai Jun Chang (SSP 21). Mabus is visiting",
+      "license": "Public domain",
+      "source": "wikimedia"
+    }
+  ],
+  "doctrine": {
+    "role": "Sea denial and anti-surface warfare within the first and second island chains, specifically designed to contest U.S. and allied naval supremacy in the Western Pacific through sustained underwater operations.",
+    "employment": "Typically deployed in barrier patrols along key shipping lanes and chokepoints, with AIP capability enabling weeks-long submerged deployments without snorkeling. Often operates in coordination with diesel-electric Romeo and Ming-class submarines to create layered defensive screens. Command relationships typically flow through PLAN submarine flotillas under regional fleet commands, with increasing emphasis on integrated operations with surface combatants and maritime patrol aircraft.",
+    "design_philosophy": "Prioritizes stealth and endurance over speed, incorporating Stirling-cycle AIP to extend submerged operations at the cost of reduced battery capacity and internal volume. Chinese designers accepted a larger hull profile compared to contemporary German or Japanese designs to accommodate both AIP systems and a robust weapons load, sacrificing some acoustic signature optimization for operational flexibility.",
+    "threat_context": "Originally designed to counter U.S. carrier strike groups and Aegis-equipped surface combatants in a Taiwan Strait scenario, but threat environment has expanded to include increased allied submarine activity and advanced ASW capabilities. The emergence of unmanned underwater vehicles and improved satellite-based detection methods has complicated the stealth-centric operational model these submarines were designed around.",
+    "comparison_frame": "Compare primarily on submerged endurance and weapons capacity rather than pure acoustic signature - PLAN accepts higher noise levels for greater operational persistence. AIP performance and sensor integration matter more than maximum speed, as these boats prioritize ambush tactics over pursuit engagements."
+  },
+  "curated_sources": [
+    {
+      "title": "China Naval Modernization: Implications for U.S. Navy Capabilities",
+      "type": "report",
+      "url": "https://crsreports.congress.gov/product/pdf/RL/RL33153",
+      "relevance": "Authoritative Congressional Research Service analysis of PLAN submarine development including Yuan-class capabilities and strategic implications.",
+      "priority": "essential"
+    },
+    {
+      "title": "Andrew Erickson - China Maritime Studies Institute",
+      "type": "analyst",
+      "url": "https://www.andrewerickson.com",
+      "relevance": "Leading Western analyst on PLAN submarine development with extensive primary source research on Yuan-class technical characteristics and operational employment.",
+      "priority": "essential"
+    },
+    {
+      "title": "Chinese Naval Shipbuilding",
+      "type": "book",
+      "url": "",
+      "relevance": "Comprehensive analysis of PLAN submarine design evolution including detailed technical assessment of Yuan-class AIP integration and performance characteristics.",
+      "priority": "recommended"
+    },
+    {
+      "title": "China's Evolving Submarine Force",
+      "type": "report",
+      "url": "https://www.csis.org/analysis/chinas-evolving-submarine-force",
+      "relevance": "CSIS strategic assessment of PLAN submarine doctrine and Yuan-class role in broader A2/AD strategy implementation.",
+      "priority": "recommended"
+    },
+    {
+      "title": "Type 039A Yuan Class - Naval Technology",
+      "type": "database",
+      "url": "https://www.naval-technology.com/projects/yuan-class-submarine/",
+      "relevance": "Technical specifications database entry with detailed performance parameters and systems integration analysis for Yuan-class submarines.",
+      "priority": "reference"
+    },
+    {
+      "title": "The Science of Military Strategy (2013)",
+      "type": "book",
+      "url": "",
+      "relevance": "Official PLA doctrinal publication outlining submarine employment concepts and anti-access strategies that inform Yuan-class operational roles.",
+      "priority": "recommended"
+    },
+    {
+      "title": "China's Quest for Great Power",
+      "type": "report",
+      "url": "https://rusi.org/explore-our-research/publications/whitehall-papers/chinas-quest-great-power-ships-planes-and-bases-needed",
+      "relevance": "RUSI analysis of Chinese naval expansion including submarine force development and Yuan-class integration into fleet structure.",
+      "priority": "reference"
+    }
+  ]
+}

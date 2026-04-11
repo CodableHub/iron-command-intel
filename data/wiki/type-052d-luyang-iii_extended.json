@@ -1,0 +1,287 @@
+{
+  "combat_history": [
+    {
+      "date": "2016-07",
+      "operation": "South China Sea Patrol",
+      "event": "Type 052D destroyers participated in major PLAN exercises following The Hague arbitration ruling, demonstrating China's rejection of international law",
+      "significance": "First major operational deployment showcasing the class as China's primary surface combatant in contested waters"
+    },
+    {
+      "date": "2018-04",
+      "operation": "South China Sea Freedom of Navigation",
+      "event": "PLAN Type 052D destroyer shadowed USS Decatur during FONOPS near Gaven and Johnson Reefs, leading to near-collision incident",
+      "significance": "Demonstrated aggressive operational posture and willingness to use Type 052Ds in direct confrontation with US Navy"
+    },
+    {
+      "date": "2019-06",
+      "operation": "Taiwan Strait Transit",
+      "event": "Multiple Type 052D destroyers conducted high-tempo operations during Taiwan Strait crisis, tracking US and allied naval movements",
+      "significance": "Established Type 052D as primary platform for Taiwan contingency operations and maritime area denial"
+    },
+    {
+      "date": "2021-10",
+      "operation": "Liaoning CSG Deployment",
+      "event": "Type 052D destroyers provided air defense escort for Liaoning carrier group operations near Taiwan and through Miyako Strait",
+      "significance": "First major blue-water deployment demonstrating integrated carrier escort capability"
+    }
+  ],
+  "modernization": [
+    {
+      "program": "Type 052D Mid-Life Upgrade",
+      "status": "planned",
+      "timeline": "2025-2030",
+      "description": "Planned upgrades include enhanced electronic warfare systems, improved combat management systems, and integration of hypersonic missiles",
+      "impact": "Would extend service life and maintain relevance against evolving threats"
+    },
+    {
+      "program": "YJ-21 Hypersonic Integration",
+      "status": "in-progress",
+      "timeline": "2023-2025",
+      "description": "Integration of YJ-21 hypersonic anti-ship ballistic missile into VLS cells, requires combat system modifications",
+      "impact": "Provides capability to engage high-value targets at extreme range with near-impossible interception"
+    },
+    {
+      "program": "ASW Suite Enhancement",
+      "status": "planned",
+      "timeline": "2024-2027",
+      "description": "Upgrade to towed array sonar systems and improved ASW helicopter integration with Z-20F",
+      "impact": "Addresses critical ASW capability gap compared to Western counterparts"
+    }
+  ],
+  "vulnerabilities": [
+    {
+      "area": "Anti-Submarine Warfare",
+      "description": "ASW capability significantly inferior to Western counterparts, limited towed array sonar, questionable crew training in ASW operations",
+      "context": "In a Taiwan scenario, vulnerability to US and allied submarine forces could be decisive",
+      "mitigation": "Planned ASW upgrades and increased cooperation with ASW helicopters and MPAs"
+    },
+    {
+      "area": "Electronic Warfare Resilience",
+      "description": "Combat systems lack proven performance against sophisticated EW attacks, heavy reliance on Chinese semiconductors of uncertain reliability",
+      "context": "US and allied EW capabilities could degrade Chinese C4ISR networks that Type 052D depends on",
+      "mitigation": "Unknown extent of EW hardening in newer variants"
+    },
+    {
+      "area": "Logistics and Sustainment",
+      "description": "Limited replenishment-at-sea capability, complex maintenance requirements, no overseas basing for extended operations",
+      "context": "Operational range effectively limited to first and second island chains without risk",
+      "mitigation": "Development of overseas bases and improved replenishment ships"
+    },
+    {
+      "area": "Crew Experience",
+      "description": "PLAN crews lack combat experience and intensive training compared to US Navy, rapid expansion straining experienced personnel",
+      "context": "In high-intensity combat, training and experience gaps could prove decisive",
+      "mitigation": "Increased training tempo and international exercises"
+    }
+  ],
+  "operational_patterns": {
+    "typical_deployment": "Carrier strike group escort, South China Sea patrol, Taiwan Strait area denial operations",
+    "deployment_length_months": 3,
+    "key_operating_areas": [
+      "South China Sea",
+      "East China Sea",
+      "Taiwan Strait",
+      "Philippine Sea"
+    ],
+    "typical_task_group": "2-3 Type 052D with Type 055, Type 054A frigates, and replenishment ship",
+    "readiness_notes": "High operational tempo in home waters but limited extended deployment capability"
+  },
+  "peer_comparisons": [
+    {
+      "platform": "Arleigh Burke Flight IIA",
+      "country": "United States",
+      "relationship": "direct rival",
+      "key_differences": "Burke has superior ASW capability and combat system maturity, but Type 052D has supersonic anti-ship missiles and newer AESA radar. Burke is larger with more VLS cells (96 vs 64).",
+      "video_angle": "David vs Goliath comparison - China's newest vs America's workhorse destroyer"
+    },
+    {
+      "platform": "Atago-class",
+      "country": "Japan",
+      "relationship": "regional rival",
+      "key_differences": "Atago uses proven Aegis system but is older design. Type 052D has more modern sensors but less proven combat systems. Similar displacement but different mission focus.",
+      "video_angle": "East Asian destroyer showdown - Chinese innovation vs Japanese-American partnership"
+    },
+    {
+      "platform": "Kolkata-class",
+      "country": "India",
+      "relationship": "regional rival",
+      "key_differences": "Type 052D is more mature and numerous (25 vs 3 ships). Kolkata has BrahMos supersonic missiles but less capable radar and fewer VLS cells.",
+      "video_angle": "Asian naval rivalry - quantity vs quality in destroyer design"
+    },
+    {
+      "platform": "Type 45 Daring-class",
+      "country": "United Kingdom",
+      "relationship": "peer comparison",
+      "key_differences": "Type 45 has superior air defense radar (SAMPSON/S1850M) but persistent propulsion problems. Type 052D more reliable but less sophisticated sensors.",
+      "video_angle": "European sophistication vs Chinese reliability - different approaches to destroyer design"
+    },
+    {
+      "platform": "Maya-class",
+      "country": "Japan",
+      "relationship": "direct competitor",
+      "key_differences": "Maya represents Japan's response to Type 052D threat, with BMD focus and Aegis Baseline 9. Type 052D prioritizes anti-surface warfare over BMD.",
+      "video_angle": "Action-reaction cycle - how Chinese Type 052D drove Japanese Maya-class development"
+    }
+  ],
+  "search_keywords": [
+    "type 052d",
+    "luyang iii",
+    "kunming class",
+    "plan destroyer",
+    "chinese destroyer",
+    "dragon eye radar",
+    "yj-18 missile",
+    "plan navy",
+    "type 346a radar"
+  ],
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e4/0805%E5%A4%AA%E5%8E%9F%E8%88%B0_01.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/e4/0805%E5%A4%AA%E5%8E%9F%E8%88%B0_01.jpg",
+      "width": 795,
+      "height": 797,
+      "title": "0805\u592a\u539f\u8230 01.jpg",
+      "description": "\u4ee4\u548c\uff14\u5e74\uff18\u6708\uff14\u65e5\u3001\u4e2d\u56fd\u6d77\u8ecd\u30eb\u30fc\u30e4\u30f3\u2162\u7d1a\u30df\u30b5\u30a4\u30eb\u99c6\u9010\u8266\uff11\u96bb\uff08\u8266\u756a\u53f7\u300c\uff11\uff13\uff11\u300d\uff09\u306e\u52d5\u5411",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d8/A_Type_052D_destroyer_sail_with_PLANS_Shandong_%28CV-17%29_20240719.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/d8/A_Type_052D_destroyer_sail_with_PLANS_Shandong_%28CV-17%29_20240719.jpg",
+      "width": 945,
+      "height": 266,
+      "title": "A Type 052D destroyer sail with PLANS Shandong (CV-17) 20240719.jpg",
+      "description": "\u6d77\u4e0a\u81ea\u885b\u968a\u306f\u3001\u4ee4\u548c\uff16\u5e74\uff17\u6708\uff19\u65e5\uff08\u706b\uff09\u304b\u3089\uff11\uff15\u65e5\uff08\u6708\uff09\u306b\u5f15\u304d\u7d9a\u304d\u3001\uff11\uff17\u65e5\uff08\u6c34\uff09 \u304b\u3089\uff11\uff18\u65e5\uff08\u6728\uff09\u306b\u304b\u3051\u3066\u3001\u4e2d\u56fd\u6d77\u8ecd\u30af\u30ba\u30cd\u30c4\u30a9\u30d5\u7d1a\u7a7a\u6bcd\u300c\u5c71\u6771\u300d\uff08\u8266\u756a\u53f7\u300c\uff11\uff17\u300d\uff09 \u3092\u542b\u3080\u8907\u6570\u306e\u4e2d\u56fd\u6d77\u8ecd\u8266\u8247\u304c\u3001\u4ee5\u4e0b\u306e\u3068\u304a\u308a\u592a\u5e73\u6d0b\u4e0a\u306e\u6d77\u57df\u306b\u304a\u3044\u3066\u822a\u884c\u3057\u3066\u3044\u308b\u3053 \u3068\u3092\u78ba\u8a8d\u3057\u305f\u3002\n<p>\u65e5\u6642 \u4f4d\u7f6e \u78ba\u8a8d\u3055\u308c\u305f\u8266\u8247\n</p><p>\uff17\u6708\uff11\uff17\u65e5\uff08\u6c34\uff09\u5348\u5f8c\uff18\u6642\u9803 \u5bae\u53e4\u5cf6\u306e\u5357\u7d04\uff13\uff18\uff10\uff4b\uff4d \u30af\u30ba\u30cd\u30c4\u30a9\u30d5\u7d1a\u7a7a\u6bcd\u300c\u5c71\u6771\u300d\uff08\uff11\uff17\uff09 \u30ec\u30f3\u30cf\u30a4\u7d1a\u30df",
+      "license": "CC BY 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/3f/CNS_Kunming_%28DDG-172%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/3f/CNS_Kunming_%28DDG-172%29.jpg",
+      "width": 723,
+      "height": 390,
+      "title": "CNS Kunming (DDG-172).jpg",
+      "description": "\u200b\u505c\u9760\u5728\u6c5f\u5357\u9020\u8239\u5382\u8fb9\u7684\u201c\u6606\u660e\u201d\u53f7\u5bfc\u5f39\u9a71\u9010\u8230",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/CNS_Kunming_%28DDG-172%29_docks_at_a_harbor_on_Changxing_Island_2.jpg/1280px-CNS_Kunming_%28DDG-172%29_docks_at_a_harbor_on_Changxing_Island_2.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/33/CNS_Kunming_%28DDG-172%29_docks_at_a_harbor_on_Changxing_Island_2.jpg",
+      "width": 3840,
+      "height": 2560,
+      "title": "CNS Kunming (DDG-172) docks at a harbor on Changxing Island 2.jpg",
+      "description": "\u200b\u505c\u9760\u5728\u957f\u5174\u5c9b\u6e2f\u53e3\u7684\u201c\u6606\u660e\u201d\u53f7\u5bfc\u5f39\u9a71\u9010\u8230\u3002",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Changsha%28%E9%95%BF%E6%B2%99%2C_173%29_in_hong_kong.jpg/1280px-Changsha%28%E9%95%BF%E6%B2%99%2C_173%29_in_hong_kong.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Changsha%28%E9%95%BF%E6%B2%99%2C_173%29_in_hong_kong.jpg",
+      "width": 4000,
+      "height": 1800,
+      "title": "Changsha(\u957f\u6c99, 173) in hong kong.jpg",
+      "description": "Type 052D destroyer Changsha(\u957f\u6c99, 173) during her visit to hong kong",
+      "license": "CC BY 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/PLANS_Guiyang_%28DDG-119%29_20200428.jpg/1280px-PLANS_Guiyang_%28DDG-119%29_20200428.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/d2/PLANS_Guiyang_%28DDG-119%29_20200428.jpg",
+      "width": 2089,
+      "height": 662,
+      "title": "PLANS Guiyang (DDG-119) 20200428.jpg",
+      "description": "\uff14\u6708\uff12\uff18\u65e5\uff08\u706b\uff09\u5348\u524d\uff19\u6642\u9803\u3001\u6d77\u4e0a\u81ea\u885b\u968a\u7b2c\uff15\u8b77\u885b\u968a\u6240\u5c5e\u300c\u3053\u3093\u3054\u3046\u300d\uff08\u4f50\u4e16\u4fdd\uff09\u3001\u7b2c\uff11\uff12\u8b77\u885b\u968a\u6240\u5c5e\u300c\u3046\u307f\u304e\u308a\u300d\uff08\u5449\uff09\u53ca\u3073\u7b2c\uff15\u822a\u7a7a\u7fa4\u6240\u5c5e\u300c\uff30\uff0d\uff13\uff23\u300d\uff08\u90a3\u8987\uff09\u304c\u3001\u5bae\u53e4\u5cf6\u306e\u5357\u6771\u7d04\uff18\uff10\uff4b\uff4d\u306e\u6d77\u57df\u3092\u5317\u897f\u9032\u3059\u308b\u4e2d\u56fd\u6d77\u8ecd\u30af\u30ba\u30cd\u30c4\u30a9\u30d5\u7d1a\u7a7a\u6bcd\u300c\u907c\u5be7\u300d\uff11\u96bb\u3001\u30eb\u30fc\u30e4\u30f3\u2162\u7d1a\u30df\u30b5\u30a4\u30eb\u99c6\u9010\u8266\uff12\u96bb\u3001\u30b8\u30e3\u30f3\u30ab\u30a4\u2161\u7d1a\u30d5\u30ea\u30b2\u30fc\u30c8\n<p>\uff12\u96bb\u53ca\u3073\u30d5\u30e6\u7d1a\u9ad8\u901f\u6226\u95d8\u652f\u63f4\u8266\uff11\u96bb\u306e\u8a08\uff16\u96bb\u3092\u78ba\u8a8d\u3057\u305f\u3002 \u305d\u306e\u5f8c\u3001\u3053\u308c\u3089\u306e\u8266\u8247\u304c\u6c96\u7e04\u672c\u5cf6\u3068\u5bae\u53e4\u5cf6\u306e\u9593\u306e\u6d77\u57df\u3092",
+      "license": "CC BY 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/PLANS_Taiyuan_%28DDG-131%29_20210427.png/1280px-PLANS_Taiyuan_%28DDG-131%29_20210427.png",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/6a/PLANS_Taiyuan_%28DDG-131%29_20210427.png",
+      "width": 1493,
+      "height": 487,
+      "title": "PLANS Taiyuan (DDG-131) 20210427.png",
+      "description": "\uff14\u6708\uff12\uff16\u65e5\uff08\u6708\uff09\u5348\u5f8c\uff17\u6642\u9803\u3001\u6d77\u4e0a\u81ea\u885b\u968a\u306f\u3001\u5bae\u53e4\u5cf6\u306e\u5357\u7d04\uff11\uff16\uff10\uff4b\uff4d\u306e\u6d77\u57df\u306b\u304a\u3044\u3066\u3001\u540c\u6d77\u57df\u3092\u5317\u6771\u9032\u3059\u308b\u4e2d\u56fd\u6d77\u8ecd\u30af\u30ba\u30cd\u30c4\u30a9\u30d5\u7d1a\u7a7a\u6bcd\u300c\u907c\u5be7\u300d\uff11\u96bb\u3001\u30ec\u30f3\u30cf\u30a4\u7d1a\u30df\u30b5\u30a4\u30eb\u99c6\u9010\u8266\uff11\u96bb\u3001\u30eb\u30fc\u30e4\u30f3\u2162\u7d1a\u30df\u30b5\u30a4\u30eb\u99c6\u9010\u8266\uff12\u96bb\u3001\u30b8\u30e3\u30f3\u30ab\u30a4\u2161\u7d1a\u30d5\u30ea\u30b2\u30fc\u30c8\uff11\u96bb\u53ca\u3073\u30d5\u30e6\u7d1a\u9ad8\u901f\u6226\u95d8\u652f\u63f4\u8266\uff11\u96bb\u306e\u8a08\uff16\u96bb\u3092\u78ba\u8a8d\u3057\u305f\u3002\n<p>\u305d\u306e\u5f8c\u3001\u3053\u308c\u3089\u306e\u8266\u8247\u304c\u6c96\u7e04\u672c\u5cf6\u3068\u5bae\u53e4\u5cf6\u306e\u9593\u306e\u6d77\u57df\u3092\u5317\u4e0a\u3057\u3001\u6771\u30b7\u30ca\u6d77\u3078\u5411\u3051\u3066\u822a\u884c\u3057\u305f\u3053\u3068\u3092\u78ba\u8a8d\u3057\u305f\u3002\n</p><p>\u306a",
+      "license": "CC BY 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Type-052D_destroyer_Jiaozuo_%E7%84%A6%E4%BD%9C_%28163%29_during_a_visit_to_Saint_Petersburg%2C_Russia_%28July_26%2C_2024%29.jpg/1280px-Type-052D_destroyer_Jiaozuo_%E7%84%A6%E4%BD%9C_%28163%29_during_a_visit_to_Saint_Petersburg%2C_Russia_%28July_26%2C_2024%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Type-052D_destroyer_Jiaozuo_%E7%84%A6%E4%BD%9C_%28163%29_during_a_visit_to_Saint_Petersburg%2C_Russia_%28July_26%2C_2024%29.jpg",
+      "width": 5299,
+      "height": 3399,
+      "title": "Type-052D destroyer Jiaozuo \u7126\u4f5c (163) during a visit to Saint Petersburg, Russia (July 26, 2024).jpg",
+      "description": "\u041a\u0438\u0442\u0430\u0439\u0441\u043a\u0438\u0439 \u044d\u0441\u043c\u0438\u043d\u0435\u0446 \u00ab\u0426\u0437\u044f\u043e\u0446\u0437\u043e\u00bb (163), \u043f\u0440\u0438\u0431\u044b\u0432\u0448\u0438\u0439 \u0432 \u0421\u0430\u043d\u043a\u0442-\u041f\u0435\u0442\u0435\u0440\u0431\u0443\u0440\u0433 \u0434\u043b\u044f \u0443\u0447\u0430\u0441\u0442\u0438\u044f \u0432 \u043f\u0430\u0440\u0430\u0434\u0435 \u0432 \u0447\u0435\u0441\u0442\u044c \u0414\u043d\u044f \u0412\u043e\u0435\u043d\u043d\u043e-\u043c\u043e\u0440\u0441\u043a\u043e\u0433\u043e \u0444\u043b\u043e\u0442\u0430 \u0420\u043e\u0441\u0441\u0438\u0438",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/68/PLANS_Xining_%28DDG-117%29_20190801.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/68/PLANS_Xining_%28DDG-117%29_20190801.jpg",
+      "width": 1272,
+      "height": 467,
+      "title": "PLANS Xining (DDG-117) 20190801.jpg",
+      "description": "\uff18\u6708\uff11\u65e5\uff08\u6728\uff09\u5348\u524d\uff19\u6642\u9803\u3001\u6d77\u4e0a\u81ea\u885b\u968a\u7b2c\uff15\u822a\u7a7a\u7fa4\u6240\u5c5e\u300c\uff30\uff0d\uff13\uff23\u300d\uff08\u90a3\u8987\uff09\u3001\u7b2c\uff11\uff13\u8b77\u885b\u968a\u6240\u5c5e\u300c\u3055\u308f\u304e\u308a\u300d\uff08\u4f50\u4e16\u4fdd\uff09\u53ca\u3073\u4f50\u4e16\u4fdd\u8b66\u5099\u968a\u6240\u5c5e\u300c\u3042\u307e\u304f\u3055\u300d\uff08\u4f50\u4e16\u4fdd\uff09\u304c\u3001\u4e45\u7c73\u5cf6\u306e\u5357\u7d04\uff11\uff12\uff10\uff4b\uff4d\u306e\u6d77\u57df\u3092\u5317\u4e0a\u3059\u308b\u4e2d\u56fd\u6d77\u8ecd\u30eb\u30fc\u30e4\u30f3\u2162\u7d1a\u30df\u30b5\u30a4\u30eb\u99c6\u9010\u8266\uff12\u96bb\u3001\u30b8\u30e3\u30f3\u30ab\u30a4\u2161\u7d1a\u30d5\u30ea\u30b2\u30fc\u30c8\uff13\u96bb\u53ca\u3073\u30d5\u30e6\u7d1a\u9ad8\u901f\u6226\u95d8\u652f\u63f4\u8266\uff11 \u96bb\u306e\u8a08\uff16\u96bb\u3092\u78ba\u8a8d\u3057\u305f\u3002\n<p>\u305d\u306e\u5f8c\u3001\u3053\u308c\u3089\u306e\u8266\u8247\u304c\u6c96\u7e04\u672c\u5cf6\u3068\u5bae\u53e4\u5cf6\u306e\u9593\u306e\u6d77\u57df\u3092\u5317\u4e0a\u3057\u3001\u6771\u30b7\u30ca\u6d77\u3078\u5411\u3051\u3066\u822a\u884c\u3057",
+      "license": "CC BY 4.0",
+      "source": "wikimedia"
+    }
+  ],
+  "doctrine": {
+    "role": "Multi-domain sea control within the first and second island chains, serving as the PLAN's primary surface combatant for contested environments where air superiority cannot be guaranteed.",
+    "employment": "Operates as the centerpiece of PLAN surface action groups, typically paired with Type 054A frigates and supported by Type 901 replenishment ships for extended operations. Primarily deployed with the East and South Sea Fleets for Taiwan Strait and South China Sea operations, with increasing North Fleet deployments for anti-access missions in the Yellow Sea. Functions as both independent task group leader and as escort for carrier strike groups, with command authority over frigate and corvette elements.",
+    "design_philosophy": "Prioritized magazine depth and multi-mission flexibility over specialized anti-submarine warfare capabilities, sacrificing towed array sonar and dedicated ASW helicopter facilities for a larger 64-cell VLS and enhanced air defense radar. Emphasized indigenous systems integration and reduced foreign dependency, accepting initial capability gaps to achieve technological sovereignty.",
+    "threat_context": "Designed for high-intensity conflict against peer adversaries with advanced air and missile capabilities, particularly US carrier strike groups and Japanese Maritime Self-Defense Force surface combatants. Originally conceived for A2/AD missions, but threat evolution toward multi-domain operations has expanded requirements to include long-range precision strike and expeditionary operations beyond the first island chain.",
+    "comparison_frame": "Compare primarily on VLS magazine depth, radar detection ranges, and missile engagement envelopes rather than traditional metrics like displacement or speed. Focus on sensor-shooter integration and multi-mission flexibility, as modern surface combats prioritize magazine sustainability and sensor range over maneuverability or single-mission optimization."
+  },
+  "curated_sources": [
+    {
+      "title": "China Naval Modernization: Implications for U.S. Navy Capabilities",
+      "type": "report",
+      "url": "https://crsreports.congress.gov/product/pdf/RL/RL33153",
+      "relevance": "Ron O'Rourke's comprehensive analysis provides essential context on PLAN modernization strategy and Type 052D's role in China's naval transformation.",
+      "priority": "essential"
+    },
+    {
+      "title": "Chinese Naval Shipbuilding: An Ambitious and Uncertain Course",
+      "type": "analyst",
+      "url": "https://www.usni.org/magazines/proceedings/2019/04/chinese-naval-shipbuilding-ambitious-and-uncertain-course",
+      "relevance": "Andrew Erickson's analysis offers critical insights into PLAN doctrine and the Type 052D's place in China's surface combatant hierarchy.",
+      "priority": "essential"
+    },
+    {
+      "title": "The Chinese Navy: Expanding Capabilities, Evolving Roles",
+      "type": "book",
+      "url": "",
+      "relevance": "Provides comprehensive doctrinal context for PLAN surface combatant employment and the strategic rationale behind the Type 052D program.",
+      "priority": "recommended"
+    },
+    {
+      "title": "China's Military Modernization: Progress and Prospects",
+      "type": "report",
+      "url": "https://www.csis.org/analysis/chinas-military-modernization-progress-and-prospects",
+      "relevance": "CSIS assessment contextualizes the Type 052D within broader PLA modernization goals and joint operations concepts.",
+      "priority": "recommended"
+    },
+    {
+      "title": "Type 052D Destroyer Specification",
+      "type": "database",
+      "url": "https://www.seaforces.org/madb/ship/china/Type-052D.htm",
+      "relevance": "Comprehensive technical specifications and variant analysis for comparative assessment against peer surface combatants.",
+      "priority": "reference"
+    },
+    {
+      "title": "China Maritime Report: PLAN Surface Force Modernization",
+      "type": "report",
+      "url": "https://digital-commons.usnwc.edu/cmsi-maritime-reports/",
+      "relevance": "US Naval War College analysis provides tactical-level insights into Type 052D operational employment and capability assessment.",
+      "priority": "recommended"
+    },
+    {
+      "title": "The Science of Military Strategy (2020 Edition)",
+      "type": "book",
+      "url": "",
+      "relevance": "Official PLA doctrinal publication outlining naval warfare concepts that drive Type 052D employment patterns and mission requirements.",
+      "priority": "reference"
+    }
+  ]
+}

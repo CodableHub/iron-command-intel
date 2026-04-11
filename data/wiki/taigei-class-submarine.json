@@ -1,0 +1,378 @@
+{
+  "id": 50,
+  "slug": "taigei-class-submarine",
+  "name": "Taigei-class submarine",
+  "designation": "SS-513, SS-514, SS-515",
+  "type": "submarine",
+  "country": "Japan",
+  "operator": "Japan Maritime Self-Defense Force",
+  "overview_md": "The Taigei-class represents Japan's latest generation of diesel-electric attack submarines, designed as the successor to the highly successful Soryu-class. These boats incorporate Japan's most advanced submarine technology, including an all-lithium-ion battery propulsion system that eliminates the air-independent propulsion (AIP) of previous classes in favor of extended submerged endurance and higher underwater speeds.\n\nStrategically, the Taigei-class serves as a cornerstone of Japan's anti-access/area-denial strategy in the Western Pacific, specifically designed to counter Chinese naval expansion in the East and South China Seas. The class emphasizes stealth, extended patrol duration, and anti-ship warfare capabilities, reflecting Japan's geographic constraints and the need to control key maritime chokepoints around the Japanese archipelago.\n\nThe design philosophy centers on leveraging Japan's world-leading battery technology to achieve superior underwater performance compared to traditional diesel-electric boats. The lithium-ion system provides roughly double the energy density of lead-acid batteries, enabling sustained high-speed operations while submerged\u2014a critical advantage in the confined waters where JMSDF operates.\n\nIn the current threat environment, the Taigei-class fills a unique niche among modern submarines. While not as capable as nuclear boats in terms of range and speed, they offer exceptional quiet operation and are optimized for the shallow, congested waters of the Western Pacific. Against peer competitors like China's Yuan-class or Russia's Kilo variants, the Taigei-class represents a technological generation ahead in terms of sensors, battery technology, and systems integration, though questions remain about their ability to operate effectively beyond Japan's immediate maritime periphery.",
+  "specs_json": {
+    "displacement_tonnes": 3000,
+    "length_m": 84.0,
+    "beam_m": 9.1,
+    "draft_m": 10.4,
+    "speed_knots": 20,
+    "range_nm": 6100,
+    "crew": 70,
+    "propulsion": "Diesel-electric with lithium-ion batteries, 1 shaft",
+    "radar": "ZPS-6F surface search radar",
+    "sonar": "Hughes/Oki ZQQ-7 sonar suite",
+    "combat_system": "Submarine Combat Direction System",
+    "vls_cells": 0,
+    "additional": {
+      "torpedo_tubes": 6,
+      "diving_depth_m": 500,
+      "snorkel_depth_m": 12,
+      "battery_type": "Lithium-ion (GS Yuasa)",
+      "submerged_endurance_days": 14
+    }
+  },
+  "armament_json": [
+    {
+      "category": "Torpedoes",
+      "name": "Type 89 heavyweight torpedo",
+      "type": "wire-guided torpedo",
+      "quantity": "30 torpedoes",
+      "range_km": 50,
+      "notes": "Primary anti-ship and anti-submarine weapon"
+    },
+    {
+      "category": "Missiles",
+      "name": "UGM-84L Harpoon Block II",
+      "type": "anti-ship missile",
+      "quantity": "12 missiles (planned)",
+      "range_km": 124,
+      "notes": "Sub-launched anti-ship capability"
+    },
+    {
+      "category": "Mines",
+      "name": "Type 6 influence mines",
+      "type": "naval mines",
+      "quantity": "Variable load",
+      "range_km": 0,
+      "notes": "In lieu of torpedoes"
+    }
+  ],
+  "variants_json": [
+    {
+      "name": "Taigei (Block I)",
+      "designation_range": "SS-513 to SS-515",
+      "years": "2022-2024",
+      "count": 3,
+      "key_changes": "Initial production with lithium-ion batteries, ZQQ-7 sonar, improved anechoic coating over Soryu-class",
+      "status": "active"
+    },
+    {
+      "name": "Taigei (Block II)",
+      "designation_range": "SS-516 onwards",
+      "years": "2025-2030",
+      "count": 9,
+      "key_changes": "Planned improvements to combat system, potential for vertical launch capability for standoff missiles",
+      "status": "building"
+    }
+  ],
+  "fleet_status_json": [
+    {
+      "hull_number": "SS-513",
+      "name": "JS Taigei",
+      "variant": "Block I",
+      "commissioned": "2022-03-09",
+      "home_port": "Yokosuka",
+      "status": "active"
+    },
+    {
+      "hull_number": "SS-514",
+      "name": "JS Hakugei",
+      "variant": "Block I",
+      "commissioned": "2023-03-22",
+      "home_port": "Kure",
+      "status": "active"
+    },
+    {
+      "hull_number": "SS-515",
+      "name": "JS Jingei",
+      "variant": "Block I",
+      "commissioned": "2024-03-14",
+      "home_port": "Yokosuka",
+      "status": "active"
+    }
+  ],
+  "cost_usd": 720000000.0,
+  "unit_count": 3,
+  "first_commissioned": "2022-03-09",
+  "builder": "Mitsubishi Heavy Industries, Kawasaki Heavy Industries",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/38/Naming_and_Launch_Ceremony_of_SS_Taigei.jpg",
+  "wiki_url": "https://en.wikipedia.org/wiki/Taigei-class_submarine",
+  "sources_json": [
+    "https://en.wikipedia.org/wiki/Taigei-class_submarine",
+    "https://www.mod.go.jp/msdf/",
+    "https://www.janes.com/defence-news/naval-warfare",
+    "https://www.naval-technology.com/"
+  ],
+  "comparison_tags": [
+    "submarine",
+    "diesel-electric",
+    "lithium-ion",
+    "jmsdf",
+    "anti-ship",
+    "stealth"
+  ],
+  "created_at": "2026-04-10 20:18:20",
+  "updated_at": "2026-04-10T20:18:20.494588",
+  "news": [],
+  "events": [],
+  "ic_coverage": [],
+  "combat_history": [
+    {
+      "date": "2022-10",
+      "operation": "Pacific Partnership exercises",
+      "event": "JS Taigei conducted first operational patrol in East China Sea, demonstrating extended submerged endurance capabilities during heightened tensions over Taiwan",
+      "significance": "Validated lithium-ion propulsion system in operational environment and demonstrated Japan's enhanced submarine presence capability"
+    },
+    {
+      "date": "2023-08",
+      "operation": "Keen Sword 24 preparation",
+      "event": "JS Hakugei participated in anti-submarine warfare exercises with US Navy P-8 Poseidons, testing new sonar signature management",
+      "significance": "First multilateral exercise participation showed improved acoustic stealth over previous submarine classes"
+    }
+  ],
+  "modernization": [
+    {
+      "program": "Standoff Strike Capability Integration",
+      "status": "planned",
+      "timeline": "2025-2028",
+      "description": "Integration of longer-range strike weapons including potential for Type 12 Surface-to-Ship Missile submarine launch variant",
+      "impact": "Would transform from purely defensive to offensive strike platform, supporting Japan's counterstrike capability doctrine"
+    },
+    {
+      "program": "Combat System Modernization",
+      "status": "in-progress",
+      "timeline": "2024-2027",
+      "description": "Upgrade to latest version of submarine combat direction system with improved data link capabilities and AI-assisted target classification",
+      "impact": "Enhanced network-centric warfare capability and reduced crew workload during complex operations"
+    }
+  ],
+  "vulnerabilities": [
+    {
+      "area": "Limited strategic range",
+      "description": "Despite improved endurance, diesel-electric limitations still constrain operations beyond first island chain compared to nuclear submarines",
+      "context": "Critical weakness as China expands operations into second island chain and beyond",
+      "mitigation": "JMSDF exploring forward basing options and tanker submarine concepts"
+    },
+    {
+      "area": "Battery technology dependence",
+      "description": "Heavy reliance on lithium-ion creates single point of failure and potential fire hazard; technology still relatively unproven in combat conditions",
+      "context": "Lithium-ion battery fires are difficult to extinguish underwater and could be catastrophic",
+      "mitigation": "Extensive compartmentalization and fire suppression systems, ongoing monitoring of battery performance"
+    },
+    {
+      "area": "Limited missile capacity",
+      "description": "Only six torpedo tubes and no VLS means limited simultaneous engagement capability compared to modern nuclear attack submarines",
+      "context": "In high-intensity conflict against multiple targets, could be quickly depleted of weapons",
+      "mitigation": "Focus on high-value target engagement and coordinated operations with surface vessels"
+    }
+  ],
+  "operational_patterns": {
+    "typical_deployment": "Area denial patrols in East China Sea, Miyako Strait monitoring, anti-submarine warfare in approaches to Japanese home islands",
+    "deployment_length_months": 2,
+    "key_operating_areas": [
+      "East China Sea",
+      "Philippine Sea",
+      "Sea of Japan",
+      "Tsushima Strait"
+    ],
+    "typical_task_group": "Independent operations or coordinated with P-1 maritime patrol aircraft and destroyer flotillas",
+    "readiness_notes": "High operational tempo due to limited fleet size; battery maintenance requirements create specific scheduling constraints"
+  },
+  "peer_comparisons": [
+    {
+      "platform": "Type 039C Yuan-class",
+      "country": "China",
+      "relationship": "direct rival",
+      "key_differences": "Taigei has superior battery technology and sensors, but Yuan has greater numbers and AIP endurance. Taigei optimized for quality over quantity approach.",
+      "video_angle": "Technology vs. numbers - how Japan's submarine quality stacks up against China's quantity advantage"
+    },
+    {
+      "platform": "Scorp\u00e8ne-class",
+      "country": "France",
+      "relationship": "allied equivalent",
+      "key_differences": "Similar size and role but Scorp\u00e8ne uses traditional AIP while Taigei relies on advanced batteries. Different approaches to extended submerged operations.",
+      "video_angle": "AIP vs. Lithium-ion: competing philosophies for next-generation diesel submarines"
+    },
+    {
+      "platform": "Type 214",
+      "country": "Germany",
+      "relationship": "allied equivalent",
+      "key_differences": "Type 214 emphasizes fuel cell AIP for extended underwater time, while Taigei prioritizes speed and power through batteries. Similar stealth but different operational concepts.",
+      "video_angle": "German engineering vs. Japanese innovation in submarine design philosophy"
+    },
+    {
+      "platform": "Collins-class",
+      "country": "Australia",
+      "relationship": "allied predecessor",
+      "key_differences": "Collins is larger but older technology; Taigei represents what Australia hopes to achieve with future SSN program in terms of capability density.",
+      "video_angle": "Why Australia is moving from diesel to nuclear when Japan perfects diesel-electric design"
+    },
+    {
+      "platform": "Kilo-class (Improved)",
+      "country": "Russia",
+      "relationship": "potential adversary",
+      "key_differences": "Kilo focuses on ruggedness and simplicity while Taigei emphasizes technological sophistication. Kilo has longer range but Taigei has superior sensors and stealth.",
+      "video_angle": "High-tech vs. proven design: Japanese precision against Russian submarine doctrine"
+    }
+  ],
+  "search_keywords": [
+    "taigei class",
+    "taigei-class",
+    "SS-513",
+    "SS-514",
+    "SS-515",
+    "hakugei",
+    "jingei",
+    "japanese submarine",
+    "lithium ion submarine",
+    "jmsdf submarine",
+    "soryu successor"
+  ],
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Commissioning_Ceremony_for_JS_Taigei%EF%BC%88SS-513%EF%BC%89.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Commissioning_Ceremony_for_JS_Taigei%EF%BC%88SS-513%EF%BC%89.jpg",
+      "width": 1280,
+      "height": 853,
+      "title": "Commissioning Ceremony for JS Taigei\uff08SS-513\uff09.jpg",
+      "description": "\u81ea\u885b\u8266\u65d7\u304c\u6388\u4e0e\u3055\u308c\u300c\u305f\u3044\u3052\u3044\u300d\u306b\u63b2\u63da\u3055\u308c\u308b\u69d8\u5b50\u3002",
+      "license": "CC BY 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/JS_Hakugei_%28SS-514%29_sailing_in_Port_of_Kobe_March_20%2C_2023_01.jpg/1280px-JS_Hakugei_%28SS-514%29_sailing_in_Port_of_Kobe_March_20%2C_2023_01.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/73/JS_Hakugei_%28SS-514%29_sailing_in_Port_of_Kobe_March_20%2C_2023_01.jpg",
+      "width": 5256,
+      "height": 2957,
+      "title": "JS Hakugei (SS-514) sailing in Port of Kobe March 20, 2023 01.jpg",
+      "description": "\u5f15\u304d\u6e21\u3057\u5f0f\u5f8c\u3001\u5ddd\u5d0e\u91cd\u5de5\u696d\u795e\u6238\u5de5\u5834\u3092\u51fa\u6e2f\u3059\u308b\u6d77\u4e0a\u81ea\u885b\u968a\u3000\u6f5c\u6c34\u8266\u306f\u304f\u3052\u3044\uff08SS-514\uff09\u30022023\u5e743\u670820\u65e5\u3000\u795e\u6238\u6e2f\u306b\u3066\u904a\u89a7\u8239\u304b\u3089\u64ae\u5f71\u3002",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/JS_Hakugei_%28SS-514%29_sailing_in_Port_of_Kobe_March_20%2C_2023_09.jpg/1280px-JS_Hakugei_%28SS-514%29_sailing_in_Port_of_Kobe_March_20%2C_2023_09.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/e4/JS_Hakugei_%28SS-514%29_sailing_in_Port_of_Kobe_March_20%2C_2023_09.jpg",
+      "width": 5309,
+      "height": 2987,
+      "title": "JS Hakugei (SS-514) sailing in Port of Kobe March 20, 2023 09.jpg",
+      "description": "\u5f15\u304d\u6e21\u3057\u5f0f\u5f8c\u3001\u5ddd\u5d0e\u91cd\u5de5\u696d\u795e\u6238\u5de5\u5834\u3092\u51fa\u6e2f\u3059\u308b\u6d77\u4e0a\u81ea\u885b\u968a\u3000\u6f5c\u6c34\u8266\u306f\u304f\u3052\u3044\uff08SS-514\uff09\u30022023\u5e743\u670820\u65e5\u3000\u795e\u6238\u6e2f\u306b\u3066\u904a\u89a7\u8239\u304b\u3089\u64ae\u5f71\u3002",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/JS_Hakugei_%28SS-514%29_sailing_in_Port_of_Kobe_March_20%2C_2023_11.jpg/1280px-JS_Hakugei_%28SS-514%29_sailing_in_Port_of_Kobe_March_20%2C_2023_11.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/46/JS_Hakugei_%28SS-514%29_sailing_in_Port_of_Kobe_March_20%2C_2023_11.jpg",
+      "width": 5046,
+      "height": 2838,
+      "title": "JS Hakugei (SS-514) sailing in Port of Kobe March 20, 2023 11.jpg",
+      "description": "\u5f15\u304d\u6e21\u3057\u5f0f\u5f8c\u3001\u5ddd\u5d0e\u91cd\u5de5\u696d\u795e\u6238\u5de5\u5834\u3092\u51fa\u6e2f\u3059\u308b\u6d77\u4e0a\u81ea\u885b\u968a\u3000\u6f5c\u6c34\u8266\u306f\u304f\u3052\u3044\uff08SS-514\uff09\u30022023\u5e743\u670820\u65e5\u3000\u795e\u6238\u6e2f\u306b\u3066\u904a\u89a7\u8239\u304b\u3089\u64ae\u5f71\u3002",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/JS_Hakugei%EF%BC%88SS-514%EF%BC%89entering_JMSDF_Kure_Naval_Base_for_the_first_time_after_commissioning_%28April_7%2C_2023%29.jpg/1280px-JS_Hakugei%EF%BC%88SS-514%EF%BC%89entering_JMSDF_Kure_Naval_Base_for_the_first_time_after_commissioning_%28April_7%2C_2023%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/f7/JS_Hakugei%EF%BC%88SS-514%EF%BC%89entering_JMSDF_Kure_Naval_Base_for_the_first_time_after_commissioning_%28April_7%2C_2023%29.jpg",
+      "width": 3984,
+      "height": 2656,
+      "title": "JS Hakugei\uff08SS-514\uff09entering JMSDF Kure Naval Base for the first time after commissioning (April 7, 2023).jpg",
+      "description": "\u5c31\u5f79\u5f8c\u3001\u6bcd\u6e2f\u5449\u57fa\u5730\u306b\u521d\u5165\u6e2f\u3059\u308b\u6f5c\u6c34\u8266\uff62\u306f\u304f\u3052\u3044\uff63\uff08\u4ee4\u548c5\u5e744\u67087\u65e5\uff09",
+      "license": "CC BY 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/JS_Taigei%28SS-513%29_sailing_in_Port_of_Kobe_March_9%2C_2022_25.jpg/1280px-JS_Taigei%28SS-513%29_sailing_in_Port_of_Kobe_March_9%2C_2022_25.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/JS_Taigei%28SS-513%29_sailing_in_Port_of_Kobe_March_9%2C_2022_25.jpg",
+      "width": 5568,
+      "height": 3712,
+      "title": "JS Taigei(SS-513) sailing in Port of Kobe March 9, 2022 25.jpg",
+      "description": "\u5f15\u304d\u6e21\u3057\u5f0f\u5f8c\u3001\u4e09\u83f1\u91cd\u5de5\u696d\u795e\u6238\u9020\u8239\u6240\u3092\u51fa\u6e2f\u3059\u308b\u6d77\u4e0a\u81ea\u885b\u968a\u3000\u6f5c\u6c34\u8266\u305f\u3044\u3052\u3044\uff08SS-513\uff09\u30022022\u5e743\u67089\u65e5\u3000\u795e\u6238\u6e2f\u306b\u3066\u904a\u89a7\u8239\u304b\u3089\u64ae\u5f71\u3002",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/JS_Taigei%EF%BC%88SS-513%EF%BC%89.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/JS_Taigei%EF%BC%88SS-513%EF%BC%89.jpg",
+      "width": 1280,
+      "height": 853,
+      "title": "JS Taigei\uff08SS-513\uff09.jpg",
+      "description": "\u5c31\u5f79\u5f8c\u306b\u4e09\u83f1\u91cd\u5de5\u795e\u6238\u9020\u8239\u6240\u3092\u51fa\u6e2f\u3059\u308b \u300c\u305f\u3044\u3052\u3044\u300d",
+      "license": "CC BY 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/SS-513_%E3%81%9F%E3%81%84%E3%81%92%E3%81%84_%E9%80%B2%E6%B0%B4%E5%BC%8F1.jpg/1280px-SS-513_%E3%81%9F%E3%81%84%E3%81%92%E3%81%84_%E9%80%B2%E6%B0%B4%E5%BC%8F1.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/75/SS-513_%E3%81%9F%E3%81%84%E3%81%92%E3%81%84_%E9%80%B2%E6%B0%B4%E5%BC%8F1.jpg",
+      "width": 5568,
+      "height": 3712,
+      "title": "SS-513 \u305f\u3044\u3052\u3044 \u9032\u6c34\u5f0f1.jpg",
+      "description": "\u4e09\u83f1\u91cd\u5de5\u696d\u795e\u6238\u9020\u8239\u6240\u306b\u3066\u5efa\u9020\u3055\u308c\u305f3000\u30c8\u30f3\u578b\u6f5c\u6c34\u82661\u756a\u8266SS-513\u300c\u305f\u3044\u3052\u3044\u300d \u53f3\u8237\u5f8c\u65b9\u30022020\u5e7410\u670814\u65e5\u9032\u6c34\u5f0f\u5f53\u65e5\u64ae\u5f71\u3002\u795e\u6238\u6e2f\u6c96\u306b\u3066\u904a\u89a7\u8239\u30ed\u30a4\u30e4\u30eb\u30d7\u30ea\u30f3\u30bb\u30b9\u306e\u7279\u5225\u904b\u884c\u4fbf\u304b\u3089\u64ae\u5f71\u3002",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    }
+  ],
+  "doctrine": {
+    "role": "Sea denial within the first island chain and protection of Japan's sea lines of communication against expanding Chinese submarine capabilities. The Taigei-class serves as a critical component of Japan's anti-access strategy, designed to contest Chinese naval expansion into the Western Pacific.",
+    "employment": "Taigei-class submarines operate independently or in coordination with other JMSDF assets, conducting extended patrol missions in the East China Sea and approaches to Japanese home waters. They are typically employed for intelligence gathering, anti-submarine warfare, and anti-surface warfare missions with emphasis on quiet operations near contested waters. Command relationships align with JMSDF fleet structure, with boats rotating between forward deployment and maintenance cycles to maintain persistent presence in key maritime chokepoints.",
+    "design_philosophy": "Designers prioritized extended submerged endurance and stealth over surface speed or weapon load, adopting lithium-ion batteries instead of AIP to maximize underwater performance. This represents a conscious trade-off of the Soryu-class AIP system's proven reliability for the strategic advantage of longer submerged operations and reduced acoustic signature. The design sacrifices some internal volume for advanced quieting measures and sensor integration.",
+    "threat_context": "Designed specifically to counter the rapid expansion and modernization of the People's Liberation Army Navy submarine force, particularly Type 039A/B and nuclear submarines operating in the East China Sea. The threat environment has intensified since design inception, with increased Chinese submarine activity and growing tensions over Taiwan, validating the emphasis on extended submerged capability and stealth.",
+    "comparison_frame": "Compare primarily on submerged endurance and acoustic signature rather than weapon capacity or surface performance - the lithium-ion propulsion system is the key differentiator. Sensor suite integration and data-linking capabilities matter more than raw sonar power, as these boats are designed for network-centric operations. Construction quality and reliability should be weighted heavily given Japan's requirement for sustained high-tempo operations with limited submarine numbers."
+  },
+  "curated_sources": [
+    {
+      "title": "China Naval Modernization: Implications for U.S. Navy Capabilities",
+      "type": "report",
+      "url": "https://crsreports.congress.gov/product/pdf/RL/RL33153",
+      "relevance": "Provides essential context on the Chinese submarine threat that drove Taigei-class requirements.",
+      "priority": "essential"
+    },
+    {
+      "title": "The Naval Institute Guide to Combat Fleets of the World",
+      "type": "book",
+      "url": "",
+      "relevance": "Authoritative reference for technical specifications and operational context of the Taigei-class.",
+      "priority": "recommended"
+    },
+    {
+      "title": "Japan Maritime Self-Defense Force",
+      "type": "database",
+      "url": "https://www.seaforces.org/marint/Japan-Maritime-Self-Defense-Force",
+      "relevance": "Comprehensive database entry with technical specifications and fleet integration details.",
+      "priority": "reference"
+    },
+    {
+      "title": "Andrew Erickson - China Maritime Studies",
+      "type": "analyst",
+      "url": "https://www.andrewerickson.com/",
+      "relevance": "Leading analyst on Chinese naval developments that inform Japanese submarine strategy and requirements.",
+      "priority": "essential"
+    },
+    {
+      "title": "Japan's National Defense Strategy and Submarine Force Development",
+      "type": "report",
+      "url": "https://www.csis.org/analysis/japans-national-defense-strategy",
+      "relevance": "Explains the strategic context and doctrinal framework driving Taigei-class development.",
+      "priority": "recommended"
+    },
+    {
+      "title": "RUSI Defence Systems: Submarine Technology",
+      "type": "analyst",
+      "url": "https://rusi.org/explore-our-research/publications/rusi-defence-systems",
+      "relevance": "Technical analysis of lithium-ion propulsion systems and their operational implications.",
+      "priority": "recommended"
+    },
+    {
+      "title": "The Submarine Review - Naval Submarine League",
+      "type": "article",
+      "url": "https://www.navalsubleague.org/submarine-review",
+      "relevance": "Professional submarine community analysis of Taigei-class innovations and performance.",
+      "priority": "reference"
+    }
+  ]
+}

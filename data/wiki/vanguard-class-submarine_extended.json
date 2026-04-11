@@ -1,0 +1,353 @@
+{
+  "combat_history": [
+    {
+      "date": "1998",
+      "operation": "Test firing",
+      "event": "HMS Vanguard conducted the UK's first successful Trident II D5 missile test firing off the coast of Florida, validating the weapon system integration.",
+      "significance": "Proved the UK's independent nuclear deterrent capability and Trident system reliability"
+    },
+    {
+      "date": "2016-06",
+      "operation": "Test firing",
+      "event": "HMS Vengeance suffered a Trident missile test failure off Florida coast, with the missile reportedly veering toward the US mainland instead of designated target area.",
+      "significance": "Highlighted potential reliability issues and was kept classified during parliamentary Trident renewal debates"
+    },
+    {
+      "date": "2009-02",
+      "operation": null,
+      "event": "HMS Vanguard collided with French SSBN Le Triomphant in the Atlantic Ocean while both were on patrol, causing minor damage to both submarines.",
+      "significance": "Demonstrated the challenge of maintaining stealth while avoiding friendly forces in contested patrol areas"
+    }
+  ],
+  "modernization": [
+    {
+      "program": "Common Missile Compartment (CMC)",
+      "status": "cancelled",
+      "timeline": "2008-2012",
+      "description": "Joint US-UK program to develop standardized missile compartment for future SSBNs. Cancelled due to cost and timeline concerns.",
+      "impact": "Led to UK developing bespoke missile compartment for Dreadnought class"
+    },
+    {
+      "program": "Core H Reactor Installation",
+      "status": "completed",
+      "timeline": "2015-2022",
+      "description": "All four boats received new reactor cores during extended maintenance periods, extending service life to early 2030s.",
+      "impact": "Ensures CASD continuity until Dreadnought class enters service"
+    },
+    {
+      "program": "Dreadnought Class Replacement",
+      "status": "in-progress",
+      "timeline": "2030-2040",
+      "description": "Four new SSBNs under construction to replace Vanguard class, featuring PWR3 reactor and updated missile compartment.",
+      "impact": "Will maintain UK nuclear deterrent through 2060s with improved stealth and reduced maintenance requirements"
+    }
+  ],
+  "vulnerabilities": [
+    {
+      "area": "Acoustic signature",
+      "description": "PWR2 reactor and 1990s hull design produce detectable acoustic signature compared to latest generation SSBNs",
+      "context": "Advanced Russian and Chinese ASW systems pose increasing detection risk during transit to patrol areas",
+      "mitigation": "Operational procedures emphasize deep water patrol areas and careful route planning"
+    },
+    {
+      "area": "Maintenance bottlenecks",
+      "description": "Only one dry dock at Devonport capable of handling nuclear submarine refits creates scheduling constraints",
+      "context": "Extended maintenance periods reduce available boats for patrol rotation, potentially compromising CASD",
+      "mitigation": "Careful scheduling and potential use of alternative facilities being explored"
+    },
+    {
+      "area": "Crew retention",
+      "description": "Nuclear submarine service requires extensive training investment but faces retention challenges due to civilian nuclear industry competition",
+      "context": "Shortage of qualified nuclear engineers and submariners could impact patrol schedules",
+      "mitigation": "Enhanced retention bonuses and improved shore rotation schedules implemented"
+    },
+    {
+      "area": "Single point of failure",
+      "description": "All UK nuclear deterrent capability concentrated in four aging platforms with shared design vulnerabilities",
+      "context": "Unlike US/Russian/Chinese multi-platform nuclear triads, UK relies entirely on submarine-based deterrent",
+      "mitigation": "Dreadnought class incorporates lessons learned but maintains single-platform approach"
+    }
+  ],
+  "operational_patterns": {
+    "typical_deployment": "Continuous At-Sea Deterrent patrol - one boat always at sea on classified patrol route",
+    "deployment_length_months": 3,
+    "key_operating_areas": [
+      "North Atlantic",
+      "Norwegian Sea",
+      "Classified patrol areas"
+    ],
+    "typical_task_group": "Solo operations - no escort vessels to maintain stealth",
+    "readiness_notes": "Four-boat cycle: one on patrol, one preparing/returning, one in maintenance, one in extended refit"
+  },
+  "peer_comparisons": [
+    {
+      "platform": "Ohio-class SSBN",
+      "country": "United States",
+      "relationship": "allied equivalent",
+      "key_differences": "Ohio class larger with 24 missile tubes vs 16, but Vanguard has newer reactor design and quieter pump-jet propulsion. US maintains 14 boats vs UK's 4.",
+      "video_angle": "David vs Goliath: How the UK maintains credible deterrent with quarter the boats"
+    },
+    {
+      "platform": "Borei-class SSBN",
+      "country": "Russia",
+      "relationship": "direct rival",
+      "key_differences": "Borei is newer design (2010s) with 16 Bulava missiles, potentially quieter but unproven reliability. Vanguard benefits from proven Trident system and US missile pool.",
+      "video_angle": "Cold War legacy vs Russian resurgence: comparing deterrent credibility"
+    },
+    {
+      "platform": "Type 094 Jin-class SSBN",
+      "country": "China",
+      "relationship": "peer competitor",
+      "key_differences": "Jin class significantly noisier with 12 shorter-range JL-2 missiles, but China building more boats. Vanguard superior in stealth and missile range.",
+      "video_angle": "Quality vs Quantity: established vs emerging nuclear powers"
+    },
+    {
+      "platform": "Le Triomphant-class SSBN",
+      "country": "France",
+      "relationship": "allied equivalent",
+      "key_differences": "Similar size and 16-missile configuration but French M51 SLBM has shorter range than Trident. Both maintain independent European deterrents outside US control.",
+      "video_angle": "European nuclear independence: comparing UK and French deterrent strategies"
+    }
+  ],
+  "search_keywords": [
+    "vanguard class",
+    "vanguard submarine",
+    "trident submarine",
+    "uk ssbn",
+    "british nuclear submarine",
+    "hms vanguard",
+    "hms victorious",
+    "hms vigilant",
+    "hms vengeance",
+    "casd",
+    "continuous at-sea deterrent",
+    "trident d5"
+  ],
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Flickr_-_Official_U.S._Navy_Imagery_-_USS_Maryland_transits_the_Saint_Marys_River..jpg/1280px-Flickr_-_Official_U.S._Navy_Imagery_-_USS_Maryland_transits_the_Saint_Marys_River..jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Flickr_-_Official_U.S._Navy_Imagery_-_USS_Maryland_transits_the_Saint_Marys_River..jpg",
+      "width": 3358,
+      "height": 2235,
+      "title": "Flickr - Official U.S. Navy Imagery - USS Maryland transits the Saint Marys River..jpg",
+      "description": "<p>KINGS BAY, Ga. (Aud. 1, 2012) The Ohio-class ballistic missile submarine USS Maryland (SSBN 738) transits the Saint Marys River. Maryland returned to Naval Submarine Base Kings Bay following routin",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/USS_Maryland_%28SSBN-738%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/USS_Maryland_%28SSBN-738%29.jpg",
+      "width": 640,
+      "height": 480,
+      "title": "USS Maryland (SSBN-738).jpg",
+      "description": "USS Maryland (SSBN-738)",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/USS_Maryland_%28SSBN-738%29_1997.jpg/1280px-USS_Maryland_%28SSBN-738%29_1997.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/00/USS_Maryland_%28SSBN-738%29_1997.jpg",
+      "width": 1400,
+      "height": 1000,
+      "title": "USS Maryland (SSBN-738) 1997.jpg",
+      "description": "ID: DN-SD-99-05760  Service Depicted: Navy  \n<p>971027-N-7479T-004  Operation / Series: GLOBAL GUARDIAN `98 \n</p><p>Ohio class submarine USS MARYLAND (SSBN-738) pulls into the naval station, assisted ",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/USS_Maryland_%28SSBN-738%29_Crest.png",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/USS_Maryland_%28SSBN-738%29_Crest.png",
+      "width": 674,
+      "height": 858,
+      "title": "USS Maryland (SSBN-738) Crest.png",
+      "description": "",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/USS_Maryland_%28SSBN_738%29.jpg/1280px-USS_Maryland_%28SSBN_738%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/82/USS_Maryland_%28SSBN_738%29.jpg",
+      "width": 4288,
+      "height": 2848,
+      "title": "USS Maryland (SSBN 738).jpg",
+      "description": "The ballistic missile submarine USS Maryland (SSBN 738) (Gold) transits the Atlantic Intracoastal Waterway as it departs Naval Submarine Base Kings Bay, Ga. for a patrol mission. Naval Submarine Base ",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/USS_Maryland_%28SSBN_738%29_%28fix%29.jpg/1280px-USS_Maryland_%28SSBN_738%29_%28fix%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/USS_Maryland_%28SSBN_738%29_%28fix%29.jpg",
+      "width": 4010,
+      "height": 2664,
+      "title": "USS Maryland (SSBN 738) (fix).jpg",
+      "description": "The ballistic missile submarine USS Maryland (SSBN 738) (Gold) transits the Atlantic Intracoastal Waterway as it departs Naval Submarine Base Kings Bay, Ga. for a patrol mission. Naval Submarine Base ",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/USS_Tennessee_%28SSBN_734%29.jpg/1280px-USS_Tennessee_%28SSBN_734%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/80/USS_Tennessee_%28SSBN_734%29.jpg",
+      "width": 4214,
+      "height": 2813,
+      "title": "USS Tennessee (SSBN 734).jpg",
+      "description": "ATLANTIC OCEAN (Feb. 6, 2013) The Ohio-class ballistic missile submarine USS Tennessee (SSBN 734) returns to Naval Submarine Base Kings Bay. Tennessee deployed for operations more than three months ea",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/US_Navy_110204-N-FG395-017_Line_handlers_assigned_to_the_ballistic-missile_submarine_USS_Maryland_%28SSBN_738%29.jpg/1280px-US_Navy_110204-N-FG395-017_Line_handlers_assigned_to_the_ballistic-missile_submarine_USS_Maryland_%28SSBN_738%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/41/US_Navy_110204-N-FG395-017_Line_handlers_assigned_to_the_ballistic-missile_submarine_USS_Maryland_%28SSBN_738%29.jpg",
+      "width": 3888,
+      "height": 2592,
+      "title": "US Navy 110204-N-FG395-017 Line handlers assigned to the ballistic-missile submarine USS Maryland (SSBN 738).jpg",
+      "description": "KINGS BAY, Ga. (Feb. 4, 2011) Line handlers assigned to the ballistic-missile submarine USS Maryland (SSBN 738) toss a heaving ball to members of the mooring division from the Trident Refit Facility t",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Image_of_HMS_Vengeance_returning_to_HMNB_Clyde%2C_after_completing_Operational_Sea_Training_MOD_45159434.jpg/1280px-Image_of_HMS_Vengeance_returning_to_HMNB_Clyde%2C_after_completing_Operational_Sea_Training_MOD_45159434.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Image_of_HMS_Vengeance_returning_to_HMNB_Clyde%2C_after_completing_Operational_Sea_Training_MOD_45159434.jpg",
+      "width": 6000,
+      "height": 4500,
+      "title": "Image of HMS Vengeance returning to HMNB Clyde, after completing Operational Sea Training MOD 45159434.jpg",
+      "description": "Image of HMS Vengeance returning to HMNB Clyde, after completing Operational Sea Training.  The trials were conducted in Scottish exercise areas.\n<p>HMS Vengeance is the fourth and final Vanguard-clas",
+      "license": "OGL v1.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Starmer_visits_Vanguard_submarine_2025-03-17-11-16.jpg/1280px-Starmer_visits_Vanguard_submarine_2025-03-17-11-16.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Starmer_visits_Vanguard_submarine_2025-03-17-11-16.jpg",
+      "width": 8192,
+      "height": 5464,
+      "title": "Starmer visits Vanguard submarine 2025-03-17-11-16.jpg",
+      "description": "***PHOTOS EMBARGOED UNTIL 2200 March 19th 2025  FOR PRINT AND 0001 FOR ALL OTHER PLATFORMS\n17/03/2025. Scotland, United Kingdom. Prime Minister Keir Starmer and Defence Secretary John Healey are shown",
+      "license": "OGL 3",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Starmer_visits_Vanguard_submarine_2025-03-17-14-56-A.jpg/1280px-Starmer_visits_Vanguard_submarine_2025-03-17-14-56-A.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/13/Starmer_visits_Vanguard_submarine_2025-03-17-14-56-A.jpg",
+      "width": 7232,
+      "height": 4824,
+      "title": "Starmer visits Vanguard submarine 2025-03-17-14-56-A.jpg",
+      "description": "***PHOTOS EMBARGOED UNTIL 2200 March 19th 2025  FOR PRINT AND 0001 FOR ALL OTHER PLATFORMS\n17/03/2025. Scotland, United Kingdom. Prime Minister Keir Starmer and Defence Secretary John Healey visit fam",
+      "license": "OGL 3",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Starmer_visits_Vanguard_submarine_2025-03-17-14-58.jpg/1280px-Starmer_visits_Vanguard_submarine_2025-03-17-14-58.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/56/Starmer_visits_Vanguard_submarine_2025-03-17-14-58.jpg",
+      "width": 6289,
+      "height": 4195,
+      "title": "Starmer visits Vanguard submarine 2025-03-17-14-58.jpg",
+      "description": "***PHOTOS EMBARGOED UNTIL 2200 March 19th 2025  FOR PRINT AND 0001 FOR ALL OTHER PLATFORMS\n17/03/2025. Scotland, United Kingdom. Prime Minister Keir Starmer and Defence Secretary John Healey visit fam",
+      "license": "OGL 3",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/USS_Tennessee_%28SSBN-734%29_and_a_Royal_Navy_Vanguard-class_ballistic_missile_submarine_underway_in_the_Atlantic_Ocean_on_23_November_2022_%28221123-N-N0736-001%29.JPG/1280px-USS_Tennessee_%28SSBN-734%29_and_a_Royal_Navy_Vanguard-class_ballistic_missile_submarine_underway_in_the_Atlantic_Ocean_on_23_November_2022_%28221123-N-N0736-001%29.JPG",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/0c/USS_Tennessee_%28SSBN-734%29_and_a_Royal_Navy_Vanguard-class_ballistic_missile_submarine_underway_in_the_Atlantic_Ocean_on_23_November_2022_%28221123-N-N0736-001%29.JPG",
+      "width": 6219,
+      "height": 4146,
+      "title": "USS Tennessee (SSBN-734) and a Royal Navy Vanguard-class ballistic missile submarine underway in the Atlantic Ocean on 23 November 2022 (221123-N-N0736-001).JPG",
+      "description": "The U.S. Navy Ohio-class ballistic missile submarine USS <i>Tennessee</i> (SSBN-734), a Royal Navy <i>Vanguard</i>-class ballistic missile submarine, a Boeing E-6B <i>Mercury</i> assigned to Fleet Air",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Vanguard-class_submarine_off_Cove_Point_on_Clyde.jpg/1280px-Vanguard-class_submarine_off_Cove_Point_on_Clyde.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/04/Vanguard-class_submarine_off_Cove_Point_on_Clyde.jpg",
+      "width": 2272,
+      "height": 1278,
+      "title": "Vanguard-class submarine off Cove Point on Clyde.jpg",
+      "description": "<a href=\"https://en.wikipedia.org/wiki/Vanguard-class_submarine\" class=\"extiw\" title=\"w:Vanguard-class submarine\"><i>Vanguard</i>-class submarine</a> on the <a href=\"https://en.wikipedia.org/wiki/Firt",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Vanguard_at_Faslane_02.jpg/1280px-Vanguard_at_Faslane_02.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Vanguard_at_Faslane_02.jpg",
+      "width": 2547,
+      "height": 1921,
+      "title": "Vanguard at Faslane 02.jpg",
+      "description": "Nuclear submarine HMS Vanguard arrives back at HM Naval Base Clyde, Faslane, Scotland following a patrol.\n<ul><li>Object Name: NE100530293</li>\n<li>Organization: ROYAL NAVY</li>\n<li>Supplemental Categ",
+      "license": "OGL v1.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Vanguard_at_Faslane_03.jpg/1280px-Vanguard_at_Faslane_03.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Vanguard_at_Faslane_03.jpg",
+      "width": 2625,
+      "height": 1864,
+      "title": "Vanguard at Faslane 03.jpg",
+      "description": "Nuclear submarine HMS Vanguard arrives back at HM Naval Base Clyde, Faslane, Scotland following a patrol.",
+      "license": "OGL v1.0",
+      "source": "wikimedia"
+    }
+  ],
+  "doctrine": {
+    "role": "Ultimate guarantor of UK sovereignty through assured nuclear retaliation, providing the nation's sole strategic deterrent capability and maintaining the credibility of independent nuclear decision-making within NATO.",
+    "employment": "Operates under direct national command authority with one boat continuously on patrol in undisclosed ocean areas, maintaining radio silence and independence from fleet command structures. Each submarine deploys with up to 16 Trident D5 missiles for 2-3 month patrols, supported by Astute-class SSNs for transit protection when required. Command relationships bypass normal naval hierarchy, with patrol commanders receiving sealed orders directly from the Prime Minister regarding rules of engagement in extremis scenarios.",
+    "design_philosophy": "Prioritised stealth, endurance, and reliability over speed or multi-mission capability, accepting reduced conventional warfare utility to maximise deterrent effectiveness. Designers sacrificed torpedo room space and sensor sophistication compared to attack submarines to accommodate the massive missile compartment and focused resources on noise reduction and systems redundancy rather than offensive conventional capabilities.",
+    "threat_context": "Originally designed for Cold War scenarios requiring penetration of Soviet ASW barriers in the North Atlantic and Arctic approaches. The threat environment has evolved from predictable superpower confrontation to multi-polar challenges including advanced Russian submarine capabilities, Chinese naval expansion, and potential sub-strategic nuclear scenarios requiring flexible response options.",
+    "comparison_frame": "Compare on stealth characteristics and patrol endurance rather than missile payload, as all Western SSBNs carry sufficient warheads for deterrent effect. Focus on acoustic signatures, maintenance cycles enabling continuous patrol rates, and command/control resilience rather than raw firepower metrics, since survivability and reliability matter more than magazine depth for strategic deterrence."
+  },
+  "curated_sources": [
+    {
+      "title": "The Silent Deep: The Royal Navy Submarine Service Since 1945 by Peter Hennessy and James Jinks",
+      "type": "book",
+      "url": "",
+      "relevance": "Authoritative account of Royal Navy submarine doctrine and the political-military context behind the Vanguard programme's development.",
+      "priority": "essential"
+    },
+    {
+      "title": "RUSI Defence Systems: UK Nuclear Deterrent",
+      "type": "report",
+      "url": "https://rusi.org/explore-our-research/publications/commentary/uk-nuclear-deterrent-capabilities-and-posture-review",
+      "relevance": "Leading UK defence analysis on contemporary deterrent policy and Vanguard operational employment.",
+      "priority": "essential"
+    },
+    {
+      "title": "Continuous at Sea Deterrence: Costs and Benefits by Hugh Chalmers",
+      "type": "report",
+      "url": "https://rusi.org/explore-our-research/publications/occasional-papers/continuous-sea-deterrence-costs-and-benefits",
+      "relevance": "RUSI analysis examining the doctrinal rationale and operational requirements for the UK's CASD patrol model.",
+      "priority": "recommended"
+    },
+    {
+      "title": "British Submarines at War: 1939-1945 by Norman Friedman",
+      "type": "book",
+      "url": "",
+      "relevance": "Provides historical context for Royal Navy submarine doctrine evolution leading to strategic deterrent requirements.",
+      "priority": "reference"
+    },
+    {
+      "title": "Nuclear Weapons After the Cold War by Stephen J. Cimbala",
+      "type": "book",
+      "url": "",
+      "relevance": "Explains the strategic nuclear doctrine context within which Vanguard-class submarines operate in the post-Cold War environment.",
+      "priority": "recommended"
+    },
+    {
+      "title": "Royal Navy Vanguard Class - Naval Technology",
+      "type": "database",
+      "url": "https://www.naval-technology.com/projects/vanguard/",
+      "relevance": "Comprehensive technical specifications and operational details for comparison with international SSBN capabilities.",
+      "priority": "reference"
+    },
+    {
+      "title": "UK Defence Nuclear Organisation",
+      "type": "analyst",
+      "url": "https://www.gov.uk/government/organisations/defence-nuclear-organisation",
+      "relevance": "Official source for UK nuclear doctrine and policy governing Vanguard-class operational employment.",
+      "priority": "recommended"
+    },
+    {
+      "title": "The Future of the UK Strategic Nuclear Deterrent by House of Commons Defence Committee",
+      "type": "report",
+      "url": "https://committees.parliament.uk/work/31/the-future-of-the-uk-strategic-nuclear-deterrent-the-white-paper/news/",
+      "relevance": "Parliamentary analysis of Vanguard replacement programme and evolving deterrent doctrine requirements.",
+      "priority": "essential"
+    }
+  ]
+}

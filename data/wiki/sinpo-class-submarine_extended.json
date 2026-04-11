@@ -1,0 +1,183 @@
+{
+  "combat_history": [
+    {
+      "date": "2016-04-23",
+      "operation": "SLBM Test",
+      "event": "First successful ejection test of Pukguksong-1 SLBM from submerged position, though missile failed during flight",
+      "significance": "Demonstrated basic SLBM launch capability and underwater ejection system functionality"
+    },
+    {
+      "date": "2016-08-24",
+      "operation": "SLBM Test",
+      "event": "Successful Pukguksong-1 test flight of approximately 500km from waters off Sinpo, landing in Japanese ADIZ",
+      "significance": "First successful North Korean SLBM flight test, proving basic sea-based nuclear delivery capability"
+    },
+    {
+      "date": "2019-10-02",
+      "operation": "Pukguksong-3 Test",
+      "event": "Test launch of improved Pukguksong-3 SLBM with estimated 1,900km range from Sinpo-class platform",
+      "significance": "Demonstrated evolution of SLBM capability and platform's continued use as test bed for advanced systems"
+    }
+  ],
+  "modernization": [
+    {
+      "program": "Sinpo-B Development",
+      "status": "in-progress",
+      "timeline": "2020-2025",
+      "description": "Development of larger follow-on submarine design with increased missile capacity and improved hull design",
+      "impact": "Next-generation platform expected to carry 2-3 SLBMs with improved range and stealth characteristics"
+    },
+    {
+      "program": "SLBM Modernization",
+      "status": "ongoing",
+      "timeline": "2019-present",
+      "description": "Continued testing and refinement of Pukguksong-series SLBMs including solid-fuel improvements",
+      "impact": "Enhanced missile reliability and range extending potential target set to include Guam and Alaska"
+    }
+  ],
+  "vulnerabilities": [
+    {
+      "area": "Acoustic signature",
+      "description": "Based on 1950s Romeo-class technology, likely has extremely poor acoustic stealth characteristics making detection relatively easy for modern ASW systems",
+      "context": "In ASW-dense environments like the Sea of Japan, platform would be highly vulnerable to detection and tracking",
+      "mitigation": "Limited - fundamental hull design constraints prevent significant acoustic improvements"
+    },
+    {
+      "area": "Limited operational range",
+      "description": "Estimated 1,500nm range severely constrains operational patrol areas and forces operations close to North Korean coast",
+      "context": "Platform cannot conduct true deterrent patrols in open ocean, limiting survivability and strategic value",
+      "mitigation": "Successor designs reportedly feature larger hulls with improved endurance"
+    },
+    {
+      "area": "Single missile capacity",
+      "description": "Carrying only 1-2 SLBMs limits strike capability and makes platform high-value target for limited deterrent effect",
+      "context": "Single hull loss would eliminate North Korea's operational SLBM capability entirely",
+      "mitigation": "Development of multiple follow-on platforms to distribute risk"
+    },
+    {
+      "area": "Technological limitations",
+      "description": "Limited indigenous submarine technology base results in reliability issues and maintenance challenges",
+      "context": "Platform availability likely severely limited by technical problems and maintenance requirements",
+      "mitigation": "Ongoing technology development and potential foreign assistance from China or Russia"
+    }
+  ],
+  "operational_patterns": {
+    "typical_deployment": "Short-range coastal patrols for SLBM testing and limited deterrent missions",
+    "deployment_length_months": 1,
+    "key_operating_areas": [
+      "Sea of Japan",
+      "Korean Bay",
+      "Coastal waters near Sinpo"
+    ],
+    "typical_task_group": "Operates independently with surface escort during major tests",
+    "readiness_notes": "Limited operational availability due to experimental nature and maintenance challenges"
+  },
+  "peer_comparisons": [
+    {
+      "platform": "Jin-class (Type 094)",
+      "country": "China",
+      "relationship": "regional equivalent",
+      "key_differences": "Jin-class carries 12 JL-2 SLBMs vs 1-2 Pukguksong missiles, has nuclear propulsion and significantly better range/endurance, but still considered relatively noisy by Western standards",
+      "video_angle": "Comparing Asian SSBN programs - China's mature capability vs North Korea's emerging deterrent"
+    },
+    {
+      "platform": "Kilo-class",
+      "country": "Russia",
+      "relationship": "technological predecessor",
+      "key_differences": "Kilo represents 1980s diesel-electric technology vs Sinpo's 1950s Romeo baseline, but lacks SLBM capability. Much quieter and more capable conventional submarine",
+      "video_angle": "How North Korea's isolation forces reliance on obsolete submarine technology"
+    },
+    {
+      "platform": "Soryu-class",
+      "country": "Japan",
+      "relationship": "regional counter",
+      "key_differences": "Soryu represents cutting-edge conventional submarine technology with AIP, advanced sonar, and exceptional stealth - complete opposite of Sinpo's crude but nuclear-capable design",
+      "video_angle": "Regional submarine arms race - Japan's defensive ASW capability vs North Korea's strategic deterrent"
+    },
+    {
+      "platform": "Romeo-class",
+      "country": "Soviet Union/China",
+      "relationship": "design predecessor",
+      "key_differences": "Sinpo is essentially a Romeo-class hull modified with missile launch capability - similar performance but adds SLBM launch tube and associated systems",
+      "video_angle": "From Cold War relic to nuclear deterrent - how North Korea modified obsolete technology"
+    }
+  ],
+  "search_keywords": [
+    "sinpo class",
+    "sinpo submarine",
+    "north korea submarine",
+    "pukguksong",
+    "kn-11",
+    "slbm",
+    "korean peoples navy",
+    "romeo mod",
+    "sinpo shipyard",
+    "north korea ballistic missile submarine"
+  ],
+  "images": [],
+  "doctrine": {
+    "role": "Technology demonstrator and proof-of-concept for sea-based nuclear deterrent, establishing credible second-strike capability while forcing adversaries to expand ASW operations beyond the Korean Peninsula.",
+    "employment": "Operates as a single experimental platform under direct Korean People's Navy submarine command, primarily conducting SLBM test launches in protected waters near North Korean coast. Employment doctrine emphasizes survivability through coastal bastion defense rather than open-ocean operations, leveraging shallow water acoustic advantages and land-based air defense coverage. Future operational employment would likely involve coordinated deployment with conventional submarines and surface combatants to create layered defense while transiting to launch positions.",
+    "design_philosophy": "Designers prioritized rapid SLBM capability development over operational effectiveness, accepting significant compromises in hull form, diving depth, and acoustic signature to achieve proof-of-concept status. The modified Romeo-class hull sacrificed optimal hydrodynamics and modern quieting technologies for construction simplicity and familiar maintenance procedures. This approach enabled faster development timeline but resulted in a platform more suitable for protected coastal operations than survivable strategic deterrent missions.",
+    "threat_context": "Designed during escalating tensions with US-ROK alliance when North Korea assessed need for survivable nuclear deterrent against potential preemptive strikes on land-based missiles. The threat environment has evolved to include enhanced US-Japan-ROK maritime cooperation, advanced P-8 Poseidon ASW coverage, and THAAD deployment, making coastal bastion strategy more challenging. Current threat context drives North Korea toward larger, more capable SLBM platforms while maintaining Sinpo-class as operational backup.",
+    "comparison_frame": "Compare on strategic impact and technological achievement rather than tactical capabilities - this platform's significance lies in crossing the SLBM threshold, not competing with contemporary SSBNs. Key dimensions are missile range, survivability in coastal waters, and symbolic deterrent value rather than blue-water endurance or acoustic signature. Assessment should focus on how successfully it demonstrates North Korean submarine-launched nuclear capability versus technical sophistication of the platform itself."
+  },
+  "curated_sources": [
+    {
+      "title": "North Korea's Military-Diplomatic Campaigns, 1966-2008",
+      "type": "book",
+      "url": "",
+      "relevance": "Provides historical context for North Korean naval strategy development and transition toward asymmetric deterrent capabilities.",
+      "priority": "recommended"
+    },
+    {
+      "title": "North Korea: U.S. Relations, Nuclear Diplomacy, and Internal Situation",
+      "type": "report",
+      "url": "https://crsreports.congress.gov/product/pdf/R/R41259",
+      "relevance": "CRS analysis of North Korean strategic weapons development including SLBM program context and implications.",
+      "priority": "essential"
+    },
+    {
+      "title": "38 North",
+      "type": "analyst",
+      "url": "https://www.38north.org/",
+      "relevance": "Leading analytical platform for North Korean military developments with detailed coverage of submarine and missile testing programs.",
+      "priority": "essential"
+    },
+    {
+      "title": "North Korea's Strategic Rocket Forces",
+      "type": "report",
+      "url": "https://www.csis.org/analysis/north-koreas-strategic-rocket-forces",
+      "relevance": "CSIS assessment of North Korean missile capabilities including submarine-launched systems and strategic implications.",
+      "priority": "recommended"
+    },
+    {
+      "title": "World Defence Almanac - North Korea Submarines",
+      "type": "database",
+      "url": "https://www.seaforces.org/marint/North-Korea-Navy/Submarine/Sinpo-class.htm",
+      "relevance": "Technical specifications and developmental history of Sinpo-class platform with comparative analysis.",
+      "priority": "reference"
+    },
+    {
+      "title": "The Military Balance 2023",
+      "type": "report",
+      "url": "",
+      "relevance": "IISS annual assessment including latest intelligence on North Korean submarine capabilities and fleet composition.",
+      "priority": "recommended"
+    },
+    {
+      "title": "North Korea's Nuclear Weapons: Technical Issues",
+      "type": "report",
+      "url": "https://crsreports.congress.gov/product/pdf/RL/RL34256",
+      "relevance": "Technical analysis of North Korean nuclear delivery systems including SLBM development and testing programs.",
+      "priority": "essential"
+    },
+    {
+      "title": "Korean People's Navy: Asymmetric Naval Force",
+      "type": "report",
+      "url": "https://www.usni.org/magazines/proceedings/2018/december/korean-peoples-navy-asymmetric-naval-force",
+      "relevance": "Naval Institute analysis of North Korean naval doctrine and force structure evolution toward asymmetric capabilities.",
+      "priority": "reference"
+    }
+  ]
+}

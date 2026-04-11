@@ -1,0 +1,488 @@
+{
+  "id": 55,
+  "slug": "charles-de-gaulle-carrier",
+  "name": "Charles de Gaulle",
+  "designation": "R 91",
+  "type": "carrier",
+  "country": "France",
+  "operator": "French Navy (Marine Nationale)",
+  "overview_md": "The Charles de Gaulle (R 91) is France's flagship aircraft carrier and the only nuclear-powered aircraft carrier outside of the US Navy fleet. Commissioned in 2001, she represents France's commitment to maintaining independent power projection capabilities and serves as the cornerstone of French naval aviation. With a displacement of 42,500 tonnes, she is significantly smaller than American supercarriers but larger than most other nations' carriers.\n\nStrategically, Charles de Gaulle enables France to project air power globally without dependence on foreign bases or alliances, supporting France's foreign policy autonomy. Her nuclear propulsion provides virtually unlimited range and high-speed transit capabilities, though her compact size limits aircraft capacity to around 40 aircraft compared to 75+ on American carriers. The flight deck design accommodates both French Rafale M fighters and various NATO aircraft types.\n\nIn the current threat environment, Charles de Gaulle provides France with credible power projection against medium-tier threats and supports coalition operations in contested environments. Her integrated air defense systems and nuclear propulsion make her less vulnerable to conventional threats than conventional carriers, though her singular status means France has no carrier capability during her regular 18-month refit cycles.\n\nCompared to peers, Charles de Gaulle represents the middle tier of carrier aviation - more capable than STOBAR carriers like India's Vikramaditya or China's early carriers, but significantly smaller and less capable than American Nimitz or Ford-class carriers. Her nuclear propulsion gives her an advantage over conventional carriers like the UK's Queen Elizabeth class in terms of operational endurance and speed.",
+  "specs_json": {
+    "displacement_tonnes": 42500,
+    "length_m": 261.5,
+    "beam_m": 64.36,
+    "draft_m": 9.43,
+    "speed_knots": 27,
+    "range_nm": 0,
+    "crew": 1950,
+    "propulsion": "2x K15 pressurized water reactors, 2x steam turbines, 76,200 shp",
+    "radar": "DRBJ-11B 3D air search radar, DRBV-15C Sea Tiger surface search",
+    "sonar": "DUBV-24C hull-mounted sonar",
+    "combat_system": "SENIT 8 combat management system",
+    "vls_cells": 0,
+    "additional": {
+      "aircraft_capacity": 40,
+      "catapults": 2,
+      "elevators": 2,
+      "hangar_area_m2": 4600,
+      "aviation_fuel_tonnes": 1400,
+      "nuclear_refuel_interval_years": 10
+    }
+  },
+  "armament_json": [
+    {
+      "category": "SAM",
+      "name": "Aster 15",
+      "type": "surface-to-air missile",
+      "quantity": "2x Sylver A-43 VLS (32 cells total)",
+      "range_km": 30,
+      "notes": "Point defense against aircraft and missiles"
+    },
+    {
+      "category": "CIWS",
+      "name": "Goalkeeper",
+      "type": "close-in weapons system",
+      "quantity": "2x 30mm",
+      "range_km": 2,
+      "notes": "Last-ditch missile defense"
+    },
+    {
+      "category": "Guns",
+      "name": "20F2 naval gun",
+      "type": "naval gun",
+      "quantity": "8x 20mm",
+      "range_km": 2,
+      "notes": "Anti-aircraft and small boat defense"
+    },
+    {
+      "category": "Aircraft",
+      "name": "Rafale M",
+      "type": "multirole fighter",
+      "quantity": "24-30",
+      "range_km": 1850,
+      "notes": "Primary strike fighter with air-to-air and air-to-surface capability"
+    },
+    {
+      "category": "Aircraft",
+      "name": "E-2C Hawkeye",
+      "type": "airborne early warning",
+      "quantity": "2-3",
+      "range_km": 460,
+      "notes": "Airborne radar and command platform"
+    }
+  ],
+  "variants_json": [
+    {
+      "name": "Initial Configuration",
+      "designation_range": "R 91",
+      "years": "2001-2007",
+      "count": 1,
+      "key_changes": "Original configuration with DRBJ-11B radar, basic SENIT combat system",
+      "status": "upgraded"
+    },
+    {
+      "name": "Mid-Life Upgrade",
+      "designation_range": "R 91",
+      "years": "2017-2018",
+      "count": 1,
+      "key_changes": "Upgraded SENIT 8 combat system, improved communications, structural reinforcements",
+      "status": "active"
+    }
+  ],
+  "fleet_status_json": [
+    {
+      "hull_number": "R 91",
+      "name": "Charles de Gaulle",
+      "variant": "Mid-Life Upgrade",
+      "commissioned": "2001-05-18",
+      "home_port": "Toulon Naval Base",
+      "status": "active"
+    }
+  ],
+  "cost_usd": 4200000000.0,
+  "unit_count": 1,
+  "first_commissioned": "2001-05-18",
+  "builder": "DCN Brest (now Naval Group)",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/fe/French_aircraft_carrier_Charles_de_Gaulle_%28R91%29_underway_in_the_Ionian_Sea_on_17_March_2022_%28220317-N-DH793-1322%29cropped.JPG",
+  "wiki_url": "https://en.wikipedia.org/wiki/French_aircraft_carrier_Charles_de_Gaulle",
+  "sources_json": [
+    "https://en.wikipedia.org/wiki/French_aircraft_carrier_Charles_de_Gaulle",
+    "https://www.defense.gouv.fr/marine",
+    "https://www.naval-technology.com/projects/charles_de_gaulle/",
+    "https://www.janes.com/defence-news"
+  ],
+  "comparison_tags": [
+    "carrier",
+    "nuclear-powered",
+    "catobar",
+    "french-navy",
+    "power-projection"
+  ],
+  "created_at": "2026-04-10 20:23:48",
+  "updated_at": "2026-04-10T20:23:48.109627",
+  "news": [],
+  "events": [],
+  "ic_coverage": [],
+  "combat_history": [
+    {
+      "date": "2001-12",
+      "operation": "Operation Enduring Freedom",
+      "event": "First operational deployment supporting operations in Afghanistan. Rafale M conducted combat air patrols and reconnaissance missions over Afghanistan from Arabian Sea.",
+      "significance": "First combat deployment demonstrated nuclear carrier's expeditionary capabilities and Rafale M combat effectiveness"
+    },
+    {
+      "date": "2011-03",
+      "operation": "Operation Harmattan",
+      "event": "Led French naval operations during Libya intervention. Aircraft conducted over 840 combat sorties, including precision strikes against Gaddafi forces.",
+      "significance": "Proved carrier's ability to sustain high-tempo operations and lead coalition naval air power"
+    },
+    {
+      "date": "2015-11",
+      "operation": "Operation Chammal",
+      "event": "Deployed to Eastern Mediterranean and Persian Gulf following Paris attacks. Rafale M conducted strikes against ISIS targets in Iraq and Syria.",
+      "significance": "Demonstrated rapid response capability and sustained strike operations against terrorist targets"
+    },
+    {
+      "date": "2019-04",
+      "operation": "Operation Chammal",
+      "event": "Extended deployment supporting anti-ISIS operations, conducting over 350 combat missions from Persian Gulf position.",
+      "significance": "Showed sustained operational tempo and logistics capability in distant theater"
+    }
+  ],
+  "modernization": [
+    {
+      "program": "NAWARS (Naval Airborne Warfare And Reconnaissance System)",
+      "status": "in-progress",
+      "timeline": "2023-2025",
+      "description": "Integration of new satellite communications, Link 16 tactical data links, and improved electronic warfare systems.",
+      "impact": "Enhanced networking with allied forces and improved electronic warfare capability"
+    },
+    {
+      "program": "Nuclear Reactor Refueling",
+      "status": "planned",
+      "timeline": "2025-2026",
+      "description": "Major refit including nuclear fuel replacement, reactor maintenance, and systems upgrades during 15-month availability.",
+      "impact": "Extends operational life and provides opportunity for major system upgrades"
+    },
+    {
+      "program": "PANG (Porte-Avions de Nouvelle G\u00e9n\u00e9ration)",
+      "status": "planned",
+      "timeline": "2038-2040",
+      "description": "Next-generation nuclear aircraft carrier to replace Charles de Gaulle, larger and more capable design.",
+      "impact": "Will provide increased aircraft capacity and modernized systems for future decades"
+    }
+  ],
+  "vulnerabilities": [
+    {
+      "area": "Single point of failure",
+      "description": "France has no carrier capability when Charles de Gaulle is in refit, creating 18-month gaps in carrier aviation every 7-8 years.",
+      "context": "Limits French power projection and makes planning around refit cycles critical for operations",
+      "mitigation": "PANG program may include second carrier, but currently no concrete plans for two-carrier fleet"
+    },
+    {
+      "area": "Limited aircraft capacity",
+      "description": "40-aircraft capacity significantly smaller than US carriers (75+), limiting strike package size and sustained operations tempo.",
+      "context": "Reduces ability to conduct simultaneous air defense, strike, and support missions compared to larger carriers",
+      "mitigation": "Efficient aircraft mix and cooperation with land-based air power partially compensates"
+    },
+    {
+      "area": "Propulsion shaft problems",
+      "description": "Recurring issues with propeller shaft design have limited maximum speed and required multiple repairs.",
+      "context": "Reduces tactical mobility and creates maintenance vulnerabilities during high-tempo operations",
+      "mitigation": "Modifications made during refits, but fundamental design issues persist"
+    },
+    {
+      "area": "Limited missile defense",
+      "description": "Only 32 VLS cells with Aster 15 provides limited protection against saturation missile attacks compared to escort vessels.",
+      "context": "Requires close coordination with escort vessels for protection against modern anti-ship missile threats",
+      "mitigation": "Operates within task group with dedicated air defense vessels"
+    }
+  ],
+  "operational_patterns": {
+    "typical_deployment": "Task Force 473 operations with escort vessels, power projection missions in Mediterranean, Indian Ocean, or Pacific",
+    "deployment_length_months": 6,
+    "key_operating_areas": [
+      "Mediterranean Sea",
+      "Persian Gulf",
+      "Indian Ocean",
+      "West Africa"
+    ],
+    "typical_task_group": "FREMM frigates, Horizon-class destroyers, nuclear attack submarine, replenishment ship",
+    "readiness_notes": "18-month refit cycle every 7-8 years creates capability gaps; propulsion issues occasionally limit speed"
+  },
+  "peer_comparisons": [
+    {
+      "platform": "HMS Queen Elizabeth",
+      "country": "United Kingdom",
+      "relationship": "allied equivalent",
+      "key_differences": "Queen Elizabeth is larger (65,000 tons) with more aircraft capacity but conventional propulsion and STOBAR operation vs CATOBAR. Nuclear power gives Charles de Gaulle unlimited range and higher sustained speed.",
+      "video_angle": "Nuclear vs conventional carriers: operational trade-offs and strategic implications"
+    },
+    {
+      "platform": "INS Vikramaditya",
+      "country": "India",
+      "relationship": "peer competitor",
+      "key_differences": "Similar size but STOBAR operation limits aircraft performance. Charles de Gaulle's CATOBAR system and nuclear propulsion provide significantly better power projection capability despite similar displacement.",
+      "video_angle": "CATOBAR vs STOBAR: why catapults matter for carrier effectiveness"
+    },
+    {
+      "platform": "Shandong (Type 002)",
+      "country": "China",
+      "relationship": "peer competitor",
+      "key_differences": "Shandong is larger (70,000 tons) but uses STOBAR operation. Charles de Gaulle's nuclear propulsion and CATOBAR system provide qualitative advantages despite smaller size and aircraft capacity.",
+      "video_angle": "European vs Chinese carrier development: different approaches to naval aviation"
+    },
+    {
+      "platform": "Nimitz-class",
+      "country": "United States",
+      "relationship": "allied benchmark",
+      "key_differences": "Nimitz carriers are twice the size (100,000+ tons) with nearly double aircraft capacity. Charles de Gaulle represents 'minimum viable' nuclear carrier capability compared to American supercarrier standard.",
+      "video_angle": "Supercarrier vs medium carrier: cost-effectiveness and strategic utility comparison"
+    },
+    {
+      "platform": "Admiral Kuznetsov",
+      "country": "Russia",
+      "relationship": "peer competitor",
+      "key_differences": "Similar vintage but conventional propulsion and reliability issues. Charles de Gaulle has demonstrated consistent operational availability while Kuznetsov has spent years in refit with uncertain status.",
+      "video_angle": "Tale of two carriers: French success vs Russian struggles in carrier operations"
+    }
+  ],
+  "search_keywords": [
+    "charles de gaulle",
+    "R 91",
+    "R91",
+    "french carrier",
+    "french aircraft carrier",
+    "nuclear carrier",
+    "rafale m",
+    "marine nationale",
+    "task force 473"
+  ],
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/31_-_Toulouse_-_Square_Charles-de-Gaulle_-_Statue_de_Claude_Nougaro_-_S%C3%A9bastien_Langlo%C3%BFs.jpg/1280px-31_-_Toulouse_-_Square_Charles-de-Gaulle_-_Statue_de_Claude_Nougaro_-_S%C3%A9bastien_Langlo%C3%BFs.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/31_-_Toulouse_-_Square_Charles-de-Gaulle_-_Statue_de_Claude_Nougaro_-_S%C3%A9bastien_Langlo%C3%BFs.jpg",
+      "width": 2583,
+      "height": 3106,
+      "title": "31 - Toulouse - Square Charles-de-Gaulle - Statue de Claude Nougaro - S\u00e9bastien Langlo\u00ffs.jpg",
+      "description": "",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/99/Charles_De_Gaulle_%28R91%29_underway_2009.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/99/Charles_De_Gaulle_%28R91%29_underway_2009.jpg",
+      "width": 790,
+      "height": 570,
+      "title": "Charles De Gaulle (R91) underway 2009.jpg",
+      "description": "The French aircraft carrier <a href=\"https://en.wikipedia.org/wiki/French_aircraft_carrier_Charles_de_Gaulle_(R91)\" class=\"extiw\" title=\"en:French aircraft carrier Charles de Gaulle (R91)\"><i>Charles ",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/50/Charles_de_Gaulle_aircraft_carrier_model.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/50/Charles_de_Gaulle_aircraft_carrier_model.jpg",
+      "width": 1024,
+      "height": 401,
+      "title": "Charles de Gaulle aircraft carrier model.jpg",
+      "description": "model of French Aircraft carrier Charles de Gaull. Model at entrance hall of CEA centre",
+      "license": "CC BY-SA 3.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/French_aircraft_carrier_Charles_de_Gaulle_%28R91%29_underway_on_24_April_2019_%28190424-M-BP588-1005%29.jpg/1280px-French_aircraft_carrier_Charles_de_Gaulle_%28R91%29_underway_on_24_April_2019_%28190424-M-BP588-1005%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/d5/French_aircraft_carrier_Charles_de_Gaulle_%28R91%29_underway_on_24_April_2019_%28190424-M-BP588-1005%29.jpg",
+      "width": 1660,
+      "height": 935,
+      "title": "French aircraft carrier Charles de Gaulle (R91) underway on 24 April 2019 (190424-M-BP588-1005).jpg",
+      "description": "1A U.S. Marine MV-22 <i>Osprey</i> sits on the flight deck of the French aircraft carrier <i>Charles de Gaulle</i> (R91) on 24 April 2019.",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/HMS_Northumberland_with_French_Aircraft_Carrier_Charles_de_Gaulle_MOD_45154575.jpg/1280px-HMS_Northumberland_with_French_Aircraft_Carrier_Charles_de_Gaulle_MOD_45154575.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/d3/HMS_Northumberland_with_French_Aircraft_Carrier_Charles_de_Gaulle_MOD_45154575.jpg",
+      "width": 2709,
+      "height": 1806,
+      "title": "HMS Northumberland with French Aircraft Carrier Charles de Gaulle MOD 45154575.jpg",
+      "description": "Royal Navy Type 23 frigate HMS Montrose (foreground) is pictured with the nuclear powered aircraft carrier and flagship of the French Navy, Charles de Gaulle.\n<p>British and French maritime forces wer",
+      "license": "OGL 3",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Monument_au_g%C3%A9n%C3%A9ral_Charles_de_Gaulle_%28S%C3%A9lestat%29_%281%29.jpg/1280px-Monument_au_g%C3%A9n%C3%A9ral_Charles_de_Gaulle_%28S%C3%A9lestat%29_%281%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Monument_au_g%C3%A9n%C3%A9ral_Charles_de_Gaulle_%28S%C3%A9lestat%29_%281%29.jpg",
+      "width": 4500,
+      "height": 3648,
+      "title": "Monument au g\u00e9n\u00e9ral Charles de Gaulle (S\u00e9lestat) (1).jpg",
+      "description": "Monument to General Charles de Gaulle in S\u00e9lestat (Bas-Rhin, France).",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Monument_au_g%C3%A9n%C3%A9ral_Charles_de_Gaulle_%28S%C3%A9lestat%29_%282%29.jpg/1280px-Monument_au_g%C3%A9n%C3%A9ral_Charles_de_Gaulle_%28S%C3%A9lestat%29_%282%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/91/Monument_au_g%C3%A9n%C3%A9ral_Charles_de_Gaulle_%28S%C3%A9lestat%29_%282%29.jpg",
+      "width": 5472,
+      "height": 3648,
+      "title": "Monument au g\u00e9n\u00e9ral Charles de Gaulle (S\u00e9lestat) (2).jpg",
+      "description": "Monument to General Charles de Gaulle in S\u00e9lestat (Bas-Rhin, France).",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Paris-Charles_de_Gaulle_Airport_Boeing_747.jpg/1280px-Paris-Charles_de_Gaulle_Airport_Boeing_747.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/88/Paris-Charles_de_Gaulle_Airport_Boeing_747.jpg",
+      "width": 3732,
+      "height": 2096,
+      "title": "Paris-Charles de Gaulle Airport Boeing 747.jpg",
+      "description": "Paris-Charles de Gaulle Airport Airbus",
+      "license": "CC BY-SA 3.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/00/Army_Navy_2010-_91_%285259080647%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/00/Army_Navy_2010-_91_%285259080647%29.jpg",
+      "width": 640,
+      "height": 457,
+      "title": "Army Navy 2010- 91 (5259080647).jpg",
+      "description": "Army hosted Navy in the 111th Army-Navy Game at Lincoln Financial Field in Philadelphia, Pa., on December 11. The Naval Academy beat West Point for the ninth straight time, 31-17, in front of more tha",
+      "license": "CC BY 2.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Flickr_-_Official_U.S._Navy_Imagery_-_USS_Kidd_%28DDG_100%29%2C_USS_Dewey_%28DDG_105%29%2C_and_USS_Pinckney_%28DDG_91%29_are_underway_in_the_Pacific_Ocean..jpg/1280px-Flickr_-_Official_U.S._Navy_Imagery_-_USS_Kidd_%28DDG_100%29%2C_USS_Dewey_%28DDG_105%29%2C_and_USS_Pinckney_%28DDG_91%29_are_underway_in_the_Pacific_Ocean..jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/10/Flickr_-_Official_U.S._Navy_Imagery_-_USS_Kidd_%28DDG_100%29%2C_USS_Dewey_%28DDG_105%29%2C_and_USS_Pinckney_%28DDG_91%29_are_underway_in_the_Pacific_Ocean..jpg",
+      "width": 2100,
+      "height": 1500,
+      "title": "Flickr - Official U.S. Navy Imagery - USS Kidd (DDG 100), USS Dewey (DDG 105), and USS Pinckney (DDG 91) are underway in the Pacific Ocean..jpg",
+      "description": "PACIFIC OCEAN (Feb. 22, 2012) The Arleigh Burke-class destroyers USS Kidd (DDG 100), USS Dewey (DDG 105), and USS Pinckney (DDG 91) are underway in the Pacific Ocean with the John C. Stennis Carrier S",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/US_Navy_030321-N-0780F-032_FS_Charles_de_Gaulle_%28R_91%29_arrives_for_a_port_visit.jpg/1280px-US_Navy_030321-N-0780F-032_FS_Charles_de_Gaulle_%28R_91%29_arrives_for_a_port_visit.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/dd/US_Navy_030321-N-0780F-032_FS_Charles_de_Gaulle_%28R_91%29_arrives_for_a_port_visit.jpg",
+      "width": 1500,
+      "height": 2190,
+      "title": "US Navy 030321-N-0780F-032 FS Charles de Gaulle (R 91) arrives for a port visit.jpg",
+      "description": "Souda Bay, Crete, Greece (Mar. 21, 2003) -- Mineman Seaman Juan Salazar (left) and Master at Arms Seaman Martin McDonnell assigned to Naval Support Activity Souda Bay's Security Department stand a sec",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/US_Navy_070412-N-7498L-018_A_French_Super-Etendard_from_the_nuclear-powered_aircraft_carrier_French_Navy_Ship_Charles_de_Gaulle_%28R_91%29_performs_a_touch-and-go_landing_on_the_flight_deck_of_the_Nimitz-class_aircraft_carrier_USS.jpg/1280px-thumbnail.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/24/US_Navy_070412-N-7498L-018_A_French_Super-Etendard_from_the_nuclear-powered_aircraft_carrier_French_Navy_Ship_Charles_de_Gaulle_%28R_91%29_performs_a_touch-and-go_landing_on_the_flight_deck_of_the_Nimitz-class_aircraft_carrier_USS.jpg",
+      "width": 2256,
+      "height": 1496,
+      "title": "US Navy 070412-N-7498L-018 A French Super-Etendard from the nuclear-powered aircraft carrier French Navy Ship Charles de Gaulle (R 91) performs a touch-and-go landing on the flight deck of the Nimitz-class aircraft carrier USS.jpg",
+      "description": "ARABIAN SEA (April 12, 2007) - A French Super-Etendard from the nuclear-powered aircraft carrier French Navy Ship Charles de Gaulle (R 91) performs a touch-and-go landing on the flight deck of the Nim",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/US_Navy_100613-N-7317W-002_A_Sailor_looks_toward_the_French_navy_aircraft_carrier_Charles_De_Gaulle_%28R_91%29_from_the_Nimitz-class_aircraft_carrier_USS_Harry_S._Truman_%28CVN_75%29.jpg/1280px-thumbnail.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/55/US_Navy_100613-N-7317W-002_A_Sailor_looks_toward_the_French_navy_aircraft_carrier_Charles_De_Gaulle_%28R_91%29_from_the_Nimitz-class_aircraft_carrier_USS_Harry_S._Truman_%28CVN_75%29.jpg",
+      "width": 2100,
+      "height": 1340,
+      "title": "US Navy 100613-N-7317W-002 A Sailor looks toward the French navy aircraft carrier Charles De Gaulle (R 91) from the Nimitz-class aircraft carrier USS Harry S. Truman (CVN 75).jpg",
+      "description": "HYERES, France (June 13, 2010) A Sailor looks toward the French navy aircraft carrier Charles De Gaulle (R 91) from the Nimitz-class aircraft carrier USS Harry S. Truman (CVN 75) as they are at anchor",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/US_Navy_100719-N-8273J-004_Chief_of_Naval_Operations_%28CNO%29_Adm._Gary_Roughead_tours_a_weapons_room_aboard_the_French_navy_aircraft_carrier_PA_Charles_de_Gaulle_%28R_91%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/US_Navy_100719-N-8273J-004_Chief_of_Naval_Operations_%28CNO%29_Adm._Gary_Roughead_tours_a_weapons_room_aboard_the_French_navy_aircraft_carrier_PA_Charles_de_Gaulle_%28R_91%29.jpg",
+      "width": 900,
+      "height": 596,
+      "title": "US Navy 100719-N-8273J-004 Chief of Naval Operations (CNO) Adm. Gary Roughead tours a weapons room aboard the French navy aircraft carrier PA Charles de Gaulle (R 91).jpg",
+      "description": "TOULON, France (July 19, 2010) Chief of Naval Operations (CNO) Adm. Gary Roughead tours a weapons room aboard the French navy aircraft carrier PA Charles de Gaulle (R 91). (U.S. Navy photo by Mass Com",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/US_Navy_101210-N-1261P-028_The_aircraft_carrier_USS_Abraham_Lincoln_%28CVN_72%29%2C_back%2C_and_the_French_navy_aircraft_carrier_Charles_De_Gaulle_%28R_91%29_a.jpg/1280px-US_Navy_101210-N-1261P-028_The_aircraft_carrier_USS_Abraham_Lincoln_%28CVN_72%29%2C_back%2C_and_the_French_navy_aircraft_carrier_Charles_De_Gaulle_%28R_91%29_a.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/1e/US_Navy_101210-N-1261P-028_The_aircraft_carrier_USS_Abraham_Lincoln_%28CVN_72%29%2C_back%2C_and_the_French_navy_aircraft_carrier_Charles_De_Gaulle_%28R_91%29_a.jpg",
+      "width": 2100,
+      "height": 1500,
+      "title": "US Navy 101210-N-1261P-028 The aircraft carrier USS Abraham Lincoln (CVN 72), back, and the French navy aircraft carrier Charles De Gaulle (R 91) a.jpg",
+      "description": "ARABIAN SEA (Dec. 10, 2010) The aircraft carrier USS Abraham Lincoln (CVN 72), back, and the French navy aircraft carrier Charles De Gaulle (R 91) are underway together in the Arabian Sea. Abraham Lin",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/US_Navy_101210-N-1261P-035_USS_Abraham_Lincoln_%28CVN_72%29_and_Charles_De_Gaulle_%28R_91%29_join_together_for_a_United_States_and_France_Navy_photo_opport.jpg/1280px-US_Navy_101210-N-1261P-035_USS_Abraham_Lincoln_%28CVN_72%29_and_Charles_De_Gaulle_%28R_91%29_join_together_for_a_United_States_and_France_Navy_photo_opport.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/US_Navy_101210-N-1261P-035_USS_Abraham_Lincoln_%28CVN_72%29_and_Charles_De_Gaulle_%28R_91%29_join_together_for_a_United_States_and_France_Navy_photo_opport.jpg",
+      "width": 2100,
+      "height": 1500,
+      "title": "US Navy 101210-N-1261P-035 USS Abraham Lincoln (CVN 72) and Charles De Gaulle (R 91) join together for a United States and France Navy photo opport.jpg",
+      "description": "ARABIAN SEA (Dec. 10, 2010) USS Abraham Lincoln (CVN 72) and Charles De Gaulle (R 91) join together for a United States and France Navy photo opportunity in the Arabian Sea. Lincoln is currently deplo",
+      "license": "Public domain",
+      "source": "wikimedia"
+    }
+  ],
+  "doctrine": {
+    "role": "Independent power projection and crisis response outside NATO framework, enabling France to conduct autonomous military interventions in Africa, Mediterranean, and Indo-Pacific without relying on allied carrier support.",
+    "employment": "Operates as flagship of a carrier battle group (Groupe A\u00e9ronaval) typically including 2-3 escorts, 1-2 submarines, and a replenishment vessel. Deploys for 4-month rotations supporting operations in Sahel, Levant, or Indo-Pacific, with air wing tailored to specific mission requirements. Commands joint task forces during major interventions, integrating with amphibious forces for expeditionary operations. Maintains nuclear deterrent patrol capability as secondary mission.",
+    "design_philosophy": "Prioritized nuclear propulsion for strategic autonomy and unlimited range over size and aircraft capacity, accepting a smaller air wing (40 aircraft vs 75+ on US carriers) to achieve this independence. Designed for quality over quantity approach - sophisticated systems and flexible mission capabilities rather than maximum sortie generation rates.",
+    "threat_context": "Designed during post-Cold War period for expeditionary operations against regional powers and non-state actors, with emphasis on precision strike and air superiority in permissive environments. Current threat evolution toward great power competition and A2/AD environments challenges original assumptions about operating close to contested littorals.",
+    "comparison_frame": "Compare on strategic mobility and operational flexibility rather than raw capacity - nuclear propulsion and deployment frequency matter more than aircraft numbers. Focus on air wing composition versatility and integration with French expeditionary doctrine versus pure sortie generation rates or deck space."
+  },
+  "curated_sources": [
+    {
+      "title": "French Naval Aviation: From the Aeronavale to the Charles de Gaulle",
+      "type": "book",
+      "url": "",
+      "relevance": "Comprehensive analysis of French carrier aviation doctrine and the strategic rationale behind the Charles de Gaulle design decisions.",
+      "priority": "essential"
+    },
+    {
+      "title": "France's Military Interventions: Patterns, Drivers and Challenges",
+      "type": "report",
+      "url": "https://www.rusi.org/explore-our-research/publications/rusi-newsbrief/frances-military-interventions-patterns-drivers-and-challenges",
+      "relevance": "RUSI analysis explaining how Charles de Gaulle enables France's independent intervention strategy in Africa and beyond.",
+      "priority": "essential"
+    },
+    {
+      "title": "Milan Vego - Naval Strategy and Operations in Narrow Seas",
+      "type": "book",
+      "url": "",
+      "relevance": "Provides doctrinal framework for understanding carrier operations in Mediterranean and confined waters where Charles de Gaulle frequently operates.",
+      "priority": "recommended"
+    },
+    {
+      "title": "Center for Strategic and International Studies - European Military Capabilities",
+      "type": "analyst",
+      "url": "https://www.csis.org/programs/international-security-program/europe-program",
+      "relevance": "Leading source for analysis of French military capabilities and European defense industrial issues affecting carrier modernization.",
+      "priority": "recommended"
+    },
+    {
+      "title": "Naval Technology - Charles de Gaulle Aircraft Carrier",
+      "type": "database",
+      "url": "https://www.naval-technology.com/projects/charles/",
+      "relevance": "Detailed technical specifications and systems overview for understanding platform capabilities and limitations.",
+      "priority": "reference"
+    },
+    {
+      "title": "French Navy Official - Marine Nationale Doctrine",
+      "type": "report",
+      "url": "https://www.defense.gouv.fr/english/marine",
+      "relevance": "Official French naval doctrine explaining the strategic role of the carrier battle group in national defense strategy.",
+      "priority": "essential"
+    },
+    {
+      "title": "International Institute for Strategic Studies - The Military Balance",
+      "type": "database",
+      "url": "https://www.iiss.org/publications/the-military-balance",
+      "relevance": "Annual assessment of Charles de Gaulle operational status, air wing composition, and comparative analysis with allied carriers.",
+      "priority": "reference"
+    },
+    {
+      "title": "Fondation pour la Recherche Strat\u00e9gique - French Defense Analysis",
+      "type": "analyst",
+      "url": "https://www.frstrategie.org/en",
+      "relevance": "Premier French defense think tank providing insider analysis of carrier operations and future PANG carrier program implications.",
+      "priority": "recommended"
+    }
+  ]
+}

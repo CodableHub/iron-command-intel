@@ -1,0 +1,277 @@
+{
+  "combat_history": [
+    {
+      "date": "2022-07",
+      "operation": "Malabar 2022",
+      "event": "INS Visakhapatnam participated in Quad naval exercises with USN, JMSDF, and RAN forces, demonstrating interoperability with allied navies",
+      "significance": "First operational deployment showcasing integration with Western naval forces and validating multi-domain warfare capabilities"
+    },
+    {
+      "date": "2023-04",
+      "operation": "Operation Sankalp",
+      "event": "INS Mormugao deployed to Persian Gulf for maritime security operations, conducting merchant vessel escorts and presence patrols",
+      "significance": "Demonstrated long-range deployment capability and operational readiness for extended missions away from home waters"
+    }
+  ],
+  "modernization": [
+    {
+      "program": "Project 15C development",
+      "status": "planned",
+      "timeline": "2025-2035",
+      "description": "Next-generation destroyer incorporating lessons from 15B, likely featuring indigenous gas turbines, advanced EW systems, and enhanced missile capacity",
+      "impact": "Will address current limitations in indigenous propulsion and expand VLS cell count for greater firepower"
+    },
+    {
+      "program": "BrahMos-ER integration",
+      "status": "in-progress",
+      "timeline": "2024-2026",
+      "description": "Integration of extended-range BrahMos variant with 450km+ range, requiring software upgrades to fire control systems",
+      "impact": "Significantly extends strike range, enabling engagement of targets across Pakistani coast and Chinese facilities in Indian Ocean"
+    }
+  ],
+  "vulnerabilities": [
+    {
+      "area": "Limited VLS capacity",
+      "description": "Only 32 Barak-8 cells compared to 64-96 on peer destroyers, limiting sustained air defense capability",
+      "context": "Critical weakness against massed aerial attacks, particularly Chinese saturation missile strikes",
+      "mitigation": "Reliance on layered defense with accompanying frigates and shore-based systems"
+    },
+    {
+      "area": "Propulsion reliability",
+      "description": "Mixed Ukrainian-American gas turbine setup creates maintenance and spare parts challenges, particularly given Ukraine conflict",
+      "context": "Potential operational readiness issues during extended conflicts or sanctions",
+      "mitigation": "Development of indigenous gas turbines for future classes, stockpiling critical spares"
+    },
+    {
+      "area": "Electronic warfare systems",
+      "description": "EW capabilities appear limited compared to Chinese Type 055 or US Arleigh Burke Flight III",
+      "context": "Vulnerability to sophisticated electronic attacks in contested environments",
+      "mitigation": "Ongoing indigenous EW system development programs"
+    }
+  ],
+  "operational_patterns": {
+    "typical_deployment": "Carrier task group escort, independent patrol missions in Indian Ocean, bilateral/multilateral exercises",
+    "deployment_length_months": 4,
+    "key_operating_areas": [
+      "Arabian Sea",
+      "Bay of Bengal",
+      "Central Indian Ocean",
+      "Persian Gulf"
+    ],
+    "typical_task_group": "Operates with Kolkata-class destroyers, Shivalik-class frigates, and fleet support vessels",
+    "readiness_notes": "High operational tempo with limited numbers strains maintenance schedules; extended construction times impact fleet availability"
+  },
+  "peer_comparisons": [
+    {
+      "platform": "Type 052D Luyang III-class",
+      "country": "China",
+      "relationship": "direct rival",
+      "key_differences": "Type 052D has 64 VLS cells vs 32+16 on Visakhapatnam, but Indian ship has superior supersonic anti-ship missiles and comparable radar systems",
+      "video_angle": "Indo-Pacific destroyer showdown: quantity vs quality in naval arms race"
+    },
+    {
+      "platform": "Sejong the Great-class (KDX-III)",
+      "country": "South Korea",
+      "relationship": "comparable capability",
+      "key_differences": "Korean ships are larger with 128 VLS cells and Aegis system, but Visakhapatnam has indigenous design and BrahMos advantage",
+      "video_angle": "Asian naval powers: different approaches to indigenous destroyer development"
+    },
+    {
+      "platform": "Atago-class",
+      "country": "Japan",
+      "relationship": "regional peer",
+      "key_differences": "Atago has superior Aegis BMD capability and larger VLS capacity, but Visakhapatnam has better anti-ship firepower and indigenous systems",
+      "video_angle": "Quad partners: comparing Japanese and Indian destroyer philosophies"
+    },
+    {
+      "platform": "Adelaide-class (Hunter-class)",
+      "country": "Australia",
+      "relationship": "allied equivalent",
+      "key_differences": "Future Hunter-class will be ASW-focused frigates vs multi-role destroyer, but both emphasize regional security partnerships",
+      "video_angle": "Quad naval modernization: different platforms, shared mission"
+    },
+    {
+      "platform": "Type 45 Daring-class",
+      "country": "United Kingdom",
+      "relationship": "capability comparison",
+      "key_differences": "Type 45 has superior air defense radar and longer range, but lacks anti-ship missiles and has propulsion reliability issues",
+      "video_angle": "Commonwealth navies: British experience vs Indian ambition"
+    }
+  ],
+  "search_keywords": [
+    "visakhapatnam class",
+    "project 15b",
+    "project 15B",
+    "INS Visakhapatnam",
+    "INS Mormugao",
+    "INS Imphal",
+    "INS Surat",
+    "indian navy destroyer",
+    "brahmos missile",
+    "indigenous destroyer",
+    "MDL destroyer",
+    "MF-STAR radar"
+  ],
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/An_inert_Phoenix_missile_nestled_under_the_fuselage_of_NASA_Dryden%27s_F-15B_aircraft_is_being_studied_as_a_possible_test_vehicle_to_obtain_hypersonic_data_%28ED06-0217-37%29.jpg/1280px-thumbnail.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/7d/An_inert_Phoenix_missile_nestled_under_the_fuselage_of_NASA_Dryden%27s_F-15B_aircraft_is_being_studied_as_a_possible_test_vehicle_to_obtain_hypersonic_data_%28ED06-0217-37%29.jpg",
+      "width": 3000,
+      "height": 1993,
+      "title": "An inert Phoenix missile nestled under the fuselage of NASA Dryden's F-15B aircraft is being studied as a possible test vehicle to obtain hypersonic data (ED06-0217-37).jpg",
+      "description": "An inert AIM-54 Phoenix missile nestled under the fuselage of NASA Dryden's F-15B aircraft is being studied as a possible test vehicle to obtain hypersonic data.",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/NASA%27s_F-15B_Research_Testbed_aircraft_flies_in_the_supersonic_shock_wave_of_a_U_S_Navy_F-5E_as_part_of_the_F-5_Shaped_Sonic_Boom_Demonstration_%28SSBD%29_project_%28EC02-0041-3%29.jpg/1280px-thumbnail.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/NASA%27s_F-15B_Research_Testbed_aircraft_flies_in_the_supersonic_shock_wave_of_a_U_S_Navy_F-5E_as_part_of_the_F-5_Shaped_Sonic_Boom_Demonstration_%28SSBD%29_project_%28EC02-0041-3%29.jpg",
+      "width": 3000,
+      "height": 2400,
+      "title": "NASA's F-15B Research Testbed aircraft flies in the supersonic shock wave of a U S Navy F-5E as part of the F-5 Shaped Sonic Boom Demonstration (SSBD) project (EC02-0041-3).jpg",
+      "description": "NASA's F-15B Research Testbed aircraft recently flew in the supersonic shock wave of a U.S. Navy F-5E in support of the F-5 Shaped Sonic Boom Demonstration (SSBD) project, part of the Defense Advanced",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/NASA%27s_F-15B_Research_Testbed_aircraft_flies_in_the_supersonic_shock_wave_of_a_U_S_Navy_F-5E_as_part_of_the_F-5_Shaped_Sonic_Boom_Demonstration_%28SSBD%29_project_%28EC02-0041-4%29.jpg/1280px-thumbnail.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/2e/NASA%27s_F-15B_Research_Testbed_aircraft_flies_in_the_supersonic_shock_wave_of_a_U_S_Navy_F-5E_as_part_of_the_F-5_Shaped_Sonic_Boom_Demonstration_%28SSBD%29_project_%28EC02-0041-4%29.jpg",
+      "width": 3000,
+      "height": 2400,
+      "title": "NASA's F-15B Research Testbed aircraft flies in the supersonic shock wave of a U S Navy F-5E as part of the F-5 Shaped Sonic Boom Demonstration (SSBD) project (EC02-0041-4).jpg",
+      "description": "NASA's F-15B Research Testbed aircraft recently flew in the supersonic shock wave of a U.S. Navy F-5E in support of the F-5 Shaped Sonic Boom Demonstration (SSBD) project, part of the Defense Advanced",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/NASA%27s_F-15B_from_the_Dryden_Flight_Research_Center_flew_in_the_supersonic_shockwave_of_a_modified_U_S_Navy_F-5E_jet_in_support_of_the_Shaped_Sonic_Boom_Demonstration_%28SSBD%29_project_On_Aug_27%2C_2003%2C_the_F-5_SSBD_aircr_%28EC03-0225-6%29.jpg/1280px-thumbnail.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/99/NASA%27s_F-15B_from_the_Dryden_Flight_Research_Center_flew_in_the_supersonic_shockwave_of_a_modified_U_S_Navy_F-5E_jet_in_support_of_the_Shaped_Sonic_Boom_Demonstration_%28SSBD%29_project_On_Aug_27%2C_2003%2C_the_F-5_SSBD_aircr_%28EC03-0225-6%29.jpg",
+      "width": 3000,
+      "height": 2400,
+      "title": "NASA's F-15B from the Dryden Flight Research Center flew in the supersonic shockwave of a modified U S Navy F-5E jet in support of the Shaped Sonic Boom Demonstration (SSBD) project On Aug 27, 2003, the F-5 SSBD aircr (EC03-0225-6).jpg",
+      "description": "NASA's F-15B research testbed jet from NASA's Dryden Flight Research Center flew in the supersonic shockwave of a Northrop Grumman Corp. modified U.S. Navy F-5E jet in support of the Shaped Sonic Boom",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/NASA%27s_F-15B_research_testbed_jet_flew_in_the_supersonic_shockwave_of_a_Northrop_Grumman_Corp_-_modified_U_S_Navy_F-5E_jet_in_support_of_the_Shaped_Sonic_Boom_Demonstration_project_%28EC03-0225-2%29.jpg/1280px-thumbnail.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/c8/NASA%27s_F-15B_research_testbed_jet_flew_in_the_supersonic_shockwave_of_a_Northrop_Grumman_Corp_-_modified_U_S_Navy_F-5E_jet_in_support_of_the_Shaped_Sonic_Boom_Demonstration_project_%28EC03-0225-2%29.jpg",
+      "width": 2400,
+      "height": 3000,
+      "title": "NASA's F-15B research testbed jet flew in the supersonic shockwave of a Northrop Grumman Corp - modified U S Navy F-5E jet in support of the Shaped Sonic Boom Demonstration project (EC03-0225-2).jpg",
+      "description": "NASA's F-15B research testbed jet from NASA's Dryden Flight Research Center flew in the supersonic shockwave of a Northrop Grumman Corp. modified U.S. Navy F-5E jet in support of the Shaped Sonic Boom",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/NASA%27s_F-15B_research_testbed_jet_flew_in_the_supersonic_shockwave_of_a_Northrop_Grumman_Corp_-_modified_U_S_Navy_F-5E_jet_in_support_of_the_Shaped_Sonic_Boom_Demonstration_project_%28EC03-0225-5%29.jpg/1280px-thumbnail.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/8f/NASA%27s_F-15B_research_testbed_jet_flew_in_the_supersonic_shockwave_of_a_Northrop_Grumman_Corp_-_modified_U_S_Navy_F-5E_jet_in_support_of_the_Shaped_Sonic_Boom_Demonstration_project_%28EC03-0225-5%29.jpg",
+      "width": 2400,
+      "height": 3000,
+      "title": "NASA's F-15B research testbed jet flew in the supersonic shockwave of a Northrop Grumman Corp - modified U S Navy F-5E jet in support of the Shaped Sonic Boom Demonstration project (EC03-0225-5).jpg",
+      "description": "NASA's F-15B research testbed jet from NASA's Dryden Flight Research Center flew in the supersonic shockwave of a Northrop Grumman Corp. modified U.S. Navy F-5E jet in support of the Shaped Sonic Boom",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/NASA%27s_F-15B_research_testbed_jet_from_the_NASA_Dryden_Flight_Research_Center_flew_in_the_supersonic_shockwave_of_a_Northrop_Grumman_Corp_modified_F-5E_in_support_of_the_Shaped_Sonic_Boom_Demonstration_%28SSBD%29_project%2C_w_%28EC03-0225-8%29.jpg/1280px-thumbnail.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/55/NASA%27s_F-15B_research_testbed_jet_from_the_NASA_Dryden_Flight_Research_Center_flew_in_the_supersonic_shockwave_of_a_Northrop_Grumman_Corp_modified_F-5E_in_support_of_the_Shaped_Sonic_Boom_Demonstration_%28SSBD%29_project%2C_w_%28EC03-0225-8%29.jpg",
+      "width": 3000,
+      "height": 2400,
+      "title": "NASA's F-15B research testbed jet from the NASA Dryden Flight Research Center flew in the supersonic shockwave of a Northrop Grumman Corp modified F-5E in support of the Shaped Sonic Boom Demonstration (SSBD) project, w (EC03-0225-8).jpg",
+      "description": "NASA's F-15B research testbed jet from the NASA Dryden Flight Research Center flew in the supersonic shockwave of a Northrop Grumman Corp. modified F-5E in support of the Shaped Sonic Boom Demonstrati",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Surplus_Phoenix_missiles_like_this_one_mounted_on_the_centerline_pylon_of_NASA%27s_F-15B_research_aircraft_may_be_used_to_acquire_hypersonic_flight_test_data_%28ED06-0217-42%29.jpg/1280px-thumbnail.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/41/Surplus_Phoenix_missiles_like_this_one_mounted_on_the_centerline_pylon_of_NASA%27s_F-15B_research_aircraft_may_be_used_to_acquire_hypersonic_flight_test_data_%28ED06-0217-42%29.jpg",
+      "width": 3000,
+      "height": 2063,
+      "title": "Surplus Phoenix missiles like this one mounted on the centerline pylon of NASA's F-15B research aircraft may be used to acquire hypersonic flight test data (ED06-0217-42).jpg",
+      "description": "Surplus Navy Phoenix missiles like this one mounted on the centerline pylon of NASA's F-15B research aircraft may be used to acquire hypersonic flight test data.",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Back_view_of_a_replica_of_Visakhapatnam-class_destroyer.jpg/1280px-Back_view_of_a_replica_of_Visakhapatnam-class_destroyer.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/98/Back_view_of_a_replica_of_Visakhapatnam-class_destroyer.jpg",
+      "width": 2767,
+      "height": 5000,
+      "title": "Back view of a replica of Visakhapatnam-class destroyer.jpg",
+      "description": "Back view of a replica of <a href=\"https://en.wikipedia.org/wiki/Visakhapatnam-class_destroyer\" class=\"extiw\" title=\"en:Visakhapatnam-class destroyer\">Visakhapatnam-class destroyer</a>, at <a href=\"ht",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Front_view_of_a_replica_of_Visakhapatnam-class_destroyer.jpg/1280px-Front_view_of_a_replica_of_Visakhapatnam-class_destroyer.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Front_view_of_a_replica_of_Visakhapatnam-class_destroyer.jpg",
+      "width": 1590,
+      "height": 3455,
+      "title": "Front view of a replica of Visakhapatnam-class destroyer.jpg",
+      "description": "Front view of a replica of <a href=\"https://en.wikipedia.org/wiki/Visakhapatnam-class_destroyer\" class=\"extiw\" title=\"en:Visakhapatnam-class destroyer\">Visakhapatnam-class destroyer</a>, on display at",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/INS_Imphal.jpg/1280px-INS_Imphal.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/31/INS_Imphal.jpg",
+      "width": 1600,
+      "height": 900,
+      "title": "INS Imphal.jpg",
+      "description": "IMPHAL is the third destroyer in as many years delivered by MDL before the contractual delivery date. Destroyer Imphal has been delivered to IN almost four months ahead of schedule delivery date.",
+      "license": "GODL-India",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/INS_Imphal_delivered_to_Indian_Navy-pic1.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/INS_Imphal_delivered_to_Indian_Navy-pic1.jpg",
+      "width": 1280,
+      "height": 724,
+      "title": "INS Imphal delivered to Indian Navy-pic1.jpg",
+      "description": "Imphal, the third of four Indigenous P15B Stealth Guided Missile destroyers designed by Indian Navy\u2019s Warship Design Bureau (WDB) &amp; built by Mazagon Dock Ltd, Mumbai, delivered to Indian Navy",
+      "license": "GODL-India",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/INS_Imphal_going_through_trials.jpg/1280px-INS_Imphal_going_through_trials.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/INS_Imphal_going_through_trials.jpg",
+      "width": 2048,
+      "height": 1367,
+      "title": "INS Imphal going through trials.jpg",
+      "description": "To be commissioned later this year, Imphal is 3rd of 4 Project 15B class indigenous stealth destroyers being built at Mazagon Dock Ltd\n<p>.\n</p>\nWith high indigenous content &amp; several niche techno",
+      "license": "GODL-India",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/INS_Imphal_trials.jpg/1280px-INS_Imphal_trials.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/51/INS_Imphal_trials.jpg",
+      "width": 2048,
+      "height": 1367,
+      "title": "INS Imphal trials.jpg",
+      "description": "Imphal the 3rd of Project 15B stealth destroyer commenced sea trials.\n<p>IndianNavy\u2019s largest &amp; most advanced guided missile destroyer, named after the city from the NorthEast, symbolises the regi",
+      "license": "GODL-India",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/INS_Visakhapatnam_-_Operation_Sindoor.jpg/1280px-INS_Visakhapatnam_-_Operation_Sindoor.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/INS_Visakhapatnam_-_Operation_Sindoor.jpg",
+      "width": 2080,
+      "height": 1141,
+      "title": "INS Visakhapatnam - Operation Sindoor.jpg",
+      "description": "Indian Navy deployment at sea during Operation Sindoor",
+      "license": "GODL-India",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Imphal_Y-12706_Visakhapatnam_class_launching_during_trials.jpg/1280px-Imphal_Y-12706_Visakhapatnam_class_launching_during_trials.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/06/Imphal_Y-12706_Visakhapatnam_class_launching_during_trials.jpg",
+      "width": 1599,
+      "height": 899,
+      "title": "Imphal Y-12706 Visakhapatnam class launching during trials.jpg",
+      "description": "Imphal (Yard 12706), Indian Navy\u2019s latest indigenous guided missile destroyer, scored \u2018Bulls Eye\u2019 in her maiden Brahmos firing at sea.",
+      "license": "GODL-India",
+      "source": "wikimedia"
+    }
+  ]
+}

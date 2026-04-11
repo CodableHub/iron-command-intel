@@ -1,0 +1,195 @@
+{
+  "combat_history": [
+    {
+      "date": "2022-10",
+      "operation": "North Korea missile tracking",
+      "event": "JS Maya and JS Haguro conducted tracking of multiple North Korean ballistic missile tests, including intermediate-range missiles that overflew Japan",
+      "significance": "First operational use of dual-band radar system in real-world BMD scenario, validating tracking capabilities"
+    },
+    {
+      "date": "2023-04",
+      "operation": "BMD readiness tests",
+      "event": "JS Maya participated in trilateral missile defense exercises with US and South Korean forces, successfully tracking simulated ballistic missile targets",
+      "significance": "Demonstrated interoperability of Baseline 9 system with allied BMD networks"
+    }
+  ],
+  "modernization": [
+    {
+      "program": "SM-3 Block IIA integration",
+      "status": "in-progress",
+      "timeline": "2024-2026",
+      "description": "Integration of more capable SM-3 Block IIA interceptors to counter advanced ballistic missile threats including potential hypersonic glide vehicles",
+      "impact": "Significantly extends BMD engagement envelope and improves kill probability against maneuvering targets"
+    },
+    {
+      "program": "Cooperative Engagement Capability (CEC)",
+      "status": "planned",
+      "timeline": "2025-2027",
+      "description": "Integration of CEC to share radar tracks in real-time with other Aegis platforms",
+      "impact": "Creates networked air defense umbrella, improves tracking of low-observable targets"
+    },
+    {
+      "program": "Tomahawk integration study",
+      "status": "planned",
+      "timeline": "2026-2030",
+      "description": "Potential integration of Tomahawk land-attack cruise missiles in support of Japan's counterstrike capability policy",
+      "impact": "Would transform from purely defensive to offensive-capable platform"
+    }
+  ],
+  "vulnerabilities": [
+    {
+      "area": "Saturation attack vulnerability",
+      "description": "Limited magazine depth with only 96 VLS cells creates vulnerability to large-scale coordinated missile attacks",
+      "context": "China's growing inventory of anti-ship and land-attack cruise missiles could overwhelm defensive magazines",
+      "mitigation": "Relies on networked defense with other platforms and land-based systems"
+    },
+    {
+      "area": "Electronic warfare susceptibility",
+      "description": "Heavy reliance on radar systems makes the platform vulnerable to advanced electronic attack and cyber warfare",
+      "context": "Chinese and Russian EW capabilities specifically target Aegis radar systems",
+      "mitigation": "Upgraded ECM systems and dual-band radar provide some redundancy"
+    },
+    {
+      "area": "Hypersonic weapon defense",
+      "description": "Current SM-3 inventory may struggle against maneuvering hypersonic glide vehicles",
+      "context": "China's DF-17 and similar weapons present new challenge to traditional BMD",
+      "mitigation": "SM-3 Block IIA and future interceptors designed to address this threat"
+    }
+  ],
+  "operational_patterns": {
+    "typical_deployment": "BMD patrol stations in Sea of Japan and Philippine Sea, integrated with USFJ BMD network",
+    "deployment_length_months": 3,
+    "key_operating_areas": [
+      "Sea of Japan",
+      "Philippine Sea",
+      "East China Sea"
+    ],
+    "typical_task_group": "Operates independently or with Atago-class destroyers and US Aegis ships",
+    "readiness_notes": "High operational tempo due to frequent North Korean missile tests requiring BMD alert status"
+  },
+  "peer_comparisons": [
+    {
+      "platform": "Sejong the Great-class (KDX-III)",
+      "country": "South Korea",
+      "relationship": "allied equivalent",
+      "key_differences": "Similar Aegis Baseline 9 but with 128 VLS cells and more balanced strike capability. Maya prioritizes BMD over offensive weapons due to Japanese constitutional constraints.",
+      "video_angle": "Allied Aegis showdown - different approaches to the same threat environment"
+    },
+    {
+      "platform": "Type 055 Renhai-class",
+      "country": "China",
+      "relationship": "direct rival",
+      "key_differences": "Larger (12,000t vs 8,200t) with 112 VLS cells and integrated mast design. Type 055 emphasizes offensive strike while Maya focuses on defensive BMD capability.",
+      "video_angle": "David vs Goliath - Japan's defensive destroyer against China's offensive cruiser"
+    },
+    {
+      "platform": "Arleigh Burke Flight IIA",
+      "country": "United States",
+      "relationship": "allied equivalent/predecessor",
+      "key_differences": "Maya incorporates newer Baseline 9 vs Flight IIA's Baseline 7. Similar VLS count but Maya has dual-band radar advantage and dedicated BMD mission focus.",
+      "video_angle": "Student vs teacher - how Japan improved on the original Aegis design"
+    },
+    {
+      "platform": "Type 45 Daring-class",
+      "country": "United Kingdom",
+      "relationship": "NATO equivalent",
+      "key_differences": "Different approach with SAMPSON/S1850M radar vs Aegis. Type 45 optimized for air defense, Maya for BMD. Similar displacement but very different sensor philosophy.",
+      "video_angle": "East meets West - competing air defense destroyer philosophies"
+    }
+  ],
+  "search_keywords": [
+    "maya class",
+    "maya-class",
+    "DDG-179",
+    "DDG-180",
+    "JS Maya",
+    "JS Haguro",
+    "JMSDF destroyer",
+    "aegis baseline 9",
+    "japan bmD",
+    "spy-1d",
+    "fcs-3a"
+  ],
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/fa/General_Electric_LM-2500IEC.png",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/fa/General_Electric_LM-2500IEC.png",
+      "width": 1279,
+      "height": 717,
+      "title": "General Electric LM-2500IEC.png",
+      "description": "\u30bc\u30cd\u30e9\u30eb\u30a8\u30ec\u30af\u30c8\u30ea\u30c3\u30af LM-2500IEC\uff08\u8b77\u885b\u8266\u307e\u3084\u578b\u642d\u8f09\u30a8\u30f3\u30b8\u30f3\uff09",
+      "license": "CC BY 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/JS_Maya_%28DDG-179%29.jpg/1280px-JS_Maya_%28DDG-179%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/10/JS_Maya_%28DDG-179%29.jpg",
+      "width": 2800,
+      "height": 2100,
+      "title": "JS Maya (DDG-179).jpg",
+      "description": "\u8b77\u885b\u8266\u300c\u307e\u3084\u300d",
+      "license": "CC BY 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Japan_Maritime_Self-Defense_Force_Destroyer_JS_Maya_%28DDG_179%29_launches_a_missile_in_support_of_Valiant_Shield_2024_%288497736%29.jpg/1280px-Japan_Maritime_Self-Defense_Force_Destroyer_JS_Maya_%28DDG_179%29_launches_a_missile_in_support_of_Valiant_Shield_2024_%288497736%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Japan_Maritime_Self-Defense_Force_Destroyer_JS_Maya_%28DDG_179%29_launches_a_missile_in_support_of_Valiant_Shield_2024_%288497736%29.jpg",
+      "width": 6756,
+      "height": 4491,
+      "title": "Japan Maritime Self-Defense Force Destroyer JS Maya (DDG 179) launches a missile in support of Valiant Shield 2024 (8497736).jpg",
+      "description": "240615-N-GN523-2017 PHILIPPINE SEA (June 15, 2024) A missile launches from the vertical launch system aboard Japan Maritime Self-Defense Force Destroyer JS Maya (DDG 179), as part of operations in sup",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Japan_Maritime_Self-Defense_Force_Destroyer_JS_Maya_%28DDG_179%29_launches_a_missile_in_support_of_Valiant_Shield_2024_%288497737%29.jpg/1280px-Japan_Maritime_Self-Defense_Force_Destroyer_JS_Maya_%28DDG_179%29_launches_a_missile_in_support_of_Valiant_Shield_2024_%288497737%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Japan_Maritime_Self-Defense_Force_Destroyer_JS_Maya_%28DDG_179%29_launches_a_missile_in_support_of_Valiant_Shield_2024_%288497737%29.jpg",
+      "width": 6660,
+      "height": 4450,
+      "title": "Japan Maritime Self-Defense Force Destroyer JS Maya (DDG 179) launches a missile in support of Valiant Shield 2024 (8497737).jpg",
+      "description": "240615-N-GN523-2019 PHILIPPINE SEA (June 15, 2024) A missile launches from the vertical launch system aboard Japan Maritime Self-Defense Force Destroyer JS Maya (DDG 179), as part of operations in sup",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/6d/L-class_destroyers_under_fire_from_the_%27Mainz%27_at_the_Battle_of_the_Heligoland_Bight%2C_28_August_1914_RMG_PW1232.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/6d/L-class_destroyers_under_fire_from_the_%27Mainz%27_at_the_Battle_of_the_Heligoland_Bight%2C_28_August_1914_RMG_PW1232.jpg",
+      "width": 1280,
+      "height": 347,
+      "title": "L-class destroyers under fire from the 'Mainz' at the Battle of the Heligoland Bight, 28 August 1914 RMG PW1232.jpg",
+      "description": "L-class destroyers under fire from the 'Mainz' at the Battle of the Heligoland Bight, 28 August 1914<br>\nInscribed along the bottom by the artist to identify the ships, from far left to right: 'Maintz",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Maya-class_Destroyer_Yokosuka_02-28-2022_Back.jpg/1280px-Maya-class_Destroyer_Yokosuka_02-28-2022_Back.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Maya-class_Destroyer_Yokosuka_02-28-2022_Back.jpg",
+      "width": 6000,
+      "height": 4000,
+      "title": "Maya-class Destroyer Yokosuka 02-28-2022 Back.jpg",
+      "description": "Maya-class Destroyer DDG-179 \"Maya\"",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Maya-class_Destroyer_Yokosuka_02-28-2022_Front.jpg/1280px-Maya-class_Destroyer_Yokosuka_02-28-2022_Front.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Maya-class_Destroyer_Yokosuka_02-28-2022_Front.jpg",
+      "width": 6000,
+      "height": 4000,
+      "title": "Maya-class Destroyer Yokosuka 02-28-2022 Front.jpg",
+      "description": "Maya-class Destroyer DDG-179 \"Maya\"",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Maya_Class_Destroyer_20180703.jpg/1280px-Maya_Class_Destroyer_20180703.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/da/Maya_Class_Destroyer_20180703.jpg",
+      "width": 1477,
+      "height": 1108,
+      "title": "Maya Class Destroyer 20180703.jpg",
+      "description": "\u307e\u3084\u578b\u8b77\u885b\u8266 2018\u5e7407\u670830\u65e5",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    }
+  ]
+}

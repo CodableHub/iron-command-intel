@@ -1,0 +1,332 @@
+{
+  "combat_history": [
+    {
+      "date": "2024-05-01",
+      "operation": "First sea trials",
+      "event": "Fujian departed Jiangnan Shipyard for initial sea trials, testing basic ship systems and propulsion",
+      "significance": "Marked transition from construction to operational testing phase"
+    }
+  ],
+  "modernization": [
+    {
+      "program": "EMALS optimization",
+      "status": "in-progress",
+      "timeline": "2024-2026",
+      "description": "Refining electromagnetic launch system based on initial testing, improving reliability and launch rates",
+      "impact": "Critical for achieving operational sortie rates comparable to U.S. carriers"
+    },
+    {
+      "program": "Air wing development",
+      "status": "in-progress",
+      "timeline": "2024-2027",
+      "description": "Training pilots for CATOBAR operations, developing J-35 stealth fighter integration, KJ-600 AEW aircraft trials",
+      "impact": "Determines actual operational capability and effectiveness of the platform"
+    }
+  ],
+  "vulnerabilities": [
+    {
+      "area": "EMALS reliability",
+      "description": "Chinese EMALS system unproven in operational conditions; U.S. Ford-class experienced significant EMALS reliability issues",
+      "context": "Launch system failures could severely limit sortie generation during high-tempo operations",
+      "mitigation": "Extensive testing program ongoing, likely backup systems installed"
+    },
+    {
+      "area": "Operational inexperience",
+      "description": "PLAN has limited experience with CATOBAR operations and complex carrier air wing management",
+      "context": "Carrier aviation is extremely complex; mistakes in high-threat environment could be catastrophic",
+      "mitigation": "Extended training periods, possible foreign advisor programs"
+    },
+    {
+      "area": "Conventional propulsion",
+      "description": "Steam turbine propulsion limits operational flexibility compared to nuclear carriers",
+      "context": "Requires regular refueling, reducing time on station and complicating logistics in extended deployments",
+      "mitigation": "Large fuel capacity, extensive PLAN tanker fleet development"
+    },
+    {
+      "area": "Air wing limitations",
+      "description": "Current aircraft complement inferior to U.S. carrier air wings; J-15 has performance limitations, J-35 still in development",
+      "context": "Reduced strike capability and defensive effectiveness against peer adversaries",
+      "mitigation": "Accelerated J-35 development, potential Su-33 variants"
+    }
+  ],
+  "operational_patterns": {
+    "typical_deployment": "Expected to operate as flagship of PLAN carrier strike groups in Western Pacific",
+    "deployment_length_months": 6,
+    "key_operating_areas": [
+      "South China Sea",
+      "East China Sea",
+      "Western Pacific",
+      "Taiwan Strait vicinity"
+    ],
+    "typical_task_group": "Type 055 destroyers, Type 052D destroyers, Type 054A frigates, nuclear submarines, supply ships",
+    "readiness_notes": "Currently in extended sea trials and crew training phase; full operational capability expected 2026-2027"
+  },
+  "peer_comparisons": [
+    {
+      "platform": "USS Gerald R. Ford (CVN-78)",
+      "country": "United States",
+      "relationship": "direct rival",
+      "key_differences": "Ford has nuclear propulsion, more advanced EMALS, larger air wing capacity (75+ aircraft), and vastly more experienced crew. Fujian represents China's first attempt at supercarrier operations.",
+      "video_angle": "Technology transfer comparison - how China developed indigenous EMALS and what capabilities remain inferior"
+    },
+    {
+      "platform": "USS Nimitz-class",
+      "country": "United States",
+      "relationship": "performance benchmark",
+      "key_differences": "Nimitz class has proven nuclear propulsion, steam catapults with known reliability, and decades of operational experience. Fujian is larger but less proven.",
+      "video_angle": "Operational experience gap - why carrier aviation takes decades to master"
+    },
+    {
+      "platform": "HMS Queen Elizabeth",
+      "country": "United Kingdom",
+      "relationship": "design alternative",
+      "key_differences": "QE class uses STOBAR with F-35B, smaller air wing, but proven concept. Fujian chose more complex CATOBAR for greater capability at higher risk.",
+      "video_angle": "Design philosophy comparison - STOBAR vs CATOBAR trade-offs"
+    },
+    {
+      "platform": "Charles de Gaulle",
+      "country": "France",
+      "relationship": "operational comparison",
+      "key_differences": "CdG is nuclear-powered but much smaller (42,000 tons), with proven CATOBAR operations. Shows what mature non-U.S. carrier operations look like.",
+      "video_angle": "Learning curve analysis - how long it took France to achieve carrier proficiency"
+    },
+    {
+      "platform": "INS Vikrant",
+      "country": "India",
+      "relationship": "regional competitor",
+      "key_differences": "Vikrant is much smaller (45,000 tons) STOBAR carrier, but represents similar indigenous carrier development challenge. India chose simpler, more proven approach.",
+      "video_angle": "Asian carrier race - different national approaches to indigenous carrier development"
+    }
+  ],
+  "search_keywords": [
+    "fujian",
+    "type 003",
+    "chinese aircraft carrier",
+    "PLAN carrier",
+    "EMALS",
+    "CATOBAR",
+    "chinese supercarrier",
+    "hull 18",
+    "jiangnan shipyard"
+  ],
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Carrier_based_aircraft_in_Chinese_aircraft_carrier_Fujian.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Carrier_based_aircraft_in_Chinese_aircraft_carrier_Fujian.jpg",
+      "width": 1084,
+      "height": 432,
+      "title": "Carrier based aircraft in Chinese aircraft carrier Fujian.jpg",
+      "description": "Carrier based aircraft in Chinese aircraft carrier Fujian",
+      "license": "CC BY 3.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/39/Chinese_aircraft_carrier_Fujian_flight_deck.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/39/Chinese_aircraft_carrier_Fujian_flight_deck.jpg",
+      "width": 1068,
+      "height": 596,
+      "title": "Chinese aircraft carrier Fujian flight deck.jpg",
+      "description": "Chinese aircraft carrier Fujian flight deck",
+      "license": "CC BY 3.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/J-15T.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/J-15T.jpg",
+      "width": 789,
+      "height": 439,
+      "title": "J-15T.jpg",
+      "description": "J-15T in Chinese aircraft carrier Fujian",
+      "license": "CC BY 3.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/JiangnanShipyardChangxingIsland.jpg/1280px-JiangnanShipyardChangxingIsland.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/JiangnanShipyardChangxingIsland.jpg",
+      "width": 4928,
+      "height": 3264,
+      "title": "JiangnanShipyardChangxingIsland.jpg",
+      "description": "Jiangnan Shipyard",
+      "license": "CC0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/ae/JiangnanShipyardChangxingIsland_%28cropped%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/ae/JiangnanShipyardChangxingIsland_%28cropped%29.jpg",
+      "width": 1085,
+      "height": 708,
+      "title": "JiangnanShipyardChangxingIsland (cropped).jpg",
+      "description": "Jiangnan Shipyard",
+      "license": "CC0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/PLAN_CV-18_Fujian_20250911.jpg/1280px-PLAN_CV-18_Fujian_20250911.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/9f/PLAN_CV-18_Fujian_20250911.jpg",
+      "width": 1852,
+      "height": 515,
+      "title": "PLAN CV-18 Fujian 20250911.jpg",
+      "description": "<a href=\"https://en.wikipedia.org/wiki/en:Chinese_aircraft_carrier_Fujian\" class=\"extiw\" title=\"w:en:Chinese aircraft carrier Fujian\">Chinese aircraft carrier Fujian</a>, as photographed by <a href=\"h",
+      "license": "CC BY 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/%E7%A6%8F%E5%BB%BA%E5%8F%B7%E8%88%AA%E6%AF%8D%E6%A8%A1%E5%9E%8B.jpg/1280px-%E7%A6%8F%E5%BB%BA%E5%8F%B7%E8%88%AA%E6%AF%8D%E6%A8%A1%E5%9E%8B.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/3e/%E7%A6%8F%E5%BB%BA%E5%8F%B7%E8%88%AA%E6%AF%8D%E6%A8%A1%E5%9E%8B.jpg",
+      "width": 4000,
+      "height": 3000,
+      "title": "\u798f\u5efa\u53f7\u822a\u6bcd\u6a21\u578b.jpg",
+      "description": "\u200b\u798f\u5efa\u53f7\u822a\u6bcd\u6a21\u578b",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/%E7%A6%8F%E5%BB%BA%E5%8F%B7%E8%88%AA%E6%AF%8D%E6%A8%A1%E5%9E%8B_%28cropped%29.jpg/1280px-%E7%A6%8F%E5%BB%BA%E5%8F%B7%E8%88%AA%E6%AF%8D%E6%A8%A1%E5%9E%8B_%28cropped%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/70/%E7%A6%8F%E5%BB%BA%E5%8F%B7%E8%88%AA%E6%AF%8D%E6%A8%A1%E5%9E%8B_%28cropped%29.jpg",
+      "width": 3350,
+      "height": 1500,
+      "title": "\u798f\u5efa\u53f7\u822a\u6bcd\u6a21\u578b (cropped).jpg",
+      "description": "\u200b\u798f\u5efa\u53f7\u822a\u6bcd\u6a21\u578b",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/160803-N-RY232-003_-_Navy_Working_Uniform_%28NWU%29_Type_III.jpg/1280px-160803-N-RY232-003_-_Navy_Working_Uniform_%28NWU%29_Type_III.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/91/160803-N-RY232-003_-_Navy_Working_Uniform_%28NWU%29_Type_III.jpg",
+      "width": 1500,
+      "height": 2100,
+      "title": "160803-N-RY232-003 - Navy Working Uniform (NWU) Type III.jpg",
+      "description": "160803-N-RY232-003 WASHINGTON (Aug. 3, 2016) Aug. 4, 2016, the Navy announced that it will transition from the NWU Type I to the NWU Type III as its primary shore working uniform. Beginning Oct. 1, 20",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/67/160803-N-RY232-003_-_Navy_Working_Uniform_%28NWU%29_Type_III.png",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/67/160803-N-RY232-003_-_Navy_Working_Uniform_%28NWU%29_Type_III.png",
+      "width": 370,
+      "height": 1854,
+      "title": "160803-N-RY232-003 - Navy Working Uniform (NWU) Type III.png",
+      "description": "Navy Working Uniform (NWU) Type III",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Navy_Misawa_CPO_365_Community_Service_Project_111103-N-ZI192-003.jpg/1280px-Navy_Misawa_CPO_365_Community_Service_Project_111103-N-ZI192-003.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/76/Navy_Misawa_CPO_365_Community_Service_Project_111103-N-ZI192-003.jpg",
+      "width": 3000,
+      "height": 2400,
+      "title": "Navy Misawa CPO 365 Community Service Project 111103-N-ZI192-003.jpg",
+      "description": "Petty Officer 1st Class Walid Mansour (left), originally from Orlando, Fla., and Petty Officer 1st Class Mark Dillon, originally from Dewar, Okla., prepare library books for disposal at Cummings Eleme",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/US_Navy_020220-N-3236B-003_Explosive_Ordanance_Disposal_%28EOD%29_technicians.jpg/1280px-US_Navy_020220-N-3236B-003_Explosive_Ordanance_Disposal_%28EOD%29_technicians.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/29/US_Navy_020220-N-3236B-003_Explosive_Ordanance_Disposal_%28EOD%29_technicians.jpg",
+      "width": 2000,
+      "height": 1312,
+      "title": "US Navy 020220-N-3236B-003 Explosive Ordanance Disposal (EOD) technicians.jpg",
+      "description": "020220-N-3236B-003\nKandahar, Afghanistan (Feb. 20, 2002) -- U.S. Navy and Army Explosive Ordnance Disposal (EOD) technicians remove and destroy Chinese 82mm Type 65 Recoilless Rifles, and 82mm High Ex",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/US_Navy_021031-N-0905V-003_Hangar_Bay.jpg/1280px-US_Navy_021031-N-0905V-003_Hangar_Bay.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/US_Navy_021031-N-0905V-003_Hangar_Bay.jpg",
+      "width": 3008,
+      "height": 1960,
+      "title": "US Navy 021031-N-0905V-003 Hangar Bay.jpg",
+      "description": "At sea aboard USS Carl Vinson (CVN 70) Oct. 31, 2002 -- An F/A-18C \u201cHornet\u201d assigned to the \"Rough Raiders\" of Strike Fighter Squadron One Two Five (VFA-125) is illuminated by red lights during \u201cdarke",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/US_Navy_021203-N-5821P-003_Damage_Control_Training_in_the_aircraft_carrier%27s_hangar_bay.jpg/1280px-US_Navy_021203-N-5821P-003_Damage_Control_Training_in_the_aircraft_carrier%27s_hangar_bay.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/39/US_Navy_021203-N-5821P-003_Damage_Control_Training_in_the_aircraft_carrier%27s_hangar_bay.jpg",
+      "width": 1623,
+      "height": 1215,
+      "title": "US Navy 021203-N-5821P-003 Damage Control Training in the aircraft carrier's hangar bay.jpg",
+      "description": "At sea aboard USS Kitty Hawk (CV 63) Dec. 3, 2002 -- Damage Control Training Team members instruct their shipmates in the aircraft carrier\u2019s hangar bay on the proper donning, decontamination and doffi",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/US_Navy_030509-N-0111R-003_A_Sailor_is_interviewed_by_a_reporter.jpg/1280px-US_Navy_030509-N-0111R-003_A_Sailor_is_interviewed_by_a_reporter.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/68/US_Navy_030509-N-0111R-003_A_Sailor_is_interviewed_by_a_reporter.jpg",
+      "width": 2000,
+      "height": 1312,
+      "title": "US Navy 030509-N-0111R-003 A Sailor is interviewed by a reporter.jpg",
+      "description": "Gaeta, Italy (May 09, 2003) -- A Sailor aboard the Sixth Fleet flagship USS La Salle (AGF 3) is interviewed by a reporter from the \u201cSpeed Channel,\u201d a cable network station devoted to racing of various",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/US_Navy_090818-N-7698H-003_Navy_individual_augmentees_participate_in_low_level_voice_intercept_training_at_the_Shoot_House_at_Fort_Dix.jpg/1280px-US_Navy_090818-N-7698H-003_Navy_individual_augmentees_participate_in_low_level_voice_intercept_training_at_the_Shoot_House_at_Fort_Dix.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/b5/US_Navy_090818-N-7698H-003_Navy_individual_augmentees_participate_in_low_level_voice_intercept_training_at_the_Shoot_House_at_Fort_Dix.jpg",
+      "width": 1600,
+      "height": 1200,
+      "title": "US Navy 090818-N-7698H-003 Navy individual augmentees participate in low level voice intercept training at the Shoot House at Fort Dix.jpg",
+      "description": "FORT DIX, N.J. (Aug. 18, 2009) Navy individual augmentees participate in low level voice intercept training at the Shoot House at Fort Dix. This four-man unit was the first group to go \"live\" during t",
+      "license": "Public domain",
+      "source": "wikimedia"
+    }
+  ],
+  "doctrine": {
+    "role": "Power projection beyond the second island chain to establish PLAN as a global navy capable of challenging U.S. carrier strike groups in contested waters. Fujian serves as the cornerstone of China's transition from regional sea denial to global sea control ambitions.",
+    "employment": "Operates as the centerpiece of a carrier strike group (CSG) including Type 055 cruisers, Type 052D destroyers, Type 054A frigates, and Type 093B attack submarines. Primary missions include establishing sea control in the South China Sea, projecting power into the Indian Ocean, and providing mobile air defense for amphibious operations against Taiwan. Command structure integrates with PLAN's Theater Commands, particularly Southern and Eastern Theater Commands for regional contingencies.",
+    "design_philosophy": "Prioritized aircraft capacity and sortie generation rate over defensive systems, accepting reduced close-in weapons compared to Soviet designs. Designers chose EMALS over steam catapults despite technological risk to maximize aircraft launch flexibility and efficiency. The conventional propulsion sacrifice limits sustained high-speed operations compared to nuclear carriers but reduces complexity and cost for China's first supercarrier attempt.",
+    "threat_context": "Designed to operate within range of U.S. submarine threats and advanced anti-ship missiles, requiring robust escort protection. Originally conceived when U.S. maintained clear naval superiority, but now faces evolving threats from hypersonic weapons, underwater drones, and multi-domain operations that challenge traditional carrier survivability assumptions.",
+    "comparison_frame": "Compare on aircraft capacity, sortie generation rate, and catapult capability rather than speed or range\u2014all modern carriers accept 30+ knot capability as sufficient. Focus on air wing composition flexibility, maintenance cycle efficiency, and integration with national command systems. Defensive capabilities matter less than offensive power projection and sustained operations tempo."
+  },
+  "curated_sources": [
+    {
+      "title": "China Naval Modernization: Implications for U.S. Navy Capabilities",
+      "type": "report",
+      "url": "https://crsreports.congress.gov/product/pdf/RL/RL33153",
+      "relevance": "Ron O'Rourke's definitive analysis of PLAN carrier development and strategic implications for U.S. naval planning.",
+      "priority": "essential"
+    },
+    {
+      "title": "Chinese Naval Shipbuilding: An Ambitious and Uncertain Course",
+      "type": "analyst",
+      "url": "https://www.andrewerickson.com/",
+      "relevance": "Andrew Erickson provides the most detailed technical analysis and construction timelines for Type 003 development.",
+      "priority": "essential"
+    },
+    {
+      "title": "Aircraft Carriers: A History of Carrier Aviation and Its Influence on World Events",
+      "type": "book",
+      "url": "",
+      "relevance": "Norman Polmar's comprehensive framework for understanding carrier doctrine evolution provides context for China's carrier ambitions.",
+      "priority": "recommended"
+    },
+    {
+      "title": "China's Aircraft Carrier Programme: Drivers, Developments, and Implications",
+      "type": "report",
+      "url": "https://www.rusi.org/explore-our-research/publications/commentary/chinas-aircraft-carrier-programme-drivers-developments-and-implications",
+      "relevance": "RUSI analysis of strategic drivers behind China's carrier program and implications for Indo-Pacific balance.",
+      "priority": "recommended"
+    },
+    {
+      "title": "Type 003 Aircraft Carrier - Seaforces Online",
+      "type": "database",
+      "url": "https://www.seaforces.org/marint/Chinese-Navy/Aircraft-Carrier/Type-003.htm",
+      "relevance": "Comprehensive technical specifications and construction details for comparative analysis.",
+      "priority": "reference"
+    },
+    {
+      "title": "Military and Security Developments Involving the People's Republic of China",
+      "type": "report",
+      "url": "https://media.defense.gov/2023/Oct/19/2003323409/-1/-1/1/2023-MILITARY-AND-SECURITY-DEVELOPMENTS-INVOLVING-THE-PEOPLES-REPUBLIC-OF-CHINA.PDF",
+      "relevance": "Annual Pentagon assessment provides official U.S. perspective on Type 003 capabilities and threat assessment.",
+      "priority": "recommended"
+    },
+    {
+      "title": "The Science of Military Strategy (2020 Edition)",
+      "type": "book",
+      "url": "",
+      "relevance": "Official PLA strategic doctrine publication outlining naval power projection concepts underlying carrier employment.",
+      "priority": "reference"
+    }
+  ]
+}

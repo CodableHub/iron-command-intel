@@ -1,0 +1,326 @@
+{
+  "combat_history": [
+    {
+      "date": "2011-03",
+      "operation": "Operation Ellamy",
+      "event": "HMS Albion deployed to Mediterranean during Libya intervention, conducted humanitarian evacuation of civilians from Benghazi and provided command platform for coalition forces",
+      "significance": "First major combat deployment demonstrating command ship capabilities in multi-national operations"
+    },
+    {
+      "date": "2014-08",
+      "operation": "Operation Shader",
+      "event": "HMS Bulwark deployed to Eastern Mediterranean as part of UK response to ISIS, conducted humanitarian missions and provided staging for special operations",
+      "significance": "Showed adaptability for counter-terrorism support missions beyond traditional amphibious assault"
+    },
+    {
+      "date": "2017-09",
+      "operation": "Hurricane Irma Relief",
+      "event": "HMS Bulwark deployed to Caribbean for disaster relief, embarked Royal Marines and aid supplies, conducted helicopter operations to isolated islands",
+      "significance": "Demonstrated humanitarian capability and rapid global deployment ability"
+    },
+    {
+      "date": "2019-01",
+      "operation": "Operation Ruman",
+      "event": "HMS Albion transited Taiwan Strait in freedom of navigation operation, drawing strong Chinese diplomatic protest",
+      "significance": "Highlighted political utility of amphibious ships in great power competition"
+    }
+  ],
+  "modernization": [
+    {
+      "program": "Life Extension Programme",
+      "status": "completed",
+      "timeline": "2019-2022",
+      "description": "Major refit including propulsion system overhaul, accommodation upgrades, and combat system updates for both ships",
+      "impact": "Extended service life to approximately 2033-2035"
+    },
+    {
+      "program": "Future Commando Force Integration",
+      "status": "in-progress",
+      "timeline": "2021-2030",
+      "description": "Modifications to support Royal Marines Commando Force redesign, including enhanced C4ISR capabilities and support for autonomous systems",
+      "impact": "Better integration with distributed operations concept and unmanned systems"
+    },
+    {
+      "program": "Defensive Aids Suite Upgrade",
+      "status": "planned",
+      "timeline": "2025-2028",
+      "description": "Installation of improved electronic warfare systems and soft-kill decoy systems to counter modern missile threats",
+      "impact": "Marginal improvement in survivability against anti-ship missiles"
+    }
+  ],
+  "vulnerabilities": [
+    {
+      "area": "Air Defense",
+      "description": "Extremely limited air defense capability with only short-range CIWS and MANPADS, no area air defense missiles",
+      "context": "Vulnerable to modern anti-ship missiles, drones, and aircraft - requires constant escort protection",
+      "mitigation": "Relies entirely on escort ships (Type 45 destroyers) and RAF air cover when available"
+    },
+    {
+      "area": "Force Structure",
+      "description": "Only two hulls with typically one in extended refit, limiting operational availability to 50% at best",
+      "context": "Cannot maintain continuous global presence or handle multiple simultaneous operations",
+      "mitigation": "No current plans to increase fleet size; relying on ally cooperation"
+    },
+    {
+      "area": "Aviation Capacity",
+      "description": "Limited hangar space can only accommodate 2x medium helicopters, restricting air mobility compared to larger amphibious ships",
+      "context": "Reduces operational flexibility in distributed operations and limits casualty evacuation capability",
+      "mitigation": "Coordination with helicopter carriers like HMS Prince of Wales when available"
+    },
+    {
+      "area": "Electronic Warfare",
+      "description": "Limited electronic warfare and cyber defense capabilities compared to modern threats",
+      "context": "Vulnerable to GPS jamming, communications disruption, and cyber attacks on ship systems",
+      "mitigation": "Ongoing upgrades to communications and navigation systems"
+    }
+  ],
+  "operational_patterns": {
+    "typical_deployment": "Amphibious Ready Group flagship with Royal Marines embarked, or independent humanitarian/diplomatic missions",
+    "deployment_length_months": 6,
+    "key_operating_areas": [
+      "Mediterranean",
+      "Persian Gulf",
+      "Caribbean",
+      "Indo-Pacific"
+    ],
+    "typical_task_group": "With Type 45 destroyer, Type 23/26 frigate, RFA support ships, and Royal Marines",
+    "readiness_notes": "Chronic availability issues due to small fleet size and complex maintenance requirements"
+  },
+  "peer_comparisons": [
+    {
+      "platform": "San Antonio-class LPD",
+      "country": "United States",
+      "relationship": "direct rival",
+      "key_differences": "US ships are larger with better self-defense (RAM missiles, ECM) and greater capacity but less sophisticated command facilities. Albion class has superior flaghip capabilities for multinational ops.",
+      "video_angle": "David vs Goliath - how Britain's boutique amphibious capability compares to America's mass production approach"
+    },
+    {
+      "platform": "Mistral-class LHD",
+      "country": "France",
+      "relationship": "allied equivalent",
+      "key_differences": "French ships emphasize aviation with large flight deck and hangar, while Albions focus on dock well operations. Mistrals have better self-defense but worse command facilities.",
+      "video_angle": "Tale of two European approaches - helicopter assault vs traditional landing craft operations"
+    },
+    {
+      "platform": "Type 071 Yuzhao-class",
+      "country": "China",
+      "relationship": "peer competitor",
+      "key_differences": "Chinese ships are similar in concept but larger, with better air defense (HQ-10 SAMs) and greater capacity. Albions have more sophisticated C4I systems and better crew training standards.",
+      "video_angle": "Quality vs quantity - Western technology and training against Chinese mass production"
+    },
+    {
+      "platform": "Juan Carlos I-class",
+      "country": "Spain",
+      "relationship": "allied equivalent",
+      "key_differences": "Spanish design combines amphibious dock with aircraft carrier capability, offering greater aviation capacity but less dock well space than Albions. Similar self-defense limitations.",
+      "video_angle": "Specialization vs flexibility - pure amphibious assault ship vs multi-role aviation platform"
+    },
+    {
+      "platform": "Ivan Gren-class",
+      "country": "Russia",
+      "relationship": "peer competitor",
+      "key_differences": "Russian ships are smaller and less capable, with limited command facilities and older technology. Albions significantly superior in C4I and operational flexibility.",
+      "video_angle": "East vs West amphibious philosophy - Soviet-era thinking vs modern expeditionary warfare"
+    }
+  ],
+  "search_keywords": [
+    "albion class",
+    "albion-class",
+    "L14",
+    "L18",
+    "HMS Albion",
+    "HMS Bulwark",
+    "royal navy",
+    "LPD",
+    "landing platform dock",
+    "amphibious assault",
+    "royal marines"
+  ],
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Albion-class_and_Chinook_off_Plymouth.jpg/1280px-Albion-class_and_Chinook_off_Plymouth.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/21/Albion-class_and_Chinook_off_Plymouth.jpg",
+      "width": 1575,
+      "height": 1165,
+      "title": "Albion-class and Chinook off Plymouth.jpg",
+      "description": "A Chinook helicopter approaching one of the two Albion-class assault ships, in Plymouth Sound.",
+      "license": "CC BY-SA 3.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Albion-class_landing_platform_dock_ship_and_the_Eddystone_from_Whitsand_Bay_%280022%29.jpg/1280px-Albion-class_landing_platform_dock_ship_and_the_Eddystone_from_Whitsand_Bay_%280022%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Albion-class_landing_platform_dock_ship_and_the_Eddystone_from_Whitsand_Bay_%280022%29.jpg",
+      "width": 4288,
+      "height": 2848,
+      "title": "Albion-class landing platform dock ship and the Eddystone from Whitsand Bay (0022).jpg",
+      "description": "Bulwark class ship and the Eddystone from Whitsand Bay",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Amphious_Operations_by_HMS_Albion_MOD_45151293.jpg/1280px-Amphious_Operations_by_HMS_Albion_MOD_45151293.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Amphious_Operations_by_HMS_Albion_MOD_45151293.jpg",
+      "width": 3600,
+      "height": 2400,
+      "title": "Amphious Operations by HMS Albion MOD 45151293.jpg",
+      "description": "HMS Albion conducts amphibious operations with Landing Craft Utility (LCU) during Exercise Grey Heron off the coast of Portsmouth in 2007.\n<p>The Albion Class, Landing Platform Dock ships (LPD) primar",
+      "license": "OGL v1.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/HMS_Albion_Exercise_Wader_Scotland.jpg/1280px-HMS_Albion_Exercise_Wader_Scotland.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/51/HMS_Albion_Exercise_Wader_Scotland.jpg",
+      "width": 4800,
+      "height": 2700,
+      "title": "HMS Albion Exercise Wader Scotland.jpg",
+      "description": "HMS Albion prepares for WADER exercise in Scotland as 45 Commando join in Scotland.Many different types of armoured and Green Fleet vehicles can be seen on the jetty.The Littoral Response Group (North",
+      "license": "OGL v1.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/HMS_Albion_LRGN_deployment.jpg/1280px-HMS_Albion_LRGN_deployment.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/36/HMS_Albion_LRGN_deployment.jpg",
+      "width": 3600,
+      "height": 2400,
+      "title": "HMS Albion LRGN deployment.jpg",
+      "description": "Pictured; US Marines CH-53 Sea Stallion helicopter taking off from HMS ALBION off the coast of Scotland during LRG North.Royal Marines of 47 CDO conduct a WADER package off the coast of Scotland whils",
+      "license": "OGL v1.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/HMS_Albion_MOD_45151288.jpg/1280px-HMS_Albion_MOD_45151288.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/fe/HMS_Albion_MOD_45151288.jpg",
+      "width": 3600,
+      "height": 2400,
+      "title": "HMS Albion MOD 45151288.jpg",
+      "description": "HMS Albion is pictured operating with Dutch Royal Marines.\n<p>The Albion Class, Landing Platform Dock ships (LPD) primary function is to embark, transport, and deploy and recover (by air and sea) troo",
+      "license": "OGL v1.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/HMS_Albion_MOD_45151289.jpg/1280px-HMS_Albion_MOD_45151289.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/62/HMS_Albion_MOD_45151289.jpg",
+      "width": 3600,
+      "height": 2400,
+      "title": "HMS Albion MOD 45151289.jpg",
+      "description": "HMS Albion is pictured operating with Dutch Royal Marines.\n<p>The Albion Class, Landing Platform Dock ships (LPD) primary function is to embark, transport, and deploy and recover (by air and sea) troo",
+      "license": "OGL v1.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/HMS_Albion_in_Norway_MOD_45151290.jpg/1280px-HMS_Albion_in_Norway_MOD_45151290.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/HMS_Albion_in_Norway_MOD_45151290.jpg",
+      "width": 2400,
+      "height": 1800,
+      "title": "HMS Albion in Norway MOD 45151290.jpg",
+      "description": "Whilst on Exercise Armatura Borealis/Tundra HMS Albion sails through a snow shower, as she patrols the North West of Norway.\n<p>The Albion Class, Landing Platform Dock ships (LPD) primary function is ",
+      "license": "OGL v1.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Aft_mast_HMS_Albion.jpg/1280px-Aft_mast_HMS_Albion.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Aft_mast_HMS_Albion.jpg",
+      "width": 3084,
+      "height": 4644,
+      "title": "Aft mast HMS Albion.jpg",
+      "description": "Aft mast of HMS Albion while visiting Helsinki",
+      "license": "CC BY 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/HMS_ALBION_Aerial_Photex_MOD_45165982.jpg/1280px-HMS_ALBION_Aerial_Photex_MOD_45165982.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/29/HMS_ALBION_Aerial_Photex_MOD_45165982.jpg",
+      "width": 3600,
+      "height": 2400,
+      "title": "HMS ALBION Aerial Photex MOD 45165982.jpg",
+      "description": "On the 29th August 2017 HMS ALBION had her first Aerial photos after coming out of refit at HMNB Devonport.\n<p>HMS ALBION was in refit since 2011 and in January 2017, 350 Sailors joined her to start t",
+      "license": "OGL v1.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Mast_HMS_Albion.jpg/1280px-Mast_HMS_Albion.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Mast_HMS_Albion.jpg",
+      "width": 4644,
+      "height": 3084,
+      "title": "Mast HMS Albion.jpg",
+      "description": "A mast of HMS Albion while visiting Helsinki",
+      "license": "CC BY 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Stern_HMS_Albion.jpg/1280px-Stern_HMS_Albion.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Stern_HMS_Albion.jpg",
+      "width": 4608,
+      "height": 3072,
+      "title": "Stern HMS Albion.jpg",
+      "description": "Stern of HMS Albion while visiting Helsinki",
+      "license": "CC BY 4.0",
+      "source": "wikimedia"
+    }
+  ],
+  "doctrine": {
+    "role": "Enables power projection and intervention operations by delivering Royal Marine Commandos and their equipment to contested littorals, serving as the cornerstone of Britain's ability to conduct unilateral military interventions outside NATO's Article 5 framework.",
+    "employment": "Typically operates as flagship of the Littoral Response Group alongside escorts, support ships, and embarked Commando Force elements. Primary mission profiles include crisis response, non-combatant evacuation operations, and contested amphibious landings supporting 'upstream engagement' before conflicts escalate. Often deployed for extended periods to maintain persistent presence in key regions like the Indo-Pacific, with the ship serving as both transport and command platform for multinational amphibious task groups.",
+    "design_philosophy": "Prioritised strategic mobility and operational flexibility over tactical survivability, accepting reduced self-defence capabilities and armour protection to maximise global reach and multi-role adaptability. The design emphasises efficient movement of large numbers of troops and vehicles rather than survival in high-intensity combat, reflecting Britain's expeditionary focus on medium-scale interventions rather than major power conflict.",
+    "threat_context": "Designed during the 1990s for operations against regional powers with limited anti-access capabilities, anticipating scenarios similar to Sierra Leone rather than peer conflict. The threat environment has since evolved to include sophisticated missile systems, submarines, and electronic warfare capabilities that challenge the platform's survivability assumptions, particularly in contested environments like the South China Sea or Eastern Mediterranean.",
+    "comparison_frame": "Compare primarily on strategic mobility (range, endurance, global deployability) and operational flexibility (multi-role capability, command facilities) rather than tactical metrics like defensive armament or survivability features. Dock well capacity and aviation facilities matter more than protection levels, as these platforms prioritise getting forces ashore quickly rather than surviving prolonged combat."
+  },
+  "curated_sources": [
+    {
+      "title": "British Maritime Doctrine (BR 1806)",
+      "type": "report",
+      "url": "https://www.gov.uk/government/publications/british-maritime-doctrine-jdp-0-10",
+      "relevance": "Official Royal Navy doctrine explaining the strategic rationale for amphibious operations and expeditionary warfare concepts that drive Albion-class employment.",
+      "priority": "essential"
+    },
+    {
+      "title": "RUSI Amphibious Warfare Reports",
+      "type": "analyst",
+      "url": "https://rusi.org/",
+      "relevance": "Leading UK defence think tank providing ongoing analysis of Royal Navy amphibious capabilities and their role in contemporary British defence policy.",
+      "priority": "essential"
+    },
+    {
+      "title": "The Royal Navy: A History Since 1900 by Paul Halpern",
+      "type": "book",
+      "url": "",
+      "relevance": "Provides historical context for the evolution of Royal Navy amphibious warfare capabilities from World War II through the post-Cold War transformation that produced the Albion class.",
+      "priority": "recommended"
+    },
+    {
+      "title": "UK Amphibious Forces by Norman Friedman",
+      "type": "book",
+      "url": "",
+      "relevance": "Definitive technical and operational analysis of British amphibious warfare vessels including detailed coverage of Albion-class design decisions and capabilities.",
+      "priority": "essential"
+    },
+    {
+      "title": "Naval Technology - Albion Class",
+      "type": "database",
+      "url": "https://www.naval-technology.com/projects/albion/",
+      "relevance": "Comprehensive technical specifications and systems integration details for the Albion-class platform and its operational equipment.",
+      "priority": "reference"
+    },
+    {
+      "title": "House of Commons Defence Committee Reports on Amphibious Capability",
+      "type": "report",
+      "url": "https://committees.parliament.uk/committee/24/defence-committee/publications/",
+      "relevance": "Parliamentary oversight reports examining the strategic utility and cost-effectiveness of UK amphibious forces in contemporary threat environments.",
+      "priority": "recommended"
+    },
+    {
+      "title": "Littoral Warfare: Lessons from Recent History by CSBA",
+      "type": "report",
+      "url": "https://csbaonline.org/",
+      "relevance": "Analysis of contemporary amphibious operations and their implications for platform design and employment concepts in contested littoral environments.",
+      "priority": "recommended"
+    },
+    {
+      "title": "World Defence Almanac - Royal Navy",
+      "type": "database",
+      "url": "https://www.shephardmedia.com/",
+      "relevance": "Current fleet status, modernisation programmes, and operational deployments of Albion-class vessels within broader Royal Navy force structure.",
+      "priority": "reference"
+    }
+  ]
+}

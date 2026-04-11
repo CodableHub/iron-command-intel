@@ -1,0 +1,225 @@
+{
+  "combat_history": [
+    {
+      "date": "2017-12-19",
+      "operation": "BMD Test",
+      "event": "JS Atago (Maya-class, but represents JMSDF BMD capability evolution from Kongo-class experience) conducted successful SM-3 Block IIA intercept test off Hawaii alongside USS John Finn",
+      "significance": "Demonstrated Japanese BMD integration capabilities developed through Kongo-class operations"
+    },
+    {
+      "date": "2012-04",
+      "operation": "North Korean Satellite Launch Response",
+      "event": "Multiple Kongo-class ships deployed to Sea of Japan and East China Sea on BMD stations during North Korean Unha-3 rocket launch, with SM-3 missiles on alert status",
+      "significance": "First major operational BMD deployment, validating the class's strategic deterrent role"
+    },
+    {
+      "date": "2009-04",
+      "operation": "North Korean Taepodong-2 Launch Response",
+      "event": "JS Kongo and JS Chokai positioned in Sea of Japan with orders to intercept debris threatening Japanese territory during North Korean rocket launch",
+      "significance": "First operational BMD mission for the class, though no intercept was required"
+    },
+    {
+      "date": "2007-12-17",
+      "operation": "SM-3 Test",
+      "event": "JS Kongo successfully intercepted a ballistic missile target during test off Hawaii, becoming first non-U.S. ship to achieve SM-3 intercept",
+      "significance": "Proved Japanese BMD capability and Aegis system proficiency, validating the class's primary mission"
+    }
+  ],
+  "modernization": [
+    {
+      "program": "Aegis Baseline 9 Upgrade",
+      "status": "completed",
+      "timeline": "2014-2020",
+      "description": "Upgraded combat system software to Baseline 9.C1, enhancing ballistic missile defense capabilities and enabling engagement of more sophisticated threats. Improved SM-3 Block IB integration and enhanced discrimination capabilities.",
+      "impact": "Significantly enhanced BMD capability and extended service life relevance against evolving missile threats"
+    },
+    {
+      "program": "SM-3 Block IIA Integration",
+      "status": "in-progress",
+      "timeline": "2020-2025",
+      "description": "Integration of advanced SM-3 Block IIA interceptors with longer range and enhanced discrimination. Requires software updates and possible hardware modifications to VLS systems.",
+      "impact": "Provides capability against intermediate-range ballistic missiles and enhances regional defense coverage"
+    },
+    {
+      "program": "Electronic Warfare Suite Upgrade",
+      "status": "planned",
+      "timeline": "2023-2027",
+      "description": "Modernization of NOLQ-2 ECM suite to counter advanced electronic attack threats from regional adversaries. Includes new jamming systems and improved electronic support measures.",
+      "impact": "Critical for survivability in contested electromagnetic environment against Chinese and North Korean EW capabilities"
+    }
+  ],
+  "vulnerabilities": [
+    {
+      "area": "Anti-ship missile defense saturation",
+      "description": "Limited VLS capacity (90 cells) compared to threats that can launch 100+ anti-ship missiles from multiple platforms simultaneously. Older Phalanx systems less effective against supersonic sea-skimming missiles.",
+      "context": "Chinese saturation attack doctrine specifically targets this weakness, with DF-21D and DF-26 able to overwhelm point defenses",
+      "mitigation": "Operates in conjunction with other BMD assets and relies on standoff engagement, but fundamental capacity limitations remain"
+    },
+    {
+      "area": "Electronic warfare vulnerability",
+      "description": "NOLQ-2 ECM suite is dated compared to modern Chinese and Russian electronic attack capabilities. Limited soft-kill options against advanced missiles with home-on-jam capability.",
+      "context": "Chinese Type 055 destroyers and submarine-launched EW systems pose significant threat to Aegis radar effectiveness",
+      "mitigation": "Planned EW upgrades address some issues, but fundamental architecture limitations require more extensive modernization"
+    },
+    {
+      "area": "Submarine detection gaps",
+      "description": "AN/SQS-53C sonar effective but aging, with limited capability against quiet diesel-electric submarines in littoral waters. Single helicopter limits ASW prosecution capability.",
+      "context": "Chinese submarine force modernization and North Korean midget submarines operate in areas where Kongo-class ships patrol",
+      "mitigation": "Relies heavily on P-1 maritime patrol aircraft and submarine force cooperation, but inherent platform limitations remain"
+    },
+    {
+      "area": "Hypersonic weapon defense",
+      "description": "Current Aegis configuration not optimized for hypersonic glide vehicles or advanced maneuvering reentry vehicles. SM-3 effective against ballistic trajectories but limited against unpredictable flight paths.",
+      "context": "Chinese DF-ZF hypersonic glide vehicle and Russian Zircon represent emerging threat class beyond current defensive envelope",
+      "mitigation": "Future SM-6 integration and Aegis updates may address some gaps, but fundamental physics limitations remain challenging"
+    }
+  ],
+  "operational_patterns": {
+    "typical_deployment": "BMD patrols in Sea of Japan and East China Sea, integrated air defense with U.S. Seventh Fleet, homeland defense stations during North Korean provocations",
+    "deployment_length_months": 4,
+    "key_operating_areas": [
+      "Sea of Japan",
+      "East China Sea",
+      "Philippine Sea",
+      "Western Pacific"
+    ],
+    "typical_task_group": "Single ship BMD patrols, or integrated with U.S. Carrier Strike Groups and Amphibious Ready Groups",
+    "readiness_notes": "High operational tempo due to limited numbers, with typically 2 ships available for operations while others undergo maintenance"
+  },
+  "peer_comparisons": [
+    {
+      "platform": "Arleigh Burke Flight I",
+      "country": "United States",
+      "relationship": "direct predecessor/template",
+      "key_differences": "Kongo class based on Burke design but with Japanese modifications including different mast structure, crew accommodations, and electronic systems. Burke Flight I lacks BMD capability that Kongo received through upgrades. Similar VLS capacity but different missile loadouts.",
+      "video_angle": "Student surpasses teacher: How Japan's Aegis destroyers evolved beyond their American origins"
+    },
+    {
+      "platform": "Type 052D Luyang III",
+      "country": "China",
+      "relationship": "direct rival",
+      "key_differences": "Chinese ship has land-attack cruise missiles and more modern sensors, but lacks proven BMD capability. Type 052D has 64 VLS cells vs Kongo's 90, but includes YJ-18 anti-ship missiles. Chinese ship more recent design with advanced EW suite.",
+      "video_angle": "Shield vs Sword: Japanese BMD destroyers face China's multi-role surface combatants"
+    },
+    {
+      "platform": "Sejong the Great-class (KDX-III)",
+      "country": "South Korea",
+      "relationship": "regional equivalent",
+      "key_differences": "Korean ships larger with 128 VLS cells and more comprehensive armament including land-attack missiles. Both have BMD capability, but Korean ships have more modern Aegis baseline and dual helicopter hangar. Kongo class more experienced in BMD operations.",
+      "video_angle": "Asian Aegis: Comparing Japan and South Korea's missile defense destroyers"
+    },
+    {
+      "platform": "Atago-class",
+      "country": "Japan",
+      "relationship": "successor",
+      "key_differences": "Atago class larger with improved Aegis Baseline 7 and enhanced BMD capability. Better sensors and EW systems, but Kongo class more numerous and equally effective for current BMD missions. Atago represents evolution of same design philosophy.",
+      "video_angle": "Evolution of Japanese sea power: From Kongo to Atago class destroyers"
+    },
+    {
+      "platform": "Type 45 Daring-class",
+      "country": "United Kingdom",
+      "relationship": "allied equivalent",
+      "key_differences": "British ships focused on area air defense with SAMPSON radar and Aster missiles, but lack BMD capability entirely. Different propulsion (gas turbine-electric vs all gas turbine). Similar crew size but different operational focus and geographic requirements.",
+      "video_angle": "Different approaches to naval air defense: British vs Japanese destroyer philosophy"
+    }
+  ],
+  "search_keywords": [
+    "kongo class",
+    "kong\u014d class",
+    "DDG-173",
+    "DDG-174",
+    "DDG-175",
+    "DDG-177",
+    "JS Kongo",
+    "JS Kirishima",
+    "JS Myoko",
+    "JS Chokai",
+    "JMSDF destroyer",
+    "Japanese Aegis",
+    "BMD destroyer",
+    "SM-3",
+    "ballistic missile defense"
+  ],
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/JDS_Kirishima%2C_Kongo-class_destroyer%2C_1998.jpg/1280px-JDS_Kirishima%2C_Kongo-class_destroyer%2C_1998.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/08/JDS_Kirishima%2C_Kongo-class_destroyer%2C_1998.jpg",
+      "width": 2030,
+      "height": 1340,
+      "title": "JDS Kirishima, Kongo-class destroyer, 1998.jpg",
+      "description": "Starboard beam view of the Japanese Maritime Self Defense Force ship JDS KIRISHIMA (DDG-174), a KONGO class destroyer, as it returns to Hawaii at the end of exercise RIMPAC '98.",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/JS_Izumo_DD-120_%26_Kong%C5%8D-class_Destroyer_in_Yokosuka2023.jpg/1280px-JS_Izumo_DD-120_%26_Kong%C5%8D-class_Destroyer_in_Yokosuka2023.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/04/JS_Izumo_DD-120_%26_Kong%C5%8D-class_Destroyer_in_Yokosuka2023.jpg",
+      "width": 4193,
+      "height": 2360,
+      "title": "JS Izumo DD-120 & Kong\u014d-class Destroyer in Yokosuka2023.jpg",
+      "description": "In 2023, the JS Izumo helicopter carrier, the JS Asahi-class destroyer DD-120 Shiranui, and the Kongou-class destroyers inside Yokosuka Naval Base.",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Kongo_class_-_Engineering_1877-11-16.png/1280px-Kongo_class_-_Engineering_1877-11-16.png",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/22/Kongo_class_-_Engineering_1877-11-16.png",
+      "width": 1947,
+      "height": 883,
+      "title": "Kongo class - Engineering 1877-11-16.png",
+      "description": "The <i>Kong\u014d</i> class comprised two Japanese warships, designed by Edward Reed and built in Britain. The ships were featured in the periodical <i>Engineering</i> on November 16, 1877, page 370-371 &a",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Kongo_class_battleship_drawing.png/1280px-Kongo_class_battleship_drawing.png",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Kongo_class_battleship_drawing.png",
+      "width": 3926,
+      "height": 1698,
+      "title": "Kongo class battleship drawing.png",
+      "description": "A drawing of the Kongo class battleship. Scale shows height in feet.",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/The_U.S._Navy_Nimitz_Class_Aircraft_Carrier_USS_RONALD_REAGAN_%28CVN_76%29%2C_foreground%2C_connects_to_the_Japan_Maritime_Self_Defense_Force_Kongo_Class_Destroyer%2C_MYOUKOU_%28DDG_175%29_during_-_DPLA_-_4ab8c8ce72fe546727df2ebfab2db12c.jpeg/1280px-thumbnail.jpeg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/73/The_U.S._Navy_Nimitz_Class_Aircraft_Carrier_USS_RONALD_REAGAN_%28CVN_76%29%2C_foreground%2C_connects_to_the_Japan_Maritime_Self_Defense_Force_Kongo_Class_Destroyer%2C_MYOUKOU_%28DDG_175%29_during_-_DPLA_-_4ab8c8ce72fe546727df2ebfab2db12c.jpeg",
+      "width": 3000,
+      "height": 1993,
+      "title": "The U.S. Navy Nimitz Class Aircraft Carrier USS RONALD REAGAN (CVN 76), foreground, connects to the Japan Maritime Self Defense Force Kongo Class Destroyer, MYOUKOU (DDG 175) during - DPLA - 4ab8c8ce72fe546727df2ebfab2db12c.jpeg",
+      "description": "<div class=\"description\">\nThe original finding aid described this photograph as: Country: Pacific Ocean (POC) Scene Camera Operator: MCS Spike Call, USN Release Status: Released to Public</div>",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/The_U.S._Navy_Nimitz_Class_Aircraft_Carrier_USS_RONALD_REAGAN_%28CVN_76%29%2C_foreground%2C_connects_to_the_Japan_Maritime_Self_Defense_Force_Kongo_Class_Destroyer%2C_MYOUKOU_%28DDG_175%29_during_a_refueling_at_sea_somewhere_070317-N-HX866-018.jpg/1280px-thumbnail.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/ca/The_U.S._Navy_Nimitz_Class_Aircraft_Carrier_USS_RONALD_REAGAN_%28CVN_76%29%2C_foreground%2C_connects_to_the_Japan_Maritime_Self_Defense_Force_Kongo_Class_Destroyer%2C_MYOUKOU_%28DDG_175%29_during_a_refueling_at_sea_somewhere_070317-N-HX866-018.jpg",
+      "width": 3000,
+      "height": 1993,
+      "title": "The U.S. Navy Nimitz Class Aircraft Carrier USS RONALD REAGAN (CVN 76), foreground, connects to the Japan Maritime Self Defense Force Kongo Class Destroyer, MYOUKOU (DDG 175) during a refueling at sea somewhere 070317-N-HX866-018.jpg",
+      "description": "The U.S. Navy Nimitz Class Aircraft Carrier USS RONALD REAGAN (CVN 76), foreground, connects to the Japan Maritime Self Defense Force Kongo Class Destroyer, MYOUKOU (DDG 175) during a refueling at sea",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/The_U.S._Navy_Nimitz_Class_Aircraft_Carrier_USS_RONALD_REAGAN_%28CVN_76%29_%28right%29_connects_to_the_Japanese_Maritime_Self_Defense_Force_%28JMSDF%29_Kongo_Class_Destroyer_MYOKO_%28DDG_175%29_during_a_refueling_at_sea_070317-N-HX866-052.jpg/1280px-thumbnail.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/74/The_U.S._Navy_Nimitz_Class_Aircraft_Carrier_USS_RONALD_REAGAN_%28CVN_76%29_%28right%29_connects_to_the_Japanese_Maritime_Self_Defense_Force_%28JMSDF%29_Kongo_Class_Destroyer_MYOKO_%28DDG_175%29_during_a_refueling_at_sea_070317-N-HX866-052.jpg",
+      "width": 4288,
+      "height": 2848,
+      "title": "The U.S. Navy Nimitz Class Aircraft Carrier USS RONALD REAGAN (CVN 76) (right) connects to the Japanese Maritime Self Defense Force (JMSDF) Kongo Class Destroyer MYOKO (DDG 175) during a refueling at sea 070317-N-HX866-052.jpg",
+      "description": "The U.S. Navy Nimitz Class Aircraft Carrier USS RONALD REAGAN (CVN 76) (right) connects to the Japanese Maritime Self Defense Force (JMSDF) Kongo Class Destroyer MYOKO (DDG 175) during a refueling at ",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/USS_Higgins_DDG_76_%26_DD-120_%26_Kong%C5%8D-class_Destroyer_in_Yokosuka2023.jpg/1280px-USS_Higgins_DDG_76_%26_DD-120_%26_Kong%C5%8D-class_Destroyer_in_Yokosuka2023.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/39/USS_Higgins_DDG_76_%26_DD-120_%26_Kong%C5%8D-class_Destroyer_in_Yokosuka2023.jpg",
+      "width": 4031,
+      "height": 2267,
+      "title": "USS Higgins DDG 76 & DD-120 & Kong\u014d-class Destroyer in Yokosuka2023.jpg",
+      "description": "\u200b2023\u5e74\uff0c\u65e5\u672c\u6a2a\u987b\u8d3a\u519b\u6e2f\u5185\u7684\u7f8e\u519b\u963f\u5229\u00b7\u4f2f\u514b\u7d1a\u9a71\u9010\u8230DDG76\u5e0c\u91d1\u65af\u53f7\uff08\u53f3\uff09\u4e0e\u5de6\u4fa7\u8fdc\u7aef\u65e5\u672c\u6d77\u4e0a\u81ea\u536b\u961f\u671d\u65e5\u7ea7\u9a71\u9010\u8230\u4e0d\u77e5\u706b\u865f\uff08120\uff09\u548c\u91d1\u521a\u7ea7\u9a71\u9010\u8230\u3002",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    }
+  ]
+}

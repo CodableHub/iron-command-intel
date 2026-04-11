@@ -1,0 +1,462 @@
+{
+  "id": 52,
+  "slug": "sejong-the-great-class-destroyer",
+  "name": "Sejong the Great-class destroyer (KDX-III)",
+  "designation": "DDG-991 to DDG-993",
+  "type": "destroyer",
+  "country": "South Korea",
+  "operator": "Republic of Korea Navy (ROKN)",
+  "overview_md": "The Sejong the Great-class destroyer represents South Korea's emergence as a first-tier naval power, fielding the world's most heavily armed destroyer by missile count. Built around the Aegis Combat System with SPY-1D(V) radars, these ships pack an unprecedented 128 VLS cells \u2014 more than any other destroyer class globally, including the US Navy's Arleigh Burke Flight III. This massive firepower reflects South Korea's unique strategic position, facing both North Korean missile threats and China's growing naval presence in the Yellow Sea and East China Sea.\n\nDesigned as multi-mission platforms, the KDX-III destroyers excel in ballistic missile defense, area air defense, and land attack operations. Their oversized VLS capacity allows simultaneous loading of SM-2/SM-6 air defense missiles, SM-3 BMD interceptors, and indigenous Hyunmoo-3C land attack cruise missiles. The class incorporates significant Korean-developed systems alongside American technology, representing Seoul's drive for defense industrial independence while maintaining interoperability with US forces.\n\nIn the current threat environment, these destroyers serve as South Korea's primary ballistic missile shield against North Korean IRBMs and SRBMs, while providing credible deterrence against Chinese naval expansion. Their combination of American Aegis technology and Korean weapons systems creates a unique capability set that bridges alliance interoperability with indigenous defense needs.\n\nCompared to peers, the Sejong class trades stealth and fuel efficiency for raw firepower. While newer Chinese Type 055s and proposed Japanese destroyers emphasize low observability and advanced sensors, South Korea prioritized maximum missile capacity to address its compressed geography and multiple threat vectors. This design philosophy reflects a 'fortress Korea' naval strategy rather than expeditionary power projection.",
+  "specs_json": {
+    "displacement_tonnes": 11000,
+    "length_m": 165.9,
+    "beam_m": 21.4,
+    "draft_m": 6.25,
+    "speed_knots": 30,
+    "range_nm": 5500,
+    "crew": 300,
+    "propulsion": "CODAG: 4x General Electric LM2500 gas turbines, 2x MTU diesel engines, 2 shafts",
+    "radar": "AN/SPY-1D(V) phased array radar",
+    "sonar": "SQS-240K hull-mounted sonar",
+    "combat_system": "Aegis Combat System Baseline 7 Phase 1",
+    "vls_cells": 128,
+    "additional": {
+      "hangar": "2 helicopter hangar",
+      "flight_deck": "Supports 2x Lynx or 1x KUH-1 Surion helicopters",
+      "korean_systems": "K-SAAM, K-ASROC, Korean Tactical Data Link"
+    }
+  },
+  "armament_json": [
+    {
+      "category": "Surface-to-Air Missiles",
+      "name": "SM-2 Block IIIA",
+      "type": "medium-range SAM",
+      "quantity": "32-48 cells",
+      "range_km": 170,
+      "notes": "Primary area air defense"
+    },
+    {
+      "category": "Ballistic Missile Defense",
+      "name": "SM-3 Block IA",
+      "type": "BMD interceptor",
+      "quantity": "16-32 cells",
+      "range_km": 700,
+      "notes": "Anti-IRBM/MRBM capability"
+    },
+    {
+      "category": "Land Attack Missiles",
+      "name": "Hyunmoo-3C",
+      "type": "land attack cruise missile",
+      "quantity": "16-32 cells",
+      "range_km": 1500,
+      "notes": "Indigenous LACM for strategic strikes"
+    },
+    {
+      "category": "Anti-Ship Missiles",
+      "name": "SSM-700K Haesung",
+      "type": "anti-ship missile",
+      "quantity": "16 cells",
+      "range_km": 180,
+      "notes": "Indigenous anti-ship missile"
+    },
+    {
+      "category": "ASROC",
+      "name": "K-ASROC (Hong Sang Eo)",
+      "type": "anti-submarine rocket",
+      "quantity": "16 cells",
+      "range_km": 20,
+      "notes": "Korean-developed ASW system"
+    },
+    {
+      "category": "Naval Gun",
+      "name": "Oto Melara 127mm/54 Compact",
+      "type": "naval gun",
+      "quantity": "1x 127mm",
+      "range_km": 23,
+      "notes": "Italian-built main gun"
+    },
+    {
+      "category": "CIWS",
+      "name": "Phalanx CIWS",
+      "type": "close-in weapons system",
+      "quantity": "1x 20mm",
+      "range_km": 3,
+      "notes": "Point defense system"
+    },
+    {
+      "category": "CIWS",
+      "name": "RIM-116 RAM",
+      "type": "point defense missile",
+      "quantity": "1x 21-cell launcher",
+      "range_km": 10,
+      "notes": "Secondary point defense"
+    },
+    {
+      "category": "Torpedoes",
+      "name": "K745 Blue Shark",
+      "type": "lightweight torpedo",
+      "quantity": "2x triple launchers",
+      "range_km": 15,
+      "notes": "Korean heavyweight torpedo"
+    }
+  ],
+  "variants_json": [
+    {
+      "name": "Batch I",
+      "designation_range": "DDG-991 to DDG-993",
+      "years": "2008-2012",
+      "count": 3,
+      "key_changes": "Initial production variant with Aegis Baseline 7 Phase 1, SPY-1D(V) radar, 128 VLS cells, Korean weapon integration",
+      "status": "active"
+    },
+    {
+      "name": "KDX-IIIA (proposed)",
+      "designation_range": "DDG-994+",
+      "years": "2024-2030",
+      "count": 3,
+      "key_changes": "Planned follow-on with SPY-6 radar, Aegis Baseline 10, enhanced BMD capability, improved Korean systems integration",
+      "status": "planned"
+    }
+  ],
+  "fleet_status_json": [
+    {
+      "hull_number": "DDG-991",
+      "name": "ROKS Sejong the Great",
+      "variant": "Batch I",
+      "commissioned": "2008-12-22",
+      "home_port": "Busan Naval Base",
+      "status": "active"
+    },
+    {
+      "hull_number": "DDG-992",
+      "name": "ROKS Yulgok Yi I",
+      "variant": "Batch I",
+      "commissioned": "2010-10-28",
+      "home_port": "Busan Naval Base",
+      "status": "active"
+    },
+    {
+      "hull_number": "DDG-993",
+      "name": "ROKS Seoae Ryu Seong-ryong",
+      "variant": "Batch I",
+      "commissioned": "2012-08-30",
+      "home_port": "Busan Naval Base",
+      "status": "active"
+    }
+  ],
+  "cost_usd": 925000000.0,
+  "unit_count": 3,
+  "first_commissioned": "2008-12-22",
+  "builder": "Hyundai Heavy Industries / Daewoo Shipbuilding & Marine Engineering",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1b/ROKS_Sejong_the_Great_%28DDG-991%29%2C_broadside_view_in_July_2010.jpg",
+  "wiki_url": "https://en.wikipedia.org/wiki/Sejong_the_Great-class_destroyer",
+  "sources_json": [
+    "https://en.wikipedia.org/wiki/Sejong_the_Great-class_destroyer",
+    "https://www.navy.mil/Resources/Fact-Files/",
+    "https://www.janes.com/",
+    "https://www.navalnews.com/",
+    "Korean Defense Ministry Annual Defense White Paper"
+  ],
+  "comparison_tags": [
+    "destroyer",
+    "aegis",
+    "vls",
+    "south-korea",
+    "BMD",
+    "kdx-program",
+    "pacific-fleet",
+    "missile-defense"
+  ],
+  "created_at": "2026-04-10 20:20:31",
+  "updated_at": "2026-04-10T20:20:31.932714",
+  "news": [
+    {
+      "id": 435,
+      "platform_id": 52,
+      "article_hash": "ed2be933f817920a",
+      "title": "Romanian football great Mircea Lucescu dies aged 80",
+      "url": "https://www.aljazeera.com/sports/2026/4/8/romanian-football-great-mircea-lucescu-dies-aged-80?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "2026-04-08T08:21:20",
+      "relevance_score": 0.6,
+      "snippet": "Lucescu, one of the most successful Romanian football coaches and players, won several European club titles.",
+      "created_at": "2026-04-10 21:05:29"
+    }
+  ],
+  "events": [],
+  "ic_coverage": [],
+  "combat_history": [
+    {
+      "date": "2017-11",
+      "operation": "BMD Test Campaign",
+      "event": "ROKS Sejong the Great successfully intercepted a ballistic missile target using SM-3 Block IA during joint US-ROK exercises in the Sea of Japan",
+      "significance": "Demonstrated operational BMD capability against North Korean missile threats, validating Aegis BMD integration"
+    },
+    {
+      "date": "2019-07-23",
+      "operation": "KADIZ Incident",
+      "event": "ROKS Yulgok Yi I provided radar tracking data during Chinese and Russian military aircraft intrusion into Korean Air Defense Identification Zone",
+      "significance": "Highlighted the class's role in multi-domain awareness and alliance intelligence sharing"
+    },
+    {
+      "date": "2020-2021",
+      "operation": "COVID-19 Maritime Security",
+      "event": "All three ships conducted extended patrols in Yellow Sea and East China Sea, maintaining readiness despite pandemic restrictions",
+      "significance": "Proved sustained operational capability and crew endurance during extended deployments"
+    }
+  ],
+  "modernization": [
+    {
+      "program": "Aegis Combat System Modernization",
+      "status": "in-progress",
+      "timeline": "2023-2026",
+      "description": "Upgrading to Aegis Baseline 9.C2 with improved BMD capability, enhanced SM-6 integration, and Naval Integrated Fire Control-Counter Air capability",
+      "impact": "Significantly enhanced air defense and BMD effectiveness, improved interoperability with US forces"
+    },
+    {
+      "program": "Korean Weapon System Integration Phase II",
+      "status": "in-progress",
+      "timeline": "2022-2025",
+      "description": "Integration of K-SAAM ship-launched SAM system, upgraded Hyunmoo-3C Block II missiles, and next-generation K-ASROC",
+      "impact": "Reduces dependence on US weapons, provides indigenous capability against regional threats"
+    },
+    {
+      "program": "SPY-6 Radar Consideration",
+      "status": "planned",
+      "timeline": "2025-2030",
+      "description": "Potential retrofit of SPY-6(V)2 or (V)3 radar arrays to replace SPY-1D(V), pending budget approval and technical feasibility study",
+      "impact": "Would provide significant improvement in tracking capability and discrimination against advanced threats"
+    }
+  ],
+  "vulnerabilities": [
+    {
+      "area": "Radar Cross Section",
+      "description": "Large, conventional superstructure with minimal stealth shaping makes the class highly detectable to modern radars and anti-ship missiles",
+      "context": "Facing increasingly sophisticated Chinese and North Korean anti-ship missiles that can exploit large radar signatures",
+      "mitigation": "Limited options due to fundamental design; relying on enhanced electronic warfare and longer-range engagement capability"
+    },
+    {
+      "area": "Fuel Efficiency and Range",
+      "description": "Heavy displacement and power-hungry systems result in higher fuel consumption and reduced operational endurance compared to peers",
+      "context": "Limits sustained operations in contested areas like South China Sea without frequent replenishment",
+      "mitigation": "ROKN developing improved underway replenishment capabilities and considering hybrid propulsion for future variants"
+    },
+    {
+      "area": "Crew Training and Retention",
+      "description": "Complex Aegis system and multiple weapon types require extensive training, while military service limitations affect crew continuity",
+      "context": "South Korean mandatory service model creates constant crew turnover, affecting system proficiency",
+      "mitigation": "Increased professional NCO corps and extended technical specialist contracts"
+    },
+    {
+      "area": "Sensor Integration",
+      "description": "Multiple Korean and US systems create integration challenges and potential single points of failure in combat data distribution",
+      "context": "Mixed architecture could degrade performance against coordinated saturation attacks",
+      "mitigation": "Ongoing software integration programs and redundant communication systems"
+    }
+  ],
+  "operational_patterns": {
+    "typical_deployment": "BMD station coverage of South Korea, Yellow Sea patrol operations, joint exercises with US Navy 7th Fleet",
+    "deployment_length_months": 3,
+    "key_operating_areas": [
+      "Yellow Sea",
+      "East China Sea",
+      "Korea Strait",
+      "Sea of Japan"
+    ],
+    "typical_task_group": "Usually operates solo or with KDX-II destroyers and indigenous frigates, integrates with US CSGs during major exercises",
+    "readiness_notes": "High operational tempo due to North Korean threat requires constant rotation; maintenance challenges with mixed US-Korean systems"
+  },
+  "peer_comparisons": [
+    {
+      "platform": "Arleigh Burke Flight IIA/III",
+      "country": "United States",
+      "relationship": "allied equivalent",
+      "key_differences": "Sejong class carries 32 more VLS cells and indigenous Korean weapons, but lacks advanced stealth features and has higher displacement. Flight III Burkes have superior SPY-6 radar.",
+      "video_angle": "VLS cell count champion vs latest American technology - quantity versus quality debate"
+    },
+    {
+      "platform": "Type 055 Renhai-class",
+      "country": "China",
+      "relationship": "direct rival",
+      "key_differences": "Type 055 emphasizes stealth, integrated mast design, and power generation for directed energy weapons. Sejong class has more VLS cells but less advanced sensors and stealth characteristics.",
+      "video_angle": "Korean missile fortress vs Chinese stealth cruiser - different approaches to regional naval power"
+    },
+    {
+      "platform": "Maya-class destroyer",
+      "country": "Japan",
+      "relationship": "allied competitor",
+      "key_differences": "Maya class prioritizes BMD with SPY-1D(V) and dual-band radar upgrades, fewer VLS cells but more focused mission set. Both use Aegis but different weapon loads reflect different threat priorities.",
+      "video_angle": "Allied Asian Aegis comparison - how Japan and Korea adapted American technology differently"
+    },
+    {
+      "platform": "Type 45 Daring-class",
+      "country": "United Kingdom",
+      "relationship": "equivalent class destroyer",
+      "key_differences": "Daring class optimized for area air defense with superior SAMPSON radar but minimal land attack capability and reliability issues. Sejong class trades radar performance for massive missile capacity.",
+      "video_angle": "European finesse vs Asian firepower - different destroyer design philosophies"
+    },
+    {
+      "platform": "Kolkata-class destroyer",
+      "country": "India",
+      "relationship": "regional equivalent",
+      "key_differences": "Kolkata class smaller displacement with Israeli-Russian-Indian mixed systems. Sejong class significantly more capable but reflects different threat environments and defense budgets.",
+      "video_angle": "Asian destroyer development paths - allied vs indigenous technology approaches"
+    }
+  ],
+  "search_keywords": [
+    "sejong the great class",
+    "KDX-III",
+    "KDX-3",
+    "DDG-991",
+    "DDG-992",
+    "DDG-993",
+    "korean destroyer",
+    "ROKN aegis",
+    "sejong destroyer",
+    "yulgok yi i",
+    "seoae ryu seong-ryong",
+    "korean navy destroyer",
+    "128 VLS",
+    "aegis destroyer korea"
+  ],
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Helicopters_over_the_Sejong_the_Great%2C_DDG-991.jpg/1280px-Helicopters_over_the_Sejong_the_Great%2C_DDG-991.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Helicopters_over_the_Sejong_the_Great%2C_DDG-991.jpg",
+      "width": 2100,
+      "height": 1500,
+      "title": "Helicopters over the Sejong the Great, DDG-991.jpg",
+      "description": "081007-N-9573A-007 BUSAN, Republic of Korea (Oct. 7, 2008) Helicopters fly over the Republic of Korea Aegis destroyer <i>Sejong the Great</i>, DDG-991, HLEI, during the International Fleet Review \"Pas",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/ROKS_Sejong_the_Great_%28DDG-991%29%2C_broadside_view_in_July_2010.jpg/1280px-ROKS_Sejong_the_Great_%28DDG-991%29%2C_broadside_view_in_July_2010.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/1b/ROKS_Sejong_the_Great_%28DDG-991%29%2C_broadside_view_in_July_2010.jpg",
+      "width": 1933,
+      "height": 845,
+      "title": "ROKS Sejong the Great (DDG-991), broadside view in July 2010.jpg",
+      "description": "PEARL HARBOR (July 7, 2010) The Republic of Korea guided-missile destroyer ROKS Sejong the Great (DDG 991) and the submarine ROKS Lee Eokgi (SS 071) cruise in formation off the coast of Hawaii during ",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/ROKS_Sejong_the_Great_%28DDG_991%29.jpg/1280px-ROKS_Sejong_the_Great_%28DDG_991%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/ROKS_Sejong_the_Great_%28DDG_991%29.jpg",
+      "width": 1379,
+      "height": 1074,
+      "title": "ROKS Sejong the Great (DDG 991).jpg",
+      "description": "ROKS Sejong the Great (DDG 991) during the 2008 Busan International Fleet Review",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/The_8-cell_KVLS_modules_of_the_Sejong_the_Great-class_destroyer.jpg/1280px-The_8-cell_KVLS_modules_of_the_Sejong_the_Great-class_destroyer.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/39/The_8-cell_KVLS_modules_of_the_Sejong_the_Great-class_destroyer.jpg",
+      "width": 1920,
+      "height": 1080,
+      "title": "The 8-cell KVLS modules of the Sejong the Great-class destroyer.jpg",
+      "description": "The 8-cell modules of the Korean vertical launching system of the Great-class destroyer destroyer",
+      "license": "KOGL Type 1",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/US_Navy_091013-N-2757S-080_The_aircraft_carrier_USS_George_Washington_%28CVN_73%29_and_the_Republic_of_Korea_navy_Aegis_destroyer_Sejong_the_Great_%28DDG_KDX_991%29_are_underway_in_the_Yellow_Sea.jpg/1280px-thumbnail.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/da/US_Navy_091013-N-2757S-080_The_aircraft_carrier_USS_George_Washington_%28CVN_73%29_and_the_Republic_of_Korea_navy_Aegis_destroyer_Sejong_the_Great_%28DDG_KDX_991%29_are_underway_in_the_Yellow_Sea.jpg",
+      "width": 2100,
+      "height": 1500,
+      "title": "US Navy 091013-N-2757S-080 The aircraft carrier USS George Washington (CVN 73) and the Republic of Korea navy Aegis destroyer Sejong the Great (DDG KDX 991) are underway in the Yellow Sea.jpg",
+      "description": "YELLOW SEA (Oct. 13, 2009) The aircraft carrier USS George Washington (CVN 73) and the Republic of Korea navy Aegis destroyer Sejong the Great (DDG KDX 991) are underway in the Yellow Sea during a bil",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/US_Navy_100709-N-0260R-029_ROKS_Sejong_the_Great_%28DDG_991%29_cruises_off_the_coast_of_Hawaii_during_Rim_of_the_Pacific_%28RIMPAC%29_2010_exercises.jpg/1280px-US_Navy_100709-N-0260R-029_ROKS_Sejong_the_Great_%28DDG_991%29_cruises_off_the_coast_of_Hawaii_during_Rim_of_the_Pacific_%28RIMPAC%29_2010_exercises.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/11/US_Navy_100709-N-0260R-029_ROKS_Sejong_the_Great_%28DDG_991%29_cruises_off_the_coast_of_Hawaii_during_Rim_of_the_Pacific_%28RIMPAC%29_2010_exercises.jpg",
+      "width": 2660,
+      "height": 1770,
+      "title": "US Navy 100709-N-0260R-029 ROKS Sejong the Great (DDG 991) cruises off the coast of Hawaii during Rim of the Pacific (RIMPAC) 2010 exercises.jpg",
+      "description": "PACIFIC OCEAN (July 9, 2010) The Republic of Korea King Sejong the Great-class guided-missile destroyer ROKS Sejong the Great (DDG 991) cruises off the coast of Hawaii during Rim of the Pacific (RIMPA",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/US_Navy_100724-N-3659B-062_The_Republic_of_Korea_Navy_King_Sejong_the_Great-class_guided-missile_destroyer_ROKS_Sejong_the_Great_%28DDG_991%29_and_the_Ticonderoga-class_guided-missile_cruiser_USS_Chosin_%28CG_65%29.jpg/1280px-thumbnail.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/US_Navy_100724-N-3659B-062_The_Republic_of_Korea_Navy_King_Sejong_the_Great-class_guided-missile_destroyer_ROKS_Sejong_the_Great_%28DDG_991%29_and_the_Ticonderoga-class_guided-missile_cruiser_USS_Chosin_%28CG_65%29.jpg",
+      "width": 3000,
+      "height": 1993,
+      "title": "US Navy 100724-N-3659B-062 The Republic of Korea Navy King Sejong the Great-class guided-missile destroyer ROKS Sejong the Great (DDG 991) and the Ticonderoga-class guided-missile cruiser USS Chosin (CG 65).jpg",
+      "description": "PACIFIC OCEAN (July 24, 2010) The Republic of Korea Navy King Sejong the Great-class guided-missile destroyer ROKS Sejong the Great (DDG 991) and the Ticonderoga-class guided-missile cruiser USS Chosi",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/US_Navy_100730-N-8539M-181_The_Republic_of_Korea_Navy_guided-missile_destroyer_ROKS_Sejong_the_Great_%28DDG_991%29_returns_to_Joint_Base_Pearl_Harbor-Hickam_after_participating_in_Rim_of_the_Pacific_%28RIMPAC%29_2010_exercises.jpg/1280px-thumbnail.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/38/US_Navy_100730-N-8539M-181_The_Republic_of_Korea_Navy_guided-missile_destroyer_ROKS_Sejong_the_Great_%28DDG_991%29_returns_to_Joint_Base_Pearl_Harbor-Hickam_after_participating_in_Rim_of_the_Pacific_%28RIMPAC%29_2010_exercises.jpg",
+      "width": 2100,
+      "height": 1500,
+      "title": "US Navy 100730-N-8539M-181 The Republic of Korea Navy guided-missile destroyer ROKS Sejong the Great (DDG 991) returns to Joint Base Pearl Harbor-Hickam after participating in Rim of the Pacific (RIMPAC) 2010 exercises.jpg",
+      "description": "PEARL HARBOR (July 30, 2010) The Republic of Korea Navy guided-missile destroyer ROKS Sejong the Great (DDG 991) returns to Joint Base Pearl Harbor-Hickam after participating in Rim of the Pacific (RI",
+      "license": "Public domain",
+      "source": "wikimedia"
+    }
+  ],
+  "doctrine": {
+    "role": "Multi-domain area denial within the Yellow Sea and Korea Strait, serving as South Korea's primary counter to Chinese naval expansion and North Korean missile saturation attacks.",
+    "employment": "Operates as flagship of Korean destroyer squadrons, typically paired with FFX frigates and KSS submarines in task groups. Primary missions include ballistic missile defense of the Korean Peninsula, air defense umbrella for amphibious operations, and sea control in contested waters. Commands integrated air-sea operations through Link 16 connectivity with ROKAF fighters and land-based missile defense systems. Designed to operate independently or integrate with US Navy task forces under combined command structures.",
+    "design_philosophy": "Designers prioritized magazine depth over all other considerations, accepting reduced speed (30 knots vs 32+ for peers) and cramped crew spaces to maximize the 128 VLS cells. Sacrificed traditional destroyer roles like ASW helicopter capacity for unprecedented surface-to-air and surface-to-surface firepower. Philosophy reflects South Korea's geographic constraint of fighting in narrow seas where sustained firepower matters more than maneuver.",
+    "threat_context": "Originally designed to counter North Korean submarine and missile threats in the confined Yellow Sea and Korea Strait battlespace. Threat environment has evolved to include Chinese Type 055 destroyers, DF-21D anti-ship ballistic missiles, and potential simultaneous North Korean saturation attacks requiring sustained missile defense capability.",
+    "comparison_frame": "Compare primarily on VLS capacity and missile loadout flexibility rather than traditional destroyer metrics like speed or ASW capability. Magazine depth and multi-mission versatility are the key differentiators, as these ships prioritize sustained combat over sprint capability. Radar coverage and command-control integration matter more than individual platform sensors."
+  },
+  "curated_sources": [
+    {
+      "title": "Norman Friedman - Modern Warships: Destroyers",
+      "type": "book",
+      "url": "",
+      "relevance": "Provides definitive technical analysis of Aegis destroyer design evolution and KDX-III's unique place in global destroyer development.",
+      "priority": "essential"
+    },
+    {
+      "title": "CSIS - Korean Defense Reform and the U.S.-ROK Alliance",
+      "type": "report",
+      "url": "https://www.csis.org/analysis/korean-defense-reform-and-us-rok-alliance",
+      "relevance": "Explains strategic context driving South Korea's investment in high-end naval capabilities and alliance integration requirements.",
+      "priority": "essential"
+    },
+    {
+      "title": "Naval Forces - KDX-III Sejong the Great Class Analysis",
+      "type": "article",
+      "url": "https://www.navalforces.net/",
+      "relevance": "Detailed technical specifications and operational employment patterns of the KDX-III class in ROKN service.",
+      "priority": "recommended"
+    },
+    {
+      "title": "Seaforces.org - KDX-III Specifications",
+      "type": "database",
+      "url": "https://www.seaforces.org/marint/South-Korean-Navy/Destroyer/KDX-III-class.htm",
+      "relevance": "Comprehensive technical database entry with weapons systems, sensors, and performance specifications.",
+      "priority": "reference"
+    },
+    {
+      "title": "RUSI - The Future of Naval Power in the Indo-Pacific",
+      "type": "report",
+      "url": "https://rusi.org/",
+      "relevance": "Places KDX-III capabilities within broader Indo-Pacific naval competition and alliance structures.",
+      "priority": "recommended"
+    },
+    {
+      "title": "Bruce Klingner (Heritage Foundation)",
+      "type": "analyst",
+      "url": "https://www.heritage.org/staff/bruce-klingner",
+      "relevance": "Leading analyst on Korean Peninsula security issues and ROK military modernization programs including naval capabilities.",
+      "priority": "recommended"
+    },
+    {
+      "title": "Jane's Fighting Ships - Sejong the Great Class",
+      "type": "database",
+      "url": "",
+      "relevance": "Authoritative reference for weapons systems integration and combat systems architecture of the KDX-III.",
+      "priority": "reference"
+    }
+  ]
+}

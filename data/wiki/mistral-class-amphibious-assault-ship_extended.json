@@ -1,0 +1,277 @@
+{
+  "combat_history": [
+    {
+      "date": "2011-03",
+      "operation": "Operation Harmattan",
+      "event": "Mistral deployed to Libya as command ship and helicopter platform, supporting NATO air operations and evacuation of foreign nationals",
+      "significance": "First major combat deployment demonstrating C2 and aviation capabilities in contested environment"
+    },
+    {
+      "date": "2013-01",
+      "operation": "Operation Serval",
+      "event": "Dixmude deployed to Mali with 16 helicopters, 550 troops, and vehicles, conducting sustained operations against insurgents",
+      "significance": "Validated design concept for rapid African deployment and sustained helicopter operations"
+    },
+    {
+      "date": "2020-04",
+      "operation": "COVID-19 Response",
+      "event": "Tonnerre deployed as mobile hospital ship to French overseas territories, treating COVID patients using onboard medical facilities",
+      "significance": "Demonstrated HADR capabilities and medical facility effectiveness"
+    },
+    {
+      "date": "2020-08",
+      "operation": "Beirut Blast Response",
+      "event": "Tonnerre deployed to Lebanon with medical personnel, vehicles, and supplies following port explosion",
+      "significance": "Showcased rapid humanitarian response capability and international crisis response role"
+    },
+    {
+      "date": "2021-04",
+      "operation": "Chammal/Inherent Resolve",
+      "event": "Mistral operated in Eastern Mediterranean supporting anti-ISIS operations with helicopter assets",
+      "significance": "Demonstrated sustained aviation operations in multi-threat environment"
+    }
+  ],
+  "modernization": [
+    {
+      "program": "Mid-life upgrade program",
+      "status": "planned",
+      "timeline": "2025-2030",
+      "description": "Planned upgrades to radar systems, combat management systems, and communications. Potential addition of point defense systems.",
+      "impact": "Enhanced situational awareness and self-defense capability against modern threats"
+    },
+    {
+      "program": "Aviation systems upgrade",
+      "status": "in-progress",
+      "timeline": "2023-2026",
+      "description": "Integration of NH90 Caiman and Tiger helicopter systems, improved aviation fuel handling",
+      "impact": "Better integration with modern French Army aviation assets"
+    }
+  ],
+  "vulnerabilities": [
+    {
+      "area": "Air defense",
+      "description": "Minimal air defense limited to short-range Mistral missiles and 20mm guns, no area air defense capability",
+      "context": "Vulnerable to anti-ship missiles, aircraft, and drone swarms without escort protection",
+      "mitigation": "Relies on escort vessels and shore-based air cover for protection"
+    },
+    {
+      "area": "Anti-submarine warfare",
+      "description": "No organic ASW capability, no sonar suite, limited to embarked helicopter ASW",
+      "context": "Highly vulnerable to submarine threats, particularly in contested waters",
+      "mitigation": "Requires dedicated ASW escorts for operations in submarine-threat areas"
+    },
+    {
+      "area": "Electronic warfare",
+      "description": "Limited EW systems compared to modern threat environment, basic ESM/ECM suite",
+      "context": "Vulnerable to sophisticated electronic attack and targeting by peer adversaries",
+      "mitigation": "Mid-life upgrade may address some EW shortfalls"
+    },
+    {
+      "area": "Damage control",
+      "description": "Civilian maritime standards for some systems rather than full warship damage control standards",
+      "context": "May have reduced survivability compared to purpose-built warships in high-threat environments",
+      "mitigation": "Training emphasis on damage control procedures and equipment upgrades"
+    }
+  ],
+  "operational_patterns": {
+    "typical_deployment": "Power projection to Africa/Middle East, HADR operations, NATO multinational exercises",
+    "deployment_length_months": 4,
+    "key_operating_areas": [
+      "Mediterranean",
+      "West Africa",
+      "Indian Ocean",
+      "Red Sea"
+    ],
+    "typical_task_group": "Operates with FREMM frigates or independently with embarked helicopters",
+    "readiness_notes": "High operational tempo limits availability, maintenance periods extended due to budget constraints"
+  },
+  "peer_comparisons": [
+    {
+      "platform": "Juan Carlos I class",
+      "country": "Spain",
+      "relationship": "direct rival",
+      "key_differences": "Juan Carlos I has ski-jump for fixed-wing aircraft and larger aviation capacity, but Mistral has better command facilities and well deck. Spanish design more focused on aviation, French more balanced amphibious capability.",
+      "video_angle": "European LHD showdown - aviation vs amphibious focus comparison"
+    },
+    {
+      "platform": "Type 075 Yushen class",
+      "country": "China",
+      "relationship": "successor generation",
+      "key_differences": "Type 075 is larger (40,000 tons vs 21,300), carries more aircraft, and has better air defenses, but Mistral has proven operational record and better systems integration. Chinese design represents next-generation capability.",
+      "video_angle": "David vs Goliath: proven French design against new Chinese supercarrier"
+    },
+    {
+      "platform": "Dokdo class",
+      "country": "South Korea",
+      "relationship": "allied equivalent",
+      "key_differences": "Similar displacement and role but Dokdo optimized for Korean Peninsula operations with different helicopter mix. Both lack area air defense but Dokdo has better C4I systems.",
+      "video_angle": "Allied amphibious assault ships: French expeditionary vs Korean homeland defense"
+    },
+    {
+      "platform": "HMS Ocean",
+      "country": "United Kingdom",
+      "relationship": "predecessor",
+      "key_differences": "Ocean was helicopter carrier only with no amphibious capability, but larger aviation capacity than Mistral. Mistral represents more balanced approach to amphibious operations.",
+      "video_angle": "Evolution of European amphibious doctrine: specialized vs multi-role platforms"
+    },
+    {
+      "platform": "America class LHA",
+      "country": "United States",
+      "relationship": "allied equivalent",
+      "key_differences": "America class is much larger (45,000 tons), carries F-35B fighters, and has extensive air defenses, but costs 3x more and requires larger crew. Mistral offers 80% of capability at 30% of cost.",
+      "video_angle": "NATO amphibious comparison: American supercarrier vs European efficiency"
+    }
+  ],
+  "search_keywords": [
+    "mistral class",
+    "mistral-class",
+    "BPC",
+    "dixmude",
+    "tonnerre",
+    "gamal abdel nasser",
+    "anwar el sadat",
+    "french amphibious",
+    "helicopter carrier",
+    "STX france"
+  ],
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Mistral_mg_6102.jpg/1280px-Mistral_mg_6102.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/51/Mistral_mg_6102.jpg",
+      "width": 3899,
+      "height": 2607,
+      "title": "Mistral mg 6102.jpg",
+      "description": "French Command and Projection Ship <a href=\"https://en.wikipedia.org/wiki/French_ship_Mistral_(L9013)\" class=\"extiw\" title=\"en:French ship Mistral (L9013)\"><i>Mistral</i> (L 9013)</a>. <i>Mistral</i> ",
+      "license": "CC BY-SA 2.0 fr",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/US_Navy_101027-N-5549O-008_Secretary_of_the_Navy_%28SECNAV%29_the_Honorable_Ray_Mabus%2C_left%2C_tours_the_French_navy_amphibious_assault_ship_FNS_Mistral.jpg/1280px-US_Navy_101027-N-5549O-008_Secretary_of_the_Navy_%28SECNAV%29_the_Honorable_Ray_Mabus%2C_left%2C_tours_the_French_navy_amphibious_assault_ship_FNS_Mistral.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/80/US_Navy_101027-N-5549O-008_Secretary_of_the_Navy_%28SECNAV%29_the_Honorable_Ray_Mabus%2C_left%2C_tours_the_French_navy_amphibious_assault_ship_FNS_Mistral.jpg",
+      "width": 3475,
+      "height": 2323,
+      "title": "US Navy 101027-N-5549O-008 Secretary of the Navy (SECNAV) the Honorable Ray Mabus, left, tours the French navy amphibious assault ship FNS Mistral.jpg",
+      "description": "TOULON, France (Oct. 27, 2010) Secretary of the Navy (SECNAV) the Honorable Ray Mabus, left, tours the French navy amphibious assault ship FNS Mistral (LHD 1). (U.S. Navy photo by Mass Communication S",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/US_Navy_101027-N-5549O-080_ecretary_of_the_Navy_%28SECNAV%29_the_Honorable_Ray_Mabus%2C_left%2C_tours_the_French_navy_amphibious_assault_ship_FNS_Mistral_%28.jpg/1280px-US_Navy_101027-N-5549O-080_ecretary_of_the_Navy_%28SECNAV%29_the_Honorable_Ray_Mabus%2C_left%2C_tours_the_French_navy_amphibious_assault_ship_FNS_Mistral_%28.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/f9/US_Navy_101027-N-5549O-080_ecretary_of_the_Navy_%28SECNAV%29_the_Honorable_Ray_Mabus%2C_left%2C_tours_the_French_navy_amphibious_assault_ship_FNS_Mistral_%28.jpg",
+      "width": 4256,
+      "height": 2832,
+      "title": "US Navy 101027-N-5549O-080 ecretary of the Navy (SECNAV) the Honorable Ray Mabus, left, tours the French navy amphibious assault ship FNS Mistral (.jpg",
+      "description": "TOULON, France (Oct. 26, 2010) Secretary of the Navy (SECNAV) the Honorable Ray Mabus, left, tours the French navy amphibious assault ship FNS Mistral (LHD 1). (U.S. Navy photo by Mass Communication S",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/US_Navy_101027-N-5549O-114_Secretary_of_the_Navy_%28SECNAV%29_the_Honorable_Ray_Mabus%2C_left%2C_tours_the_French_navy_amphibious_assault_ship_FNS_Mistral.jpg/1280px-US_Navy_101027-N-5549O-114_Secretary_of_the_Navy_%28SECNAV%29_the_Honorable_Ray_Mabus%2C_left%2C_tours_the_French_navy_amphibious_assault_ship_FNS_Mistral.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/d3/US_Navy_101027-N-5549O-114_Secretary_of_the_Navy_%28SECNAV%29_the_Honorable_Ray_Mabus%2C_left%2C_tours_the_French_navy_amphibious_assault_ship_FNS_Mistral.jpg",
+      "width": 3386,
+      "height": 2273,
+      "title": "US Navy 101027-N-5549O-114 Secretary of the Navy (SECNAV) the Honorable Ray Mabus, left, tours the French navy amphibious assault ship FNS Mistral.jpg",
+      "description": "TOULON, France (Oct. 26, 2010) Secretary of the Navy (SECNAV) the Honorable Ray Mabus, left, tours the French navy amphibious assault ship FNS Mistral (LHD 1). (U.S. Navy photo by Mass Communication S",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/US_Navy_120126-N-SB587-516_Sailors_from_the_amphibious_assault_ship_USS_Kearsarge_%28LHD_3%29_moor_the_French_navy_amphibious_assault_ship_FS_Mistral.jpg/1280px-US_Navy_120126-N-SB587-516_Sailors_from_the_amphibious_assault_ship_USS_Kearsarge_%28LHD_3%29_moor_the_French_navy_amphibious_assault_ship_FS_Mistral.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/02/US_Navy_120126-N-SB587-516_Sailors_from_the_amphibious_assault_ship_USS_Kearsarge_%28LHD_3%29_moor_the_French_navy_amphibious_assault_ship_FS_Mistral.jpg",
+      "width": 4288,
+      "height": 2848,
+      "title": "US Navy 120126-N-SB587-516 Sailors from the amphibious assault ship USS Kearsarge (LHD 3) moor the French navy amphibious assault ship FS Mistral.jpg",
+      "description": "NORFOLK (Jan. 26, 2012) Sailors from the amphibious assault ship USS Kearsarge (LHD 3) moor the French navy amphibious assault ship FS Mistral (L9013) to its berth at Naval Station Norfolk. Kearsarge ",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/US_Navy_120130-N-XB816-097_French_navy_amphibious_assault_ship_FS_Mistral_%28L9013%29_prepares_to_get_underway_for_Exercise_Bold_Alligator_2012_%28BA2012.jpg/1280px-US_Navy_120130-N-XB816-097_French_navy_amphibious_assault_ship_FS_Mistral_%28L9013%29_prepares_to_get_underway_for_Exercise_Bold_Alligator_2012_%28BA2012.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/53/US_Navy_120130-N-XB816-097_French_navy_amphibious_assault_ship_FS_Mistral_%28L9013%29_prepares_to_get_underway_for_Exercise_Bold_Alligator_2012_%28BA2012.jpg",
+      "width": 2100,
+      "height": 1395,
+      "title": "US Navy 120130-N-XB816-097 French navy amphibious assault ship FS Mistral (L9013) prepares to get underway for Exercise Bold Alligator 2012 (BA2012.jpg",
+      "description": "NORFOLK (Jan. 30, 2012) French navy amphibious assault ship FS Mistral (L9013) prepares to get underway for Exercise Bold Alligator 2012 (BA2012). BA2012 is the largest naval amphibious exercise in th",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/US_Navy_120130-N-XB816-171_French_Sailors_prepare_the_French_navy_amphibious_assault_ship_FS_Mistral_%28L9013%29_to_get_underway_for_Exercise_Bold_Alli.jpg/1280px-US_Navy_120130-N-XB816-171_French_Sailors_prepare_the_French_navy_amphibious_assault_ship_FS_Mistral_%28L9013%29_to_get_underway_for_Exercise_Bold_Alli.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/19/US_Navy_120130-N-XB816-171_French_Sailors_prepare_the_French_navy_amphibious_assault_ship_FS_Mistral_%28L9013%29_to_get_underway_for_Exercise_Bold_Alli.jpg",
+      "width": 2100,
+      "height": 1395,
+      "title": "US Navy 120130-N-XB816-171 French Sailors prepare the French navy amphibious assault ship FS Mistral (L9013) to get underway for Exercise Bold Alli.jpg",
+      "description": "NORFOLK (Jan. 30, 2012) French Sailors prepare the French navy amphibious assault ship FS Mistral (L9013) to get underway for Exercise Bold Alligator 2012 (BA2012). BA2012 is the largest naval amphibi",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/US_Navy_120207-N-YF306-086_A_French_landing_catamaran_%28L-CAT%29_pulls_into_the_well_deck_of_the_amphibious_assault_ship_USS_WASP_%28LHD_1%29.jpg/1280px-US_Navy_120207-N-YF306-086_A_French_landing_catamaran_%28L-CAT%29_pulls_into_the_well_deck_of_the_amphibious_assault_ship_USS_WASP_%28LHD_1%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/91/US_Navy_120207-N-YF306-086_A_French_landing_catamaran_%28L-CAT%29_pulls_into_the_well_deck_of_the_amphibious_assault_ship_USS_WASP_%28LHD_1%29.jpg",
+      "width": 3851,
+      "height": 2603,
+      "title": "US Navy 120207-N-YF306-086 A French landing catamaran (L-CAT) pulls into the well deck of the amphibious assault ship USS WASP (LHD 1).jpg",
+      "description": "ATLANTIC OCEAN (Feb. 7, 2012) A French <a href=\"https://en.wikipedia.org/wiki/Engin_de_d%C3%A9barquement_amphibie_rapide\" class=\"extiw\" title=\"en:Engin de d\u00e9barquement amphibie rapide\">landing catamar",
+      "license": "Public domain",
+      "source": "wikimedia"
+    }
+  ],
+  "doctrine": {
+    "role": "Force projection and crisis response in low-to-medium threat environments, specifically designed to rapidly deploy combined arms forces to Africa and overseas French territories where France maintains intervention commitments.",
+    "employment": "Typically operates as the flagship of a task group including frigates and support vessels, conducting three primary mission types: amphibious assault with up to 16 heavy helicopters, humanitarian assistance/disaster relief with hospital facilities, and command and control for joint operations. The platform emphasizes rapid deployment over heavily contested landings, designed to arrive quickly in crisis zones and establish French presence. Task groups are sized according to specific regional commitments, with Mistral-class vessels often operating independently in lower-threat scenarios.",
+    "design_philosophy": "Prioritized operational flexibility, rapid deployment capability, and dual military-humanitarian roles over heavy armament and survivability in high-intensity conflict. Designers sacrificed significant self-defense capabilities and armor protection to maximize aviation facilities, command spaces, and humanitarian equipment including a 69-bed hospital. The emphasis on commercial standards and COTS systems reduced costs but created potential vulnerabilities in contested environments.",
+    "threat_context": "Designed primarily for intervention in failed states and humanitarian crises rather than peer-to-peer naval warfare, assuming French air superiority and limited anti-ship missile threats. The threat environment has evolved significantly with proliferation of advanced anti-ship missiles to non-state actors and regional powers, potentially limiting the platform's utility in contested littorals without substantial escort protection.",
+    "comparison_frame": "Compare primarily on aviation capacity, command facilities, and deployment speed rather than survivability or armament - the Mistral-class represents the 'austere but flexible' European approach versus the heavily armed American LHD/LHA model. Key dimensions are helicopter spots, well deck capacity, and hospital facilities, as these platforms compete on crisis response capability rather than high-intensity warfare metrics."
+  },
+  "curated_sources": [
+    {
+      "title": "French Naval Strategy and European Security",
+      "type": "book",
+      "url": "",
+      "relevance": "Provides essential context for French expeditionary doctrine and the strategic rationale behind the Mistral-class design philosophy.",
+      "priority": "essential"
+    },
+    {
+      "title": "French Military Modernization and Force Projection",
+      "type": "report",
+      "url": "https://www.csis.org/analysis/french-military-modernization",
+      "relevance": "CSIS analysis of French expeditionary capabilities including detailed assessment of Mistral-class operational employment.",
+      "priority": "essential"
+    },
+    {
+      "title": "The Future of Amphibious Warfare",
+      "type": "report",
+      "url": "https://rusi.org/explore-our-research/publications/whitehall-papers/future-amphibious-warfare",
+      "relevance": "RUSI examination of European amphibious concepts with significant coverage of French doctrine and Mistral-class employment.",
+      "priority": "recommended"
+    },
+    {
+      "title": "Naval Technology - Amphibious Warfare Analysis",
+      "type": "analyst",
+      "url": "https://www.naval-technology.com/",
+      "relevance": "Consistent coverage of Mistral-class operations and technical modifications, particularly useful for tracking operational deployments.",
+      "priority": "recommended"
+    },
+    {
+      "title": "Mistral Class LHD - Seaforces",
+      "type": "database",
+      "url": "http://www.seaforces.org/marint/French-Navy/Amphibious-Assault-Ship/Mistral-class.htm",
+      "relevance": "Comprehensive technical specifications and modification history for comparing capabilities with international peers.",
+      "priority": "reference"
+    },
+    {
+      "title": "French Defence White Paper 2013",
+      "type": "report",
+      "url": "https://www.defense.gouv.fr/english/portail-defense/issues2/policy/the-2013-french-white-paper-on-defence-and-national-security",
+      "relevance": "Official French strategic doctrine explaining the operational requirements that shaped Mistral-class employment concepts.",
+      "priority": "essential"
+    },
+    {
+      "title": "European Amphibious Capabilities - IISS",
+      "type": "report",
+      "url": "https://www.iiss.org/",
+      "relevance": "Authoritative comparison of European amphibious platforms including detailed analysis of French operational concepts versus UK and Dutch approaches.",
+      "priority": "recommended"
+    }
+  ]
+}

@@ -1,0 +1,440 @@
+{
+  "id": 51,
+  "slug": "soryu-class-submarine",
+  "name": "S\u014dry\u016b-class submarine",
+  "designation": "SS-501 through SS-512",
+  "type": "submarine",
+  "country": "Japan",
+  "operator": "Japan Maritime Self-Defense Force",
+  "overview_md": "The S\u014dry\u016b-class is Japan's most advanced conventional submarine and represents one of the most sophisticated diesel-electric designs in service today. These boats combine traditional diesel-electric propulsion with Stirling-cycle air-independent propulsion (AIP) systems, giving them extended underwater endurance while maintaining the stealth advantages of non-nuclear power plants. The class serves as the backbone of the JMSDF's submarine force, designed specifically for operations in the challenging acoustic environment of the Western Pacific.\n\nStrategically, the S\u014dry\u016b-class addresses Japan's unique geographic and operational requirements in an era of rising Chinese naval power. With their exceptional quietness, advanced sonar systems, and ability to operate in the shallow, acoustically complex waters around Japan's island chains, these submarines are optimized for anti-submarine warfare and sea denial operations. The boats can remain submerged for weeks using their AIP systems, making them ideal for persistent surveillance and area denial missions.\n\nThe design philosophy emphasizes stealth over speed, with extensive anechoic coating, advanced hull shaping, and sophisticated noise reduction measures. The S\u014dry\u016b-class features Japan's indigenous combat management system and represents significant technological advancement over previous JMSDF submarines. Each boat can engage surface vessels with Sub-Harpoon missiles and conduct ASW operations with advanced heavyweight torpedoes, while their sophisticated electronic surveillance measures provide valuable intelligence gathering capabilities.\n\nIn the current threat environment, the S\u014dry\u016b-class represents a critical asymmetric capability against larger naval forces. While China operates nuclear submarines with greater speed and endurance, the S\u014dry\u016b's stealth characteristics and operational familiarity with local waters provide significant defensive advantages. The class has influenced submarine design globally, with several nations studying its AIP integration and noise reduction techniques as models for their own programs.",
+  "specs_json": {
+    "displacement_tonnes": 4200,
+    "length_m": 84,
+    "beam_m": 9.1,
+    "draft_m": 10.3,
+    "speed_knots": 20,
+    "range_nm": 6100,
+    "crew": 65,
+    "propulsion": "Diesel-electric with Stirling AIP system, single shaft",
+    "radar": "ZPS-6 surface search radar",
+    "sonar": "Hughes/Oki ZQQ-7 sonar suite",
+    "combat_system": "Integrated combat management system",
+    "vls_cells": 0,
+    "additional": {
+      "torpedo_tubes": 6,
+      "air_independent_propulsion": "4x Stirling engines",
+      "diving_depth_m": 500,
+      "submerged_endurance_days": 14
+    }
+  },
+  "armament_json": [
+    {
+      "category": "Torpedoes",
+      "name": "Type 89 heavyweight torpedo",
+      "type": "wire-guided ASW/ASuW torpedo",
+      "quantity": "30 weapons (mixed load)",
+      "range_km": 50,
+      "notes": "Primary ASW weapon"
+    },
+    {
+      "category": "Missiles",
+      "name": "UGM-84L Sub-Harpoon",
+      "type": "anti-ship missile",
+      "quantity": "up to 6 (in place of torpedoes)",
+      "range_km": 124,
+      "notes": "Surface attack capability"
+    }
+  ],
+  "variants_json": [
+    {
+      "name": "Standard S\u014dry\u016b",
+      "designation_range": "SS-501 to SS-511",
+      "years": "2009-2020",
+      "count": 11,
+      "key_changes": "Initial production standard with Stirling AIP, lithium-ion batteries from SS-511",
+      "status": "active"
+    },
+    {
+      "name": "Lithium-ion variant",
+      "designation_range": "SS-512",
+      "years": "2021",
+      "count": 1,
+      "key_changes": "Lithium-ion batteries replace AIP system, increased underwater speed and endurance",
+      "status": "active"
+    }
+  ],
+  "fleet_status_json": [
+    {
+      "hull_number": "SS-501",
+      "name": "S\u014dry\u016b",
+      "variant": "Standard",
+      "commissioned": "2009-03-30",
+      "home_port": "Kure",
+      "status": "active"
+    },
+    {
+      "hull_number": "SS-502",
+      "name": "Unry\u016b",
+      "variant": "Standard",
+      "commissioned": "2010-03-25",
+      "home_port": "Yokosuka",
+      "status": "active"
+    },
+    {
+      "hull_number": "SS-503",
+      "name": "Hakury\u016b",
+      "variant": "Standard",
+      "commissioned": "2011-03-14",
+      "home_port": "Kure",
+      "status": "active"
+    },
+    {
+      "hull_number": "SS-504",
+      "name": "Kenry\u016b",
+      "variant": "Standard",
+      "commissioned": "2012-03-05",
+      "home_port": "Yokosuka",
+      "status": "active"
+    },
+    {
+      "hull_number": "SS-505",
+      "name": "Zuiry\u016b",
+      "variant": "Standard",
+      "commissioned": "2013-03-06",
+      "home_port": "Kure",
+      "status": "active"
+    },
+    {
+      "hull_number": "SS-506",
+      "name": "Kokury\u016b",
+      "variant": "Standard",
+      "commissioned": "2014-03-05",
+      "home_port": "Yokosuka",
+      "status": "active"
+    },
+    {
+      "hull_number": "SS-507",
+      "name": "Jinry\u016b",
+      "variant": "Standard",
+      "commissioned": "2015-03-09",
+      "home_port": "Kure",
+      "status": "active"
+    },
+    {
+      "hull_number": "SS-508",
+      "name": "Seiry\u016b",
+      "variant": "Standard",
+      "commissioned": "2016-03-07",
+      "home_port": "Yokosuka",
+      "status": "active"
+    },
+    {
+      "hull_number": "SS-509",
+      "name": "S\u014dry\u016b",
+      "variant": "Standard",
+      "commissioned": "2017-03-13",
+      "home_port": "Kure",
+      "status": "active"
+    },
+    {
+      "hull_number": "SS-510",
+      "name": "Sh\u014dry\u016b",
+      "variant": "Standard",
+      "commissioned": "2018-03-05",
+      "home_port": "Yokosuka",
+      "status": "active"
+    },
+    {
+      "hull_number": "SS-511",
+      "name": "\u014cry\u016b",
+      "variant": "Lithium-ion",
+      "commissioned": "2020-03-05",
+      "home_port": "Kure",
+      "status": "active"
+    },
+    {
+      "hull_number": "SS-512",
+      "name": "T\u014dry\u016b",
+      "variant": "Lithium-ion",
+      "commissioned": "2022-03-09",
+      "home_port": "Yokosuka",
+      "status": "active"
+    }
+  ],
+  "cost_usd": 600000000.0,
+  "unit_count": 12,
+  "first_commissioned": "2009-03-30",
+  "builder": "Mitsubishi Heavy Industries, Kawasaki Heavy Industries",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/96/JS_Hakuryu_%28SS-503%29_arrives_at_Joint_Base_Pearl_Harbor-Hickam_for_a_scheduled_port_visit%2C_-6_Feb._2013_%28YP255-023%29.jpg",
+  "wiki_url": "https://en.wikipedia.org/wiki/S%C5%8Dry%C5%AB-class_submarine",
+  "sources_json": [
+    "https://en.wikipedia.org/wiki/S%C5%8Dry%C5%AB-class_submarine",
+    "https://www.mod.go.jp/msdf/",
+    "https://www.naval-technology.com/projects/soryu-class-submarines/",
+    "Jane's Fighting Ships 2023"
+  ],
+  "comparison_tags": [
+    "submarine",
+    "diesel-electric",
+    "aip",
+    "asw",
+    "jmsdf",
+    "conventional-submarine"
+  ],
+  "created_at": "2026-04-10 20:19:16",
+  "updated_at": "2026-04-10T20:19:16.898990",
+  "news": [],
+  "events": [],
+  "ic_coverage": [],
+  "combat_history": [
+    {
+      "date": "2016-06",
+      "operation": "Tracking operations",
+      "event": "S\u014dry\u016b-class submarine reportedly tracked Chinese nuclear submarines transiting first island chain",
+      "significance": "Demonstrated persistent surveillance capability against nuclear submarine threats"
+    },
+    {
+      "date": "2018",
+      "operation": "ASW exercises",
+      "event": "Participated in large-scale ASW exercises with US Navy, successfully evading P-8 Poseidon detection",
+      "significance": "Validated stealth characteristics against modern ASW sensors"
+    }
+  ],
+  "modernization": [
+    {
+      "program": "Lithium-ion battery integration",
+      "status": "completed",
+      "timeline": "2018-2022",
+      "description": "Replacement of AIP system with lithium-ion batteries for improved underwater performance",
+      "impact": "Increased submerged speed and simplified maintenance while maintaining extended endurance"
+    },
+    {
+      "program": "Mid-life upgrade program",
+      "status": "planned",
+      "timeline": "2025-2030",
+      "description": "Sonar system upgrades, combat system modernization, and potential new weapons integration",
+      "impact": "Extended service life and improved capability against evolving threats"
+    }
+  ],
+  "vulnerabilities": [
+    {
+      "area": "Limited missile armament",
+      "description": "Lacks vertical launch capability, limited to tube-launched weapons only",
+      "context": "Cannot engage land targets or conduct strike missions like nuclear submarines",
+      "mitigation": "Focus on core ASW mission rather than multi-role capability"
+    },
+    {
+      "area": "Geographic constraints",
+      "description": "Limited by shallow waters and chokepoints around Japanese archipelago",
+      "context": "Operational area can be predicted and potentially blocked by adversaries",
+      "mitigation": "Leveraging intimate knowledge of local waters and acoustic conditions"
+    },
+    {
+      "area": "Snorkel vulnerability",
+      "description": "Must surface periodically to run diesel engines, creating detection opportunity",
+      "context": "AIP extends but does not eliminate this requirement entirely",
+      "mitigation": "Lithium-ion variants reduce snorkel time significantly"
+    }
+  ],
+  "operational_patterns": {
+    "typical_deployment": "Area denial and surveillance patrols around Japanese territorial waters",
+    "deployment_length_months": 1,
+    "key_operating_areas": [
+      "East China Sea",
+      "Philippine Sea",
+      "Sea of Japan",
+      "Tsugaru Strait"
+    ],
+    "typical_task_group": "Independent operations, occasional coordination with surface ASW units",
+    "readiness_notes": "High availability rate, sophisticated maintenance requirements for AIP systems"
+  },
+  "peer_comparisons": [
+    {
+      "platform": "Type 212A submarine",
+      "country": "Germany",
+      "relationship": "AIP technology predecessor",
+      "key_differences": "S\u014dry\u016b is larger with greater weapons load and longer range, but Type 212A has more mature fuel cell AIP technology and deeper diving capability",
+      "video_angle": "Comparing different approaches to AIP technology and their operational trade-offs"
+    },
+    {
+      "platform": "Gotland-class submarine",
+      "country": "Sweden",
+      "relationship": "AIP technology peer",
+      "key_differences": "Gotland pioneered Stirling AIP but S\u014dry\u016b represents larger, more capable evolution with better sensors and weapons capacity",
+      "video_angle": "Evolution of Stirling AIP technology from experimental to operational capability"
+    },
+    {
+      "platform": "Scorp\u00e8ne-class submarine",
+      "country": "France",
+      "relationship": "Export competitor",
+      "key_differences": "Scorp\u00e8ne offers modular AIP option and broader weapons compatibility, but S\u014dry\u016b has superior stealth characteristics and sensor integration",
+      "video_angle": "Comparing national approaches to conventional submarine design philosophy"
+    },
+    {
+      "platform": "Type 039A Yuan-class",
+      "country": "China",
+      "relationship": "Regional rival",
+      "key_differences": "Yuan-class has greater numbers and VLS capability but S\u014dry\u016b maintains significant acoustic advantage and sensor sophistication",
+      "video_angle": "Submarine warfare in the Western Pacific - quality versus quantity approaches"
+    },
+    {
+      "platform": "Attack-class submarine",
+      "country": "Australia",
+      "relationship": "Allied equivalent (cancelled)",
+      "key_differences": "Attack-class was to be larger conventional version of Barracuda design, S\u014dry\u016b was proposed alternative emphasizing proven AIP technology",
+      "video_angle": "The submarine competition that reshaped Indo-Pacific naval balance"
+    }
+  ],
+  "search_keywords": [
+    "soryu class",
+    "s\u014dry\u016b class",
+    "soryu submarine",
+    "jmsdf submarine",
+    "stirling aip",
+    "japanese submarine",
+    "SS-501",
+    "SS-511",
+    "oryu",
+    "tairyu class"
+  ],
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/JMSDF-S%C5%8Dry%C5%AB-class_submarine_in_Kure_Naval_Base-1.jpg/1280px-JMSDF-S%C5%8Dry%C5%AB-class_submarine_in_Kure_Naval_Base-1.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/1d/JMSDF-S%C5%8Dry%C5%AB-class_submarine_in_Kure_Naval_Base-1.jpg",
+      "width": 5760,
+      "height": 3840,
+      "title": "JMSDF-S\u014dry\u016b-class submarine in Kure Naval Base-1.jpg",
+      "description": "\u6d77\u4e0a\u81ea\u885b\u968a\u5449\u57fa\u5730\u306b\u505c\u6cca\u3059\u308b\u300c\u305d\u3046\u308a\u3085\u3046\u300d\u578b\u6f5c\u6c34\u8266\u3002\u8266\u540d\u306f\u4e0d\u8a73\u3002",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/JMSDF-S%C5%8Dry%C5%AB-class_submarine_in_Kure_Naval_Base-2.jpg/1280px-JMSDF-S%C5%8Dry%C5%AB-class_submarine_in_Kure_Naval_Base-2.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/3c/JMSDF-S%C5%8Dry%C5%AB-class_submarine_in_Kure_Naval_Base-2.jpg",
+      "width": 5760,
+      "height": 3840,
+      "title": "JMSDF-S\u014dry\u016b-class submarine in Kure Naval Base-2.jpg",
+      "description": "\u6d77\u4e0a\u81ea\u885b\u968a\u5449\u57fa\u5730\u306b\u505c\u6cca\u3059\u308b\u300c\u305d\u3046\u308a\u3085\u3046\u300d\u578b\u6f5c\u6c34\u8266\u30022019\u5e74\u306e\u64ae\u5f71\u3002\u8266\u540d\u306f\u4e0d\u8a73\u3002\u5965\u306f\u300c\u304b\u304c\u300d\u3068\u7df4\u7fd2\u8266\u300c\u305b\u3068\u3086\u304d\u300d",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/JMSDF-S%C5%8Dry%C5%AB-class_submarine_in_Kure_Naval_Base-3.jpg/1280px-JMSDF-S%C5%8Dry%C5%AB-class_submarine_in_Kure_Naval_Base-3.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/b0/JMSDF-S%C5%8Dry%C5%AB-class_submarine_in_Kure_Naval_Base-3.jpg",
+      "width": 5118,
+      "height": 3637,
+      "title": "JMSDF-S\u014dry\u016b-class submarine in Kure Naval Base-3.jpg",
+      "description": "\u6d77\u4e0a\u81ea\u885b\u968a\u5449\u57fa\u5730\u306b\u505c\u6cca\u3059\u308b\u300c\u305d\u3046\u308a\u3085\u3046\u300d\u578b\u6f5c\u6c34\u8266\u30022019\u5e74\u306e\u64ae\u5f71\u3002\u5965\u306f\u300c\u304a\u3084\u3057\u304a\u300d\u578b\u6f5c\u6c34\u8266\u3002\u8266\u540d\u306f\u4e0d\u8a73\u3002\u5de6\u624b\u306e\u30d3\u30eb\u306f\u3001\u6d77\u4e0a\u81ea\u885b\u968a \u6f5c\u6c34\u8266\u6559\u80b2\u8a13\u7df4\u968a\u306e\u5efa\u7269\u3002\u53f3\u624b\u306e\u8d64\u30ec\u30f3\u30ac\u306e\u5efa\u7269\u306f\u300c\u30a2\u30ec\u30a4\u304b\u3089\u3059\u3053\u3058\u307e\u300d\u306e\u65e7\u65e5\u672c\u6d77\u8ecd\u5efa\u7bc9\u7269\u7fa4\u3067\u300c\u662d\u548c\u753a\u308c\u3093\u304c\u5009\u5eab\u7fa4\u300d\u3068\u547c\u3070\u308c\u308b\u3002\u73fe\u5728\u306f\u6c11\u9593\u306e\u5009\u5eab\u3084\u5546\u5e97\u3068\u3057\u3066\u4f7f\u7528\u3055\u308c\u3066\u3044\u308b\u3002",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b0/JMSDF_S%C5%8Dry%C5%AB_class_submarine.png",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/b0/JMSDF_S%C5%8Dry%C5%AB_class_submarine.png",
+      "width": 1278,
+      "height": 719,
+      "title": "JMSDF S\u014dry\u016b class submarine.png",
+      "description": "\u4e0a\u7a7a\u304b\u3089\u306e\u305d\u3046\u308a\u3085\u3046\u578b\u6f5c\u6c34\u8266\uff08JMSDF\uff09",
+      "license": "CC BY 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/JMSDF_S%C5%8Dry%C5%AB_class_submarines-01.png/1280px-JMSDF_S%C5%8Dry%C5%AB_class_submarines-01.png",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/31/JMSDF_S%C5%8Dry%C5%AB_class_submarines-01.png",
+      "width": 1920,
+      "height": 1080,
+      "title": "JMSDF S\u014dry\u016b class submarines-01.png",
+      "description": "\u305d\u3046\u308a\u3085\u3046\u578b\u6f5c\u6c34\u8266\uff08\u6d77\u4e0a\u81ea\u885b\u968a\uff09",
+      "license": "CC BY 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/JMSDF_S%C5%8Dry%C5%AB_class_submarines-02.png/1280px-JMSDF_S%C5%8Dry%C5%AB_class_submarines-02.png",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/93/JMSDF_S%C5%8Dry%C5%AB_class_submarines-02.png",
+      "width": 1920,
+      "height": 1080,
+      "title": "JMSDF S\u014dry\u016b class submarines-02.png",
+      "description": "\u305d\u3046\u308a\u3085\u3046\u578b\u6f5c\u6c34\u8266\uff08\u6d77\u4e0a\u81ea\u885b\u968a\uff09",
+      "license": "CC BY 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/JMSDF_S%C5%8Dry%C5%AB_class_submarines-03.png/1280px-JMSDF_S%C5%8Dry%C5%AB_class_submarines-03.png",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/eb/JMSDF_S%C5%8Dry%C5%AB_class_submarines-03.png",
+      "width": 1920,
+      "height": 1080,
+      "title": "JMSDF S\u014dry\u016b class submarines-03.png",
+      "description": "\u305d\u3046\u308a\u3085\u3046\u578b\u6f5c\u6c34\u8266\uff08\u524d\u90e8\uff09\u306e\u6c34\u4e2d\u30a4\u30e1\u30fc\u30b8\uff08\u6d77\u4e0a\u81ea\u885b\u968a\uff09",
+      "license": "CC BY 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/JMSDF_S%C5%8Dry%C5%AB_class_submarines-05.png/1280px-JMSDF_S%C5%8Dry%C5%AB_class_submarines-05.png",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/f3/JMSDF_S%C5%8Dry%C5%AB_class_submarines-05.png",
+      "width": 1920,
+      "height": 1080,
+      "title": "JMSDF S\u014dry\u016b class submarines-05.png",
+      "description": "\u305d\u3046\u308a\u3085\u3046\u578b\u6f5c\u6c34\u8266\u306e\u8266\u5185\uff08\u6d77\u4e0a\u81ea\u885b\u968a\uff09",
+      "license": "CC BY 4.0",
+      "source": "wikimedia"
+    }
+  ],
+  "doctrine": {
+    "role": "Sea denial and maritime domain awareness within the first island chain, designed to detect and attrit potential adversary naval forces approaching Japanese territorial waters.",
+    "employment": "Operates primarily in single-submarine patrols covering key maritime chokepoints and approaches to the Japanese archipelago. Typically deployed for 2-3 week missions with extended submerged endurance provided by AIP systems. Command structure integrates with JMSDF Maritime Operations Centers for real-time intelligence sharing and coordinated response with surface and air assets. Mission profiles emphasize passive acoustic surveillance, anti-submarine warfare, and anti-surface warfare against high-value targets.",
+    "design_philosophy": "Prioritized stealth and endurance over speed and payload capacity, trading magazine depth for quieting measures and AIP integration. Designers emphasized sensor integration and situational awareness over raw firepower, accepting a smaller torpedo loadout in favor of advanced sonar systems and extended underwater persistence. The conventional propulsion choice sacrificed unlimited underwater endurance for reduced acoustic signature and lower operational costs.",
+    "threat_context": "Originally designed during the late Cold War for operations against Soviet Pacific Fleet submarines, but requirements evolved to address the growing Chinese naval presence in the East China Sea and potential Taiwan Strait scenarios. The threat environment has shifted from primarily nuclear submarine targets to a mixed conventional-nuclear submarine threat with increasingly sophisticated anti-submarine warfare capabilities and expanded surface combatant presence.",
+    "comparison_frame": "Compare primarily on underwater endurance and acoustic stealth rather than raw speed or payload - most conventional submarines accept 20+ knot submerged speed as sufficient. AIP endurance duration and sonar detection ranges are the critical performance metrics, not surface speed or torpedo magazine size which matter less in sea denial roles."
+  },
+  "curated_sources": [
+    {
+      "title": "The Naval Institute Guide to Combat Fleets of the World 2022-2023",
+      "type": "book",
+      "url": "",
+      "relevance": "Provides detailed technical specifications and operational context for the S\u014dry\u016b-class within the broader JMSDF submarine force structure.",
+      "priority": "essential"
+    },
+    {
+      "title": "Japan's Security Strategy and the JMSDF Submarine Force",
+      "type": "report",
+      "url": "https://www.csis.org/analysis/japans-security-strategy-and-changing-roles-jsdf",
+      "relevance": "Analyzes the strategic rationale behind Japan's submarine force expansion and the S\u014dry\u016b-class role in contemporary security challenges.",
+      "priority": "essential"
+    },
+    {
+      "title": "HI Sutton - Covert Shores",
+      "type": "analyst",
+      "url": "https://www.hisutton.com/",
+      "relevance": "Leading open-source analyst tracking Japanese submarine developments with detailed technical analysis and operational assessments.",
+      "priority": "recommended"
+    },
+    {
+      "title": "Japan Maritime Self-Defense Force S\u014dry\u016b Class",
+      "type": "database",
+      "url": "https://www.seaforces.org/marint/Japan-Maritime-Self-Defense-Force/Submarine/Soryu-class.htm",
+      "relevance": "Comprehensive technical database with specifications, construction timeline, and operational status of all S\u014dry\u016b-class boats.",
+      "priority": "reference"
+    },
+    {
+      "title": "Conventional Submarines in Chinese and Japanese Naval Strategy",
+      "type": "report",
+      "url": "https://www.usni.org/magazines/proceedings",
+      "relevance": "Compares Japanese and Chinese conventional submarine capabilities and their role in regional maritime competition.",
+      "priority": "recommended"
+    },
+    {
+      "title": "Submarine Warfare: An Illustrated History",
+      "type": "book",
+      "url": "",
+      "relevance": "Places the S\u014dry\u016b-class within the broader evolution of conventional submarine design and AIP technology development.",
+      "priority": "reference"
+    },
+    {
+      "title": "RUSI Defence Systems: Japanese Maritime Defence Capabilities",
+      "type": "report",
+      "url": "https://rusi.org/",
+      "relevance": "Analyzes the S\u014dry\u016b-class within Japan's broader maritime defense posture and regional deterrence strategy.",
+      "priority": "recommended"
+    }
+  ]
+}

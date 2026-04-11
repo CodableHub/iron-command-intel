@@ -1,0 +1,464 @@
+{
+  "id": 57,
+  "slug": "suffren-class-submarine",
+  "name": "Suffren-class submarine",
+  "designation": "SNA (Sous-marin Nucl\u00e9aire d'Attaque)",
+  "type": "submarine",
+  "country": "France",
+  "operator": "French Navy (Marine Nationale)",
+  "overview_md": "The Suffren-class (Barracuda-class) represents France's most advanced nuclear attack submarine, designed to replace the aging Rubis-class boats and maintain France's position as one of only six nations operating nuclear submarines. These boats embody France's commitment to strategic autonomy, featuring entirely French-designed systems including the K15 nuclear reactor, advanced sonar suite, and indigenous combat management systems.\n\nStrategically, the Suffren-class serves multiple roles: power projection in support of French overseas territories, submarine warfare in contested environments, special operations support, and intelligence gathering. The design prioritizes stealth and endurance over raw firepower, reflecting French doctrine that emphasizes quality over quantity in naval operations. The boats are significantly larger and more capable than their Rubis predecessors, with improved acoustics, weapons capacity, and crew habitability.\n\nIn the current threat environment, these submarines provide France with credible deterrence below the nuclear threshold and the ability to project power globally without relying on allied support. The class incorporates lessons learned from decades of French submarine operations, particularly in the Indian Ocean and Pacific regions where France maintains significant territorial interests.\n\nCompared to peers like the Virginia-class or Astute-class, the Suffren trades some weapons capacity for operational flexibility and maintainability. The design reflects French naval priorities: long-range operations in support of territorial defense, intelligence gathering, and the ability to operate independently of NATO infrastructure when necessary.",
+  "specs_json": {
+    "displacement_tonnes": 5300,
+    "length_m": 99.5,
+    "beam_m": 8.8,
+    "draft_m": 7.3,
+    "speed_knots": 25,
+    "range_nm": 0,
+    "crew": 65,
+    "propulsion": "K15 pressurized water reactor, pump-jet propulsion",
+    "radar": "Kelvin Hughes navigation radar (surfaced)",
+    "sonar": "DMUX-80 multifunction sonar suite",
+    "combat_system": "SYCOBS combat management system",
+    "vls_cells": 0,
+    "additional": {
+      "dive_depth_m": 350,
+      "torpedo_tubes": 4,
+      "weapons_capacity": "20 weapons (torpedoes, missiles, mines)",
+      "endurance_days": 70,
+      "reactor_life_years": 10
+    }
+  },
+  "armament_json": [
+    {
+      "category": "Torpedoes",
+      "name": "F21 Artemis",
+      "type": "heavyweight torpedo",
+      "quantity": "up to 20",
+      "range_km": 50,
+      "notes": "Primary anti-submarine and anti-surface weapon"
+    },
+    {
+      "category": "Missiles",
+      "name": "SCALP Naval (Storm Shadow)",
+      "type": "cruise missile",
+      "quantity": "can replace torpedoes",
+      "range_km": 560,
+      "notes": "Land attack capability"
+    },
+    {
+      "category": "Missiles",
+      "name": "Exocet SM39",
+      "type": "anti-ship missile",
+      "quantity": "can replace torpedoes",
+      "range_km": 50,
+      "notes": "Submarine-launched anti-ship missile"
+    },
+    {
+      "category": "Mines",
+      "name": "Various naval mines",
+      "type": "sea mines",
+      "quantity": "can replace torpedoes",
+      "range_km": 0,
+      "notes": "Mine laying capability"
+    }
+  ],
+  "variants_json": [
+    {
+      "name": "Suffren-class (Barracuda)",
+      "designation_range": "S635-S640",
+      "years": "2022-2030",
+      "count": 6,
+      "key_changes": "Initial production variant with K15 reactor, DMUX-80 sonar, SYCOBS combat system",
+      "status": "building"
+    }
+  ],
+  "fleet_status_json": [
+    {
+      "hull_number": "S635",
+      "name": "Suffren",
+      "variant": "Suffren-class",
+      "commissioned": "2022-11-03",
+      "home_port": "Toulon",
+      "status": "active"
+    },
+    {
+      "hull_number": "S636",
+      "name": "Duguay-Trouin",
+      "variant": "Suffren-class",
+      "commissioned": "2023-12-21",
+      "home_port": "Toulon",
+      "status": "active"
+    },
+    {
+      "hull_number": "S637",
+      "name": "Tourville",
+      "variant": "Suffren-class",
+      "commissioned": "2024-expected",
+      "home_port": "Toulon",
+      "status": "building"
+    },
+    {
+      "hull_number": "S638",
+      "name": "De Grasse",
+      "variant": "Suffren-class",
+      "commissioned": "2025-expected",
+      "home_port": "TBD",
+      "status": "building"
+    },
+    {
+      "hull_number": "S639",
+      "name": "Rubis",
+      "variant": "Suffren-class",
+      "commissioned": "2027-expected",
+      "home_port": "TBD",
+      "status": "building"
+    },
+    {
+      "hull_number": "S640",
+      "name": "Casabianca",
+      "variant": "Suffren-class",
+      "commissioned": "2030-expected",
+      "home_port": "TBD",
+      "status": "building"
+    }
+  ],
+  "cost_usd": 1800000000.0,
+  "unit_count": 6,
+  "first_commissioned": "2022-11-03",
+  "builder": "Naval Group (formerly DCNS)",
+  "image_url": "",
+  "wiki_url": "https://en.wikipedia.org/wiki/Suffren-class_submarine",
+  "sources_json": [
+    "https://en.wikipedia.org/wiki/Suffren-class_submarine",
+    "https://www.naval-group.com/en/activities/military-naval/submarines/",
+    "https://www.defense.gouv.fr/marine",
+    "https://www.navalnews.com/naval-news/2022/11/frances-first-suffren-class-nuclear-attack-submarine-commissioned/"
+  ],
+  "comparison_tags": [
+    "submarine",
+    "nuclear",
+    "attack-submarine",
+    "french-navy",
+    "blue-water"
+  ],
+  "created_at": "2026-04-10 20:26:09",
+  "updated_at": "2026-04-10T20:26:09.709940",
+  "news": [
+    {
+      "id": 185,
+      "platform_id": 57,
+      "article_hash": "8d1d962f37d1410a",
+      "title": "France orders fifth FDI frigate from Naval Group",
+      "url": "https://www.naval-technology.com/news/france-fdi-frigate-order-naval-group/",
+      "source": "Naval Technology",
+      "published_at": "2026-04-09T14:51:17",
+      "relevance_score": 0.6,
+      "snippet": "The French Government has placed an order for a fifth defence and intervention frigate (FDI) from Naval Group for the French Navy.\nThe post France orders fifth FDI frigate from Naval Group appeared first on Naval Technology.",
+      "created_at": "2026-04-10 20:39:15"
+    },
+    {
+      "id": 186,
+      "platform_id": 57,
+      "article_hash": "d89920c7dada30dc",
+      "title": "Video: How Naval Group builds FDI Frigates so quickly",
+      "url": "https://www.navalnews.com/naval-news/2026/04/video-how-naval-group-builds-fdi-frigates-so-quickly/",
+      "source": "Naval News",
+      "published_at": "2026-04-09T13:56:25",
+      "relevance_score": 0.6,
+      "snippet": "In this video, French shipbuilder Naval Group takes us to its Lorient shipyard to demonstrate how it is able to build the FDI frigates quickly, and deliver two vessels per year. 01:40 &#8211; Naval Group&#8217;s Lorient shipyard specializes in the design and production of surface combatant. Followin",
+      "created_at": "2026-04-10 20:39:15"
+    },
+    {
+      "id": 220,
+      "platform_id": 57,
+      "article_hash": "416a9fad4108b590",
+      "title": "French Navy Submarine Launches, Recovers U.S. Navy Drone in Test Run",
+      "url": "https://news.usni.org/2026/04/08/french-navy-submarine-launches-recovers-u-s-navy-drone-in-test-run",
+      "source": "USNI News",
+      "published_at": "2026-04-08T15:19:34",
+      "relevance_score": 0.6,
+      "snippet": "The French Navy tested launching and recovering a U.S. Navy Razorback Unmanned Undersea Vehicle (UUV) from a submerged French Suffren-class nuclear-powered attack submarine last month, validating the French submarine\u2019s removable dry deck shelter can be used for underwater drone operations. A Suffren",
+      "created_at": "2026-04-10 20:39:15"
+    },
+    {
+      "id": 229,
+      "platform_id": 57,
+      "article_hash": "a0ebcdf83d16f171",
+      "title": "Naval Group Offers Blacksword Barracuda Submarine to Greece - navalnews.com",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOM2Q3M0EydUNLR2VHZ3pyZXl6VTZVUjZVOTRJVGU4RGtZbXRINjRrZDcwSzFLOHVkVjNZYVMwdTAxNURlNi1ib3RzZkg1SWlpR3dzZG81S1NHYzVYenhUT1ZzMXFPMFM3WldRckRqZWozcGNNa1V5WjVhYWVTVDI4cVJxWDl5RWdRWWpKUk03MjkzVVhsR3RtcXI5bw?oc=5",
+      "source": "GNews (navalnews.com)",
+      "published_at": "2026-04-08T07:31:40",
+      "relevance_score": 0.6,
+      "snippet": "Naval Group Offers Blacksword Barracuda Submarine to Greece - navalnews.com",
+      "created_at": "2026-04-10 20:39:16"
+    },
+    {
+      "id": 230,
+      "platform_id": 57,
+      "article_hash": "52c07fef1f740b77",
+      "title": "Naval Group Offers Blacksword Barracuda Submarine to Greece",
+      "url": "https://www.navalnews.com/naval-news/2026/04/naval-group-offers-blacksword-barracuda-to-greece/",
+      "source": "Naval News",
+      "published_at": "2026-04-08T07:30:55",
+      "relevance_score": 0.6,
+      "snippet": "Naval Group is proposing its Blacksword Barracuda design to the Hellenic Navy for a four-submarine program intended to replace Greece\u2019s aging Type 209 submarine fleet, following a request for information (RFI) issued in late 2025. Naval Group has proposed its latest Blacksword Barracuda submarine de",
+      "created_at": "2026-04-10 20:39:16"
+    }
+  ],
+  "events": [],
+  "ic_coverage": [],
+  "combat_history": [
+    {
+      "date": "2023",
+      "operation": "Indo-Pacific deployment",
+      "event": "Suffren conducted first operational deployment to Indo-Pacific, demonstrating France's commitment to Pacific presence and interoperability with allied navies including Australia and India.",
+      "significance": "Validated the class's long-range capability and established France's credible submarine presence in contested Pacific waters"
+    }
+  ],
+  "modernization": [
+    {
+      "program": "Continuous improvement program",
+      "status": "in-progress",
+      "timeline": "2024-2035",
+      "description": "Ongoing improvements to sonar processing, combat systems, and weapon integration based on operational experience from first boats",
+      "impact": "Enhanced acoustic performance and expanded weapons compatibility"
+    },
+    {
+      "program": "F21 torpedo integration",
+      "status": "completed",
+      "timeline": "2022-2023",
+      "description": "Integration and testing of new F21 Artemis heavyweight torpedo replacing older F17 Mod 2",
+      "impact": "Significantly improved anti-submarine and anti-surface capability"
+    }
+  ],
+  "vulnerabilities": [
+    {
+      "area": "Reactor maintenance intervals",
+      "description": "K15 reactor requires refueling every 10 years versus 25+ years for US/UK designs, creating operational gaps and higher lifecycle costs",
+      "context": "Limits sustained deployment capability and increases maintenance burden compared to peers",
+      "mitigation": "Staggered construction schedule designed to minimize simultaneous maintenance periods"
+    },
+    {
+      "area": "Limited weapons capacity",
+      "description": "20-weapon capacity significantly less than Virginia-class (40) or Astute-class (38), limiting sustained combat operations",
+      "context": "French emphasis on quality over quantity may prove insufficient in high-intensity conflict",
+      "mitigation": "Focus on multi-mission weapons and precision engagement doctrine"
+    },
+    {
+      "area": "Construction delays",
+      "description": "Significant delays in construction program, with boats delivered years behind original schedule",
+      "context": "Delays capability gap replacement and strain existing Rubis-class boats beyond planned service life",
+      "mitigation": "Naval Group implementing production improvements and workforce expansion"
+    }
+  ],
+  "operational_patterns": {
+    "typical_deployment": "Strategic deterrent patrol, power projection to French overseas territories, intelligence gathering in contested areas",
+    "deployment_length_months": 3,
+    "key_operating_areas": [
+      "Mediterranean",
+      "Indian Ocean",
+      "Pacific",
+      "Atlantic"
+    ],
+    "typical_task_group": "Independent operations or integrated with carrier battle group",
+    "readiness_notes": "Limited by reactor maintenance schedule and need to preserve aging Rubis-class boats during transition period"
+  },
+  "peer_comparisons": [
+    {
+      "platform": "Virginia-class",
+      "country": "United States",
+      "relationship": "allied equivalent",
+      "key_differences": "Virginia has twice the weapons capacity and longer reactor life, but Suffren designed for greater operational independence and different mission profile emphasizing French territorial interests over global power projection",
+      "video_angle": "Atlantic allies, different approaches - US quantity vs French quality and autonomy"
+    },
+    {
+      "platform": "Astute-class",
+      "country": "United Kingdom",
+      "relationship": "direct rival",
+      "key_differences": "Astute slightly larger with more weapons, both designed for similar strategic roles but Astute benefits from US reactor technology while Suffren maintains complete French industrial independence",
+      "video_angle": "European submarine rivalry - Brexit's impact on defense industrial cooperation"
+    },
+    {
+      "platform": "Type 093 (Shang-class)",
+      "country": "China",
+      "relationship": "strategic competitor",
+      "key_differences": "Chinese boat larger and noisier but rapidly improving, represents different design philosophy prioritizing numbers over stealth. Suffren maintains significant acoustic advantage",
+      "video_angle": "Quality vs quantity in submarine warfare - Western precision vs Chinese mass production"
+    },
+    {
+      "platform": "Yasen-class (Severodvinsk)",
+      "country": "Russia",
+      "relationship": "strategic competitor",
+      "key_differences": "Yasen significantly larger with VLS cells for cruise missiles, represents Russian emphasis on firepower. Suffren prioritizes stealth and operational flexibility over raw weapons load",
+      "video_angle": "Different submarine doctrines - Russian firepower vs French stealth and flexibility"
+    },
+    {
+      "platform": "Soryu-class",
+      "country": "Japan",
+      "relationship": "allied equivalent",
+      "key_differences": "Soryu diesel-electric with air-independent propulsion versus Suffren nuclear power. Similar regional focus but different propulsion solutions for extended patrol capability",
+      "video_angle": "Nuclear vs conventional submarines - comparing endurance and stealth approaches"
+    }
+  ],
+  "search_keywords": [
+    "suffren class",
+    "barracuda class",
+    "french submarine",
+    "SNA",
+    "naval group",
+    "K15 reactor",
+    "F21 torpedo",
+    "SCALP naval",
+    "suffren submarine"
+  ],
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/SNA_Saphir.JPG/1280px-SNA_Saphir.JPG",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/b1/SNA_Saphir.JPG",
+      "width": 3504,
+      "height": 2336,
+      "title": "SNA Saphir.JPG",
+      "description": "Sous-marin nucl\u00e9aire d'attaque fran\u00e7ais <a href=\"https://fr.wikipedia.org/wiki/Saphir_(S602)\" class=\"extiw\" title=\"fr:Saphir (S602)\">Saphir</a> de retour \u00e0 la base.",
+      "license": "CC BY-SA 3.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Agence_Rol_-_23-10-11%2C_Toulon%2C_cuirass%C3%A9_Suffren.jpg/1280px-Agence_Rol_-_23-10-11%2C_Toulon%2C_cuirass%C3%A9_Suffren.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/02/Agence_Rol_-_23-10-11%2C_Toulon%2C_cuirass%C3%A9_Suffren.jpg",
+      "width": 2659,
+      "height": 1842,
+      "title": "Agence Rol - 23-10-11, Toulon, cuirass\u00e9 Suffren.jpg",
+      "description": "The <a href=\"https://en.wikipedia.org/wiki/French_battleship_Suffren\" class=\"extiw\" title=\"en:French battleship Suffren\">French battleship <i>Suffren</i></a> off <a href=\"https://en.wikipedia.org/wiki",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Barracuda-class_SSK_at_Pearl_Harbor_Submarine_Diver_Training_Tower_in_1955.jpg/1280px-Barracuda-class_SSK_at_Pearl_Harbor_Submarine_Diver_Training_Tower_in_1955.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/21/Barracuda-class_SSK_at_Pearl_Harbor_Submarine_Diver_Training_Tower_in_1955.jpg",
+      "width": 1518,
+      "height": 2103,
+      "title": "Barracuda-class SSK at Pearl Harbor Submarine Diver Training Tower in 1955.jpg",
+      "description": "A U.S. Navy <i>Barracuda</i>-class submarine in front of the Submarine Diver Training Tower at Pearl Harbor, Territory of Hawaii (USA).",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/French_and_US_Navies_Demonstrate_Advanced_Undersea_Capabilities_with_Joint_UUV_Launch_%289596509%29.jpg/1280px-French_and_US_Navies_Demonstrate_Advanced_Undersea_Capabilities_with_Joint_UUV_Launch_%289596509%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/French_and_US_Navies_Demonstrate_Advanced_Undersea_Capabilities_with_Joint_UUV_Launch_%289596509%29.jpg",
+      "width": 1320,
+      "height": 896,
+      "title": "French and US Navies Demonstrate Advanced Undersea Capabilities with Joint UUV Launch (9596509).jpg",
+      "description": "The U.S. and French navies successfully launched an American Razorback underwater drone from a French nuclear submarine in the Atlantic. This joint operation demonstrates their strong alliance and adv",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/French_and_US_Navies_Demonstrate_Advanced_Undersea_Capabilities_with_Joint_UUV_Launch_%289596512%29.jpg/1280px-French_and_US_Navies_Demonstrate_Advanced_Undersea_Capabilities_with_Joint_UUV_Launch_%289596512%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/dc/French_and_US_Navies_Demonstrate_Advanced_Undersea_Capabilities_with_Joint_UUV_Launch_%289596512%29.jpg",
+      "width": 2000,
+      "height": 1500,
+      "title": "French and US Navies Demonstrate Advanced Undersea Capabilities with Joint UUV Launch (9596512).jpg",
+      "description": "The U.S. and French navies successfully launched an American Razorback underwater drone from a French nuclear submarine in the Atlantic. This joint operation demonstrates their strong alliance and adv",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Le_Suffren_Agence_Rol-1.jpg/1280px-Le_Suffren_Agence_Rol-1.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/82/Le_Suffren_Agence_Rol-1.jpg",
+      "width": 4144,
+      "height": 2952,
+      "title": "Le Suffren Agence Rol-1.jpg",
+      "description": "Battleship <a href=\"https://en.wikipedia.org/wiki/French_battleship_Suffren\" class=\"extiw\" title=\"en:French battleship Suffren\"><i>Suffren</i></a>",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Suffren-1831.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Suffren-1831.jpg",
+      "width": 759,
+      "height": 642,
+      "title": "Suffren-1831.jpg",
+      "description": "The <i><a href=\"https://en.wikipedia.org/wiki/French_ship_Suffren_(1824)\" class=\"extiw\" title=\"en:French ship Suffren (1824)\">Suffren</a></i>",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Suffren-vs-Rubis-submarine.png",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Suffren-vs-Rubis-submarine.png",
+      "width": 1022,
+      "height": 482,
+      "title": "Suffren-vs-Rubis-submarine.png",
+      "description": "Gr\u00f6\u00dfenvergleich der franz\u00f6sischen Angriffs-U-Boote der Suffren-Klasse (unten) und Rubis (oben)",
+      "license": "CC BY-SA 2.0 fr",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Suffren_at_Cape_Brun_off_Toulon_on_26_July_2020.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Suffren_at_Cape_Brun_off_Toulon_on_26_July_2020.jpg",
+      "width": 720,
+      "height": 405,
+      "title": "Suffren at Cape Brun off Toulon on 26 July 2020.jpg",
+      "description": "French nuclear submarine <i>Suffren</i> at Cape Brun off Toulon on 26 July 2020",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    }
+  ],
+  "doctrine": {
+    "role": "Strategic deterrence and sea control operations in France's extended defense perimeter, maintaining nuclear second-strike credibility while projecting power in contested waters from the Arctic to the Indo-Pacific.",
+    "employment": "Operates independently or in small task groups with surface combatants, conducting extended patrols lasting 70+ days across multiple theaters. Primary missions include anti-submarine warfare against peer competitors, intelligence gathering in contested areas, and special operations support. Command structure integrates directly with French strategic command (CEMA) for nuclear deterrence missions and NATO maritime command for alliance operations.",
+    "design_philosophy": "Prioritized stealth, endurance, and sensor capability over raw speed and firepower, sacrificing torpedo room capacity for advanced sonar arrays and accommodating larger crews for extended deployments. Emphasized indigenous systems and strategic autonomy over NATO interoperability, accepting higher unit costs for complete French industrial control.",
+    "threat_context": "Designed during the post-Cold War period but refined for great power competition, particularly Russian submarine resurgence in the Atlantic and Chinese naval expansion in the Indo-Pacific. The threat evolved from occasional Russian submarine transits to persistent presence and advanced quieting technologies that challenge traditional Western ASW advantages.",
+    "comparison_frame": "Compare on acoustic signature, sensor range, and sustained deployment capability rather than speed or weapon capacity\u2014modern SSN combat effectiveness depends on remaining undetected while maintaining situational awareness. Evaluate indigenous versus allied system integration as a measure of strategic autonomy versus coalition interoperability trade-offs."
+  },
+  "curated_sources": [
+    {
+      "title": "The Naval Institute Guide to World Naval Weapon Systems",
+      "type": "book",
+      "url": "",
+      "relevance": "Provides comprehensive technical analysis of French submarine systems and comparative assessment with peer nation capabilities.",
+      "priority": "essential"
+    },
+    {
+      "title": "French Naval Power in the Indo-Pacific - RUSI",
+      "type": "report",
+      "url": "https://rusi.org/explore-our-research/publications/commentary/french-naval-power-indo-pacific",
+      "relevance": "Analyzes France's strategic submarine deployment patterns and operational doctrine in contested waters.",
+      "priority": "essential"
+    },
+    {
+      "title": "H I Sutton - Covert Shores",
+      "type": "analyst",
+      "url": "https://www.hisutton.com",
+      "relevance": "Leading open-source analyst for submarine capabilities and operational patterns, particularly strong on French Navy developments.",
+      "priority": "recommended"
+    },
+    {
+      "title": "Naval Technology - Suffren Class",
+      "type": "database",
+      "url": "https://www.naval-technology.com/projects/suffren-class-submarine/",
+      "relevance": "Comprehensive technical specifications and development timeline for the Suffren-class program.",
+      "priority": "reference"
+    },
+    {
+      "title": "France's Nuclear Weapons: Current Issues - CRS",
+      "type": "report",
+      "url": "https://crsreports.congress.gov",
+      "relevance": "Contextualizes the Suffren-class role within France's broader nuclear deterrence strategy and force structure.",
+      "priority": "recommended"
+    },
+    {
+      "title": "The Future of France's Nuclear Deterrent - IISS",
+      "type": "report",
+      "url": "https://www.iiss.org",
+      "relevance": "Strategic analysis of French nuclear doctrine evolution and the SSN role in maintaining credible deterrence.",
+      "priority": "recommended"
+    },
+    {
+      "title": "Alexandre Sheldon-Duplaix - French Naval Doctrine",
+      "type": "analyst",
+      "url": "",
+      "relevance": "Leading French naval historian and strategist providing authoritative analysis on Marine Nationale doctrine and capabilities.",
+      "priority": "essential"
+    }
+  ]
+}
