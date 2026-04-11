@@ -1,0 +1,203 @@
+{
+  "combat_history": [
+    {
+      "date": "2008-12",
+      "operation": "Gulf of Aden Anti-Piracy",
+      "event": "Haikou (DDG-171) deployed as part of first PLAN anti-piracy task force, escorting merchant vessels and conducting boarding operations",
+      "significance": "First operational deployment of Type 052C, demonstrating China's blue-water capability and reliability of new systems"
+    },
+    {
+      "date": "2014-03",
+      "operation": "MH370 Search",
+      "event": "Haikou (DDG-171) participated in search operations for missing Malaysia Airlines flight, operating radar and coordinating air assets",
+      "significance": "Showcased peacetime utility of advanced sensor suite for humanitarian operations"
+    },
+    {
+      "date": "2016-07",
+      "operation": "South China Sea Patrols",
+      "event": "Multiple Type 052C destroyers conducted freedom of navigation patrols following Permanent Court of Arbitration ruling, intercepting US Navy vessels",
+      "significance": "First use of Type 052Cs in high-tension diplomatic missions, testing crew training and command systems"
+    },
+    {
+      "date": "2020-04",
+      "operation": "Taiwan Strait Transit",
+      "event": "Zhengzhou (DDG-151) and Changchun (DDG-150) participated in large-scale exercises near Taiwan, practicing air defense coordination",
+      "significance": "Demonstrated integration with newer PLAN vessels and role in potential Taiwan contingency"
+    }
+  ],
+  "modernization": [
+    {
+      "program": "Mid-Life Upgrade",
+      "status": "in-progress",
+      "timeline": "2020-2025",
+      "description": "Upgrading combat management systems, installing improved Type 346A radar software, modernizing electronic warfare suite, and potentially adding Type 1130 CIWS",
+      "impact": "Extends service life by 10-15 years and improves interoperability with Type 052D/055"
+    },
+    {
+      "program": "VLS Compatibility Upgrade",
+      "status": "planned",
+      "timeline": "2024-2027",
+      "description": "Retrofitting VLS cells to accept newer missiles like HHQ-16 and potentially YJ-18 anti-ship missiles",
+      "impact": "Would significantly improve weapons flexibility and lethality, though limited by original VLS design"
+    }
+  ],
+  "vulnerabilities": [
+    {
+      "area": "Limited VLS Flexibility",
+      "description": "VLS system designed specifically for HHQ-9 missiles, cannot accommodate multi-mission loadouts like Western Mk 41 VLS",
+      "context": "Limits tactical flexibility in multi-threat environments where mixed SAM/ASW/strike loadouts are advantageous",
+      "mitigation": "Later ships use universal VLS; Type 052C limited to dedicated missile types"
+    },
+    {
+      "area": "Radar Signature Management",
+      "description": "Large, angular superstructure and external radar arrays create significant radar cross-section compared to contemporary stealth destroyers",
+      "context": "Reduces survivability against modern anti-ship missiles with active radar seekers",
+      "mitigation": "Relies on electronic countermeasures and escort protection rather than stealth"
+    },
+    {
+      "area": "Anti-Submarine Warfare",
+      "description": "Basic hull-mounted sonar and limited ASW weapons compared to dedicated ASW platforms",
+      "context": "Vulnerable to submarine attack, particularly important given USN submarine threat in Western Pacific",
+      "mitigation": "Operates with specialized ASW escorts and relies on helicopter ASW support"
+    },
+    {
+      "area": "Electronic Warfare Integration",
+      "description": "EW systems not fully integrated with combat management system, reducing effectiveness of coordinated soft-kill measures",
+      "context": "Critical weakness against sophisticated missile attacks using multiple attack vectors",
+      "mitigation": "Ongoing software upgrades attempting to improve integration"
+    }
+  ],
+  "operational_patterns": {
+    "typical_deployment": "Carrier strike group escort, destroyer squadron flagship, high-visibility diplomatic missions",
+    "deployment_length_months": 6,
+    "key_operating_areas": [
+      "South China Sea",
+      "East China Sea",
+      "Western Pacific",
+      "Indian Ocean"
+    ],
+    "typical_task_group": "2-3 destroyers, 1-2 frigates, 1 replenishment ship, occasional submarine escort",
+    "readiness_notes": "High operational tempo has stressed maintenance schedules; older hulls showing increased yard time"
+  },
+  "peer_comparisons": [
+    {
+      "platform": "Arleigh Burke Flight IIA",
+      "country": "United States",
+      "relationship": "direct rival",
+      "key_differences": "Burke has 96 VLS cells vs 48, more mature Aegis system, but Type 052C has longer-range area air defense missile. Burke emphasizes multi-mission flexibility while 052C optimized for air defense.",
+      "video_angle": "Classic quantity vs quality debate - American magazine depth versus Chinese missile range"
+    },
+    {
+      "platform": "Atago-class destroyer",
+      "country": "Japan",
+      "relationship": "direct rival",
+      "key_differences": "Atago uses proven SPY-1D radar and SM-2/SM-3 missiles versus unproven Chinese systems, but Type 052C has indigenous supply chain advantages and lower operating costs.",
+      "video_angle": "Reliability versus independence - proven Western tech versus indigenous Chinese capability"
+    },
+    {
+      "platform": "Kolkata-class destroyer",
+      "country": "India",
+      "relationship": "regional competitor",
+      "key_differences": "Similar displacement and mission but Kolkata uses BrahMos supersonic anti-ship missiles versus subsonic YJ-62, while Type 052C has superior area air defense with HHQ-9.",
+      "video_angle": "Regional naval rivalry - different approaches to destroyer design philosophy"
+    },
+    {
+      "platform": "Type 45 Daring-class",
+      "country": "United Kingdom",
+      "relationship": "functional equivalent",
+      "key_differences": "Both emphasize area air defense but Type 45 uses SAMPSON rotating radar versus fixed arrays, and has integration issues with power system that Type 052C avoided.",
+      "video_angle": "Two approaches to area air defense - rotating versus fixed radar architectures"
+    },
+    {
+      "platform": "Sachsen-class frigate",
+      "country": "Germany",
+      "relationship": "allied equivalent",
+      "key_differences": "Smaller but uses similar APAR radar technology, Type 052C represents different doctrine emphasizing larger platforms with more missiles versus European preference for smaller, networked units.",
+      "video_angle": "Size versus networking - Chinese platform doctrine versus European distributed lethality"
+    }
+  ],
+  "search_keywords": [
+    "type 052c",
+    "052c",
+    "luyang ii",
+    "luyang 2",
+    "lanzhou class",
+    "dragon eye radar",
+    "type 346",
+    "hhq-9",
+    "plan destroyer",
+    "chinese aegis"
+  ],
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Luyang_II_%28Type_052C%29_Class_Destroyer.JPG",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Luyang_II_%28Type_052C%29_Class_Destroyer.JPG",
+      "width": 1080,
+      "height": 728,
+      "title": "Luyang II (Type 052C) Class Destroyer.JPG",
+      "description": "CSR Report RL33153 China Naval Modernization: Implications for U.S. Navy Capabilities\u2014Background and Issues for Congress by Ronald O'Rourke dated February 28, 2014.\n<p>Page 23 - Figure 7. Luyang II (T",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Type_052C_Destroyer_-_Jinan_%28152%29_%2840382419451%29.jpg/1280px-Type_052C_Destroyer_-_Jinan_%28152%29_%2840382419451%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Type_052C_Destroyer_-_Jinan_%28152%29_%2840382419451%29.jpg",
+      "width": 1920,
+      "height": 1080,
+      "title": "Type 052C Destroyer - Jinan (152) (40382419451).jpg",
+      "description": "The Type 052C guided-missile destroyer Jinan (Hull 152) attached to a destroyer flotilla with the East China Sea Fleet under the PLA Navy steam during a maritime live-fire training exercise in waters ",
+      "license": "CC0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/80/CNS_Haikou_%28DDG-171%29_in_Rim_of_the_Pacific_%28RIMPAC%29_Exercise_2014.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/80/CNS_Haikou_%28DDG-171%29_in_Rim_of_the_Pacific_%28RIMPAC%29_Exercise_2014.jpg",
+      "width": 1248,
+      "height": 814,
+      "title": "CNS Haikou (DDG-171) in Rim of the Pacific (RIMPAC) Exercise 2014.jpg",
+      "description": "A boarding team from the People's Liberation Army (Navy) Haikou (DD 171) makes way toward the U.S. Coast Guard Cutter Waesche (WMSL 751) July, 16, 2014, during a Maritime Interdiction Operations Exerc",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Chinese_Navy_Guided-Missile_Destroyer_Xian_%28153%29_Departs_Joint_Base_Pearl_Harbor-Hickam_Following_the_Conclusion_of_RIMPAC_2016_160804-N-IU636-106.jpg/1280px-Chinese_Navy_Guided-Missile_Destroyer_Xian_%28153%29_Departs_Joint_Base_Pearl_Harbor-Hickam_Following_the_Conclusion_of_RIMPAC_2016_160804-N-IU636-106.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Chinese_Navy_Guided-Missile_Destroyer_Xian_%28153%29_Departs_Joint_Base_Pearl_Harbor-Hickam_Following_the_Conclusion_of_RIMPAC_2016_160804-N-IU636-106.jpg",
+      "width": 3000,
+      "height": 1997,
+      "title": "Chinese Navy Guided-Missile Destroyer Xian (153) Departs Joint Base Pearl Harbor-Hickam Following the Conclusion of RIMPAC 2016 160804-N-IU636-106.jpg",
+      "description": "160805-N-AI605-099 PEARL HARBOR (Aug. 5, 2016) Chinese Navy guided-missile destroyer Xian (153) departs Joint Base Pearl Harbor-Hickam following the conclusion of Rim of the Pacific 2016. Twenty-six n",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/76/Fleet_Hangchow_Bay_Bridge-1-.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/76/Fleet_Hangchow_Bay_Bridge-1-.jpg",
+      "width": 1200,
+      "height": 800,
+      "title": "Fleet Hangchow Bay Bridge-1-.jpg",
+      "description": "A Chinese fleet on <b><a href=\"//commons.wikimedia.org/wiki/Category:Hangzhou_Bay\" title=\"Category:Hangzhou Bay\">Hangzhou Bay</a> \u2014 before the construction of Hangchow Bay Bridge.</b>",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/PLANS_Jinan_%28DDG-152%29_20151103_3.JPG/1280px-PLANS_Jinan_%28DDG-152%29_20151103_3.JPG",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/f1/PLANS_Jinan_%28DDG-152%29_20151103_3.JPG",
+      "width": 3776,
+      "height": 2513,
+      "title": "PLANS Jinan (DDG-152) 20151103 3.JPG",
+      "description": "151103-N-JX484-058\n MAYPORT, Fla. (Nov. 3, 2015) The Chinese Luyang II-class destroyer Jinan (DDG 152) arrives into Naval Station Mayport as part of a routine goodwill port visit. Foreign navy ships r",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Type_052C_destroyer.jpg/1280px-Type_052C_destroyer.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/69/Type_052C_destroyer.jpg",
+      "width": 1600,
+      "height": 800,
+      "title": "Type 052C destroyer.jpg",
+      "description": "Crop of File:Fleet Hangchow Bay Bridge-1-.jpg",
+      "license": "Public domain",
+      "source": "wikimedia"
+    }
+  ]
+}

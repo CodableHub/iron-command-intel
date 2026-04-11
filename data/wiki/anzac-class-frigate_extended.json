@@ -1,0 +1,298 @@
+{
+  "combat_history": [
+    {
+      "date": "2003",
+      "operation": "Operation Iraqi Freedom",
+      "event": "HMAS Anzac conducted maritime interception operations in the Persian Gulf, boarding suspicious vessels and enforcing UN sanctions",
+      "significance": "First major combat deployment, demonstrated platform's boarding and inspection capabilities"
+    },
+    {
+      "date": "2011-03",
+      "operation": "Operation Odyssey Dawn",
+      "event": "HMAS Parramatta enforced no-fly zone off Libya, conducted surveillance and humanitarian evacuation support",
+      "significance": "Showed platform's ability to operate in contested airspace with limited air defense capability"
+    },
+    {
+      "date": "2014-2017",
+      "operation": "Operation Inherent Resolve",
+      "event": "Multiple Anzac-class vessels conducted maritime security operations in Persian Gulf, protecting coalition naval forces from Iranian small boat threats",
+      "significance": "Validated 25mm Typhoon mounts against swarm boat tactics"
+    },
+    {
+      "date": "2019-2021",
+      "operation": "Operation Argos",
+      "event": "HMAS Toowoomba and other Anzac vessels conducted freedom of navigation operations in South China Sea, tracked Chinese naval movements",
+      "significance": "Demonstrated persistent presence capability but highlighted vulnerability to advanced anti-ship missiles"
+    },
+    {
+      "date": "2024",
+      "operation": "Operation Prosperity Guardian",
+      "event": "HMAS Sydney (planned deployment) to Red Sea following Houthi attacks on commercial shipping, equipped with upgraded ESSM Block 2 missiles",
+      "significance": "First operational test of ASMD-upgraded platforms against ballistic missile threats"
+    }
+  ],
+  "modernization": [
+    {
+      "program": "Anti-Ship Missile Defence (ASMD) Project",
+      "status": "completed",
+      "timeline": "2015-2023",
+      "description": "Complete combat system upgrade including CEAFAR2-L AESA radar, 32-cell Mk 41 VLS, ESSM Block 2 missiles, and Saab 9LV Mk 3E combat management system. RAN vessels only.",
+      "impact": "Transformed from patrol frigates to credible area air defense platforms, quadrupled engagement envelope"
+    },
+    {
+      "program": "Naval Strike Missile Integration",
+      "status": "planned",
+      "timeline": "2024-2026",
+      "description": "Integration of Kongsberg NSM anti-ship missiles using existing VLS cells or deck-mounted launchers, providing over-the-horizon strike capability",
+      "impact": "Would provide first credible anti-ship capability beyond helicopter-launched weapons"
+    },
+    {
+      "program": "RNZN Frigate Systems Upgrade",
+      "status": "planned",
+      "timeline": "2025-2030",
+      "description": "Planned upgrade for New Zealand vessels including new radar, combat management system, and possibly limited VLS capability",
+      "impact": "Would bring RNZN vessels closer to RAN ASMD standard but budget constraints may limit scope"
+    }
+  ],
+  "vulnerabilities": [
+    {
+      "area": "Anti-ship missile defense",
+      "description": "Despite ASMD upgrades, limited magazine depth (32 VLS cells) and lack of long-range interceptors makes them vulnerable to saturation attacks from advanced anti-ship missiles like YJ-18 or Zircon",
+      "context": "In high-intensity conflict with peer adversaries, could be overwhelmed by multiple missile salvos",
+      "mitigation": "Rely on layered defense with other platforms, standoff tactics, and superior situational awareness from CEAFAR radar"
+    },
+    {
+      "area": "Electromagnetic warfare resilience",
+      "description": "Limited hardening against directed energy weapons and high-power microwave attacks, aging electronic systems vulnerable to jamming",
+      "context": "China and Russia developing advanced EW capabilities specifically targeting Western naval platforms",
+      "mitigation": "Ongoing upgrades to electronic warfare suites, but fundamental platform limitations remain"
+    },
+    {
+      "area": "Crew fatigue and manning",
+      "description": "Small crews (163 personnel) face significant workload during extended Pacific deployments, limited redundancy in key positions",
+      "context": "Australia's geographic isolation requires 3-4 month deployments with minimal port calls",
+      "mitigation": "Automation improvements in ASMD upgrade help, but fundamental crew size constraint remains"
+    },
+    {
+      "area": "Hypersonic weapon defense",
+      "description": "ESSM Block 2 and Phalanx CIWS inadequate against hypersonic glide vehicles or high-speed ballistic missiles",
+      "context": "China deploying DF-21D and DF-26 anti-ship ballistic missiles, Russia developing Zircon hypersonic missiles",
+      "mitigation": "No current solution, requires cooperation with higher-tier air defense platforms"
+    }
+  ],
+  "operational_patterns": {
+    "typical_deployment": "Regional presence operations, ASW patrols, coalition task group escort, freedom of navigation operations",
+    "deployment_length_months": 4,
+    "key_operating_areas": [
+      "South China Sea",
+      "Persian Gulf",
+      "Southern Ocean",
+      "Coral Sea"
+    ],
+    "typical_task_group": "Operates independently or with allied frigates/destroyers, supported by AOR replenishment vessel",
+    "readiness_notes": "High operational tempo strains maintenance cycles, CEAFAR radar requires specialized shore support"
+  },
+  "peer_comparisons": [
+    {
+      "platform": "Type 054A Jiangkai II",
+      "country": "China",
+      "relationship": "direct rival",
+      "key_differences": "Type 054A has superior missile loadout (32 HHQ-16 SAMs + 8 YJ-83 AShMs) and better multi-warfare capability, but Anzac has superior radar and ASW systems post-ASMD upgrade",
+      "video_angle": "David vs Goliath: How Australia's upgraded frigates stack against China's most numerous warship"
+    },
+    {
+      "platform": "Mogami-class frigate",
+      "country": "Japan",
+      "relationship": "allied equivalent",
+      "key_differences": "Mogami is newer with integrated mast and modular mission systems, but Anzac ASMD has proven AESA radar and deeper missile magazine. Both emphasize ASW in Pacific theater",
+      "video_angle": "Allied frigate comparison: Why Australia and Japan chose different approaches to the same problem"
+    },
+    {
+      "platform": "Admiral Grigorovich-class",
+      "country": "Russia",
+      "relationship": "direct rival",
+      "key_differences": "Russian frigate emphasizes strike warfare with Kalibr missiles and has superior anti-ship capability, but Anzac ASMD has better air defense radar and electronic warfare systems",
+      "video_angle": "Cold War echoes: How Russian and Australian frigate designs reflect different naval philosophies"
+    },
+    {
+      "platform": "FREMM Bergamini-class",
+      "country": "Italy",
+      "relationship": "NATO equivalent",
+      "key_differences": "FREMM is larger with more VLS cells and multi-mission capability, but Anzac is more cost-effective and optimized for Pacific operations with superior endurance",
+      "video_angle": "European sophistication vs Pacific pragmatism: Comparing frigate design philosophies"
+    }
+  ],
+  "search_keywords": [
+    "anzac class",
+    "anzac frigate",
+    "FFH",
+    "meko 200",
+    "hmas anzac",
+    "hmnzs te kaha",
+    "asmd upgrade",
+    "ceafar",
+    "royal australian navy frigate"
+  ],
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/HMCS_Athabascan_%28DDG_282%29_underway_with_HMCS_Halifax_%28FFH_330%29_and_HMCS_Montreal_%28FFH_336%29_in_September_2015.JPG/1280px-HMCS_Athabascan_%28DDG_282%29_underway_with_HMCS_Halifax_%28FFH_330%29_and_HMCS_Montreal_%28FFH_336%29_in_September_2015.JPG",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/HMCS_Athabascan_%28DDG_282%29_underway_with_HMCS_Halifax_%28FFH_330%29_and_HMCS_Montreal_%28FFH_336%29_in_September_2015.JPG",
+      "width": 7243,
+      "height": 4103,
+      "title": "HMCS Athabascan (DDG 282) underway with HMCS Halifax (FFH 330) and HMCS Montreal (FFH 336) in September 2015.JPG",
+      "description": "The Royal Canadian Navy <i>Iroquois</i>-class destroyer HMCS <i>Athabaskan</i> (DDG 282), and the <i>Halifax</i>-class frigates HMCS <i>Montr\u00e9al</i> (FFH 336) and HMCS <i>Halifax</i> (FFH 330) underwa",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/HMCS_Athabaskan_and_HMCS_Halifax.jpg/1280px-HMCS_Athabaskan_and_HMCS_Halifax.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/0c/HMCS_Athabaskan_and_HMCS_Halifax.jpg",
+      "width": 1355,
+      "height": 1600,
+      "title": "HMCS Athabaskan and HMCS Halifax.jpg",
+      "description": "<p>HMCS Athabaskan and HMCS Halifax.\n</p>\nMotto: We fight as One",
+      "license": "CC BY 2.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/HMCS_Halifax.jpg/1280px-HMCS_Halifax.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/15/HMCS_Halifax.jpg",
+      "width": 4007,
+      "height": 2672,
+      "title": "HMCS Halifax.jpg",
+      "description": "\u00abHalifax\u00bb i Korsfjorden",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/HMCS_Halifax_%28FFH_330%29_en_route_to_Haiti_2010-01-18.jpg/1280px-HMCS_Halifax_%28FFH_330%29_en_route_to_Haiti_2010-01-18.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/HMCS_Halifax_%28FFH_330%29_en_route_to_Haiti_2010-01-18.jpg",
+      "width": 2100,
+      "height": 1358,
+      "title": "HMCS Halifax (FFH 330) en route to Haiti 2010-01-18.jpg",
+      "description": "The Canadian patrol frigate HMCS <i>Halifax</i> (FFH 330) transits the Caribbean Sea Jan. 18, 2010. Halifax is taking part in Operation Hestia, a humanitarian assistance and disaster response operatio",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/HMCS_Halifax_FFH_330_at_Hamilton_Harbour.jpg/1280px-HMCS_Halifax_FFH_330_at_Hamilton_Harbour.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/90/HMCS_Halifax_FFH_330_at_Hamilton_Harbour.jpg",
+      "width": 2016,
+      "height": 1512,
+      "title": "HMCS Halifax FFH 330 at Hamilton Harbour.jpg",
+      "description": "HMCS Halifax (FFH 330), a Canadian Forces Halifax-class frigate, in port in Hamilton, Ontario, Canada during her Great Lakes tour in 2007.",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/HMCS_Halifax_Fo%27c%27sle.jpg/1280px-HMCS_Halifax_Fo%27c%27sle.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/bb/HMCS_Halifax_Fo%27c%27sle.jpg",
+      "width": 2016,
+      "height": 1512,
+      "title": "HMCS Halifax Fo'c'sle.jpg",
+      "description": "The fo'c'sle of HMCS Halifax (FFH 330). Photographer stood adjacent to the ship's Bofors 57 mm 70 Mark 2 gun. Photo taken while Halifax was in port in Hamilton Harbour during her 2007 Great Lakes tour",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/75/HMCS_Halifax_bow.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/75/HMCS_Halifax_bow.jpg",
+      "width": 685,
+      "height": 1024,
+      "title": "HMCS Halifax bow.jpg",
+      "description": "HMCS Halifax bow.",
+      "license": "CC BY 2.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/US_Navy_100118-N-5345W-063_The_Canadian_Navy_frigate_HMCS_Halifax_%28FFH_330%29_transits_the_Caribbean_Sea.jpg/1280px-US_Navy_100118-N-5345W-063_The_Canadian_Navy_frigate_HMCS_Halifax_%28FFH_330%29_transits_the_Caribbean_Sea.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/2d/US_Navy_100118-N-5345W-063_The_Canadian_Navy_frigate_HMCS_Halifax_%28FFH_330%29_transits_the_Caribbean_Sea.jpg",
+      "width": 2100,
+      "height": 1354,
+      "title": "US Navy 100118-N-5345W-063 The Canadian Navy frigate HMCS Halifax (FFH 330) transits the Caribbean Sea.jpg",
+      "description": "CARIBBEAN SEA (Jan. 18, 2010) The Canadian Navy frigate HMCS Halifax (FFH 330) transits the Caribbean Sea. (U.S. Navy photo by Mass Communication Specialist 2nd Class Kristopher Wilson/Released)",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/HMAS_Stalwart_%28A304%29_and_three_Anzac_class_frigates_at_HMAS_Stirling%2C_August_2023_01.jpg/1280px-HMAS_Stalwart_%28A304%29_and_three_Anzac_class_frigates_at_HMAS_Stirling%2C_August_2023_01.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/b8/HMAS_Stalwart_%28A304%29_and_three_Anzac_class_frigates_at_HMAS_Stirling%2C_August_2023_01.jpg",
+      "width": 4608,
+      "height": 3456,
+      "title": "HMAS Stalwart (A304) and three Anzac class frigates at HMAS Stirling, August 2023 01.jpg",
+      "description": "The HMAS Stalwart (A304) and three Anzac class frigates (HMAS Stuart (FFH 153) on the far right, HMAS Toowoomba (FFH 156)\u200e in the centre and a third, unidentified one on the left) at HMAS Stirling, We",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/HMAS_Stalwart_%28A304%29_and_three_Anzac_class_frigates_at_HMAS_Stirling%2C_August_2023_02.jpg/1280px-HMAS_Stalwart_%28A304%29_and_three_Anzac_class_frigates_at_HMAS_Stirling%2C_August_2023_02.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/30/HMAS_Stalwart_%28A304%29_and_three_Anzac_class_frigates_at_HMAS_Stirling%2C_August_2023_02.jpg",
+      "width": 4608,
+      "height": 2592,
+      "title": "HMAS Stalwart (A304) and three Anzac class frigates at HMAS Stirling, August 2023 02.jpg",
+      "description": "The HMAS Stalwart (A304) and three Anzac class frigates (HMAS Stuart (FFH 153) on the far right, HMAS Toowoomba (FFH 156)\u200e in the centre and a third, unidentified one on the left) at HMAS Stirling, We",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/HMAS_Stalwart_%28A304%29_and_three_Anzac_class_frigates_at_HMAS_Stirling%2C_August_2023_03.jpg/1280px-HMAS_Stalwart_%28A304%29_and_three_Anzac_class_frigates_at_HMAS_Stirling%2C_August_2023_03.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/97/HMAS_Stalwart_%28A304%29_and_three_Anzac_class_frigates_at_HMAS_Stirling%2C_August_2023_03.jpg",
+      "width": 4608,
+      "height": 2592,
+      "title": "HMAS Stalwart (A304) and three Anzac class frigates at HMAS Stirling, August 2023 03.jpg",
+      "description": "The HMAS Stalwart (A304) and three Anzac class frigates (HMAS Stuart (FFH 153) on the far right, HMAS Toowoomba (FFH 156)\u200e in the centre and a third, unidentified one on the left) at HMAS Stirling, We",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/HMAS_Stalwart_%28A304%29_and_three_Anzac_class_frigates_at_HMAS_Stirling%2C_August_2023_04.jpg/1280px-HMAS_Stalwart_%28A304%29_and_three_Anzac_class_frigates_at_HMAS_Stirling%2C_August_2023_04.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/99/HMAS_Stalwart_%28A304%29_and_three_Anzac_class_frigates_at_HMAS_Stirling%2C_August_2023_04.jpg",
+      "width": 4608,
+      "height": 2592,
+      "title": "HMAS Stalwart (A304) and three Anzac class frigates at HMAS Stirling, August 2023 04.jpg",
+      "description": "The HMAS Stalwart (A304) and three Anzac class frigates (HMAS Stuart (FFH 153) on the far right, HMAS Toowoomba (FFH 156)\u200e in the centre and a third, unidentified one on the left) at HMAS Stirling, We",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/HMAS_Stalwart_%28A304%29_and_three_Anzac_class_frigates_at_HMAS_Stirling%2C_August_2023_06.jpg/1280px-HMAS_Stalwart_%28A304%29_and_three_Anzac_class_frigates_at_HMAS_Stirling%2C_August_2023_06.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/8b/HMAS_Stalwart_%28A304%29_and_three_Anzac_class_frigates_at_HMAS_Stirling%2C_August_2023_06.jpg",
+      "width": 4608,
+      "height": 2592,
+      "title": "HMAS Stalwart (A304) and three Anzac class frigates at HMAS Stirling, August 2023 06.jpg",
+      "description": "The HMAS Stalwart (A304) and three Anzac class frigates (HMAS Stuart (FFH 153) on the far right, HMAS Toowoomba (FFH 156)\u200e in the centre and a third, unidentified one on the left) at HMAS Stirling, We",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Two_Anzac_class_frigates_at_the_Australian_Marine_Complex%2C_Henderson%2C_June_2024_01.jpg/1280px-Two_Anzac_class_frigates_at_the_Australian_Marine_Complex%2C_Henderson%2C_June_2024_01.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Two_Anzac_class_frigates_at_the_Australian_Marine_Complex%2C_Henderson%2C_June_2024_01.jpg",
+      "width": 4608,
+      "height": 2592,
+      "title": "Two Anzac class frigates at the Australian Marine Complex, Henderson, June 2024 01.jpg",
+      "description": "Two Anzac class frigates at the Australian Marine Complex, Henderson, Western Australia. The front one is the HMAS Ballarat (FFH 155), the second one I couldn't identify.",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Two_Anzac_class_frigates_at_the_Australian_Marine_Complex%2C_Henderson%2C_June_2024_02.jpg/1280px-Two_Anzac_class_frigates_at_the_Australian_Marine_Complex%2C_Henderson%2C_June_2024_02.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/89/Two_Anzac_class_frigates_at_the_Australian_Marine_Complex%2C_Henderson%2C_June_2024_02.jpg",
+      "width": 4608,
+      "height": 3456,
+      "title": "Two Anzac class frigates at the Australian Marine Complex, Henderson, June 2024 02.jpg",
+      "description": "Two Anzac class frigates at the Australian Marine Complex, Henderson, Western Australia. The front one is the HMAS Ballarat (FFH 155), the second one I couldn't identify.",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Two_Anzac_class_frigates_at_the_Australian_Marine_Complex%2C_Henderson%2C_June_2024_03.jpg/1280px-Two_Anzac_class_frigates_at_the_Australian_Marine_Complex%2C_Henderson%2C_June_2024_03.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/db/Two_Anzac_class_frigates_at_the_Australian_Marine_Complex%2C_Henderson%2C_June_2024_03.jpg",
+      "width": 4608,
+      "height": 3456,
+      "title": "Two Anzac class frigates at the Australian Marine Complex, Henderson, June 2024 03.jpg",
+      "description": "Two Anzac class frigates at the Australian Marine Complex, Henderson, Western Australia. The front one is the HMAS Ballarat (FFH 155), the second one I couldn't identify.",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    }
+  ]
+}

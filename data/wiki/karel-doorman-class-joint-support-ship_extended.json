@@ -1,0 +1,114 @@
+{
+  "combat_history": [
+    {
+      "date": "2016",
+      "operation": "Counter-piracy operations",
+      "event": "HNLMS Karel Doorman deployed to Horn of Africa for EU NAVFOR Somalia Operation Atalanta, providing logistics support and helicopter platform for counter-piracy missions",
+      "significance": "First operational deployment demonstrated the ship's ability to serve as a multi-role platform in extended operations away from home waters"
+    },
+    {
+      "date": "2020",
+      "operation": "COVID-19 response",
+      "event": "HNLMS Johan de Witt served as floating hospital and isolation facility during Caribbean deployment, treating COVID-19 cases among crew and local populations",
+      "significance": "Highlighted the ship's adaptability for humanitarian missions and crisis response beyond traditional military roles"
+    },
+    {
+      "date": "2022",
+      "operation": "NATO Enhanced Forward Presence",
+      "event": "HNLMS Karel Doorman provided logistics support to NATO forces in Baltic Sea region following Russian invasion of Ukraine",
+      "significance": "Demonstrated value as enabler for sustained NATO operations in contested regions"
+    }
+  ],
+  "modernization": [
+    {
+      "program": "Mid-life capability upgrade",
+      "status": "planned",
+      "timeline": "2025-2030",
+      "description": "Planned upgrades to communication systems, defensive countermeasures, and potentially enhanced air defense systems in response to evolving threat environment",
+      "impact": "Will improve survivability and interoperability with NATO partners, addressing current defensive limitations"
+    },
+    {
+      "program": "NH90 integration optimization",
+      "status": "completed",
+      "timeline": "2018-2020",
+      "description": "Modifications to helicopter facilities and maintenance systems to better support NH90 operations and reduce maintenance complexity",
+      "impact": "Improved aviation availability rates and reduced operational costs for helicopter operations"
+    }
+  ],
+  "vulnerabilities": [
+    {
+      "area": "Air defense",
+      "description": "Limited to single Goalkeeper CIWS and 76mm gun, insufficient against modern anti-ship missile threats or coordinated air attacks",
+      "context": "In contested environments like Baltic or South China Sea, these ships would require dedicated escort for survivability",
+      "mitigation": "Dutch doctrine relies on operating under friendly air cover or with escort vessels providing area air defense"
+    },
+    {
+      "area": "Role conflict",
+      "description": "Cannot simultaneously perform amphibious and replenishment roles effectively, requiring pre-mission reconfiguration that limits operational flexibility",
+      "context": "In rapid-response scenarios, ships may be configured for wrong mission type, reducing immediate effectiveness",
+      "mitigation": "Careful operational planning and potentially keeping one ship in each configuration"
+    },
+    {
+      "area": "Size versus stealth",
+      "description": "Large radar and infrared signature makes them easy targets for surveillance and targeting, despite auxiliary status",
+      "context": "Modern ISR capabilities make these ships vulnerable to long-range precision strikes",
+      "mitigation": "Limited\u2014relies primarily on operational security and friendly force protection"
+    }
+  ],
+  "operational_patterns": {
+    "typical_deployment": "Rotational deployments for NATO missions, Caribbean patrol duties, and coalition logistics support",
+    "deployment_length_months": 6,
+    "key_operating_areas": [
+      "North Atlantic",
+      "Mediterranean",
+      "Caribbean",
+      "Horn of Africa"
+    ],
+    "typical_task_group": "Often operates independently or with frigate escort for higher-threat missions",
+    "readiness_notes": "Generally high availability, though complex multi-role systems can create maintenance challenges"
+  },
+  "peer_comparisons": [
+    {
+      "platform": "Bay-class Landing Ship Dock",
+      "country": "United Kingdom",
+      "relationship": "allied equivalent",
+      "key_differences": "Bay-class is dedicated LPD with larger well deck and troop capacity but lacks replenishment capability. Karel Doorman trades some amphibious capacity for logistics flexibility.",
+      "video_angle": "Specialist vs generalist approach to amphibious warfare - which philosophy works better for medium navies?"
+    },
+    {
+      "platform": "Berlin-class Replenishment Ship",
+      "country": "Germany",
+      "relationship": "functional overlap",
+      "key_differences": "Berlin-class is dedicated AOR with greater fuel/stores capacity but no amphibious capability. Shows different solution to same multi-role requirement.",
+      "video_angle": "How different NATO allies solve the auxiliary ship requirement - dedicated vs combined platforms"
+    },
+    {
+      "platform": "Juan Carlos I-class Strategic Projection Ship",
+      "country": "Spain",
+      "relationship": "capability competitor",
+      "key_differences": "Juan Carlos I is much larger with fixed-wing capability and greater amphibious capacity but lacks underway replenishment systems. Different end of the multi-role spectrum.",
+      "video_angle": "Small carrier vs logistics ship - different interpretations of 'strategic projection' for medium navies"
+    },
+    {
+      "platform": "Absalon-class Support Ship",
+      "country": "Denmark",
+      "relationship": "design philosophy parallel",
+      "key_differences": "Absalon combines frigate and logistics roles rather than amphibious/logistics, showing Nordic preference for multi-role efficiency over specialization.",
+      "video_angle": "Nordic multi-role philosophy - how small navies maximize capability per hull"
+    }
+  ],
+  "search_keywords": [
+    "karel doorman class",
+    "johan de witt",
+    "JSS",
+    "joint support ship",
+    "dutch navy",
+    "rnln",
+    "A833",
+    "A801",
+    "amphibious",
+    "replenishment",
+    "multi-role"
+  ],
+  "images": []
+}

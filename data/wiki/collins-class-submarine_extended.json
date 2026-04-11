@@ -1,0 +1,192 @@
+{
+  "combat_history": [
+    {
+      "date": "2003",
+      "operation": "Operation Iraqi Freedom",
+      "event": "HMAS Collins deployed to Persian Gulf area, conducted surveillance operations and provided intelligence support during Iraq War",
+      "significance": "First operational deployment demonstrated long-range capability but highlighted logistics challenges"
+    },
+    {
+      "date": "2017-02",
+      "operation": null,
+      "event": "HMAS Dechaineux suffered flooding incident during dive off South Australia, forced emergency surface. Investigation revealed seawater leaked through snorkel induction valve",
+      "significance": "Highlighted ongoing maintenance and safety challenges, led to temporary grounding of Collins fleet"
+    },
+    {
+      "date": "2020-2021",
+      "operation": "Indo-Pacific patrols",
+      "event": "Collins-class boats conducted extended patrols in South China Sea and Southeast Asian waters as part of Australia's increased regional presence",
+      "significance": "Demonstrated strategic relevance in great power competition, but limited availability due to maintenance issues"
+    }
+  ],
+  "modernization": [
+    {
+      "program": "Collins Class Life of Type Extension (LOTE)",
+      "status": "in-progress",
+      "timeline": "2021-2038",
+      "description": "Major upgrade including new sonar, combat system improvements, hull strengthening, and propulsion system overhaul. Will extend service life until AUKUS submarines arrive",
+      "impact": "Maintains capability gap coverage until SSN-AUKUS delivery in 2040s"
+    },
+    {
+      "program": "Combat System Replacement",
+      "status": "completed",
+      "timeline": "2007-2016",
+      "description": "Replaced problematic original combat system with proven Raytheon AN/BYG-1 system used on US submarines",
+      "impact": "Resolved major capability gap and improved weapons integration"
+    }
+  ],
+  "vulnerabilities": [
+    {
+      "area": "Availability rates",
+      "description": "Chronic availability problems with typically only 2-3 boats operational at any time. Complex maintenance requirements and parts supply issues",
+      "context": "Australia's small submarine force cannot afford low availability rates given vast maritime domain",
+      "mitigation": "LOTE program includes maintenance improvements, but fundamental issues remain"
+    },
+    {
+      "area": "Acoustic signature",
+      "description": "Larger and noisier than modern conventional submarines. Lack of Air Independent Propulsion (AIP) limits submerged endurance",
+      "context": "Vulnerable to detection by modern ASW systems, particularly Chinese Type 039A/B submarines with AIP",
+      "mitigation": "Limited options until replacement with nuclear submarines"
+    },
+    {
+      "area": "Crew retention",
+      "description": "Severe shortage of qualified submarine personnel, particularly senior sailors. Training pipeline cannot keep up with requirements",
+      "context": "Cannot maintain adequate crew levels across six boats, worsens availability crisis",
+      "mitigation": "Retention bonuses and improved conditions, but competes with civilian nuclear industry"
+    }
+  ],
+  "operational_patterns": {
+    "typical_deployment": "Extended solo patrols in Indo-Pacific, surveillance missions, occasional multi-national exercises",
+    "deployment_length_months": 3,
+    "key_operating_areas": [
+      "South China Sea",
+      "Southeast Asia",
+      "Southern Ocean",
+      "Tasman Sea"
+    ],
+    "typical_task_group": "Operate independently, occasionally with surface task groups",
+    "readiness_notes": "Typically 2-3 boats available for operations at any time due to maintenance cycles"
+  },
+  "peer_comparisons": [
+    {
+      "platform": "Soryu-class submarine",
+      "country": "Japan",
+      "relationship": "allied equivalent",
+      "key_differences": "Soryu boats are smaller but have AIP, are quieter, and more modern. Collins has longer range but less sophisticated technology",
+      "video_angle": "AIP vs range - different approaches to Pacific submarine warfare"
+    },
+    {
+      "platform": "Type 039A Yuan-class",
+      "country": "China",
+      "relationship": "direct rival",
+      "key_differences": "Yuan class is smaller, has AIP, likely quieter and more modern. Collins has longer range and heavier armament",
+      "video_angle": "Old vs new: 1990s Western tech vs 2010s Chinese submarine development"
+    },
+    {
+      "platform": "Type 214 submarine",
+      "country": "Germany",
+      "relationship": "contemporary design",
+      "key_differences": "Type 214 much smaller but with AIP, designed for littoral warfare vs Collins' ocean-going capability",
+      "video_angle": "Size matters: littoral vs blue-water submarine design philosophies"
+    },
+    {
+      "platform": "Scorp\u00e8ne-class submarine",
+      "country": "France",
+      "relationship": "export contemporary",
+      "key_differences": "Similar era but smaller, modular design vs bespoke Australian requirements. Better availability rates",
+      "video_angle": "Custom vs off-the-shelf: why Australia's bespoke approach caused problems"
+    }
+  ],
+  "search_keywords": [
+    "collins class",
+    "collins submarine",
+    "HMAS Collins",
+    "australian submarine",
+    "SSK 78",
+    "RAN submarine",
+    "collins class problems",
+    "australian submarine corporation"
+  ],
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Unidentified_Collins-class_submarine_off_Garden_Island%2C_Western_Australia%2C_September_2023_04.jpg/1280px-Unidentified_Collins-class_submarine_off_Garden_Island%2C_Western_Australia%2C_September_2023_04.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Unidentified_Collins-class_submarine_off_Garden_Island%2C_Western_Australia%2C_September_2023_04.jpg",
+      "width": 4608,
+      "height": 3456,
+      "title": "Unidentified Collins-class submarine off Garden Island, Western Australia, September 2023 04.jpg",
+      "description": "An unidentified Collins-class submarine off Garden Island, Western Australia, seen from near the Kwinana grain terminal, East Rockingham.",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Unidentified_Collins_class_submarine_passing_between_bulk_carriers_in_Cockburn_Sound%2C_May_2022_01.jpg/1280px-Unidentified_Collins_class_submarine_passing_between_bulk_carriers_in_Cockburn_Sound%2C_May_2022_01.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Unidentified_Collins_class_submarine_passing_between_bulk_carriers_in_Cockburn_Sound%2C_May_2022_01.jpg",
+      "width": 3264,
+      "height": 2448,
+      "title": "Unidentified Collins class submarine passing between bulk carriers in Cockburn Sound, May 2022 01.jpg",
+      "description": "An unidentified Collins class submarine passing between bulk carriers in Cockburn Sound, Western Australia. Garden Island can be seen in the background.",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Unidentified_Collins_class_submarine_passing_between_bulk_carriers_in_Cockburn_Sound%2C_May_2022_04.jpg/1280px-Unidentified_Collins_class_submarine_passing_between_bulk_carriers_in_Cockburn_Sound%2C_May_2022_04.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Unidentified_Collins_class_submarine_passing_between_bulk_carriers_in_Cockburn_Sound%2C_May_2022_04.jpg",
+      "width": 3264,
+      "height": 2448,
+      "title": "Unidentified Collins class submarine passing between bulk carriers in Cockburn Sound, May 2022 04.jpg",
+      "description": "An unidentified Collins class submarine passing between bulk carriers in Cockburn Sound, Western Australia. Garden Island can be seen in the background.",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Unidentified_Collins_class_submarine_passing_between_bulk_carriers_in_Cockburn_Sound%2C_May_2022_05.jpg/1280px-Unidentified_Collins_class_submarine_passing_between_bulk_carriers_in_Cockburn_Sound%2C_May_2022_05.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Unidentified_Collins_class_submarine_passing_between_bulk_carriers_in_Cockburn_Sound%2C_May_2022_05.jpg",
+      "width": 3264,
+      "height": 2448,
+      "title": "Unidentified Collins class submarine passing between bulk carriers in Cockburn Sound, May 2022 05.jpg",
+      "description": "An unidentified Collins class submarine passing between bulk carriers in Cockburn Sound, Western Australia. Garden Island can be seen in the background.",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Unidentified_Collins_class_submarine_passing_between_bulk_carriers_in_Cockburn_Sound%2C_May_2022_06.jpg/1280px-Unidentified_Collins_class_submarine_passing_between_bulk_carriers_in_Cockburn_Sound%2C_May_2022_06.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Unidentified_Collins_class_submarine_passing_between_bulk_carriers_in_Cockburn_Sound%2C_May_2022_06.jpg",
+      "width": 3264,
+      "height": 2448,
+      "title": "Unidentified Collins class submarine passing between bulk carriers in Cockburn Sound, May 2022 06.jpg",
+      "description": "An unidentified Collins class submarine passing between bulk carriers in Cockburn Sound, Western Australia. Garden Island can be seen in the background.",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Unidentified_Collins_class_submarine_passing_between_bulk_carriers_in_Cockburn_Sound%2C_May_2022_09.jpg/1280px-Unidentified_Collins_class_submarine_passing_between_bulk_carriers_in_Cockburn_Sound%2C_May_2022_09.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/31/Unidentified_Collins_class_submarine_passing_between_bulk_carriers_in_Cockburn_Sound%2C_May_2022_09.jpg",
+      "width": 3264,
+      "height": 2448,
+      "title": "Unidentified Collins class submarine passing between bulk carriers in Cockburn Sound, May 2022 09.jpg",
+      "description": "An unidentified Collins class submarine passing between bulk carriers in Cockburn Sound, Western Australia. Garden Island can be seen in the background.",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Unidentified_Collins_class_submarine_passing_between_bulk_carriers_in_Cockburn_Sound%2C_May_2022_10.jpg/1280px-Unidentified_Collins_class_submarine_passing_between_bulk_carriers_in_Cockburn_Sound%2C_May_2022_10.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Unidentified_Collins_class_submarine_passing_between_bulk_carriers_in_Cockburn_Sound%2C_May_2022_10.jpg",
+      "width": 3264,
+      "height": 2448,
+      "title": "Unidentified Collins class submarine passing between bulk carriers in Cockburn Sound, May 2022 10.jpg",
+      "description": "An unidentified Collins class submarine passing between bulk carriers in Cockburn Sound, Western Australia. Garden Island can be seen in the background.",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Unidentified_Collins_class_submarine_passing_between_bulk_carriers_in_Cockburn_Sound%2C_May_2022_11.jpg/1280px-Unidentified_Collins_class_submarine_passing_between_bulk_carriers_in_Cockburn_Sound%2C_May_2022_11.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Unidentified_Collins_class_submarine_passing_between_bulk_carriers_in_Cockburn_Sound%2C_May_2022_11.jpg",
+      "width": 3264,
+      "height": 2448,
+      "title": "Unidentified Collins class submarine passing between bulk carriers in Cockburn Sound, May 2022 11.jpg",
+      "description": "An unidentified Collins class submarine passing between bulk carriers in Cockburn Sound, Western Australia. Garden Island can be seen in the background.",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    }
+  ]
+}

@@ -1,0 +1,251 @@
+{
+  "combat_history": [
+    {
+      "date": "2006-07-14",
+      "operation": "Second Lebanon War",
+      "event": "INS Hanit struck by Hezbollah C-802 anti-ship missile off Beirut, killing 4 sailors. Ship's radar was not actively scanning due to perceived low threat.",
+      "significance": "First successful anti-ship missile attack on Israeli Navy; exposed overconfidence and highlighted asymmetric threats from non-state actors"
+    },
+    {
+      "date": "2014",
+      "operation": "Operation Protective Edge",
+      "event": "Sa'ar 5 vessels provided offshore fire support and maritime interdiction during Gaza conflict. Successfully intercepted multiple rocket threats.",
+      "significance": "Demonstrated multi-role capability and effectiveness of upgraded defensive systems"
+    },
+    {
+      "date": "2018-2021",
+      "operation": "Gas Field Protection",
+      "event": "Continuous patrol missions protecting Leviathan and Tamar gas fields. Multiple incidents of foreign vessel interdiction.",
+      "significance": "Shift to economic security mission profile, proving endurance capabilities in sustained operations"
+    }
+  ],
+  "modernization": [
+    {
+      "program": "Barak 8 Integration",
+      "status": "in-progress",
+      "timeline": "2017-2025",
+      "description": "Upgrading remaining vessels with Barak 8 ER missiles, new fire control systems, and enhanced EW capabilities",
+      "impact": "Significantly extends air defense range and multi-target engagement capability"
+    },
+    {
+      "program": "C4I Upgrade",
+      "status": "completed",
+      "timeline": "2015-2020",
+      "description": "Integration with Israeli Navy's networked warfare system, improved datalinks and situational awareness",
+      "impact": "Enhanced coordination with other naval and air assets, improved threat sharing"
+    },
+    {
+      "program": "Life Extension Program",
+      "status": "planned",
+      "timeline": "2025-2030",
+      "description": "Hull and machinery refurbishment to extend service life to 2040s, possible propulsion upgrades",
+      "impact": "Maintains capability until Sa'ar 6 class reaches full operational capacity"
+    }
+  ],
+  "vulnerabilities": [
+    {
+      "area": "Size limitations",
+      "description": "Small hull constrains magazine depth, fuel capacity, and crew endurance for extended operations",
+      "context": "Critical for sustained gas field protection missions and potential conflict with peer adversaries",
+      "mitigation": "Rotational deployment patterns and shore-based support optimization"
+    },
+    {
+      "area": "Electronic warfare susceptibility",
+      "description": "Dense electronics package vulnerable to sophisticated EW attacks, limited redundancy due to size constraints",
+      "context": "Regional adversaries have advanced EW capabilities and proven anti-ship missile technology",
+      "mitigation": "Continuous EW suite upgrades and improved hardening measures"
+    },
+    {
+      "area": "Single-point failures",
+      "description": "Centralized systems design creates vulnerabilities - radar/combat system damage severely degrades capability",
+      "context": "Lessons from INS Hanit attack showed cascading effects of system damage",
+      "mitigation": "Improved damage control procedures and system redundancy where possible"
+    }
+  ],
+  "operational_patterns": {
+    "typical_deployment": "Gas field protection patrols, coastal defense, and rapid response missions",
+    "deployment_length_months": 2,
+    "key_operating_areas": [
+      "Eastern Mediterranean",
+      "Israeli EEZ",
+      "Levantine Basin"
+    ],
+    "typical_task_group": "Single ship operations or paired with Sa'ar 6 corvettes and missile boats",
+    "readiness_notes": "High operational tempo due to gas field security requirements; maintenance windows carefully scheduled"
+  },
+  "peer_comparisons": [
+    {
+      "platform": "Gowind 2500",
+      "country": "Egypt",
+      "relationship": "regional rival",
+      "key_differences": "Egyptian Gowinds larger but less densely armed; Sa'ar 5 superior air defense but limited endurance. Both optimized for Eastern Med operations.",
+      "video_angle": "David vs Goliath: How Israel maximized firepower in a corvette hull"
+    },
+    {
+      "platform": "Milgem-class corvette",
+      "country": "Turkey",
+      "relationship": "regional rival",
+      "key_differences": "Turkish vessels newer with stealth features but less proven systems; Sa'ar 5 battle-tested but aging platform with superior weapons density.",
+      "video_angle": "Old vs New: Proven systems vs modern stealth in the Eastern Mediterranean"
+    },
+    {
+      "platform": "Braunschweig-class corvette",
+      "country": "Germany",
+      "relationship": "design philosophy comparison",
+      "key_differences": "German design prioritizes modularity and multirole capability; Sa'ar 5 focused purely on air defense and anti-surface warfare in littoral environment.",
+      "video_angle": "Design philosophies: Specialized warfare vs modular flexibility"
+    },
+    {
+      "platform": "Visby-class corvette",
+      "country": "Sweden",
+      "relationship": "small navy comparison",
+      "key_differences": "Swedish design emphasizes stealth and coastal operations; Sa'ar 5 prioritizes firepower and area defense with less stealth consideration.",
+      "video_angle": "Small navy solutions: Stealth vs firepower approaches to corvette design"
+    }
+  ],
+  "search_keywords": [
+    "saar 5",
+    "sa'ar 5",
+    "israeli navy",
+    "ins lahav",
+    "ins eilat",
+    "ins hanit",
+    "israeli corvette",
+    "barak missile",
+    "hanit attack",
+    "c-802",
+    "israeli naval forces"
+  ],
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flickr_-_Israel_Defense_Forces_-_Chief_of_Staff_Visits_Navy%2C_Jan_2011_%283%29.jpg/1280px-Flickr_-_Israel_Defense_Forces_-_Chief_of_Staff_Visits_Navy%2C_Jan_2011_%283%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/88/Flickr_-_Israel_Defense_Forces_-_Chief_of_Staff_Visits_Navy%2C_Jan_2011_%283%29.jpg",
+      "width": 2130,
+      "height": 1417,
+      "title": "Flickr - Israel Defense Forces - Chief of Staff Visits Navy, Jan 2011 (3).jpg",
+      "description": "<p>January 19, 2011.\n</p><p>The Chief of the General Staff, Lt. Gen. Gabi Ashkenazi, visits the Israeli Navy as part of his final visits to all IDF branches and units.\n</p><p>As part of his visit, Lt.",
+      "license": "CC BY 2.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Flickr_-_Israel_Defense_Forces_-_Chief_of_Staff_Visits_Navy%2C_Jan_2011_%284%29.jpg/1280px-Flickr_-_Israel_Defense_Forces_-_Chief_of_Staff_Visits_Navy%2C_Jan_2011_%284%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Flickr_-_Israel_Defense_Forces_-_Chief_of_Staff_Visits_Navy%2C_Jan_2011_%284%29.jpg",
+      "width": 2130,
+      "height": 1417,
+      "title": "Flickr - Israel Defense Forces - Chief of Staff Visits Navy, Jan 2011 (4).jpg",
+      "description": "<p>January 19, 2011.\n</p><p>The Chief of the General Staff, Lt. Gen. Gabi Ashkenazi, visits the Israeli Navy as part of his final visits to all IDF branches and units.\n</p><p>As part of his visit, Lt.",
+      "license": "CC BY 2.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Flickr_-_Israel_Defense_Forces_-_Sa%27ar_4.5-class_Missile_Boat_Firing_During_Naval_Exercise.jpg/1280px-Flickr_-_Israel_Defense_Forces_-_Sa%27ar_4.5-class_Missile_Boat_Firing_During_Naval_Exercise.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Flickr_-_Israel_Defense_Forces_-_Sa%27ar_4.5-class_Missile_Boat_Firing_During_Naval_Exercise.jpg",
+      "width": 3216,
+      "height": 2136,
+      "title": "Flickr - Israel Defense Forces - Sa'ar 4.5-class Missile Boat Firing During Naval Exercise.jpg",
+      "description": "<p>A Sa'ar 4.5-class Corvette of the Israeli Navy fires its cannons during a naval exercise off the coast of Israel. \n</p><p>The Israel Defense Forces <a rel=\"nofollow\" class=\"external text\" href=\"htt",
+      "license": "CC BY-SA 2.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/IDF-Sa%27ar-5-missile-corvettes.jpg/1280px-IDF-Sa%27ar-5-missile-corvettes.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/2c/IDF-Sa%27ar-5-missile-corvettes.jpg",
+      "width": 2056,
+      "height": 1368,
+      "title": "IDF-Sa'ar-5-missile-corvettes.jpg",
+      "description": "<a href=\"//commons.wikimedia.org/wiki/Israel_Defense_Forces\" class=\"mw-redirect\" title=\"Israel Defense Forces\">Israel Defense Forces</a>'s <a href=\"//commons.wikimedia.org/wiki/Israeli_Navy\" title=\"Is",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Israel_Navy_Strike_Gaza_from_the_Sea_%2814738073484%29.jpg/1280px-Israel_Navy_Strike_Gaza_from_the_Sea_%2814738073484%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Israel_Navy_Strike_Gaza_from_the_Sea_%2814738073484%29.jpg",
+      "width": 3680,
+      "height": 2456,
+      "title": "Israel Navy Strike Gaza from the Sea (14738073484).jpg",
+      "description": "<p>During Operation Protective Edge, the Israel Navy makes targeted strikes on Gaza from the Mediterranean Sea.\n</p><p>For more updates:\nThe Israel Defense Forces <a rel=\"nofollow\" class=\"external tex",
+      "license": "CC BY-SA 2.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Israeli_Sa%27ar_5-class_corvette_underway_in_the_Gulf_of_Aqaba_on_15_February_2022_%28220215-A-AI379-757%29.JPG/1280px-Israeli_Sa%27ar_5-class_corvette_underway_in_the_Gulf_of_Aqaba_on_15_February_2022_%28220215-A-AI379-757%29.JPG",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Israeli_Sa%27ar_5-class_corvette_underway_in_the_Gulf_of_Aqaba_on_15_February_2022_%28220215-A-AI379-757%29.JPG",
+      "width": 2392,
+      "height": 1953,
+      "title": "Israeli Sa'ar 5-class corvette underway in the Gulf of Aqaba on 15 February 2022 (220215-A-AI379-757).JPG",
+      "description": "An Israeli Sa'ar 5-class corvette underway in the Gulf of Aqaba during International Maritime Exercise/Cutlass Express 2022, on 15 February 2022. \"IMX/Cutlass Express 2022\" was the largest multination",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Sa%27ar_4.5_INS_Romah_and_INS_Sufa.jpg/1280px-Sa%27ar_4.5_INS_Romah_and_INS_Sufa.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/03/Sa%27ar_4.5_INS_Romah_and_INS_Sufa.jpg",
+      "width": 4212,
+      "height": 2740,
+      "title": "Sa'ar 4.5 INS Romah and INS Sufa.jpg",
+      "description": "<p>Sa'ar 4.5 (Nirit-class) missile boats of the Israeli Sea Corps\n</p>",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Three_Sa%27ar_5_Class_Missile_Corvettes_Going_For_a_Cruise.jpg/1280px-Three_Sa%27ar_5_Class_Missile_Corvettes_Going_For_a_Cruise.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Three_Sa%27ar_5_Class_Missile_Corvettes_Going_For_a_Cruise.jpg",
+      "width": 2050,
+      "height": 1362,
+      "title": "Three Sa'ar 5 Class Missile Corvettes Going For a Cruise.jpg",
+      "description": "Three Sa'ar 5 class missile corvettes of the Israeli Navy cruise off the shore of Israel during a training exercise.",
+      "license": "CC BY-SA 2.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/14Saar5HeloPad.jpg/1280px-14Saar5HeloPad.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/14Saar5HeloPad.jpg",
+      "width": 7360,
+      "height": 4912,
+      "title": "14Saar5HeloPad.jpg",
+      "description": "\u05de\u05d1\u05d8 \u05e2\u05dc \u05de\u05e9\u05d8\u05d7 \u05d4\u05e0\u05d7\u05d9\u05ea\u05d4 \u05e9\u05dc \u05de\u05e1\u05d5\u05e7 \u05e2\u05dc \u05e7\u05d5\u05e8\u05d1\u05d8\u05d4 \u05e1\u05e2\u05e8 5",
+      "license": "CC BY-SA 3.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c4/INS_Lahav.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/c4/INS_Lahav.jpg",
+      "width": 1095,
+      "height": 665,
+      "title": "INS Lahav.jpg",
+      "description": "The most advanced SA'AR 5 corvette in the Israeli navy.\nNow equipped with MF-STAR radar and BARAK-8 Surface to Air Missiles.",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Saar_5_A.jpg/1280px-Saar_5_A.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Saar_5_A.jpg",
+      "width": 2533,
+      "height": 2297,
+      "title": "Saar 5 A.jpg",
+      "description": "Sa'ar 5-class corvette on Israel 70th Independence Day",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Saar_ships.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Saar_ships.jpg",
+      "width": 1053,
+      "height": 262,
+      "title": "Saar ships.jpg",
+      "description": "Sa'ar 5-class corvette and Sa'ar 4.5-class missile boat on Israel 70th Independence Day",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Sr5.gif",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Sr5.gif",
+      "width": 400,
+      "height": 270,
+      "title": "Sr5.gif",
+      "description": "Sa'ar 5 Class corvete",
+      "license": "CC0",
+      "source": "wikimedia"
+    }
+  ]
+}

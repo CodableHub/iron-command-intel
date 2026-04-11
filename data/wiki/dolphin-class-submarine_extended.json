@@ -1,0 +1,224 @@
+{
+  "combat_history": [
+    {
+      "date": "2003",
+      "operation": "Unknown intelligence operation",
+      "event": "INS Dolphin reportedly conducted intelligence gathering mission in Red Sea approaches, first confirmed long-range deployment demonstrating strategic reach capability",
+      "significance": "Established the class's ability to operate far from home waters, validating strategic deterrent role"
+    },
+    {
+      "date": "2009",
+      "operation": "Red Sea transit",
+      "event": "Israeli submarine, likely Dolphin-class, transited Suez Canal southbound in first publicly acknowledged Red Sea deployment amid Iran nuclear tensions",
+      "significance": "Public demonstration of Israel's ability to position strategic assets near Iran via alternative route"
+    },
+    {
+      "date": "2019-2020",
+      "operation": "Persian Gulf deployments",
+      "event": "Multiple reports of Israeli submarine presence in Persian Gulf region, with at least one Dolphin-class boat maintaining extended patrol station",
+      "significance": "Demonstrates Israel's commitment to maintaining submarine-based deterrent posture against Iran"
+    },
+    {
+      "date": "2021",
+      "operation": "Intelligence collection",
+      "event": "Israeli submarine reportedly conducted surveillance of Iranian naval activities in Red Sea area during period of increased regional tensions",
+      "significance": "Shows ongoing intelligence role complementing strategic deterrent mission"
+    }
+  ],
+  "modernization": [
+    {
+      "program": "Batch 1 Mid-Life Upgrade",
+      "status": "completed",
+      "timeline": "2015-2020",
+      "description": "Comprehensive upgrade of first three boats including improved combat systems, sensor upgrades, and enhanced AIP capabilities. Some reports suggest addition of 650mm tube capability.",
+      "impact": "Extended service life and improved capability to match Batch 2 standards where possible"
+    },
+    {
+      "program": "Advanced Sonar Suite Integration",
+      "status": "in-progress",
+      "timeline": "2022-2025",
+      "description": "Integration of new Israeli-developed sonar processing systems and acoustic signature reduction measures across the fleet",
+      "impact": "Enhanced detection capabilities and reduced acoustic signature for improved stealth"
+    },
+    {
+      "program": "Next-Generation Combat System",
+      "status": "planned",
+      "timeline": "2025-2030",
+      "description": "Integration of advanced Israeli combat systems with AI-enhanced targeting and network warfare capabilities",
+      "impact": "Improved multi-target engagement and integration with Israeli military networks"
+    }
+  ],
+  "vulnerabilities": [
+    {
+      "area": "Limited fleet size",
+      "description": "With only six boats total, maintaining continuous strategic deterrent patrol while conducting maintenance and training severely strains the fleet",
+      "context": "Israel requires at least one boat on strategic patrol at all times, leaving minimal operational flexibility",
+      "mitigation": "Reportedly considering additional submarine acquisition, enhanced maintenance scheduling"
+    },
+    {
+      "area": "Acoustic signature management",
+      "description": "Despite AIP systems, the boats must still snorkel regularly and have detectable acoustic signatures when using diesel engines",
+      "context": "Advanced Russian and Chinese sonar systems in the region pose increasing detection risks",
+      "mitigation": "Ongoing acoustic signature reduction programs and operational procedure refinements"
+    },
+    {
+      "area": "Chokepoint vulnerability",
+      "description": "All boats based at Haifa Naval Base, creating single point of failure and predictable transit routes through Eastern Mediterranean chokepoints",
+      "context": "Enemy could potentially track deployments and returns, compromising operational security",
+      "mitigation": "Limited by geography, some operational security measures implemented"
+    },
+    {
+      "area": "Weapons storage limitations",
+      "description": "Large cruise missiles reduce torpedo loadout significantly, forcing difficult tactical trade-offs between strategic and conventional missions",
+      "context": "Boats may be vulnerable to ASW threats if carrying full strategic load with limited self-defense torpedoes",
+      "mitigation": "Operational planning addresses mission-specific loadouts, escort coordination"
+    }
+  ],
+  "operational_patterns": {
+    "typical_deployment": "Strategic deterrent patrols in Eastern Mediterranean, Red Sea, and reportedly Persian Gulf approaches",
+    "deployment_length_months": 2,
+    "key_operating_areas": [
+      "Eastern Mediterranean",
+      "Red Sea",
+      "Suez Canal approaches",
+      "Persian Gulf (unconfirmed)"
+    ],
+    "typical_task_group": "Solo operations, occasionally coordinated with Israeli Navy surface units",
+    "readiness_notes": "High operational tempo strains small fleet; typically 2-3 boats operational at any time due to maintenance cycles"
+  },
+  "peer_comparisons": [
+    {
+      "platform": "Type 212A submarine",
+      "country": "Germany",
+      "relationship": "predecessor",
+      "key_differences": "Dolphin class is larger with extended range and strategic weapons capability. Type 212A optimized for Baltic/North Sea operations while Dolphin designed for Mediterranean/regional deployment.",
+      "video_angle": "How Germany's submarine technology enables Israel's strategic deterrent - the export variant that became a nuclear platform"
+    },
+    {
+      "platform": "Scorp\u00e8ne-class submarine",
+      "country": "France",
+      "relationship": "direct rival",
+      "key_differences": "Scorp\u00e8ne lacks AIP in most variants but offers similar conventional capability. Dolphin optimized for strategic missions while Scorp\u00e8ne focuses on conventional naval warfare.",
+      "video_angle": "European diesel submarines compared - strategic vs conventional roles in modern naval warfare"
+    },
+    {
+      "platform": "Type 209 submarine",
+      "country": "Germany",
+      "relationship": "predecessor",
+      "key_differences": "Type 209 widely exported conventional design lacks AIP and strategic weapons capability. Dolphin represents generational advancement in stealth and endurance.",
+      "video_angle": "Evolution of German submarine exports - from conventional Type 209 to strategic Dolphin class"
+    },
+    {
+      "platform": "Kilo-class submarine",
+      "country": "Russia",
+      "relationship": "regional rival",
+      "key_differences": "Kilo class lacks AIP but proven design with good acoustic performance. Larger weapons load but no strategic cruise missile capability like Dolphin.",
+      "video_angle": "Diesel submarine showdown - Russian Kilo vs Israeli Dolphin in Mediterranean operations"
+    },
+    {
+      "platform": "Yuan-class submarine (Type 039A)",
+      "country": "China",
+      "relationship": "peer competitor",
+      "key_differences": "Yuan class larger with AIP system but unproven strategic weapons integration. Similar stealth characteristics but designed for different operational environment.",
+      "video_angle": "AIP submarine comparison - Chinese Yuan vs Israeli Dolphin, different approaches to modern diesel-electric design"
+    }
+  ],
+  "search_keywords": [
+    "dolphin class",
+    "dolphin submarine",
+    "israeli submarine",
+    "type 800 dolphin",
+    "ins dolphin",
+    "ins leviathan",
+    "ins tekuma",
+    "ins tanin",
+    "ins rahav",
+    "ins dragon",
+    "israeli navy submarine",
+    "nuclear submarine israel",
+    "popeye turbo",
+    "hdw submarine"
+  ],
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Dolphin-AIP--Our-IDF-2018-IZE-013.jpg/1280px-Dolphin-AIP--Our-IDF-2018-IZE-013.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/23/Dolphin-AIP--Our-IDF-2018-IZE-013.jpg",
+      "width": 6030,
+      "height": 4030,
+      "title": "Dolphin-AIP--Our-IDF-2018-IZE-013.jpg",
+      "description": "Scale model of Dolphine AIP class submarine, Our IDF 70, Israel",
+      "license": "CC BY 2.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Dolphin-class_submarine.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Dolphin-class_submarine.jpg",
+      "width": 490,
+      "height": 150,
+      "title": "Dolphin-class submarine.jpg",
+      "description": "Dolphin-class submarine of the Israeli Navy, as seen during Israel 60th Independence Day Naval Sail By. Cropped.",
+      "license": "Attribution",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Dolphin_class_SPRINGEREN_submarine%2C_pic-009.JPG/1280px-Dolphin_class_SPRINGEREN_submarine%2C_pic-009.JPG",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Dolphin_class_SPRINGEREN_submarine%2C_pic-009.JPG",
+      "width": 4608,
+      "height": 3456,
+      "title": "Dolphin class SPRINGEREN submarine, pic-009.JPG",
+      "description": "Photographed at Aalborg S\u00f8farts- og Marinemuseum, Denmark.",
+      "license": "CC0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Dolphin_class_SPRINGEREN_submarine%2C_pic-011.JPG/1280px-Dolphin_class_SPRINGEREN_submarine%2C_pic-011.JPG",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/66/Dolphin_class_SPRINGEREN_submarine%2C_pic-011.JPG",
+      "width": 4608,
+      "height": 3456,
+      "title": "Dolphin class SPRINGEREN submarine, pic-011.JPG",
+      "description": "Photographed at Aalborg S\u00f8farts- og Marinemuseum, Denmark.",
+      "license": "CC0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Dolphin_class_SPRINGEREN_submarine%2C_pic-018.JPG/1280px-Dolphin_class_SPRINGEREN_submarine%2C_pic-018.JPG",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Dolphin_class_SPRINGEREN_submarine%2C_pic-018.JPG",
+      "width": 4608,
+      "height": 3456,
+      "title": "Dolphin class SPRINGEREN submarine, pic-018.JPG",
+      "description": "Photographed at Aalborg S\u00f8farts- og Marinemuseum, Denmark.",
+      "license": "CC0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a0/I.n.s._dolfin-03.JPG",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/a0/I.n.s._dolfin-03.JPG",
+      "width": 800,
+      "height": 799,
+      "title": "I.n.s. dolfin-03.JPG",
+      "description": "i.n.s. dolfin",
+      "license": "CC BY 3.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/INS_Drakon_%28Israeli_submarine_of_German_modified_Dolphin-AIP_submarine_class%29_pulling_out_of_Kiel.jpg/1280px-INS_Drakon_%28Israeli_submarine_of_German_modified_Dolphin-AIP_submarine_class%29_pulling_out_of_Kiel.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/INS_Drakon_%28Israeli_submarine_of_German_modified_Dolphin-AIP_submarine_class%29_pulling_out_of_Kiel.jpg",
+      "width": 5000,
+      "height": 3333,
+      "title": "INS Drakon (Israeli submarine of German modified Dolphin-AIP submarine class) pulling out of Kiel.jpg",
+      "description": "Israeli submarine INS Drakon (here still named tkms Submarine 05 and under German flag), third (heavily modified) unit of German Dolphin-AIP submarine class, pulling out of the German port of Kiel for",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/RAHAV_7208.JPG/1280px-RAHAV_7208.JPG",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/0f/RAHAV_7208.JPG",
+      "width": 2049,
+      "height": 1537,
+      "title": "RAHAV 7208.JPG",
+      "description": "Not yet commissioned Israeli submarine <i>Rahav</i> conducting sea trials in the ports of Wilhelmshaven",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    }
+  ]
+}

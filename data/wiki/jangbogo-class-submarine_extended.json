@@ -1,0 +1,226 @@
+{
+  "combat_history": [
+    {
+      "date": "2021-09-15",
+      "operation": "SLBM Test",
+      "event": "ROKS Dosan Ahn Chang-ho successfully conducted South Korea's first submarine-launched ballistic missile test, firing a Hyunmoo-4-4 SLBM that flew 430km and hit its target.",
+      "significance": "Demonstrated South Korea's entry into the exclusive club of nations with indigenous SLBM capability, significantly enhancing deterrent posture against North Korea"
+    },
+    {
+      "date": "2022",
+      "operation": "Maritime Patrol Operations",
+      "event": "Multiple Jangbogo-class submarines conducted extended patrols in response to increased North Korean submarine activity and missile tests over the Korean Peninsula.",
+      "significance": "Showcased the strategic patrol capability and extended endurance that AIP provides in real operational conditions"
+    }
+  ],
+  "modernization": [
+    {
+      "program": "KSS-III (Next Generation Submarine)",
+      "status": "in-progress",
+      "timeline": "2018-2030",
+      "description": "Development of larger 3000-ton successor class with enhanced SLBM capacity, lithium-ion batteries, and improved stealth. Will complement rather than replace Jangbogo class.",
+      "impact": "Maintains Jangbogo relevance for coastal patrol while KSS-III handles strategic deterrence missions"
+    },
+    {
+      "program": "Sonar System Upgrade",
+      "status": "planned",
+      "timeline": "2024-2027",
+      "description": "Retrofit of Batch I submarines with improved sonar arrays and processing systems to match Batch II capabilities.",
+      "impact": "Standardizes fleet capability and extends service life of early hulls"
+    }
+  ],
+  "vulnerabilities": [
+    {
+      "area": "Technology Dependence",
+      "description": "Critical AIP fuel cell technology and combat systems remain dependent on German suppliers, creating potential supply chain vulnerabilities during extended conflict",
+      "context": "European export controls could limit spare parts and technical support during wartime",
+      "mitigation": "South Korea developing indigenous fuel cell technology for future submarines"
+    },
+    {
+      "area": "Shallow Water Operations",
+      "description": "Limited diving depth (400m) and relatively large size make these submarines vulnerable in the shallow Yellow Sea where they would likely operate against China",
+      "context": "Chinese ASW capabilities are rapidly improving with better sonar networks and patrol aircraft",
+      "mitigation": "Emphasis on quiet signatures and improved electronic warfare systems"
+    },
+    {
+      "area": "Limited Weapon Load",
+      "description": "Only 16 weapons total severely limits engagement capacity in multi-threat scenarios, particularly when SLBM tubes reduce torpedo capacity",
+      "context": "North Korean submarine fleet numbering 70+ boats could overwhelm individual Jangbogo submarines through mass attacks",
+      "mitigation": "Coordinated operations with surface vessels and maritime patrol aircraft"
+    }
+  ],
+  "operational_patterns": {
+    "typical_deployment": "Strategic deterrence patrols in Korea Strait and Yellow Sea, with emphasis on chokepoint control and sea denial",
+    "deployment_length_months": 2,
+    "key_operating_areas": [
+      "Korea Strait",
+      "Yellow Sea",
+      "East Sea/Sea of Japan"
+    ],
+    "typical_task_group": "Independent operations or paired with ASW frigates and P-3C Orion maritime patrol aircraft",
+    "readiness_notes": "High operational tempo due to North Korean threat requires careful maintenance scheduling; AIP system reliability has been generally good"
+  },
+  "peer_comparisons": [
+    {
+      "platform": "Soryu-class submarine",
+      "country": "Japan",
+      "relationship": "direct rival",
+      "key_differences": "Soryu class features more advanced sonar integration and longer range, but Jangbogo has SLBM capability and similar AIP endurance. Japanese boats prioritize ASW while Korean boats emphasize land-attack missions.",
+      "video_angle": "East Asian submarine arms race - comparing deterrence philosophies and technical approaches"
+    },
+    {
+      "platform": "Yuan-class (Type 039A/B)",
+      "country": "China",
+      "relationship": "direct rival",
+      "key_differences": "Yuan class emphasizes mass production and standardization while Jangbogo focuses on advanced technology integration. Chinese boats have greater numbers but potentially inferior quieting and sensor systems.",
+      "video_angle": "Quality vs quantity in submarine warfare - advanced European technology vs Chinese mass production"
+    },
+    {
+      "platform": "Type 214 (Greek/Turkish variants)",
+      "country": "Germany",
+      "relationship": "predecessor",
+      "key_differences": "Korean Batch II represents most advanced Type 214 variant with SLBM capability that baseline German design lacks. Greek/Turkish versions remain closer to original German configuration.",
+      "video_angle": "How license production evolves - Korean improvements to German submarine technology"
+    },
+    {
+      "platform": "Kilo-class (Project 636)",
+      "country": "Russia",
+      "relationship": "generational equivalent",
+      "key_differences": "Kilo emphasizes proven reliability and lower cost while Jangbogo incorporates newer AIP technology and modern combat systems. Russian design prioritizes simplicity and ease of maintenance.",
+      "video_angle": "Old school vs new school conventional submarines - Russian pragmatism vs European high-tech"
+    }
+  ],
+  "search_keywords": [
+    "jangbogo class",
+    "jangbogo submarine",
+    "type 214",
+    "KSS-II",
+    "korean submarine",
+    "son won-il",
+    "ahn chang-ho",
+    "korean slbm",
+    "hyunmoo 4-4"
+  ],
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/42/Jangbogo-_1464856891.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/42/Jangbogo-_1464856891.jpg",
+      "width": 631,
+      "height": 376,
+      "title": "Jangbogo- 1464856891.jpg",
+      "description": "KSS3 submarine model",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/KSS-III_Batch-II.jpg/1280px-KSS-III_Batch-II.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/e5/KSS-III_Batch-II.jpg",
+      "width": 1415,
+      "height": 792,
+      "title": "KSS-III Batch-II.jpg",
+      "description": "Graphic image of KSS-III Batch-II",
+      "license": "KOGL Type 1",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/ROKS_Dosan_Ahn_Changho_class_submarine.png/1280px-ROKS_Dosan_Ahn_Changho_class_submarine.png",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/65/ROKS_Dosan_Ahn_Changho_class_submarine.png",
+      "width": 1364,
+      "height": 767,
+      "title": "ROKS Dosan Ahn Changho class submarine.png",
+      "description": "ROKS Dosan Ahn Changho class submarine",
+      "license": "KOGL Type 1",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/ROKS_Jangbogo_SS-61.jpg/1280px-ROKS_Jangbogo_SS-61.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/95/ROKS_Jangbogo_SS-61.jpg",
+      "width": 3008,
+      "height": 1960,
+      "title": "ROKS Jangbogo SS-61.jpg",
+      "description": "040706-N-6811L-080 Pacific Ocean (July 6, 2004) \u2013 Republic of Korea Submarine Chang Bogo (SSK 61) heads out to sea during exercise Rim of the Pacific (RIMPAC). RIMPAC is the largest international mari",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/A_manual_of_scientific_enquiry_%28Page_214%29_BHL34617006.jpg/1280px-A_manual_of_scientific_enquiry_%28Page_214%29_BHL34617006.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/0f/A_manual_of_scientific_enquiry_%28Page_214%29_BHL34617006.jpg",
+      "width": 2136,
+      "height": 3413,
+      "title": "A manual of scientific enquiry (Page 214) BHL34617006.jpg",
+      "description": "A manual of scientific enquiry\u00a0: prepared for the use of Her Majesty's Navy and adapted for travellers in general. /",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Detail_of_concrete_fire_wall_and_vent._-_Naval_Supply_Annex_Stockton%2C_Steel_Warehouse_Type%2C_Between_James_and_Humphreys_Drives_south_of_Embarcadero%2C_Stockton%2C_San_Joaquin_HABS_CAL%2C39-STOCK%2C33O-15.tif/lossy-page1-1280px-thumbnail.tif.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Detail_of_concrete_fire_wall_and_vent._-_Naval_Supply_Annex_Stockton%2C_Steel_Warehouse_Type%2C_Between_James_and_Humphreys_Drives_south_of_Embarcadero%2C_Stockton%2C_San_Joaquin_HABS_CAL%2C39-STOCK%2C33O-15.tif",
+      "width": 5000,
+      "height": 4007,
+      "title": "Detail of concrete fire wall and vent. - Naval Supply Annex Stockton, Steel Warehouse Type, Between James and Humphreys Drives south of Embarcadero, Stockton, San Joaquin HABS CAL,39-STOCK,33O-15.tif",
+      "description": "",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Detail_of_interior_space._-_Naval_Supply_Annex_Stockton%2C_Steel_Warehouse_Type%2C_Between_James_and_Humphreys_Drives_south_of_Embarcadero%2C_Stockton%2C_San_Joaquin_County%2C_CA_HABS_CAL%2C39-STOCK%2C33O-16.tif/lossy-page1-1280px-thumbnail.tif.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/34/Detail_of_interior_space._-_Naval_Supply_Annex_Stockton%2C_Steel_Warehouse_Type%2C_Between_James_and_Humphreys_Drives_south_of_Embarcadero%2C_Stockton%2C_San_Joaquin_County%2C_CA_HABS_CAL%2C39-STOCK%2C33O-16.tif",
+      "width": 5000,
+      "height": 4003,
+      "title": "Detail of interior space. - Naval Supply Annex Stockton, Steel Warehouse Type, Between James and Humphreys Drives south of Embarcadero, Stockton, San Joaquin County, CA HABS CAL,39-STOCK,33O-16.tif",
+      "description": "",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Detail_of_rolling_doors_on_north_side._-_Naval_Supply_Annex_Stockton%2C_Steel_Warehouse_Type%2C_Between_James_and_Humphreys_Drives_south_of_Embarcadero%2C_Stockton%2C_San_Joaquin_HABS_CAL%2C39-STOCK%2C33O-13.tif/lossy-page1-1280px-thumbnail.tif.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Detail_of_rolling_doors_on_north_side._-_Naval_Supply_Annex_Stockton%2C_Steel_Warehouse_Type%2C_Between_James_and_Humphreys_Drives_south_of_Embarcadero%2C_Stockton%2C_San_Joaquin_HABS_CAL%2C39-STOCK%2C33O-13.tif",
+      "width": 5000,
+      "height": 4015,
+      "title": "Detail of rolling doors on north side. - Naval Supply Annex Stockton, Steel Warehouse Type, Between James and Humphreys Drives south of Embarcadero, Stockton, San Joaquin HABS CAL,39-STOCK,33O-13.tif",
+      "description": "",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Detail_of_west_elevation._-_Naval_Supply_Annex_Stockton%2C_Steel_Warehouse_Type%2C_Between_James_and_Humphreys_Drives_south_of_Embarcadero%2C_Stockton%2C_San_Joaquin_County%2C_CA_HABS_CAL%2C39-STOCK%2C33O-12.tif/lossy-page1-1280px-thumbnail.tif.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/97/Detail_of_west_elevation._-_Naval_Supply_Annex_Stockton%2C_Steel_Warehouse_Type%2C_Between_James_and_Humphreys_Drives_south_of_Embarcadero%2C_Stockton%2C_San_Joaquin_County%2C_CA_HABS_CAL%2C39-STOCK%2C33O-12.tif",
+      "width": 5000,
+      "height": 3934,
+      "title": "Detail of west elevation. - Naval Supply Annex Stockton, Steel Warehouse Type, Between James and Humphreys Drives south of Embarcadero, Stockton, San Joaquin County, CA HABS CAL,39-STOCK,33O-12.tif",
+      "description": "",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Lockheed_SP-2H_Neptune%2C_Netherlands_-_Navy_AN1030185.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Lockheed_SP-2H_Neptune%2C_Netherlands_-_Navy_AN1030185.jpg",
+      "width": 1024,
+      "height": 678,
+      "title": "Lockheed SP-2H Neptune, Netherlands - Navy AN1030185.jpg",
+      "description": "Of 320 Squadron based at Valkenburg seen arriving at IAT 77. This aircraft was later scrapped at Valkenburg on 21.5.81.",
+      "license": "GFDL 1.2",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/58/US_Navy_Patrol_Chit.%2C_received_of_the_Shanghai_Navy_YMCA.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/58/US_Navy_Patrol_Chit.%2C_received_of_the_Shanghai_Navy_YMCA.jpg",
+      "width": 1175,
+      "height": 543,
+      "title": "US Navy Patrol Chit., received of the Shanghai Navy YMCA.jpg",
+      "description": "US Navy Patrol Chit., received of the Shanghai Navy YMCA",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/United_States_Navy_SEALs_214.jpg/1280px-United_States_Navy_SEALs_214.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/f3/United_States_Navy_SEALs_214.jpg",
+      "width": 6048,
+      "height": 4032,
+      "title": "United States Navy SEALs 214.jpg",
+      "description": "Promitinal picture: Seal in the water with AK-47.",
+      "license": "Public domain",
+      "source": "wikimedia"
+    }
+  ]
+}

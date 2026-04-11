@@ -1,0 +1,436 @@
+{
+  "id": 75,
+  "slug": "fa-18ef-super-hornet",
+  "name": "Boeing F/A-18E/F Super Hornet",
+  "designation": "F/A-18E/F",
+  "type": "fighter",
+  "country": "United States",
+  "operator": "United States Navy",
+  "overview_md": "The Boeing F/A-18E/F Super Hornet represents the U.S. Navy's primary carrier-based multirole fighter, serving as the backbone of naval aviation since the early 2000s. Despite sharing the Hornet name with its predecessor, the Super Hornet is essentially a new aircraft, featuring 25% larger airframe, increased range, payload capacity, and significantly improved avionics suite. The platform was designed to replace multiple legacy aircraft including the F-14 Tomcat, A-6 Intruder, and original F/A-18 Hornet, consolidating carrier air wing complexity while maintaining air superiority and strike capabilities.\n\nStrategically, the Super Hornet fills the critical gap between the retirement of specialized platforms and the troubled introduction of the F-35C Lightning II. Its proven reliability, maintainability, and versatility have made it indispensable for sustained carrier operations, particularly during the conflicts in Iraq, Afghanistan, and Syria. The aircraft's design philosophy emphasized operational availability over cutting-edge performance, resulting in a platform that consistently achieves high mission-capable rates compared to more complex fifth-generation fighters.\n\nIn the current threat environment, the Super Hornet faces increasing challenges from advanced integrated air defense systems and peer adversary fighters. While lacking the stealth characteristics of fifth-generation platforms, ongoing upgrades including the Block III configuration aim to extend its relevance through 2040. The platform's strength lies in its proven interoperability, weapons integration, and ability to perform multiple mission sets from a single airframe\u2014capabilities that remain highly valued despite emerging technological gaps.\n\nCompared to international peers, the Super Hornet emphasizes reliability and multirole flexibility over specialized performance. While it may lack the raw air-to-air capability of platforms like the F-22 or the stealth characteristics of newer designs, its combination of proven systems, extensive weapons compatibility, and mature logistics network provides the U.S. Navy with a dependable foundation for power projection operations worldwide.",
+  "specs_json": {
+    "displacement_tonnes": 0,
+    "length_m": 18.31,
+    "beam_m": 13.62,
+    "draft_m": 0,
+    "speed_knots": 0,
+    "range_nm": 1275,
+    "crew": 1,
+    "propulsion": "2x General Electric F414-GE-400 turbofan engines, 22,000 lbf each",
+    "radar": "AN/APG-79 Active Electronically Scanned Array (AESA)",
+    "sonar": null,
+    "combat_system": "Integrated avionics system with Link 16",
+    "vls_cells": 0,
+    "additional": {
+      "max_speed_mach": 1.8,
+      "service_ceiling_ft": 50000,
+      "max_g_load": 7.6,
+      "fuel_capacity_lbs": 14400,
+      "max_payload_lbs": 17750,
+      "hardpoints": 11
+    }
+  },
+  "armament_json": [
+    {
+      "category": "Air-to-Air Missiles",
+      "name": "AIM-120 AMRAAM",
+      "type": "Beyond Visual Range AAM",
+      "quantity": "Up to 10",
+      "range_km": 120,
+      "notes": "Primary BVR engagement weapon"
+    },
+    {
+      "category": "Air-to-Air Missiles",
+      "name": "AIM-9 Sidewinder",
+      "type": "Short Range AAM",
+      "quantity": "Up to 2",
+      "range_km": 35,
+      "notes": "IR-guided dogfight missile"
+    },
+    {
+      "category": "Air-to-Surface Missiles",
+      "name": "AGM-88 HARM",
+      "type": "Anti-radiation missile",
+      "quantity": "Up to 4",
+      "range_km": 150,
+      "notes": "SEAD/DEAD operations"
+    },
+    {
+      "category": "Air-to-Surface Missiles",
+      "name": "AGM-154 JSOW",
+      "type": "Glide bomb",
+      "quantity": "Up to 4",
+      "range_km": 130,
+      "notes": "Standoff precision strike"
+    },
+    {
+      "category": "Bombs",
+      "name": "GBU-31/32 JDAM",
+      "type": "GPS-guided bomb",
+      "quantity": "Up to 4",
+      "range_km": 28,
+      "notes": "All-weather precision munition"
+    },
+    {
+      "category": "Guns",
+      "name": "M61A2 Vulcan",
+      "type": "20mm rotary cannon",
+      "quantity": "1x",
+      "range_km": 2,
+      "notes": "412 rounds, 6000 rpm"
+    }
+  ],
+  "variants_json": [
+    {
+      "name": "F/A-18E Super Hornet",
+      "designation_range": "Single-seat variant",
+      "years": "1999-present",
+      "count": 254,
+      "key_changes": "Single-seat configuration optimized for air-to-air and strike missions",
+      "status": "active"
+    },
+    {
+      "name": "F/A-18F Super Hornet",
+      "designation_range": "Two-seat variant",
+      "years": "1999-present",
+      "count": 354,
+      "key_changes": "Two-seat configuration for training and complex strike missions",
+      "status": "active"
+    },
+    {
+      "name": "Block II Super Hornet",
+      "designation_range": "All E/F variants",
+      "years": "2005-2019",
+      "count": 515,
+      "key_changes": "APG-79 AESA radar, improved processors, Link 16, JHMCS helmet display",
+      "status": "active"
+    },
+    {
+      "name": "Block III Super Hornet",
+      "designation_range": "New and upgraded aircraft",
+      "years": "2020-present",
+      "count": 78,
+      "key_changes": "Conformal fuel tanks, distributed targeting system, advanced cockpit displays, reduced RCS modifications",
+      "status": "active"
+    },
+    {
+      "name": "EA-18G Growler",
+      "designation_range": "Electronic warfare variant",
+      "years": "2009-present",
+      "count": 160,
+      "key_changes": "ALQ-99 jamming pods, electronic warfare suite, specialized mission equipment",
+      "status": "active"
+    }
+  ],
+  "fleet_status_json": [
+    {
+      "hull_number": "N/A",
+      "name": "Fleet Status Summary",
+      "variant": "All variants",
+      "commissioned": "1999-present",
+      "home_port": "Multiple carrier air wings",
+      "status": "608 total delivered (254 E, 354 F models)"
+    }
+  ],
+  "cost_usd": 70000000.0,
+  "unit_count": 608,
+  "first_commissioned": "1999-11-15",
+  "builder": "Boeing Defense, Space & Security",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/de/US_Navy_071203-N-8923M-074_An_F-A-18F_Super_Hornet%2C_from_the_Red_Rippers_of_Strike_Fighter_Squadron_%28VFA%29_11%2C_makes_a_sharp_turn_above_the_flight_deck_aboard_the_Nimitz-class_nuclear-powered_aircraft_carrier_USS_Harry_S._Truman.jpg",
+  "wiki_url": "https://en.wikipedia.org/wiki/Boeing_F%2FA-18E%2FF_Super_Hornet",
+  "sources_json": [
+    "https://en.wikipedia.org/wiki/Boeing_F/A-18E/F_Super_Hornet",
+    "https://www.navy.mil/Resources/Fact-Files/Display-FactFiles/Article/2169348/fa-18ef-super-hornet/",
+    "https://www.boeing.com/defense/f-a-18-super-hornet/",
+    "https://www.navalnews.com/naval-news/2023/12/super-hornet-block-iii-program-status/",
+    "https://www.cbo.gov/publication/57240"
+  ],
+  "comparison_tags": [
+    "fighter",
+    "multirole",
+    "carrier-based",
+    "boeing",
+    "us-navy",
+    "strike-fighter"
+  ],
+  "created_at": "2026-04-11 10:04:16",
+  "updated_at": "2026-04-11T10:04:16.332009",
+  "news": [],
+  "events": [],
+  "ic_coverage": [],
+  "combat_history": [
+    {
+      "date": "2014-09-23",
+      "operation": "Operation Inherent Resolve",
+      "event": "Super Hornets from USS George H.W. Bush conducted first combat strikes against ISIS targets in Syria, marking the platform's combat debut in major operations.",
+      "significance": "Demonstrated the platform's precision strike capabilities and integration with coalition forces"
+    },
+    {
+      "date": "2017-06-18",
+      "operation": "Operation Inherent Resolve",
+      "event": "F/A-18E from USS George H.W. Bush shot down Syrian Su-22 with AIM-120 AMRAAM after Syrian aircraft attacked SDF forces near Tabqah.",
+      "significance": "First air-to-air kill by U.S. Navy in nearly two decades, validating BVR engagement capabilities"
+    },
+    {
+      "date": "2018-04-14",
+      "operation": "Syria Strikes",
+      "event": "Super Hornets launched Tomahawk cruise missiles and participated in coordinated strikes against Syrian chemical weapons facilities.",
+      "significance": "Showcased multi-platform strike integration and standoff attack capabilities"
+    },
+    {
+      "date": "2020-01-03",
+      "operation": "Operation Martyr Soleimani Response",
+      "event": "Super Hornets provided combat air patrol and strike escort during heightened tensions with Iran following Soleimani assassination.",
+      "significance": "Demonstrated deterrent presence and readiness for peer conflict scenarios"
+    },
+    {
+      "date": "2023-12",
+      "operation": "Operation Prosperity Guardian",
+      "event": "Super Hornets from USS Eisenhower engaged Houthi drones and missiles targeting commercial shipping in Red Sea.",
+      "significance": "Highlighted platform's role in defending against asymmetric threats and swarm attacks"
+    }
+  ],
+  "modernization": [
+    {
+      "program": "Block III Upgrade",
+      "status": "in-progress",
+      "timeline": "2020-2025",
+      "description": "Advanced cockpit displays, distributed targeting system, conformal fuel tanks, reduced radar cross-section modifications, enhanced network connectivity.",
+      "impact": "Extends service life to 2040, improves survivability and mission effectiveness against advanced threats"
+    },
+    {
+      "program": "Service Life Extension",
+      "status": "in-progress",
+      "timeline": "2018-2030",
+      "description": "Structural modifications to extend airframe life from 6,000 to 9,000 flight hours through center barrel replacement and wing modifications.",
+      "impact": "Maintains fleet availability while F-35C reaches full operational capability"
+    },
+    {
+      "program": "Next Generation Jammer",
+      "status": "in-progress",
+      "timeline": "2021-2025",
+      "description": "Replacing ALQ-99 jamming pods on EA-18G Growler variants with more capable, software-defined NGJ-MB and NGJ-LB systems.",
+      "impact": "Significantly improves electronic attack capabilities against advanced integrated air defense systems"
+    },
+    {
+      "program": "IRST Block II",
+      "status": "planned",
+      "timeline": "2024-2028",
+      "description": "Improved infrared search and track system for enhanced situational awareness and passive target detection.",
+      "impact": "Provides counter-stealth capabilities and reduces reliance on active radar emissions"
+    }
+  ],
+  "vulnerabilities": [
+    {
+      "area": "Radar Cross Section",
+      "description": "Non-stealthy design creates significant radar signature, making it vulnerable to modern surface-to-air missiles and fighter radars at extended ranges.",
+      "context": "Against peer adversaries with advanced IADS like S-400 or fighter aircraft with long-range AAMs, detection ranges severely limit tactical flexibility.",
+      "mitigation": "Block III modifications reduce some RCS, standoff weapons extend engagement ranges, electronic warfare pods provide some protection"
+    },
+    {
+      "area": "Combat Radius Limitations",
+      "description": "Despite improvements over legacy Hornet, combat radius remains limited compared to platforms like F-14 Tomcat, constraining carrier air wing reach.",
+      "context": "In Pacific theater operations against China, limited range reduces effectiveness of carrier-based air power and requires closer carrier positioning.",
+      "mitigation": "Conformal fuel tanks in Block III, aerial refueling integration, and potential for external fuel tanks"
+    },
+    {
+      "area": "Sustainment Costs",
+      "description": "Aging platform requires increasing maintenance hours per flight hour, with supply chain challenges for some legacy components.",
+      "context": "High operational tempo has stressed airframes beyond original design assumptions, creating readiness challenges across the fleet.",
+      "mitigation": "Service life extension programs, improved maintenance practices, and Block III upgrades address some issues"
+    },
+    {
+      "area": "Electronic Warfare Susceptibility",
+      "description": "While equipped with defensive systems, the platform lacks advanced electronic warfare capabilities of dedicated EW aircraft or newer platforms.",
+      "context": "Against sophisticated jamming and electronic attack systems, situational awareness and communications can be degraded.",
+      "mitigation": "Integration with EA-18G Growler, improved defensive systems, and enhanced networking capabilities"
+    }
+  ],
+  "operational_patterns": {
+    "typical_deployment": "Carrier air wing component, typically 24-44 aircraft per CVW including F/A-18E/F and EA-18G variants",
+    "deployment_length_months": 7,
+    "key_operating_areas": [
+      "Western Pacific",
+      "Mediterranean Sea",
+      "Persian Gulf",
+      "Arabian Sea",
+      "South China Sea"
+    ],
+    "typical_task_group": "Operates as part of Carrier Strike Group with destroyer escorts, supply ships, and submarine support",
+    "readiness_notes": "Fleet maintains approximately 70-75% mission capable rate, with maintenance challenges increasing with aircraft age"
+  },
+  "peer_comparisons": [
+    {
+      "platform": "Dassault Rafale M",
+      "country": "France",
+      "relationship": "allied equivalent",
+      "key_differences": "Rafale offers better agility and multirole integration but smaller weapons payload and less mature sensor suite. French platform emphasizes independence while Super Hornet focuses on interoperability.",
+      "video_angle": "NATO carrier aviation comparison - different philosophies for similar missions"
+    },
+    {
+      "platform": "Shenyang J-15",
+      "country": "China",
+      "relationship": "direct rival",
+      "key_differences": "J-15 derived from Su-33 with longer range but questionable reliability and limited precision strike capability. Represents China's current carrier aviation capability gap compared to U.S. Navy.",
+      "video_angle": "Carrier aviation power projection comparison - proven capability versus emerging threat"
+    },
+    {
+      "platform": "Eurofighter Typhoon",
+      "country": "Multi-national",
+      "relationship": "allied equivalent",
+      "key_differences": "Typhoon superior in air-to-air performance and speed but limited air-to-ground capability and no carrier operations. Different design priorities reflect land-based versus sea-based operations.",
+      "video_angle": "Multirole fighter evolution - specialized versus jack-of-all-trades approach"
+    },
+    {
+      "platform": "Saab JAS 39 Gripen",
+      "country": "Sweden",
+      "relationship": "allied equivalent",
+      "key_differences": "Gripen emphasizes cost-effectiveness and ease of maintenance but smaller payload and shorter range. Represents different approach to air power for smaller nations versus superpower projection.",
+      "video_angle": "Cost versus capability in modern fighter aircraft - efficiency versus raw performance"
+    },
+    {
+      "platform": "Sukhoi Su-35",
+      "country": "Russia",
+      "relationship": "direct rival",
+      "key_differences": "Su-35 offers superior kinematic performance and longer range but lacks advanced sensors and precision strike integration of Super Hornet. Russian emphasis on performance versus Western focus on systems integration.",
+      "video_angle": "Fighter design philosophy - raw performance versus technological integration"
+    }
+  ],
+  "search_keywords": [
+    "super hornet",
+    "F/A-18E",
+    "F/A-18F",
+    "FA-18E",
+    "FA-18F",
+    "rhino",
+    "boeing super hornet",
+    "block III",
+    "growler",
+    "EA-18G",
+    "carrier fighter",
+    "navy fighter"
+  ],
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CVW-5_Apr2007.jpg/1280px-CVW-5_Apr2007.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/81/CVW-5_Apr2007.jpg",
+      "width": 4288,
+      "height": 2848,
+      "title": "CVW-5 Apr2007.jpg",
+      "description": "Aircraft assigned to <i>Carrier Air Wing Five (CVW-5)</i> perform a formation flight in front of Mount Fuji, Japan on 12 April 2007. CVW-5 was embarked aboard the carrier USS <i>Kitty Hawk</i> (CV-63)",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/F-18F_after_launch_from_USS_Abraham_Lincoln_%28CVN-72%29.jpg/1280px-F-18F_after_launch_from_USS_Abraham_Lincoln_%28CVN-72%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/44/F-18F_after_launch_from_USS_Abraham_Lincoln_%28CVN-72%29.jpg",
+      "width": 2100,
+      "height": 1500,
+      "title": "F-18F after launch from USS Abraham Lincoln (CVN-72).jpg",
+      "description": "NORTH ARABIAN SEA (July 10, 2008) An F/A-18F Super Hornet assigned to the \"Bounty Hunters\" of Strike Fighter Squadron (VFA) 2 climbs away from the Nimitz-class aircraft carrier USS Abraham Lincoln (CV",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Flickr_-_Official_U.S._Navy_Imagery_-_An_F-A-18E_Super_Hornet_launches..jpg/1280px-Flickr_-_Official_U.S._Navy_Imagery_-_An_F-A-18E_Super_Hornet_launches..jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Flickr_-_Official_U.S._Navy_Imagery_-_An_F-A-18E_Super_Hornet_launches..jpg",
+      "width": 3000,
+      "height": 1960,
+      "title": "Flickr - Official U.S. Navy Imagery - An F-A-18E Super Hornet launches..jpg",
+      "description": "<p>ARABIAN SEA (July 11, 2012) An F/A-18E Super Hornet assigned to the Kestrels of Strike Fighter Squadron (VFA) 137 launches from the Nimitz-class aircraft carrier USS Abraham Lincoln (CVN 72). Abrah",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flickr_-_Official_U.S._Navy_Imagery_-_An_F-A-18E_Super_Hornet_takes_off..jpg/1280px-Flickr_-_Official_U.S._Navy_Imagery_-_An_F-A-18E_Super_Hornet_takes_off..jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Flickr_-_Official_U.S._Navy_Imagery_-_An_F-A-18E_Super_Hornet_takes_off..jpg",
+      "width": 4288,
+      "height": 2848,
+      "title": "Flickr - Official U.S. Navy Imagery - An F-A-18E Super Hornet takes off..jpg",
+      "description": "<p>U.S. 5th FLEET AREA OF RESPONSIBILITY (OCT. 28, 2012) An F/A-18E Super Hornet assigned to the Pukin Dogs of Strike Fighter Squadron (VFA) 143 launches while an F/A-18F Super Hornet from the Jolly R",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Sailors_direct_an_F-A-18E_Super_Hornet._%2815032577227%29.jpg/1280px-Sailors_direct_an_F-A-18E_Super_Hornet._%2815032577227%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Sailors_direct_an_F-A-18E_Super_Hornet._%2815032577227%29.jpg",
+      "width": 3849,
+      "height": 2199,
+      "title": "Sailors direct an F-A-18E Super Hornet. (15032577227).jpg",
+      "description": "<p>ARABIAN GULF (Sept. 11, 2014) Sailors direct an F/A-18E Super Hornet attached to the Tomcatters of Strike Fighter Squadron (VFA) 31 on the flight deck of the aircraft carrier USS George H.W. Bush (",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/US_Navy_080906-N-7981E-530_An_F-A-18E_Super_Hornet_assigned_to_the.jpg/1280px-US_Navy_080906-N-7981E-530_An_F-A-18E_Super_Hornet_assigned_to_the.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/US_Navy_080906-N-7981E-530_An_F-A-18E_Super_Hornet_assigned_to_the.jpg",
+      "width": 2100,
+      "height": 1500,
+      "title": "US Navy 080906-N-7981E-530 An F-A-18E Super Hornet assigned to the.jpg",
+      "description": "INDIAN OCEAN (Sept. 6, 2008) An F/A-18E Super Hornet assigned to the \"Kestrels\" of Strike Fighter Squadron (VFA) 137 launches at sunset from the flight deck of the aircraft carrier USS Abraham Lincoln",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/US_Navy_080928-N-3610L-208_An_F-A-18E_Super_Hornet_assigned_to_the.jpg/1280px-US_Navy_080928-N-3610L-208_An_F-A-18E_Super_Hornet_assigned_to_the.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/US_Navy_080928-N-3610L-208_An_F-A-18E_Super_Hornet_assigned_to_the.jpg",
+      "width": 3872,
+      "height": 2592,
+      "title": "US Navy 080928-N-3610L-208 An F-A-18E Super Hornet assigned to the.jpg",
+      "description": "GULF OF OMAN (Sept. 28, 2008) An F/A-18E Super Hornet assigned to the \"Eagles\" of Strike Fighter Squadron (VFA) 115 launches from the Nimitz-class aircraft carrier USS Ronald Reagan (CVN 76). The F/A-",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/US_Navy_101209-N-9693M-009_Two_F-A-18E_Super_Hornets_prepare_for_a_catapult_assisted_launch_as_an_F-A-18E_Super_Hornet_taxis_toward_the_aft_of_USS.jpg/1280px-US_Navy_101209-N-9693M-009_Two_F-A-18E_Super_Hornets_prepare_for_a_catapult_assisted_launch_as_an_F-A-18E_Super_Hornet_taxis_toward_the_aft_of_USS.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/5c/US_Navy_101209-N-9693M-009_Two_F-A-18E_Super_Hornets_prepare_for_a_catapult_assisted_launch_as_an_F-A-18E_Super_Hornet_taxis_toward_the_aft_of_USS.jpg",
+      "width": 4288,
+      "height": 2848,
+      "title": "US Navy 101209-N-9693M-009 Two F-A-18E Super Hornets prepare for a catapult assisted launch as an F-A-18E Super Hornet taxis toward the aft of USS.jpg",
+      "description": "ATLANTIC OCEAN (Dec. 9, 2010) Two F/A-18E Super Hornets assigned to the Knighthawks of Strike Fighter Squadron (VFA) 136 prepare for a catapult assisted launch as an F/A-18F Super Hornet assigned to t",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Flickr_-_Official_U.S._Navy_Imagery_-_An_F-A-18E_takes_off_at_sea..jpg/1280px-Flickr_-_Official_U.S._Navy_Imagery_-_An_F-A-18E_takes_off_at_sea..jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/91/Flickr_-_Official_U.S._Navy_Imagery_-_An_F-A-18E_takes_off_at_sea..jpg",
+      "width": 4256,
+      "height": 2832,
+      "title": "Flickr - Official U.S. Navy Imagery - An F-A-18E takes off at sea..jpg",
+      "description": "<p>U.S. 5TH FLEET AREA OF RESPONSIBILITY (Oct. 22, 2012) An F/A-18E Super Hornet assigned to the Pukin Dogs of Strike Fighter Squadron (VFA) 143 launches from the flight deck of the Nimitz-class aircr",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/US_Navy_011028-N-8794V-004_F-18E.jpg/1280px-US_Navy_011028-N-8794V-004_F-18E.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/c0/US_Navy_011028-N-8794V-004_F-18E.jpg",
+      "width": 2100,
+      "height": 1500,
+      "title": "US Navy 011028-N-8794V-004 F-18E.jpg",
+      "description": "At sea aboard USS Abraham Lincoln (CVN 72) Oct. 28, 2001 -- A Landing Signal Officer observes the F-18E \u201cSuper Hornet\u201d, as it makes it\u2019s final approach to make a corrected carrier landing.  The first ",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/US_Navy_080823-N-1644H-034_An_F-A-18E_from_the.jpg/1280px-US_Navy_080823-N-1644H-034_An_F-A-18E_from_the.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/US_Navy_080823-N-1644H-034_An_F-A-18E_from_the.jpg",
+      "width": 2100,
+      "height": 1500,
+      "title": "US Navy 080823-N-1644H-034 An F-A-18E from the.jpg",
+      "description": "PACIFIC OCEAN (Aug. 23, 2008) An F/A-18E from the \"Royal Maces\" of Strike Fighter Squadron (VFA) 27, lands on the flight deck aboard the aircraft carrier USS George Washington (CVN 73). George Washing",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/US_Navy_080823-N-1644H-035_An_F-A-18E_from_the.jpg/1280px-US_Navy_080823-N-1644H-035_An_F-A-18E_from_the.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/c6/US_Navy_080823-N-1644H-035_An_F-A-18E_from_the.jpg",
+      "width": 2100,
+      "height": 1500,
+      "title": "US Navy 080823-N-1644H-035 An F-A-18E from the.jpg",
+      "description": "PACIFIC OCEAN (Aug. 23, 2008) An F/A-18E from the \"Royal Maces\" of Strike Fighter Squadron (VFA) 27, launches from the flight deck aboard the aircraft carrier USS George Washington (CVN 73). George Wa",
+      "license": "Public domain",
+      "source": "wikimedia"
+    }
+  ],
+  "doctrine": null,
+  "curated_sources": []
+}

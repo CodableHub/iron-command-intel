@@ -1,0 +1,325 @@
+{
+  "combat_history": [
+    {
+      "date": "1998-12-16",
+      "operation": "Operation Desert Fox",
+      "event": "B-1Bs conducted first combat missions, launching AGM-86C CALCMs against Iraqi targets during four-day bombing campaign",
+      "significance": "Combat debut demonstrated conventional strike capability and validated years of modification work"
+    },
+    {
+      "date": "1999-03",
+      "operation": "Operation Allied Force",
+      "event": "B-1Bs flew missions over Kosovo, delivering JDAM and conventional bombs against Serbian forces",
+      "significance": "First sustained combat deployment, proving long-range precision strike capability in European theater"
+    },
+    {
+      "date": "2001-10",
+      "operation": "Operation Enduring Freedom",
+      "event": "B-1Bs became primary close air support platform in Afghanistan, dropping 40% of all coalition munitions despite being <5% of aircraft",
+      "significance": "Redefined role from strategic bomber to tactical CAS platform, demonstrating flexibility and massive payload advantage"
+    },
+    {
+      "date": "2003-03",
+      "operation": "Operation Iraqi Freedom",
+      "event": "B-1Bs conducted opening night strikes and sustained operations, delivering precision munitions against Iraqi Republican Guard and infrastructure",
+      "significance": "Validated high-intensity conventional warfare capabilities in contested environment"
+    },
+    {
+      "date": "2014-09",
+      "operation": "Operation Inherent Resolve",
+      "event": "B-1Bs began operations against ISIS in Iraq and Syria, conducting over 3,700 sorties and dropping over 17,500 munitions",
+      "significance": "Demonstrated sustained deployment capability and effectiveness against distributed targets"
+    },
+    {
+      "date": "2017-04-07",
+      "operation": "Operation Inherent Resolve",
+      "event": "B-1B dropped GBU-43/B MOAB (Mother of All Bombs) on ISIS tunnel complex in Afghanistan",
+      "significance": "First combat use of largest non-nuclear bomb, showcasing unique heavy payload delivery capability"
+    }
+  ],
+  "modernization": [
+    {
+      "program": "Integrated Battle Station (IBS)",
+      "status": "completed",
+      "timeline": "2012-2019",
+      "description": "Upgraded avionics, displays, and mission systems with modern computing architecture and Link-16 datalink capability",
+      "impact": "Improved situational awareness and interoperability with joint forces"
+    },
+    {
+      "program": "Sustainment Block 16",
+      "status": "completed",
+      "timeline": "2016-2020",
+      "description": "Engine modifications, structural repairs, and reliability improvements to extend service life",
+      "impact": "Addressed critical maintenance issues and improved mission capable rates"
+    },
+    {
+      "program": "B-1B Offensive Avionics System",
+      "status": "planned",
+      "timeline": "2023-2030",
+      "description": "Radar upgrades, improved electronic warfare systems, and enhanced targeting capabilities for contested environments",
+      "impact": "Maintains relevance against peer competitors with advanced air defenses"
+    },
+    {
+      "program": "LRSO Integration",
+      "status": "planned",
+      "timeline": "2030+",
+      "description": "Integration of Long Range Standoff weapon to replace aging nuclear cruise missiles",
+      "impact": "Modernizes nuclear deterrent capability for next-generation threats"
+    },
+    {
+      "program": "Hypersonic Weapon Integration",
+      "status": "in-progress",
+      "timeline": "2024-2027",
+      "description": "Modification to carry AGM-183A ARRW hypersonic missiles externally",
+      "impact": "Provides time-critical target engagement capability against heavily defended targets"
+    }
+  ],
+  "vulnerabilities": [
+    {
+      "area": "Maintenance complexity",
+      "description": "Variable-sweep wing mechanisms and complex avionics result in mission capable rates often below 60%, limiting operational availability",
+      "context": "High maintenance requirements reduce surge capability and increase operational costs in budget-constrained environment",
+      "mitigation": "Sustainment programs focus on reliability improvements and parts availability"
+    },
+    {
+      "area": "Survivability in contested airspace",
+      "description": "Limited stealth characteristics and large size make it vulnerable to modern integrated air defense systems",
+      "context": "Peer competitors like Russia and China field advanced SAM systems that can detect and engage B-1Bs at standoff ranges",
+      "mitigation": "Shift to standoff weapons like JASSM-ER and future hypersonic missiles to avoid SAM engagement zones"
+    },
+    {
+      "area": "Electronic warfare susceptibility",
+      "description": "Aging defensive systems struggle against modern jamming and cyber threats",
+      "context": "GPS jamming and datalink disruption could severely degrade precision strike capability",
+      "mitigation": "Planned avionics upgrades include improved EW systems and alternative navigation capabilities"
+    },
+    {
+      "area": "Aircrew fatigue",
+      "description": "Long-duration missions up to 24+ hours strain four-person crews without relief capability",
+      "context": "Sustained operations in CENTCOM have pushed crews to limits, affecting safety and effectiveness",
+      "mitigation": "Mission planning emphasizes crew rest and tanker scheduling to minimize fatigue factors"
+    }
+  ],
+  "operational_patterns": {
+    "typical_deployment": "Rotational deployments to forward bases (Qatar, Diego Garcia, Guam) for theater strike missions",
+    "deployment_length_months": 6,
+    "key_operating_areas": [
+      "Persian Gulf",
+      "Southwest Asia",
+      "Western Pacific",
+      "CONUS"
+    ],
+    "typical_task_group": "Operates independently or with minimal escort, relies on standoff weapons and route planning",
+    "readiness_notes": "Chronic maintenance challenges limit surge capacity; typically 35-45 aircraft mission capable at any time"
+  },
+  "peer_comparisons": [
+    {
+      "platform": "Tupolev Tu-160 Blackjack",
+      "country": "Russia",
+      "relationship": "direct rival",
+      "key_differences": "Tu-160 is faster (Mach 2+) and longer-ranged but carries fewer precision weapons and has limited conventional capability compared to B-1B's massive JDAM capacity",
+      "video_angle": "Cold War titans compared: speed vs. precision strike capacity in modern warfare"
+    },
+    {
+      "platform": "Xian H-6K",
+      "country": "China",
+      "relationship": "theater competitor",
+      "key_differences": "H-6K focuses on standoff cruise missiles and anti-ship missions while B-1B excels in penetrating strike with large conventional payloads",
+      "video_angle": "Pacific bomber face-off: China's cruise missile truck vs. America's penetrating striker"
+    },
+    {
+      "platform": "Boeing B-52H Stratofortress",
+      "country": "United States",
+      "relationship": "allied equivalent",
+      "key_differences": "B-52 has longer range and lower operating costs but B-1B delivers larger payloads faster with better survivability in medium-threat environments",
+      "video_angle": "USAF bomber showdown: payload king vs. endurance champion"
+    },
+    {
+      "platform": "Northrop B-2A Spirit",
+      "country": "United States",
+      "relationship": "allied equivalent",
+      "key_differences": "B-2 penetrates advanced air defenses with stealth but B-1B carries 3x the conventional payload at much lower per-flight cost",
+      "video_angle": "America's strategic bombers: stealth vs. brute force approaches to target destruction"
+    },
+    {
+      "platform": "Panavia Tornado GR4",
+      "country": "United Kingdom",
+      "relationship": "allied equivalent",
+      "key_differences": "Similar low-level penetration design but Tornado is tactical-range while B-1B provides strategic reach with massive payload advantage",
+      "video_angle": "Variable-sweep warriors: tactical vs. strategic applications of swing-wing design"
+    }
+  ],
+  "search_keywords": [
+    "b-1b",
+    "b1b",
+    "lancer",
+    "bone",
+    "rockwell b-1",
+    "strategic bomber",
+    "variable sweep",
+    "swing wing",
+    "supersonic bomber"
+  ],
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/28th_Bomb_Wing_B-1B_Lancer_at_Ellsworth_Air_Force_Base.jpg/1280px-28th_Bomb_Wing_B-1B_Lancer_at_Ellsworth_Air_Force_Base.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/4b/28th_Bomb_Wing_B-1B_Lancer_at_Ellsworth_Air_Force_Base.jpg",
+      "width": 4055,
+      "height": 2703,
+      "title": "28th Bomb Wing B-1B Lancer at Ellsworth Air Force Base.jpg",
+      "description": "A 28th Bomb Wing B-1B Lancer prepares to take flight for a Bomber Task Force mission at Ellsworth Air Force Base, S.D., April 12, 2023. The bomber missions provide opportunities to train and work with",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/28th_Bomb_Wing_B-1B_at_Lule%C3%A5-Kallax_Air_Base.jpg/1280px-28th_Bomb_Wing_B-1B_at_Lule%C3%A5-Kallax_Air_Base.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/42/28th_Bomb_Wing_B-1B_at_Lule%C3%A5-Kallax_Air_Base.jpg",
+      "width": 6269,
+      "height": 4179,
+      "title": "28th Bomb Wing B-1B at Lule\u00e5-Kallax Air Base.jpg",
+      "description": "A U.S. Air Force B-1B Lancer assigned to the 28th Bomb Wing, Ellsworth Air Force Base, South Dakota, sits on a landing pad at Lule\u00e5-Kallax Air Base, Sweden, Feb. 28, 2024, during Bomber Task Force 24-",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/A_B-1B_Lancer.jpg/1280px-A_B-1B_Lancer.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/64/A_B-1B_Lancer.jpg",
+      "width": 5951,
+      "height": 1744,
+      "title": "A B-1B Lancer.jpg",
+      "description": "A U.S. Air Force B-1B Lancer, assigned to 34th Expeditionary Bomb Squadron, flies behind a U.S. Air Force KC-135 Stratotanker, assigned to 506th Expeditionary Air Refueling Squadron, during a Bomber T",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/A_U.S._Air_Force_F-15C_Eagle_intercepts_two_B-1B_Lancers.jpg/1280px-A_U.S._Air_Force_F-15C_Eagle_intercepts_two_B-1B_Lancers.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/A_U.S._Air_Force_F-15C_Eagle_intercepts_two_B-1B_Lancers.jpg",
+      "width": 5191,
+      "height": 3454,
+      "title": "A U.S. Air Force F-15C Eagle intercepts two B-1B Lancers.jpg",
+      "description": "A U.S. Air Force F-15C Eagle intercepts two B-1B Lancer bombers as they entered an Air Defense Identification Zone off the east coast of North America during air-defense Operation Noble Defender, June",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/B-1B_Lancers_refuel_in_Darwin_%287289339%29.jpg/1280px-B-1B_Lancers_refuel_in_Darwin_%287289339%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/42/B-1B_Lancers_refuel_in_Darwin_%287289339%29.jpg",
+      "width": 6870,
+      "height": 4580,
+      "title": "B-1B Lancers refuel in Darwin (7289339).jpg",
+      "description": "A U.S. Air Force B-1B Lancer attached to the 34th Bomb Squadron, Ellsworth, South Dakota, taxies down the flightline of the Darwin Airport after landing at the Royal Australian Air Force Base, Darwin,",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/B-1_Lancer_bomber.jpg/1280px-B-1_Lancer_bomber.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/d2/B-1_Lancer_bomber.jpg",
+      "width": 2673,
+      "height": 1782,
+      "title": "B-1 Lancer bomber.jpg",
+      "description": "B-1 Lancer bomber of the United States Air Force on static display at the Wings over Houston (Texas) Air Show, Ellington Field.",
+      "license": "CC BY 3.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Global_Power_Bomber_CTF_conducts_B-1B_external_captive_carry_demonstration_%28201120-F-JG201-9095%29.jpg/1280px-Global_Power_Bomber_CTF_conducts_B-1B_external_captive_carry_demonstration_%28201120-F-JG201-9095%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/55/Global_Power_Bomber_CTF_conducts_B-1B_external_captive_carry_demonstration_%28201120-F-JG201-9095%29.jpg",
+      "width": 4981,
+      "height": 3321,
+      "title": "Global Power Bomber CTF conducts B-1B external captive carry demonstration (201120-F-JG201-9095).jpg",
+      "description": "A B-1B Lancer carrying an AGM-158 Joint Air-to-Surface Standoff Missile flies in the skies above Edwards Air Force Base, Calif., Nov. 20, 2020. The flight was a demonstration of the B-1B\u2019s external we",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/U.S._Air_Force_B-1B_Lancer_over_the_Pacific_Ocean.jpg/1280px-U.S._Air_Force_B-1B_Lancer_over_the_Pacific_Ocean.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/f9/U.S._Air_Force_B-1B_Lancer_over_the_Pacific_Ocean.jpg",
+      "width": 3870,
+      "height": 2580,
+      "title": "U.S. Air Force B-1B Lancer over the Pacific Ocean.jpg",
+      "description": "A B-1B Lancer, assigned to 34th Expeditionary Bomb Squadron, flies over the Pacific Ocean during a Bomber Task Force mission, June 20, 2022. Bomber Task Force missions provide opportunities to train a",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/A_B-1B_Lancer_aircraft_flies_over_USS_Carl_Vinson_as_it_transits_the_Philippine_Sea._%2832536592990%29.jpg/1280px-A_B-1B_Lancer_aircraft_flies_over_USS_Carl_Vinson_as_it_transits_the_Philippine_Sea._%2832536592990%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/A_B-1B_Lancer_aircraft_flies_over_USS_Carl_Vinson_as_it_transits_the_Philippine_Sea._%2832536592990%29.jpg",
+      "width": 4533,
+      "height": 2974,
+      "title": "A B-1B Lancer aircraft flies over USS Carl Vinson as it transits the Philippine Sea. (32536592990).jpg",
+      "description": "<p>PHILLIPINE SEA (Feb. 14, 2017) A B-1B Lancer aircraft assigned Andersen Air Force Base, Guam, flies over the aircraft carrier USS Carl Vinson (CVN 70) as it transits the Philippine Sea. The B-1 is ",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/A_B-1B_Lancer_and_an_F-A-18E_Super_fly_over_USS_Carl_Vinson._%2832102085083%29.jpg/1280px-A_B-1B_Lancer_and_an_F-A-18E_Super_fly_over_USS_Carl_Vinson._%2832102085083%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/A_B-1B_Lancer_and_an_F-A-18E_Super_fly_over_USS_Carl_Vinson._%2832102085083%29.jpg",
+      "width": 4000,
+      "height": 3000,
+      "title": "A B-1B Lancer and an F-A-18E Super fly over USS Carl Vinson. (32102085083).jpg",
+      "description": "<p>PHILIPPINE SEA (Feb. 14, 2017) A B-1B Lancer from Andersen Air Force Base, Guam, and an F/A-18E Super Hornet assigned to the \u201cGolden Dragons\u201d of Strike Squadron (VFA) 192 fly over the aircraft carr",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/B-1B_Breaking_the_sound_barrier.jpg/1280px-B-1B_Breaking_the_sound_barrier.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/fd/B-1B_Breaking_the_sound_barrier.jpg",
+      "width": 2266,
+      "height": 1530,
+      "title": "B-1B Breaking the sound barrier.jpg",
+      "description": "",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/B-1B_Lancer_is_refueled_by_KC-135R_Stratotanker.jpg/1280px-B-1B_Lancer_is_refueled_by_KC-135R_Stratotanker.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/ef/B-1B_Lancer_is_refueled_by_KC-135R_Stratotanker.jpg",
+      "width": 1528,
+      "height": 1000,
+      "title": "B-1B Lancer is refueled by KC-135R Stratotanker.jpg",
+      "description": "",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Boeing_FA-18F_Super_Hornet_of_VFA-94_and_Rockwell_B-1B_Lancer_of_the_34th_BS_in_flight_over_the_South_China_Sea_on_22_April_2023_%28230422-N-NO803-2004%29.jpg/1280px-Boeing_FA-18F_Super_Hornet_of_VFA-94_and_Rockwell_B-1B_Lancer_of_the_34th_BS_in_flight_over_the_South_China_Sea_on_22_April_2023_%28230422-N-NO803-2004%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/71/Boeing_FA-18F_Super_Hornet_of_VFA-94_and_Rockwell_B-1B_Lancer_of_the_34th_BS_in_flight_over_the_South_China_Sea_on_22_April_2023_%28230422-N-NO803-2004%29.jpg",
+      "width": 6000,
+      "height": 4000,
+      "title": "Boeing FA-18F Super Hornet of VFA-94 and Rockwell B-1B Lancer of the 34th BS in flight over the South China Sea on 22 April 2023 (230422-N-NO803-2004).jpg",
+      "description": "The U.S. Navy Boeing F/A-18F <i>Super Hornet</i> (BuNo 166981)  of Strike Fighter Squadron 94 (VFA-94) \"Mighty Shrikes\" and a U.S. Air Force Rockwell B-1B <i>Lancer</i> (s/n 86-0129) from the 34th Bom",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/81/Transit_1B_%28cropped%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/81/Transit_1B_%28cropped%29.jpg",
+      "width": 757,
+      "height": 724,
+      "title": "Transit 1B (cropped).jpg",
+      "description": "Navigational satellite launched in the U.S. Navy Transit program, the I-B. Artwork by Roger Simmons.  (9/15/15).",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/US_Navy_050521-N-0295M-021_A_U.S._Air_Force_B-1B_Lancer_bomber_performs_a_high-speed_pass_in_full_afterburner_in_front_of_the_crowd_during_the_2005_Joint_Service_Open_House.jpg/1280px-thumbnail.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/b1/US_Navy_050521-N-0295M-021_A_U.S._Air_Force_B-1B_Lancer_bomber_performs_a_high-speed_pass_in_full_afterburner_in_front_of_the_crowd_during_the_2005_Joint_Service_Open_House.jpg",
+      "width": 1669,
+      "height": 1075,
+      "title": "US Navy 050521-N-0295M-021 A U.S. Air Force B-1B Lancer bomber performs a high-speed pass in full afterburner in front of the crowd during the 2005 Joint Service Open House.jpg",
+      "description": "Andrews Air Force Base, Md. (May 21, 2005) - A U.S. Air Force B-1B Lancer bomber performs a high-speed pass in full afterburner in front of the crowd during the 2005 Joint Service Open House. The Join",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/US_Navy_090625-N-2971J-001_An_F-A-18F_Super_Hornet_from_the_Jolly_Rogers_of_Strike_Fighter_Squadron_%28VFA%29_103%2C_embarked_aboard_the_aircraft_carrier_USS_Dwight_D._Eisenhower_%28CVN_69%29%2C_flies_alongside_a_U.S._Air_Force_B-1B_Lancer.jpg/1280px-thumbnail.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/US_Navy_090625-N-2971J-001_An_F-A-18F_Super_Hornet_from_the_Jolly_Rogers_of_Strike_Fighter_Squadron_%28VFA%29_103%2C_embarked_aboard_the_aircraft_carrier_USS_Dwight_D._Eisenhower_%28CVN_69%29%2C_flies_alongside_a_U.S._Air_Force_B-1B_Lancer.jpg",
+      "width": 2592,
+      "height": 1944,
+      "title": "US Navy 090625-N-2971J-001 An F-A-18F Super Hornet from the Jolly Rogers of Strike Fighter Squadron (VFA) 103, embarked aboard the aircraft carrier USS Dwight D. Eisenhower (CVN 69), flies alongside a U.S. Air Force B-1B Lancer.jpg",
+      "description": "ARABIAN SEA (June 25, 2009) An F/A-18F Super Hornet from the Jolly Rogers of Strike Fighter Squadron (VFA) 103, embarked aboard the aircraft carrier USS Dwight D. Eisenhower (CVN 69), flies alongside ",
+      "license": "Public domain",
+      "source": "wikimedia"
+    }
+  ]
+}

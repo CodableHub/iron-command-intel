@@ -1,0 +1,272 @@
+{
+  "combat_history": [
+    {
+      "date": "2011",
+      "operation": "Operation Unified Protector",
+      "event": "Cavour deployed to the Mediterranean during NATO intervention in Libya, operating AV-8B Harrier II aircraft in support of coalition operations",
+      "significance": "First operational deployment demonstrating Italy's carrier aviation capability in combat operations"
+    },
+    {
+      "date": "2020-12",
+      "operation": "F-35B Integration",
+      "event": "First F-35B Lightning II landings and takeoffs from Cavour during trials off the US East Coast, marking Italy's transition to fifth-generation naval aviation",
+      "significance": "Historic milestone transforming Italy into one of few nations operating stealth fighters from aircraft carriers"
+    },
+    {
+      "date": "2021",
+      "operation": "Mare Aperto 2021",
+      "event": "Large-scale NATO exercise in the Mediterranean with Cavour serving as flagship, operating both F-35Bs and helicopters simultaneously",
+      "significance": "Demonstrated full operational capability with F-35B integration complete"
+    }
+  ],
+  "modernization": [
+    {
+      "program": "F-35B Integration Program",
+      "status": "completed",
+      "timeline": "2018-2021",
+      "description": "Flight deck modifications including heat-resistant coatings, reinforced landing areas, upgraded fuel systems, and enhanced maintenance facilities for F-35B operations",
+      "impact": "Transformed Cavour from helicopter carrier to true fixed-wing aircraft carrier with fifth-generation fighter capability"
+    },
+    {
+      "program": "Mid-life upgrade planning",
+      "status": "planned",
+      "timeline": "2028-2032",
+      "description": "Expected upgrades to radar systems, combat management systems, and potentially propulsion efficiency improvements",
+      "impact": "Will extend operational life and maintain technological relevance through 2040s"
+    }
+  ],
+  "vulnerabilities": [
+    {
+      "area": "Limited speed and maneuverability",
+      "description": "16-knot maximum speed significantly limits tactical flexibility and ability to generate wind-over-deck for aircraft operations in low wind conditions",
+      "context": "Modern anti-ship missiles and submarines require higher speeds for effective evasion, and slow speed complicates flight operations",
+      "mitigation": "Italy relies on escort vessels and geographic positioning rather than speed for protection"
+    },
+    {
+      "area": "Small aircraft capacity",
+      "description": "Maximum of 8-10 fixed-wing aircraft severely limits sustained air operations compared to larger carriers",
+      "context": "Limited sortie generation rate reduces effectiveness in high-intensity conflicts",
+      "mitigation": "Focus on high-quality F-35B aircraft and coordination with land-based assets"
+    },
+    {
+      "area": "Limited self-defense capability",
+      "description": "Only 32 SAM cells and no long-range air defense systems make Cavour heavily dependent on escorts for protection",
+      "context": "Vulnerable to saturation attacks or advanced anti-ship missiles without strong escort screen",
+      "mitigation": "Always operates within escort groups and relies on allied air cover"
+    }
+  ],
+  "operational_patterns": {
+    "typical_deployment": "Mediterranean patrol, NATO exercises, expeditionary operations as flagship of task groups",
+    "deployment_length_months": 4,
+    "key_operating_areas": [
+      "Mediterranean Sea",
+      "Red Sea",
+      "Indian Ocean",
+      "North Atlantic"
+    ],
+    "typical_task_group": "1-2 frigates, 1 replenishment ship, occasionally submarines",
+    "readiness_notes": "Generally high availability with approximately 200+ sea days annually"
+  },
+  "peer_comparisons": [
+    {
+      "platform": "Juan Carlos I Strategic Projection Ship",
+      "country": "Spain",
+      "relationship": "direct rival",
+      "key_differences": "Juan Carlos I larger with better amphibious capability but Cavour has superior sensors and dedicated carrier design. Both operate F-35Bs but Cavour has better aviation fuel capacity.",
+      "video_angle": "Mediterranean carrier rivalry - comparing Italian naval aviation focus vs Spanish amphibious flexibility"
+    },
+    {
+      "platform": "Charles de Gaulle",
+      "country": "France",
+      "relationship": "allied equivalent",
+      "key_differences": "Charles de Gaulle much larger with nuclear propulsion and catapult launch system enabling larger aircraft, but Cavour more affordable and easier to maintain with modern F-35B technology.",
+      "video_angle": "European carrier philosophy - nuclear catapult vs conventional STOVL approach"
+    },
+    {
+      "platform": "Queen Elizabeth-class",
+      "country": "United Kingdom",
+      "relationship": "allied equivalent",
+      "key_differences": "Queen Elizabeth much larger with 40+ F-35B capacity vs Cavour's 8-10, but Cavour has better point defense and more mature operational doctrine.",
+      "video_angle": "Post-Brexit European naval power - comparing UK ambitions vs Italian pragmatism"
+    },
+    {
+      "platform": "Izumo-class",
+      "country": "Japan",
+      "relationship": "direct rival",
+      "key_differences": "Similar F-35B integration timeline but Izumo larger with better helicopter capacity. Cavour has superior sensors and combat systems while Izumo focuses on ASW.",
+      "video_angle": "F-35B revolution - how medium powers are gaining carrier aviation capability"
+    }
+  ],
+  "search_keywords": [
+    "cavour",
+    "C 550",
+    "italian aircraft carrier",
+    "marina militare",
+    "cavour carrier",
+    "italian navy flagship",
+    "F-35B italy",
+    "mediterranean carrier"
+  ],
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Cavour_%28550%29.jpg/1280px-Cavour_%28550%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Cavour_%28550%29.jpg",
+      "width": 3264,
+      "height": 2176,
+      "title": "Cavour (550).jpg",
+      "description": "La portaerei Cavour ormeggiata a Civitavecchia",
+      "license": "CC BY-SA 3.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Charles_De_Gaulle%2C_Cavour%2C_and_Harry_S._Truman.jpg/1280px-Charles_De_Gaulle%2C_Cavour%2C_and_Harry_S._Truman.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Charles_De_Gaulle%2C_Cavour%2C_and_Harry_S._Truman.jpg",
+      "width": 3300,
+      "height": 5100,
+      "title": "Charles De Gaulle, Cavour, and Harry S. Truman.jpg",
+      "description": "From top to bottom: French carrier FS <i>Charles De Gaulle</i> (R 91), Italian aircraft carrier ITS <i>Cavour</i> (CVH 550) and USS <i>Harry S. Truman</i> (CVN-75). US Navy Photos",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/F-35_test_pilots_perform_night_lighting_evaluation_flights_aboard_the_Italian_navy_aircraft_carrier_ITS_Cavour_%28CVH_550%29.jpg/1280px-F-35_test_pilots_perform_night_lighting_evaluation_flights_aboard_the_Italian_navy_aircraft_carrier_ITS_Cavour_%28CVH_550%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/F-35_test_pilots_perform_night_lighting_evaluation_flights_aboard_the_Italian_navy_aircraft_carrier_ITS_Cavour_%28CVH_550%29.jpg",
+      "width": 3600,
+      "height": 2400,
+      "title": "F-35 test pilots perform night lighting evaluation flights aboard the Italian navy aircraft carrier ITS Cavour (CVH 550).jpg",
+      "description": "ATLANTIC OCEAN (March 7, 2021) F-35 test pilots U.S. Marine Corps Maj. Brad Leeman, BF-05, and British Royal Navy Lt. Cmdr. Barry Pilkington, BF-19, perform night lighting evaluation flights in F-35B ",
+      "license": "CC BY 2.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/ITS_Cavour%2C_Darwin_9_Jul_2024.jpg/1280px-ITS_Cavour%2C_Darwin_9_Jul_2024.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/2c/ITS_Cavour%2C_Darwin_9_Jul_2024.jpg",
+      "width": 4000,
+      "height": 3000,
+      "title": "ITS Cavour, Darwin 9 Jul 2024.jpg",
+      "description": "ITS Cavour entering Darwin Harbour, Australia on 9 July 2024.",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Italian_Lockheed_Martin_F-35B_landing_on_the_aircraft_carrier_Cavour_%28550%29_off_the_coast_of_Civitavecchia.jpg/1280px-Italian_Lockheed_Martin_F-35B_landing_on_the_aircraft_carrier_Cavour_%28550%29_off_the_coast_of_Civitavecchia.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Italian_Lockheed_Martin_F-35B_landing_on_the_aircraft_carrier_Cavour_%28550%29_off_the_coast_of_Civitavecchia.jpg",
+      "width": 3543,
+      "height": 2362,
+      "title": "Italian Lockheed Martin F-35B landing on the aircraft carrier Cavour (550) off the coast of Civitavecchia.jpg",
+      "description": "Il Presidente della Repubblica Sergio Mattarella a Bordo di Nave Cavour assiste alle dimostrazioni delle attivit\u00e0 operative della Marina Militare(foto di Francesco Ammendola - Ufficio per la Stampa e ",
+      "license": "Attribution",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Italian_aircraft_carrier_Cavour.jpg/1280px-Italian_aircraft_carrier_Cavour.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/95/Italian_aircraft_carrier_Cavour.jpg",
+      "width": 3617,
+      "height": 1834,
+      "title": "Italian aircraft carrier Cavour.jpg",
+      "description": "Warship, aircraft carrier from Italy.",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Italian_aircraft_carrier_Cavour_%28550%29_underway_in_the_Adriatic_Sea_on_2_February_2022_%28220202-N-ED646-0287%29.JPG/1280px-Italian_aircraft_carrier_Cavour_%28550%29_underway_in_the_Adriatic_Sea_on_2_February_2022_%28220202-N-ED646-0287%29.JPG",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/71/Italian_aircraft_carrier_Cavour_%28550%29_underway_in_the_Adriatic_Sea_on_2_February_2022_%28220202-N-ED646-0287%29.JPG",
+      "width": 6554,
+      "height": 4368,
+      "title": "Italian aircraft carrier Cavour (550) underway in the Adriatic Sea on 2 February 2022 (220202-N-ED646-0287).JPG",
+      "description": "The Italian aircraft carrier <i>Cavour</i> (550) participates in maneuvering operations in the Adriatic Sea on 2 February 2022 during the NATO maneouver \"Neptune Strike 22\".",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Italian_aircraft_carrier_Cavour_%28550%29_underway_in_the_Ionian_Sea_on_17_March_2022_%28220317-N-DH793-1475%29.JPG/1280px-Italian_aircraft_carrier_Cavour_%28550%29_underway_in_the_Ionian_Sea_on_17_March_2022_%28220317-N-DH793-1475%29.JPG",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/59/Italian_aircraft_carrier_Cavour_%28550%29_underway_in_the_Ionian_Sea_on_17_March_2022_%28220317-N-DH793-1475%29.JPG",
+      "width": 4078,
+      "height": 2714,
+      "title": "Italian aircraft carrier Cavour (550) underway in the Ionian Sea on 17 March 2022 (220317-N-DH793-1475).JPG",
+      "description": "The Italian aircraft carrier <i>Cavour</i> (550) underway in the Ionian Sea on 17 March 2022.",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Captain_John_W._Tarleton_by_John_Jabez_Edwin_Mayall.jpg/1280px-Captain_John_W._Tarleton_by_John_Jabez_Edwin_Mayall.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/36/Captain_John_W._Tarleton_by_John_Jabez_Edwin_Mayall.jpg",
+      "width": 1508,
+      "height": 1786,
+      "title": "Captain John W. Tarleton by John Jabez Edwin Mayall.jpg",
+      "description": "<p>Captain <a href=\"https://en.wikipedia.org/wiki/John_Tarleton_(Royal_Navy_officer)\" class=\"extiw\" title=\"en:John Tarleton (Royal Navy officer)\">John W. Tarleton</a>, three-quarter view, overpainted ",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Captain_John_W._Tarleton_by_John_Jabez_Edwin_Mayall.png/1280px-Captain_John_W._Tarleton_by_John_Jabez_Edwin_Mayall.png",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/33/Captain_John_W._Tarleton_by_John_Jabez_Edwin_Mayall.png",
+      "width": 1508,
+      "height": 1786,
+      "title": "Captain John W. Tarleton by John Jabez Edwin Mayall.png",
+      "description": "<p>Captain <a href=\"https://en.wikipedia.org/wiki/John_Tarleton_(Royal_Navy_officer)\" class=\"extiw\" title=\"en:John Tarleton (Royal Navy officer)\">John W. Tarleton</a>, three-quarter view, overpainted ",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Captain_John_W._Tarleton_by_John_Jabez_Edwin_Mayall_-_Original.jpg/1280px-Captain_John_W._Tarleton_by_John_Jabez_Edwin_Mayall_-_Original.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Captain_John_W._Tarleton_by_John_Jabez_Edwin_Mayall_-_Original.jpg",
+      "width": 1569,
+      "height": 2000,
+      "title": "Captain John W. Tarleton by John Jabez Edwin Mayall - Original.jpg",
+      "description": "<p>Captain <a href=\"https://en.wikipedia.org/wiki/John_Tarleton_(Royal_Navy_officer)\" class=\"extiw\" title=\"en:John Tarleton (Royal Navy officer)\">John W. Tarleton</a>, three-quarter view, overpainted ",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/63/Islander_aircraft_of_INAS_550.JPG",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/63/Islander_aircraft_of_INAS_550.JPG",
+      "width": 339,
+      "height": 248,
+      "title": "Islander aircraft of INAS 550.JPG",
+      "description": "Islander aircraft of INAS 550",
+      "license": "GODL-India",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Israeli_Navy_P5080090.JPG/1280px-Israeli_Navy_P5080090.JPG",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/13/Israeli_Navy_P5080090.JPG",
+      "width": 2288,
+      "height": 1712,
+      "title": "Israeli Navy P5080090.JPG",
+      "description": "Naval Sail By on Tel Aviv Beach",
+      "license": "Attribution",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Israeli_Navy_P5080095.JPG/1280px-Israeli_Navy_P5080095.JPG",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/88/Israeli_Navy_P5080095.JPG",
+      "width": 2288,
+      "height": 1712,
+      "title": "Israeli Navy P5080095.JPG",
+      "description": "Naval Sail By on Tel Aviv Beach",
+      "license": "Attribution",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Israeli_Navy_P5080099.JPG/1280px-Israeli_Navy_P5080099.JPG",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/74/Israeli_Navy_P5080099.JPG",
+      "width": 2288,
+      "height": 1712,
+      "title": "Israeli Navy P5080099.JPG",
+      "description": "Naval Sail By on Tel Aviv Beach",
+      "license": "Attribution",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/The_Late_Rear-Admiral_Sir_J._W._Tarleton%2C_KCB_-_ILN-1880-1016-0004.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/The_Late_Rear-Admiral_Sir_J._W._Tarleton%2C_KCB_-_ILN-1880-1016-0004.jpg",
+      "width": 500,
+      "height": 1094,
+      "title": "The Late Rear-Admiral Sir J. W. Tarleton, KCB - ILN-1880-1016-0004.jpg",
+      "description": "The Late Rear-Admiral Sir J. W. Tarleton, KCB. Illustration for The Illustrated London News, 16 October 1880.<br>\n<p><br>\n</p>\n<a rel=\"nofollow\" class=\"external text\" href=\"https://link.gale.com/apps/",
+      "license": "Public domain",
+      "source": "wikimedia"
+    }
+  ]
+}

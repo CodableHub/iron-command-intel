@@ -1,0 +1,200 @@
+{
+  "combat_history": [],
+  "modernization": [
+    {
+      "program": "TB3 Integration",
+      "status": "in-progress",
+      "timeline": "2023-2024",
+      "description": "Integration of Bayraktar TB3 carrier-capable drones as primary fixed-wing aviation component",
+      "impact": "Transforms from traditional amphibious ship to drone carrier hybrid"
+    },
+    {
+      "program": "Indigenous Systems Integration",
+      "status": "ongoing",
+      "timeline": "2023-2030",
+      "description": "Continued replacement of foreign systems with Turkish alternatives including ASELSAN radars and communication systems",
+      "impact": "Reduces foreign dependency and aligns with Turkish defense industry goals"
+    }
+  ],
+  "vulnerabilities": [
+    {
+      "area": "Air Defense",
+      "description": "Lacks organic fighter aircraft for air superiority, relies on point defense systems and escorts",
+      "context": "Operating in contested airspace without F-35B capability severely limits operational flexibility",
+      "mitigation": "Drone swarm tactics, escort coordination, and potential future STOVL fighter development"
+    },
+    {
+      "area": "Untested Drone Operations",
+      "description": "TB3 carrier operations represent unproven concept in naval aviation",
+      "context": "No real-world experience with large-scale drone carrier operations in combat",
+      "mitigation": "Extensive testing and training programs, gradual capability buildup"
+    },
+    {
+      "area": "Single Platform Risk",
+      "description": "Turkey's entire amphibious assault capability concentrated in one ship",
+      "context": "Loss or damage to Anadolu would eliminate Turkish expeditionary capability",
+      "mitigation": "No current mitigation, though second ship has been discussed"
+    }
+  ],
+  "operational_patterns": {
+    "typical_deployment": "Regional power projection, amphibious exercises, diplomatic missions",
+    "deployment_length_months": 3,
+    "key_operating_areas": [
+      "Eastern Mediterranean",
+      "Black Sea",
+      "Aegean Sea"
+    ],
+    "typical_task_group": "Escorted by Turkish frigates, supported by submarine",
+    "readiness_notes": "Still building operational experience, crew training ongoing"
+  },
+  "peer_comparisons": [
+    {
+      "platform": "Juan Carlos I",
+      "country": "Spain",
+      "relationship": "predecessor",
+      "key_differences": "Anadolu features Turkish systems integration and drone optimization vs Spanish F-35B/Harrier configuration. Similar size but different air wing philosophy.",
+      "video_angle": "Original vs modified: How Turkey transformed a proven design for drone warfare"
+    },
+    {
+      "platform": "ITS Trieste",
+      "country": "Italy",
+      "relationship": "direct rival",
+      "key_differences": "Trieste operates F-35B fighters and focuses on traditional naval aviation, while Anadolu pioneers drone operations. Similar amphibious capability but different air power approach.",
+      "video_angle": "Manned vs unmanned: Two philosophies of modern amphibious warfare"
+    },
+    {
+      "platform": "JS Izumo",
+      "country": "Japan",
+      "relationship": "allied equivalent",
+      "key_differences": "Izumo being modified for F-35B operations while Anadolu pursues drone-centric model. Both represent regional power projection aspirations but different technical solutions.",
+      "video_angle": "Rising regional powers: Japan's traditional approach vs Turkey's drone revolution"
+    },
+    {
+      "platform": "HMS Queen Elizabeth",
+      "country": "United Kingdom",
+      "relationship": "allied equivalent",
+      "key_differences": "Queen Elizabeth is larger supercarrier with F-35B focus, while Anadolu is smaller amphibious ship with drone emphasis. Different scale and mission focus.",
+      "video_angle": "Size vs innovation: Can drone swarms challenge traditional carrier aviation?"
+    },
+    {
+      "platform": "Type 075 Yushen-class",
+      "country": "China",
+      "relationship": "direct rival",
+      "key_differences": "Type 075 emphasizes helicopter operations and traditional amphibious assault, while Anadolu focuses on fixed-wing drone operations. Similar strategic intent, different execution.",
+      "video_angle": "East vs West amphibious warfare: China's helicopter model vs Turkey's drone approach"
+    }
+  ],
+  "search_keywords": [
+    "tcg anadolu",
+    "L-400",
+    "turkish aircraft carrier",
+    "anadolu ship",
+    "bayraktar tb3",
+    "turkish navy",
+    "amphibious assault ship",
+    "drone carrier",
+    "f-35 turkey"
+  ],
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/TCG_Anadolu.png/1280px-TCG_Anadolu.png",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/1d/TCG_Anadolu.png",
+      "width": 1920,
+      "height": 1080,
+      "title": "TCG Anadolu.png",
+      "description": "<a href=\"https://en.wikipedia.org/wiki/TCG_Anadolu\" class=\"extiw\" title=\"en:TCG Anadolu\">TCG <i>Anadolu</i> (L-400)</a>",
+      "license": "CC BY 3.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/TCG_Anadolu_%28L-400%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/TCG_Anadolu_%28L-400%29.jpg",
+      "width": 1200,
+      "height": 545,
+      "title": "TCG Anadolu (L-400).jpg",
+      "description": "TCG Anadolu (L-400) amphibious assault ship (LHD) of the Turkish Navy during its construction at Sedef Shipyard in Istanbul.",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/TCG_Anadolu_in_Sarayburnu_Harbor.jpg/1280px-TCG_Anadolu_in_Sarayburnu_Harbor.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/36/TCG_Anadolu_in_Sarayburnu_Harbor.jpg",
+      "width": 3264,
+      "height": 2448,
+      "title": "TCG Anadolu in Sarayburnu Harbor.jpg",
+      "description": "TCG Anadolu (L-400) Sarayburnu Liman\u0131'nda demirlemi\u015fken, 17 Nisan 2023",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Turkish_Navy_amphibious_assault_ship_TCG_Anadolu_%28L400%29_steams_in_the_Mediterranean_Sea.jpg/1280px-Turkish_Navy_amphibious_assault_ship_TCG_Anadolu_%28L400%29_steams_in_the_Mediterranean_Sea.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/10/Turkish_Navy_amphibious_assault_ship_TCG_Anadolu_%28L400%29_steams_in_the_Mediterranean_Sea.jpg",
+      "width": 2163,
+      "height": 1293,
+      "title": "Turkish Navy amphibious assault ship TCG Anadolu (L400) steams in the Mediterranean Sea.jpg",
+      "description": "The Turkish Navy amphibious assault ship TCG Anadolu (L400) steams in the Mediterranean Sea, Aug. 21, 2023. Anadolu steamed in formation with the world's largest aircraft carrier USS Gerald R. Ford (C",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/USS_Gerald_R._Ford_%28CVN-78%29%2C_TCG_Anadolu_%28L-400%29%2C_TCG_Goksu_%28F-497%29%2C_TCG_Gediz_%28F-495%29%2C_USS_Normandy_%28CG-_60%29.jpg/1280px-USS_Gerald_R._Ford_%28CVN-78%29%2C_TCG_Anadolu_%28L-400%29%2C_TCG_Goksu_%28F-497%29%2C_TCG_Gediz_%28F-495%29%2C_USS_Normandy_%28CG-_60%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/21/USS_Gerald_R._Ford_%28CVN-78%29%2C_TCG_Anadolu_%28L-400%29%2C_TCG_Goksu_%28F-497%29%2C_TCG_Gediz_%28F-495%29%2C_USS_Normandy_%28CG-_60%29.jpg",
+      "width": 1999,
+      "height": 1333,
+      "title": "USS Gerald R. Ford (CVN-78), TCG Anadolu (L-400), TCG Goksu (F-497), TCG Gediz (F-495), USS Normandy (CG- 60).jpg",
+      "description": "The world's largest aircraft carrier USS Gerald R. Ford (CVN 78), the Turkish Navy amphibious assault ship TCG Anadolu (L400), the Turkish Navy frigate TCG Goksu (F497), the Turkish Navy frigate TCG G",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/USS_Gerald_R._Ford_%28CVN-78%29_and_TCG_Anadolu_%28L-400%29_in_the_Mediterranean_Sea_21_August_2023.jpg/1280px-USS_Gerald_R._Ford_%28CVN-78%29_and_TCG_Anadolu_%28L-400%29_in_the_Mediterranean_Sea_21_August_2023.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/USS_Gerald_R._Ford_%28CVN-78%29_and_TCG_Anadolu_%28L-400%29_in_the_Mediterranean_Sea_21_August_2023.jpg",
+      "width": 2000,
+      "height": 1333,
+      "title": "USS Gerald R. Ford (CVN-78) and TCG Anadolu (L-400) in the Mediterranean Sea 21 August 2023.jpg",
+      "description": "The world's largest aircraft carrier USS Gerald R. Ford (CVN 78) and the Turkish Navy amphibious assault ship TCG Anadolu (L400) steam in formation in the Mediterranean Sea, Aug. 21, 2023. Forces from",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/USS_Gerald_R._Ford_%28CVN_78%29%2C_TCG_Anadolu_%28L400%29%2C_TCG_Goksu_%28F497%29%2C_TCG_Gediz_%28F495%29%2C_USS_Normandy_%28CG_60%29%2C_21_August_2023.jpg/1280px-USS_Gerald_R._Ford_%28CVN_78%29%2C_TCG_Anadolu_%28L400%29%2C_TCG_Goksu_%28F497%29%2C_TCG_Gediz_%28F495%29%2C_USS_Normandy_%28CG_60%29%2C_21_August_2023.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/de/USS_Gerald_R._Ford_%28CVN_78%29%2C_TCG_Anadolu_%28L400%29%2C_TCG_Goksu_%28F497%29%2C_TCG_Gediz_%28F495%29%2C_USS_Normandy_%28CG_60%29%2C_21_August_2023.jpg",
+      "width": 2000,
+      "height": 1333,
+      "title": "USS Gerald R. Ford (CVN 78), TCG Anadolu (L400), TCG Goksu (F497), TCG Gediz (F495), USS Normandy (CG 60), 21 August 2023.jpg",
+      "description": "The world's largest aircraft carrier USS Gerald R. Ford (CVN 78), the Turkish Navy amphibious assault ship TCG Anadolu (L400), the Turkish Navy frigate TCG Goksu (F497), the Turkish Navy frigate TCG G",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/USS_Gerald_R._Ford_%28CVN_78%29%2C_TCG_Anadolu_%28L400%29%2C_TCG_Goksu_%28F497%29%2C_TCG_Gediz_%28F495%29%2C_and_USS_Normandy_%28CG_60%29.jpg/1280px-USS_Gerald_R._Ford_%28CVN_78%29%2C_TCG_Anadolu_%28L400%29%2C_TCG_Goksu_%28F497%29%2C_TCG_Gediz_%28F495%29%2C_and_USS_Normandy_%28CG_60%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/0d/USS_Gerald_R._Ford_%28CVN_78%29%2C_TCG_Anadolu_%28L400%29%2C_TCG_Goksu_%28F497%29%2C_TCG_Gediz_%28F495%29%2C_and_USS_Normandy_%28CG_60%29.jpg",
+      "width": 1999,
+      "height": 1333,
+      "title": "USS Gerald R. Ford (CVN 78), TCG Anadolu (L400), TCG Goksu (F497), TCG Gediz (F495), and USS Normandy (CG 60).jpg",
+      "description": "The world's largest aircraft carrier USS Gerald R. Ford (CVN 78), the Turkish Navy amphibious assault ship TCG Anadolu (L400), the Turkish Navy frigate TCG Goksu (F497), the Turkish Navy frigate TCG G",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Scale_model_of_TCG_Anadolu_%28L-400%29.jpg/1280px-Scale_model_of_TCG_Anadolu_%28L-400%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/18/Scale_model_of_TCG_Anadolu_%28L-400%29.jpg",
+      "width": 3687,
+      "height": 2074,
+      "title": "Scale model of TCG Anadolu (L-400).jpg",
+      "description": "Scale model of TCG Anadolu (L-400).",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Turkish_Navy_amphibious_assault_ship_TCG_Anadolu_%28L400%29_%28starboard%29.jpg/1280px-Turkish_Navy_amphibious_assault_ship_TCG_Anadolu_%28L400%29_%28starboard%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/80/Turkish_Navy_amphibious_assault_ship_TCG_Anadolu_%28L400%29_%28starboard%29.jpg",
+      "width": 2616,
+      "height": 1744,
+      "title": "Turkish Navy amphibious assault ship TCG Anadolu (L400) (starboard).jpg",
+      "description": "The Turkish Navy amphibious assault ship TCG Anadolu (L400) steams in the Mediterranean Sea, Aug. 21, 2023. Anadolu steamed in formation with the world's largest aircraft carrier USS Gerald R. Ford (C",
+      "license": "Public domain",
+      "source": "wikimedia"
+    }
+  ]
+}

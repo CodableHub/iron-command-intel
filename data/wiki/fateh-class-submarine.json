@@ -114,6 +114,18 @@
   "updated_at": "2026-04-10T20:34:21.401023",
   "news": [
     {
+      "id": 321,
+      "platform_id": 65,
+      "article_hash": "a2e3f5e878faa123",
+      "title": "Trump says Strait of Hormuz to reopen \u2018soon\u2019 as US, Iran head to talks",
+      "url": "https://www.aljazeera.com/economy/2026/4/11/trump-says-strait-of-hormuz-to-reopen-soon-as-us-iran-head-to-talks?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "2026-04-11T03:06:18",
+      "relevance_score": 0.6,
+      "snippet": "Trump says Washington will not accept Iran&#039;s imposition of a de facto toll booth system in the critical waterway.",
+      "created_at": "2026-04-11 04:05:01"
+    },
+    {
       "id": 164,
       "platform_id": 65,
       "article_hash": "1b0a93b22b56e831",
@@ -318,6 +330,18 @@
       "created_at": "2026-04-10 20:39:16"
     },
     {
+      "id": 309,
+      "platform_id": 65,
+      "article_hash": "5f78d3b4bcf08318",
+      "title": "Trump issues expletive-laden threat to Iran demanding Strait of Hormuz be opened - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1QTENxSDJTbnRuQ2RpUzBqVmFhd0FNT29yQ3RBZDJTVUhMZUVpU1hXb2xhbXdNamdvbC1UODlaV0xENFFQdUdOLVV6TEtpcll6cjFZclFkZw?oc=5",
+      "source": "GNews (BBC)",
+      "published_at": "2026-04-04T16:44:45",
+      "relevance_score": 0.6,
+      "snippet": "Trump issues expletive-laden threat to Iran demanding Strait of Hormuz be opened - BBC",
+      "created_at": "2026-04-10 23:05:01"
+    },
+    {
       "id": 272,
       "platform_id": 65,
       "article_hash": "d41751ae0ab04bb1",
@@ -352,6 +376,18 @@
       "relevance_score": 0.6,
       "snippet": "German defense minister rules out naval deployment to Strait of Hormuz - Anadolu Ajans\u0131",
       "created_at": "2026-04-10 20:39:17"
+    },
+    {
+      "id": 325,
+      "platform_id": 65,
+      "article_hash": "378c4a17ae5df040",
+      "title": "Spain rules out participating in military operations in Strait of Hormuz - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZjJ3Q3FsTlZQRkhUazhYalZRdjVLdVpxdWpyZzd5ekZpbzJBUm1aM2xYaGMzdS1kc1h5dE04cXJPQjRrNDBqXzB0OHhKVmVsQmxxcmxULUlXc3oxeU5xSThHSmFaeHhmbFE3aWZZbTlEUDVYZ3NPR3g2SUNMRHpxcWo3d24tRk1GWlJkSUZ4ZVVqajFpM3RGLTJxMUFVbGkwbGdGWW9qVTg?oc=5",
+      "source": "GNews (Reuters)",
+      "published_at": "2026-03-16T07:00:00",
+      "relevance_score": 0.6,
+      "snippet": "Spain rules out participating in military operations in Strait of Hormuz - Reuters",
+      "created_at": "2026-04-11 06:05:01"
     },
     {
       "id": 300,

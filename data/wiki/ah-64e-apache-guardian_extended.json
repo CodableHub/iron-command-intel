@@ -1,0 +1,308 @@
+{
+  "combat_history": [
+    {
+      "date": "1989-12-20",
+      "operation": "Operation Just Cause",
+      "event": "First combat deployment in Panama invasion, limited engagement due to restrictive ROE and urban environment challenges",
+      "significance": "Revealed limitations in urban warfare and need for better coordination with ground forces"
+    },
+    {
+      "date": "1991-01-17",
+      "operation": "Operation Desert Storm",
+      "event": "AH-64As conducted deep strike mission destroying Iraqi radar sites, opening air corridor for coalition forces. Task Force Normandy mission proved deep attack concept",
+      "significance": "Validated Apache's strategic deep attack role and established reputation as premier attack helicopter"
+    },
+    {
+      "date": "2003-03-24",
+      "operation": "Operation Iraqi Freedom",
+      "event": "32 AH-64Ds from 11th Aviation Regiment attacked Iraqi Republican Guard positions near Karbala, one shot down, 30 damaged by small arms fire",
+      "significance": "Exposed vulnerability to coordinated small arms fire and need for better intelligence preparation"
+    },
+    {
+      "date": "2007-07-12",
+      "operation": "Operation Iraqi Freedom",
+      "event": "Apache crew engaged Reuters journalists and civilians in Baghdad, incident later revealed through WikiLeaks 'Collateral Murder' video",
+      "significance": "Highlighted challenges of target identification in urban environments and ROE complexity"
+    },
+    {
+      "date": "2014-08-08",
+      "operation": "Operation Inherent Resolve",
+      "event": "AH-64Es conducted first strikes against ISIS positions in Iraq, demonstrating precision engagement capabilities",
+      "significance": "Proved Guardian variant's enhanced sensor capabilities in counter-terrorism operations"
+    },
+    {
+      "date": "2020-01-03",
+      "operation": "Targeted killing",
+      "event": "Apache helicopters provided overwatch during Qasem Soleimani assassination strike at Baghdad International Airport",
+      "significance": "Demonstrated integration with joint special operations and precision strike capabilities"
+    }
+  ],
+  "modernization": [
+    {
+      "program": "Apache Version 6 (v6)",
+      "status": "in-progress",
+      "timeline": "2021-2028",
+      "description": "Major software and hardware upgrade including improved cyber resilience, enhanced MUM-T capabilities, cognitive decision aiding, and integration of future vertical lift technologies",
+      "impact": "Extends Apache relevance through 2040s with enhanced survivability and lethality"
+    },
+    {
+      "program": "Improved Turbine Engine Program (ITEP)",
+      "status": "planned",
+      "timeline": "2024-2030",
+      "description": "Next-generation T901 engines providing 50% more power, 25% better fuel efficiency, and improved high-altitude performance",
+      "impact": "Dramatically improves payload/range performance and high-altitude operations capability"
+    },
+    {
+      "program": "FARA Integration Studies",
+      "status": "cancelled",
+      "timeline": "2019-2023",
+      "description": "Studies on Apache coordination with Future Attack Reconnaissance Aircraft, programme cancelled in 2023",
+      "impact": "Apache must now fill reconnaissance gap until alternative solutions emerge"
+    },
+    {
+      "program": "Spike NLOS Integration",
+      "status": "planned",
+      "timeline": "2024-2026",
+      "description": "Integration of Israeli Spike Non-Line of Sight missiles for extended range precision strikes up to 32km",
+      "impact": "Provides standoff capability against advanced air defense systems"
+    }
+  ],
+  "vulnerabilities": [
+    {
+      "area": "Advanced Air Defense Systems",
+      "description": "Limited survivability against modern SAM systems like S-400, advanced MANPADS, and integrated air defense networks due to large radar/IR signature",
+      "context": "Near-peer adversaries have specifically designed counter-helicopter tactics and weapons based on Apache operations in Iraq/Afghanistan",
+      "mitigation": "Standoff weapons integration, improved countermeasures, tactics emphasizing terrain masking and rapid displacement"
+    },
+    {
+      "area": "Electronic Warfare",
+      "description": "Vulnerable to sophisticated jamming and cyber attacks targeting datalinks, GPS, and MUM-T communications systems",
+      "context": "Growing electronic warfare capabilities of adversaries threaten network-dependent operations model",
+      "mitigation": "Version 6 upgrade includes improved cyber resilience and anti-jamming capabilities"
+    },
+    {
+      "area": "Logistics Footprint",
+      "description": "Complex maintenance requirements and heavy logistics tail limit deployability and operational tempo in austere environments",
+      "context": "Peer conflict scenarios require rapid deployment and sustained operations with limited logistics infrastructure",
+      "mitigation": "Ongoing efforts to reduce maintenance burden and improve reliability, but fundamental complexity remains"
+    },
+    {
+      "area": "Pilot Training Pipeline",
+      "description": "Extended training timeline (18+ months) and high cost create pilot shortage and limit surge capacity",
+      "context": "High-intensity conflict would rapidly deplete experienced crews while new pilot production cannot keep pace",
+      "mitigation": "Simulator improvements and training efficiency initiatives, but timeline compression has safety implications"
+    }
+  ],
+  "operational_patterns": {
+    "typical_deployment": "Aviation brigades of 24-30 aircraft, typically deployed as company teams of 8-10 aircraft supporting brigade combat teams",
+    "deployment_length_months": 9,
+    "key_operating_areas": [
+      "Middle East",
+      "Eastern Europe",
+      "Korea",
+      "Training rotations CONUS"
+    ],
+    "typical_task_group": "Combined with UH-60 Black Hawks and CH-47 Chinooks in Combat Aviation Brigades, coordinates with ground maneuver units",
+    "readiness_notes": "Readiness rates fluctuate between 60-75% due to parts shortages and maintenance complexity, particularly for older D-model aircraft"
+  },
+  "peer_comparisons": [
+    {
+      "platform": "Ka-52 Alligator",
+      "country": "Russia",
+      "relationship": "direct rival",
+      "key_differences": "Coaxial rotors provide better high-altitude performance and eliminate tail rotor vulnerability, but less sophisticated sensors and limited precision weapons compared to Apache. Side-by-side seating vs tandem.",
+      "video_angle": "Apache vs Ka-52: Western precision vs Russian survivability design philosophies in Ukraine conflict context"
+    },
+    {
+      "platform": "Z-10 Thunderbolt",
+      "country": "China",
+      "relationship": "direct rival",
+      "key_differences": "Lighter, more agile platform but less powerful engines and weapons payload. Limited combat experience compared to Apache's extensive operational history. Growing capabilities but still technology gap.",
+      "video_angle": "Apache Guardian vs Z-10: Battle-tested veteran vs emerging challenger in Pacific scenarios"
+    },
+    {
+      "platform": "Tiger HAD/HAP",
+      "country": "France/Germany",
+      "relationship": "allied equivalent",
+      "key_differences": "Smaller, lighter European design optimized for air-to-air combat with Mistral missiles. Less armor and firepower than Apache but better air-to-air capability. Limited by smaller European defense budgets.",
+      "video_angle": "Why Europe chose the Tiger over buying more Apaches: capability gaps and industrial politics"
+    },
+    {
+      "platform": "AH-1Z Viper",
+      "country": "United States",
+      "relationship": "allied equivalent",
+      "key_differences": "Marine Corps platform with better maritime operations capability and twin engines vs Apache's single-engine equivalence. Lighter payload but better speed and agility. Different operational philosophy.",
+      "video_angle": "Apache vs Viper: Army power vs Marine speed in competing U.S. attack helicopter philosophies"
+    },
+    {
+      "platform": "Mi-28NM Havoc",
+      "country": "Russia",
+      "relationship": "direct rival",
+      "key_differences": "Heavy armor emphasis and night/adverse weather capability, but less sophisticated sensor integration. Dual-pilot configuration provides redundancy but reduces internal volume. Limited precision weapons.",
+      "video_angle": "Apache vs Havoc: High-tech American networking vs Russian battlefield survivability approaches"
+    }
+  ],
+  "search_keywords": [
+    "apache helicopter",
+    "AH-64",
+    "AH64",
+    "apache guardian",
+    "longbow apache",
+    "boeing apache",
+    "attack helicopter",
+    "hellfire missile",
+    "army aviation"
+  ],
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Army_Raptors_educate_Sailors_on_Army_refueling_150317-A-XP915-001.jpg/1280px-Army_Raptors_educate_Sailors_on_Army_refueling_150317-A-XP915-001.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/10/Army_Raptors_educate_Sailors_on_Army_refueling_150317-A-XP915-001.jpg",
+      "width": 4752,
+      "height": 3168,
+      "title": "Army Raptors educate Sailors on Army refueling 150317-A-XP915-001.jpg",
+      "description": "Army Sgt. Carlos Diaz, 16th Combat Aviation Brigade rapid refuel point noncommissioned officer in charge, explains AH-64E Apache helicopter refueling procedures to Navy fuelers from the U.S.S. John C.",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/RIMPAC_2014_140719-N-HU377-071.jpg/1280px-RIMPAC_2014_140719-N-HU377-071.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/6b/RIMPAC_2014_140719-N-HU377-071.jpg",
+      "width": 3952,
+      "height": 2552,
+      "title": "RIMPAC 2014 140719-N-HU377-071.jpg",
+      "description": "Two U.S. Army AH-64E Apache Guardian helicopters assigned to the 1st Battalion, 25th Aviation Regiment, Combat Aviation Brigade, 25th Infantry Division prepare to launch from the flight deck of the am",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/RIMPAC_2014_140719-N-HU377-105.jpg/1280px-RIMPAC_2014_140719-N-HU377-105.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/79/RIMPAC_2014_140719-N-HU377-105.jpg",
+      "width": 3430,
+      "height": 2336,
+      "title": "RIMPAC 2014 140719-N-HU377-105.jpg",
+      "description": "U.S. Navy Aviation Boatswain's Mate 3rd Class Robert Miller launches an Army AH-64E Apache Guardian helicopter assigned to the 1st Battalion, 25th Aviation Regiment, Combat Aviation Brigade, 25th Infa",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/ROCA_AH-64E_819_Display_at_Navy_Fleet_Command_Ground_20161112a.jpg/1280px-ROCA_AH-64E_819_Display_at_Navy_Fleet_Command_Ground_20161112a.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/ROCA_AH-64E_819_Display_at_Navy_Fleet_Command_Ground_20161112a.jpg",
+      "width": 4843,
+      "height": 3027,
+      "title": "ROCA AH-64E 819 Display at Navy Fleet Command Ground 20161112a.jpg",
+      "description": "\u200b2016\u5e74\u5de6\u71df\u8ecd\u6e2f\u71df\u5340\u958b\u653e\u6d3b\u52d5\u4e0b\u5348\uff0c\u8266\u968a\u6307\u63ee\u90e8\u64cd\u5834\u5c55\u793a\u4e4b\u9678\u8ecdAH-64E 819\u963f\u5e15\u5951\u653b\u64ca\u76f4\u5347\u6a5f\u3002",
+      "license": "CC0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/ROCA_AH-64E_819_Display_at_Navy_Fleet_Command_Ground_20161112b.jpg/1280px-ROCA_AH-64E_819_Display_at_Navy_Fleet_Command_Ground_20161112b.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/7e/ROCA_AH-64E_819_Display_at_Navy_Fleet_Command_Ground_20161112b.jpg",
+      "width": 4896,
+      "height": 3264,
+      "title": "ROCA AH-64E 819 Display at Navy Fleet Command Ground 20161112b.jpg",
+      "description": "\u200b2016\u5e74\u5de6\u71df\u8ecd\u6e2f\u71df\u5340\u958b\u653e\u6d3b\u52d5\u4e0b\u5348\uff0c\u8266\u968a\u6307\u63ee\u90e8\u64cd\u5834\u5c55\u793a\u4e4b\u9678\u8ecdAH-64E 819\u963f\u5e15\u5951\u653b\u64ca\u76f4\u5347\u6a5f\u5de6\u5f8c\u65b9\u3002",
+      "license": "CC0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/USS_George_H.W._Bush_%28CVN_77%29_140825-N-MW819-171_%2815127446932%29.jpg/1280px-USS_George_H.W._Bush_%28CVN_77%29_140825-N-MW819-171_%2815127446932%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/83/USS_George_H.W._Bush_%28CVN_77%29_140825-N-MW819-171_%2815127446932%29.jpg",
+      "width": 2119,
+      "height": 1410,
+      "title": "USS George H.W. Bush (CVN 77) 140825-N-MW819-171 (15127446932).jpg",
+      "description": "ARABIAN GULF (Aug. 25, 2014) An AH-64E Apache Guardian helicopter attached to 3rd Battalion, 159th Attack Reconnaissance Battalion, conducts operations with the aircraft carrier USS George H.W. Bush (",
+      "license": "CC BY 2.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/USS_George_H.W._Bush_%28CVN_77%29_140825-N-MW819-173_%2814941260098%29.jpg/1280px-USS_George_H.W._Bush_%28CVN_77%29_140825-N-MW819-173_%2814941260098%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/USS_George_H.W._Bush_%28CVN_77%29_140825-N-MW819-173_%2814941260098%29.jpg",
+      "width": 2389,
+      "height": 1590,
+      "title": "USS George H.W. Bush (CVN 77) 140825-N-MW819-173 (14941260098).jpg",
+      "description": "ARABIAN GULF (Aug. 25, 2014) An AH-64E Apache Guardian helicopter attached to 3rd Battalion, 159th Attack Reconnaissance Battalion, lands on the flight deck of the aircraft carrier USS George H.W. Bus",
+      "license": "CC BY 2.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/12th_CAB_Soldiers_perform_500-hour_phase_maintenance_on_AH-64E_Apache_%289500168%29.jpg/1280px-12th_CAB_Soldiers_perform_500-hour_phase_maintenance_on_AH-64E_Apache_%289500168%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/12th_CAB_Soldiers_perform_500-hour_phase_maintenance_on_AH-64E_Apache_%289500168%29.jpg",
+      "width": 5808,
+      "height": 3872,
+      "title": "12th CAB Soldiers perform 500-hour phase maintenance on AH-64E Apache (9500168).jpg",
+      "description": "U.S. Army Staff Sgt. Jorge Ortega, assigned to the 2-159th Attack Battalion, 12th Combat Aviation Brigade, inspects an AH-64E Apache helicopter during a 500-hour phase maintenance inspection at Katter",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/60/Helikopter_AH-64E_Apache_Guardian_TNI_AD_1.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/60/Helikopter_AH-64E_Apache_Guardian_TNI_AD_1.jpg",
+      "width": 840,
+      "height": 558,
+      "title": "Helikopter AH-64E Apache Guardian TNI AD 1.jpg",
+      "description": "AH-64E Apache Guardian attack helicopter of the Indonesian Army.",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Helikopter_AH-64E_Apache_Guardian_TNI_AD_2.jpg/1280px-Helikopter_AH-64E_Apache_Guardian_TNI_AD_2.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Helikopter_AH-64E_Apache_Guardian_TNI_AD_2.jpg",
+      "width": 2048,
+      "height": 1360,
+      "title": "Helikopter AH-64E Apache Guardian TNI AD 2.jpg",
+      "description": "AH-64E Apache Guardian attack helicopter of the Indonesian Army.",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Helikopter_Serang_AH-64E_Apache_Guardian_TNI_AD_meluncurkan_rudal_AGM-114R3_Hellfire.jpg/1280px-Helikopter_Serang_AH-64E_Apache_Guardian_TNI_AD_meluncurkan_rudal_AGM-114R3_Hellfire.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Helikopter_Serang_AH-64E_Apache_Guardian_TNI_AD_meluncurkan_rudal_AGM-114R3_Hellfire.jpg",
+      "width": 1600,
+      "height": 854,
+      "title": "Helikopter Serang AH-64E Apache Guardian TNI AD meluncurkan rudal AGM-114R3 Hellfire.jpg",
+      "description": "Indonesian Army Aviation AH-64E Apache Guardian Attack Helicopter provides fire support by launching AGM-114R3 Hellfire missiles",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Induction_Of_AH-64E_Apache_Attack_Helicopter_in_Indian_Air_Force.jpg/1280px-Induction_Of_AH-64E_Apache_Attack_Helicopter_in_Indian_Air_Force.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Induction_Of_AH-64E_Apache_Attack_Helicopter_in_Indian_Air_Force.jpg",
+      "width": 1800,
+      "height": 1200,
+      "title": "Induction Of AH-64E Apache Attack Helicopter in Indian Air Force.jpg",
+      "description": "Today, the IAF formally inducted the AH-64E Apache Attack Helicopter into its inventory at Air Force Station Pathankot. Air Chief Marshal BS Dhanoa PVSM AVSM YSM VM ADC, Chairman Chiefs of Staff Commi",
+      "license": "GODL-India",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Induction_Of_AH-64E_Apache_Attack_Helicopter_in_Indian_Air_Force_%281%29.jpg/1280px-Induction_Of_AH-64E_Apache_Attack_Helicopter_in_Indian_Air_Force_%281%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Induction_Of_AH-64E_Apache_Attack_Helicopter_in_Indian_Air_Force_%281%29.jpg",
+      "width": 2200,
+      "height": 1200,
+      "title": "Induction Of AH-64E Apache Attack Helicopter in Indian Air Force (1).jpg",
+      "description": "Today, the IAF formally inducted the AH-64E Apache Attack Helicopter into its inventory at Air Force Station Pathankot. Air Chief Marshal BS Dhanoa PVSM AVSM YSM VM ADC, Chairman Chiefs of Staff Commi",
+      "license": "GODL-India",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Induction_Of_AH-64E_Apache_Attack_Helicopter_in_Indian_Air_Force_%282%29.jpg/1280px-Induction_Of_AH-64E_Apache_Attack_Helicopter_in_Indian_Air_Force_%282%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Induction_Of_AH-64E_Apache_Attack_Helicopter_in_Indian_Air_Force_%282%29.jpg",
+      "width": 2200,
+      "height": 1200,
+      "title": "Induction Of AH-64E Apache Attack Helicopter in Indian Air Force (2).jpg",
+      "description": "Today, the IAF formally inducted the AH-64E Apache Attack Helicopter into its inventory at Air Force Station Pathankot. Air Chief Marshal BS Dhanoa PVSM AVSM YSM VM ADC, Chairman Chiefs of Staff Commi",
+      "license": "GODL-India",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Representatives_of_Indian_Air_Force_for_accepting_the_first_AH-64E_%28I%29_Apache_Guardian_helicopter_from_Boeing_and_US_government_-_2.jpg/1280px-Representatives_of_Indian_Air_Force_for_accepting_the_first_AH-64E_%28I%29_Apache_Guardian_helicopter_from_Boeing_and_US_government_-_2.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Representatives_of_Indian_Air_Force_for_accepting_the_first_AH-64E_%28I%29_Apache_Guardian_helicopter_from_Boeing_and_US_government_-_2.jpg",
+      "width": 1676,
+      "height": 1491,
+      "title": "Representatives of Indian Air Force for accepting the first AH-64E (I) Apache Guardian helicopter from Boeing and US government - 2.jpg",
+      "description": "Air Marshal A.S. Butola accepting the first AH-64E (I) Apache Guardian helicopter from Mr. Steve Wade, the Vice President for Attack Helicopter Programs, Boeing, during a ceremony held at Boeing produ",
+      "license": "GODL-India",
+      "source": "wikimedia"
+    }
+  ]
+}

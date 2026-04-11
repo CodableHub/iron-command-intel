@@ -1,0 +1,302 @@
+{
+  "combat_history": [
+    {
+      "date": "2017-09",
+      "operation": "Hurricane Irma Response",
+      "event": "USNS Spearhead and USNS Carson City conducted humanitarian assistance operations in the Caribbean, transporting emergency supplies and personnel to hurricane-damaged islands",
+      "significance": "Demonstrated EPF capability for rapid humanitarian response and operations in austere ports"
+    },
+    {
+      "date": "2019-05",
+      "operation": "Counter-narcotics operations",
+      "event": "Multiple EPFs supported U.S. Southern Command counter-drug operations, providing mobile platform for Coast Guard and DEA interdiction teams",
+      "significance": "Showed flexibility of mission bay configuration for non-traditional warfare missions"
+    },
+    {
+      "date": "2020-03",
+      "operation": "COVID-19 Response",
+      "event": "USNS Burlington and USNS Yuma reconfigured as medical transport vessels, evacuating personnel from COVID-affected areas",
+      "significance": "Highlighted rapid reconfiguration capability and medical transport potential"
+    },
+    {
+      "date": "2021-08",
+      "operation": "Operation Allies Refuge",
+      "event": "USNS Puerto Rico transported evacuees and supplies during Afghanistan withdrawal operations via Middle Eastern ports",
+      "significance": "Demonstrated strategic mobility in time-sensitive evacuation scenarios"
+    }
+  ],
+  "modernization": [
+    {
+      "program": "Mission Equipment Package (MEP) Integration",
+      "status": "in-progress",
+      "timeline": "2020-2025",
+      "description": "Installation of containerized mission modules for medical, command and control, and special operations support configurations",
+      "impact": "Significantly increases mission flexibility and reduces reconfiguration time"
+    },
+    {
+      "program": "Enhanced Communications Upgrade",
+      "status": "completed",
+      "timeline": "2019-2022",
+      "description": "Installation of improved SATCOM and tactical data links on Flight II vessels and retrofit to Flight I",
+      "impact": "Better integration with joint and coalition forces operations"
+    },
+    {
+      "program": "Defensive Systems Evaluation",
+      "status": "planned",
+      "timeline": "2024-2026",
+      "description": "Study of bolt-on defensive systems including small caliber guns and electronic warfare packages",
+      "impact": "Could extend operational envelope into medium-threat environments"
+    }
+  ],
+  "vulnerabilities": [
+    {
+      "area": "Survivability",
+      "description": "Aluminum construction with minimal compartmentalization makes vessels extremely vulnerable to any weapon hit, including small arms fire",
+      "context": "In contested littorals, even small boat attacks or shore-based fires could disable or destroy EPFs",
+      "mitigation": "Operational doctrine emphasizes sea control establishment before EPF employment"
+    },
+    {
+      "area": "Self-defense capability",
+      "description": "Only four manually-operated .50 caliber machine guns provide virtually no defense against aerial, missile, or coordinated surface threats",
+      "context": "Cannot operate in environments with even minimal air or missile threats without escort",
+      "mitigation": "Considering bolt-on defensive systems but weight and power limitations are significant"
+    },
+    {
+      "area": "Fuel consumption",
+      "description": "High-speed operations consume 30+ tons of fuel per day, limiting sustained operations range and requiring frequent refueling",
+      "context": "Distributed operations in the Pacific require extensive fuel logistics support",
+      "mitigation": "Speed/range optimization procedures and forward fuel positioning"
+    },
+    {
+      "area": "Weather limitations",
+      "description": "Catamaran hull design creates significant crew fatigue and cargo securing challenges in Sea State 4+ conditions",
+      "context": "Limits operational availability in North Pacific and North Atlantic environments",
+      "mitigation": "Route planning around weather patterns and crew rest protocols"
+    }
+  ],
+  "operational_patterns": {
+    "typical_deployment": "Theater shuttle service between secure ports, humanitarian assistance, special operations support",
+    "deployment_length_months": 4,
+    "key_operating_areas": [
+      "Caribbean",
+      "Eastern Pacific",
+      "Central Pacific",
+      "Mediterranean",
+      "Arabian Gulf"
+    ],
+    "typical_task_group": "Operates independently or with Amphibious Ready Groups for distributed operations",
+    "readiness_notes": "High operational tempo has led to increased maintenance requirements; aluminum hull repairs require specialized facilities"
+  },
+  "peer_comparisons": [
+    {
+      "platform": "HMAS Adelaide-class Landing Helicopter Dock",
+      "country": "Australia",
+      "relationship": "allied equivalent",
+      "key_differences": "Adelaide-class prioritizes sea control and survivability over speed, with full flight deck and well deck but only 18-knot speed. EPFs trade survivability for rapid theater mobility.",
+      "video_angle": "Speed vs. survivability trade-offs in expeditionary warfare"
+    },
+    {
+      "platform": "Type 071 Yuzhao-class Landing Platform Dock",
+      "country": "China",
+      "relationship": "mission overlap",
+      "key_differences": "Type 071 is heavily armed amphibious assault ship with air defense systems and well deck, designed for contested landings. EPF focuses on uncontested logistics with minimal armament.",
+      "video_angle": "Contested vs. uncontested amphibious operations philosophy"
+    },
+    {
+      "platform": "Littoral Combat Ship Freedom/Independence-class",
+      "country": "United States",
+      "relationship": "complementary platform",
+      "key_differences": "LCS designed for combat operations with advanced sensors and weapons systems, while EPF optimized for logistics. Both emphasize speed and modularity but serve different mission sets.",
+      "video_angle": "High-speed naval platform design trade-offs"
+    },
+    {
+      "platform": "Bay-class Landing Ship Dock",
+      "country": "United Kingdom",
+      "relationship": "mission equivalent",
+      "key_differences": "Bay-class conventional monohull design with well dock and defensive armament but limited to 18 knots. EPFs sacrifice amphibious assault capability for high-speed point-to-point transport.",
+      "video_angle": "Traditional vs. revolutionary approaches to expeditionary transport"
+    },
+    {
+      "platform": "Mistral-class Amphibious Assault Ship",
+      "country": "France",
+      "relationship": "capability overlap",
+      "key_differences": "Mistral is full-capability amphibious assault ship with hospital, command facilities, and heavy helicopter support but much slower. EPF provides rapid tactical mobility without assault capability.",
+      "video_angle": "Multi-mission vs. specialized platform design philosophy"
+    }
+  ],
+  "search_keywords": [
+    "spearhead class",
+    "EPF",
+    "T-EPF",
+    "expeditionary fast transport",
+    "spearhead-class",
+    "JHSV",
+    "joint high speed vessel",
+    "austal",
+    "catamaran transport",
+    "military sealift command",
+    "MSC"
+  ],
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/USNS_Brunswick_%28T-EPF-6%29_launch_19_May_2015.png/1280px-USNS_Brunswick_%28T-EPF-6%29_launch_19_May_2015.png",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/6b/USNS_Brunswick_%28T-EPF-6%29_launch_19_May_2015.png",
+      "width": 1454,
+      "height": 968,
+      "title": "USNS Brunswick (T-EPF-6) launch 19 May 2015.png",
+      "description": "The United States Navy expeditionary fast transport USNS Brunswick (EPF-6) is launched at the Austal USA shipyard in Mobile, Alabama..",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/USNS_Brunswick_%28T-EPF-6%29_launched_Austal_USA_shipyard_19_May_2015.png",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/USNS_Brunswick_%28T-EPF-6%29_launched_Austal_USA_shipyard_19_May_2015.png",
+      "width": 1012,
+      "height": 673,
+      "title": "USNS Brunswick (T-EPF-6) launched Austal USA shipyard 19 May 2015.png",
+      "description": "The United States Navy expeditionary fast transport USNS Brunswick (T-EPF-6) is launched at the Austal USA shipyard in Mobile. Alabama.",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/USNS_Burlington_%28T-EPF_10%29.jpg/1280px-USNS_Burlington_%28T-EPF_10%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/56/USNS_Burlington_%28T-EPF_10%29.jpg",
+      "width": 3152,
+      "height": 2098,
+      "title": "USNS Burlington (T-EPF 10).jpg",
+      "description": "CARIBBEAN SEA (Aug. 25, 2021) The Spearhead-class expeditionary fast transport ship USNS Burlington (T-EPF 10) operates off the coast of Haiti, Aug. 25, 2021. Burlington is deployed to U.S. Naval Forc",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/USNS_City_of_Bismarck_%28T-EPF-9%29.jpg/1280px-USNS_City_of_Bismarck_%28T-EPF-9%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/b8/USNS_City_of_Bismarck_%28T-EPF-9%29.jpg",
+      "width": 4582,
+      "height": 3022,
+      "title": "USNS City of Bismarck (T-EPF-9).jpg",
+      "description": "PORT HUENEME, Calif. (NNS) (Dec. 18, 2022) The Spearhead-class expeditionary fast transport USNS City of Bismarck (T-EPF-9) makes a port call onboard Naval Base Ventura County (NBVC) Port Hueneme. Bis",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/USNS_Spearhead_%28T-EPF-1%29%2C_USNS_Choctaw_County_%28T-EPF-2%29_and_USNS_Fall_River_%28T-EPF-4%29_moored_at_Little_Creek_in_May_2015.JPG/1280px-USNS_Spearhead_%28T-EPF-1%29%2C_USNS_Choctaw_County_%28T-EPF-2%29_and_USNS_Fall_River_%28T-EPF-4%29_moored_at_Little_Creek_in_May_2015.JPG",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/USNS_Spearhead_%28T-EPF-1%29%2C_USNS_Choctaw_County_%28T-EPF-2%29_and_USNS_Fall_River_%28T-EPF-4%29_moored_at_Little_Creek_in_May_2015.JPG",
+      "width": 6016,
+      "height": 4000,
+      "title": "USNS Spearhead (T-EPF-1), USNS Choctaw County (T-EPF-2) and USNS Fall River (T-EPF-4) moored at Little Creek in May 2015.JPG",
+      "description": "Expeditionary Fast Transport vessels, USNS <i>Spearhead</i> (T-EPF-1), USNS <i>Choctaw County</i> (T-EPF-2), and USNS <i>Fall River</i> (T-EPF-4) moored at Joint Expeditionary Base Little Creek-Fort S",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/USNS_Trenton_%28T-EPF-5%29_and_USNS_Brunswick_%28T-EPF-6%29_moored_at_JEB_Little_Creek-Fort_Story_on_22_April_2016.JPG/1280px-USNS_Trenton_%28T-EPF-5%29_and_USNS_Brunswick_%28T-EPF-6%29_moored_at_JEB_Little_Creek-Fort_Story_on_22_April_2016.JPG",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/58/USNS_Trenton_%28T-EPF-5%29_and_USNS_Brunswick_%28T-EPF-6%29_moored_at_JEB_Little_Creek-Fort_Story_on_22_April_2016.JPG",
+      "width": 2880,
+      "height": 1920,
+      "title": "USNS Trenton (T-EPF-5) and USNS Brunswick (T-EPF-6) moored at JEB Little Creek-Fort Story on 22 April 2016.JPG",
+      "description": "The U.S. Military Sealift Command Expeditionary Fast Transport vessels, USNS <i>Trenton</i> (T-EPF-5) and USNS <i>Brunswick</i> (T-EPF-6) moored at Joint Expeditionary Base Little Creek-Fort Story.",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/US_Navy_170701-N-OH262-002_USNS_Yuma_%28T-EPF-8%29_pier-side.jpg/1280px-US_Navy_170701-N-OH262-002_USNS_Yuma_%28T-EPF-8%29_pier-side.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/14/US_Navy_170701-N-OH262-002_USNS_Yuma_%28T-EPF-8%29_pier-side.jpg",
+      "width": 4832,
+      "height": 3451,
+      "title": "US Navy 170701-N-OH262-002 USNS Yuma (T-EPF-8) pier-side.jpg",
+      "description": "VIRGINIA BEACH, Va. (July 1, 2017)--A view of Military Sealift Command's expeditionary fast transport ship USNS Yuma (EPF 8) pier-side onboard Joint Expeditionary Base Little Creek-Fort Story, July 1.",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/US_Navy_240716-N-N2201-001_USNS_Cody_%28T-EPF-14%29.jpg/1280px-US_Navy_240716-N-N2201-001_USNS_Cody_%28T-EPF-14%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/df/US_Navy_240716-N-N2201-001_USNS_Cody_%28T-EPF-14%29.jpg",
+      "width": 1500,
+      "height": 844,
+      "title": "US Navy 240716-N-N2201-001 USNS Cody (T-EPF-14).jpg",
+      "description": "MOBILE, Alabama (May 2, 2024) USNS Cody (T-EPF 14) moored pier side in the harbor at Austal USA\u2019s shipyard in Mobile, Alabama. Cody is configured to embark the first Expeditionary Medical Unit (EMU), ",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Galley_of_the_expeditionary_fast_transport_vessel_USNS_Spearhead_%28T-EPF_1%29.jpg/1280px-Galley_of_the_expeditionary_fast_transport_vessel_USNS_Spearhead_%28T-EPF_1%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Galley_of_the_expeditionary_fast_transport_vessel_USNS_Spearhead_%28T-EPF_1%29.jpg",
+      "width": 3504,
+      "height": 2336,
+      "title": "Galley of the expeditionary fast transport vessel USNS Spearhead (T-EPF 1).jpg",
+      "description": "180816-N-BY095-0022 ATLANTIC OCEAN (Aug 16, 2018) Culinary Specialist 2nd Class Matt Smith, from Chicago, Ill., prepares lunch aboard the expeditionary fast transport vessel USNS Spearhead (T-EPF 1). ",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Galley_of_the_expeditionary_fast_transport_vessel_USNS_Spearhead_%28T-EPF_1%29_-_180816-N-BY095-0022.jpg/1280px-Galley_of_the_expeditionary_fast_transport_vessel_USNS_Spearhead_%28T-EPF_1%29_-_180816-N-BY095-0022.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Galley_of_the_expeditionary_fast_transport_vessel_USNS_Spearhead_%28T-EPF_1%29_-_180816-N-BY095-0022.jpg",
+      "width": 4211,
+      "height": 2807,
+      "title": "Galley of the expeditionary fast transport vessel USNS Spearhead (T-EPF 1) - 180816-N-BY095-0022.jpg",
+      "description": "180816-N-BY095-0032 ATLANTIC OCEAN (Aug 16, 2018) Culinary Specialist 2nd Class Matt Smith, from Chicago, Ill., prepares lunch aboard the expeditionary fast transport vessel USNS Spearhead (T-EPF 1). ",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/II_Marine_Expeditionary_Force_Marine_Leave_the_USNS_Trenton_%287560731%29.jpg/1280px-II_Marine_Expeditionary_Force_Marine_Leave_the_USNS_Trenton_%287560731%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/37/II_Marine_Expeditionary_Force_Marine_Leave_the_USNS_Trenton_%287560731%29.jpg",
+      "width": 6411,
+      "height": 4274,
+      "title": "II Marine Expeditionary Force Marine Leave the USNS Trenton (7560731).jpg",
+      "description": "U.S. Marines assigned to II Marine Expeditionary Force disembark the Spearhead-class expeditionary fast transport USNS Trenton (T-EPF 5) in Spain, Dec. 6, concluding a month-long deployment aboard. Ma",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/II_Marine_Expeditionary_Force_Marine_Leave_the_USNS_Trenton_%287560734%29.jpg/1280px-II_Marine_Expeditionary_Force_Marine_Leave_the_USNS_Trenton_%287560734%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/II_Marine_Expeditionary_Force_Marine_Leave_the_USNS_Trenton_%287560734%29.jpg",
+      "width": 5933,
+      "height": 3955,
+      "title": "II Marine Expeditionary Force Marine Leave the USNS Trenton (7560734).jpg",
+      "description": "U.S. Marines assigned to II Marine Expeditionary Force pose for a photo in front of the Spearhead-class expeditionary fast transport USNS Trenton (T-EPF 5) in Spain, Dec. 6, concluding a month-long de",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Joint_High_Speed_Vessel_concept.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Joint_High_Speed_Vessel_concept.jpg",
+      "width": 740,
+      "height": 493,
+      "title": "Joint High Speed Vessel concept.jpg",
+      "description": "Joint High Speed Vessel concept image",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/65/Spearhead_class.png",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/65/Spearhead_class.png",
+      "width": 1213,
+      "height": 283,
+      "title": "Spearhead class.png",
+      "description": "Spearhead Class",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/42/USNS_Spearhead_%28JHSV-1%29_-_1.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/42/USNS_Spearhead_%28JHSV-1%29_-_1.jpg",
+      "width": 800,
+      "height": 476,
+      "title": "USNS Spearhead (JHSV-1) - 1.jpg",
+      "description": "USNS Spearhead (JHSV-1) during sea trials",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/USS_Tulsa_%28LCS-16%29_returns_to_Austal_USA_16_March_2016.png/1280px-USS_Tulsa_%28LCS-16%29_returns_to_Austal_USA_16_March_2016.png",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/USS_Tulsa_%28LCS-16%29_returns_to_Austal_USA_16_March_2016.png",
+      "width": 1450,
+      "height": 964,
+      "title": "USS Tulsa (LCS-16) returns to Austal USA 16 March 2016.png",
+      "description": "The United States Navy littoral combat ship USS Tulsa (LCS-16), lower left. passes two other littoral combat ships and an expeditionary fast transport at the Austal USA shipyard in Mobile, Alabam.",
+      "license": "Public domain",
+      "source": "wikimedia"
+    }
+  ]
+}

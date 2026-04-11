@@ -1,0 +1,185 @@
+{
+  "combat_history": [
+    {
+      "date": "2022",
+      "operation": "Enhanced Forward Presence",
+      "event": "Puma IFVs deployed to Lithuania as part of NATO deterrence mission against Russia",
+      "significance": "First operational deployment in high-tension environment, demonstrated NATO interoperability"
+    },
+    {
+      "date": "2022-12",
+      "operation": "Training Exercise",
+      "event": "All 18 Puma vehicles of a battalion failed during NATO exercise due to technical problems",
+      "significance": "Highlighted serious reliability issues, led to temporary grounding of fleet and investigation"
+    }
+  ],
+  "modernization": [
+    {
+      "program": "Puma Upgrade Program",
+      "status": "in-progress",
+      "timeline": "2023-2026",
+      "description": "Addressing reliability issues identified in 2022, upgrading electronics and improving maintainability",
+      "impact": "Should improve availability rates and reduce maintenance burden"
+    },
+    {
+      "program": "VJTF Lead Nation",
+      "status": "planned",
+      "timeline": "2025-2027",
+      "description": "Modifications to support Germany's role leading NATO's Very High Readiness Joint Task Force",
+      "impact": "Enhanced C4I capabilities and NATO interoperability standards"
+    }
+  ],
+  "vulnerabilities": [
+    {
+      "area": "Mechanical Reliability",
+      "description": "Complex systems prone to failure - entire battalions have been rendered non-operational during exercises",
+      "context": "Over-engineering has created maintenance nightmares that could prove catastrophic in sustained operations",
+      "mitigation": "Ongoing reliability improvement program, simplified maintenance procedures being developed"
+    },
+    {
+      "area": "Strategic Mobility",
+      "description": "At 43+ tonnes fully loaded, requires heavy transport and limits air mobility options",
+      "context": "Weight restricts deployment options and increases logistical footprint compared to lighter IFVs",
+      "mitigation": "Modular armor allows weight reduction for transport, but compromises protection"
+    },
+    {
+      "area": "Cost Sustainability",
+      "description": "At $17M per vehicle, replacement costs are prohibitive and limit procurement numbers",
+      "context": "High unit cost means losses in combat would be difficult to replace quickly",
+      "mitigation": "Germany exploring export sales to reduce unit costs through larger production runs"
+    }
+  ],
+  "operational_patterns": {
+    "typical_deployment": "Mechanized infantry battalions, NATO forward presence missions",
+    "deployment_length_months": 6,
+    "key_operating_areas": [
+      "Baltic States",
+      "Eastern Europe",
+      "Training areas in Germany"
+    ],
+    "typical_task_group": "Operates with Leopard 2 tanks in combined arms formations",
+    "readiness_notes": "Availability rates fluctuate between 40-70% due to maintenance issues"
+  },
+  "peer_comparisons": [
+    {
+      "platform": "M2A4 Bradley",
+      "country": "USA",
+      "relationship": "direct rival",
+      "key_differences": "Puma offers better protection and sensors but Bradley is more reliable and proven. Puma costs 3x more but provides superior survivability in high-threat environments.",
+      "video_angle": "Old reliable vs. high-tech gamble - is the Puma's advanced tech worth the reliability risks?"
+    },
+    {
+      "platform": "CV90 Mk IV",
+      "country": "Sweden",
+      "relationship": "direct rival",
+      "key_differences": "CV90 is lighter, more reliable, and significantly cheaper. Puma has better armor and sensors but CV90's modularity and proven track record appeal to many operators.",
+      "video_angle": "Nordic pragmatism vs. German over-engineering - which philosophy wins in modern warfare?"
+    },
+    {
+      "platform": "BMP-3M",
+      "country": "Russia",
+      "relationship": "opposing system",
+      "key_differences": "BMP-3M emphasizes firepower over protection, costs fraction of Puma. Puma's advanced fire control would dominate in direct engagement but BMP's numbers could overwhelm.",
+      "video_angle": "Quality vs quantity - can expensive Western IFVs handle mass Soviet-doctrine armor?"
+    },
+    {
+      "platform": "Ajax (SV)",
+      "country": "UK",
+      "relationship": "allied equivalent",
+      "key_differences": "Similar cost and complexity issues but Ajax focuses on reconnaissance. Both show pitfalls of over-ambitious military procurement programs.",
+      "video_angle": "When military procurement goes wrong - two cautionary tales of over-engineering"
+    }
+  ],
+  "search_keywords": [
+    "puma ifv",
+    "puma infantry fighting vehicle",
+    "spz puma",
+    "german ifv",
+    "bundeswehr puma",
+    "krauss maffei puma",
+    "rheinmetall puma",
+    "nato ifv"
+  ],
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Puma%2C_first_series.jpg/1280px-Puma%2C_first_series.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Puma%2C_first_series.jpg",
+      "width": 1648,
+      "height": 1267,
+      "title": "Puma, first series.jpg",
+      "description": "Infantry fighting vehicle Puma, one of the five pre-series. Note the lack of jammers on the PERI. Open day at German Army Training Centre, Munster 2015",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Puma_%28Puma_concolor_concolor%29_female_Leona_Amarga.jpg/1280px-Puma_%28Puma_concolor_concolor%29_female_Leona_Amarga.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Puma_%28Puma_concolor_concolor%29_female_Leona_Amarga.jpg",
+      "width": 6000,
+      "height": 4000,
+      "title": "Puma (Puma concolor concolor) female Leona Amarga.jpg",
+      "description": "Puma (<i>Puma concolor concolor</i>) female, Leona Amarga, Torres del Paine, Chile",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/29/Puma_IFV_Wettin_Sword_2022.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/29/Puma_IFV_Wettin_Sword_2022.jpg",
+      "width": 1024,
+      "height": 768,
+      "title": "Puma IFV Wettin Sword 2022.jpg",
+      "description": "German Armed Forces Puma (VJTF) infantry fighting vehicle from Panzergrenadier Brigade 37 on the road during military exercise \"Wettin Sword\" just after crossing the Elbe. This vehicle is equipped wit",
+      "license": "CC BY-SA 3.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Puma_IFV_camo.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Puma_IFV_camo.jpg",
+      "width": 1024,
+      "height": 768,
+      "title": "Puma IFV camo.jpg",
+      "description": "German Armed Forces IFV Puma camouflaged, cannon without ABM muzzle. Open Day at Field Marshal Rommel barracks, Augustdorf 2017",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Puma_IFV_interior2.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Puma_IFV_interior2.jpg",
+      "width": 1024,
+      "height": 768,
+      "title": "Puma IFV interior2.jpg",
+      "description": "Interior view of German Army Puma IFV, German Armed Forces Day, Fassberg Air Base 2019",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Puma_IFV_with_MJH.jpg/1280px-Puma_IFV_with_MJH.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Puma_IFV_with_MJH.jpg",
+      "width": 2000,
+      "height": 1500,
+      "title": "Puma IFV with MJH.jpg",
+      "description": "Puma IFV with MUSS jammer head, German Armed Forces Day, Fassberg 2019",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Puma_Infantry_Fighting_Vehicle.jpg/1280px-Puma_Infantry_Fighting_Vehicle.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/da/Puma_Infantry_Fighting_Vehicle.jpg",
+      "width": 4464,
+      "height": 2976,
+      "title": "Puma Infantry Fighting Vehicle.jpg",
+      "description": "A German Puma Infantry Fighting Vehicle assigned to the 212th Panzergrenadier Battalion, 21st Panzer Brigade, 1st Panzer Division, assaults through a breach during a live-fire exercise as part of Defe",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/SPz_Puma_Mobilit%C3%A4tsversuchfahrzeug_VS2.jpg/1280px-SPz_Puma_Mobilit%C3%A4tsversuchfahrzeug_VS2.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/3c/SPz_Puma_Mobilit%C3%A4tsversuchfahrzeug_VS2.jpg",
+      "width": 3264,
+      "height": 2448,
+      "title": "SPz Puma Mobilit\u00e4tsversuchfahrzeug VS2.jpg",
+      "description": "Infantry fighting vehicle Puma. Demonstrator for mobility-VS2 with weight simulators. Note the 6 wheels!",
+      "license": "CC BY 3.0",
+      "source": "wikimedia"
+    }
+  ]
+}

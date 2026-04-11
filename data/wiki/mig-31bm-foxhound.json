@@ -1,0 +1,247 @@
+{
+  "id": 86,
+  "slug": "mig-31bm-foxhound",
+  "name": "Mikoyan MiG-31BM Foxhound",
+  "designation": "MiG-31BM",
+  "type": "fighter",
+  "country": "Russia",
+  "operator": "Russian Aerospace Forces",
+  "overview_md": "The MiG-31BM Foxhound represents Russia's premier long-range interceptor, designed to defend vast airspace against cruise missiles, bombers, and low-observable targets at extreme ranges. Based on the 1980s-era MiG-31, the BM variant incorporates comprehensive modernization including upgraded Zaslon-AM phased array radar, enhanced avionics, and compatibility with modern hypersonic weapons like the Kinzhal missile.\n\nStrategically, the MiG-31BM serves as the backbone of Russia's aerospace defense, particularly critical for monitoring the Arctic approaches and vast Siberian territories where ground-based radar coverage is sparse. Its ability to operate at Mach 2.83 and engage targets at 300km range while coordinating with other interceptors through datalink makes it uniquely suited for Russia's geographic challenges.\n\nThe platform's design philosophy prioritizes raw performance over maneuverability - it's built to reach distant targets quickly rather than dogfight. Twin D30-F6 engines provide the power needed to sustain high-speed cruise, while the large airframe accommodates powerful radar and substantial fuel capacity for 1,500km combat radius operations.\n\nIn the current threat environment, the MiG-31BM has gained renewed relevance as a hypersonic weapons carrier and counter-stealth platform. Its modernized radar can reportedly track F-22/F-35 class targets, while Kinzhal integration provides Russia with air-launched hypersonic strike capability against high-value targets including aircraft carriers and fixed installations.",
+  "specs_json": {
+    "displacement_tonnes": 0,
+    "length_m": 22.69,
+    "beam_m": 13.46,
+    "draft_m": 0,
+    "speed_knots": 1850,
+    "range_nm": 1600,
+    "crew": 2,
+    "propulsion": "2x Aviadvigatel D30-F6 afterburning turbofans, 15,500 kgf each",
+    "radar": "Zaslon-AM phased array radar",
+    "sonar": null,
+    "combat_system": "Baget-55 digital flight/fire control system",
+    "vls_cells": 0,
+    "additional": {
+      "max_speed_mach": 2.83,
+      "service_ceiling_m": 20600,
+      "max_g_force": 5,
+      "combat_radius_km": 1500,
+      "radar_range_km": 320,
+      "targets_tracked": 24,
+      "targets_engaged": 8
+    }
+  },
+  "armament_json": [
+    {
+      "category": "Long-range AAMs",
+      "name": "R-37M",
+      "type": "long-range air-to-air missile",
+      "quantity": "4x",
+      "range_km": 400,
+      "notes": "Primary long-range interceptor missile"
+    },
+    {
+      "category": "Medium-range AAMs",
+      "name": "R-77-1",
+      "type": "active radar homing missile",
+      "quantity": "2-4x",
+      "range_km": 110,
+      "notes": "Modern AMRAAM equivalent"
+    },
+    {
+      "category": "Hypersonic missiles",
+      "name": "Kh-47M2 Kinzhal",
+      "type": "air-launched ballistic missile",
+      "quantity": "1x",
+      "range_km": 2000,
+      "notes": "Mach 10+ hypersonic strike weapon"
+    },
+    {
+      "category": "Gun",
+      "name": "GSh-6-23",
+      "type": "rotary cannon",
+      "quantity": "1x 23mm",
+      "range_km": 2,
+      "notes": "260 rounds, 10,000 rpm"
+    }
+  ],
+  "variants_json": [
+    {
+      "name": "MiG-31",
+      "designation_range": "Original production",
+      "years": "1981-1994",
+      "count": 280,
+      "key_changes": "Original interceptor with Zaslon radar, R-33 missiles",
+      "status": "mostly retired"
+    },
+    {
+      "name": "MiG-31B",
+      "designation_range": "Improved variant",
+      "years": "1990-1994",
+      "count": 192,
+      "key_changes": "Enhanced radar, improved avionics, R-37 compatibility",
+      "status": "active"
+    },
+    {
+      "name": "MiG-31BM",
+      "designation_range": "Modernized variant",
+      "years": "2010-present",
+      "count": 110,
+      "key_changes": "Zaslon-AM PESA radar, digital cockpit, R-37M missiles, Kinzhal compatibility",
+      "status": "active"
+    },
+    {
+      "name": "MiG-31BSM",
+      "designation_range": "Latest upgrade",
+      "years": "2020-present",
+      "count": 20,
+      "key_changes": "Further avionics improvements, enhanced EW suite",
+      "status": "building"
+    }
+  ],
+  "fleet_status_json": [
+    {
+      "hull_number": "Various",
+      "name": "Active MiG-31BM fleet",
+      "variant": "BM/BSM",
+      "commissioned": "2010-present",
+      "home_port": "Multiple bases across Russia",
+      "status": "active"
+    }
+  ],
+  "cost_usd": 45000000.0,
+  "unit_count": 110,
+  "first_commissioned": "2010",
+  "builder": "Nizhny Novgorod Aircraft Building Plant (SOKOL)",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/38/Russian_Air_Force_Mikoyan-Gurevich_MiG-31P.jpg",
+  "wiki_url": "https://en.wikipedia.org/wiki/Mikoyan_MiG-31",
+  "sources_json": [
+    "https://en.wikipedia.org/wiki/Mikoyan_MiG-31",
+    "https://www.janes.com/defence-news/air-platforms",
+    "https://www.flightglobal.com/"
+  ],
+  "comparison_tags": [
+    "interceptor",
+    "long-range",
+    "hypersonic-carrier",
+    "russian-air-force",
+    "arctic-capable"
+  ],
+  "created_at": "2026-04-11 10:10:49",
+  "updated_at": "2026-04-11T10:10:49.586399",
+  "news": [],
+  "events": [],
+  "ic_coverage": [],
+  "combat_history": [
+    {
+      "date": "2018-03",
+      "operation": "Kinzhal testing",
+      "event": "First successful test of Kh-47M2 Kinzhal hypersonic missile from MiG-31BM",
+      "significance": "Demonstrated Russia's air-launched hypersonic capability"
+    },
+    {
+      "date": "2022-03-18",
+      "operation": "Ukraine invasion",
+      "event": "First combat use of Kinzhal missile against underground weapons storage in Deliatyn",
+      "significance": "First operational use of air-launched hypersonic weapon in combat"
+    },
+    {
+      "date": "2022-2023",
+      "operation": "Ukraine conflict",
+      "event": "Multiple Kinzhal strikes against Ukrainian infrastructure and military targets",
+      "significance": "Operational validation of hypersonic strike capability"
+    }
+  ],
+  "modernization": [
+    {
+      "program": "MiG-31BM upgrade program",
+      "status": "in-progress",
+      "timeline": "2010-2030",
+      "description": "Comprehensive modernization of existing MiG-31 fleet with new radar, avionics, weapons compatibility",
+      "impact": "Extends service life to 2030s, adds hypersonic weapons capability"
+    },
+    {
+      "program": "MiG-31BSM standard",
+      "status": "in-progress",
+      "timeline": "2020-2025",
+      "description": "Latest upgrade standard with enhanced electronic warfare suite and improved datalink",
+      "impact": "Improved survivability against modern air defenses"
+    }
+  ],
+  "vulnerabilities": [
+    {
+      "area": "Maneuverability",
+      "description": "Large, heavy interceptor with limited dogfighting capability and high IR signature",
+      "context": "Vulnerable to modern fighters in close combat, particularly F-22/F-35 with stealth advantage",
+      "mitigation": "Relies on long-range engagement and avoiding close combat"
+    },
+    {
+      "area": "Electronic warfare",
+      "description": "Older electronic systems vulnerable to modern jamming despite upgrades",
+      "context": "Western EW capabilities can potentially degrade radar effectiveness",
+      "mitigation": "BSM upgrade includes improved EW resistance"
+    },
+    {
+      "area": "Logistics",
+      "description": "Complex, maintenance-intensive platform with limited spare parts production",
+      "context": "Sanctions impact on Western components affects readiness rates",
+      "mitigation": "Import substitution program for critical components"
+    }
+  ],
+  "operational_patterns": {
+    "typical_deployment": "Long-range intercept patrols, hypersonic strike missions",
+    "deployment_length_months": 0,
+    "key_operating_areas": [
+      "Arctic region",
+      "Far East",
+      "Western borders",
+      "Kaliningrad"
+    ],
+    "typical_task_group": "Operates in pairs for mutual support and extended radar coverage",
+    "readiness_notes": "Estimated 60-70% readiness rate due to maintenance complexity and parts availability"
+  },
+  "peer_comparisons": [
+    {
+      "platform": "F-15EX Eagle II",
+      "country": "United States",
+      "relationship": "direct rival",
+      "key_differences": "F-15EX more maneuverable and modern avionics, MiG-31BM faster with longer range and hypersonic weapons",
+      "video_angle": "Speed vs agility: Arctic interceptor vs multi-role fighter comparison"
+    },
+    {
+      "platform": "F-22 Raptor",
+      "country": "United States",
+      "relationship": "primary threat",
+      "key_differences": "F-22 has stealth and superior maneuverability, MiG-31BM has speed, range, and anti-stealth radar claims",
+      "video_angle": "Stealth vs speed: Can the Foxhound hunt the Raptor?"
+    },
+    {
+      "platform": "J-20 Mighty Dragon",
+      "country": "China",
+      "relationship": "allied equivalent",
+      "key_differences": "J-20 emphasizes stealth and agility, MiG-31BM focuses on raw speed and range",
+      "video_angle": "Russia vs China interceptor philosophy comparison"
+    },
+    {
+      "platform": "Eurofighter Typhoon",
+      "country": "Europe",
+      "relationship": "regional rival",
+      "key_differences": "Typhoon more agile with modern electronics, MiG-31BM has speed advantage and hypersonic weapons",
+      "video_angle": "NATO's northern flank defense vs Russian Arctic interceptor"
+    }
+  ],
+  "search_keywords": [
+    "mig-31",
+    "mig 31",
+    "foxhound",
+    "mig-31bm",
+    "mig 31bm",
+    "kinzhal",
+    "zaslon radar",
+    "russian interceptor",
+    "hypersonic missile",
+    "arctic defense"
+  ],
+  "images": [],
+  "doctrine": null,
+  "curated_sources": []
+}

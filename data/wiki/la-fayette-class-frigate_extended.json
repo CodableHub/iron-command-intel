@@ -1,0 +1,261 @@
+{
+  "combat_history": [
+    {
+      "date": "2011",
+      "operation": "Operation Harmattan",
+      "event": "FS Courbet conducted surveillance and escort missions during NATO intervention in Libya, demonstrating stealth frigate utility in contested airspace",
+      "significance": "First major combat deployment validated stealth design philosophy in modern threat environment"
+    },
+    {
+      "date": "2013-2014",
+      "operation": "Operation Serval/Barkhane",
+      "event": "La Fayette class frigates provided offshore support and logistics security for Mali intervention forces",
+      "significance": "Demonstrated utility for expeditionary operations supporting land campaigns"
+    },
+    {
+      "date": "2019",
+      "operation": "Operation Chammal",
+      "event": "FS Aconit conducted anti-ISIS maritime security operations in Eastern Mediterranean",
+      "significance": "Proved value of low-signature platforms for extended patrol missions in hostile areas"
+    },
+    {
+      "date": "2020-2021",
+      "operation": "Patrol missions",
+      "event": "Multiple La Fayette class ships conducted freedom of navigation operations in South China Sea",
+      "significance": "Stealth characteristics valuable for intelligence gathering and presence operations near peer adversaries"
+    }
+  ],
+  "modernization": [
+    {
+      "program": "FREMM transition",
+      "status": "in-progress",
+      "timeline": "2025-2030",
+      "description": "La Fayette class will be gradually replaced by additional FREMM frigates and future FDI frigates. Some La Fayette hulls may receive life extension upgrades.",
+      "impact": "End of dedicated stealth frigate concept in favor of more heavily armed multi-mission designs"
+    },
+    {
+      "program": "Combat system upgrade",
+      "status": "completed",
+      "timeline": "2010-2015",
+      "description": "Replacement of original Crotale point defense with Aster 15 VLS system, upgraded radar and combat management systems",
+      "impact": "Significantly improved air defense capability while maintaining stealth characteristics"
+    },
+    {
+      "program": "Sensor modernization",
+      "status": "planned",
+      "timeline": "2024-2027",
+      "description": "Potential upgrade of Sea Tiger radar to newer AESA systems, electronic warfare suite enhancement",
+      "impact": "Would extend service life and improve detection capabilities against stealth threats"
+    }
+  ],
+  "vulnerabilities": [
+    {
+      "area": "Limited firepower",
+      "description": "Only 8 VLS cells and 8 anti-ship missiles severely limit sustained combat capability compared to peers",
+      "context": "Against peer navies with large missile salvos, La Fayette class would be quickly overwhelmed",
+      "mitigation": "Designed to avoid detection rather than survive heavy engagement; operated in task groups"
+    },
+    {
+      "area": "Aging sensors",
+      "description": "DRBV-15C radar lacks modern AESA capability and has limited performance against low-RCS targets",
+      "context": "Modern stealth missiles and aircraft can potentially negate the frigate's own stealth advantage",
+      "mitigation": "Planned sensor upgrades, but budget constraints may limit implementation"
+    },
+    {
+      "area": "ASW limitations",
+      "description": "Single hull-mounted sonar with no towed array limits submarine detection capability",
+      "context": "Critical weakness in increasingly submarine-heavy threat environment",
+      "mitigation": "Heavy reliance on embarked helicopter for ASW operations"
+    },
+    {
+      "area": "Electronic warfare",
+      "description": "Limited EW suite compared to modern standards, vulnerable to advanced jamming",
+      "context": "Peer adversaries have developed sophisticated EW capabilities that could negate stealth advantages",
+      "mitigation": "Modernization programs include EW upgrades, but implementation uncertain"
+    }
+  ],
+  "operational_patterns": {
+    "typical_deployment": "Independent patrol missions, task group escort, sovereignty operations in overseas territories",
+    "deployment_length_months": 6,
+    "key_operating_areas": [
+      "Mediterranean",
+      "West Africa",
+      "Indian Ocean",
+      "Pacific territories"
+    ],
+    "typical_task_group": "Often operates independently or with 1-2 support vessels, occasionally with carrier battle group",
+    "readiness_notes": "High availability rate due to diesel propulsion, but aging systems requiring increased maintenance"
+  },
+  "peer_comparisons": [
+    {
+      "platform": "Type 054A Jiangkai II",
+      "country": "China",
+      "relationship": "direct rival",
+      "key_differences": "Type 054A has 32 VLS cells vs 8, but much higher RCS. La Fayette prioritizes stealth over firepower while Type 054A is conventional design with heavier armament.",
+      "video_angle": "Stealth vs firepower philosophy - which approach wins in modern naval combat?"
+    },
+    {
+      "platform": "Admiral Gorshkov class",
+      "country": "Russia",
+      "relationship": "peer competitor",
+      "key_differences": "Gorshkov has far superior missile armament (32+ VLS) and sensors, but traditional high-visibility design. Represents opposite design philosophy to La Fayette.",
+      "video_angle": "Cold War mentality vs modern stealth - how naval design philosophies diverged"
+    },
+    {
+      "platform": "Type 23 Duke class",
+      "country": "United Kingdom",
+      "relationship": "NATO equivalent",
+      "key_differences": "Type 23 emphasizes ASW with towed sonar arrays and has superior Sea Wolf missile system, but conventional RCS. More capable in ASW, less survivable in missile threat environment.",
+      "video_angle": "Specialist ASW frigate vs stealth multi-role - different solutions to NATO requirements"
+    },
+    {
+      "platform": "MEKO A-200",
+      "country": "Germany",
+      "relationship": "export competitor",
+      "key_differences": "MEKO A-200 offers modular design flexibility and heavier armament options, but lacks integrated stealth features. Competes in same export market with different value propositions.",
+      "video_angle": "Modular flexibility vs integrated stealth - competing frigate export philosophies"
+    },
+    {
+      "platform": "Sachsen class",
+      "country": "Germany",
+      "relationship": "European contemporary",
+      "key_differences": "Sachsen class has superior APAR radar and 32 VLS cells, designed as area defense frigate vs La Fayette's stealth patrol role. Much more expensive but more capable.",
+      "video_angle": "High-end vs cost-effective European frigate approaches"
+    }
+  ],
+  "search_keywords": [
+    "la fayette",
+    "lafayette class",
+    "F710",
+    "french frigate",
+    "stealth frigate",
+    "courbet",
+    "surcouf",
+    "aconit",
+    "guepratte",
+    "exocet",
+    "aster 15"
+  ],
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/French_frigate_La_Fayette_%28F-710%29.jpg/1280px-French_frigate_La_Fayette_%28F-710%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/01/French_frigate_La_Fayette_%28F-710%29.jpg",
+      "width": 2100,
+      "height": 1474,
+      "title": "French frigate La Fayette (F-710).jpg",
+      "description": "French frigate La Fayette (F-710) approaches the port side of Nimitz-class aircraft carrier USS Harry S. Truman (CVN 75). Truman is underway participating in the composite training unit exercise in pr",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Ships_at_sea_for_FRUKUS_DVIDS103188.jpg/1280px-Ships_at_sea_for_FRUKUS_DVIDS103188.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Ships_at_sea_for_FRUKUS_DVIDS103188.jpg",
+      "width": 2258,
+      "height": 1500,
+      "title": "Ships at sea for FRUKUS DVIDS103188.jpg",
+      "description": "The following ships, the guided-missile destroyer USS Laboon, HMS Portland of the United Kingdom, FS La Fayette of France and RFS Admiral Chabanenko of Russia sail the waters of the Atlantic Ocean as ",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/USS_Donald_Cook_operations_150226-N-JN664-067.jpg/1280px-USS_Donald_Cook_operations_150226-N-JN664-067.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/a4/USS_Donald_Cook_operations_150226-N-JN664-067.jpg",
+      "width": 2100,
+      "height": 1398,
+      "title": "USS Donald Cook operations 150226-N-JN664-067.jpg",
+      "description": "150226-N-JN664-067 MEDITERRANEAN SEA (Feb. 26, 2015) USS Donald Cook (DDG 75) Commanding Officer Cmdr. Charles Hampton talks with the commanding officer of the French navy frigate La Fayette (F 710) a",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/USS_Laboon._HMS_Portland._FS_La_Fayette._RFS_Admiral_Chabanenko.jpg/1280px-USS_Laboon._HMS_Portland._FS_La_Fayette._RFS_Admiral_Chabanenko.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/a4/USS_Laboon._HMS_Portland._FS_La_Fayette._RFS_Admiral_Chabanenko.jpg",
+      "width": 2258,
+      "height": 1500,
+      "title": "USS Laboon. HMS Portland. FS La Fayette. RFS Admiral Chabanenko.jpg",
+      "description": "The following ships, the guided-missile destroyer USS Laboon (DDG 58), HMS Portland (F79) of the United Kingdom, FS La Fayette (F710) of France and RFS Admiral Chabanenko (650) of Russia sail the wate",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/US_Navy_070615-N-5758H-266_FS_La_Fayette_%28F710%29_of_France%2C_RFS_Admiral_Chabanenko_%28650%29_of_Russia_and_HMS_Portland_%28F79%29_of_the_United_Kingdom_sail_into_port_at_Naval_Station_Norfolk_to_participate_in_FRUKUS.jpg/1280px-thumbnail.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/0d/US_Navy_070615-N-5758H-266_FS_La_Fayette_%28F710%29_of_France%2C_RFS_Admiral_Chabanenko_%28650%29_of_Russia_and_HMS_Portland_%28F79%29_of_the_United_Kingdom_sail_into_port_at_Naval_Station_Norfolk_to_participate_in_FRUKUS.jpg",
+      "width": 2258,
+      "height": 1500,
+      "title": "US Navy 070615-N-5758H-266 FS La Fayette (F710) of France, RFS Admiral Chabanenko (650) of Russia and HMS Portland (F79) of the United Kingdom sail into port at Naval Station Norfolk to participate in FRUKUS.jpg",
+      "description": "CHESAPEAKE BAY, Va. (June 15, 2007) - FS La Fayette (F710) of France, RFS Admiral Chabanenko (650) of Russia and HMS Portland (F79) of the United Kingdom sail into port at Naval Station Norfolk to par",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/US_Navy_070704-N-2984R-002_Sailors_aboard_Nimitz-class_aircraft_carrier_USS_Harry_S._Truman_%28CVN_75%29_render_honors_to_French_frigate_La_Fayette_%28F-710%29.jpg/1280px-US_Navy_070704-N-2984R-002_Sailors_aboard_Nimitz-class_aircraft_carrier_USS_Harry_S._Truman_%28CVN_75%29_render_honors_to_French_frigate_La_Fayette_%28F-710%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/d4/US_Navy_070704-N-2984R-002_Sailors_aboard_Nimitz-class_aircraft_carrier_USS_Harry_S._Truman_%28CVN_75%29_render_honors_to_French_frigate_La_Fayette_%28F-710%29.jpg",
+      "width": 2100,
+      "height": 1370,
+      "title": "US Navy 070704-N-2984R-002 Sailors aboard Nimitz-class aircraft carrier USS Harry S. Truman (CVN 75) render honors to French frigate La Fayette (F-710).jpg",
+      "description": "ATLANTIC OCEAN (July 4, 2007) - Sailors aboard Nimitz-class aircraft carrier USS Harry S. Truman (CVN 75) render honors to French frigate La Fayette (F-710). Truman is underway participating in the co",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/France_La_Fayette-class_frigate_in_Haifa_port.jpg/1280px-France_La_Fayette-class_frigate_in_Haifa_port.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/ba/France_La_Fayette-class_frigate_in_Haifa_port.jpg",
+      "width": 4608,
+      "height": 3456,
+      "title": "France La Fayette-class frigate in Haifa port.jpg",
+      "description": "France La Fayette-class F710 frigate in Haifa port",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/French_frigate_La_Fayette_-_01.jpg/1280px-French_frigate_La_Fayette_-_01.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/92/French_frigate_La_Fayette_-_01.jpg",
+      "width": 1796,
+      "height": 1347,
+      "title": "French frigate La Fayette - 01.jpg",
+      "description": "La Fayette class frigates",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/French_frigate_La_Fayette_-_02.jpg/1280px-French_frigate_La_Fayette_-_02.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/02/French_frigate_La_Fayette_-_02.jpg",
+      "width": 3508,
+      "height": 2797,
+      "title": "French frigate La Fayette - 02.jpg",
+      "description": "La Fayette class frigates",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/French_frigate_La_Fayette_-_03.jpg/1280px-French_frigate_La_Fayette_-_03.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/83/French_frigate_La_Fayette_-_03.jpg",
+      "width": 3737,
+      "height": 1448,
+      "title": "French frigate La Fayette - 03.jpg",
+      "description": "La Fayette class frigates",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/French_frigate_La_Fayette_-_04.jpg/1280px-French_frigate_La_Fayette_-_04.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/76/French_frigate_La_Fayette_-_04.jpg",
+      "width": 3155,
+      "height": 1272,
+      "title": "French frigate La Fayette - 04.jpg",
+      "description": "La Fayette class frigates",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/French_frigate_La_Fayette_-_05.jpg/1280px-French_frigate_La_Fayette_-_05.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/80/French_frigate_La_Fayette_-_05.jpg",
+      "width": 3503,
+      "height": 1549,
+      "title": "French frigate La Fayette - 05.jpg",
+      "description": "La Fayette class frigates",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    }
+  ]
+}

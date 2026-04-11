@@ -1,0 +1,272 @@
+{
+  "combat_history": [
+    {
+      "date": "2010-2015",
+      "operation": "Sea trials",
+      "event": "Sankt-Peterburg experienced numerous technical failures during extended sea trials, including propulsion system malfunctions and battery reliability issues that delayed full operational status by several years.",
+      "significance": "Demonstrated fundamental design flaws that led to suspension of the original Lada program and redesign efforts"
+    },
+    {
+      "date": "2014",
+      "operation": "Baltic Fleet exercises",
+      "event": "Sankt-Peterburg participated in limited Baltic Sea exercises but was restricted to basic patrol duties due to ongoing technical limitations with the AIP system.",
+      "significance": "Showed the gap between intended capabilities and actual operational readiness"
+    }
+  ],
+  "modernization": [
+    {
+      "program": "Project 677M upgrade",
+      "status": "in-progress",
+      "timeline": "2018-2025",
+      "description": "Complete redesign of propulsion and battery systems, removal of problematic fuel cell AIP in favor of improved lithium-ion batteries and more reliable diesel generators.",
+      "impact": "Reduces theoretical underwater endurance but improves reliability and reduces maintenance burden"
+    },
+    {
+      "program": "Kalina-class development",
+      "status": "planned",
+      "timeline": "2025-2030",
+      "description": "Next-generation conventional submarine design incorporating lessons learned from Lada failures, with focus on proven technologies rather than experimental systems.",
+      "impact": "Represents abandonment of Lada design philosophy in favor of more conservative approach"
+    }
+  ],
+  "vulnerabilities": [
+    {
+      "area": "Air-independent propulsion reliability",
+      "description": "The fuel cell AIP system has proven fundamentally unreliable, with frequent breakdowns and inability to achieve design specifications for underwater endurance.",
+      "context": "Modern submarine warfare requires extended submerged operations; AIP failures negate the Lada's primary advantage over older Kilos",
+      "mitigation": "Russian Navy has effectively abandoned AIP integration in favor of improved battery systems"
+    },
+    {
+      "area": "Limited operational availability",
+      "description": "Technical complexity and reliability issues result in very low operational tempo, with submarines spending extensive time in maintenance rather than patrol duties.",
+      "context": "Russia needs reliable coastal defense submarines for Baltic and Black Sea operations; Lada unavailability forces continued reliance on aging Kilo fleet",
+      "mitigation": "Simplified Project 677M design attempts to reduce maintenance burden"
+    },
+    {
+      "area": "Small fleet size and production issues",
+      "description": "Only three operational boats with fourth delayed, severely limiting operational impact and training opportunities for crews.",
+      "context": "NATO submarine activity in Baltic requires consistent Russian presence; insufficient Lada numbers limit deterrent effect",
+      "mitigation": "Continued Kilo-class modernization and expedited Kalina development"
+    }
+  ],
+  "operational_patterns": {
+    "typical_deployment": "Limited Baltic Sea coastal patrols and training exercises",
+    "deployment_length_months": 1,
+    "key_operating_areas": [
+      "Baltic Sea",
+      "Gulf of Finland"
+    ],
+    "typical_task_group": "Independent operations or with Baltic Fleet surface units",
+    "readiness_notes": "Low operational tempo due to reliability issues; extensive maintenance periods between deployments"
+  },
+  "peer_comparisons": [
+    {
+      "platform": "Type 212A submarine",
+      "country": "Germany",
+      "relationship": "direct rival",
+      "key_differences": "Type 212A has proven, reliable fuel cell AIP system providing 3+ weeks submerged endurance vs Lada's failed AIP integration. German boat has superior stealth characteristics and operational availability rates exceeding 70% vs Lada's estimated 30%.",
+      "video_angle": "AIP technology success vs failure - why German engineering succeeded where Russian efforts failed"
+    },
+    {
+      "platform": "Soryu-class submarine",
+      "country": "Japan",
+      "relationship": "capability benchmark",
+      "key_differences": "Soryu features mature Stirling AIP technology with proven reliability, larger weapon loadout, and superior sensor integration. Japanese construction quality and maintenance practices result in much higher operational availability.",
+      "video_angle": "East vs West submarine technology - comparing Japanese precision engineering with Russian ambitious but flawed design"
+    },
+    {
+      "platform": "Kilo-class submarine",
+      "country": "Russia",
+      "relationship": "predecessor",
+      "key_differences": "Ironically, older Kilo boats often outperform Ladas in operational availability despite lacking AIP. Kilos have proven reliability and lower maintenance burden, but shorter submerged endurance and higher acoustic signature.",
+      "video_angle": "When newer isn't better - how Russia's submarine modernization efforts backfired"
+    },
+    {
+      "platform": "Gotland-class submarine",
+      "country": "Sweden",
+      "relationship": "regional competitor",
+      "key_differences": "Swedish Stirling AIP system provides reliable 2+ week submerged capability in similar Baltic operating environment. Gotland has demonstrated ability to penetrate US carrier defenses in exercises, showing effective stealth performance Lada cannot match.",
+      "video_angle": "Baltic submarine warfare - how Sweden's small but effective fleet outclasses Russian efforts"
+    },
+    {
+      "platform": "Yuan-class submarine",
+      "country": "China",
+      "relationship": "allied equivalent",
+      "key_differences": "Chinese Type 039A features Stirling AIP technology likely more reliable than Lada's fuel cell approach. Larger fleet size and higher production rate, though specific performance characteristics remain classified.",
+      "video_angle": "Russia vs China submarine development - comparing allied approaches to conventional submarine modernization"
+    }
+  ],
+  "search_keywords": [
+    "lada class",
+    "project 677",
+    "B-585",
+    "sankt peterburg submarine",
+    "russian AIP submarine",
+    "lada submarine problems",
+    "project 677m",
+    "russian diesel submarine",
+    "baltic fleet submarine"
+  ],
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Amur_1650.jpg/1280px-Amur_1650.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Amur_1650.jpg",
+      "width": 3888,
+      "height": 2592,
+      "title": "Amur 1650.jpg",
+      "description": "\u00abAmur-1650\u00bb submarine model, shown on IMDS-2007",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Amur_950.jpg/1280px-Amur_950.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/40/Amur_950.jpg",
+      "width": 3888,
+      "height": 2592,
+      "title": "Amur 950.jpg",
+      "description": "\u00abAmur-950\u00bb submarine model, shown on IMDS-2007",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/0a/B-587_in_2024.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/0a/B-587_in_2024.jpg",
+      "width": 1200,
+      "height": 800,
+      "title": "B-587 in 2024.jpg",
+      "description": "Russian submarine B-587 at Neva river in 2024",
+      "license": "CC BY 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/BrahMos_missie_on_Lada_class_non-nuclear_submarine_maqette.jpg/1280px-BrahMos_missie_on_Lada_class_non-nuclear_submarine_maqette.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/BrahMos_missie_on_Lada_class_non-nuclear_submarine_maqette.jpg",
+      "width": 2491,
+      "height": 1459,
+      "title": "BrahMos missie on Lada class non-nuclear submarine maqette.jpg",
+      "description": "BrahMos missiles on Lada class non-nuclear submarine maquette. MAKS-2009",
+      "license": "CC BY-SA 3.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b9/International_Maritime_Defence_Show_2011_%28375-27%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/b9/International_Maritime_Defence_Show_2011_%28375-27%29.jpg",
+      "width": 800,
+      "height": 509,
+      "title": "International Maritime Defence Show 2011 (375-27).jpg",
+      "description": "\u0414\u0438\u0437\u0435\u043b\u044c-\u044d\u043b\u0435\u043a\u0442\u0440\u0438\u0447\u0435\u0441\u043a\u0430\u044f \u043f\u043e\u0434\u0432\u043e\u0434\u043d\u0430\u044f \u043b\u043e\u0434\u043a\u0430 \u0411-585 \u0421\u0430\u043d\u043a\u0442-\u041f\u0435\u0442\u0435\u0440\u0431\u0443\u0440\u0433 \u043f\u0440\u043e\u0435\u043a\u0442\u0430 677 \u041b\u0430\u0434\u0430 (B-585 Sankt-Peterburg project 677 Lada class diesel-electric submarine)",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Models_of_Amur_950_at_IMDS-2007.jpg/1280px-Models_of_Amur_950_at_IMDS-2007.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Models_of_Amur_950_at_IMDS-2007.jpg",
+      "width": 2000,
+      "height": 1500,
+      "title": "Models of Amur 950 at IMDS-2007.jpg",
+      "description": "\u041c\u043e\u0434\u0435\u043b\u044c \u0410\u041c\u0423\u0420-950",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/45/RUSMARKA-3134.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/45/RUSMARKA-3134.jpg",
+      "width": 473,
+      "height": 331,
+      "title": "RUSMARKA-3134.jpg",
+      "description": "\u041c\u043e\u0440\u0441\u043a\u043e\u0439 \u0444\u043b\u043e\u0442 \u0420\u043e\u0441\u0441\u0438\u0438. \u041c\u043d\u043e\u0433\u043e\u0446\u0435\u043b\u0435\u0432\u0430\u044f \u0434\u0438\u0437\u0435\u043b\u044c-\u044d\u043b\u0435\u043a\u0442\u0440\u0438\u0447\u0435\u0441\u043a\u0430\u044f \u043f\u043e\u0434\u0432\u043e\u0434\u043d\u0430\u044f \u043b\u043e\u0434\u043a\u0430 \u043f\u0440\u043e\u0435\u043a\u0442\u0430 677 \u00ab\u041b\u0430\u0434\u0430\u00bb",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/%D0%AD%D0%BA%D1%81%D0%BF%D0%BE%D0%BD%D0%B0%D1%82%D1%8B_%D0%BC%D1%83%D0%B7%D0%B5%D1%8F_%D0%9C%D0%B0%D1%80%D0%B8%D0%BD%D0%B5%D1%81%D0%BA%D0%BE%2C_%D0%BC%D0%BE%D0%B4%D0%B5%D0%BB%D0%B8_%D0%BF%D0%BE%D0%B4%D0%BB%D0%BE%D0%B4%D0%BE%D0%BA_12.jpg/1280px-%D0%AD%D0%BA%D1%81%D0%BF%D0%BE%D0%BD%D0%B0%D1%82%D1%8B_%D0%BC%D1%83%D0%B7%D0%B5%D1%8F_%D0%9C%D0%B0%D1%80%D0%B8%D0%BD%D0%B5%D1%81%D0%BA%D0%BE%2C_%D0%BC%D0%BE%D0%B4%D0%B5%D0%BB%D0%B8_%D0%BF%D0%BE%D0%B4%D0%BB%D0%BE%D0%B4%D0%BE%D0%BA_12.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/0a/%D0%AD%D0%BA%D1%81%D0%BF%D0%BE%D0%BD%D0%B0%D1%82%D1%8B_%D0%BC%D1%83%D0%B7%D0%B5%D1%8F_%D0%9C%D0%B0%D1%80%D0%B8%D0%BD%D0%B5%D1%81%D0%BA%D0%BE%2C_%D0%BC%D0%BE%D0%B4%D0%B5%D0%BB%D0%B8_%D0%BF%D0%BE%D0%B4%D0%BB%D0%BE%D0%B4%D0%BE%D0%BA_12.jpg",
+      "width": 2541,
+      "height": 1114,
+      "title": "\u042d\u043a\u0441\u043f\u043e\u043d\u0430\u0442\u044b \u043c\u0443\u0437\u0435\u044f \u041c\u0430\u0440\u0438\u043d\u0435\u0441\u043a\u043e, \u043c\u043e\u0434\u0435\u043b\u0438 \u043f\u043e\u0434\u043b\u043e\u0434\u043e\u043a 12.jpg",
+      "description": "\u041c\u043e\u0434\u0435\u043b\u044c \u043f\u043e\u0434\u0432\u043e\u0434\u043d\u043e\u0439 \u043b\u043e\u0434\u043a\u0438",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Number_1470_-_DPLA_-_0758a6b4c30f8d61cc9307d6de4f2c2a_%28page_677%29.tiff/lossy-page1-1280px-Number_1470_-_DPLA_-_0758a6b4c30f8d61cc9307d6de4f2c2a_%28page_677%29.tiff.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Number_1470_-_DPLA_-_0758a6b4c30f8d61cc9307d6de4f2c2a_%28page_677%29.tiff",
+      "width": 5048,
+      "height": 6888,
+      "title": "Number 1470 - DPLA - 0758a6b4c30f8d61cc9307d6de4f2c2a (page 677).tiff",
+      "description": "",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Number_1791_-_DPLA_-_0caede987cdc3b87cb643581737d4401_%28page_677%29.tiff/lossy-page1-1280px-Number_1791_-_DPLA_-_0caede987cdc3b87cb643581737d4401_%28page_677%29.tiff.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/27/Number_1791_-_DPLA_-_0caede987cdc3b87cb643581737d4401_%28page_677%29.tiff",
+      "width": 4872,
+      "height": 7480,
+      "title": "Number 1791 - DPLA - 0caede987cdc3b87cb643581737d4401 (page 677).tiff",
+      "description": "",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Number_2434_-_DPLA_-_0bb6439ec4b230b7eb27f67f0d0178f2_%28page_677%29.tiff/lossy-page1-1280px-Number_2434_-_DPLA_-_0bb6439ec4b230b7eb27f67f0d0178f2_%28page_677%29.tiff.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Number_2434_-_DPLA_-_0bb6439ec4b230b7eb27f67f0d0178f2_%28page_677%29.tiff",
+      "width": 5672,
+      "height": 7208,
+      "title": "Number 2434 - DPLA - 0bb6439ec4b230b7eb27f67f0d0178f2 (page 677).tiff",
+      "description": "",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Number_2736_-_DPLA_-_0325d5eb031921f625ceea3b76d98db8_%28page_677%29.tiff/lossy-page1-1280px-Number_2736_-_DPLA_-_0325d5eb031921f625ceea3b76d98db8_%28page_677%29.tiff.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/37/Number_2736_-_DPLA_-_0325d5eb031921f625ceea3b76d98db8_%28page_677%29.tiff",
+      "width": 5632,
+      "height": 7008,
+      "title": "Number 2736 - DPLA - 0325d5eb031921f625ceea3b76d98db8 (page 677).tiff",
+      "description": "",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Number_2751_-_DPLA_-_000c4ed0f230c402f6f97bc9311662c7_%28page_677%29.tiff/lossy-page1-1280px-Number_2751_-_DPLA_-_000c4ed0f230c402f6f97bc9311662c7_%28page_677%29.tiff.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/82/Number_2751_-_DPLA_-_000c4ed0f230c402f6f97bc9311662c7_%28page_677%29.tiff",
+      "width": 6200,
+      "height": 7208,
+      "title": "Number 2751 - DPLA - 000c4ed0f230c402f6f97bc9311662c7 (page 677).tiff",
+      "description": "",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Number_3300_-_DPLA_-_01b8546fe668daff01d66edf7c22f075_%28page_677%29.tiff/lossy-page1-1280px-Number_3300_-_DPLA_-_01b8546fe668daff01d66edf7c22f075_%28page_677%29.tiff.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Number_3300_-_DPLA_-_01b8546fe668daff01d66edf7c22f075_%28page_677%29.tiff",
+      "width": 4856,
+      "height": 6600,
+      "title": "Number 3300 - DPLA - 01b8546fe668daff01d66edf7c22f075 (page 677).tiff",
+      "description": "",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Number_557_-_DPLA_-_1d22729c60df9723a94a922cdaf5ddd9_%28page_677%29.tiff/lossy-page1-1280px-Number_557_-_DPLA_-_1d22729c60df9723a94a922cdaf5ddd9_%28page_677%29.tiff.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/19/Number_557_-_DPLA_-_1d22729c60df9723a94a922cdaf5ddd9_%28page_677%29.tiff",
+      "width": 8520,
+      "height": 7000,
+      "title": "Number 557 - DPLA - 1d22729c60df9723a94a922cdaf5ddd9 (page 677).tiff",
+      "description": "",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Number_977_-_DPLA_-_0bd6069ad857ff8d31b8f868c47c174b_%28page_677%29.tiff/lossy-page1-1280px-Number_977_-_DPLA_-_0bd6069ad857ff8d31b8f868c47c174b_%28page_677%29.tiff.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/59/Number_977_-_DPLA_-_0bd6069ad857ff8d31b8f868c47c174b_%28page_677%29.tiff",
+      "width": 5168,
+      "height": 6960,
+      "title": "Number 977 - DPLA - 0bd6069ad857ff8d31b8f868c47c174b (page 677).tiff",
+      "description": "",
+      "license": "Public domain",
+      "source": "wikimedia"
+    }
+  ]
+}

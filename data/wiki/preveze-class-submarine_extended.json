@@ -1,0 +1,203 @@
+{
+  "combat_history": [
+    {
+      "date": "2010",
+      "operation": "Mavi Marmara incident response",
+      "event": "Preveze-class submarines conducted increased patrols in Eastern Mediterranean following Gaza flotilla raid tensions with Israel",
+      "significance": "Demonstrated Turkey's submarine capability for regional crisis response and deterrence"
+    },
+    {
+      "date": "2020-2021",
+      "operation": "Eastern Mediterranean operations",
+      "event": "Multiple deployments supporting Turkish drilling operations and confronting Greek/French naval forces during Oruc Reis survey disputes",
+      "significance": "Showcased submarines' role in Turkey's assertive maritime strategy and energy exploration protection"
+    }
+  ],
+  "modernization": [
+    {
+      "program": "GENESIS Combat Management System",
+      "status": "completed",
+      "timeline": "2010-2015",
+      "description": "Upgraded fire control systems and torpedo launch capabilities with modern Turkish-developed combat management systems",
+      "impact": "Enhanced targeting accuracy and multi-target engagement capability"
+    },
+    {
+      "program": "Sonar modernization",
+      "status": "in-progress",
+      "timeline": "2018-2025",
+      "description": "Installation of improved passive sonar arrays and acoustic processing systems",
+      "impact": "Better detection capability against modern quiet submarines and surface vessels"
+    },
+    {
+      "program": "Mid-life upgrade consideration",
+      "status": "planned",
+      "timeline": "2025-2030",
+      "description": "Potential AIP system retrofit and battery modernization to extend underwater endurance",
+      "impact": "Would significantly enhance stealth and patrol duration capabilities"
+    }
+  ],
+  "vulnerabilities": [
+    {
+      "area": "Lack of Air-Independent Propulsion",
+      "description": "Limited underwater endurance compared to AIP-equipped submarines, requiring frequent snorkeling",
+      "context": "Modern adversary ASW capabilities can detect snorkeling submarines more easily",
+      "mitigation": "Careful patrol planning and potential future AIP retrofit under consideration"
+    },
+    {
+      "area": "Aging hull and systems",
+      "description": "30-year-old platforms showing material fatigue and increasing maintenance requirements",
+      "context": "Reduced operational availability and higher lifecycle costs affect fleet readiness",
+      "mitigation": "Ongoing maintenance upgrades and planned replacement with Reis-class submarines"
+    },
+    {
+      "area": "Limited deep-water capability",
+      "description": "250m maximum operating depth limits operations in deeper Mediterranean basins",
+      "context": "Restricts tactical flexibility against adversaries with greater depth capability",
+      "mitigation": "Focus on littoral and chokepoint operations where depth advantage is minimized"
+    }
+  ],
+  "operational_patterns": {
+    "typical_deployment": "Patrol operations in Eastern Mediterranean, Aegean Sea, and Black Sea approaches with focus on strait control",
+    "deployment_length_months": 2,
+    "key_operating_areas": [
+      "Eastern Mediterranean",
+      "Aegean Sea",
+      "Dardanelles approaches",
+      "Cyprus EEZ"
+    ],
+    "typical_task_group": "Independent patrol operations or coordination with surface action groups",
+    "readiness_notes": "Approximately 75% availability rate due to aging systems requiring increased maintenance periods"
+  },
+  "peer_comparisons": [
+    {
+      "platform": "Type 214 Papanikolis-class",
+      "country": "Greece",
+      "relationship": "direct rival",
+      "key_differences": "Greek submarines feature AIP propulsion providing 2-3x underwater endurance and more modern sonar systems, but Turkey has numerical advantage and better geographic positioning",
+      "video_angle": "Aegean submarine rivalry - technology vs. geography and numbers"
+    },
+    {
+      "platform": "Dolphin-class",
+      "country": "Israel",
+      "relationship": "regional peer",
+      "key_differences": "Israeli boats are larger with suspected nuclear cruise missile capability but fewer in number. Both operate in Eastern Mediterranean with different strategic focus",
+      "video_angle": "Eastern Med submarine capabilities - conventional vs strategic roles"
+    },
+    {
+      "platform": "Improved Kilo-class",
+      "country": "Russia",
+      "relationship": "potential adversary",
+      "key_differences": "Russian submarines in Black Sea Fleet are larger and more heavily armed but lack the German build quality and modern fire control systems of Preveze-class",
+      "video_angle": "Black Sea submarine competition - NATO vs Russian capabilities"
+    },
+    {
+      "platform": "Type 209/1200",
+      "country": "Egypt",
+      "relationship": "allied equivalent",
+      "key_differences": "Smaller Egyptian variants with reduced range and payload capacity, but similar vintage and technology baseline",
+      "video_angle": "Type 209 family comparison across Middle Eastern navies"
+    }
+  ],
+  "search_keywords": [
+    "preveze class",
+    "type 209",
+    "turkish submarines",
+    "TCG Preveze",
+    "S-350",
+    "turkish navy",
+    "HDW submarine",
+    "mediterranean submarines"
+  ],
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/US_Navy_050624-N-1464F-025_The_Turkish_submarine_Preveze_surfaces_following_the_North_Atlantic_Treaty_Organization_%28NATO%29_submarine_escape_and_rescue_exercise_Sorbet_Royal_2005.jpg/1280px-thumbnail.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/47/US_Navy_050624-N-1464F-025_The_Turkish_submarine_Preveze_surfaces_following_the_North_Atlantic_Treaty_Organization_%28NATO%29_submarine_escape_and_rescue_exercise_Sorbet_Royal_2005.jpg",
+      "width": 2100,
+      "height": 1500,
+      "title": "US Navy 050624-N-1464F-025 The Turkish submarine Preveze surfaces following the North Atlantic Treaty Organization (NATO) submarine escape and rescue exercise Sorbet Royal 2005.jpg",
+      "description": "Gulf of Taranto, Italy (June 24, 2005) - The Turkish submarine Preveze surfaces following the North Atlantic Treaty Organization (NATO) submarine escape and rescue exercise Sorbet Royal 2005. Divers f",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/%28SHIPS%29_S_to_Y_-_DPLA_-_eeeb09521dc5a8a4e559a1f4e1da0378_%28page_350%29.jpg/1280px-%28SHIPS%29_S_to_Y_-_DPLA_-_eeeb09521dc5a8a4e559a1f4e1da0378_%28page_350%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/d5/%28SHIPS%29_S_to_Y_-_DPLA_-_eeeb09521dc5a8a4e559a1f4e1da0378_%28page_350%29.jpg",
+      "width": 1496,
+      "height": 897,
+      "title": "(SHIPS) S to Y - DPLA - eeeb09521dc5a8a4e559a1f4e1da0378 (page 350).jpg",
+      "description": "",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b0/LST-350_en_route_to_North_Africa_with_LCT_and_smaller_landing_craft_on_deck%3B_15_April_1943.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/b0/LST-350_en_route_to_North_Africa_with_LCT_and_smaller_landing_craft_on_deck%3B_15_April_1943.jpg",
+      "width": 1039,
+      "height": 1280,
+      "title": "LST-350 en route to North Africa with LCT and smaller landing craft on deck; 15 April 1943.jpg",
+      "description": "LSTs and smaller landing craft were the primary means of transporting Allied troops and equipment to the invasion beaches in World War II.",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Official_Records_of_the_Union_and_Confederate_Navies_in_the_War_of_the_Rebellion._Series_2%2C_Volume_1._-_DPLA_-_1aceb509b3967f77b6089c14ab8fa584_%28page_350%29.jpg/1280px-Official_Records_of_the_Union_and_Confederate_Navies_in_the_War_of_the_Rebellion._Series_2%2C_Volume_1._-_DPLA_-_1aceb509b3967f77b6089c14ab8fa584_%28page_350%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/29/Official_Records_of_the_Union_and_Confederate_Navies_in_the_War_of_the_Rebellion._Series_2%2C_Volume_1._-_DPLA_-_1aceb509b3967f77b6089c14ab8fa584_%28page_350%29.jpg",
+      "width": 1500,
+      "height": 2345,
+      "title": "Official Records of the Union and Confederate Navies in the War of the Rebellion. Series 2, Volume 1. - DPLA - 1aceb509b3967f77b6089c14ab8fa584 (page 350).jpg",
+      "description": "",
+      "license": "",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Official_Records_of_the_Union_and_Confederate_Navies_in_the_War_of_the_Rebellion._Series_2%2C_Volume_2._-_DPLA_-_0fef0d789be31336770d05df54632c43_%28page_350%29.jpg/1280px-Official_Records_of_the_Union_and_Confederate_Navies_in_the_War_of_the_Rebellion._Series_2%2C_Volume_2._-_DPLA_-_0fef0d789be31336770d05df54632c43_%28page_350%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/42/Official_Records_of_the_Union_and_Confederate_Navies_in_the_War_of_the_Rebellion._Series_2%2C_Volume_2._-_DPLA_-_0fef0d789be31336770d05df54632c43_%28page_350%29.jpg",
+      "width": 1500,
+      "height": 2329,
+      "title": "Official Records of the Union and Confederate Navies in the War of the Rebellion. Series 2, Volume 2. - DPLA - 0fef0d789be31336770d05df54632c43 (page 350).jpg",
+      "description": "<div class=\"description\">\nRecords of the War of the Rebellion include copies of naval correspondence (reports, letters, telegrams, and general orders) from both the Union and Confederate Navies discus",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/USS_Hull_%28DD-350%29-_Outboard_Profile_-_NARA_-_117877211_%28page_1%29.jpg/1280px-USS_Hull_%28DD-350%29-_Outboard_Profile_-_NARA_-_117877211_%28page_1%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/3c/USS_Hull_%28DD-350%29-_Outboard_Profile_-_NARA_-_117877211_%28page_1%29.jpg",
+      "width": 21184,
+      "height": 7616,
+      "title": "USS Hull (DD-350)- Outboard Profile - NARA - 117877211 (page 1).jpg",
+      "description": "",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/USS_Hull_%28DD-350%29-_Outboard_Profile_-_NARA_-_117877211_%28page_2%29.jpg/1280px-USS_Hull_%28DD-350%29-_Outboard_Profile_-_NARA_-_117877211_%28page_2%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/d2/USS_Hull_%28DD-350%29-_Outboard_Profile_-_NARA_-_117877211_%28page_2%29.jpg",
+      "width": 19808,
+      "height": 7616,
+      "title": "USS Hull (DD-350)- Outboard Profile - NARA - 117877211 (page 2).jpg",
+      "description": "",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/US_Navy_070328-N-2328R-002_An_ambulance_is_loaded_aboard_dock_landing_ship_USS_Pearl_Harbor_%28LSD_52%29_prior_to_the_ship%27s_departure.jpg/1280px-US_Navy_070328-N-2328R-002_An_ambulance_is_loaded_aboard_dock_landing_ship_USS_Pearl_Harbor_%28LSD_52%29_prior_to_the_ship%27s_departure.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/44/US_Navy_070328-N-2328R-002_An_ambulance_is_loaded_aboard_dock_landing_ship_USS_Pearl_Harbor_%28LSD_52%29_prior_to_the_ship%27s_departure.jpg",
+      "width": 2100,
+      "height": 1575,
+      "title": "US Navy 070328-N-2328R-002 An ambulance is loaded aboard dock landing ship USS Pearl Harbor (LSD 52) prior to the ship's departure.jpg",
+      "description": "SAN DIEGO (March 28, 2007) \u2014 An ambulance is loaded aboard dock landing ship USS Pearl Harbor (LSD 52) prior to the ship\u2019s departure. The ambulance will be donated to the people of Las Parejas, Argent",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/US_Navy_070328-N-2328R-003_Sailors_load_an_ambulance_aboard_dock_landing_ship_USS_Pearl_Harbor_%28LSD_52%29_prior_to_the_ship%27s_departure.jpg/1280px-US_Navy_070328-N-2328R-003_Sailors_load_an_ambulance_aboard_dock_landing_ship_USS_Pearl_Harbor_%28LSD_52%29_prior_to_the_ship%27s_departure.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/27/US_Navy_070328-N-2328R-003_Sailors_load_an_ambulance_aboard_dock_landing_ship_USS_Pearl_Harbor_%28LSD_52%29_prior_to_the_ship%27s_departure.jpg",
+      "width": 2100,
+      "height": 1575,
+      "title": "US Navy 070328-N-2328R-003 Sailors load an ambulance aboard dock landing ship USS Pearl Harbor (LSD 52) prior to the ship's departure.jpg",
+      "description": "SAN DIEGO (March 28, 2007) \u2014 Sailors load an ambulance aboard dock landing ship USS Pearl Harbor (LSD 52) prior to the ship\u2019s departure. The ambulance will be donated to the people of Las Parejas, Arg",
+      "license": "Public domain",
+      "source": "wikimedia"
+    }
+  ]
+}

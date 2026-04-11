@@ -1,0 +1,295 @@
+{
+  "combat_history": [
+    {
+      "date": "2019-12",
+      "operation": "Northern Limit Line Patrol",
+      "event": "ROKS Gyeongbuk conducted extended ASW patrol operations following detection of suspected North Korean submarine activity near Yeonpyeong Island",
+      "significance": "First operational ASW mission for class, validated sonar performance and crew training"
+    },
+    {
+      "date": "2020-09",
+      "operation": "Dokdo Defense Exercise",
+      "event": "Multiple Daegu-class frigates participated in territorial defense exercises around disputed Dokdo/Takeshima islands, conducting surface and air defense scenarios",
+      "significance": "Demonstrated multi-ship coordination capabilities and K-CMS networking"
+    },
+    {
+      "date": "2022-05",
+      "operation": "RIMPAC 2022 Preparation",
+      "event": "ROKS Daegu conducted missile firing exercises with Haeseong anti-ship missiles, achieving successful target engagement at maximum range",
+      "significance": "Validated indigenous missile integration and long-range engagement capabilities"
+    }
+  ],
+  "modernization": [
+    {
+      "program": "K-VLS Enhancement",
+      "status": "in-progress",
+      "timeline": "2023-2025",
+      "description": "Upgrade to Korean Vertical Launch System to accommodate longer-range SAMs and potential land-attack missiles. Includes software updates for K-CMS integration.",
+      "impact": "Extends air defense engagement envelope and provides limited land-attack capability"
+    },
+    {
+      "program": "Next-Generation EW Suite",
+      "status": "planned",
+      "timeline": "2025-2027",
+      "description": "Installation of advanced electronic warfare systems developed for KDX-III Batch-II destroyers, including improved jamming and deception capabilities.",
+      "impact": "Enhanced survivability against modern anti-ship missiles and improved electronic attack capabilities"
+    },
+    {
+      "program": "Unmanned Systems Integration",
+      "status": "planned",
+      "timeline": "2024-2026",
+      "description": "Integration of unmanned surface vehicles (USVs) and enhanced helicopter drone operations for extended sensor coverage and mine countermeasures.",
+      "impact": "Force multiplication for ASW and mine warfare missions"
+    }
+  ],
+  "vulnerabilities": [
+    {
+      "area": "Limited VLS capacity",
+      "description": "Only 16 VLS cells significantly limits sustained engagement capability compared to contemporary frigates with 32+ cells",
+      "context": "Against saturation attacks or extended combat operations, magazine depth becomes critical limitation",
+      "mitigation": "Emphasis on networking with other platforms and shore-based systems for distributed engagement"
+    },
+    {
+      "area": "Sensor integration immaturity",
+      "description": "K-CMS and Korean sensor suite lack combat-proven track record compared to Western systems like Aegis or TACTICOS",
+      "context": "Software bugs or integration issues could compromise combat effectiveness in high-threat scenarios",
+      "mitigation": "Continuous software updates and extensive training exercises to identify issues"
+    },
+    {
+      "area": "Limited blue-water endurance",
+      "description": "Design optimized for Korean Peninsula operations lacks fuel capacity and crew facilities for extended deployments",
+      "context": "Restricts ability to participate in distant coalition operations or power projection missions",
+      "mitigation": "Focus on regional role with potential for future variants with enhanced endurance"
+    },
+    {
+      "area": "Single helicopter limitation",
+      "description": "One helicopter hangar limits ASW coverage and creates single point of failure for rotary-wing operations",
+      "context": "Modern submarine threats require persistent helicopter coverage for effective prosecution",
+      "mitigation": "Coordination with shore-based maritime patrol aircraft and other surface units"
+    }
+  ],
+  "operational_patterns": {
+    "typical_deployment": "Regional patrol operations in Yellow Sea and East Sea, Northern Limit Line enforcement, ASW barrier operations",
+    "deployment_length_months": 2,
+    "key_operating_areas": [
+      "Yellow Sea",
+      "East Sea/Sea of Japan",
+      "Korea Strait"
+    ],
+    "typical_task_group": "Usually operates independently or in pairs, integrated with KDX-II/III destroyers for higher-threat scenarios",
+    "readiness_notes": "High operational tempo due to North Korean threat maintains most units at high readiness; maintenance burden increasing as fleet ages"
+  },
+  "peer_comparisons": [
+    {
+      "platform": "Admiral Grigorovich-class frigate",
+      "country": "Russia",
+      "relationship": "capability peer",
+      "key_differences": "Russian design emphasizes heavier missile armament (24 VLS cells) but lacks stealth features and has older sensors. Grigorovich has better sustained firepower but Daegu has superior radar signature management.",
+      "video_angle": "East vs West frigate design philosophy - missile capacity vs stealth and sensors"
+    },
+    {
+      "platform": "Type 054A Jiangkai II frigate",
+      "country": "China",
+      "relationship": "direct regional rival",
+      "key_differences": "Chinese frigate has 32 VLS cells and better endurance but larger radar signature. Type 054A represents proven design while Daegu incorporates newer stealth technology but limited combat experience.",
+      "video_angle": "Korean Peninsula naval balance - indigenous Korean capability vs Chinese mass production"
+    },
+    {
+      "platform": "FREMM multipurpose frigate",
+      "country": "France/Italy",
+      "relationship": "Western benchmark",
+      "key_differences": "FREMM offers superior sensors (EMPAR radar) and 16-32 VLS cells but costs significantly more. European design optimized for global operations vs Korean regional focus.",
+      "video_angle": "Cost vs capability - can indigenous Asian designs match European standards?"
+    },
+    {
+      "platform": "Mogami-class frigate",
+      "country": "Japan",
+      "relationship": "allied equivalent",
+      "key_differences": "Japanese design emphasizes ASW and uses proven Western systems (Aegis-derived) but lacks indigenous missile integration. Mogami has better sensors but Daegu has more diverse armament.",
+      "video_angle": "Allied approaches to regional frigate design - Japanese integration vs Korean indigenization"
+    },
+    {
+      "platform": "Baden-W\u00fcrttemberg-class frigate",
+      "country": "Germany",
+      "relationship": "NATO standard comparison",
+      "key_differences": "German frigate has superior air defense radar (APAR) and 32 VLS cells but much higher cost and complexity. Represents high-end European approach vs Korean cost-effectiveness focus.",
+      "video_angle": "European premium vs Asian value engineering in modern frigate design"
+    }
+  ],
+  "search_keywords": [
+    "daegu class",
+    "daegu-class",
+    "ffg-ii",
+    "ffg ii",
+    "rok navy",
+    "republic of korea navy",
+    "korean frigate",
+    "haegung",
+    "k-saam",
+    "haeseong",
+    "k-cms",
+    "korean combat management system"
+  ],
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Ecretary_of_the_Navy_%28SECNAV%29_the_Honorable_Ray_Mabus_is_rendered_honors_by_Chinese_sailors_during_a_visit_to_the_Chinese_People%27s_Liberation_Army_Navy_Jiangkai_II-class_ship_Xu_Zhou_%28FFG_539%29..JPG/1280px-thumbnail.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Ecretary_of_the_Navy_%28SECNAV%29_the_Honorable_Ray_Mabus_is_rendered_honors_by_Chinese_sailors_during_a_visit_to_the_Chinese_People%27s_Liberation_Army_Navy_Jiangkai_II-class_ship_Xu_Zhou_%28FFG_539%29..JPG",
+      "width": 2592,
+      "height": 1849,
+      "title": "Ecretary of the Navy (SECNAV) the Honorable Ray Mabus is rendered honors by Chinese sailors during a visit to the Chinese People's Liberation Army Navy Jiangkai II-class ship Xu Zhou (FFG 539)..JPG",
+      "description": "\u200b\u7f8e\u56fd\u6d77\u519b\u90e8\u957f\u96f7\u00b7\u9a6c\u4f2f\u65af\u8bbf\u95ee\u89e3\u653e\u519b\u6d77\u519b\u201c\u5f90\u5dde\u201d\u53f7\u5bfc\u5f39\u62a4\u536b\u8230\u3002",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Secretary_of_the_Navy_%28SECNAV%29_the_Honorable_Ray_Mabus_departs_the_Chinese_People%27s_Liberation_Army_Navy_Jiangkai_II-class_ship%2C_Xu_Zhou_%28FFG_539%29.JPG/1280px-Secretary_of_the_Navy_%28SECNAV%29_the_Honorable_Ray_Mabus_departs_the_Chinese_People%27s_Liberation_Army_Navy_Jiangkai_II-class_ship%2C_Xu_Zhou_%28FFG_539%29.JPG",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/14/Secretary_of_the_Navy_%28SECNAV%29_the_Honorable_Ray_Mabus_departs_the_Chinese_People%27s_Liberation_Army_Navy_Jiangkai_II-class_ship%2C_Xu_Zhou_%28FFG_539%29.JPG",
+      "width": 2592,
+      "height": 1850,
+      "title": "Secretary of the Navy (SECNAV) the Honorable Ray Mabus departs the Chinese People's Liberation Army Navy Jiangkai II-class ship, Xu Zhou (FFG 539).JPG",
+      "description": "\u200b\u7f8e\u56fd\u6d77\u519b\u90e8\u957f\u96f7\u00b7\u9a6c\u4f2f\u65af\u7ed3\u675f\u5bf9\u89e3\u653e\u519b\u6d77\u519b\u201c\u5f90\u5dde\u201d\u53f7\u5bfc\u5f39\u62a4\u536b\u8230\u7684\u8bbf\u95ee\u540e\u4ece\u8237\u68af\u79bb\u5f00\u3002",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/US_Navy_030705-N-1234M-001_Lt._Cmdr._Robert_DuMont%2C_Executive_Officer_USS_Steven_W._Groves_%28FFG_29%29%2C_provides_Dr._Dick_and_Mrs._Shirley_Groves_a_tour_of_USS_Steven_W._Groves_%28FFG_29%29_during_their_five-day_port_visit_as_part_of.jpg/1280px-thumbnail.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/US_Navy_030705-N-1234M-001_Lt._Cmdr._Robert_DuMont%2C_Executive_Officer_USS_Steven_W._Groves_%28FFG_29%29%2C_provides_Dr._Dick_and_Mrs._Shirley_Groves_a_tour_of_USS_Steven_W._Groves_%28FFG_29%29_during_their_five-day_port_visit_as_part_of.jpg",
+      "width": 2100,
+      "height": 1575,
+      "title": "US Navy 030705-N-1234M-001 Lt. Cmdr. Robert DuMont, Executive Officer USS Steven W. Groves (FFG 29), provides Dr. Dick and Mrs. Shirley Groves a tour of USS Steven W. Groves (FFG 29) during their five-day port visit as part of.jpg",
+      "description": "New London, Conn. (Jul. 5, 2003) -- Lt. Cmdr. Robert DuMont, Executive Officer USS Steven W. Groves (FFG 29), provides Dr. Dick and Mrs. Shirley Groves a tour of the Oliver Hazard Perry-class guided m",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/US_Navy_051205-N-5539C-002_Veterans_of_the_World_War_II-era_Wickes-class_destroyer_USS_Ward_%28DD_139%29_are_greeted_aboard_the_guided_missile_frigate_USS_Crommelin_%28FFG_37%29_by_the_ship%27s_commanding_officer%2C_Cmdr._Mark_Manfre.jpg/1280px-thumbnail.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/d7/US_Navy_051205-N-5539C-002_Veterans_of_the_World_War_II-era_Wickes-class_destroyer_USS_Ward_%28DD_139%29_are_greeted_aboard_the_guided_missile_frigate_USS_Crommelin_%28FFG_37%29_by_the_ship%27s_commanding_officer%2C_Cmdr._Mark_Manfre.jpg",
+      "width": 2100,
+      "height": 1500,
+      "title": "US Navy 051205-N-5539C-002 Veterans of the World War II-era Wickes-class destroyer USS Ward (DD 139) are greeted aboard the guided missile frigate USS Crommelin (FFG 37) by the ship's commanding officer, Cmdr. Mark Manfre.jpg",
+      "description": "Pearl Harbor, Hawaii (Dec. 5, 2005) - Veterans of the World War II-era Wickes-class destroyer USS Ward (DD 139) are greeted aboard the guided missile frigate USS Crommelin (FFG 37) by the ship\u2019s comma",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/US_Navy_060908-N-1120L-025_Sailors_assigned_to_the_guided_missile_frigate_USS_Elrod_%28FFG_55%29_prepare_to_lay_a_wreath_at_the_World_War_II_memorial_in_Hero%27s_Square_in_Novorossiysk%2C_Russia.jpg/1280px-thumbnail.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/0f/US_Navy_060908-N-1120L-025_Sailors_assigned_to_the_guided_missile_frigate_USS_Elrod_%28FFG_55%29_prepare_to_lay_a_wreath_at_the_World_War_II_memorial_in_Hero%27s_Square_in_Novorossiysk%2C_Russia.jpg",
+      "width": 3008,
+      "height": 2000,
+      "title": "US Navy 060908-N-1120L-025 Sailors assigned to the guided missile frigate USS Elrod (FFG 55) prepare to lay a wreath at the World War II memorial in Hero's Square in Novorossiysk, Russia.jpg",
+      "description": "Novorossiysk, Russia  (Sept. 8, 2006) - Sailors assigned to the guided missile frigate USS Elrod (FFG 55) prepare to lay a wreath at the World War II memorial in Hero\u2019s Square in Novorossiysk, Russia.",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/US_Navy_100703-N-3038C-207_Cmdr._Stephen_Fuller%2C_right%2C_commanding_officer_of_the_guided-missile_frigate_USS_Hawes_%28FFG_53%29_and_a_National_Park_Service_ranger_prepare_to_place_a_wreath_in_the_water_to_honor_World_War_II.jpg/1280px-thumbnail.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/US_Navy_100703-N-3038C-207_Cmdr._Stephen_Fuller%2C_right%2C_commanding_officer_of_the_guided-missile_frigate_USS_Hawes_%28FFG_53%29_and_a_National_Park_Service_ranger_prepare_to_place_a_wreath_in_the_water_to_honor_World_War_II.jpg",
+      "width": 3888,
+      "height": 2592,
+      "title": "US Navy 100703-N-3038C-207 Cmdr. Stephen Fuller, right, commanding officer of the guided-missile frigate USS Hawes (FFG 53) and a National Park Service ranger prepare to place a wreath in the water to honor World War II.jpg",
+      "description": "BOSTON, Mass. (July 3, 2010) Cmdr. Stephen Fuller, right, commanding officer of the guided-missile frigate USS Hawes (FFG 53) and a National Park Service ranger prepare to place a wreath in the water ",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/US_Navy_100908-N-7638K-025_USS_Taylor_%28FFG_50%29_is_moored_in_Murmansk%2C_Russia.jpg/1280px-US_Navy_100908-N-7638K-025_USS_Taylor_%28FFG_50%29_is_moored_in_Murmansk%2C_Russia.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/87/US_Navy_100908-N-7638K-025_USS_Taylor_%28FFG_50%29_is_moored_in_Murmansk%2C_Russia.jpg",
+      "width": 3872,
+      "height": 2592,
+      "title": "US Navy 100908-N-7638K-025 USS Taylor (FFG 50) is moored in Murmansk, Russia.jpg",
+      "description": "MURMANSK, Russia (Sept. 8, 2010) The guided-missile frigate USS Taylor (FFG 50) is moored in Murmansk, Russia, to celebrate the close World War II alliance between Russia and the U.S., and to honor ve",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/US_Navy_110612-N-MN502-019_Sailors_remove_a_main_transmission_module_aboard_USS_Boone_%28FFG_28%29.jpg/1280px-US_Navy_110612-N-MN502-019_Sailors_remove_a_main_transmission_module_aboard_USS_Boone_%28FFG_28%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/83/US_Navy_110612-N-MN502-019_Sailors_remove_a_main_transmission_module_aboard_USS_Boone_%28FFG_28%29.jpg",
+      "width": 2000,
+      "height": 1333,
+      "title": "US Navy 110612-N-MN502-019 Sailors remove a main transmission module aboard USS Boone (FFG 28).jpg",
+      "description": "CONCEPCION, Chile (June 12, 2011) Sailors assigned to Anti-Submarine Helicopter Sqaudron Light (HSL) 44 remove a main transmission module aboard the guided-missile frigate USS Boone (FFG 28). Boone is",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/HMCS_Vancouver_%28FFH_331%29_and_ROKS_Seoul_%28FFG-821%29_underway_in_the_Yellow_Sea_during_the_commemoration_of_the_73rd_anniversary_of_the_Battle_of_Incheon_on_14_September_2023.jpg/1280px-thumbnail.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/36/HMCS_Vancouver_%28FFH_331%29_and_ROKS_Seoul_%28FFG-821%29_underway_in_the_Yellow_Sea_during_the_commemoration_of_the_73rd_anniversary_of_the_Battle_of_Incheon_on_14_September_2023.jpg",
+      "width": 5202,
+      "height": 3468,
+      "title": "HMCS Vancouver (FFH 331) and ROKS Seoul (FFG-821) underway in the Yellow Sea during the commemoration of the 73rd anniversary of the Battle of Incheon on 14 September 2023.jpg",
+      "description": "YELLOW SEA (Sep 14, 2023) The forward-deployed amphibious assault carrier USS America (LHA 6), conducts a formation steaming exercise along with Republic of Korea Daegu-class frigate ROKS Seoul (FFG 8",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Model_of_HDF-3500_frigate.jpg/1280px-Model_of_HDF-3500_frigate.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/86/Model_of_HDF-3500_frigate.jpg",
+      "width": 2048,
+      "height": 1536,
+      "title": "Model of HDF-3500 frigate.jpg",
+      "description": "2021\u5e746\u6708\u306b\u91dc\u5c71\u3067\u958b\u50ac\u3055\u308c\u305f\u56fd\u969b\u6d77\u6d0b\u9632\u885b\u7523\u696d\u5c55\uff08MADEX\uff09\u306b\u304a\u3044\u3066\u3001\u73fe\u4ee3\u91cd\u5de5\u696d\u304c\u5c55\u793a\u3057\u305f\u6a21\u578b\u3002\u97d3\u56fd\u6d77\u8ecd\u306e\u5927\u90b1\u7d1a\u30d5\u30ea\u30b2\u30fc\u30c8\u306e\u8a2d\u8a08\u3067\u3042\u308b\u3002",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/ROKS_Seoul_%28FFG-821%29_underway_in_the_Yellow_Sea_during_the_commemoration_of_the_73rd_anniversary_of_the_Battle_of_Incheon_on_14_September_2023_%28cropped%29.jpg/1280px-ROKS_Seoul_%28FFG-821%29_underway_in_the_Yellow_Sea_during_the_commemoration_of_the_73rd_anniversary_of_the_Battle_of_Incheon_on_14_September_2023_%28cropped%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/0f/ROKS_Seoul_%28FFG-821%29_underway_in_the_Yellow_Sea_during_the_commemoration_of_the_73rd_anniversary_of_the_Battle_of_Incheon_on_14_September_2023_%28cropped%29.jpg",
+      "width": 1942,
+      "height": 1093,
+      "title": "ROKS Seoul (FFG-821) underway in the Yellow Sea during the commemoration of the 73rd anniversary of the Battle of Incheon on 14 September 2023 (cropped).jpg",
+      "description": "YELLOW SEA (Sep 14, 2023) The forward-deployed amphibious assault carrier USS America (LHA 6), conducts a formation steaming exercise along with Republic of Korea Daegu-class frigate ROKS Seoul (FFG 8",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/USS_John_Finn_%28DDG-113%29_sails_in_formation_with_Republic_of_Korea_Navy_ships_during_Maritime_Counter_Special_Operations_Exercise_in_the_Yellow_Sea_on_27_April_2023_-_1.jpg/1280px-thumbnail.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/c2/USS_John_Finn_%28DDG-113%29_sails_in_formation_with_Republic_of_Korea_Navy_ships_during_Maritime_Counter_Special_Operations_Exercise_in_the_Yellow_Sea_on_27_April_2023_-_1.jpg",
+      "width": 6272,
+      "height": 4480,
+      "title": "USS John Finn (DDG-113) sails in formation with Republic of Korea Navy ships during Maritime Counter Special Operations Exercise in the Yellow Sea on 27 April 2023 - 1.jpg",
+      "description": "230427-N-CD453-2001 YELLOW SEA (April 27, 2023) Arleigh Burke-class guided-missile destroyer USS John Finn (DDG 113) sails in formation with Republic of Korea Navy ships Sejong the Great-class guided-",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/USS_John_Finn_%28DDG-113%29_sails_in_formation_with_Republic_of_Korea_Navy_ships_during_Maritime_Counter_Special_Operations_Exercise_in_the_Yellow_Sea_on_27_April_2023_-_2.jpg/1280px-thumbnail.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/fd/USS_John_Finn_%28DDG-113%29_sails_in_formation_with_Republic_of_Korea_Navy_ships_during_Maritime_Counter_Special_Operations_Exercise_in_the_Yellow_Sea_on_27_April_2023_-_2.jpg",
+      "width": 4534,
+      "height": 3239,
+      "title": "USS John Finn (DDG-113) sails in formation with Republic of Korea Navy ships during Maritime Counter Special Operations Exercise in the Yellow Sea on 27 April 2023 - 2.jpg",
+      "description": "230427-N-CD453-2062 YELLOW SEA (April 27, 2023) U.S. Army AH-64D/E Apache helicopters attached to the 5th Squadron, 17th Cavalry Regiment, 2nd Combat Aviation Brigade, fly alongside Arleigh Burke-clas",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/USS_John_Finn_%28DDG-113%29_sails_in_formation_with_Republic_of_Korea_Navy_ships_during_Maritime_Counter_Special_Operations_Exercise_in_the_Yellow_Sea_on_27_April_2023_-_3.jpg/1280px-thumbnail.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/60/USS_John_Finn_%28DDG-113%29_sails_in_formation_with_Republic_of_Korea_Navy_ships_during_Maritime_Counter_Special_Operations_Exercise_in_the_Yellow_Sea_on_27_April_2023_-_3.jpg",
+      "width": 4615,
+      "height": 3296,
+      "title": "USS John Finn (DDG-113) sails in formation with Republic of Korea Navy ships during Maritime Counter Special Operations Exercise in the Yellow Sea on 27 April 2023 - 3.jpg",
+      "description": "230427-N-CD453-1055 YELLOW SEA (April 27, 2023) U.S. Army AH-64D/E Apache helicopters attached to the 5th Squadron, 17th Cavalry Regiment, 2nd Combat Aviation Brigade, fly alongside Arleigh Burke-clas",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/USS_John_Finn_%28DDG-113%29_sails_in_formation_with_Republic_of_Korea_Navy_ships_during_Maritime_Counter_Special_Operations_Exercise_in_the_Yellow_Sea_on_27_April_2023_-_4.jpg/1280px-thumbnail.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/USS_John_Finn_%28DDG-113%29_sails_in_formation_with_Republic_of_Korea_Navy_ships_during_Maritime_Counter_Special_Operations_Exercise_in_the_Yellow_Sea_on_27_April_2023_-_4.jpg",
+      "width": 4769,
+      "height": 3406,
+      "title": "USS John Finn (DDG-113) sails in formation with Republic of Korea Navy ships during Maritime Counter Special Operations Exercise in the Yellow Sea on 27 April 2023 - 4.jpg",
+      "description": "230427-N-CD453-1065 YELLOW SEA (April 27, 2023) U.S. Army AH-64D/E Apache helicopters attached to the 5th Squadron, 17th Cavalry Regiment, 2nd Combat Aviation Brigade, fly alongside Arleigh Burke-clas",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/USS_John_Finn_%28DDG-113%29_sails_in_formation_with_Republic_of_Korea_Navy_ships_during_Maritime_Counter_Special_Operations_Exercise_in_the_Yellow_Sea_on_27_April_2023_-_5.jpg/1280px-thumbnail.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/9e/USS_John_Finn_%28DDG-113%29_sails_in_formation_with_Republic_of_Korea_Navy_ships_during_Maritime_Counter_Special_Operations_Exercise_in_the_Yellow_Sea_on_27_April_2023_-_5.jpg",
+      "width": 5460,
+      "height": 3900,
+      "title": "USS John Finn (DDG-113) sails in formation with Republic of Korea Navy ships during Maritime Counter Special Operations Exercise in the Yellow Sea on 27 April 2023 - 5.jpg",
+      "description": "230427-N-CD453-1092 YELLOW SEA (April 27, 2023) U.S. Army AH-64D/E Apache helicopters attached to the 5th Squadron, 17th Cavalry Regiment, 2nd Combat Aviation Brigade, fly alongside Arleigh Burke-clas",
+      "license": "Public domain",
+      "source": "wikimedia"
+    }
+  ]
+}

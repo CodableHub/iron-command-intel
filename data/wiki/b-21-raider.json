@@ -1,0 +1,411 @@
+{
+  "id": 104,
+  "slug": "b-21-raider",
+  "name": "Northrop Grumman B-21 Raider",
+  "designation": "B-21",
+  "type": "bomber",
+  "country": "United States",
+  "operator": "U.S. Air Force",
+  "overview_md": "The B-21 Raider represents the United States' next-generation strategic bomber, designed to penetrate advanced air defense networks that have evolved since the B-2 Spirit's development in the 1980s. As the cornerstone of America's future nuclear triad and conventional long-range strike capability, the B-21 incorporates 21st-century stealth technology, open-architecture systems, and advanced manufacturing techniques to maintain air superiority against peer adversaries like China and Russia.\n\nThe aircraft's design philosophy centers on affordability at scale and technological adaptability\u2014lessons learned from the B-2's $44 billion program cost for just 21 aircraft. Northrop Grumman leveraged existing technologies, digital engineering, and commercial manufacturing practices to create a bomber that can be produced in meaningful quantities while incorporating upgrades throughout its service life. The Air Force plans to procure at least 100 aircraft, with the capability to expand production if strategic requirements demand.\n\nIn the current threat environment, the B-21 addresses the proliferation of sophisticated integrated air defense systems (IADS) deployed by near-peer competitors. Unlike legacy bombers that rely on standoff weapons or fighter escorts, the Raider is designed to operate unescorted in contested airspace, providing theater commanders with assured access for both nuclear and conventional missions. Its multi-spectral stealth characteristics reportedly exceed the B-2's already formidable signature reduction.\n\nCompared to its peers\u2014primarily China's H-20 and Russia's PAK DA\u2014the B-21 benefits from America's substantial investment in stealth technology maturation and operational experience. While specific performance parameters remain classified, the Air Force has indicated the Raider will be capable of global operations without forward basing requirements, addressing the vulnerability of fixed overseas installations in a peer conflict scenario.",
+  "specs_json": {
+    "displacement_tonnes": null,
+    "length_m": 52.0,
+    "beam_m": 40.2,
+    "draft_m": null,
+    "speed_knots": null,
+    "range_nm": 6000,
+    "crew": 2,
+    "propulsion": "Two Pratt & Whitney F135 derivative engines",
+    "radar": "AN/APG-81 derivative AESA radar (estimated)",
+    "sonar": null,
+    "combat_system": "Advanced Battle Management System (ABMS) compatible",
+    "vls_cells": null,
+    "additional": {
+      "max_takeoff_weight_kg": 170000,
+      "service_ceiling_m": 15240,
+      "payload_capacity_kg": 13607,
+      "rcs_estimate_m2": "classified - likely <0.0001",
+      "stealth_spectrum": "Multi-spectral (radar, infrared, visual, acoustic)",
+      "avionics": "Open Mission Systems (OMS) architecture",
+      "communication": "Link 16, SATCOM, LPI/LPD waveforms"
+    }
+  },
+  "armament_json": [
+    {
+      "category": "Nuclear",
+      "name": "B61-12 gravity bomb",
+      "type": "variable-yield nuclear weapon",
+      "quantity": "up to 16",
+      "range_km": 0,
+      "notes": "Primary nuclear payload"
+    },
+    {
+      "category": "Nuclear",
+      "name": "Long Range Standoff Weapon (LRSO)",
+      "type": "nuclear cruise missile",
+      "quantity": "classified",
+      "range_km": 2500,
+      "notes": "Future nuclear cruise missile"
+    },
+    {
+      "category": "Conventional",
+      "name": "GBU-31 JDAM",
+      "type": "GPS-guided bomb",
+      "quantity": "up to 16",
+      "range_km": 28,
+      "notes": "2,000 lb GPS-guided munition"
+    },
+    {
+      "category": "Conventional",
+      "name": "GBU-53/B StormBreaker",
+      "type": "small diameter bomb",
+      "quantity": "classified",
+      "range_km": 110,
+      "notes": "Multi-mode seeker SDB"
+    },
+    {
+      "category": "Conventional",
+      "name": "AGM-158 JASSM-ER",
+      "type": "standoff cruise missile",
+      "quantity": "classified",
+      "range_km": 1000,
+      "notes": "Stealth cruise missile"
+    },
+    {
+      "category": "Hypersonic",
+      "name": "AGM-183A ARRW",
+      "type": "air-launched hypersonic weapon",
+      "quantity": "TBD",
+      "range_km": 1600,
+      "notes": "Future hypersonic capability"
+    }
+  ],
+  "variants_json": [
+    {
+      "name": "B-21A",
+      "designation_range": "B-21A",
+      "years": "2024-present",
+      "count": 2,
+      "key_changes": "Initial production variant with baseline avionics suite and stealth configuration",
+      "status": "building"
+    }
+  ],
+  "fleet_status_json": [
+    {
+      "hull_number": "82-8001",
+      "name": "Spirit of America",
+      "variant": "B-21A",
+      "commissioned": "2023-12-02",
+      "home_port": "Edwards AFB, CA",
+      "status": "testing"
+    },
+    {
+      "hull_number": "82-8002",
+      "name": "TBD",
+      "variant": "B-21A",
+      "commissioned": "2024",
+      "home_port": "Edwards AFB, CA",
+      "status": "testing"
+    }
+  ],
+  "cost_usd": 2800000000.0,
+  "unit_count": 2,
+  "first_commissioned": "2024",
+  "builder": "Northrop Grumman",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/B-21-in-flight.jpg",
+  "wiki_url": "https://en.wikipedia.org/wiki/Northrop_Grumman_B-21_Raider",
+  "sources_json": [
+    "https://en.wikipedia.org/wiki/Northrop_Grumman_B-21_Raider",
+    "https://www.af.mil/News/Article-Display/Article/1670911/air-force-officially-names-b-21-bomber-raider/",
+    "https://www.northropgrumman.com/what-we-do/air/b-21-raider/",
+    "https://www.airforcemag.com/b-21-raider-first-flight/",
+    "https://breakingdefense.com/tag/b-21-raider/"
+  ],
+  "comparison_tags": [
+    "bomber",
+    "stealth",
+    "strategic",
+    "nuclear-capable",
+    "us-air-force",
+    "penetrating-strike"
+  ],
+  "created_at": "2026-04-11 10:21:03",
+  "updated_at": "2026-04-11T10:21:03.990211",
+  "news": [],
+  "events": [],
+  "ic_coverage": [],
+  "combat_history": [
+    {
+      "date": "2023-12-02",
+      "operation": "First Flight",
+      "event": "B-21 test aircraft 82-8001 completed maiden flight from Edwards AFB, conducting basic flight envelope testing",
+      "significance": "Demonstrates program transition from development to flight testing phase, marking major milestone for next-generation bomber capability"
+    }
+  ],
+  "modernization": [
+    {
+      "program": "Digital Backbone Integration",
+      "status": "in-progress",
+      "timeline": "2024-2030",
+      "description": "Integration of Open Mission Systems architecture to enable rapid capability updates and third-party system integration",
+      "impact": "Enables continuous capability evolution without major aircraft modifications"
+    },
+    {
+      "program": "Advanced Electronic Warfare Suite",
+      "status": "planned",
+      "timeline": "2026-2028",
+      "description": "Enhanced EW capabilities to counter emerging threat radar and communication systems",
+      "impact": "Maintains stealth advantage against evolving air defense technologies"
+    },
+    {
+      "program": "Hypersonic Weapon Integration",
+      "status": "in-progress",
+      "timeline": "2025-2027",
+      "description": "Integration of AGM-183A ARRW and future hypersonic weapons for time-critical targeting",
+      "impact": "Provides capability against heavily defended, relocatable targets"
+    }
+  ],
+  "vulnerabilities": [
+    {
+      "area": "Production Rate Constraints",
+      "description": "Limited to approximately 15 aircraft per year at current production rate, insufficient for rapid force expansion",
+      "context": "Peer competitors may achieve numerical superiority in strategic bombers through higher production rates",
+      "mitigation": "Air Force exploring production line acceleration and additional manufacturing facilities"
+    },
+    {
+      "area": "Forward Basing Dependence",
+      "description": "Despite intercontinental range, extended operations in Pacific theater likely require forward staging from potentially vulnerable bases",
+      "context": "China's anti-access capabilities threaten Guam, Japan, and Australia-based operations",
+      "mitigation": "Distributed operations concept and hardened facility construction"
+    },
+    {
+      "area": "Multi-Static Radar Detection",
+      "description": "Advanced bistatic and multistatic radar networks may degrade stealth effectiveness through cross-section analysis",
+      "context": "China and Russia developing networked radar systems specifically designed to counter stealth aircraft",
+      "mitigation": "Electronic warfare integration and adaptive stealth materials research"
+    },
+    {
+      "area": "Cyber Attack Surface",
+      "description": "Heavy reliance on networked systems and data links creates potential cyber vulnerabilities",
+      "context": "Peer adversaries possess sophisticated cyber warfare capabilities targeting military networks",
+      "mitigation": "Classified cybersecurity measures and air-gapped critical systems"
+    }
+  ],
+  "operational_patterns": {
+    "typical_deployment": "Strategic deterrence patrols, theater strike missions, ISR operations",
+    "deployment_length_months": 6,
+    "key_operating_areas": [
+      "Pacific Theater",
+      "European Theater",
+      "CONUS-based global reach"
+    ],
+    "typical_task_group": "Independent operations or small bomber task force",
+    "readiness_notes": "Currently limited by test aircraft availability and pilot training pipeline development"
+  },
+  "peer_comparisons": [
+    {
+      "platform": "Xian H-20",
+      "country": "China",
+      "relationship": "direct rival",
+      "key_differences": "H-20 reportedly optimized for regional operations in Pacific theater with potentially larger payload capacity but less mature stealth technology and global reach capability",
+      "video_angle": "Next-generation bomber race: comparing stealth philosophies and strategic objectives between superpowers"
+    },
+    {
+      "platform": "Tupolev PAK DA",
+      "country": "Russia",
+      "relationship": "direct rival",
+      "key_differences": "PAK DA development significantly delayed with unclear stealth capabilities, likely emphasizing standoff weapons over penetrating stealth design",
+      "video_angle": "Why Russia's next-gen bomber lags behind: resource constraints vs technological ambitions"
+    },
+    {
+      "platform": "Northrop B-2 Spirit",
+      "country": "United States",
+      "relationship": "predecessor",
+      "key_differences": "B-21 incorporates 30 years of stealth technology advancement, designed for affordability and adaptability vs B-2's exquisite but expensive design",
+      "video_angle": "Evolution of American stealth bombing: what the B-21 learned from B-2's successes and failures"
+    },
+    {
+      "platform": "Boeing B-52 Stratofortress",
+      "country": "United States",
+      "relationship": "complementary platform",
+      "key_differences": "B-52 provides high-capacity standoff strike in permissive environments while B-21 enables penetrating strikes in contested airspace",
+      "video_angle": "High-low bomber mix: why the Air Force needs both 70-year-old B-52s and cutting-edge B-21s"
+    }
+  ],
+  "search_keywords": [
+    "b-21 raider",
+    "B-21",
+    "b21",
+    "raider bomber",
+    "northrop grumman bomber",
+    "next generation bomber",
+    "stealth bomber",
+    "strategic bomber",
+    "long range strike bomber",
+    "LRS-B"
+  ],
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/B-21-in-flight.jpg/1280px-B-21-in-flight.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/B-21-in-flight.jpg",
+      "width": 4625,
+      "height": 3085,
+      "title": "B-21-in-flight.jpg",
+      "description": "B-21 in flight 2024. A B-21 Raider conducts flight testing, which includes ground testing, taxiing, and flying operations, at Edwards Air Force Base, California.",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/B-21-in-flight_%28uncropped%29.jpg/1280px-B-21-in-flight_%28uncropped%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/19/B-21-in-flight_%28uncropped%29.jpg",
+      "width": 8192,
+      "height": 5464,
+      "title": "B-21-in-flight (uncropped).jpg",
+      "description": "B-21 Raider w\u00e4hrend eines Testfluges",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/B-21_Plant_42_hangar.jpg/1280px-B-21_Plant_42_hangar.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/81/B-21_Plant_42_hangar.jpg",
+      "width": 5568,
+      "height": 3712,
+      "title": "B-21 Plant 42 hangar.jpg",
+      "description": "<a href=\"https://en.wikipedia.org/wiki/Northrop_Grumman_B-21_Raider\" class=\"extiw\" title=\"w:Northrop Grumman B-21 Raider\">Northrop Grumman B-21 Raider</a> in a <a href=\"https://en.wikipedia.org/wiki/h",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/46/B-21_Raider_at_Edwards_Air_Force_Base.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/46/B-21_Raider_at_Edwards_Air_Force_Base.jpg",
+      "width": 800,
+      "height": 533,
+      "title": "B-21 Raider at Edwards Air Force Base.jpg",
+      "description": "A second B-21 Raider, the nation\u2019s sixth-generation stealth bomber, joins flight testing at Edwards Air Force Base, Calif., Sept. 11. The program is a cornerstone of the Department of the Air Force\u2019s ",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/B-21_Raider_second_production.jpg/1280px-B-21_Raider_second_production.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/61/B-21_Raider_second_production.jpg",
+      "width": 8085,
+      "height": 5393,
+      "title": "B-21 Raider second production.jpg",
+      "description": "A second B-21 Raider, the nation\u2019s sixth-generation stealth bomber, joins flight testing at Edwards Air Force Base, Calif., Sept. 11, 2025. The program is a cornerstone of the Department of the Air Fo",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/B-21_rendering_3.jpg/1280px-B-21_rendering_3.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/27/B-21_rendering_3.jpg",
+      "width": 8275,
+      "height": 5340,
+      "title": "B-21 rendering 3.jpg",
+      "description": "Shown is a <a href=\"https://en.wikipedia.org/wiki/Northrop_Grumman_B-21_Raider\" class=\"extiw\" title=\"w:Northrop Grumman B-21 Raider\">Northrop Grumman B-21 Raider</a> artist rendering graphic. The rend",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/61/Second_Production_B-21_Raider.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/61/Second_Production_B-21_Raider.jpg",
+      "width": 800,
+      "height": 534,
+      "title": "Second Production B-21 Raider.jpg",
+      "description": "A second B-21 Raider, the world\u2019s sixth-generation stealth bomber, test aircraft arrives at Edwards Air Force Base, Calif., Sept. 11, 2025. The addition of the second test aircraft expands mission sys",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/US_Air_Force_announces_arrival_of_second_B-21_test_aircraft_at_Edwards_AFB_250911-F-F3413-1043.jpg/1280px-US_Air_Force_announces_arrival_of_second_B-21_test_aircraft_at_Edwards_AFB_250911-F-F3413-1043.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/43/US_Air_Force_announces_arrival_of_second_B-21_test_aircraft_at_Edwards_AFB_250911-F-F3413-1043.jpg",
+      "width": 8192,
+      "height": 5464,
+      "title": "US Air Force announces arrival of second B-21 test aircraft at Edwards AFB 250911-F-F3413-1043.jpg",
+      "description": "A second B-21 Raider, the world\u2019s sixth-generation stealth bomber, test aircraft arrives at Edwards Air Force Base, Calif., Sept. 11, 2025. The addition of the second test aircraft expands mission sys",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Consolidated_P2Y-3_VP-7_1936.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Consolidated_P2Y-3_VP-7_1936.jpg",
+      "width": 790,
+      "height": 451,
+      "title": "Consolidated P2Y-3 VP-7 1936.jpg",
+      "description": "A U.S. Navy Consolidated P2Y-3 of patrol squadron VP-7 in 1936.",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/E._B._Taylor._1924_Navy_captain_tackling.jpg/1280px-E._B._Taylor._1924_Navy_captain_tackling.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/E._B._Taylor._1924_Navy_captain_tackling.jpg",
+      "width": 1313,
+      "height": 1282,
+      "title": "E. B. Taylor. 1924 Navy captain tackling.jpg",
+      "description": "Caption text says \"In The Above photo you see E. B. Taylor, husky captain of the Navy's eleven, diving headlong into a member of the squad.\"",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/31/Patrol_Squadron_21_%28US_Navy%29_insignia_1959.png",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/31/Patrol_Squadron_21_%28US_Navy%29_insignia_1959.png",
+      "width": 199,
+      "height": 193,
+      "title": "Patrol Squadron 21 (US Navy) insignia 1959.png",
+      "description": "Insignia of the U.S. Navy Patrol Squadron 21 (VP-21) \"Black Jacks\", approved on 17 August 1959.",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/US_Navy_051021-N-4374S-002_The_guided_missile_frigate_USS_Samuel_B._Roberts_%28FFG_58%29_transits_trough_the_waters_of_Rio_de_Janeiro%2C_Brazil%2C_during_UNITAS_47-06.jpg/1280px-thumbnail.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/US_Navy_051021-N-4374S-002_The_guided_missile_frigate_USS_Samuel_B._Roberts_%28FFG_58%29_transits_trough_the_waters_of_Rio_de_Janeiro%2C_Brazil%2C_during_UNITAS_47-06.jpg",
+      "width": 2100,
+      "height": 1500,
+      "title": "US Navy 051021-N-4374S-002 The guided missile frigate USS Samuel B. Roberts (FFG 58) transits trough the waters of Rio de Janeiro, Brazil, during UNITAS 47-06.jpg",
+      "description": "Rio De Janeiro, Brazil (Oct. 21, 2005) - The guided missile frigate USS Samuel B. Roberts (FFG 58) transits trough the waters of Rio de Janeiro, Brazil, during UNITAS 47-06 Atlantic Phase. Naval force",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/US_Navy_051021-N-4374S-007_The_guided_missile_frigate_USS_Samuel_B._Roberts_%28FFG_58%29%2C_leading_front_of_a_formation.jpg/1280px-US_Navy_051021-N-4374S-007_The_guided_missile_frigate_USS_Samuel_B._Roberts_%28FFG_58%29%2C_leading_front_of_a_formation.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/e4/US_Navy_051021-N-4374S-007_The_guided_missile_frigate_USS_Samuel_B._Roberts_%28FFG_58%29%2C_leading_front_of_a_formation.jpg",
+      "width": 2100,
+      "height": 1500,
+      "title": "US Navy 051021-N-4374S-007 The guided missile frigate USS Samuel B. Roberts (FFG 58), leading front of a formation.jpg",
+      "description": "Atlantic Ocean (Oct. 21, 2005) - The guided missile frigate USS Samuel B. Roberts (FFG 58), leading front of a formation, executes a divisional tactical maneuver with the naval forces from Argentina, ",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/US_Navy_090723-N-7090S-103_The_first_crew_of_the_amphibious_transport_dock_ship_USS_New_York_%28LPD_21%29_stands_in_formation_behind_Cmdr._F._Curtis_Jones%2C_commanding_officer%2C_Cmdr._Erich_B._Schmidt%2C.jpg/1280px-thumbnail.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/92/US_Navy_090723-N-7090S-103_The_first_crew_of_the_amphibious_transport_dock_ship_USS_New_York_%28LPD_21%29_stands_in_formation_behind_Cmdr._F._Curtis_Jones%2C_commanding_officer%2C_Cmdr._Erich_B._Schmidt%2C.jpg",
+      "width": 2832,
+      "height": 3519,
+      "title": "US Navy 090723-N-7090S-103 The first crew of the amphibious transport dock ship USS New York (LPD 21) stands in formation behind Cmdr. F. Curtis Jones, commanding officer, Cmdr. Erich B. Schmidt,.jpg",
+      "description": "AVONDALE, La. (July 23, 2009) The first crew of the amphibious transport dock ship USS New York (LPD 21) stands in formation behind Cmdr. F. Curtis Jones, commanding officer; Cmdr. Erich B. Schmidt, e",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/US_Navy_111021-N-AC887-001_Secretary_of_the_Navy_%28SECNAV%29_the_Honorable_Ray_Mabus_greets_U.S._Ambassador_to_the_United_Kingdom_Louis_B._Susman.jpg/1280px-US_Navy_111021-N-AC887-001_Secretary_of_the_Navy_%28SECNAV%29_the_Honorable_Ray_Mabus_greets_U.S._Ambassador_to_the_United_Kingdom_Louis_B._Susman.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/91/US_Navy_111021-N-AC887-001_Secretary_of_the_Navy_%28SECNAV%29_the_Honorable_Ray_Mabus_greets_U.S._Ambassador_to_the_United_Kingdom_Louis_B._Susman.jpg",
+      "width": 2100,
+      "height": 1500,
+      "title": "US Navy 111021-N-AC887-001 Secretary of the Navy (SECNAV) the Honorable Ray Mabus greets U.S. Ambassador to the United Kingdom Louis B. Susman.jpg",
+      "description": "LONDON, England (Oct. 21, 2011) Secretary of the Navy (SECNAV) the Honorable Ray Mabus greets U.S. Ambassador to the United Kingdom Louis B. Susman. While in the United Kingdom, Mabus also met with Ma",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/US_Navy_120121-N-FI736-205_The_Oliver_Hazard_Perry-class_frigate_USS_Samuel_B._Roberts_%28FFG_58%29_and_the_Ticonderoga-class_guided-missile_cruiser_US.jpg/1280px-US_Navy_120121-N-FI736-205_The_Oliver_Hazard_Perry-class_frigate_USS_Samuel_B._Roberts_%28FFG_58%29_and_the_Ticonderoga-class_guided-missile_cruiser_US.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/7b/US_Navy_120121-N-FI736-205_The_Oliver_Hazard_Perry-class_frigate_USS_Samuel_B._Roberts_%28FFG_58%29_and_the_Ticonderoga-class_guided-missile_cruiser_US.jpg",
+      "width": 2520,
+      "height": 1800,
+      "title": "US Navy 120121-N-FI736-205 The Oliver Hazard Perry-class frigate USS Samuel B. Roberts (FFG 58) and the Ticonderoga-class guided-missile cruiser US.jpg",
+      "description": "ATLANTIC OCEAN (Jan. 21, 2012) The Oliver Hazard Perry-class frigate USS Samuel B. Roberts (FFG 58) and the Ticonderoga-class guided-missile cruiser USS Normandy (CG 60) are underway with the aircraft",
+      "license": "Public domain",
+      "source": "wikimedia"
+    }
+  ],
+  "doctrine": null,
+  "curated_sources": []
+}

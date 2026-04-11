@@ -1,0 +1,113 @@
+{
+  "combat_history": [
+    {
+      "date": "2018-03",
+      "operation": "Kinzhal testing",
+      "event": "First successful test of Kh-47M2 Kinzhal hypersonic missile from MiG-31BM",
+      "significance": "Demonstrated Russia's air-launched hypersonic capability"
+    },
+    {
+      "date": "2022-03-18",
+      "operation": "Ukraine invasion",
+      "event": "First combat use of Kinzhal missile against underground weapons storage in Deliatyn",
+      "significance": "First operational use of air-launched hypersonic weapon in combat"
+    },
+    {
+      "date": "2022-2023",
+      "operation": "Ukraine conflict",
+      "event": "Multiple Kinzhal strikes against Ukrainian infrastructure and military targets",
+      "significance": "Operational validation of hypersonic strike capability"
+    }
+  ],
+  "modernization": [
+    {
+      "program": "MiG-31BM upgrade program",
+      "status": "in-progress",
+      "timeline": "2010-2030",
+      "description": "Comprehensive modernization of existing MiG-31 fleet with new radar, avionics, weapons compatibility",
+      "impact": "Extends service life to 2030s, adds hypersonic weapons capability"
+    },
+    {
+      "program": "MiG-31BSM standard",
+      "status": "in-progress",
+      "timeline": "2020-2025",
+      "description": "Latest upgrade standard with enhanced electronic warfare suite and improved datalink",
+      "impact": "Improved survivability against modern air defenses"
+    }
+  ],
+  "vulnerabilities": [
+    {
+      "area": "Maneuverability",
+      "description": "Large, heavy interceptor with limited dogfighting capability and high IR signature",
+      "context": "Vulnerable to modern fighters in close combat, particularly F-22/F-35 with stealth advantage",
+      "mitigation": "Relies on long-range engagement and avoiding close combat"
+    },
+    {
+      "area": "Electronic warfare",
+      "description": "Older electronic systems vulnerable to modern jamming despite upgrades",
+      "context": "Western EW capabilities can potentially degrade radar effectiveness",
+      "mitigation": "BSM upgrade includes improved EW resistance"
+    },
+    {
+      "area": "Logistics",
+      "description": "Complex, maintenance-intensive platform with limited spare parts production",
+      "context": "Sanctions impact on Western components affects readiness rates",
+      "mitigation": "Import substitution program for critical components"
+    }
+  ],
+  "operational_patterns": {
+    "typical_deployment": "Long-range intercept patrols, hypersonic strike missions",
+    "deployment_length_months": 0,
+    "key_operating_areas": [
+      "Arctic region",
+      "Far East",
+      "Western borders",
+      "Kaliningrad"
+    ],
+    "typical_task_group": "Operates in pairs for mutual support and extended radar coverage",
+    "readiness_notes": "Estimated 60-70% readiness rate due to maintenance complexity and parts availability"
+  },
+  "peer_comparisons": [
+    {
+      "platform": "F-15EX Eagle II",
+      "country": "United States",
+      "relationship": "direct rival",
+      "key_differences": "F-15EX more maneuverable and modern avionics, MiG-31BM faster with longer range and hypersonic weapons",
+      "video_angle": "Speed vs agility: Arctic interceptor vs multi-role fighter comparison"
+    },
+    {
+      "platform": "F-22 Raptor",
+      "country": "United States",
+      "relationship": "primary threat",
+      "key_differences": "F-22 has stealth and superior maneuverability, MiG-31BM has speed, range, and anti-stealth radar claims",
+      "video_angle": "Stealth vs speed: Can the Foxhound hunt the Raptor?"
+    },
+    {
+      "platform": "J-20 Mighty Dragon",
+      "country": "China",
+      "relationship": "allied equivalent",
+      "key_differences": "J-20 emphasizes stealth and agility, MiG-31BM focuses on raw speed and range",
+      "video_angle": "Russia vs China interceptor philosophy comparison"
+    },
+    {
+      "platform": "Eurofighter Typhoon",
+      "country": "Europe",
+      "relationship": "regional rival",
+      "key_differences": "Typhoon more agile with modern electronics, MiG-31BM has speed advantage and hypersonic weapons",
+      "video_angle": "NATO's northern flank defense vs Russian Arctic interceptor"
+    }
+  ],
+  "search_keywords": [
+    "mig-31",
+    "mig 31",
+    "foxhound",
+    "mig-31bm",
+    "mig 31bm",
+    "kinzhal",
+    "zaslon radar",
+    "russian interceptor",
+    "hypersonic missile",
+    "arctic defense"
+  ],
+  "images": []
+}

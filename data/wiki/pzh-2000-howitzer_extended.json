@@ -1,0 +1,226 @@
+{
+  "combat_history": [
+    {
+      "date": "2006-2007",
+      "operation": "Operation Enduring Freedom",
+      "event": "German PzH 2000s deployed to Afghanistan, conducted fire support missions in Kunduz and surrounding provinces. First combat deployment revealed maintenance challenges in dusty conditions.",
+      "significance": "Validated precision fire capability but exposed logistical complexity in expeditionary operations"
+    },
+    {
+      "date": "2022-06",
+      "operation": "Ukrainian Defense",
+      "event": "First Ukrainian crews trained on donated German and Dutch PzH 2000s, began operations against Russian forces in Donbas region with reported high effectiveness.",
+      "significance": "First peer-vs-peer combat employment, demonstrating effectiveness against sophisticated counter-battery threats"
+    },
+    {
+      "date": "2022-08",
+      "operation": "Ukrainian Defense",
+      "event": "Ukrainian PzH 2000s reportedly engaged in counter-battery duels with Russian 2S19 Msta and other systems, with claims of successful MRSI strikes against Russian artillery positions.",
+      "significance": "Proved MRSI concept in actual combat against peer adversary with modern counter-battery radars"
+    },
+    {
+      "date": "2023",
+      "operation": "Ukrainian Defense",
+      "event": "Reports of barrel wear issues and maintenance challenges with Ukrainian PzH 2000s due to high-intensity usage, requiring barrel replacements and extended maintenance periods.",
+      "significance": "Highlighted sustainability challenges of high-tech systems in prolonged high-intensity conflict"
+    }
+  ],
+  "modernization": [
+    {
+      "program": "PzH 2000A2 Digital Upgrade",
+      "status": "completed",
+      "timeline": "2017-2022",
+      "description": "Complete digital architecture overhaul with new fire control computers, improved crew displays, enhanced networking with NATO artillery systems, and better diagnostic capabilities.",
+      "impact": "Significantly improved interoperability and reduced crew workload while enhancing precision"
+    },
+    {
+      "program": "Extended Range Projectile Integration",
+      "status": "in-progress",
+      "timeline": "2020-2025",
+      "description": "Integration of new extended-range guided projectiles including SMArt 155 and Vulcano ammunition, potentially extending range to 80+ km.",
+      "impact": "Would provide precision strike capability approaching tactical missile ranges"
+    },
+    {
+      "program": "Automated Resupply System",
+      "status": "planned",
+      "timeline": "2024-2028",
+      "description": "Development of automated ammunition resupply vehicle to reduce crew exposure and speed reload operations in combat.",
+      "impact": "Could address major vulnerability of manual resupply under fire"
+    },
+    {
+      "program": "Ukrainian Lessons Learned Modifications",
+      "status": "in-progress",
+      "timeline": "2023-2025",
+      "description": "Reliability improvements and maintenance simplifications based on Ukrainian combat experience, including better dust/debris protection and simplified field maintenance procedures.",
+      "impact": "Should improve sustainability in high-intensity operations"
+    }
+  ],
+  "vulnerabilities": [
+    {
+      "area": "Maintenance Complexity",
+      "description": "The PzH 2000's sophisticated automated systems require extensive technical support and spare parts, with maintenance requirements significantly higher than simpler systems like M109.",
+      "context": "Ukrainian operations revealed that high-intensity usage can quickly overwhelm maintenance capabilities, with systems requiring barrel changes after relatively few rounds compared to specifications.",
+      "mitigation": "Germany developing simplified maintenance procedures and forward maintenance packages, but fundamental complexity remains"
+    },
+    {
+      "area": "Ammunition Consumption Rate",
+      "description": "The system's rapid-fire capability can quickly exhaust ammunition supplies, with the automated system encouraging high consumption rates that may not be sustainable in prolonged operations.",
+      "context": "Modern counter-battery threats require rapid shoot-and-scoot tactics, but this conflicts with ammunition conservation needs in protracted conflicts.",
+      "mitigation": "Training emphasizes fire discipline, but no technical solution exists for the fundamental trade-off"
+    },
+    {
+      "area": "Counter-Battery Vulnerability",
+      "description": "Despite mobility, the system's large signature when firing and relatively long emplacement time make it vulnerable to modern counter-battery radars and loitering munitions.",
+      "context": "Russian Zoopark and other modern counter-battery radars can track projectiles back to firing position within seconds, requiring very rapid displacement.",
+      "mitigation": "Improved camouflage systems and faster displacement procedures being developed, but physics of large artillery systems limits options"
+    },
+    {
+      "area": "Electronic Warfare Susceptibility",
+      "description": "Heavy reliance on GPS for precision fires and digital communications makes system vulnerable to jamming and spoofing, particularly in contested electromagnetic environments.",
+      "context": "Russian electronic warfare capabilities have demonstrated ability to degrade GPS precision and disrupt digital communications in Ukraine.",
+      "mitigation": "Backup inertial navigation and conventional plotting procedures exist, but precision suffers significantly"
+    }
+  ],
+  "operational_patterns": {
+    "typical_deployment": "Battery-level operations (6-8 systems) integrated with armored or mechanized formations, emphasis on shoot-and-scoot tactics",
+    "deployment_length_months": 6,
+    "key_operating_areas": [
+      "Central Europe",
+      "Baltic States",
+      "Eastern Mediterranean",
+      "Afghanistan (historical)"
+    ],
+    "typical_task_group": "Artillery battalions supporting armored/mechanized brigades, often with counter-battery radar and ammunition supply vehicles",
+    "readiness_notes": "High maintenance requirements limit sustained availability; German Army typically maintains 60-70% operational readiness due to parts and maintenance crew limitations"
+  },
+  "peer_comparisons": [
+    {
+      "platform": "2S19M2 Msta-S",
+      "country": "Russia",
+      "relationship": "direct rival",
+      "key_differences": "Russian system simpler and more reliable but lacks automated loading and MRSI capability. PzH 2000 superior in burst fire rate and precision but more maintenance-intensive.",
+      "video_angle": "NATO vs Russian artillery philosophy: high-tech precision vs robust simplicity"
+    },
+    {
+      "platform": "K9 Thunder",
+      "country": "South Korea",
+      "relationship": "allied competitor",
+      "key_differences": "K9 offers similar capability at lower cost with better reliability record, but PzH 2000 has superior range and automation. K9 winning more export competitions due to cost-effectiveness.",
+      "video_angle": "European sophistication vs Korean pragmatism in artillery design"
+    },
+    {
+      "platform": "M109A7 Paladin",
+      "country": "United States",
+      "relationship": "allied equivalent",
+      "key_differences": "M109A7 more reliable and easier to maintain but significantly inferior in range and rate of fire. PzH 2000 represents European emphasis on firepower over sustainability.",
+      "video_angle": "American reliability vs German firepower: different approaches to self-propelled artillery"
+    },
+    {
+      "platform": "PLZ-05",
+      "country": "China",
+      "relationship": "peer rival",
+      "key_differences": "Chinese system appears to match range but lacks proven automation and MRSI capability. PzH 2000 has combat-proven effectiveness but PLZ-05 likely more numerous and cheaper to operate.",
+      "video_angle": "Western precision artillery vs Chinese mass production philosophy"
+    },
+    {
+      "platform": "CAESAR 155mm",
+      "country": "France",
+      "relationship": "allied alternative",
+      "key_differences": "CAESAR truck-mounted system more strategic mobile and cheaper but lacks armor protection and automated loading. PzH 2000 better for high-intensity warfare, CAESAR for expeditionary operations.",
+      "video_angle": "Tracked vs wheeled artillery: protection and firepower vs mobility and cost"
+    }
+  ],
+  "search_keywords": [
+    "PzH 2000",
+    "Panzerhaubitze 2000",
+    "German howitzer",
+    "self-propelled artillery",
+    "155mm howitzer",
+    "MRSI artillery",
+    "Ukraine artillery",
+    "NATO artillery",
+    "Krauss-Maffei Wegmann"
+  ],
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Dutch_Panzerhaubitz_fires_in_Afghanistan.jpg/1280px-Dutch_Panzerhaubitz_fires_in_Afghanistan.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Dutch_Panzerhaubitz_fires_in_Afghanistan.jpg",
+      "width": 3000,
+      "height": 2000,
+      "title": "Dutch Panzerhaubitz fires in Afghanistan.jpg",
+      "description": "A Dutch <a href=\"https://en.wikipedia.org/wiki/Panzerhaubitze_2000\" class=\"extiw\" title=\"w:Panzerhaubitze 2000\">Panzerhaubitze 2000</a> fires a round in <a href=\"https://en.wikipedia.org/wiki/Afghanis",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Dutch_army_Pzh-2000_firing_on_Taliban_in_Chura._June_16%2C_2007._Photo_by_David_Axe.jpg/1280px-Dutch_army_Pzh-2000_firing_on_Taliban_in_Chura._June_16%2C_2007._Photo_by_David_Axe.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Dutch_army_Pzh-2000_firing_on_Taliban_in_Chura._June_16%2C_2007._Photo_by_David_Axe.jpg",
+      "width": 1740,
+      "height": 2000,
+      "title": "Dutch army Pzh-2000 firing on Taliban in Chura. June 16, 2007. Photo by David Axe.jpg",
+      "description": "Dutch army <a href=\"https://en.wikipedia.org/wiki/en:Panzerhaubitze_2000\" class=\"extiw\" title=\"w:en:Panzerhaubitze 2000\">Panzerhaubitze 2000</a> firing on Taliban in Chora. June 16, 2007. Photo by Dav",
+      "license": "CC BY-SA 2.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/German_PzH_2000_155mm_Self-Propelled_Howitzer_%2852221910446%29.jpg/1280px-German_PzH_2000_155mm_Self-Propelled_Howitzer_%2852221910446%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/f2/German_PzH_2000_155mm_Self-Propelled_Howitzer_%2852221910446%29.jpg",
+      "width": 5739,
+      "height": 3826,
+      "title": "German PzH 2000 155mm Self-Propelled Howitzer (52221910446).jpg",
+      "description": "The Deutsches Panzermuseum at Munster covers an indoor area of  10,000 square meters and has approximately 150 permanent exhibits; most of which are military armoured vehicles spanning 100 years. This",
+      "license": "CC BY 2.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/German_PzH_2000_155mm_Self-Propelled_Howitzer_%2852222488580%29.jpg/1280px-German_PzH_2000_155mm_Self-Propelled_Howitzer_%2852222488580%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/b7/German_PzH_2000_155mm_Self-Propelled_Howitzer_%2852222488580%29.jpg",
+      "width": 11008,
+      "height": 5504,
+      "title": "German PzH 2000 155mm Self-Propelled Howitzer (52222488580).jpg",
+      "description": "The Deutsches Panzermuseum at Munster covers an indoor area of 10,000 square meters and has approximately 150 permanent exhibits; most of which are military armoured vehicles spanning 100 years. This ",
+      "license": "CC BY 2.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/06/Italian_Army_-_52nd_Artillery_Regiment_%22Torino%22_PzH_2000_self-propelled_howitzer_during_an_exercise_2025_01.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/06/Italian_Army_-_52nd_Artillery_Regiment_%22Torino%22_PzH_2000_self-propelled_howitzer_during_an_exercise_2025_01.jpg",
+      "width": 1200,
+      "height": 800,
+      "title": "Italian Army - 52nd Artillery Regiment \"Torino\" PzH 2000 self-propelled howitzer during an exercise 2025 01.jpg",
+      "description": "Italian Army - 52nd Artillery Regiment \"Torino\" PzH 2000 self-propelled howitzer during an exercise 2025",
+      "license": "CC BY 2.5",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/36/Italian_Army_-_52nd_Artillery_Regiment_%22Torino%22_PzH_2000_self-propelled_howitzer_during_an_exercise_2025_02.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/36/Italian_Army_-_52nd_Artillery_Regiment_%22Torino%22_PzH_2000_self-propelled_howitzer_during_an_exercise_2025_02.jpg",
+      "width": 1200,
+      "height": 792,
+      "title": "Italian Army - 52nd Artillery Regiment \"Torino\" PzH 2000 self-propelled howitzer during an exercise 2025 02.jpg",
+      "description": "Italian Army - 52nd Artillery Regiment \"Torino\" PzH 2000 self-propelled howitzer during an exercise 2025",
+      "license": "CC BY 2.5",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Italian_Army_-_52nd_Artillery_Regiment_%22Torino%22_PzH_2000_self-propelled_howitzer_during_an_exercise_2025_03.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Italian_Army_-_52nd_Artillery_Regiment_%22Torino%22_PzH_2000_self-propelled_howitzer_during_an_exercise_2025_03.jpg",
+      "width": 1200,
+      "height": 800,
+      "title": "Italian Army - 52nd Artillery Regiment \"Torino\" PzH 2000 self-propelled howitzer during an exercise 2025 03.jpg",
+      "description": "Italian Army - 52nd Artillery Regiment \"Torino\" PzH 2000 self-propelled howitzer during an exercise 2025",
+      "license": "CC BY 2.5",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Italian_Army_-_52nd_Artillery_Regiment_%22Torino%22_PzH_2000_self-propelled_howitzer_during_an_exercise_2025_04.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Italian_Army_-_52nd_Artillery_Regiment_%22Torino%22_PzH_2000_self-propelled_howitzer_during_an_exercise_2025_04.jpg",
+      "width": 1200,
+      "height": 901,
+      "title": "Italian Army - 52nd Artillery Regiment \"Torino\" PzH 2000 self-propelled howitzer during an exercise 2025 04.jpg",
+      "description": "Italian Army - 52nd Artillery Regiment \"Torino\" PzH 2000 self-propelled howitzer during an exercise 2025",
+      "license": "CC BY 2.5",
+      "source": "wikimedia"
+    }
+  ]
+}

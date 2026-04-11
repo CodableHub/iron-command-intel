@@ -1,0 +1,201 @@
+{
+  "combat_history": [
+    {
+      "date": "2011",
+      "operation": "Operation Unified Protector",
+      "event": "Braunschweig participated in NATO maritime embargo operations off Libya, demonstrating long-range patrol capability",
+      "significance": "First operational deployment validated the class's expeditionary capability beyond Baltic operations"
+    },
+    {
+      "date": "2014-ongoing",
+      "operation": "Standing NATO Maritime Groups",
+      "event": "Multiple K130s have rotated through SNMG-1 and SNMG-2 deployments in Baltic and Mediterranean",
+      "significance": "Proved interoperability with allied navies and sustained operations capability"
+    },
+    {
+      "date": "2022",
+      "operation": "Baltic Sea Patrol",
+      "event": "Increased patrol tempo following Russian invasion of Ukraine, monitoring maritime approaches to Baltic states",
+      "significance": "Demonstrated relevance of design concept in current European security environment"
+    }
+  ],
+  "modernization": [
+    {
+      "program": "MKS 180 Replacement Program",
+      "status": "planned",
+      "timeline": "2030s",
+      "description": "K130 corvettes expected to be replaced by new multi-role frigates as part of broader German Navy modernization",
+      "impact": "Will transition Germany away from corvette concept toward larger, more capable frigates"
+    },
+    {
+      "program": "Sensor and Combat System Upgrades",
+      "status": "in-progress",
+      "timeline": "2020-2025",
+      "description": "Incremental improvements to TRS-3D radar and MASSA combat management system, uncertain details",
+      "impact": "Maintains relevance until replacement program matures"
+    }
+  ],
+  "vulnerabilities": [
+    {
+      "area": "Anti-aircraft warfare",
+      "description": "Lacks dedicated surface-to-air missiles, relying only on gun systems for air defense",
+      "context": "Vulnerable to saturation attacks by aircraft or anti-ship missiles in contested airspace",
+      "mitigation": "Designed to operate under friendly air cover or in conjunction with air-defense capable frigates"
+    },
+    {
+      "area": "Anti-submarine warfare",
+      "description": "Limited ASW capability with basic hull sonar and uncertain torpedo armament",
+      "context": "Russian submarine activity in Baltic requires credible ASW capability from all surface combatants",
+      "mitigation": "ASW missions typically delegated to specialized platforms or allied assets"
+    },
+    {
+      "area": "Crew sustainability",
+      "description": "Small crew size limits damage control capability and extended operations endurance",
+      "context": "High automation creates single points of failure and limits operational flexibility",
+      "mitigation": "Emphasis on reliability and preventive maintenance, close port support"
+    }
+  ],
+  "operational_patterns": {
+    "typical_deployment": "Baltic Sea patrol, NATO maritime group rotation, training missions",
+    "deployment_length_months": 2,
+    "key_operating_areas": [
+      "Baltic Sea",
+      "North Sea",
+      "Mediterranean Sea"
+    ],
+    "typical_task_group": "Independent patrol or as part of mixed NATO task groups",
+    "readiness_notes": "Generally high availability due to modern systems, but limited by small crew for extended deployments"
+  },
+  "peer_comparisons": [
+    {
+      "platform": "Visby-class corvette",
+      "country": "Sweden",
+      "relationship": "direct rival",
+      "key_differences": "Visby emphasizes stealth over endurance, smaller crew, more advanced signature reduction but shorter range and less seakeeping",
+      "video_angle": "Baltic Sea corvette face-off: German endurance vs Swedish stealth"
+    },
+    {
+      "platform": "Sa'ar 6-class corvette",
+      "country": "Israel",
+      "relationship": "peer design",
+      "key_differences": "Sa'ar 6 prioritizes air defense with Barak 8 VLS and Iron Dome, trading endurance for firepower in threat environment",
+      "video_angle": "Corvette design philosophy: German modularity vs Israeli firepower"
+    },
+    {
+      "platform": "Sigma 10514 corvette",
+      "country": "Netherlands",
+      "relationship": "allied equivalent",
+      "key_differences": "Dutch design emphasizes export potential and cost efficiency over specialized Baltic operations",
+      "video_angle": "European corvette concepts: national requirements vs export success"
+    },
+    {
+      "platform": "Steregushchy-class corvette",
+      "country": "Russia",
+      "relationship": "potential adversary",
+      "key_differences": "Russian design emphasizes anti-ship and land-attack missiles with more offensive capability but less sophisticated sensors",
+      "video_angle": "Baltic confrontation: K130 vs Steregushchy capabilities in littoral warfare"
+    }
+  ],
+  "search_keywords": [
+    "braunschweig class",
+    "K130",
+    "k130 corvette",
+    "german corvette",
+    "deutsche marine",
+    "braunschweig corvette",
+    "magdeburg corvette",
+    "german navy corvette"
+  ],
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/49/FGS_Magdeburg_departs_Rostock_at_BALTOPS_2025.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/49/FGS_Magdeburg_departs_Rostock_at_BALTOPS_2025.jpg",
+      "width": 1280,
+      "height": 853,
+      "title": "FGS Magdeburg departs Rostock at BALTOPS 2025.jpg",
+      "description": "German Navy K130 class corvette FGS Magdeburg departs Rostock Harbor, Germany, during BALTOPS 25",
+      "license": "CC BY-SA 3.0 de",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/BRAUNSCHWEIG_3006.JPG/1280px-BRAUNSCHWEIG_3006.JPG",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/d2/BRAUNSCHWEIG_3006.JPG",
+      "width": 2467,
+      "height": 1708,
+      "title": "BRAUNSCHWEIG 3006.JPG",
+      "description": "German corvette <i><b>Braunschweig</b></i> at the deperming range in Wilhelmshaven",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Braunschweig-F260.jpg/1280px-Braunschweig-F260.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/72/Braunschweig-F260.jpg",
+      "width": 2048,
+      "height": 1536,
+      "title": "Braunschweig-F260.jpg",
+      "description": "Die Bundeswehrkorvette <a href=\"https://en.wikipedia.org/wiki/de:Braunschweig_(Schiff)\" class=\"extiw\" title=\"w:de:Braunschweig (Schiff)\">Braunschweig</a> (K130-Klasse) in <a href=\"https://en.wikipedia",
+      "license": "CC BY-SA 3.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Braunschweig_F260.jpg/1280px-Braunschweig_F260.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Braunschweig_F260.jpg",
+      "width": 4640,
+      "height": 2088,
+      "title": "Braunschweig F260.jpg",
+      "description": "The German navy's corvette Braunschweig ( F 260) at Ulsnes, NATO FORACS Norway",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/F260_Braunschweig%2C_starboard_accommodation_ladder_-_01.jpg/1280px-F260_Braunschweig%2C_starboard_accommodation_ladder_-_01.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/b5/F260_Braunschweig%2C_starboard_accommodation_ladder_-_01.jpg",
+      "width": 3456,
+      "height": 2304,
+      "title": "F260 Braunschweig, starboard accommodation ladder - 01.jpg",
+      "description": "<a href=\"https://en.wikipedia.org/wiki/Accommodation_ladder\" class=\"extiw\" title=\"en:Accommodation ladder\">Accommodation ladder</a> on the starboard side of F260 Braunschweig.",
+      "license": "CC BY-SA 3.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Korvette_Braunschweig_F260_2895.jpg/1280px-Korvette_Braunschweig_F260_2895.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/43/Korvette_Braunschweig_F260_2895.jpg",
+      "width": 2048,
+      "height": 1365,
+      "title": "Korvette Braunschweig F260 2895.jpg",
+      "description": "The German navy's corvette Braunschweig ( F 260) sails from Hamburg, Germany on December 11, 2006 for her first voyage. The \u201dBraunschweig\u201c is the lead ship of the corvette class K 130.",
+      "license": "CC BY 2.5",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Korvette_Braunschweig_F260_2938.jpg/1280px-Korvette_Braunschweig_F260_2938.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/63/Korvette_Braunschweig_F260_2938.jpg",
+      "width": 2048,
+      "height": 1365,
+      "title": "Korvette Braunschweig F260 2938.jpg",
+      "description": "The German navy's corvette Braunschweig ( F 260) sails from Hamburg, Germany on December 11, 2006 for her first voyage. The \u201dBraunschweig\u201c is the lead ship of the corvette class K 130.",
+      "license": "CC BY 2.5",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Korvette_Braunschweig_F260_2981.jpg/1280px-Korvette_Braunschweig_F260_2981.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/17/Korvette_Braunschweig_F260_2981.jpg",
+      "width": 2048,
+      "height": 1365,
+      "title": "Korvette Braunschweig F260 2981.jpg",
+      "description": "The German navy's corvette Braunschweig ( F 260) sails from Hamburg, Germany on December 11, 2006 for her first voyage. The \u201dBraunschweig\u201c is the lead ship of the corvette class K 130.",
+      "license": "CC BY 2.5",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Korvette_Braunschweig_F260_3026.jpg/1280px-Korvette_Braunschweig_F260_3026.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/be/Korvette_Braunschweig_F260_3026.jpg",
+      "width": 2048,
+      "height": 1365,
+      "title": "Korvette Braunschweig F260 3026.jpg",
+      "description": "The German navy's corvette Braunschweig ( F 260) sails from Hamburg, Germany on December 11, 2006 for her first voyage. The \u201dBraunschweig\u201c is the lead ship of the corvette class K 130.",
+      "license": "CC BY 2.5",
+      "source": "wikimedia"
+    }
+  ]
+}

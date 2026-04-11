@@ -1,0 +1,253 @@
+{
+  "combat_history": [
+    {
+      "date": "2024-09",
+      "operation": "Sea trials",
+      "event": "Hai Kun completed initial sea trials and weapon system testing in Taiwan Strait",
+      "significance": "First operational testing of indigenous Taiwanese submarine design and combat systems integration"
+    }
+  ],
+  "modernization": [
+    {
+      "program": "Indigenous Defense Submarine Program Phase 2",
+      "status": "planned",
+      "timeline": "2025-2030",
+      "description": "Potential improvements to sonar systems, combat management software, and AIP endurance based on operational experience with SS-711",
+      "impact": "Enhanced detection capabilities and extended underwater endurance for follow-on boats"
+    }
+  ],
+  "vulnerabilities": [
+    {
+      "area": "Industrial base limitations",
+      "description": "Taiwan lacks deep submarine construction experience and depends heavily on foreign component suppliers who face Chinese pressure",
+      "context": "Supply chain vulnerabilities could impact maintenance and follow-on construction if international suppliers withdraw",
+      "mitigation": "Attempts to diversify supplier base and develop domestic alternatives for critical components"
+    },
+    {
+      "area": "Limited operational depth",
+      "description": "Taiwan Strait's shallow waters and limited operating areas constrain tactical employment and reduce strategic mobility",
+      "context": "Geographic constraints limit the boats' ability to conduct extended patrols or escape detection in confined waters",
+      "mitigation": "Design optimized for shallow water operations and emphasis on stealth characteristics"
+    },
+    {
+      "area": "Crew training and experience",
+      "description": "ROCN has limited submarine operational experience with only four aging boats in service prior to Hai Kun",
+      "context": "Steep learning curve for submarine tactics, maintenance, and combat employment in modern threat environment",
+      "mitigation": "Training partnerships with allied navies and emphasis on simulator-based training programs"
+    }
+  ],
+  "operational_patterns": {
+    "typical_deployment": "Area denial patrols in Taiwan Strait and approaches to major ports",
+    "deployment_length_months": 1,
+    "key_operating_areas": [
+      "Taiwan Strait",
+      "East China Sea",
+      "Luzon Strait"
+    ],
+    "typical_task_group": "Independent operations or coordinated with surface ASW groups",
+    "readiness_notes": "Limited by available trained crews and maintenance infrastructure still being developed"
+  },
+  "peer_comparisons": [
+    {
+      "platform": "Type 214 submarine",
+      "country": "Germany",
+      "relationship": "design influence",
+      "key_differences": "Hai Kun incorporates similar AIP technology but with US combat systems instead of European integration. Slightly larger with Taiwan Strait-specific modifications.",
+      "video_angle": "How Taiwan adapted European submarine technology for cross-strait warfare scenarios"
+    },
+    {
+      "platform": "Scorp\u00e8ne-class submarine",
+      "country": "France",
+      "relationship": "peer competitor",
+      "key_differences": "Similar displacement and role but Scorp\u00e8ne has broader export success and proven combat record. Hai Kun optimized for specific geographic constraints.",
+      "video_angle": "Indigenous vs. proven export design trade-offs in submarine procurement"
+    },
+    {
+      "platform": "Type 039A Yuan-class",
+      "country": "China",
+      "relationship": "direct rival",
+      "key_differences": "Yuan-class has larger displacement and longer range but Hai Kun benefits from Western combat systems and weapons. Yuan designed for blue-water operations vs. Hai Kun's littoral focus.",
+      "video_angle": "Cross-strait submarine competition and how geographic constraints shape design choices"
+    },
+    {
+      "platform": "S\u014dry\u016b-class submarine",
+      "country": "Japan",
+      "relationship": "regional peer",
+      "key_differences": "S\u014dry\u016b significantly larger with longer range and more sophisticated sonar systems. Represents what Taiwan aspired to procure before developing indigenous capability.",
+      "video_angle": "What happens when arms export restrictions force indigenous development - compromise vs. innovation"
+    }
+  ],
+  "search_keywords": [
+    "hai kun",
+    "hai kun class",
+    "SS-711",
+    "taiwan submarine",
+    "indigenous defense submarine",
+    "IDS program",
+    "ROCN submarine",
+    "china shipbuilding corporation",
+    "CSBC submarine"
+  ],
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/09.28_%E7%B8%BD%E7%B5%B1%E4%B8%BB%E6%8C%81%E3%80%8C%E6%BD%9B%E8%89%A6%E5%9C%8B%E9%80%A0%E5%8E%9F%E5%9E%8B%E8%89%A6%E5%91%BD%E5%90%8D%E6%9A%A8%E4%B8%8B%E6%B0%B4%E5%85%B8%E7%A6%AE%E3%80%8D_-_Flickr_id_53218825391.jpg/1280px-09.28_%E7%B8%BD%E7%B5%B1%E4%B8%BB%E6%8C%81%E3%80%8C%E6%BD%9B%E8%89%A6%E5%9C%8B%E9%80%A0%E5%8E%9F%E5%9E%8B%E8%89%A6%E5%91%BD%E5%90%8D%E6%9A%A8%E4%B8%8B%E6%B0%B4%E5%85%B8%E7%A6%AE%E3%80%8D_-_Flickr_id_53218825391.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/70/09.28_%E7%B8%BD%E7%B5%B1%E4%B8%BB%E6%8C%81%E3%80%8C%E6%BD%9B%E8%89%A6%E5%9C%8B%E9%80%A0%E5%8E%9F%E5%9E%8B%E8%89%A6%E5%91%BD%E5%90%8D%E6%9A%A8%E4%B8%8B%E6%B0%B4%E5%85%B8%E7%A6%AE%E3%80%8D_-_Flickr_id_53218825391.jpg",
+      "width": 2048,
+      "height": 1183,
+      "title": "09.28 \u7e3d\u7d71\u4e3b\u6301\u300c\u6f5b\u8266\u570b\u9020\u539f\u578b\u8266\u547d\u540d\u66a8\u4e0b\u6c34\u5178\u79ae\u300d - Flickr id 53218825391.jpg",
+      "description": "Official Photo by Wang Yu Ching / Office of the President",
+      "license": "CC BY 2.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/09.28_%E7%B8%BD%E7%B5%B1%E4%B8%BB%E6%8C%81%E3%80%8C%E6%BD%9B%E8%89%A6%E5%9C%8B%E9%80%A0%E5%8E%9F%E5%9E%8B%E8%89%A6%E5%91%BD%E5%90%8D%E6%9A%A8%E4%B8%8B%E6%B0%B4%E5%85%B8%E7%A6%AE%E3%80%8D_-_Flickr_id_53218825546.jpg/1280px-09.28_%E7%B8%BD%E7%B5%B1%E4%B8%BB%E6%8C%81%E3%80%8C%E6%BD%9B%E8%89%A6%E5%9C%8B%E9%80%A0%E5%8E%9F%E5%9E%8B%E8%89%A6%E5%91%BD%E5%90%8D%E6%9A%A8%E4%B8%8B%E6%B0%B4%E5%85%B8%E7%A6%AE%E3%80%8D_-_Flickr_id_53218825546.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/09.28_%E7%B8%BD%E7%B5%B1%E4%B8%BB%E6%8C%81%E3%80%8C%E6%BD%9B%E8%89%A6%E5%9C%8B%E9%80%A0%E5%8E%9F%E5%9E%8B%E8%89%A6%E5%91%BD%E5%90%8D%E6%9A%A8%E4%B8%8B%E6%B0%B4%E5%85%B8%E7%A6%AE%E3%80%8D_-_Flickr_id_53218825546.jpg",
+      "width": 2048,
+      "height": 1365,
+      "title": "09.28 \u7e3d\u7d71\u4e3b\u6301\u300c\u6f5b\u8266\u570b\u9020\u539f\u578b\u8266\u547d\u540d\u66a8\u4e0b\u6c34\u5178\u79ae\u300d - Flickr id 53218825546.jpg",
+      "description": "Official Photo by Wang Yu Ching / Office of the President",
+      "license": "CC BY 2.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/09.28_%E7%B8%BD%E7%B5%B1%E4%B8%BB%E6%8C%81%E3%80%8C%E6%BD%9B%E8%89%A6%E5%9C%8B%E9%80%A0%E5%8E%9F%E5%9E%8B%E8%89%A6%E5%91%BD%E5%90%8D%E6%9A%A8%E4%B8%8B%E6%B0%B4%E5%85%B8%E7%A6%AE%E3%80%8D_-_Flickr_id_53218825596.jpg/1280px-09.28_%E7%B8%BD%E7%B5%B1%E4%B8%BB%E6%8C%81%E3%80%8C%E6%BD%9B%E8%89%A6%E5%9C%8B%E9%80%A0%E5%8E%9F%E5%9E%8B%E8%89%A6%E5%91%BD%E5%90%8D%E6%9A%A8%E4%B8%8B%E6%B0%B4%E5%85%B8%E7%A6%AE%E3%80%8D_-_Flickr_id_53218825596.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/ab/09.28_%E7%B8%BD%E7%B5%B1%E4%B8%BB%E6%8C%81%E3%80%8C%E6%BD%9B%E8%89%A6%E5%9C%8B%E9%80%A0%E5%8E%9F%E5%9E%8B%E8%89%A6%E5%91%BD%E5%90%8D%E6%9A%A8%E4%B8%8B%E6%B0%B4%E5%85%B8%E7%A6%AE%E3%80%8D_-_Flickr_id_53218825596.jpg",
+      "width": 2048,
+      "height": 1314,
+      "title": "09.28 \u7e3d\u7d71\u4e3b\u6301\u300c\u6f5b\u8266\u570b\u9020\u539f\u578b\u8266\u547d\u540d\u66a8\u4e0b\u6c34\u5178\u79ae\u300d - Flickr id 53218825596.jpg",
+      "description": "Official Photo by Wang Yu Ching / Office of the President",
+      "license": "CC BY 2.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/09.28_%E7%B8%BD%E7%B5%B1%E4%B8%BB%E6%8C%81%E3%80%8C%E6%BD%9B%E8%89%A6%E5%9C%8B%E9%80%A0%E5%8E%9F%E5%9E%8B%E8%89%A6%E5%91%BD%E5%90%8D%E6%9A%A8%E4%B8%8B%E6%B0%B4%E5%85%B8%E7%A6%AE%E3%80%8D_-_Flickr_id_53218869641.jpg/1280px-09.28_%E7%B8%BD%E7%B5%B1%E4%B8%BB%E6%8C%81%E3%80%8C%E6%BD%9B%E8%89%A6%E5%9C%8B%E9%80%A0%E5%8E%9F%E5%9E%8B%E8%89%A6%E5%91%BD%E5%90%8D%E6%9A%A8%E4%B8%8B%E6%B0%B4%E5%85%B8%E7%A6%AE%E3%80%8D_-_Flickr_id_53218869641.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/57/09.28_%E7%B8%BD%E7%B5%B1%E4%B8%BB%E6%8C%81%E3%80%8C%E6%BD%9B%E8%89%A6%E5%9C%8B%E9%80%A0%E5%8E%9F%E5%9E%8B%E8%89%A6%E5%91%BD%E5%90%8D%E6%9A%A8%E4%B8%8B%E6%B0%B4%E5%85%B8%E7%A6%AE%E3%80%8D_-_Flickr_id_53218869641.jpg",
+      "width": 2048,
+      "height": 1124,
+      "title": "09.28 \u7e3d\u7d71\u4e3b\u6301\u300c\u6f5b\u8266\u570b\u9020\u539f\u578b\u8266\u547d\u540d\u66a8\u4e0b\u6c34\u5178\u79ae\u300d - Flickr id 53218869641.jpg",
+      "description": "Official Photo by Wang Yu Ching / Office of the President",
+      "license": "CC BY 2.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/09.28_%E7%B8%BD%E7%B5%B1%E4%B8%BB%E6%8C%81%E3%80%8C%E6%BD%9B%E8%89%A6%E5%9C%8B%E9%80%A0%E5%8E%9F%E5%9E%8B%E8%89%A6%E5%91%BD%E5%90%8D%E6%9A%A8%E4%B8%8B%E6%B0%B4%E5%85%B8%E7%A6%AE%E3%80%8D_-_Flickr_id_53219135423.jpg/1280px-09.28_%E7%B8%BD%E7%B5%B1%E4%B8%BB%E6%8C%81%E3%80%8C%E6%BD%9B%E8%89%A6%E5%9C%8B%E9%80%A0%E5%8E%9F%E5%9E%8B%E8%89%A6%E5%91%BD%E5%90%8D%E6%9A%A8%E4%B8%8B%E6%B0%B4%E5%85%B8%E7%A6%AE%E3%80%8D_-_Flickr_id_53219135423.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/89/09.28_%E7%B8%BD%E7%B5%B1%E4%B8%BB%E6%8C%81%E3%80%8C%E6%BD%9B%E8%89%A6%E5%9C%8B%E9%80%A0%E5%8E%9F%E5%9E%8B%E8%89%A6%E5%91%BD%E5%90%8D%E6%9A%A8%E4%B8%8B%E6%B0%B4%E5%85%B8%E7%A6%AE%E3%80%8D_-_Flickr_id_53219135423.jpg",
+      "width": 2048,
+      "height": 972,
+      "title": "09.28 \u7e3d\u7d71\u4e3b\u6301\u300c\u6f5b\u8266\u570b\u9020\u539f\u578b\u8266\u547d\u540d\u66a8\u4e0b\u6c34\u5178\u79ae\u300d - Flickr id 53219135423.jpg",
+      "description": "Official Photo by Wang Yu Ching / Office of the President",
+      "license": "CC BY 2.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/09.28_%E7%B8%BD%E7%B5%B1%E4%B8%BB%E6%8C%81%E3%80%8C%E6%BD%9B%E8%89%A6%E5%9C%8B%E9%80%A0%E5%8E%9F%E5%9E%8B%E8%89%A6%E5%91%BD%E5%90%8D%E6%9A%A8%E4%B8%8B%E6%B0%B4%E5%85%B8%E7%A6%AE%E3%80%8D_-_Flickr_id_53219135668.jpg/1280px-09.28_%E7%B8%BD%E7%B5%B1%E4%B8%BB%E6%8C%81%E3%80%8C%E6%BD%9B%E8%89%A6%E5%9C%8B%E9%80%A0%E5%8E%9F%E5%9E%8B%E8%89%A6%E5%91%BD%E5%90%8D%E6%9A%A8%E4%B8%8B%E6%B0%B4%E5%85%B8%E7%A6%AE%E3%80%8D_-_Flickr_id_53219135668.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/02/09.28_%E7%B8%BD%E7%B5%B1%E4%B8%BB%E6%8C%81%E3%80%8C%E6%BD%9B%E8%89%A6%E5%9C%8B%E9%80%A0%E5%8E%9F%E5%9E%8B%E8%89%A6%E5%91%BD%E5%90%8D%E6%9A%A8%E4%B8%8B%E6%B0%B4%E5%85%B8%E7%A6%AE%E3%80%8D_-_Flickr_id_53219135668.jpg",
+      "width": 2048,
+      "height": 1252,
+      "title": "09.28 \u7e3d\u7d71\u4e3b\u6301\u300c\u6f5b\u8266\u570b\u9020\u539f\u578b\u8266\u547d\u540d\u66a8\u4e0b\u6c34\u5178\u79ae\u300d - Flickr id 53219135668.jpg",
+      "description": "Official Photo by Wang Yu Ching / Office of the President",
+      "license": "CC BY 2.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/09.28_%E7%B8%BD%E7%B5%B1%E4%B8%BB%E6%8C%81%E3%80%8C%E6%BD%9B%E8%89%A6%E5%9C%8B%E9%80%A0%E5%8E%9F%E5%9E%8B%E8%89%A6%E5%91%BD%E5%90%8D%E6%9A%A8%E4%B8%8B%E6%B0%B4%E5%85%B8%E7%A6%AE%E3%80%8D_-_Flickr_id_53219206889.jpg/1280px-09.28_%E7%B8%BD%E7%B5%B1%E4%B8%BB%E6%8C%81%E3%80%8C%E6%BD%9B%E8%89%A6%E5%9C%8B%E9%80%A0%E5%8E%9F%E5%9E%8B%E8%89%A6%E5%91%BD%E5%90%8D%E6%9A%A8%E4%B8%8B%E6%B0%B4%E5%85%B8%E7%A6%AE%E3%80%8D_-_Flickr_id_53219206889.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/6e/09.28_%E7%B8%BD%E7%B5%B1%E4%B8%BB%E6%8C%81%E3%80%8C%E6%BD%9B%E8%89%A6%E5%9C%8B%E9%80%A0%E5%8E%9F%E5%9E%8B%E8%89%A6%E5%91%BD%E5%90%8D%E6%9A%A8%E4%B8%8B%E6%B0%B4%E5%85%B8%E7%A6%AE%E3%80%8D_-_Flickr_id_53219206889.jpg",
+      "width": 2048,
+      "height": 1286,
+      "title": "09.28 \u7e3d\u7d71\u4e3b\u6301\u300c\u6f5b\u8266\u570b\u9020\u539f\u578b\u8266\u547d\u540d\u66a8\u4e0b\u6c34\u5178\u79ae\u300d - Flickr id 53219206889.jpg",
+      "description": "Official Photo by Wang Yu Ching / Office of the President",
+      "license": "CC BY 2.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/09.28_%E7%B8%BD%E7%B5%B1%E4%B8%BB%E6%8C%81%E3%80%8C%E6%BD%9B%E8%89%A6%E5%9C%8B%E9%80%A0%E5%8E%9F%E5%9E%8B%E8%89%A6%E5%91%BD%E5%90%8D%E6%9A%A8%E4%B8%8B%E6%B0%B4%E5%85%B8%E7%A6%AE%E3%80%8D_-_Flickr_id_53219332050.jpg/1280px-09.28_%E7%B8%BD%E7%B5%B1%E4%B8%BB%E6%8C%81%E3%80%8C%E6%BD%9B%E8%89%A6%E5%9C%8B%E9%80%A0%E5%8E%9F%E5%9E%8B%E8%89%A6%E5%91%BD%E5%90%8D%E6%9A%A8%E4%B8%8B%E6%B0%B4%E5%85%B8%E7%A6%AE%E3%80%8D_-_Flickr_id_53219332050.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/18/09.28_%E7%B8%BD%E7%B5%B1%E4%B8%BB%E6%8C%81%E3%80%8C%E6%BD%9B%E8%89%A6%E5%9C%8B%E9%80%A0%E5%8E%9F%E5%9E%8B%E8%89%A6%E5%91%BD%E5%90%8D%E6%9A%A8%E4%B8%8B%E6%B0%B4%E5%85%B8%E7%A6%AE%E3%80%8D_-_Flickr_id_53219332050.jpg",
+      "width": 2048,
+      "height": 1217,
+      "title": "09.28 \u7e3d\u7d71\u4e3b\u6301\u300c\u6f5b\u8266\u570b\u9020\u539f\u578b\u8266\u547d\u540d\u66a8\u4e0b\u6c34\u5178\u79ae\u300d - Flickr id 53219332050.jpg",
+      "description": "Official Photo by Wang Yu Ching / Office of the President",
+      "license": "CC BY 2.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/09.28_%E7%B8%BD%E7%B5%B1%E4%B8%BB%E6%8C%81%E3%80%8C%E6%BD%9B%E8%89%A6%E5%9C%8B%E9%80%A0%E5%8E%9F%E5%9E%8B%E8%89%A6%E5%91%BD%E5%90%8D%E6%9A%A8%E4%B8%8B%E6%B0%B4%E5%85%B8%E7%A6%AE%E3%80%8D_-_Flickr_id_53219332200.jpg/1280px-09.28_%E7%B8%BD%E7%B5%B1%E4%B8%BB%E6%8C%81%E3%80%8C%E6%BD%9B%E8%89%A6%E5%9C%8B%E9%80%A0%E5%8E%9F%E5%9E%8B%E8%89%A6%E5%91%BD%E5%90%8D%E6%9A%A8%E4%B8%8B%E6%B0%B4%E5%85%B8%E7%A6%AE%E3%80%8D_-_Flickr_id_53219332200.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/89/09.28_%E7%B8%BD%E7%B5%B1%E4%B8%BB%E6%8C%81%E3%80%8C%E6%BD%9B%E8%89%A6%E5%9C%8B%E9%80%A0%E5%8E%9F%E5%9E%8B%E8%89%A6%E5%91%BD%E5%90%8D%E6%9A%A8%E4%B8%8B%E6%B0%B4%E5%85%B8%E7%A6%AE%E3%80%8D_-_Flickr_id_53219332200.jpg",
+      "width": 2048,
+      "height": 1365,
+      "title": "09.28 \u7e3d\u7d71\u4e3b\u6301\u300c\u6f5b\u8266\u570b\u9020\u539f\u578b\u8266\u547d\u540d\u66a8\u4e0b\u6c34\u5178\u79ae\u300d - Flickr id 53219332200.jpg",
+      "description": "Official Photo by Wang Yu Ching / Office of the President",
+      "license": "CC BY 2.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/2019.05.09_%E5%8F%B0%E7%81%A3%E5%9C%8B%E9%9A%9B%E9%80%A0%E8%88%B9%E3%80%8C%E6%BD%9B%E8%89%A6%E5%9C%8B%E9%80%A0%E5%BB%A0%E5%8D%80%E5%8B%95%E5%9C%9F%E5%85%B8%E7%A6%AE%E3%80%8D%E6%99%82%E5%B1%95%E7%A4%BA%E4%B9%8BIDS%E8%A8%AD%E8%A8%88%E7%B8%AE%E5%B0%BA%E6%A8%A1%E5%9E%8B.jpg/1280px-2019.05.09_%E5%8F%B0%E7%81%A3%E5%9C%8B%E9%9A%9B%E9%80%A0%E8%88%B9%E3%80%8C%E6%BD%9B%E8%89%A6%E5%9C%8B%E9%80%A0%E5%BB%A0%E5%8D%80%E5%8B%95%E5%9C%9F%E5%85%B8%E7%A6%AE%E3%80%8D%E6%99%82%E5%B1%95%E7%A4%BA%E4%B9%8BIDS%E8%A8%AD%E8%A8%88%E7%B8%AE%E5%B0%BA%E6%A8%A1%E5%9E%8B.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/de/2019.05.09_%E5%8F%B0%E7%81%A3%E5%9C%8B%E9%9A%9B%E9%80%A0%E8%88%B9%E3%80%8C%E6%BD%9B%E8%89%A6%E5%9C%8B%E9%80%A0%E5%BB%A0%E5%8D%80%E5%8B%95%E5%9C%9F%E5%85%B8%E7%A6%AE%E3%80%8D%E6%99%82%E5%B1%95%E7%A4%BA%E4%B9%8BIDS%E8%A8%AD%E8%A8%88%E7%B8%AE%E5%B0%BA%E6%A8%A1%E5%9E%8B.jpg",
+      "width": 2048,
+      "height": 1365,
+      "title": "2019.05.09 \u53f0\u7063\u570b\u969b\u9020\u8239\u300c\u6f5b\u8266\u570b\u9020\u5ee0\u5340\u52d5\u571f\u5178\u79ae\u300d\u6642\u5c55\u793a\u4e4bIDS\u8a2d\u8a08\u7e2e\u5c3a\u6a21\u578b.jpg",
+      "description": "The first scale model reveal of the Taiwanese Indigenous Defense Submarine (IDS) at 2019.05.09, on the IDS factory groundbreaking ceremony. Official Photo by Makoto Lin / Office of the President",
+      "license": "CC BY 2.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/20190117-IDS-CARGO-121077.jpg/1280px-20190117-IDS-CARGO-121077.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/1d/20190117-IDS-CARGO-121077.jpg",
+      "width": 5184,
+      "height": 3456,
+      "title": "20190117-IDS-CARGO-121077.jpg",
+      "description": "A 121 class locomotive of IDS cargo, stabled at \u010cesk\u00e1 T\u0159ebov\u00e1\u00a0<span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"//commons.wikimedia.org/wiki/File:20190117-IDS-CARGO-121077.j",
+      "license": "CC0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/52/Ids_Postma.JPG",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/52/Ids_Postma.JPG",
+      "width": 1181,
+      "height": 1662,
+      "title": "Ids Postma.JPG",
+      "description": "Ids Postma is a former speedskater from the Netherlands",
+      "license": "CC BY 3.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Kunstwerk_Ids_Ids_Willemsma_op_de_Weperbult.jpg/1280px-Kunstwerk_Ids_Ids_Willemsma_op_de_Weperbult.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Kunstwerk_Ids_Ids_Willemsma_op_de_Weperbult.jpg",
+      "width": 2307,
+      "height": 1732,
+      "title": "Kunstwerk Ids Ids Willemsma op de Weperbult.jpg",
+      "description": "Kunstwerk Ids  Ids Willemsma op de Weperbult",
+      "license": "CC BY-SA 3.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Panavia_Tornado_IDS%2C_ILA_2024%2C_Schoenefeld_%28ILA44689%29.jpg/1280px-Panavia_Tornado_IDS%2C_ILA_2024%2C_Schoenefeld_%28ILA44689%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Panavia_Tornado_IDS%2C_ILA_2024%2C_Schoenefeld_%28ILA44689%29.jpg",
+      "width": 3790,
+      "height": 2527,
+      "title": "Panavia Tornado IDS, ILA 2024, Schoenefeld (ILA44689).jpg",
+      "description": "Panavia Tornado IDS of 33rd fighter bomber squadron of the German Armed Forces (registration 43+92) in special livery to commeemorate 50 years of Tornado flight operations on flying display at ILA Ber",
+      "license": "CC BY-SA",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Panavia_Tornado_IDS_5D3_2797_%2836245715645%29.jpg/1280px-Panavia_Tornado_IDS_5D3_2797_%2836245715645%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Panavia_Tornado_IDS_5D3_2797_%2836245715645%29.jpg",
+      "width": 5796,
+      "height": 3870,
+      "title": "Panavia Tornado IDS 5D3 2797 (36245715645).jpg",
+      "description": "Panavia Tornado IDS 5D3_2797",
+      "license": "CC BY 2.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Panavia_Tornado_IDS_5D3_3135_%2836110806741%29.jpg/1280px-Panavia_Tornado_IDS_5D3_3135_%2836110806741%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Panavia_Tornado_IDS_5D3_3135_%2836110806741%29.jpg",
+      "width": 5605,
+      "height": 3742,
+      "title": "Panavia Tornado IDS 5D3 3135 (36110806741).jpg",
+      "description": "Panavia Tornado IDS 5D3_3135",
+      "license": "CC BY 2.0",
+      "source": "wikimedia"
+    }
+  ]
+}

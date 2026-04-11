@@ -1,0 +1,194 @@
+{
+  "combat_history": [
+    {
+      "date": "2011",
+      "operation": "Operation Unified Protector",
+      "event": "Salvatore Todaro (S 526) deployed to waters off Libya during NATO intervention, conducting surveillance and intelligence gathering missions",
+      "significance": "First operational deployment demonstrating AIP endurance for extended covert operations"
+    },
+    {
+      "date": "2015-2016",
+      "operation": "Mare Nostrum/Triton",
+      "event": "Multiple Todaro-class boats supported Mediterranean migrant rescue operations and border surveillance",
+      "significance": "Demonstrated peacetime utility for maritime domain awareness and humanitarian missions"
+    },
+    {
+      "date": "2018-2020",
+      "operation": "Enhanced Forward Presence",
+      "event": "Scir\u00e9 (S 527) participated in NATO exercises in Eastern Mediterranean, simulating anti-submarine warfare against Russian Kilo-class submarines",
+      "significance": "Validated AIP advantage in contested waters and interoperability with NATO ASW assets"
+    }
+  ],
+  "modernization": [
+    {
+      "program": "U212A NFS (Near Future Submarine)",
+      "status": "planned",
+      "timeline": "2025-2030",
+      "description": "Mid-life upgrade program including new combat management system, improved fuel cells, advanced sonar processing, and potentially lithium-ion batteries",
+      "impact": "Extended service life to 2040s, improved underwater endurance and sensor capability"
+    },
+    {
+      "program": "Fuel Cell Enhancement",
+      "status": "in-progress",
+      "timeline": "2023-2026",
+      "description": "Retrofitting Batch 1 boats with improved fuel cell stacks similar to Batch 2 configuration",
+      "impact": "Standardizes AIP capability across the class, extends submerged endurance"
+    }
+  ],
+  "vulnerabilities": [
+    {
+      "area": "Limited weapons capacity",
+      "description": "Only 6 torpedo tubes with 12 total weapons severely limits engagement capability compared to peer submarines",
+      "context": "In multi-threat scenarios, the boat could exhaust its weapons load quickly and become mission-killed",
+      "mitigation": "Emphasis on stealth and precision targeting to maximize first-shot effectiveness"
+    },
+    {
+      "area": "Mediterranean-only design",
+      "description": "Range and endurance optimized for Mediterranean operations limits global deployment utility",
+      "context": "Cannot effectively support expeditionary operations or extended patrols outside European waters",
+      "mitigation": "None planned - accepted limitation of design philosophy"
+    },
+    {
+      "area": "AIP system complexity",
+      "description": "Fuel cell technology requires specialized maintenance and has higher failure rates than conventional systems",
+      "context": "Potential for reduced availability rates and higher operating costs as systems age",
+      "mitigation": "Enhanced maintenance training and spare parts inventory, fuel cell upgrade programs"
+    }
+  ],
+  "operational_patterns": {
+    "typical_deployment": "Mediterranean patrols, NATO exercises, intelligence gathering missions",
+    "deployment_length_months": 2,
+    "key_operating_areas": [
+      "Central Mediterranean",
+      "Adriatic Sea",
+      "Eastern Mediterranean",
+      "Tyrrhenian Sea"
+    ],
+    "typical_task_group": "Independent operations or with Italian Navy surface task groups",
+    "readiness_notes": "Generally high availability, though AIP system maintenance can extend yard periods"
+  },
+  "peer_comparisons": [
+    {
+      "platform": "Type 212A submarine",
+      "country": "Germany",
+      "relationship": "direct rival",
+      "key_differences": "German boat has 8 torpedo tubes vs 6, more advanced fuel cells, but similar AIP endurance and stealth characteristics. Type 212A optimized for Baltic/North Sea operations.",
+      "video_angle": "Mediterranean vs Northern European submarine design philosophies and how geography drives capability requirements"
+    },
+    {
+      "platform": "Scorp\u00e8ne-class submarine",
+      "country": "France",
+      "relationship": "allied equivalent",
+      "key_differences": "Larger French boat with more weapons (18 total vs 12), longer range, but no AIP system. Pure diesel-electric limits covert capability but provides mechanical simplicity.",
+      "video_angle": "AIP vs conventional propulsion trade-offs in modern submarine warfare"
+    },
+    {
+      "platform": "Type 214 submarine",
+      "country": "Germany",
+      "relationship": "export variant",
+      "key_differences": "Larger export version of Type 212 technology with 8 torpedo tubes, extended range, used by Greece and other navies. More capable but more expensive than Todaro-class.",
+      "video_angle": "How export submarine programs adapt core technology for different naval requirements"
+    },
+    {
+      "platform": "Gotland-class submarine",
+      "country": "Sweden",
+      "relationship": "AIP predecessor",
+      "key_differences": "First operational AIP submarine using Stirling engine vs fuel cells. Proven AIP concept but older technology and more maintenance-intensive propulsion.",
+      "video_angle": "Evolution of AIP technology from Stirling engines to fuel cells in European submarines"
+    }
+  ],
+  "search_keywords": [
+    "todaro class",
+    "todaro-class",
+    "S 526",
+    "S526",
+    "salvatore todaro",
+    "scire submarine",
+    "italian submarine",
+    "AIP submarine",
+    "fuel cell submarine",
+    "type 212 italy"
+  ],
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Salvatore_Todaro_%28S-526%29.jpg/1280px-Salvatore_Todaro_%28S-526%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/82/Salvatore_Todaro_%28S-526%29.jpg",
+      "width": 2684,
+      "height": 1592,
+      "title": "Salvatore Todaro (S-526).jpg",
+      "description": "080711-N-3285B-008 MAYPORT, Fla.  The Italian air-independent propulsion (AIP) equipped submarine ITS Salvatore Todaro (S-526) prepares to pull into port at Naval Station Mayport, which marks the firs",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/US_Navy_080711-N-3285B-036_Store_Keeper_2nd_Class_Carlos_Bell_%28left%29_and_a_crew_member_of_the_Italian_submarine_ITS_Salvatore_Todaro_%28S-526%29_assist_in_line-handling_as_the_boat_prepares_to_pull_into_port_at_Naval_Station_Maypor.jpg/1280px-thumbnail.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/55/US_Navy_080711-N-3285B-036_Store_Keeper_2nd_Class_Carlos_Bell_%28left%29_and_a_crew_member_of_the_Italian_submarine_ITS_Salvatore_Todaro_%28S-526%29_assist_in_line-handling_as_the_boat_prepares_to_pull_into_port_at_Naval_Station_Maypor.jpg",
+      "width": 2760,
+      "height": 1960,
+      "title": "US Navy 080711-N-3285B-036 Store Keeper 2nd Class Carlos Bell (left) and a crew member of the Italian submarine ITS Salvatore Todaro (S-526) assist in line-handling as the boat prepares to pull into port at Naval Station Maypor.jpg",
+      "description": "MAYPORT, Fla. (July 11, 2008) Store Keeper 2nd Class Carlos Bell (left) and a crew member of the Italian submarine ITS Salvatore Todaro (S-526) assist in line-handling as the boat prepares to pull int",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/US_Navy_080801-N-7668G-015_The_Italian_submarine_ITS_Salvatore_Todaro_%28S_526%29_arrives_at_Naval_Station_Norfolk_to_begin_a_13-day_port_visit.jpg/1280px-US_Navy_080801-N-7668G-015_The_Italian_submarine_ITS_Salvatore_Todaro_%28S_526%29_arrives_at_Naval_Station_Norfolk_to_begin_a_13-day_port_visit.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/36/US_Navy_080801-N-7668G-015_The_Italian_submarine_ITS_Salvatore_Todaro_%28S_526%29_arrives_at_Naval_Station_Norfolk_to_begin_a_13-day_port_visit.jpg",
+      "width": 1500,
+      "height": 2100,
+      "title": "US Navy 080801-N-7668G-015 The Italian submarine ITS Salvatore Todaro (S 526) arrives at Naval Station Norfolk to begin a 13-day port visit.jpg",
+      "description": "NORFOLK, Va. (August 1, 2008) The Italian submarine ITS Salvatore Todaro (S 526) arrives at Naval Station Norfolk to begin a 13-day port visit after participating in Joint Task Force Exercise (JTFEX) ",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/US_Navy_090827-N-5742K-555_Line_handlers_aboard_the_Italian_Todaro-class_submarine_Scire_%28S527%29_prepare_to_moor_the_boat_during_a_port_call_to_Naval_Submarine_Base_New_London.jpg/1280px-thumbnail.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/68/US_Navy_090827-N-5742K-555_Line_handlers_aboard_the_Italian_Todaro-class_submarine_Scire_%28S527%29_prepare_to_moor_the_boat_during_a_port_call_to_Naval_Submarine_Base_New_London.jpg",
+      "width": 1812,
+      "height": 1292,
+      "title": "US Navy 090827-N-5742K-555 Line handlers aboard the Italian Todaro-class submarine Scire (S527) prepare to moor the boat during a port call to Naval Submarine Base New London.jpg",
+      "description": "GROTON, Conn. (Aug. 27, 2009) Line handlers aboard the Italian Todaro-class submarine Scire (S527) prepare to moor the boat during a port call to Naval Submarine Base New London. Scire is on deploymen",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/US_Navy_090827-N-5742K-652_Italian_Submariners_aboard_the_Italian_Todaro-class_submarine_Scire_%28S527%29_and_a_U.S._Sailor_salute_and_pipe_guests_aboard_after_mooring_the_boat_during_a_port_call_to_Naval_Submarine_Base_New_London.jpg/1280px-thumbnail.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/39/US_Navy_090827-N-5742K-652_Italian_Submariners_aboard_the_Italian_Todaro-class_submarine_Scire_%28S527%29_and_a_U.S._Sailor_salute_and_pipe_guests_aboard_after_mooring_the_boat_during_a_port_call_to_Naval_Submarine_Base_New_London.jpg",
+      "width": 2101,
+      "height": 1500,
+      "title": "US Navy 090827-N-5742K-652 Italian Submariners aboard the Italian Todaro-class submarine Scire (S527) and a U.S. Sailor salute and pipe guests aboard after mooring the boat during a port call to Naval Submarine Base New London.jpg",
+      "description": "GROTON, Conn (Aug. 27, 2009) Italian Submariners aboard the Italian Todaro-class submarine Scire (S527) and a U.S. Sailor salute and pipe guests aboard after mooring the boat during a port call to Nav",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/US_Navy_090827-N-8467N-001_The_Italian_Todaro-class_submarine_Scire_%28S527%29_makes_her_way_up_the_Thames_River_to_Naval_Submarine_Base_New_London.jpg/1280px-US_Navy_090827-N-8467N-001_The_Italian_Todaro-class_submarine_Scire_%28S527%29_makes_her_way_up_the_Thames_River_to_Naval_Submarine_Base_New_London.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/3c/US_Navy_090827-N-8467N-001_The_Italian_Todaro-class_submarine_Scire_%28S527%29_makes_her_way_up_the_Thames_River_to_Naval_Submarine_Base_New_London.jpg",
+      "width": 3000,
+      "height": 1998,
+      "title": "US Navy 090827-N-8467N-001 The Italian Todaro-class submarine Scire (S527) makes her way up the Thames River to Naval Submarine Base New London.jpg",
+      "description": "GROTON, Conn. (Aug. 27, 2009) The Italian Todaro-class submarine Scire (S527) makes her way up the Thames River to Naval Submarine Base New London. Scire will participate in a Joint Task Force Exercis",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/US_Navy_090827-N-8467N-003_Italian_Todaro-class_submarine_Scire_%28S527%29_ties_up_to_the_pier_at_Naval_Submarine_Base_New_London.jpg/1280px-US_Navy_090827-N-8467N-003_Italian_Todaro-class_submarine_Scire_%28S527%29_ties_up_to_the_pier_at_Naval_Submarine_Base_New_London.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/11/US_Navy_090827-N-8467N-003_Italian_Todaro-class_submarine_Scire_%28S527%29_ties_up_to_the_pier_at_Naval_Submarine_Base_New_London.jpg",
+      "width": 3000,
+      "height": 1998,
+      "title": "US Navy 090827-N-8467N-003 Italian Todaro-class submarine Scire (S527) ties up to the pier at Naval Submarine Base New London.jpg",
+      "description": "GROTON, Conn. (Aug. 27, 2009) Italian Todaro-class submarine Scire (S527) ties up to the pier at Naval Submarine Base New London. Scire will participate in a Joint Task Force Exercise (JTFEX) with the",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/U_Boot_212_HDW_1.jpg/1280px-U_Boot_212_HDW_1.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/50/U_Boot_212_HDW_1.jpg",
+      "width": 2009,
+      "height": 825,
+      "title": "U Boot 212 HDW 1.jpg",
+      "description": "Submarine Typ 212 in the docks at HDW/Kiel (Germany).",
+      "license": "CC BY-SA 3.0",
+      "source": "wikimedia"
+    }
+  ]
+}

@@ -1,0 +1,360 @@
+{
+  "id": 82,
+  "slug": "su-35s-flanker-e",
+  "name": "Sukhoi Su-35S Flanker-E",
+  "designation": "Su-35S",
+  "type": "fighter",
+  "country": "Russia",
+  "operator": "Russian Aerospace Forces",
+  "overview_md": "The Sukhoi Su-35S Flanker-E represents Russia's most advanced operational fourth-generation-plus air superiority fighter, serving as a bridge between legacy Flanker variants and the troubled Su-57 fifth-generation program. Built on the proven Su-27 airframe but extensively modernized with thrust-vectoring engines, advanced radar, and comprehensive electronic warfare systems, the Su-35S is designed to counter Western fourth and fifth-generation fighters through superior maneuverability and sensor integration.\n\nStrategically, the Su-35S fills a critical gap in Russian air power projection, providing the VKS with a credible multi-role platform capable of air-to-air dominance and precision ground attack. Its development philosophy emphasizes kinematic performance over stealth, betting that superior agility, powerful radar, and long-range missiles can overcome the stealth advantage of platforms like the F-22 and F-35. The aircraft's 117S engines with 3D thrust vectoring provide unmatched maneuverability at low speeds, while the Irbis-E radar offers detection ranges competitive with Western AESA systems.\n\nIn the current threat environment, the Su-35S has proven itself in Syria, Ukraine, and various NATO border encounters, demonstrating both its capabilities and limitations. While its performance in Ukraine has been constrained by SAM threats and maintenance issues, it remains one of the most formidable non-stealth fighters globally. Against peer adversaries, the Su-35S relies on its sensor fusion, electronic warfare suite, and long-range R-37M missiles to engage before closing to visual range where its thrust vectoring provides decisive advantage.\n\nCompared to contemporaries like the F-15EX, Eurofighter Typhoon, or Rafale, the Su-35S trades radar sophistication and precision munitions integration for raw performance and electronic attack capability. Its operational record suggests effectiveness against less-sophisticated opponents but vulnerability to integrated air defenses and modern stealth platforms, making it a capable but increasingly challenged air superiority asset in high-end conflict scenarios.",
+  "specs_json": {
+    "displacement_tonnes": 0,
+    "length_m": 21.9,
+    "beam_m": 15.3,
+    "draft_m": 0,
+    "speed_knots": 0,
+    "range_nm": 1940,
+    "crew": 1,
+    "propulsion": "2\u00d7 Saturn AL-41F1S (117S) turbofans, 31,900 lbf each with 3D thrust vectoring",
+    "radar": "Tikhomirov NIIP Irbis-E passive phased array radar",
+    "sonar": null,
+    "combat_system": "Digital fly-by-wire with sensor fusion",
+    "vls_cells": 0,
+    "additional": {
+      "max_speed_mach": 2.25,
+      "service_ceiling_m": 18000,
+      "wing_area_m2": 62.0,
+      "empty_weight_kg": 18400,
+      "max_takeoff_weight_kg": 34500,
+      "thrust_to_weight": 1.13,
+      "g_limits": "+9/-3",
+      "hardpoints": 12,
+      "internal_fuel_kg": 11500
+    }
+  },
+  "armament_json": [
+    {
+      "category": "Air-to-Air Missiles",
+      "name": "R-77-1 (RVV-SD)",
+      "type": "medium-range AAM",
+      "quantity": "6-8 typical",
+      "range_km": 110,
+      "notes": "Primary BVR missile, active radar homing"
+    },
+    {
+      "category": "Air-to-Air Missiles",
+      "name": "R-37M (RVV-BD)",
+      "type": "long-range AAM",
+      "quantity": "2-4 max",
+      "range_km": 400,
+      "notes": "Ultra-long-range missile for AWACS/tanker hunting"
+    },
+    {
+      "category": "Air-to-Air Missiles",
+      "name": "R-73 (RVV-MD)",
+      "type": "short-range AAM",
+      "quantity": "2-4 typical",
+      "range_km": 40,
+      "notes": "High off-boresight IR missile with helmet cueing"
+    },
+    {
+      "category": "Guns",
+      "name": "GSh-30-1",
+      "type": "autocannon",
+      "quantity": "1\u00d7 30mm",
+      "range_km": 2,
+      "notes": "150 rounds, 1800 rpm rate of fire"
+    },
+    {
+      "category": "Air-to-Surface",
+      "name": "Kh-31P/A",
+      "type": "anti-radiation/anti-ship missile",
+      "quantity": "2-4 max",
+      "range_km": 110,
+      "notes": "SEAD/DEAD and maritime strike capability"
+    },
+    {
+      "category": "Air-to-Surface",
+      "name": "KAB-500S/L",
+      "type": "guided bomb",
+      "quantity": "4-8 max",
+      "range_km": 20,
+      "notes": "GPS/GLONASS or laser-guided munitions"
+    }
+  ],
+  "variants_json": [
+    {
+      "name": "Su-35S",
+      "designation_range": "Single-seat production variant",
+      "years": "2008-present",
+      "count": 142,
+      "key_changes": "117S engines with TVC, Irbis-E radar, glass cockpit, reduced RCS measures, no canards vs Su-37 demonstrator",
+      "status": "active"
+    },
+    {
+      "name": "Su-35UB",
+      "designation_range": "Two-seat trainer variant",
+      "years": "proposed",
+      "count": 0,
+      "key_changes": "Dual cockpit configuration for training and conversion",
+      "status": "cancelled"
+    }
+  ],
+  "fleet_status_json": [
+    {
+      "hull_number": "RF-95001",
+      "name": "Bort 01 Blue",
+      "variant": "Su-35S",
+      "commissioned": "2014-02-17",
+      "home_port": "Dzemgi Air Base",
+      "status": "active"
+    }
+  ],
+  "cost_usd": 85000000.0,
+  "unit_count": 142,
+  "first_commissioned": "2014-02-17",
+  "builder": "Sukhoi/KnAAPO",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Russian_Air_Force%2C_RF-81719%2C_Sukhoi_Su-35S_%2849581740157%29.jpg",
+  "wiki_url": "https://en.wikipedia.org/wiki/Sukhoi_Su-35",
+  "sources_json": [
+    "https://en.wikipedia.org/wiki/Sukhoi_Su-35",
+    "https://www.sukhoi.org/planes/military/su35/",
+    "https://www.janes.com/defence-news"
+  ],
+  "comparison_tags": [
+    "fighter",
+    "air-superiority",
+    "4th-gen-plus",
+    "russia",
+    "flanker-family",
+    "thrust-vectoring",
+    "super-maneuverability"
+  ],
+  "created_at": "2026-04-11 10:08:52",
+  "updated_at": "2026-04-11T10:08:52.123884",
+  "news": [],
+  "events": [],
+  "ic_coverage": [],
+  "combat_history": [
+    {
+      "date": "2016-02",
+      "operation": "Syrian Civil War",
+      "event": "First combat deployment of 4 Su-35S aircraft to Khmeimim Air Base for air superiority and ground attack missions",
+      "significance": "Demonstrated operational capability and effectiveness of Irbis-E radar and precision munitions in permissive environment"
+    },
+    {
+      "date": "2018-05-10",
+      "operation": null,
+      "event": "Su-35S intercepts Israeli F-16I over Lebanon, forcing Israeli withdrawal without engaging targets in Syria",
+      "significance": "Showcased electronic warfare capabilities and willingness to challenge Israeli air operations"
+    },
+    {
+      "date": "2022-02",
+      "operation": "Ukraine Special Military Operation",
+      "event": "Multiple Su-35S aircraft deployed for air superiority missions, several losses confirmed to Ukrainian SAMs including S-300 and NASAMS",
+      "significance": "Revealed vulnerability to integrated air defenses and highlighted maintenance/pilot training issues under sustained operations"
+    },
+    {
+      "date": "2023-03",
+      "operation": "Ukraine conflict",
+      "event": "Su-35S conducting standoff missile strikes with R-37M against Ukrainian aircraft, claimed shoot-downs of MiG-29 and Su-27",
+      "significance": "Demonstrated long-range missile capability but also reluctance to operate within SAM-contested airspace"
+    }
+  ],
+  "modernization": [
+    {
+      "program": "Irbis-E radar upgrade",
+      "status": "in-progress",
+      "timeline": "2023-2026",
+      "description": "Software updates for improved multi-target tracking and electronic counter-countermeasures, integration with R-37M missile",
+      "impact": "Enhanced BVR capability against stealth targets and improved survivability"
+    },
+    {
+      "program": "Advanced EW suite integration",
+      "status": "planned",
+      "timeline": "2024-2027",
+      "description": "Khibiny-M electronic warfare system upgrade with AI-assisted threat recognition and response",
+      "impact": "Improved survivability against modern SAM systems and AESA radars"
+    },
+    {
+      "program": "Engine life extension",
+      "status": "in-progress",
+      "timeline": "2023-2030",
+      "description": "117S engine modifications to extend TBO from 1000 to 1500 hours, improved thrust vectoring actuators",
+      "impact": "Reduced maintenance burden and improved operational availability"
+    }
+  ],
+  "vulnerabilities": [
+    {
+      "area": "Radar Cross Section",
+      "description": "Large RCS compared to stealth fighters, easily detected by modern AESA radars at extended ranges",
+      "context": "Critical weakness against F-22, F-35, and advanced SAM systems like S-400 operated by adversaries",
+      "mitigation": "Reliance on electronic warfare and standoff weapons, limited RCS reduction measures implemented"
+    },
+    {
+      "area": "Maintenance and Logistics",
+      "description": "Complex thrust vectoring system requires extensive maintenance, limited availability of spare parts under sanctions",
+      "context": "Ukrainian conflict exposed low sortie rates and difficulty maintaining operations under pressure",
+      "mitigation": "Domestic production increase and simplified maintenance procedures being developed"
+    },
+    {
+      "area": "Pilot Training",
+      "description": "Limited flight hours per pilot due to operating costs, insufficient training for complex EW environment operations",
+      "context": "Western pilots typically fly 200+ hours annually vs Russian 100-120 hours, impacts proficiency in contested environments",
+      "mitigation": "Increased simulator training and selective pilot programs for elite units"
+    },
+    {
+      "area": "Sensor Fusion",
+      "description": "Less sophisticated data fusion compared to F-35 or Rafale, pilot workload remains high in multi-threat scenarios",
+      "context": "Critical in modern air combat where information superiority determines engagement outcomes",
+      "mitigation": "Software upgrades planned but limited by computing architecture"
+    }
+  ],
+  "operational_patterns": {
+    "typical_deployment": "Air superiority patrols, standoff missile strikes, and defensive counter-air operations",
+    "deployment_length_months": 6,
+    "key_operating_areas": [
+      "Kaliningrad",
+      "Syria",
+      "Crimea",
+      "Russian Far East",
+      "Arctic"
+    ],
+    "typical_task_group": "Operates in pairs or flights of 4, often with A-50 AWACS support",
+    "readiness_notes": "Approximately 60-70% availability due to maintenance complexity and parts shortages under sanctions"
+  },
+  "peer_comparisons": [
+    {
+      "platform": "F-15EX Eagle II",
+      "country": "United States",
+      "relationship": "direct rival",
+      "key_differences": "F-15EX has superior radar (APG-82 AESA) and avionics but lacks thrust vectoring; Su-35S has better maneuverability but larger RCS",
+      "video_angle": "4th gen+ shootout: raw performance vs technological sophistication"
+    },
+    {
+      "platform": "Eurofighter Typhoon",
+      "country": "Multi-national",
+      "relationship": "direct rival",
+      "key_differences": "Typhoon has smaller RCS and superior avionics integration; Su-35S has longer range and more powerful radar",
+      "video_angle": "European vs Russian design philosophies in modern air combat"
+    },
+    {
+      "platform": "Dassault Rafale",
+      "country": "France",
+      "relationship": "direct rival",
+      "key_differences": "Rafale excels in multi-role capability and sensor fusion; Su-35S dominates in air-to-air performance and payload",
+      "video_angle": "Omni-role fighter vs air superiority specialist comparison"
+    },
+    {
+      "platform": "F-22A Raptor",
+      "country": "United States",
+      "relationship": "adversary",
+      "key_differences": "F-22 has overwhelming stealth advantage and superior situational awareness; Su-35S relies on detection avoidance and long-range missiles",
+      "video_angle": "Stealth vs super-maneuverability: 5th gen vs 4th gen+ evolution"
+    },
+    {
+      "platform": "Chengdu J-16",
+      "country": "China",
+      "relationship": "allied equivalent",
+      "key_differences": "J-16 based on Su-30 with Chinese avionics and weapons; Su-35S has superior engines and flight performance",
+      "video_angle": "Russian original vs Chinese evolution of Flanker design"
+    }
+  ],
+  "search_keywords": [
+    "su-35",
+    "su-35s",
+    "flanker-e",
+    "flanker e",
+    "sukhoi su-35",
+    "russian fighter",
+    "thrust vectoring",
+    "irbis-e radar",
+    "117s engine",
+    "flanker",
+    "su35"
+  ],
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Unsafe_Unprofessional_Interception_of_a_U_S_Navy_P8_by_Russian_SU-35s_over_the_Mediterranean_Sea_%286221811%29.jpg/1280px-Unsafe_Unprofessional_Interception_of_a_U_S_Navy_P8_by_Russian_SU-35s_over_the_Mediterranean_Sea_%286221811%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Unsafe_Unprofessional_Interception_of_a_U_S_Navy_P8_by_Russian_SU-35s_over_the_Mediterranean_Sea_%286221811%29.jpg",
+      "width": 1920,
+      "height": 1080,
+      "title": "Unsafe Unprofessional Interception of a U S Navy P8 by Russian SU-35s over the Mediterranean Sea (6221811).jpg",
+      "description": "MEDITERRANEAN SEA (May 26, 2020) Two Russian Su-35 aircraft unsafely intercept a P-8A Poseidon patrol aircraft assigned to U.S. 6th Fleet over the Mediterranean Sea May 26, 2020. The intercept was det",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Unsafe_Unprofessional_Interception_of_a_U_S_Navy_P8_by_Russian_SU-35s_over_the_Mediterranean_Sea_%286221812%29.jpg/1280px-Unsafe_Unprofessional_Interception_of_a_U_S_Navy_P8_by_Russian_SU-35s_over_the_Mediterranean_Sea_%286221812%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/da/Unsafe_Unprofessional_Interception_of_a_U_S_Navy_P8_by_Russian_SU-35s_over_the_Mediterranean_Sea_%286221812%29.jpg",
+      "width": 3936,
+      "height": 2624,
+      "title": "Unsafe Unprofessional Interception of a U S Navy P8 by Russian SU-35s over the Mediterranean Sea (6221812).jpg",
+      "description": "MEDITERRANEAN SEA (May 26, 2020) Two Russian Su-35 aircraft unsafely intercept a P-8A Poseidon patrol aircraft assigned to U.S. 6th Fleet over the Mediterranean Sea May 26, 2020. The intercept was det",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Unsafe_Unprofessional_Interception_of_a_U_S_Navy_P8_by_Russian_SU-35s_over_the_Mediterranean_Sea_%286221813%29.jpg/1280px-Unsafe_Unprofessional_Interception_of_a_U_S_Navy_P8_by_Russian_SU-35s_over_the_Mediterranean_Sea_%286221813%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Unsafe_Unprofessional_Interception_of_a_U_S_Navy_P8_by_Russian_SU-35s_over_the_Mediterranean_Sea_%286221813%29.jpg",
+      "width": 3936,
+      "height": 2624,
+      "title": "Unsafe Unprofessional Interception of a U S Navy P8 by Russian SU-35s over the Mediterranean Sea (6221813).jpg",
+      "description": "MEDITERRANEAN SEA (May 26, 2020) Two Russian Su-35 aircraft unsafely intercept a P-8A Poseidon patrol aircraft assigned to U.S. 6th Fleet over the Mediterranean Sea May 26, 2020. The intercept was det",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Unsafe_Unprofessional_Interception_of_a_U_S_Navy_P8_by_Russian_SU-35s_over_the_Mediterranean_Sea_%286221814%29.jpg/1280px-Unsafe_Unprofessional_Interception_of_a_U_S_Navy_P8_by_Russian_SU-35s_over_the_Mediterranean_Sea_%286221814%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Unsafe_Unprofessional_Interception_of_a_U_S_Navy_P8_by_Russian_SU-35s_over_the_Mediterranean_Sea_%286221814%29.jpg",
+      "width": 3936,
+      "height": 2624,
+      "title": "Unsafe Unprofessional Interception of a U S Navy P8 by Russian SU-35s over the Mediterranean Sea (6221814).jpg",
+      "description": "MEDITERRANEAN SEA (May 26, 2020) Two Russian Su-35 aircraft unsafely intercept a P-8A Poseidon patrol aircraft assigned to U.S. 6th Fleet over the Mediterranean Sea May 26, 2020. The intercept was det",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Unsafe_Unprofessional_Interception_of_a_U_S_Navy_P8_by_Russian_SU-35s_over_the_Mediterranean_Sea_%286221815%29.jpg/1280px-Unsafe_Unprofessional_Interception_of_a_U_S_Navy_P8_by_Russian_SU-35s_over_the_Mediterranean_Sea_%286221815%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/63/Unsafe_Unprofessional_Interception_of_a_U_S_Navy_P8_by_Russian_SU-35s_over_the_Mediterranean_Sea_%286221815%29.jpg",
+      "width": 3936,
+      "height": 2624,
+      "title": "Unsafe Unprofessional Interception of a U S Navy P8 by Russian SU-35s over the Mediterranean Sea (6221815).jpg",
+      "description": "MEDITERRANEAN SEA (May 26, 2020) Two Russian Su-35 aircraft unsafely intercept a P-8A Poseidon patrol aircraft assigned to U.S. 6th Fleet over the Mediterranean Sea May 26, 2020. The intercept was det",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Unsafe_Unprofessional_Interception_of_a_U_S_Navy_P8_by_Russian_SU-35s_over_the_Mediterranean_Sea_%286221816%29.jpg/1280px-Unsafe_Unprofessional_Interception_of_a_U_S_Navy_P8_by_Russian_SU-35s_over_the_Mediterranean_Sea_%286221816%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Unsafe_Unprofessional_Interception_of_a_U_S_Navy_P8_by_Russian_SU-35s_over_the_Mediterranean_Sea_%286221816%29.jpg",
+      "width": 3936,
+      "height": 2624,
+      "title": "Unsafe Unprofessional Interception of a U S Navy P8 by Russian SU-35s over the Mediterranean Sea (6221816).jpg",
+      "description": "MEDITERRANEAN SEA (May 26, 2020) Two Russian Su-35 aircraft unsafely intercept a P-8A Poseidon patrol aircraft assigned to U.S. 6th Fleet over the Mediterranean Sea May 26, 2020. The intercept was det",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Unsafe_Unprofessional_Interception_of_a_U_S_Navy_P8_by_Russian_SU-35s_over_the_Mediterranean_Sea_%286221817%29.jpg/1280px-Unsafe_Unprofessional_Interception_of_a_U_S_Navy_P8_by_Russian_SU-35s_over_the_Mediterranean_Sea_%286221817%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Unsafe_Unprofessional_Interception_of_a_U_S_Navy_P8_by_Russian_SU-35s_over_the_Mediterranean_Sea_%286221817%29.jpg",
+      "width": 3936,
+      "height": 2624,
+      "title": "Unsafe Unprofessional Interception of a U S Navy P8 by Russian SU-35s over the Mediterranean Sea (6221817).jpg",
+      "description": "MEDITERRANEAN SEA (May 26, 2020) Two Russian Su-35 aircraft unsafely intercept a P-8A Poseidon patrol aircraft assigned to U.S. 6th Fleet over the Mediterranean Sea May 26, 2020. The intercept was det",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Unsafe_Unprofessional_Interception_of_a_U_S_Navy_P8_by_Russian_SU-35s_over_the_Mediterranean_Sea_%286221818%29.jpg/1280px-Unsafe_Unprofessional_Interception_of_a_U_S_Navy_P8_by_Russian_SU-35s_over_the_Mediterranean_Sea_%286221818%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/78/Unsafe_Unprofessional_Interception_of_a_U_S_Navy_P8_by_Russian_SU-35s_over_the_Mediterranean_Sea_%286221818%29.jpg",
+      "width": 3936,
+      "height": 2624,
+      "title": "Unsafe Unprofessional Interception of a U S Navy P8 by Russian SU-35s over the Mediterranean Sea (6221818).jpg",
+      "description": "MEDITERRANEAN SEA (May 26, 2020) Two Russian Su-35 aircraft unsafely intercept a P-8A Poseidon patrol aircraft assigned to U.S. 6th Fleet over the Mediterranean Sea May 26, 2020. The intercept was det",
+      "license": "Public domain",
+      "source": "wikimedia"
+    }
+  ],
+  "doctrine": null,
+  "curated_sources": []
+}

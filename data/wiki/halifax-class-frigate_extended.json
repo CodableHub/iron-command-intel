@@ -1,0 +1,201 @@
+{
+  "combat_history": [
+    {
+      "date": "1999-03",
+      "operation": "Operation Allied Force",
+      "event": "HMCS Halifax participated in NATO operations over Kosovo, conducting maritime interdiction operations in the Adriatic Sea",
+      "significance": "First major combat deployment, demonstrated NATO interoperability"
+    },
+    {
+      "date": "2001-10",
+      "operation": "Operation Apollo",
+      "event": "Multiple Halifax-class ships deployed to Arabian Sea for counter-terrorism operations, including HMCS Halifax, Toronto, and Calgary conducting maritime interdiction operations",
+      "significance": "Extended combat deployment validated long-range capability and combat systems"
+    },
+    {
+      "date": "2011-03",
+      "operation": "Operation Mobile",
+      "event": "HMCS Charlottetown participated in NATO intervention in Libya, enforcing arms embargo and conducting naval gunfire support",
+      "significance": "Demonstrated precision engagement capability with 57mm gun system"
+    },
+    {
+      "date": "2014-04",
+      "operation": "Operation Reassurance",
+      "event": "Halifax-class ships began regular deployments to Black Sea and Baltic following Russian annexation of Crimea",
+      "significance": "Ongoing commitment demonstrates sustained operational capability"
+    }
+  ],
+  "modernization": [
+    {
+      "program": "Halifax Class Modernization/Frigate Life Extension (HCM/FELEX)",
+      "status": "completed",
+      "timeline": "2010-2018",
+      "description": "Comprehensive upgrade including new SHINPADS combat management system, upgraded radar and sonar systems, improved self-defense capabilities, and CH-148 Cyclone helicopter integration",
+      "impact": "Extended service life to 2030s and significantly improved combat capability"
+    },
+    {
+      "program": "Canadian Surface Combatant (CSC)",
+      "status": "in-progress",
+      "timeline": "2026-2040s",
+      "description": "Type 26 frigate-based replacement program to replace Halifax class with 15 new ships",
+      "impact": "Will provide step-change in capability with Aegis-class systems and advanced sensors"
+    }
+  ],
+  "vulnerabilities": [
+    {
+      "area": "Air defense",
+      "description": "Limited to point-defense Sea Sparrow missiles with no area air defense capability against saturation attacks or advanced anti-ship missiles",
+      "context": "Modern anti-ship missiles like 3M-54 Kalibr or YJ-18 significantly outrange and outperform Sea Sparrow intercept envelope",
+      "mitigation": "Relies on task group air defense and electronic warfare; CSC replacement will address this gap"
+    },
+    {
+      "area": "Electronic warfare vulnerability",
+      "description": "Aging electronic warfare suite struggles against modern jamming and cyber threats",
+      "context": "Russian and Chinese electronic warfare capabilities have advanced significantly since 1990s design baseline",
+      "mitigation": "FELEX upgrade improved some EW capabilities but fundamental limitations remain"
+    },
+    {
+      "area": "Manning shortages",
+      "description": "Royal Canadian Navy faces chronic personnel shortages affecting Halifax-class operational availability",
+      "context": "Only 8-9 ships typically available at any time due to crew shortages and maintenance cycles",
+      "mitigation": "RCN recruitment initiatives ongoing but structural problems persist"
+    }
+  ],
+  "operational_patterns": {
+    "typical_deployment": "6-month deployments for NATO operations, sovereignty patrols, and bilateral exercises",
+    "deployment_length_months": 6,
+    "key_operating_areas": [
+      "North Atlantic",
+      "Arctic waters",
+      "Mediterranean",
+      "Indo-Pacific"
+    ],
+    "typical_task_group": "Often operates independently or with single allied ship; larger NATO task groups during exercises",
+    "readiness_notes": "Typically 8-9 ships available for operations due to maintenance cycles and crew shortages"
+  },
+  "peer_comparisons": [
+    {
+      "platform": "FREMM frigate",
+      "country": "France/Italy",
+      "relationship": "contemporary rival",
+      "key_differences": "FREMM has superior air defense with Aster missiles and more advanced radar, but Halifax has better ASW sonar suite and Arctic capability",
+      "video_angle": "NATO frigate capability comparison - why some allies chose firepower over endurance"
+    },
+    {
+      "platform": "Sachsen-class frigate",
+      "country": "Germany",
+      "relationship": "contemporary rival",
+      "key_differences": "Sachsen has area air defense capability with SM-2 missiles but smaller and less seaworthy than Halifax",
+      "video_angle": "Different NATO naval philosophies - German precision vs Canadian endurance"
+    },
+    {
+      "platform": "Type 054A frigate",
+      "country": "China",
+      "relationship": "potential adversary equivalent",
+      "key_differences": "Type 054A has superior VLS capacity and air defense but Halifax has better ASW sensors and NATO interoperability",
+      "video_angle": "Democratic vs authoritarian naval design - capability vs mass production"
+    },
+    {
+      "platform": "Admiral Grigorovich-class frigate",
+      "country": "Russia",
+      "relationship": "potential adversary equivalent",
+      "key_differences": "Russian ship has superior anti-ship missiles (Kalibr) but Halifax has better radar and electronic systems",
+      "video_angle": "NATO-Russia frigate comparison in Arctic context"
+    }
+  ],
+  "search_keywords": [
+    "halifax class",
+    "halifax-class",
+    "FFH 330",
+    "canadian frigate",
+    "royal canadian navy",
+    "RCN frigate",
+    "HMCS Halifax",
+    "SHINPADS",
+    "FELEX",
+    "HCM",
+    "sea sparrow"
+  ],
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/28/3_Halifax_class_frigates%2C_23_March_1996.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/28/3_Halifax_class_frigates%2C_23_March_1996.jpg",
+      "width": 839,
+      "height": 1117,
+      "title": "3 Halifax class frigates, 23 March 1996.jpg",
+      "description": "Three Canadian destroyers steam in formation off the coast of Florida on March 23, 1996. The ships are part of an armada from seven NATO nations participating in Exercise Unified Spirit '96. The combi",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/CFAV_Firebrand_%28YTR_562%29_passes_a_Halifax_class_frigate.jpg/1280px-CFAV_Firebrand_%28YTR_562%29_passes_a_Halifax_class_frigate.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/CFAV_Firebrand_%28YTR_562%29_passes_a_Halifax_class_frigate.jpg",
+      "width": 1594,
+      "height": 834,
+      "title": "CFAV Firebrand (YTR 562) passes a Halifax class frigate.jpg",
+      "description": "tug6",
+      "license": "CC BY 2.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Canadian_Navy_HMCS_Winnipeg_FFH338.JPG/1280px-Canadian_Navy_HMCS_Winnipeg_FFH338.JPG",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Canadian_Navy_HMCS_Winnipeg_FFH338.JPG",
+      "width": 3236,
+      "height": 2157,
+      "title": "Canadian Navy HMCS Winnipeg FFH338.JPG",
+      "description": "HMCS Winnipeg (FFH338 - Halifax class frigate), Royal Canadian Navy, photo taken in Vancouver, BC.",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/HMCS_St._John%27s_Gdynia.JPG/1280px-HMCS_St._John%27s_Gdynia.JPG",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/08/HMCS_St._John%27s_Gdynia.JPG",
+      "width": 2560,
+      "height": 1920,
+      "title": "HMCS St. John's Gdynia.JPG",
+      "description": "Canadian frigate HMCS <i>St. John's</i> (Halifax-class) in manoeuvering in Gdynia harbor (Poland).",
+      "license": "Attribution",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/HMCS_Winnipeg_UK_Carrier_Strike_Group_2021.jpg/1280px-HMCS_Winnipeg_UK_Carrier_Strike_Group_2021.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/08/HMCS_Winnipeg_UK_Carrier_Strike_Group_2021.jpg",
+      "width": 7435,
+      "height": 4957,
+      "title": "HMCS Winnipeg UK Carrier Strike Group 2021.jpg",
+      "description": "CARRIER STRIKE GROUP COMPLETES EXERCISE PACIFIC CROWN\n<p>Pictured: From front to back are HMCS Winnipeg, HNLMS Evertsen and RFA Tidespring in formation ready for a Cheer ship to JS Ise and JS Izumo. \n",
+      "license": "OGL 3",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/JS%E2%80%9DJintsu%E2%80%9D%28DE-230%29_in_KAEDEX21_with_HMCS_%E2%80%9DWinnipeg%E2%80%9D%28FFH-338%29_01.jpg/1280px-JS%E2%80%9DJintsu%E2%80%9D%28DE-230%29_in_KAEDEX21_with_HMCS_%E2%80%9DWinnipeg%E2%80%9D%28FFH-338%29_01.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/7d/JS%E2%80%9DJintsu%E2%80%9D%28DE-230%29_in_KAEDEX21_with_HMCS_%E2%80%9DWinnipeg%E2%80%9D%28FFH-338%29_01.jpg",
+      "width": 2100,
+      "height": 1391,
+      "title": "JS\u201dJintsu\u201d(DE-230) in KAEDEX21 with HMCS \u201dWinnipeg\u201d(FFH-338) 01.jpg",
+      "description": "KAEDEX21\u306b\u53c2\u52a0\u3059\u308b\u6d77\u4e0a\u81ea\u885b\u968a\u8b77\u885b\u8266\u300c\u3058\u3093\u3064\u3046\u300d(DE-230)\u3068\u30ab\u30ca\u30c0\u6d77\u8ecd\u30d5\u30ea\u30b2\u30fc\u30c8\u300c\u30a6\u30a3\u30cb\u30da\u30b0\u300d(FFH-338)\nPHOTOEX(\u5199\u771f\u64ae\u5f71\u9663\u5f62)\u306b\u304a\u3051\u308b\u64ae\u5f71",
+      "license": "CC BY 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/9d/JS%E2%80%9DJintsu%E2%80%9D%28DE-230%29_in_KAEDEX21_with_HMCS_%E2%80%9DWinnipeg%E2%80%9D%28FFH-338%29_02.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/9d/JS%E2%80%9DJintsu%E2%80%9D%28DE-230%29_in_KAEDEX21_with_HMCS_%E2%80%9DWinnipeg%E2%80%9D%28FFH-338%29_02.jpg",
+      "width": 795,
+      "height": 1200,
+      "title": "JS\u201dJintsu\u201d(DE-230) in KAEDEX21 with HMCS \u201dWinnipeg\u201d(FFH-338) 02.jpg",
+      "description": "KAEDEX21\u306b\u53c2\u52a0\u3059\u308b\u6d77\u4e0a\u81ea\u885b\u968a\u8b77\u885b\u8266\u300c\u3058\u3093\u3064\u3046\u300d(DE-230)\u3068\u30ab\u30ca\u30c0\u6d77\u8ecd\u30d5\u30ea\u30b2\u30fc\u30c8\u300c\u30a6\u30a3\u30cb\u30da\u30b0\u300d(FFH-338)\nPHOTOEX(\u5199\u771f\u64ae\u5f71\u9663\u5f62)\u306b\u304a\u3051\u308b\u64ae\u5f71",
+      "license": "CC BY 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/JS%E2%80%9DJintsu%E2%80%9D%28DE-230%29_in_KAEDEX21_with_HMCS_%E2%80%9DWinnipeg%E2%80%9D%28FFH-338%29_03.jpg/1280px-JS%E2%80%9DJintsu%E2%80%9D%28DE-230%29_in_KAEDEX21_with_HMCS_%E2%80%9DWinnipeg%E2%80%9D%28FFH-338%29_03.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/34/JS%E2%80%9DJintsu%E2%80%9D%28DE-230%29_in_KAEDEX21_with_HMCS_%E2%80%9DWinnipeg%E2%80%9D%28FFH-338%29_03.jpg",
+      "width": 1856,
+      "height": 1270,
+      "title": "JS\u201dJintsu\u201d(DE-230) in KAEDEX21 with HMCS \u201dWinnipeg\u201d(FFH-338) 03.jpg",
+      "description": "KAEDEX21\u306b\u53c2\u52a0\u3059\u308b\u6d77\u4e0a\u81ea\u885b\u968a\u8b77\u885b\u8266\u300c\u3058\u3093\u3064\u3046\u300d(DE-230)\u3068\u30ab\u30ca\u30c0\u6d77\u8ecd\u30d5\u30ea\u30b2\u30fc\u30c8\u300c\u30a6\u30a3\u30cb\u30da\u30b0\u300d(FFH-338)\nPHOTOEX(\u5199\u771f\u64ae\u5f71\u9663\u5f62)\u306b\u304a\u3051\u308b\u64ae\u5f71",
+      "license": "CC BY 4.0",
+      "source": "wikimedia"
+    }
+  ]
+}

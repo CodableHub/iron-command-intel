@@ -1,0 +1,200 @@
+{
+  "combat_history": [
+    {
+      "date": "2010",
+      "operation": "Yeonpyeong Island Response",
+      "event": "K21 units were deployed to forward positions following North Korean artillery attack on Yeonpyeong Island, marking first operational deployment in heightened readiness posture",
+      "significance": "Demonstrated rapid deployment capability and readiness for Korean Peninsula contingencies"
+    },
+    {
+      "date": "2015-2017",
+      "operation": "THAAD Deployment Security",
+      "event": "K21 units provided security for THAAD missile defense system deployment sites, operating in anti-infiltration role",
+      "significance": "Showed integration with strategic defense systems and ability to operate in politically sensitive environments"
+    }
+  ],
+  "modernization": [
+    {
+      "program": "Active Protection System Integration",
+      "status": "in-progress",
+      "timeline": "2022-2025",
+      "description": "Integration of Rafael Iron Fist APS on export variants, domestic APS development for ROK Army fleet",
+      "impact": "Significantly improves survivability against RPGs and ATGMs in urban combat"
+    },
+    {
+      "program": "AI-Enhanced Fire Control",
+      "status": "planned",
+      "timeline": "2024-2027",
+      "description": "Machine learning target recognition and engagement systems, automated threat prioritization",
+      "impact": "Reduces crew workload and improves first-round hit probability"
+    },
+    {
+      "program": "K21A2 Development",
+      "status": "planned",
+      "timeline": "2025-2030",
+      "description": "Next-generation variant with improved armor, 40mm cannon option, enhanced networking capabilities",
+      "impact": "Maintains technological edge over regional threats and extends service life"
+    }
+  ],
+  "vulnerabilities": [
+    {
+      "area": "Top attack munitions",
+      "description": "Limited top armor protection against advanced top-attack ATGMs and loitering munitions, particularly vulnerable to Javelin-type threats",
+      "context": "North Korean acquisition of top-attack capabilities and proliferation of loitering munitions in regional conflicts",
+      "mitigation": "Active protection system integration and operational tactics emphasizing cover and concealment"
+    },
+    {
+      "area": "Electronic warfare susceptibility",
+      "description": "Heavy reliance on electronic systems and datalinks creates vulnerability to sophisticated EW attacks, particularly GPS jamming",
+      "context": "North Korean development of cyber and EW capabilities, demonstrated GPS jamming incidents",
+      "mitigation": "Hardening of electronic systems and development of alternative navigation methods"
+    },
+    {
+      "area": "Logistics complexity",
+      "description": "Hybrid drive system and advanced electronics create maintenance burden requiring specialized training and parts supply",
+      "context": "Need for sustained operations in wartime without access to manufacturer support",
+      "mitigation": "Expanded maintenance training programs and stockpiling of critical components"
+    }
+  ],
+  "operational_patterns": {
+    "typical_deployment": "Mechanized infantry support, forward defense positions along DMZ, rapid reaction forces",
+    "deployment_length_months": 12,
+    "key_operating_areas": [
+      "DMZ forward positions",
+      "Seoul metropolitan defense",
+      "Eastern coastal regions"
+    ],
+    "typical_task_group": "Operates in mechanized infantry battalions with K2 Black Panther MBTs and K9 Thunder artillery",
+    "readiness_notes": "High operational tempo with frequent training exercises, some maintenance challenges with hybrid systems"
+  },
+  "peer_comparisons": [
+    {
+      "platform": "M2A4 Bradley",
+      "country": "United States",
+      "relationship": "allied equivalent",
+      "key_differences": "K21 emphasizes anti-tank lethality and protection over strategic mobility, hybrid drive provides silent watch capability Bradley lacks. Bradley has superior battle-tested reliability and logistics support.",
+      "video_angle": "Technology vs. proven reliability - next-gen features versus combat-proven systems"
+    },
+    {
+      "platform": "BMP-3",
+      "country": "Russia",
+      "relationship": "direct rival",
+      "key_differences": "K21 has superior armor protection and fire control but less amphibious capability than BMP-3. K21's electronics and situational awareness significantly more advanced.",
+      "video_angle": "High-tech vs. mass production - sophisticated systems versus quantity and simplicity"
+    },
+    {
+      "platform": "Puma IFV",
+      "country": "Germany",
+      "relationship": "peer competitor",
+      "key_differences": "Both emphasize protection and technology, but Puma focuses on modularity while K21 emphasizes anti-armor capability. Puma has superior strategic mobility for NATO operations.",
+      "video_angle": "Different philosophies - European modularity versus Korean Peninsula-specific optimization"
+    },
+    {
+      "platform": "ZBD-04A",
+      "country": "China",
+      "relationship": "regional rival",
+      "key_differences": "K21 has more advanced fire control and networking, ZBD-04A emphasizes amphibious capability and mass production. K21 superior in defensive operations, ZBD-04A better for power projection.",
+      "video_angle": "Quality vs. quantity in Asian land warfare - technological edge versus mass deployment"
+    },
+    {
+      "platform": "CV90 Mk IV",
+      "country": "Sweden",
+      "relationship": "export competitor",
+      "key_differences": "Both target similar export markets with advanced technology. CV90 has proven export success and modularity, K21 offers lower cost and integrated anti-tank capability.",
+      "video_angle": "Export market battle - established European brand versus emerging Asian alternative"
+    }
+  ],
+  "search_keywords": [
+    "K21 IFV",
+    "K21 infantry fighting vehicle",
+    "K-21",
+    "South Korea IFV",
+    "Korean IFV",
+    "Hanwha K21",
+    "Samsung K21",
+    "ROK Army IFV",
+    "Korean armored vehicle"
+  ],
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2007_Seoul_Air_Show_025.JPG/1280px-2007_Seoul_Air_Show_025.JPG",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/20/2007_Seoul_Air_Show_025.JPG",
+      "width": 2048,
+      "height": 1536,
+      "title": "2007 Seoul Air Show 025.JPG",
+      "description": "K21 IFV of South Korea which photoed by <a href=\"//commons.wikimedia.org/w/index.php?title=User:Rheo1905&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Rheo1905 (page does not exist)\">Rheo1905",
+      "license": "CC BY-SA 3.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Commander%27s_displays_of_k21.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Commander%27s_displays_of_k21.jpg",
+      "width": 743,
+      "height": 494,
+      "title": "Commander's displays of k21.jpg",
+      "description": "South Korean indigenous infantry fighting vehicle K21 look around\n(circa 2011)",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Commander%27s_seat_from_above_the_turret_of_k21.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Commander%27s_seat_from_above_the_turret_of_k21.jpg",
+      "width": 743,
+      "height": 494,
+      "title": "Commander's seat from above the turret of k21.jpg",
+      "description": "South Korean indigenous infantry fighting vehicle K21 look around\n(circa 2011)",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/74/Driver%27s_panel_of_K21.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/74/Driver%27s_panel_of_K21.jpg",
+      "width": 743,
+      "height": 495,
+      "title": "Driver's panel of K21.jpg",
+      "description": "South Korean indigenous infantry fighting vehicle K21 look around\n(circa 2011)",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/25/Driver%27s_seat_in_the_K21.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/25/Driver%27s_seat_in_the_K21.jpg",
+      "width": 743,
+      "height": 494,
+      "title": "Driver's seat in the K21.jpg",
+      "description": "South Korean indigenous infantry fighting vehicle K21 look around\n(circa 2011)",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Keyboard_of_k21.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Keyboard_of_k21.jpg",
+      "width": 743,
+      "height": 494,
+      "title": "Keyboard of k21.jpg",
+      "description": "South Korean indigenous infantry fighting vehicle K21 look around\n(circa 2011)",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/0b/South_Korean_K21_passenger_room.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/0b/South_Korean_K21_passenger_room.jpg",
+      "width": 743,
+      "height": 494,
+      "title": "South Korean K21 passenger room.jpg",
+      "description": "South Korean indigenous infantry fighting vehicle K21 look around\n(circa 2011)",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/99/Turret_of_the_K21.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/99/Turret_of_the_K21.jpg",
+      "width": 743,
+      "height": 494,
+      "title": "Turret of the K21.jpg",
+      "description": "South Korean indigenous infantry fighting vehicle K21 look around\n(circa 2011)",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    }
+  ]
+}

@@ -1,0 +1,490 @@
+{
+  "id": 105,
+  "slug": "m1126-stryker-apc",
+  "name": "M1126 Stryker Infantry Carrier Vehicle",
+  "designation": "M1126",
+  "type": "apc",
+  "country": "United States",
+  "operator": "U.S. Army",
+  "overview_md": "The M1126 Stryker Infantry Carrier Vehicle represents the U.S. Army's attempt to bridge the gap between heavy armored forces and light infantry, embodying the service's vision of rapid-deployment medium-weight brigades. Built on the Canadian LAV III chassis, the Stryker was designed to provide infantry squads with protected mobility while maintaining the strategic deployability that heavy tracked vehicles cannot offer. The platform can carry a nine-man infantry squad plus crew, combining 8x8 wheeled mobility with survivability enhancements including reactive armor and electronic countermeasures.\n\nStrategically, the Stryker filled a critical capability gap in the early 2000s when the Army recognized it needed forces that could deploy faster than heavy armor but survive better than unprotected vehicles. The Interim Brigade Combat Team (later Stryker Brigade Combat Team) concept was built around this platform, emphasizing networked operations and combined-arms integration at the company level. Six Stryker Brigade Combat Teams were eventually fielded, each built around approximately 300 Stryker vehicles across multiple variants.\n\nIn the current threat environment, the Stryker faces significant challenges from advanced anti-tank guided missiles, explosive formed penetrators, and drone-delivered munitions that have proliferated globally. While effective against small arms and artillery fragments, its aluminum hull provides limited protection against modern anti-armor threats. The platform's wheeled configuration, while providing strategic mobility advantages, limits its cross-country performance compared to tracked alternatives and makes it vulnerable to mobility kills from relatively simple improvised explosive devices.\n\nCompared to peer platforms like the German Boxer or Finnish Patria AMV, the Stryker offers superior strategic mobility and a mature logistics chain but lags in protection levels and upgrade potential. Its open architecture has enabled continuous modernization, but fundamental limitations in size, weight, and power constrain future growth. The Stryker remains relevant primarily due to its proven reliability, extensive operational history, and the substantial infrastructure investment the Army has made in the platform ecosystem.",
+  "specs_json": {
+    "displacement_tonnes": null,
+    "length_m": 6.95,
+    "beam_m": 2.72,
+    "draft_m": null,
+    "speed_knots": null,
+    "range_nm": null,
+    "crew": 2,
+    "propulsion": "Caterpillar 3126 diesel engine, 350 hp, 8x8 wheeled",
+    "radar": "AN/VAS-5 Driver's Vision Enhancer",
+    "sonar": null,
+    "combat_system": "Force XXI Battle Command Brigade and Below (FBCB2), later Blue Force Tracker",
+    "vls_cells": null,
+    "additional": {
+      "max_speed_kmh": 100,
+      "range_km": 500,
+      "passengers": 9,
+      "ground_pressure_kpa": 276,
+      "fording_depth_m": 1.0,
+      "armor": "Aluminum hull with ceramic applique and reactive armor tiles",
+      "nbc_protection": "Yes"
+    }
+  },
+  "armament_json": [
+    {
+      "category": "Machine Gun",
+      "name": "M240B",
+      "type": "medium machine gun",
+      "quantity": "1x 7.62mm",
+      "range_km": 1.8,
+      "notes": "Pintle-mounted, commander operated"
+    },
+    {
+      "category": "Remote Weapons Station",
+      "name": "M151 Protector RWS",
+      "type": "remote weapon station",
+      "quantity": "1x",
+      "range_km": 2,
+      "notes": "Optional upgrade, can mount M2 .50 cal or M240B"
+    },
+    {
+      "category": "Personal Weapons",
+      "name": "Squad Weapons",
+      "type": "small arms",
+      "quantity": "9x infantry",
+      "range_km": 0.5,
+      "notes": "Firing ports for individual weapons, squad automatic weapons"
+    }
+  ],
+  "variants_json": [
+    {
+      "name": "Infantry Carrier Vehicle",
+      "designation_range": "M1126",
+      "years": "2002-present",
+      "count": 1567,
+      "key_changes": "Base troop transport variant with seating for nine infantry soldiers",
+      "status": "active"
+    },
+    {
+      "name": "Reconnaissance Vehicle",
+      "designation_range": "M1127",
+      "years": "2003-present",
+      "count": 339,
+      "key_changes": "Enhanced optics suite, additional communications equipment, reduced passenger capacity",
+      "status": "active"
+    },
+    {
+      "name": "Mobile Gun System",
+      "designation_range": "M1128",
+      "years": "2007-2022",
+      "count": 142,
+      "key_changes": "105mm cannon in automated turret, significant weight increase, crew of 3",
+      "status": "retired"
+    },
+    {
+      "name": "Mortar Carrier",
+      "designation_range": "M1129",
+      "years": "2004-present",
+      "count": 256,
+      "key_changes": "120mm mortar system, mortar fire control system, ammunition storage",
+      "status": "active"
+    },
+    {
+      "name": "Commander's Vehicle",
+      "designation_range": "M1130",
+      "years": "2003-present",
+      "count": 312,
+      "key_changes": "Enhanced communications suite, additional radios and planning equipment",
+      "status": "active"
+    },
+    {
+      "name": "Fire Support Vehicle",
+      "designation_range": "M1131",
+      "years": "2004-present",
+      "count": 112,
+      "key_changes": "Advanced target acquisition systems, laser designators, fire control equipment",
+      "status": "active"
+    },
+    {
+      "name": "Engineer Squad Vehicle",
+      "designation_range": "M1132",
+      "years": "2004-present",
+      "count": 94,
+      "key_changes": "Engineering equipment storage, mine detection systems, specialized tools",
+      "status": "active"
+    },
+    {
+      "name": "Medical Evacuation Vehicle",
+      "designation_range": "M1133",
+      "years": "2004-present",
+      "count": 142,
+      "key_changes": "Medical equipment, stretcher mounts, climate control for patients",
+      "status": "active"
+    },
+    {
+      "name": "Anti-Tank Guided Missile Vehicle",
+      "designation_range": "M1134",
+      "years": "2005-present",
+      "count": 56,
+      "key_changes": "TOW missile system, targeting optics, missile storage and handling",
+      "status": "active"
+    },
+    {
+      "name": "Nuclear, Biological, Chemical Reconnaissance Vehicle",
+      "designation_range": "M1135",
+      "years": "2006-present",
+      "count": 91,
+      "key_changes": "Chemical detection sensors, sampling equipment, enhanced NBC protection",
+      "status": "active"
+    },
+    {
+      "name": "Double-V Hull",
+      "designation_range": "DVH variants",
+      "years": "2009-present",
+      "count": 1295,
+      "key_changes": "Enhanced IED protection, increased height and weight, reduced passenger capacity",
+      "status": "active"
+    }
+  ],
+  "fleet_status_json": [
+    {
+      "hull_number": "Multiple",
+      "name": "2nd Stryker Brigade Combat Team, 2nd Infantry Division",
+      "variant": "Mixed",
+      "commissioned": "2003",
+      "home_port": "Joint Base Lewis-McChord, WA",
+      "status": "active"
+    },
+    {
+      "hull_number": "Multiple",
+      "name": "1st Stryker Brigade Combat Team, 25th Infantry Division",
+      "variant": "Mixed",
+      "commissioned": "2004",
+      "home_port": "Fort Wainwright, AK",
+      "status": "active"
+    },
+    {
+      "hull_number": "Multiple",
+      "name": "3rd Stryker Brigade Combat Team, 2nd Infantry Division",
+      "variant": "Mixed",
+      "commissioned": "2006",
+      "home_port": "Joint Base Lewis-McChord, WA",
+      "status": "active"
+    },
+    {
+      "hull_number": "Multiple",
+      "name": "1st Stryker Brigade Combat Team, 4th Infantry Division",
+      "variant": "Mixed",
+      "commissioned": "2007",
+      "home_port": "Fort Carson, CO",
+      "status": "active"
+    },
+    {
+      "hull_number": "Multiple",
+      "name": "2nd Stryker Brigade Combat Team, 4th Infantry Division",
+      "variant": "Mixed",
+      "commissioned": "2008",
+      "home_port": "Fort Carson, CO",
+      "status": "active"
+    },
+    {
+      "hull_number": "Multiple",
+      "name": "2nd Cavalry Regiment",
+      "variant": "Mixed",
+      "commissioned": "2009",
+      "home_port": "Vilseck, Germany",
+      "status": "active"
+    }
+  ],
+  "cost_usd": 4900000.0,
+  "unit_count": 4466,
+  "first_commissioned": "2002",
+  "builder": "General Dynamics Land Systems",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/51/Stryker_ICV_front_q.jpg",
+  "wiki_url": "https://en.wikipedia.org/wiki/Stryker",
+  "sources_json": [
+    "https://en.wikipedia.org/wiki/Stryker",
+    "https://www.army.mil/article/239821/",
+    "https://asc.army.mil/web/portfolio-item/ground-combat-systems-gcs-stryker/",
+    "https://www.csis.org/analysis/stryker-brigade-combat-teams"
+  ],
+  "comparison_tags": [
+    "apc",
+    "wheeled",
+    "8x8",
+    "us-army",
+    "medium-armor",
+    "networked",
+    "rapid-deployment"
+  ],
+  "created_at": "2026-04-11 10:21:12",
+  "updated_at": "2026-04-11T10:21:12.392411",
+  "news": [],
+  "events": [],
+  "ic_coverage": [],
+  "combat_history": [
+    {
+      "date": "2003-11",
+      "operation": "Operation Iraqi Freedom",
+      "event": "First combat deployment of 3rd Brigade, 2nd ID in Mosul and surrounding areas. Strykers proved effective for urban patrols and convoy operations but vulnerable to IEDs and RPGs.",
+      "significance": "Validated basic mobility and communications concepts while revealing critical survivability gaps"
+    },
+    {
+      "date": "2006-10-30",
+      "operation": "Operation Iraqi Freedom",
+      "event": "Stryker MGS vehicle destroyed by massive IED in Ramadi, killing crew of four. Event highlighted MGS vulnerability and led to tactical employment changes.",
+      "significance": "Demonstrated limitations of wheeled platform survivability against advanced IED threats"
+    },
+    {
+      "date": "2010-02",
+      "operation": "Operation Enduring Freedom",
+      "event": "5th Brigade, 2nd ID deployed to Afghanistan's Kandahar province. Terrain and IED threats severely limited mobility, forcing significant tactical adaptations.",
+      "significance": "Revealed terrain limitations of wheeled platforms in complex environments"
+    },
+    {
+      "date": "2014-2017",
+      "operation": "Operation Inherent Resolve",
+      "event": "2nd Cavalry Regiment Strykers provided fire support and reconnaissance in operations against ISIS in Iraq and Syria, integrating with Iraqi Security Forces.",
+      "significance": "Demonstrated platform's utility in advisory and fire support roles with allied forces"
+    },
+    {
+      "date": "2022-present",
+      "operation": "Enhanced Forward Presence",
+      "event": "2nd Cavalry Regiment Strykers conducting deterrence operations along NATO's eastern flank in response to Russian aggression.",
+      "significance": "Testing platform relevance in potential peer conflict scenarios in European terrain"
+    }
+  ],
+  "modernization": [
+    {
+      "program": "Stryker Lethality Improvement Program",
+      "status": "completed",
+      "timeline": "2015-2022",
+      "description": "Installation of 30mm XM813 cannon in unmanned turret to replace machine gun armament on select ICVs. Provides significant increase in firepower against light armor and fortifications.",
+      "impact": "Transforms ICV from pure transport to infantry fighting vehicle with direct fire capability"
+    },
+    {
+      "program": "Double-V Hull Upgrade",
+      "status": "completed",
+      "timeline": "2009-2014",
+      "description": "Retrofit of flat-bottom hull with V-shaped configuration to deflect IED blasts. Includes additional armor protection and mine-resistant seating.",
+      "impact": "Significantly improved crew survivability against IED threats but increased weight and reduced mobility"
+    },
+    {
+      "program": "Stryker A1 Upgrade",
+      "status": "in-progress",
+      "timeline": "2021-2028",
+      "description": "Comprehensive modernization including improved power generation, network infrastructure, and integration of next-generation battlefield management systems.",
+      "impact": "Extends platform service life through 2040s and improves integration with multi-domain operations"
+    },
+    {
+      "program": "Active Protection System Integration",
+      "status": "planned",
+      "timeline": "2025-2030",
+      "description": "Installation of Trophy or Iron Fist active protection systems to defeat incoming anti-tank guided missiles and rocket-propelled grenades.",
+      "impact": "Would provide critical survivability improvement against modern anti-armor threats"
+    }
+  ],
+  "vulnerabilities": [
+    {
+      "area": "Armor Protection",
+      "description": "Aluminum hull provides limited protection against modern anti-tank weapons, large-caliber ammunition, and explosive formed penetrators. Applique armor is modular but constrained by weight limits.",
+      "context": "Proliferation of advanced RPGs and ATGMs makes platform vulnerable to most global threats",
+      "mitigation": "DVH upgrade, reactive armor tiles, and planned active protection systems partially address threat"
+    },
+    {
+      "area": "Mobility in Complex Terrain",
+      "description": "Wheeled configuration limits cross-country performance in soft soil, steep slopes, and heavily vegetated terrain compared to tracked alternatives. Ground pressure and weight distribution issues.",
+      "context": "Limits tactical flexibility in many potential operational environments including Eastern Europe",
+      "mitigation": "Run-flat tire inserts and traction aids provide marginal improvement but fundamental limitation remains"
+    },
+    {
+      "area": "Logistical Complexity",
+      "description": "Multiple variants with different maintenance requirements, parts inventory, and specialized training needs create logistical burden. Tire maintenance and replacement particularly challenging in forward areas.",
+      "context": "Sustainability concerns in extended operations or contested logistics environments",
+      "mitigation": "Commonality improvements in A1 upgrade and contractor logistics support partially address issues"
+    },
+    {
+      "area": "Network Vulnerability",
+      "description": "Heavy reliance on digital communications and blue force tracking makes platform vulnerable to electronic warfare and cyber attacks. Loss of network connectivity significantly degrades effectiveness.",
+      "context": "Peer adversaries possess sophisticated EW capabilities that could neutralize key Stryker advantages",
+      "mitigation": "Communications security improvements and backup analog systems being integrated"
+    }
+  ],
+  "operational_patterns": {
+    "typical_deployment": "Brigade-level deployments as part of rotational forces to Europe, Korea, or contingency operations. Company-level security cooperation missions.",
+    "deployment_length_months": 9,
+    "key_operating_areas": [
+      "Eastern Europe",
+      "Korean Peninsula",
+      "Middle East",
+      "Africa"
+    ],
+    "typical_task_group": "Operates as integral part of Stryker Brigade Combat Team with organic artillery, engineers, and aviation support",
+    "readiness_notes": "High operational tempo has stressed maintenance systems. DVH variants require more frequent tire replacement due to increased weight."
+  },
+  "peer_comparisons": [
+    {
+      "platform": "Boxer Multi-Role Armored Vehicle",
+      "country": "Germany/Netherlands",
+      "relationship": "direct rival",
+      "key_differences": "Boxer offers superior protection and modular mission equipment but at significantly higher cost and weight. Better cross-country mobility but reduced strategic deployability compared to Stryker.",
+      "video_angle": "European vs American approach to medium armor - protection vs deployability trade-offs"
+    },
+    {
+      "platform": "Patria AMV",
+      "country": "Finland",
+      "relationship": "direct rival",
+      "key_differences": "Similar 8x8 wheeled configuration but more compact design. Better amphibious capability and easier air transport, but smaller internal volume and less mature electronics integration than Stryker.",
+      "video_angle": "Nordic engineering vs American systems integration - different solutions to similar requirements"
+    },
+    {
+      "platform": "BTR-82A",
+      "country": "Russia",
+      "relationship": "opposing equivalent",
+      "key_differences": "Lower protection levels but amphibious capability and 30mm autocannon as standard. Simpler, more robust design philosophy with lower electronics integration and crew comfort standards.",
+      "video_angle": "NATO vs Russian doctrine - high-tech networked vs simple robust design philosophies"
+    },
+    {
+      "platform": "LAV III/LAV 6.0",
+      "country": "Canada",
+      "relationship": "predecessor",
+      "key_differences": "Stryker is directly derived from LAV III but with extensive US-specific modifications. Canadian LAV 6.0 represents parallel evolution with different upgrade priorities and weapons integration.",
+      "video_angle": "How two allies evolved the same basic platform differently based on doctrine and threat perceptions"
+    },
+    {
+      "platform": "Type 08 Wheeled IFV",
+      "country": "China",
+      "relationship": "direct rival",
+      "key_differences": "Chinese platform emphasizes amphibious capability and 30mm autocannon as standard equipment. Similar mobility but less sophisticated electronics and force protection systems than modern Strykers.",
+      "video_angle": "US vs Chinese medium armor development - technology integration vs mass production approaches"
+    }
+  ],
+  "search_keywords": [
+    "stryker",
+    "M1126",
+    "stryker brigade",
+    "SBCT",
+    "stryker ICV",
+    "LAV III",
+    "8x8 wheeled",
+    "interim brigade",
+    "double v hull",
+    "DVH stryker",
+    "stryker lethality",
+    "30mm stryker"
+  ],
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Defense.gov_News_Photo_070324-N-7949W-420.jpg/1280px-Defense.gov_News_Photo_070324-N-7949W-420.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/21/Defense.gov_News_Photo_070324-N-7949W-420.jpg",
+      "width": 3000,
+      "height": 2073,
+      "title": "Defense.gov News Photo 070324-N-7949W-420.jpg",
+      "description": "U.S. Army soldiers from Alpha Company, 1st Battalion, 27th Infantry Regiment, 2nd Stryker Brigade Combat Team exit their M1126 Stryker Infantry Carrier Vehicle during dismounted maneuvers at Warrior V",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/M-V_Cape_Henry%2C_MSC_Deliver_Essential_Cobra_Gold_Cargo_%288912219%29.jpg/1280px-M-V_Cape_Henry%2C_MSC_Deliver_Essential_Cobra_Gold_Cargo_%288912219%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/2a/M-V_Cape_Henry%2C_MSC_Deliver_Essential_Cobra_Gold_Cargo_%288912219%29.jpg",
+      "width": 6000,
+      "height": 4000,
+      "title": "M-V Cape Henry, MSC Deliver Essential Cobra Gold Cargo (8912219).jpg",
+      "description": "SATTAHIP, Thailand\u2014 An M1126 Stryker is discharged from Military Sealift Command (MSC) chartered Motor Vessel Cape Henry (T-AKR 5067) at the pier in Sattahip, Thailand, Feb. 18, during an offload of e",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/MSC_Delivers_Gear_in_Support_of_Cobra_Gold_2026_%289545687%29.jpg/1280px-MSC_Delivers_Gear_in_Support_of_Cobra_Gold_2026_%289545687%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/60/MSC_Delivers_Gear_in_Support_of_Cobra_Gold_2026_%289545687%29.jpg",
+      "width": 5621,
+      "height": 3747,
+      "title": "MSC Delivers Gear in Support of Cobra Gold 2026 (9545687).jpg",
+      "description": "An M1126 Stryker is discharged from Military Sealift Command (MSC) chartered steam ship Cape Island (T-AKR 10) at the port of Chuk Samet, Sattahip, Thailand, Feb. 19, 2026, during an offload of equipm",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/220322-A-VV548-002_-_Watching_a_Convoy_Form.jpg/1280px-220322-A-VV548-002_-_Watching_a_Convoy_Form.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/ed/220322-A-VV548-002_-_Watching_a_Convoy_Form.jpg",
+      "width": 3150,
+      "height": 2100,
+      "title": "220322-A-VV548-002 - Watching a Convoy Form.jpg",
+      "description": "2nd Lt. Devin Wentworth, a Soldier from the 1st Battalion, 24th Infantry Regiment, 1st Brigade, 25th Infantry Division assigned to United States Army Alaska watches the convoy form-up behind his Stryk",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Armored_Personnel_Carrier_141001-A-WU246-030.jpg/1280px-Armored_Personnel_Carrier_141001-A-WU246-030.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/42/Armored_Personnel_Carrier_141001-A-WU246-030.jpg",
+      "width": 5184,
+      "height": 3456,
+      "title": "Armored Personnel Carrier 141001-A-WU246-030.jpg",
+      "description": "Bradley Fighting Vehicles, Strykers, Humvees, Armored Personnel Carriers, HEMTT Fuel trucks, and other U.S. Army tactical vehicles were offloaded here and transferred to rail lines Sept. 30 - Oct. 1 f",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/M1126_ICVV_Stryker.jpg/1280px-M1126_ICVV_Stryker.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/78/M1126_ICVV_Stryker.jpg",
+      "width": 1600,
+      "height": 1066,
+      "title": "M1126 ICVV Stryker.jpg",
+      "description": "M1126 ICVV basic armored personnel carrier vehicle. Carries a crew of 2 people and has 9 landing seats. In the stern there is a ramp that folds down for landing and disembarking troops. The turret can",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/93/Stryker_MC_unloading_from_C130.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/93/Stryker_MC_unloading_from_C130.jpg",
+      "width": 1000,
+      "height": 708,
+      "title": "Stryker MC unloading from C130.jpg",
+      "description": "A mortar carrier Stryker vehicle makes its way off a California Air National Guard <a href=\"//commons.wikimedia.org/wiki/C-130\" class=\"mw-redirect\" title=\"C-130\">C-130</a> cargo plane at Esler Air Fie",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Stryker_RV_front_q.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Stryker_RV_front_q.jpg",
+      "width": 800,
+      "height": 533,
+      "title": "Stryker RV front q.jpg",
+      "description": "Stryker Reconnaissance Vehicle (M1127)",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/US_Army_52172_Maximizing_airlift_means_rapid_reset.jpg/1280px-US_Army_52172_Maximizing_airlift_means_rapid_reset.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/US_Army_52172_Maximizing_airlift_means_rapid_reset.jpg",
+      "width": 1820,
+      "height": 1209,
+      "title": "US Army 52172 Maximizing airlift means rapid reset.jpg",
+      "description": "Strykers are loaded onto an Air Mobility Command plane at Joint Base Balad, Iraq, for transport to the United States, where they will be repaired and returned to fighting units",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/US_Navy_030324-A-0000L-044_A_Stryker_interim_armored_vehicle_speeds_away_after_being_offloaded_from_an_Air_Force_C130_Hercules_aircraft.jpg/1280px-US_Navy_030324-A-0000L-044_A_Stryker_interim_armored_vehicle_speeds_away_after_being_offloaded_from_an_Air_Force_C130_Hercules_aircraft.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/aa/US_Navy_030324-A-0000L-044_A_Stryker_interim_armored_vehicle_speeds_away_after_being_offloaded_from_an_Air_Force_C130_Hercules_aircraft.jpg",
+      "width": 2000,
+      "height": 1312,
+      "title": "US Navy 030324-A-0000L-044 A Stryker interim armored vehicle speeds away after being offloaded from an Air Force C130 Hercules aircraft.jpg",
+      "description": "Fort Irwin, Calif. (Mar. 24, 2003) -- A Stryker interim armored vehicle speeds away after being offloaded from an Air Force C130 Hercules aircraft during an early-entry training mission, marking the b",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/US_Navy_030324-A-0000O-006_A_Stryker_Mortar_Carrier_exits_the_tail_of_an_Air_Force_C130_Hercules_aircraft_after_landing_at_the_Army_National_Training_Center%27s_%27Bicycle_Lake%27_Army_airfield.jpg/1280px-thumbnail.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/e5/US_Navy_030324-A-0000O-006_A_Stryker_Mortar_Carrier_exits_the_tail_of_an_Air_Force_C130_Hercules_aircraft_after_landing_at_the_Army_National_Training_Center%27s_%27Bicycle_Lake%27_Army_airfield.jpg",
+      "width": 3008,
+      "height": 1960,
+      "title": "US Navy 030324-A-0000O-006 A Stryker Mortar Carrier exits the tail of an Air Force C130 Hercules aircraft after landing at the Army National Training Center's 'Bicycle Lake' Army airfield.jpg",
+      "description": "Fort Irwin, Calif. (Mar. 24, 2003) -- A Stryker Mortar Carrier exits the tail of an Air Force C130 Hercules aircraft after landing at the Army National Training Center's 'Bicycle Lake' Army airfield. ",
+      "license": "Public domain",
+      "source": "wikimedia"
+    }
+  ],
+  "doctrine": null,
+  "curated_sources": []
+}

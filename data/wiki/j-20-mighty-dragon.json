@@ -1,0 +1,322 @@
+{
+  "id": 88,
+  "slug": "j-20-mighty-dragon",
+  "name": "Chengdu J-20 Mighty Dragon",
+  "designation": "J-20",
+  "type": "fighter",
+  "country": "China",
+  "operator": "People's Liberation Army Air Force (PLAAF)",
+  "overview_md": "The Chengdu J-20 Mighty Dragon represents China's entry into the fifth-generation stealth fighter arena, designed specifically to challenge U.S. air dominance in the Western Pacific. This twin-engine, single-seat fighter emphasizes long-range strike capabilities and stealth characteristics, filling the PLAAF's need for a platform capable of operating in contested airspace against advanced air defense systems. The J-20's design philosophy prioritizes forward-hemisphere stealth, extended range, and the ability to engage high-value targets like tankers and AWACS aircraft.\n\nStrategically, the J-20 serves as China's primary counter to the F-22 Raptor and F-35 Lightning II, though its role differs significantly from these platforms. Rather than emphasizing air superiority like the F-22, the J-20 appears optimized for long-range interception and strike missions, effectively extending China's anti-access/area-denial (A2/AD) bubble deeper into the Pacific. Its large internal weapons bay can accommodate long-range air-to-air missiles like the PL-15, giving it standoff engagement capability against coalition support aircraft.\n\nIn the current threat environment, the J-20 represents a paradigm shift for regional air power balance. Its stealth characteristics, while not necessarily matching U.S. fifth-generation fighters, provide sufficient signature reduction to complicate detection and targeting by existing radar systems. The aircraft's operational deployment since 2017 has accelerated, with recent variants featuring indigenous WS-10C engines replacing Russian AL-31 powerplants, reducing foreign dependency and potentially improving performance.\n\nCompared to its peers, the J-20 trades some maneuverability for range and payload capacity. While it may not match the F-22's kinematic performance or the F-35's sensor fusion, it offers the PLAAF a credible stealth platform capable of threatening high-value targets at extended ranges, fundamentally altering air campaign planning for any potential Pacific conflict.",
+  "specs_json": {
+    "displacement_tonnes": null,
+    "length_m": 20.3,
+    "beam_m": 12.9,
+    "draft_m": null,
+    "speed_knots": null,
+    "range_nm": 1500,
+    "crew": 1,
+    "propulsion": "2x WS-10C turbofan engines (indigenous) or 2x AL-31 turbofan engines (Russian)",
+    "radar": "Type 1475 AESA radar",
+    "sonar": null,
+    "combat_system": "Integrated avionics and sensor fusion system",
+    "vls_cells": null,
+    "additional": {
+      "max_speed_mach": 2.0,
+      "service_ceiling_m": 18000,
+      "empty_weight_kg": 17000,
+      "max_takeoff_weight_kg": 37000,
+      "thrust_per_engine_kn": 142,
+      "stealth_coating": "RAM (Radar Absorbing Material)",
+      "internal_fuel_kg": 11500
+    }
+  },
+  "armament_json": [
+    {
+      "category": "Air-to-Air Missiles",
+      "name": "PL-15",
+      "type": "Long-range AAM",
+      "quantity": "4-6 internal",
+      "range_km": 145,
+      "notes": "Primary beyond visual range missile with AESA seeker"
+    },
+    {
+      "category": "Air-to-Air Missiles",
+      "name": "PL-10",
+      "type": "Short-range AAM",
+      "quantity": "2 internal side bays",
+      "range_km": 20,
+      "notes": "Infrared-guided for close combat"
+    },
+    {
+      "category": "Air-to-Surface Missiles",
+      "name": "LS-6",
+      "type": "Precision-guided bomb",
+      "quantity": "2-4 internal",
+      "range_km": 60,
+      "notes": "GPS/INS guided glide bomb"
+    },
+    {
+      "category": "Air-to-Surface Missiles",
+      "name": "YJ-12",
+      "type": "Anti-ship missile",
+      "quantity": "1-2 internal",
+      "range_km": 400,
+      "notes": "Supersonic anti-ship capability (uncertain integration)"
+    }
+  ],
+  "variants_json": [
+    {
+      "name": "J-20A",
+      "designation_range": "Initial production variant",
+      "years": "2017-2019",
+      "count": 50,
+      "key_changes": "Initial operational variant with AL-31 engines, basic avionics suite",
+      "status": "active"
+    },
+    {
+      "name": "J-20B",
+      "designation_range": "Current production variant",
+      "years": "2019-present",
+      "count": 150,
+      "key_changes": "WS-10C indigenous engines, improved radar, enhanced stealth coatings, upgraded avionics",
+      "status": "active"
+    }
+  ],
+  "fleet_status_json": [
+    {
+      "hull_number": "Various",
+      "name": "PLAAF J-20 Fleet",
+      "variant": "Mixed A/B variants",
+      "commissioned": "2017-present",
+      "home_port": "Multiple PLAAF bases",
+      "status": "active"
+    }
+  ],
+  "cost_usd": 110000000.0,
+  "unit_count": 200,
+  "first_commissioned": "2017-03",
+  "builder": "Chengdu Aerospace Corporation (CAC)",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/73/J-20_at_CCAS2022_%2820220827103424%29.jpg",
+  "wiki_url": "https://en.wikipedia.org/wiki/Chengdu_J-20",
+  "sources_json": [
+    "https://en.wikipedia.org/wiki/Chengdu_J-20",
+    "https://www.janes.com/defence-news",
+    "https://www.flightglobal.com/",
+    "https://www.aviationweek.com/",
+    "https://thediplomat.com/"
+  ],
+  "comparison_tags": [
+    "stealth-fighter",
+    "fifth-generation",
+    "air-superiority",
+    "china-plaaf",
+    "pacific-theater",
+    "anti-access"
+  ],
+  "created_at": "2026-04-11 10:11:48",
+  "updated_at": "2026-04-11T10:11:48.316624",
+  "news": [],
+  "events": [],
+  "ic_coverage": [],
+  "combat_history": [
+    {
+      "date": "2022-05",
+      "operation": "Taiwan Strait Operations",
+      "event": "J-20 aircraft conducted multiple incursions into Taiwan's Air Defense Identification Zone, demonstrating operational capability and political signaling",
+      "significance": "First documented operational deployment in contested airspace, showing PLAAF confidence in platform maturity"
+    },
+    {
+      "date": "2021-04",
+      "operation": "South China Sea Patrols",
+      "event": "J-20s reportedly tracked U.S. B-1B bombers during freedom of navigation operations, maintaining standoff distances",
+      "significance": "Demonstrated long-range interception capability and integration with broader PLAAF air defense network"
+    }
+  ],
+  "modernization": [
+    {
+      "program": "WS-15 Engine Integration",
+      "status": "in-progress",
+      "timeline": "2024-2026",
+      "description": "Integration of advanced WS-15 turbofan engines to replace current WS-10C powerplants, providing increased thrust and supercruise capability",
+      "impact": "Would significantly enhance kinematic performance and reduce thermal signature"
+    },
+    {
+      "program": "Enhanced Sensor Suite",
+      "status": "in-progress",
+      "timeline": "2023-2025",
+      "description": "Upgraded IRST systems, improved electronic warfare suite, and enhanced data-link capabilities for network-centric warfare",
+      "impact": "Improves situational awareness and interoperability with other PLAAF assets"
+    },
+    {
+      "program": "J-20S Twin-Seat Variant",
+      "status": "planned",
+      "timeline": "2025-2027",
+      "description": "Development of two-seat variant for training, electronic warfare, and potentially unmanned aircraft control",
+      "impact": "Expands mission flexibility and pilot training capability"
+    }
+  ],
+  "vulnerabilities": [
+    {
+      "area": "Rear-Aspect Stealth",
+      "description": "Stealth characteristics appear optimized for frontal aspect, with less attention to rear-hemisphere signature reduction",
+      "context": "Vulnerable to detection by aircraft or ground radars positioned behind the aircraft during egress",
+      "mitigation": "Tactical employment emphasizes frontal engagement profiles and rapid egress"
+    },
+    {
+      "area": "Engine Technology Gap",
+      "description": "Current WS-10C engines lack supercruise capability and have higher thermal signatures compared to Western counterparts",
+      "context": "Limits sustained supersonic operations and increases IR detection range",
+      "mitigation": "WS-15 engine development program underway but timeline uncertain"
+    },
+    {
+      "area": "Combat Experience Deficit",
+      "description": "No combat experience and limited operational testing against advanced adversary systems",
+      "context": "Real-world effectiveness against modern ECM and advanced fighters remains unproven",
+      "mitigation": "Increased training exercises and gradual operational deployment expansion"
+    },
+    {
+      "area": "Maintenance and Logistics",
+      "description": "Complex stealth coatings and advanced systems require specialized maintenance infrastructure",
+      "context": "May limit forward deployment options and sortie generation rates",
+      "mitigation": "PLAAF investing in specialized maintenance facilities and training programs"
+    }
+  ],
+  "operational_patterns": {
+    "typical_deployment": "Air defense and long-range interception missions, primarily from mainland China bases",
+    "deployment_length_months": 0,
+    "key_operating_areas": [
+      "East China Sea",
+      "South China Sea",
+      "Taiwan Strait",
+      "Western Pacific"
+    ],
+    "typical_task_group": "Operates with J-16 fighters, KJ-500 AWACS, and tanker support",
+    "readiness_notes": "Limited by stealth coating maintenance requirements and specialized support infrastructure"
+  },
+  "peer_comparisons": [
+    {
+      "platform": "Lockheed Martin F-22 Raptor",
+      "country": "United States",
+      "relationship": "direct rival",
+      "key_differences": "F-22 emphasizes air superiority with superior maneuverability and supercruise, while J-20 prioritizes long-range interception and strike. J-20 has larger weapons bay but less mature stealth technology.",
+      "video_angle": "David vs Goliath: How China's J-20 plans to counter the world's most advanced air superiority fighter"
+    },
+    {
+      "platform": "Lockheed Martin F-35 Lightning II",
+      "country": "United States",
+      "relationship": "direct rival",
+      "key_differences": "F-35 offers superior sensor fusion and multirole flexibility, while J-20 provides greater range and payload. Different design philosophies: F-35 as networked multirole platform vs J-20 as long-range interceptor.",
+      "video_angle": "Quantity vs Quality: J-20's numbers game against F-35's technological edge"
+    },
+    {
+      "platform": "Sukhoi Su-57 Felon",
+      "country": "Russia",
+      "relationship": "allied equivalent",
+      "key_differences": "Su-57 emphasizes maneuverability with 3D thrust vectoring while J-20 focuses on stealth and range. Both face production and technological challenges but represent different approaches to fifth-generation requirements.",
+      "video_angle": "Eastern Stealth Showdown: Comparing Russia and China's fifth-generation fighters"
+    },
+    {
+      "platform": "Mitsubishi F-3",
+      "country": "Japan",
+      "relationship": "future rival",
+      "key_differences": "F-3 still in development but planned to emphasize advanced sensors and networking to counter J-20's range advantage. Represents Japan's response to growing Chinese air power in the region.",
+      "video_angle": "Japan's Next Fighter: How the F-3 aims to counter China's J-20 threat"
+    }
+  ],
+  "search_keywords": [
+    "j-20",
+    "j20",
+    "mighty dragon",
+    "chengdu j-20",
+    "chinese stealth fighter",
+    "plaaf j-20",
+    "j-20 fighter",
+    "china fifth generation",
+    "ws-15 engine",
+    "pl-15 missile"
+  ],
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/US_Navy_030108-N-2338M-001_Sailors_aboard_the_U.S._Navy_hospital_ship_USNS_Comfort_%28T-AH_20%29_spot_a_life_raft_at_sea_near_Bermuda.jpg/1280px-US_Navy_030108-N-2338M-001_Sailors_aboard_the_U.S._Navy_hospital_ship_USNS_Comfort_%28T-AH_20%29_spot_a_life_raft_at_sea_near_Bermuda.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/US_Navy_030108-N-2338M-001_Sailors_aboard_the_U.S._Navy_hospital_ship_USNS_Comfort_%28T-AH_20%29_spot_a_life_raft_at_sea_near_Bermuda.jpg",
+      "width": 2272,
+      "height": 1704,
+      "title": "US Navy 030108-N-2338M-001 Sailors aboard the U.S. Navy hospital ship USNS Comfort (T-AH 20) spot a life raft at sea near Bermuda.jpg",
+      "description": "The Atlantic Ocean (Jan. 8, 2003) -- Sailors aboard the U.S. Navy hospital ship USNS Comfort (T-AH 20) spot a life raft at sea near Bermuda after being called for assistance by the U.S. Coast Guard.  ",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/US_Navy_090120-A-3085H-314_Army_Maj._Gen._Richard_Rowe_Jr._leads_Rear_Adm._Earl_L._Gay%2C_Marine_Corps_Maj._Gen._Willie_J._Williams%2C_Air_Force_Maj_Gen._Ralph_J._Jodice_II%2C_and_Coast_Guard_Rear_Adm._J._Scott_Burhoe_in_the_56th_Pre.jpg/1280px-thumbnail.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/eb/US_Navy_090120-A-3085H-314_Army_Maj._Gen._Richard_Rowe_Jr._leads_Rear_Adm._Earl_L._Gay%2C_Marine_Corps_Maj._Gen._Willie_J._Williams%2C_Air_Force_Maj_Gen._Ralph_J._Jodice_II%2C_and_Coast_Guard_Rear_Adm._J._Scott_Burhoe_in_the_56th_Pre.jpg",
+      "width": 4288,
+      "height": 2848,
+      "title": "US Navy 090120-A-3085H-314 Army Maj. Gen. Richard Rowe Jr. leads Rear Adm. Earl L. Gay, Marine Corps Maj. Gen. Willie J. Williams, Air Force Maj Gen. Ralph J. Jodice II, and Coast Guard Rear Adm. J. Scott Burhoe in the 56th Pre.jpg",
+      "description": "WASHINGTON (Jan. 20, 2009) Army Maj. Gen. Richard Rowe Jr., chairman of the Armed Forces Inaugural Committee, leads Rear Adm. Earl L. Gay, left, Marine Corps Maj. Gen. Willie J. Williams, Air Force Ma",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/US_Navy_090120-F-2408G-096_Army_Maj._Gen._Richard_Rowe_Jr._leads_Rear_Adm._Earl_L._Gay%2C_Marine_Corps_Maj._Gen._Willie_J._Williams%2C_Air_Force_Maj_Gen._Ralph_J._Jodice_II%2C_and_Coast_Guard_Rear_Adm._J._Scott_Burhoe_in_the_2009_Pre.jpg/1280px-thumbnail.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/38/US_Navy_090120-F-2408G-096_Army_Maj._Gen._Richard_Rowe_Jr._leads_Rear_Adm._Earl_L._Gay%2C_Marine_Corps_Maj._Gen._Willie_J._Williams%2C_Air_Force_Maj_Gen._Ralph_J._Jodice_II%2C_and_Coast_Guard_Rear_Adm._J._Scott_Burhoe_in_the_2009_Pre.jpg",
+      "width": 4256,
+      "height": 2832,
+      "title": "US Navy 090120-F-2408G-096 Army Maj. Gen. Richard Rowe Jr. leads Rear Adm. Earl L. Gay, Marine Corps Maj. Gen. Willie J. Williams, Air Force Maj Gen. Ralph J. Jodice II, and Coast Guard Rear Adm. J. Scott Burhoe in the 2009 Pre.jpg",
+      "description": "WASHINGTON (Jan. 20, 2009) Army Maj. Gen. Richard Rowe Jr., chairman of the Armed Forces Inaugural Committee, leads Rear Adm. Earl L. Gay, left, Marine Corps Maj. Gen. Willie J. Williams, Air Force Ma",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/US_Navy_100721-N-2389S-009_listens_to_a_question_during_a_Defense_Alliance_breakfast.ice_Adm._John_J._Donnelly.jpg/1280px-US_Navy_100721-N-2389S-009_listens_to_a_question_during_a_Defense_Alliance_breakfast.ice_Adm._John_J._Donnelly.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/fe/US_Navy_100721-N-2389S-009_listens_to_a_question_during_a_Defense_Alliance_breakfast.ice_Adm._John_J._Donnelly.jpg",
+      "width": 1602,
+      "height": 2004,
+      "title": "US Navy 100721-N-2389S-009 listens to a question during a Defense Alliance breakfast.ice Adm. John J. Donnelly.jpg",
+      "description": "MINNEAPOLIS, Minn. (July 21, 2010) Vice Adm. John J. Donnelly, commander, Submarine Forces, listens to a question during a Defense Alliance breakfast. Donnelly spoke at the breakfast as part of Twin C",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/US_Navy_100721-N-2389S-026_Vice_Adm._John_J._Donnelly.jpg/1280px-US_Navy_100721-N-2389S-026_Vice_Adm._John_J._Donnelly.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/f9/US_Navy_100721-N-2389S-026_Vice_Adm._John_J._Donnelly.jpg",
+      "width": 3872,
+      "height": 2592,
+      "title": "US Navy 100721-N-2389S-026 Vice Adm. John J. Donnelly.jpg",
+      "description": "MINNEAPOLIS (July 21, 2010) Vice Adm. John J. Donnelly, center, commander of Submarine Forces, poses with Minneapolis sheriff officers and Navy divers who responded to the I-35W Minneapolis bridge col",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/US_Navy_100721-N-9688S-364_Vice_Adm._Jay_Donnelly_re-enlists_Engineman_2nd_Class_Brian_Birdsall_during_Twin_Cities_Navy_Week._Twin_Cities_Navy_Week_is_one_of_20_Navy_Weeks_planned_across_America_for_2010.jpg/1280px-thumbnail.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/US_Navy_100721-N-9688S-364_Vice_Adm._Jay_Donnelly_re-enlists_Engineman_2nd_Class_Brian_Birdsall_during_Twin_Cities_Navy_Week._Twin_Cities_Navy_Week_is_one_of_20_Navy_Weeks_planned_across_America_for_2010.jpg",
+      "width": 2240,
+      "height": 1488,
+      "title": "US Navy 100721-N-9688S-364 Vice Adm. Jay Donnelly re-enlists Engineman 2nd Class Brian Birdsall during Twin Cities Navy Week. Twin Cities Navy Week is one of 20 Navy Weeks planned across America for 2010.jpg",
+      "description": "MINNEAPOLIS, Minn. (July 21, 2010) Vice Adm. Jay Donnelly, commander of U.S. Submarine Force, re-enlists Engineman 2nd Class Brian Birdsall, assigned to Navy Recruiting District Minneapolis, during th",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/US_Navy_100804-N-5483N-026_Capt._Karl_Thomas%2C_commanding_officer_of_the_amphibious_command_ship_USS_Mount_Whitney_%28LCC-JCC_20%29_greets_U.S._ambassador_to_Portugal_Allan_J._Katz.jpg/1280px-thumbnail.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/6b/US_Navy_100804-N-5483N-026_Capt._Karl_Thomas%2C_commanding_officer_of_the_amphibious_command_ship_USS_Mount_Whitney_%28LCC-JCC_20%29_greets_U.S._ambassador_to_Portugal_Allan_J._Katz.jpg",
+      "width": 2100,
+      "height": 1500,
+      "title": "US Navy 100804-N-5483N-026 Capt. Karl Thomas, commanding officer of the amphibious command ship USS Mount Whitney (LCC-JCC 20) greets U.S. ambassador to Portugal Allan J. Katz.jpg",
+      "description": "LISBON, Portugal (Aug. 4, 2010) Capt. Karl Thomas, commanding officer of\nthe amphibious command ship USS Mount Whitney (LCC/JCC 20) greets U.S. ambassador to Portugal Allan J. Katz before a reception ",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/US_Navy_110324-N-LD296-006_Adm._Samuel_J._Locklear%2C_III%2C_left%2C_greets_Gen._Carter_F._Ham.jpg/1280px-US_Navy_110324-N-LD296-006_Adm._Samuel_J._Locklear%2C_III%2C_left%2C_greets_Gen._Carter_F._Ham.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/c4/US_Navy_110324-N-LD296-006_Adm._Samuel_J._Locklear%2C_III%2C_left%2C_greets_Gen._Carter_F._Ham.jpg",
+      "width": 2190,
+      "height": 1500,
+      "title": "US Navy 110324-N-LD296-006 Adm. Samuel J. Locklear, III, left, greets Gen. Carter F. Ham.jpg",
+      "description": "AUGUSTA BAY, Italy (March 24, 2011) Adm. Samuel J. Locklear, III, left, commander of Joint Task Force Odyssey Dawn, greets Gen. Carter F. Ham, commander of U.S. Africa Command, on the pier in Augusta ",
+      "license": "Public domain",
+      "source": "wikimedia"
+    }
+  ],
+  "doctrine": null,
+  "curated_sources": []
+}

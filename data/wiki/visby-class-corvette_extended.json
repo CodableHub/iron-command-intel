@@ -1,0 +1,195 @@
+{
+  "combat_history": [
+    {
+      "date": "2014-10",
+      "operation": "Swedish submarine hunt",
+      "event": "HMS Visby and HMS Helsingborg participated in the massive search for suspected Russian submarine intrusion in Stockholm archipelago. Used advanced sonar systems and stealth capabilities for covert tracking operations.",
+      "significance": "First major operational deployment demonstrated the class's ability to operate effectively in complex littoral environment against suspected foreign submarine intrusion"
+    },
+    {
+      "date": "2022-04",
+      "operation": "Enhanced Baltic patrols",
+      "event": "Entire Visby class deployed in response to Russian invasion of Ukraine, conducting intensified surveillance and patrol operations in Swedish territorial waters and EEZ.",
+      "significance": "Largest coordinated deployment of the class, proving operational readiness and endurance in high-tension environment"
+    }
+  ],
+  "modernization": [
+    {
+      "program": "Combat Management System upgrade",
+      "status": "completed",
+      "timeline": "2018-2020",
+      "description": "Upgrade to Saab 9LV Mk4 combat management system with enhanced multi-target engagement and sensor fusion capabilities.",
+      "impact": "Significantly improved situational awareness and ability to engage multiple simultaneous threats"
+    },
+    {
+      "program": "RBS15 Mk4 integration",
+      "status": "planned",
+      "timeline": "2025-2028",
+      "description": "Integration of next-generation RBS15 Mk4 anti-ship missile with extended range and improved guidance systems.",
+      "impact": "Will extend anti-ship engagement range and improve effectiveness against modern naval targets"
+    }
+  ],
+  "vulnerabilities": [
+    {
+      "area": "Air defense",
+      "description": "No dedicated surface-to-air missile system, relying only on 57mm gun and small arms for air defense",
+      "context": "Vulnerable to air attack, particularly helicopter-launched anti-ship missiles and UAV swarms increasingly common in modern warfare",
+      "mitigation": "Studies ongoing for lightweight SAM integration, reliance on Swedish air force for air cover"
+    },
+    {
+      "area": "Limited endurance",
+      "description": "Small size limits fuel capacity, provisions, and crew endurance for extended operations",
+      "context": "Cannot sustain long-duration patrols without support, limiting operational flexibility in crisis",
+      "mitigation": "Designed for short-duration missions with rapid port turnaround, supported by extensive Swedish coastal infrastructure"
+    },
+    {
+      "area": "Electronic warfare susceptibility",
+      "description": "Heavy reliance on electronic systems and sensors creates vulnerability to sophisticated EW attacks",
+      "context": "Russian EW capabilities in Baltic region pose significant threat to sensor-dependent stealth corvette",
+      "mitigation": "Ongoing upgrades to EW defensive systems, training emphasis on EMCON procedures"
+    }
+  ],
+  "operational_patterns": {
+    "typical_deployment": "Coastal patrol and sea denial missions in Swedish archipelago waters",
+    "deployment_length_months": 1,
+    "key_operating_areas": [
+      "Baltic Sea",
+      "Stockholm archipelago",
+      "G\u00f6teborg archipelago",
+      "Swedish territorial waters"
+    ],
+    "typical_task_group": "Usually operates independently or in pairs, coordinated with coastal artillery and air force",
+    "readiness_notes": "High readiness maintained due to Baltic tensions; rotation allows continuous presence despite small fleet size"
+  },
+  "peer_comparisons": [
+    {
+      "platform": "Skjold-class patrol boat",
+      "country": "Norway",
+      "relationship": "allied equivalent",
+      "key_differences": "Skjold is smaller and faster but less capable, designed more for patrol than warfighting. Visby has superior sensors and stealth but lower speed.",
+      "video_angle": "Nordic stealth boat showdown - different approaches to Scandinavian coastal defense"
+    },
+    {
+      "platform": "Independence-class LCS",
+      "country": "United States",
+      "relationship": "conceptual equivalent",
+      "key_differences": "LCS is much larger and more expensive but shares modular mission concept. Visby achieves better stealth and lower cost but far less range and payload.",
+      "video_angle": "Small nation innovation vs superpower resources - two approaches to littoral combat"
+    },
+    {
+      "platform": "Buyan-M-class corvette",
+      "country": "Russia",
+      "relationship": "potential adversary",
+      "key_differences": "Buyan-M carries Kalibr cruise missiles giving it strategic strike capability, but lacks stealth features. Both designed for coastal operations but very different philosophies.",
+      "video_angle": "Baltic rivals - Swedish stealth vs Russian firepower in littoral warfare"
+    },
+    {
+      "platform": "Sa'ar 6-class corvette",
+      "country": "Israel",
+      "relationship": "comparable export design",
+      "key_differences": "Sa'ar 6 prioritizes air defense and has more traditional design. Visby trades air defense capability for stealth and speed in different threat environment.",
+      "video_angle": "Small navy solutions - how Israel and Sweden solve different coastal defense challenges"
+    },
+    {
+      "platform": "Type 056 Jiangdao-class corvette",
+      "country": "China",
+      "relationship": "size/role equivalent",
+      "key_differences": "Type 056 is conventionally designed with focus on numbers and standardization. Visby represents opposite philosophy of few highly sophisticated platforms.",
+      "video_angle": "Quality vs quantity - Swedish stealth corvette vs Chinese mass production approach"
+    }
+  ],
+  "search_keywords": [
+    "visby class",
+    "visby corvette",
+    "HMS Visby",
+    "K31",
+    "swedish navy",
+    "stealth corvette",
+    "baltic sea",
+    "saab kockums",
+    "RBS15",
+    "gotland class"
+  ],
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/170606-N-N0901-010_%2835010841441%29.jpg/1280px-170606-N-N0901-010_%2835010841441%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/75/170606-N-N0901-010_%2835010841441%29.jpg",
+      "width": 4811,
+      "height": 3207,
+      "title": "170606-N-N0901-010 (35010841441).jpg",
+      "description": "BALTOPS is an annual U.S.-led, Naval Striking and Support Forces NATO- executed, multinational maritime exercise in the Baltic Sea region designed to enhance flexibility and interoperability among its",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/170606-N-N0901-015_%2834296913704%29.jpg/1280px-170606-N-N0901-015_%2834296913704%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/75/170606-N-N0901-015_%2834296913704%29.jpg",
+      "width": 5827,
+      "height": 3885,
+      "title": "170606-N-N0901-015 (34296913704).jpg",
+      "description": "BALTOPS is an annual U.S.-led, Naval Striking and Support Forces NATO- executed, multinational maritime exercise in the Baltic Sea region designed to enhance flexibility and interoperability among its",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/HMS_Helsingborg_2.jpg/1280px-HMS_Helsingborg_2.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/f2/HMS_Helsingborg_2.jpg",
+      "width": 2048,
+      "height": 1536,
+      "title": "HMS Helsingborg 2.jpg",
+      "description": "The Swedish navy's stealth corvette <a href=\"https://en.wikipedia.org/wiki/HSwMS_Helsingborg_(K32)\" class=\"extiw\" title=\"w:HSwMS Helsingborg (K32)\">HMS <i>Helsingborg</i> (K32)</a> at a visit in <a hr",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/K31_HSwMS_Visby_%288643086211%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/K31_HSwMS_Visby_%288643086211%29.jpg",
+      "width": 1024,
+      "height": 683,
+      "title": "K31 HSwMS Visby (8643086211).jpg",
+      "description": "K31 HSwMS Visby, a Visby-class Corvette of the Swedish Navy",
+      "license": "CC BY 2.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/1e/K31_HSwMS_Visby_%288643087399%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/1e/K31_HSwMS_Visby_%288643087399%29.jpg",
+      "width": 1024,
+      "height": 683,
+      "title": "K31 HSwMS Visby (8643087399).jpg",
+      "description": "<a href=\"https://en.wikipedia.org/wiki/en:HSwMS_Visby_(K31)\" class=\"extiw\" title=\"w:en:HSwMS Visby (K31)\">HSwMS <i>Visby</i> (K31)</a>, one of five Visby-class stealth corvettes of the Swedish Navy",
+      "license": "CC BY 2.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/K32_HMS_Helsingborg_Anchored-of-Gotska-Sandoen_cropped.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/K32_HMS_Helsingborg_Anchored-of-Gotska-Sandoen_cropped.jpg",
+      "width": 798,
+      "height": 504,
+      "title": "K32 HMS Helsingborg Anchored-of-Gotska-Sandoen cropped.jpg",
+      "description": "Swedish Visby-class corvette HSwMS <i>Helsingborg</i> (K32) photographed while anchored in the vicinity of <a href=\"//commons.wikimedia.org/wiki/Gotska_Sand%C3%B6n\" title=\"Gotska Sand\u00f6n\">Gotska Sand\u00f6n",
+      "license": "CC BY-SA 3.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/NATO_ships_take_part_in_BALTOPS_20_MOD_45167293.jpg/1280px-NATO_ships_take_part_in_BALTOPS_20_MOD_45167293.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/f8/NATO_ships_take_part_in_BALTOPS_20_MOD_45167293.jpg",
+      "width": 3600,
+      "height": 2400,
+      "title": "NATO ships take part in BALTOPS 20 MOD 45167293.jpg",
+      "description": "Pictured are Swedish Corvette HSwMS Karlstad and Royal Navy Merlin helicopter taking part in a surface exercise with partnering NATO warships whilst participating in BALTOPS 20.\n<p>On Friday 12th June",
+      "license": "OGL v1.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Visby_class_corvette.png/1280px-Visby_class_corvette.png",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/22/Visby_class_corvette.png",
+      "width": 1921,
+      "height": 933,
+      "title": "Visby class corvette.png",
+      "description": "Drawing of the corvettes in the Visby class of the Swedish navy.",
+      "license": "CC BY-SA 3.0",
+      "source": "wikimedia"
+    }
+  ]
+}

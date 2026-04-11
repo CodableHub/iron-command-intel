@@ -1,0 +1,331 @@
+{
+  "id": 106,
+  "slug": "btr-82a-apc",
+  "name": "BTR-82A Armored Personnel Carrier",
+  "designation": "BTR-82A",
+  "type": "apc",
+  "country": "Russia",
+  "operator": "Russian Ground Forces",
+  "overview_md": "The BTR-82A represents Russia's effort to modernize its vast fleet of Soviet-era wheeled APCs with 21st-century technology. Built on the proven BTR-80 chassis, the BTR-82A incorporates a new 30mm autocannon turret, modern fire control systems, and enhanced armor protection. This 8x8 wheeled platform serves as the backbone of Russian mechanized infantry units, providing mobility, protection, and fire support across diverse terrain.\n\nThe BTR-82A's strategic role centers on rapid deployment and sustained operations in both conventional and hybrid warfare scenarios. Its wheeled configuration offers superior strategic mobility compared to tracked alternatives, enabling rapid repositioning across Russia's vast geography and deployment to distant theaters. The platform's amphibious capability and NBC protection make it particularly suited for multi-domain operations.\n\nDesign philosophy emphasizes reliability, maintainability, and cost-effectiveness over maximum protection. The BTR-82A accepts higher vulnerability to maintain strategic mobility and lower logistical burden. This trade-off reflects Russian military doctrine emphasizing rapid, deep operations rather than static defensive positions.\n\nIn the current threat environment, the BTR-82A's weaknesses have been starkly exposed in Ukraine, where modern ATGMs and drones have proven devastatingly effective against its relatively light armor. However, its continued production and deployment indicate Russian confidence in the platform's utility for power projection and internal security operations. Against peer adversaries, the BTR-82A would struggle in high-intensity combat but remains effective for rapid deployment and stabilization operations in permissive environments.",
+  "specs_json": {
+    "displacement_tonnes": 16.5,
+    "length_m": 7.65,
+    "beam_m": 2.9,
+    "draft_m": null,
+    "speed_knots": null,
+    "range_nm": null,
+    "crew": 3,
+    "propulsion": "KAMAZ-7403 diesel engine, 300 hp",
+    "radar": "None standard",
+    "sonar": null,
+    "combat_system": "Digital fire control system with thermal imaging",
+    "vls_cells": null,
+    "additional": {
+      "max_speed_road_kmh": 100,
+      "max_speed_water_kmh": 9,
+      "range_road_km": 600,
+      "armor_protection": "Steel armor up to 14mm",
+      "troop_capacity": 7,
+      "amphibious": true,
+      "nbc_protection": true,
+      "ground_pressure_kpa": 220
+    }
+  },
+  "armament_json": [
+    {
+      "category": "Main Gun",
+      "name": "2A72 autocannon",
+      "type": "automatic cannon",
+      "quantity": "1x 30mm",
+      "range_km": 4,
+      "notes": "Dual-feed system, AP and HE rounds"
+    },
+    {
+      "category": "Secondary",
+      "name": "PKT machine gun",
+      "type": "coaxial machine gun",
+      "quantity": "1x 7.62mm",
+      "range_km": 1.5,
+      "notes": "Coaxially mounted with main gun"
+    },
+    {
+      "category": "Infantry",
+      "name": "Bow machine gun",
+      "type": "machine gun",
+      "quantity": "1x 7.62mm",
+      "range_km": 1.5,
+      "notes": "Front-mounted for driver operation"
+    }
+  ],
+  "variants_json": [
+    {
+      "name": "BTR-82",
+      "designation_range": "BTR-82",
+      "years": "2010-2013",
+      "count": 200,
+      "key_changes": "Base modernization with 14.5mm KPVT machine gun, improved engine and transmission",
+      "status": "active"
+    },
+    {
+      "name": "BTR-82A",
+      "designation_range": "BTR-82A",
+      "years": "2013-present",
+      "count": 800,
+      "key_changes": "30mm 2A72 autocannon in BPU-1 turret, digital fire control, thermal imaging",
+      "status": "active"
+    },
+    {
+      "name": "BTR-82AM",
+      "designation_range": "BTR-82AM",
+      "years": "2018-present",
+      "count": 150,
+      "key_changes": "Enhanced armor package, improved suspension, additional communication systems",
+      "status": "building"
+    }
+  ],
+  "fleet_status_json": [
+    {
+      "hull_number": "N/A",
+      "name": "Russian Ground Forces BTR-82A fleet",
+      "variant": "BTR-82A",
+      "commissioned": "2013-present",
+      "home_port": "Various Russian military districts",
+      "status": "active"
+    }
+  ],
+  "cost_usd": 900000.0,
+  "unit_count": 800,
+  "first_commissioned": "2013",
+  "builder": "Arzamas Machinery Plant",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3f/2011_Moscow_Victory_Day_Parade_%28360-06%29_%28cropped%29.jpg",
+  "wiki_url": "https://en.wikipedia.org/wiki/BTR-80",
+  "sources_json": [
+    "https://en.wikipedia.org/wiki/BTR-82A",
+    "https://www.military-today.com/apc/btr_82a.htm",
+    "https://www.janes.com/defence-news",
+    "https://www.oryx.com - Equipment losses Ukraine"
+  ],
+  "comparison_tags": [
+    "apc",
+    "wheeled",
+    "amphibious",
+    "russian",
+    "30mm-gun",
+    "mechanized-infantry"
+  ],
+  "created_at": "2026-04-11 10:22:07",
+  "updated_at": "2026-04-11T10:22:07.205178",
+  "news": [],
+  "events": [],
+  "ic_coverage": [],
+  "combat_history": [
+    {
+      "date": "2014",
+      "operation": "Annexation of Crimea",
+      "event": "BTR-82A units deployed during Russian occupation of Crimean Peninsula, providing mobility for airborne and special forces units",
+      "significance": "First operational deployment demonstrated strategic mobility capabilities"
+    },
+    {
+      "date": "2015-present",
+      "operation": "Syrian Civil War intervention",
+      "event": "BTR-82A units deployed with Russian military police and advisors, primarily for convoy escort and base security duties",
+      "significance": "Limited combat exposure in counterinsurgency environment"
+    },
+    {
+      "date": "2022-present",
+      "operation": "Russian invasion of Ukraine",
+      "event": "Extensive BTR-82A losses documented, particularly to ATGM attacks and drone strikes. Many abandoned due to mechanical failures",
+      "significance": "Revealed significant vulnerabilities against modern anti-tank weapons and highlighted maintenance issues"
+    }
+  ],
+  "modernization": [
+    {
+      "program": "BTR-82AM upgrade",
+      "status": "in-progress",
+      "timeline": "2018-2025",
+      "description": "Enhanced armor protection, improved suspension system, modernized communication equipment, and battlefield management systems",
+      "impact": "Addresses some survivability concerns while maintaining mobility advantages"
+    },
+    {
+      "program": "Bumerang replacement program",
+      "status": "planned",
+      "timeline": "2025-2035",
+      "description": "Gradual replacement of BTR-82A with newer Bumerang wheeled APC featuring modular armor and advanced systems",
+      "impact": "Long-term replacement rather than upgrade of existing platforms"
+    }
+  ],
+  "vulnerabilities": [
+    {
+      "area": "Armor protection",
+      "description": "14mm steel armor insufficient against modern ATGMs, RPGs, and even heavy machine guns at close range",
+      "context": "Ukraine conflict demonstrated catastrophic vulnerability to Javelin, NLAW, and other modern anti-tank systems",
+      "mitigation": "BTR-82AM variant adds modular armor, but weight penalties affect mobility"
+    },
+    {
+      "area": "Mechanical reliability",
+      "description": "High breakdown rates observed in sustained operations, particularly transmission and engine failures",
+      "context": "Poor maintenance culture and parts shortages exacerbated by sanctions affect operational readiness",
+      "mitigation": "Ongoing efforts to improve maintenance standards and domestic parts production"
+    },
+    {
+      "area": "Fire suppression",
+      "description": "Lacks automatic fire suppression system, leading to total loss when penetrated by anti-tank weapons",
+      "context": "Catastrophic ammunition fires common when 30mm rounds are ignited by penetrating hits",
+      "mitigation": "Some units retrofitted with manual fire suppression systems"
+    }
+  ],
+  "operational_patterns": {
+    "typical_deployment": "Battalion-level deployment with mechanized infantry units, internal security operations",
+    "deployment_length_months": 6,
+    "key_operating_areas": [
+      "Eastern Ukraine",
+      "Syria",
+      "Russian military districts",
+      "Belarus joint exercises"
+    ],
+    "typical_task_group": "Operates with T-72/T-80 tank units and BMP infantry fighting vehicles in combined arms formations",
+    "readiness_notes": "Readiness affected by maintenance issues and parts shortages due to sanctions"
+  },
+  "peer_comparisons": [
+    {
+      "platform": "M1126 Stryker ICV",
+      "country": "United States",
+      "relationship": "direct rival",
+      "key_differences": "Stryker has superior armor protection, C4ISR systems, and reliability but similar mobility. BTR-82A has amphibious capability and lower cost.",
+      "video_angle": "East vs West wheeled APC philosophy - protection versus mobility trade-offs"
+    },
+    {
+      "platform": "LAV-25",
+      "country": "United States/Canada",
+      "relationship": "allied equivalent",
+      "key_differences": "LAV-25 emphasizes reconnaissance over transport, has 25mm gun versus 30mm, but better armor and electronics packages.",
+      "video_angle": "Marine Corps expeditionary warfare versus Russian rapid deployment concepts"
+    },
+    {
+      "platform": "Type 08 ZBL-08",
+      "country": "China",
+      "relationship": "allied equivalent",
+      "key_differences": "Similar 30mm armament and 8x8 configuration, but Chinese version has modular armor options and more advanced fire control systems.",
+      "video_angle": "Sino-Russian military technology comparison in wheeled AFVs"
+    },
+    {
+      "platform": "Boxer CRV",
+      "country": "Germany/Netherlands",
+      "relationship": "NATO rival",
+      "key_differences": "Boxer is significantly heavier with modular mission packages and superior protection, but lacks amphibious capability and costs 4x more.",
+      "video_angle": "High-end NATO versus mass-production Russian approach to wheeled combat vehicles"
+    },
+    {
+      "platform": "Patria AMV",
+      "country": "Finland",
+      "relationship": "export competitor",
+      "key_differences": "Similar weight class but modular armor approach, better mine protection, and Western-standard electronics. Less amphibious capability than BTR-82A.",
+      "video_angle": "Nordic design philosophy versus Russian mass production in APC development"
+    }
+  ],
+  "search_keywords": [
+    "BTR-82A",
+    "BTR 82A",
+    "Russian APC",
+    "Russian armored personnel carrier",
+    "2A72 autocannon",
+    "wheeled APC",
+    "amphibious APC",
+    "Ukraine war BTR",
+    "Russian Ground Forces"
+  ],
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d7/NavalParade2018-02.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/d7/NavalParade2018-02.jpg",
+      "width": 1200,
+      "height": 800,
+      "title": "NavalParade2018-02.jpg",
+      "description": "BTR-82A.",
+      "license": "CC BY 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Captured_BTR-82A_Ukrainian_AF_2022.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Captured_BTR-82A_Ukrainian_AF_2022.jpg",
+      "width": 1024,
+      "height": 730,
+      "title": "Captured BTR-82A Ukrainian AF 2022.jpg",
+      "description": "\u0422\u0440\u043e\u0444\u0435\u0439\u043d\u044b\u0439 \u0431\u0440\u043e\u043d\u0435\u0442\u0440\u0430\u043d\u0441\u043f\u043e\u0440\u0442\u0451\u0440 \u0411\u0422\u0420-82\u0410 \u0412\u043e\u043e\u0440\u0443\u0436\u0451\u043d\u043d\u044b\u0445 \u0441\u0438\u043b \u0423\u043a\u0440\u0430\u0438\u043d\u044b, \u0441\u0435\u043d\u0442\u044f\u0431\u0440\u044c 2022 \u0433.",
+      "license": "CC BY 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Interpolitex2016part2-50.jpg/1280px-Interpolitex2016part2-50.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/72/Interpolitex2016part2-50.jpg",
+      "width": 2250,
+      "height": 1500,
+      "title": "Interpolitex2016part2-50.jpg",
+      "description": "\u0411\u0440\u043e\u043d\u0435\u0442\u0440\u0430\u043d\u0441\u043f\u043e\u0440\u0442\u0435\u0440 \u0411\u0422\u0420-82\u0410 (BTR-82A armored personnel carrier)",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Sulyhivka_after_fighting_%282023-01-06%29_17.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Sulyhivka_after_fighting_%282023-01-06%29_17.jpg",
+      "width": 1024,
+      "height": 683,
+      "title": "Sulyhivka after fighting (2023-01-06) 17.jpg",
+      "description": "Sulyhivka village in Kharkiv region of Ukraine after fighting during the 2022 Russian invasion.",
+      "license": "CC BY 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c9/UA_NGU_captured_BTR-82_01.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/c9/UA_NGU_captured_BTR-82_01.jpg",
+      "width": 959,
+      "height": 1200,
+      "title": "UA NGU captured BTR-82 01.jpg",
+      "description": "4th Rapid Reaction Brigade of National Guard of Ukraine showing a captured Russian BTR-82",
+      "license": "CC BY 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/0c/UA_NGU_captured_BTR-82_01_edited.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/0c/UA_NGU_captured_BTR-82_01_edited.jpg",
+      "width": 959,
+      "height": 1200,
+      "title": "UA NGU captured BTR-82 01 edited.jpg",
+      "description": "4th Rapid Reaction Brigade of National Guard of Ukraine showing a captured Russian BTR-82",
+      "license": "CC BY 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/UA_training_Pivnichnyi_Burevii_2022_01.jpg/1280px-UA_training_Pivnichnyi_Burevii_2022_01.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/UA_training_Pivnichnyi_Burevii_2022_01.jpg",
+      "width": 1440,
+      "height": 960,
+      "title": "UA training Pivnichnyi Burevii 2022 01.jpg",
+      "description": "Armed Forces, National Guard and Border Guard of Ukraine during the \"Pivnichnyi Burevii\" military training near the Belarus border in autumn 2022\nCaptured Russian BTR-82 in Ukrainian digital camouflag",
+      "license": "CC BY 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/UA_training_Pivnichnyi_Burevii_2022_04.jpg/1280px-UA_training_Pivnichnyi_Burevii_2022_04.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/53/UA_training_Pivnichnyi_Burevii_2022_04.jpg",
+      "width": 1440,
+      "height": 960,
+      "title": "UA training Pivnichnyi Burevii 2022 04.jpg",
+      "description": "Armed Forces, National Guard and Border Guard of Ukraine during the \"Pivnichnyi Burevii\" military training near the Belarus border in autumn 2022\nCaptured Russian BTR-82 in Ukrainian digital camouflag",
+      "license": "CC BY 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c0/%D0%A0%D0%94%D0%9A_%D1%82%D1%80%D0%BE%D1%84%D0%B5%D0%B9%D0%BD%D0%B0_%D1%82%D0%B5%D1%85%D0%BD%D1%96%D0%BA%D0%B0.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/c0/%D0%A0%D0%94%D0%9A_%D1%82%D1%80%D0%BE%D1%84%D0%B5%D0%B9%D0%BD%D0%B0_%D1%82%D0%B5%D1%85%D0%BD%D1%96%D0%BA%D0%B0.jpg",
+      "width": 1200,
+      "height": 800,
+      "title": "\u0420\u0414\u041a \u0442\u0440\u043e\u0444\u0435\u0439\u043d\u0430 \u0442\u0435\u0445\u043d\u0456\u043a\u0430.jpg",
+      "description": "\u0420\u0414\u041a \u0442\u0440\u043e\u0444\u0435\u0439\u043d\u0430 \u0442\u0435\u0445\u043d\u0456\u043a\u0430",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    }
+  ],
+  "doctrine": null,
+  "curated_sources": []
+}

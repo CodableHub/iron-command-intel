@@ -1,0 +1,217 @@
+{
+  "combat_history": [
+    {
+      "date": "2006",
+      "operation": "UNIFIL Lebanon",
+      "event": "French Leclerc tanks deployed with UNIFIL peacekeeping force in southern Lebanon. Limited engagement with IEDs and small arms fire.",
+      "significance": "First operational deployment, demonstrated strategic mobility but highlighted vulnerability to asymmetric threats"
+    },
+    {
+      "date": "2018-2019",
+      "operation": "Operation Decisive Storm",
+      "event": "UAE Leclerc tanks engaged in combat operations in Yemen against Houthi forces. Several tanks damaged or destroyed by ATGMs including Kornet missiles.",
+      "significance": "Revealed protection gaps against modern ATGMs, leading to urgent armor upgrade programs"
+    },
+    {
+      "date": "2020-2023",
+      "operation": "Operation Barkhane",
+      "event": "French Leclerc AZUR variants deployed in Mali and Sahel region for counter-terrorism operations. Effective in desert mobility and precision engagement.",
+      "significance": "Validated urban warfare modifications and desert performance, but limited to COIN operations"
+    }
+  ],
+  "modernization": [
+    {
+      "program": "Leclerc XLR (R\u00e9novation)",
+      "status": "in-progress",
+      "timeline": "2020-2028",
+      "description": "Major upgrade program including SICS (Syst\u00e8me d'Information de Combat SCORPION) integration, improved armor packages, new thermal imaging, enhanced battlefield networking capability, and improved reliability.",
+      "impact": "Extends service life to 2040+, provides network-centric warfare capability, addresses Yemen combat lessons"
+    },
+    {
+      "program": "AZUR Urban Combat Kit",
+      "status": "completed",
+      "timeline": "2008-2015",
+      "description": "Urban warfare modifications including roof armor against RPGs, side skirts, rear-view camera, infantry telephone, and improved air conditioning.",
+      "impact": "Enhanced survivability in urban environments and COIN operations"
+    },
+    {
+      "program": "Future Combat System Integration",
+      "status": "planned",
+      "timeline": "2025-2035",
+      "description": "Integration with MGCS (Main Ground Combat System) development program with Germany, AI-assisted fire control, and active protection systems.",
+      "impact": "Maintains relevance against peer threats through next-generation capabilities"
+    }
+  ],
+  "vulnerabilities": [
+    {
+      "area": "Side and rear armor protection",
+      "description": "Yemen combat experience revealed vulnerability to modern ATGMs like Kornet when struck from sides or rear. Lighter armor compared to Abrams/Challenger makes it more vulnerable to kinetic energy penetrators.",
+      "context": "Modern battlefield proliferation of advanced ATGMs makes side/rear protection critical",
+      "mitigation": "AZUR upgrade added side skirts, XLR program includes improved armor packages, APS consideration"
+    },
+    {
+      "area": "Autoloader reliability",
+      "description": "22-round cassette autoloader more complex than manual loading, requires specialized maintenance. Cassette reload process is lengthy and vulnerable.",
+      "context": "Sustained combat operations require reliable ammunition handling",
+      "mitigation": "Improved maintenance training, reliability upgrades in XLR program"
+    },
+    {
+      "area": "Upgrade modularity",
+      "description": "Less modular design compared to Leopard 2 makes major upgrades more expensive and time-consuming. Power generation limits for future systems.",
+      "context": "Rapid technological change requires adaptable platform architecture",
+      "mitigation": "XLR program addresses some issues, MGCS program for next-generation replacement"
+    }
+  ],
+  "operational_patterns": {
+    "typical_deployment": "Brigade-level formations with mechanized infantry, rapid deployment forces for expeditionary operations",
+    "deployment_length_months": 6,
+    "key_operating_areas": [
+      "Sahel/Mali",
+      "Eastern Europe NATO",
+      "Lebanon",
+      "UAE/Yemen"
+    ],
+    "typical_task_group": "Combined arms brigade with VBCI infantry fighting vehicles, Caesar artillery",
+    "readiness_notes": "Higher maintenance requirements than competitors, limited spare parts production affects availability rates"
+  },
+  "peer_comparisons": [
+    {
+      "platform": "M1A2 SEPv3 Abrams",
+      "country": "United States",
+      "relationship": "NATO ally equivalent",
+      "key_differences": "Abrams prioritizes heavy armor protection (73t vs 56t) while Leclerc emphasizes mobility and advanced electronics. Abrams uses turbine engine vs Leclerc diesel. Leclerc autoloader vs Abrams manual loading.",
+      "video_angle": "Weight vs Protection: Can the Leclerc's mobility advantage overcome the Abrams' armor superiority?"
+    },
+    {
+      "platform": "Leopard 2A7V",
+      "country": "Germany",
+      "relationship": "NATO ally/competitor",
+      "key_differences": "Similar weight class but Leopard 2 more modular design enables easier upgrades. Leopard manual loading vs Leclerc autoloader. Both diesel engines but different transmission approaches.",
+      "video_angle": "European MBT showdown: French sophistication vs German engineering pragmatism"
+    },
+    {
+      "platform": "Challenger 2",
+      "country": "United Kingdom",
+      "relationship": "NATO ally equivalent",
+      "key_differences": "Challenger 2 heaviest armor, rifled gun vs Leclerc smoothbore. Both emphasize crew protection but different philosophies - British conservatism vs French innovation.",
+      "video_angle": "Battle of doctrines: British evolutionary approach vs French revolutionary technology"
+    },
+    {
+      "platform": "T-90M Proryv",
+      "country": "Russia",
+      "relationship": "potential adversary",
+      "key_differences": "Similar autoloader philosophy but T-90M lighter (46t). Russian ERA vs Western composite armor. Leclerc superior optics and fire control vs T-90M raw firepower focus.",
+      "video_angle": "East vs West: Can advanced French electronics overcome Russian numerical superiority?"
+    },
+    {
+      "platform": "Type 99A",
+      "country": "China",
+      "relationship": "potential adversary",
+      "key_differences": "Both emphasize advanced electronics and autoloaders. Type 99A heavier (58t) with different armor philosophy. Chinese active protection vs French countermeasures.",
+      "video_angle": "High-tech heavyweight fight: French finesse vs Chinese power projection"
+    }
+  ],
+  "search_keywords": [
+    "leclerc tank",
+    "AMX-56",
+    "french main battle tank",
+    "leclerc azur",
+    "leclerc xlr",
+    "leclerc UAE",
+    "french army tank",
+    "nexter leclerc",
+    "giat leclerc"
+  ],
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/305%2C_605_AMXS_provide_maintenance_support_during_Talisman_Sabre_19_%285586334%29.jpg/1280px-305%2C_605_AMXS_provide_maintenance_support_during_Talisman_Sabre_19_%285586334%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/63/305%2C_605_AMXS_provide_maintenance_support_during_Talisman_Sabre_19_%285586334%29.jpg",
+      "width": 3327,
+      "height": 2218,
+      "title": "305, 605 AMXS provide maintenance support during Talisman Sabre 19 (5586334).jpg",
+      "description": "U.S. Air Force Senior Airman Corey Smith, 60th Air Maintenance Squadron, Travis Air Force Base, California, boards a USAF KC-10 Extender to complete routine pre-flight maintenance checks July 16, 2019",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/French_Leclerc_main_battle_tank_during_Strong_Europe_Tank_Challenge_exercise%2C_2017.jpg/1280px-French_Leclerc_main_battle_tank_during_Strong_Europe_Tank_Challenge_exercise%2C_2017.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/13/French_Leclerc_main_battle_tank_during_Strong_Europe_Tank_Challenge_exercise%2C_2017.jpg",
+      "width": 4950,
+      "height": 3258,
+      "title": "French Leclerc main battle tank during Strong Europe Tank Challenge exercise, 2017.jpg",
+      "description": "A French soldier on the France Leclere tank identifies friendly and enemy vehicles while navigating a short course here, May 8.  The Strong Europe Tank Challenge is co-hosted by U.S. Army Europe and t",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Leclerc-IMG_1744.jpg/1280px-Leclerc-IMG_1744.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/10/Leclerc-IMG_1744.jpg",
+      "width": 2088,
+      "height": 1395,
+      "title": "Leclerc-IMG 1744.jpg",
+      "description": "Leclerc Main Battle Tank\u00a0<span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"//commons.wikimedia.org/wiki/File:Leclerc-IMG_1744.jpg#ooui-php-4\" title=\"Edit this at Structured ",
+      "license": "CC BY-SA 2.0 fr",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Leclerc-openphotonet_PICT6015.JPG",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Leclerc-openphotonet_PICT6015.JPG",
+      "width": 1280,
+      "height": 851,
+      "title": "Leclerc-openphotonet PICT6015.JPG",
+      "description": "Nexter <a href=\"https://en.wikipedia.org/wiki/Leclerc\" class=\"extiw\" title=\"en:Leclerc\">Leclerc</a> moving.",
+      "license": "CC BY-SA 2.5",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Leclerc_Main_Battle_Tank%2C_Orleans_2006.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Leclerc_Main_Battle_Tank%2C_Orleans_2006.jpg",
+      "width": 640,
+      "height": 480,
+      "title": "Leclerc Main Battle Tank, Orleans 2006.jpg",
+      "description": "A <i><a href=\"//commons.wikimedia.org/wiki/Leclerc\" title=\"Leclerc\">Leclerc Main Battle Tank</a></i> of the <a href=\"//commons.wikimedia.org/wiki/France\" title=\"France\">French</a> army in <a href=\"//c",
+      "license": "CC BY 2.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/28/Leclerc_Prot.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/28/Leclerc_Prot.jpg",
+      "width": 1280,
+      "height": 726,
+      "title": "Leclerc Prot.jpg",
+      "description": "Mulet Systeme Complet (complete system mule), a testbed for the Leclerc",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Leclerc_XLR_expos%C3%A9_%C3%A0_l%27Eurosatory_de_2022.jpg/1280px-Leclerc_XLR_expos%C3%A9_%C3%A0_l%27Eurosatory_de_2022.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Leclerc_XLR_expos%C3%A9_%C3%A0_l%27Eurosatory_de_2022.jpg",
+      "width": 6700,
+      "height": 4948,
+      "title": "Leclerc XLR expos\u00e9 \u00e0 l'Eurosatory de 2022.jpg",
+      "description": "Photo prise en ext\u00e9rieure d'un char Leclerc XLR en exposition \u00e0 l'Eurosatory de 2022",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Leclerc_p1040617.jpg/1280px-Leclerc_p1040617.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/57/Leclerc_p1040617.jpg",
+      "width": 2560,
+      "height": 1920,
+      "title": "Leclerc p1040617.jpg",
+      "description": "<a href=\"//commons.wikimedia.org/wiki/Leclerc\" title=\"Leclerc\">Leclerc</a> main battle tank",
+      "license": "CC BY-SA 3.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Leclerc_p1040703_cropped.jpg/1280px-Leclerc_p1040703_cropped.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Leclerc_p1040703_cropped.jpg",
+      "width": 2560,
+      "height": 1645,
+      "title": "Leclerc p1040703 cropped.jpg",
+      "description": "<a href=\"//commons.wikimedia.org/wiki/Leclerc\" title=\"Leclerc\">Leclerc</a> main battle tank",
+      "license": "CC BY-SA 3.0",
+      "source": "wikimedia"
+    }
+  ]
+}

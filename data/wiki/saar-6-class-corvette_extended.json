@@ -1,0 +1,224 @@
+{
+  "combat_history": [
+    {
+      "date": "2021-05",
+      "operation": "Operation Guardian of the Walls",
+      "event": "Sa'ar 6 corvettes conducted patrol operations off Gaza coast during 11-day conflict, providing naval fire support and maritime interdiction capabilities",
+      "significance": "First operational deployment demonstrated platform's ability to operate in high-threat littoral environment"
+    },
+    {
+      "date": "2021-2023",
+      "operation": "Natural Gas Platform Protection",
+      "event": "Continuous patrol missions protecting Leviathan and Tamar gas fields, including interception of suspicious maritime contacts and UAV threats",
+      "significance": "Validated primary mission capability for critical infrastructure protection"
+    },
+    {
+      "date": "2023-10-07",
+      "operation": "Iron Swords",
+      "event": "Sa'ar 6 corvettes deployed for coastal defense and interdiction missions following Hamas attacks, reportedly engaging multiple aerial threats with C-Dome systems",
+      "significance": "First confirmed combat use of naval Iron Dome system, demonstrating multi-threat engagement capability"
+    }
+  ],
+  "modernization": [
+    {
+      "program": "Enhanced Electronic Warfare Suite",
+      "status": "in-progress",
+      "timeline": "2024-2026",
+      "description": "Integration of advanced Rafael electronic warfare systems and improved cyber defense capabilities to counter evolving threats",
+      "impact": "Significantly improved survivability against electronic attack and enhanced situational awareness"
+    },
+    {
+      "program": "Autonomous Systems Integration",
+      "status": "planned",
+      "timeline": "2025-2028",
+      "description": "Integration of unmanned surface and aerial vehicles for extended reconnaissance and force multiplication",
+      "impact": "Extended operational reach and improved intelligence gathering without platform exposure"
+    }
+  ],
+  "vulnerabilities": [
+    {
+      "area": "Submarine Detection",
+      "description": "Limited anti-submarine warfare capability due to basic sonar suite and lack of dedicated ASW weapons beyond helicopter-launched torpedoes",
+      "context": "Growing submarine threat from regional adversaries including modern diesel-electric boats",
+      "mitigation": "Reliance on helicopter ASW capabilities and coordination with submarine forces"
+    },
+    {
+      "area": "Saturation Attack Defense",
+      "description": "Despite layered defense, limited magazine depth (32 Barak-8 missiles) could be overwhelmed by large-scale coordinated missile attacks",
+      "context": "Hezbollah and other adversaries possess hundreds of anti-ship missiles",
+      "mitigation": "Tactics emphasize early engagement and coordination with shore-based defenses"
+    },
+    {
+      "area": "Electronic Warfare Vulnerability",
+      "description": "Heavy reliance on sophisticated electronic systems makes platform vulnerable to advanced electronic attack and cyber warfare",
+      "context": "Regional adversaries developing sophisticated EW capabilities",
+      "mitigation": "Ongoing EW suite upgrades and hardening against cyber threats"
+    }
+  ],
+  "operational_patterns": {
+    "typical_deployment": "Coastal defense patrols, gas field protection missions, and rapid response to maritime threats",
+    "deployment_length_months": 1,
+    "key_operating_areas": [
+      "Eastern Mediterranean",
+      "Lebanon Maritime Border",
+      "Gaza Maritime Zone"
+    ],
+    "typical_task_group": "Single ship operations or pairs with fast patrol boats and helicopter support",
+    "readiness_notes": "High operational tempo due to continuous threat environment, requires careful maintenance scheduling"
+  },
+  "peer_comparisons": [
+    {
+      "platform": "Freedom-class Littoral Combat Ship",
+      "country": "United States",
+      "relationship": "functional equivalent",
+      "key_differences": "Sa'ar 6 emphasizes defensive systems over speed, with heavier armament and better survivability but less modular mission capability",
+      "video_angle": "Corvette philosophy: Israeli defense-first vs US expeditionary speed approach"
+    },
+    {
+      "platform": "Braunschweig-class corvette",
+      "country": "Germany",
+      "relationship": "design relative",
+      "key_differences": "Sa'ar 6 based on similar MEKO design but heavily modified with Israeli systems, much heavier air defense suite",
+      "video_angle": "How export platforms get transformed for specific threat environments"
+    },
+    {
+      "platform": "Gowind-class corvette",
+      "country": "France",
+      "relationship": "direct competitor",
+      "key_differences": "Similar displacement and mission profile, but Gowind emphasizes stealth design while Sa'ar 6 prioritizes defensive firepower",
+      "video_angle": "Stealth vs armor: different approaches to modern corvette survivability"
+    },
+    {
+      "platform": "Type 056 corvette",
+      "country": "China",
+      "relationship": "peer competitor",
+      "key_differences": "Type 056 optimized for quantity production and patrol missions, Sa'ar 6 designed for high-intensity combat with superior sensors and defenses",
+      "video_angle": "Quality vs quantity: boutique defense vs mass production naval strategies"
+    },
+    {
+      "platform": "Admiral Grigorovich-class frigate",
+      "country": "Russia",
+      "relationship": "threat platform",
+      "key_differences": "Russian frigate larger with longer-range weapons, Sa'ar 6 designed specifically to counter this class of threat with superior defensive systems",
+      "video_angle": "David vs Goliath: how smaller navies design platforms to counter larger adversaries"
+    }
+  ],
+  "search_keywords": [
+    "saar 6",
+    "sa'ar 6",
+    "israeli navy",
+    "israeli corvette",
+    "meko a-100",
+    "barak-8",
+    "c-dome",
+    "iron dome naval",
+    "mf-star radar",
+    "thyssenkrupp marine",
+    "ins magen",
+    "ins oz",
+    "ins atzmaut",
+    "ins nitzachon"
+  ],
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Die_vier_Sa%27ar-6_Korvetten_bei_der_Bauwerft_in_Kiel.jpg/1280px-Die_vier_Sa%27ar-6_Korvetten_bei_der_Bauwerft_in_Kiel.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/82/Die_vier_Sa%27ar-6_Korvetten_bei_der_Bauwerft_in_Kiel.jpg",
+      "width": 5643,
+      "height": 3340,
+      "title": "Die vier Sa'ar-6 Korvetten bei der Bauwerft in Kiel.jpg",
+      "description": "The four corvettes of the Sa'ar-6 class for Israel together with the Type 209/1400mod submarine S-44 for Egypt in front of the construction yard on 23.09.2020 in Kiel.",
+      "license": "CC BY-SA 3.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Korvette_der_Sa%27ar-6-Klasse.jpg/1280px-Korvette_der_Sa%27ar-6-Klasse.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/19/Korvette_der_Sa%27ar-6-Klasse.jpg",
+      "width": 6148,
+      "height": 4086,
+      "title": "Korvette der Sa'ar-6-Klasse.jpg",
+      "description": "A corvette of the Sa'ar-6 class for Israel in front of the construction yard in Kiel on 23.09.2020. The unit bears a nameplate with the German name \"Habicht\" (meaning goshawk). Maybe that's the German",
+      "license": "CC BY-SA 3.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Sa%27ar-6-class-corvette-0006.webp/1280px-Sa%27ar-6-class-corvette-0006.webp.png",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/74/Sa%27ar-6-class-corvette-0006.webp",
+      "width": 5120,
+      "height": 3414,
+      "title": "Sa'ar-6-class-corvette-0006.webp",
+      "description": "INS Atzmau't - IDF Sa'ar 6 class missile corvette",
+      "license": "CC BY-SA 3.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Sa%27ar-6-class-corvette-0007.webp/1280px-Sa%27ar-6-class-corvette-0007.webp.png",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Sa%27ar-6-class-corvette-0007.webp",
+      "width": 5080,
+      "height": 3452,
+      "title": "Sa'ar-6-class-corvette-0007.webp",
+      "description": "INS Atzmau't - IDF Sa'ar 6 class missile corvette",
+      "license": "CC BY-SA 3.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/29/Sa%27ar-6-class-corvette-0023.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/29/Sa%27ar-6-class-corvette-0023.jpg",
+      "width": 1080,
+      "height": 1350,
+      "title": "Sa'ar-6-class-corvette-0023.jpg",
+      "description": "Sa'ar-6-class missile corvette and Atalef (Airbus Helicopters AS565 Panther) sea helicopter, Israel Defense Forces",
+      "license": "CC BY-SA 3.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/35/Sa%27ar-6-class-corvette-0026.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/35/Sa%27ar-6-class-corvette-0026.jpg",
+      "width": 982,
+      "height": 583,
+      "title": "Sa'ar-6-class-corvette-0026.jpg",
+      "description": "Sa'ar-6-class missile corvette and Atalef (Airbus Helicopters AS565 Panther) sea helicopter, Israel Defense Forces",
+      "license": "CC BY-SA 3.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Saar-6-pic0014.jpg/1280px-Saar-6-pic0014.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/36/Saar-6-pic0014.jpg",
+      "width": 1600,
+      "height": 900,
+      "title": "Saar-6-pic0014.jpg",
+      "description": "IDF Navy Sa'ar 6-class missile corvette",
+      "license": "CC BY-SA 3.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Saar-6-pic0016.jpg/1280px-Saar-6-pic0016.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Saar-6-pic0016.jpg",
+      "width": 1606,
+      "height": 906,
+      "title": "Saar-6-pic0016.jpg",
+      "description": "IDF Navy Sa'ar 6-class missile corvette",
+      "license": "CC BY-SA 3.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Saar-6--Our-IDF-2018-IZE-001.jpg/1280px-Saar-6--Our-IDF-2018-IZE-001.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/75/Saar-6--Our-IDF-2018-IZE-001.jpg",
+      "width": 5655,
+      "height": 2297,
+      "title": "Saar-6--Our-IDF-2018-IZE-001.jpg",
+      "description": "Scale model of Saar 6 class missile corvette, Our IDF 70, Israel",
+      "license": "CC BY 2.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/37/Saar-6-pic0016a.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/37/Saar-6-pic0016a.jpg",
+      "width": 950,
+      "height": 778,
+      "title": "Saar-6-pic0016a.jpg",
+      "description": "IDF Navy Sa'ar 6-class missile corvette",
+      "license": "CC BY-SA 3.0",
+      "source": "wikimedia"
+    }
+  ]
+}

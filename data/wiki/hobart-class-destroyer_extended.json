@@ -1,0 +1,216 @@
+{
+  "combat_history": [
+    {
+      "date": "2019-10",
+      "operation": "Exercise Sea Dragon",
+      "event": "HMAS Hobart successfully intercepted multiple ballistic missile targets during joint US-Japan-Australia BMD exercise, demonstrating Aegis capability in Australian hands",
+      "significance": "First successful BMD intercept by RAN, validating Australia's investment in Aegis capability"
+    },
+    {
+      "date": "2020-04",
+      "operation": "Indo-Pacific Deployment",
+      "event": "HMAS Brisbane conducted freedom of navigation operations in South China Sea, shadowed by Chinese warships but completed mission without incident",
+      "significance": "Demonstrated Australian commitment to maintaining open sea lanes despite Chinese pressure"
+    },
+    {
+      "date": "2021-08",
+      "operation": "Operation Argos",
+      "event": "HMAS Sydney provided air defense for evacuation operations during Afghanistan withdrawal, operating in Persian Gulf",
+      "significance": "First operational deployment showcasing the class's expeditionary capability outside Indo-Pacific"
+    }
+  ],
+  "modernization": [
+    {
+      "program": "Aegis Baseline 9 Upgrade",
+      "status": "planned",
+      "timeline": "2025-2030",
+      "description": "Upgrade from Baseline 7.1 to Baseline 9, enabling improved ballistic missile defense, integration of SM-3 interceptors, and enhanced cyber warfare resilience",
+      "impact": "Significantly enhances BMD capability and enables interception of intermediate-range ballistic missiles"
+    },
+    {
+      "program": "Future Missile Integration",
+      "status": "planned",
+      "timeline": "2024-2028",
+      "description": "Integration of SM-6 dual-role interceptor and potential Tomahawk land-attack cruise missile capability",
+      "impact": "Adds long-range strike capability and advanced over-the-horizon air defense"
+    },
+    {
+      "program": "CEAFAR Integration Study",
+      "status": "in-progress",
+      "timeline": "2023-2025",
+      "description": "Feasibility study for replacing SPY-1D with Australian-developed CEAFAR2-L phased array radar",
+      "impact": "Would provide enhanced detection against stealth targets and reduce dependence on US radar technology"
+    }
+  ],
+  "vulnerabilities": [
+    {
+      "area": "Force size limitations",
+      "description": "With only three hulls, the class cannot sustain high operational tempo. Typically only one ship available for deployment at any given time due to maintenance cycles",
+      "context": "In extended conflict, attrition of even one hull would severely degrade Australian air defense capability",
+      "mitigation": "Hunter-class frigate program includes some air defense capability, but won't match Hobart performance"
+    },
+    {
+      "area": "VLS cell count",
+      "description": "48 VLS cells significantly fewer than US Arleigh Burke (96) or Chinese Type 055 (112), limiting sustained engagement capability",
+      "context": "In high-intensity conflict against peer adversary, magazine depth could be exhausted quickly",
+      "mitigation": "Quad-packing of ESSM missiles maximizes cell efficiency, but no current plans to increase cell count"
+    },
+    {
+      "area": "ASW capability gaps",
+      "description": "Sonar suite less capable than dedicated ASW platforms, towed array sonar not fitted, limiting submarine detection range",
+      "context": "Regional submarine threat growing rapidly, particularly Chinese Type 039/041 boats operating in approaches to Australia",
+      "mitigation": "Designed to operate with Anzac frigates and maritime patrol aircraft for ASW coverage"
+    },
+    {
+      "area": "Electronic warfare limitations",
+      "description": "ES-3701 EW suite adequate but not cutting-edge compared to latest Russian/Chinese systems",
+      "context": "Sophisticated EW environment in South China Sea could degrade radar and communications effectiveness",
+      "mitigation": "Aegis system includes some EW resistance, but comprehensive upgrade may be needed"
+    }
+  ],
+  "operational_patterns": {
+    "typical_deployment": "Single-ship deployments to Indo-Pacific for presence operations, integration with US CSGs, or support to amphibious task groups",
+    "deployment_length_months": 6,
+    "key_operating_areas": [
+      "South China Sea",
+      "Philippine Sea",
+      "Indian Ocean",
+      "Persian Gulf"
+    ],
+    "typical_task_group": "Operates with Anzac frigates, Supply-class AORs, or integrated with US Navy task forces",
+    "readiness_notes": "Maintenance-intensive Aegis systems require significant shore support; typically one ship in deep maintenance at any time"
+  },
+  "peer_comparisons": [
+    {
+      "platform": "\u00c1lvaro de Baz\u00e1n-class (F-100)",
+      "country": "Spain",
+      "relationship": "direct predecessor",
+      "key_differences": "Hobart class features Australian-specific modifications including different helicopter facilities, communications suite, and slightly enlarged dimensions. Virtually identical combat capability with minor Australian customizations.",
+      "video_angle": "How Australia customized a proven Spanish design - successful naval technology transfer case study"
+    },
+    {
+      "platform": "Arleigh Burke-class Flight IIA",
+      "country": "United States",
+      "relationship": "allied equivalent",
+      "key_differences": "Burke class significantly larger (9,200t vs 6,250t) with double the VLS cells (96 vs 48) and enhanced ASW capability. Hobart class more cost-effective but less capable in sustained operations.",
+      "video_angle": "Size vs numbers - why Australia chose capability over quantity in destroyer procurement"
+    },
+    {
+      "platform": "Type 45 Daring-class",
+      "country": "United Kingdom",
+      "relationship": "allied equivalent",
+      "key_differences": "Type 45 features more advanced SAMPSON radar and Aster missiles but troubled propulsion system and smaller missile magazine (48 cells). Hobart more reliable but less cutting-edge sensors.",
+      "video_angle": "Proven vs innovative - comparing Australia's conservative approach to Britain's technical risk-taking"
+    },
+    {
+      "platform": "Type 052D Luyang III-class",
+      "country": "China",
+      "relationship": "direct rival",
+      "key_differences": "Type 052D has 64 VLS cells vs 48, indigenous Chinese sensors vs proven Aegis, and greater numbers in service (25+ vs 3). Hobart likely superior in sensor integration and crew training.",
+      "video_angle": "Quality vs quantity - how three Australian destroyers stack up against China's growing destroyer fleet"
+    },
+    {
+      "platform": "Maya-class",
+      "country": "Japan",
+      "relationship": "allied equivalent",
+      "key_differences": "Maya class evolved from same Aegis baseline but with 96 VLS cells, enhanced BMD capability, and Japanese-specific systems. Larger and more capable but also more expensive than Hobart.",
+      "video_angle": "Two paths from Aegis - how Japan and Australia took different approaches to the same baseline technology"
+    }
+  ],
+  "search_keywords": [
+    "hobart class",
+    "hobart-class",
+    "DDG 39",
+    "DDG 41",
+    "DDG 48",
+    "HMAS Hobart",
+    "HMAS Brisbane",
+    "HMAS Sydney",
+    "RAN destroyer",
+    "australian destroyer",
+    "aegis australia",
+    "F-100 australia"
+  ],
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Aerial_photo_of_HMAS_Hobart_during_RIMPAC_2020.jpg/1280px-Aerial_photo_of_HMAS_Hobart_during_RIMPAC_2020.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Aerial_photo_of_HMAS_Hobart_during_RIMPAC_2020.jpg",
+      "width": 5118,
+      "height": 3412,
+      "title": "Aerial photo of HMAS Hobart during RIMPAC 2020.jpg",
+      "description": "200821-N-RP442-1666 PACIFIC OCEAN (Aug. 21, 2020) Royal Australian Navy ship HMAS Hobart (DDG 39) steams in a multinational formation during a photo exercise off the coast of Hawaii during the Rim of ",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Australian%2C_South_Korean_and_US_sailors_on_HMAS_Hobart_in_November_2019.jpg/1280px-Australian%2C_South_Korean_and_US_sailors_on_HMAS_Hobart_in_November_2019.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/35/Australian%2C_South_Korean_and_US_sailors_on_HMAS_Hobart_in_November_2019.jpg",
+      "width": 6566,
+      "height": 4377,
+      "title": "Australian, South Korean and US sailors on HMAS Hobart in November 2019.jpg",
+      "description": "191104-N-ZU710-0033 BUSAN, Republic of Korea (Nov. 4, 2019) U.S., Republic of Korea and Royal Australian Navy Sailors tour the Hobart-class Air Warfare Destroyer HMAS Hobart (DDG 39). The tour was des",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Bow_view_of_HMAS_Hobart_during_RIMPAC_2020.jpg/1280px-Bow_view_of_HMAS_Hobart_during_RIMPAC_2020.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Bow_view_of_HMAS_Hobart_during_RIMPAC_2020.jpg",
+      "width": 4413,
+      "height": 2942,
+      "title": "Bow view of HMAS Hobart during RIMPAC 2020.jpg",
+      "description": "PACIFIC OCEAN (August 21, 2020) Royal Australian Navy ship HMAS Hobart (DDG 39) steams in a multinational formation during a photo exercise off the coast of Hawaii during the Rim of the Pacific (RIMPA",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/HMAS_Hobart_and_Brisbane_at_ASC_Osborne.jpg/1280px-HMAS_Hobart_and_Brisbane_at_ASC_Osborne.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/05/HMAS_Hobart_and_Brisbane_at_ASC_Osborne.jpg",
+      "width": 5984,
+      "height": 3366,
+      "title": "HMAS Hobart and Brisbane at ASC Osborne.jpg",
+      "description": "Two Hobart-class destroyers being fitted out / built in South Australia. HMAS Hobart is in the water, HMAS Brisbane is in dock.",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/HMAS_Hobart_and_Brisbane_at_ASC_Osborne_-_cropped.jpg/1280px-HMAS_Hobart_and_Brisbane_at_ASC_Osborne_-_cropped.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/80/HMAS_Hobart_and_Brisbane_at_ASC_Osborne_-_cropped.jpg",
+      "width": 5069,
+      "height": 3042,
+      "title": "HMAS Hobart and Brisbane at ASC Osborne - cropped.jpg",
+      "description": "Two Hobart-class destroyers being fitted out / built in South Australia. HMAS Hobart is in the water, HMAS Brisbane is in dock.",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/HMAS_Hobart_arriving_at_Pearl_Harbor_in_September_2018.jpg/1280px-HMAS_Hobart_arriving_at_Pearl_Harbor_in_September_2018.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/3e/HMAS_Hobart_arriving_at_Pearl_Harbor_in_September_2018.jpg",
+      "width": 7360,
+      "height": 4912,
+      "title": "HMAS Hobart arriving at Pearl Harbor in September 2018.jpg",
+      "description": "180918-N-SF508-0031 PEARL HARBOR (Sept. 18, 2018) The Royal Australian Navy Hobart-class air warfare destroyer HMAS Hobart (DDG 39) arrives at Joint Base Pearl Harbor-Hickam as part of the 100 Years o",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Left_side_of_HMAS_Hobart.jpg/1280px-Left_side_of_HMAS_Hobart.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Left_side_of_HMAS_Hobart.jpg",
+      "width": 5984,
+      "height": 3366,
+      "title": "Left side of HMAS Hobart.jpg",
+      "description": "A completed HMAS Hobart alongside at the Submarine Corps. Taken in June 2016.",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/MV_Admiral_Hudson_carring_King_Charles_III_passes_HMAS_Hobart_during_the_2024_Royal_Fleet_Review_in_Sydney.jpg/1280px-MV_Admiral_Hudson_carring_King_Charles_III_passes_HMAS_Hobart_during_the_2024_Royal_Fleet_Review_in_Sydney.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/03/MV_Admiral_Hudson_carring_King_Charles_III_passes_HMAS_Hobart_during_the_2024_Royal_Fleet_Review_in_Sydney.jpg",
+      "width": 2048,
+      "height": 1536,
+      "title": "MV Admiral Hudson carring King Charles III passes HMAS Hobart during the 2024 Royal Fleet Review in Sydney.jpg",
+      "description": "MV Admiral Hudson carring King Charles III passes HMAS Hobart during the 2024 Royal Fleet Review in Sydney.",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    }
+  ]
+}

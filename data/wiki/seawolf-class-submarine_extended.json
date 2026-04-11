@@ -1,0 +1,289 @@
+{
+  "combat_history": [
+    {
+      "date": "2021-10-02",
+      "operation": "Indo-Pacific patrol",
+      "event": "USS Connecticut (SSN-22) struck an uncharted seamount in the South China Sea while conducting classified operations, damaging the forward ballast tanks and sonar dome. Eleven sailors injured.",
+      "significance": "Highlighted the risks of operating in poorly charted contested waters and demonstrated Chinese inability to detect the submarine despite proximity to Chinese naval bases"
+    },
+    {
+      "date": "2005-2023",
+      "operation": "Classified special operations",
+      "event": "USS Jimmy Carter has conducted numerous classified intelligence gathering and special operations missions, earning six Presidential Unit Citations - more than any submarine in US Navy history.",
+      "significance": "Demonstrates the unique capabilities provided by the Multi-Mission Platform for covert operations and intelligence collection"
+    },
+    {
+      "date": "2014",
+      "operation": "Arctic operations",
+      "event": "USS Seawolf conducted extensive under-ice operations in the Arctic Ocean, testing capabilities against potential Russian submarine activity in the region.",
+      "significance": "Validated design requirements for Arctic operations and anti-submarine warfare against advanced Russian submarines"
+    }
+  ],
+  "modernization": [
+    {
+      "program": "Acoustic Rapid COTS Insertion (ARCI)",
+      "status": "completed",
+      "timeline": "2005-2015",
+      "description": "Upgraded sonar processing systems with commercial off-the-shelf computer systems and improved software architecture",
+      "impact": "Significantly improved sonar processing capability and target detection range"
+    },
+    {
+      "program": "Virginia Payload Module integration study",
+      "status": "cancelled",
+      "timeline": "2010-2015",
+      "description": "Evaluation of retrofitting VPM-style vertical launch tubes for increased Tomahawk capacity",
+      "impact": "Determined to be cost-prohibitive; capability gap filled by Virginia Block V submarines"
+    },
+    {
+      "program": "Life Extension Program",
+      "status": "planned",
+      "timeline": "2025-2035",
+      "description": "Major overhaul including reactor compartment work, sonar upgrades, and weapons systems modernization to extend service life to 2040s",
+      "impact": "Will maintain Seawolf-class relevance against peer submarine threats through mid-century"
+    }
+  ],
+  "vulnerabilities": [
+    {
+      "area": "Limited production and sustainment",
+      "description": "With only three hulls, any major damage or lengthy maintenance removes 33% of capability. Unique systems require specialized parts and expertise not shared with other submarine classes.",
+      "context": "Connecticut's 2021 collision removed one-third of Seawolf capability for over a year during critical great power competition",
+      "mitigation": "Navy has prioritized Virginia-class production over additional Seawolfs due to cost considerations"
+    },
+    {
+      "area": "Arctic operations logistics",
+      "description": "Despite Arctic design requirements, extended Arctic operations are limited by crew endurance, communications blackouts, and lack of regional support infrastructure.",
+      "context": "Russian Arctic militarization requires sustained US submarine presence, but geographic challenges limit operational tempo",
+      "mitigation": "Development of Arctic support infrastructure and improved under-ice communication systems ongoing"
+    },
+    {
+      "area": "Anti-submarine warfare adaptation",
+      "description": "Designed for Cold War deep-ocean ASW, may be less optimized for shallow-water operations in contested littorals like South China Sea",
+      "context": "China's anti-access strategy focuses on shallow seas where large, deep-draft submarines face detection challenges",
+      "mitigation": "Advanced sonar processing and weapons improvements help offset size disadvantages in shallow water"
+    }
+  ],
+  "operational_patterns": {
+    "typical_deployment": "Extended solo patrols in high-threat areas, intelligence gathering, and special operations support",
+    "deployment_length_months": 6,
+    "key_operating_areas": [
+      "Western Pacific",
+      "Arctic Ocean",
+      "Indian Ocean",
+      "Classified global operations"
+    ],
+    "typical_task_group": "Operates independently or supports carrier strike groups",
+    "readiness_notes": "High operational tempo with typically one boat deployed, one in maintenance, one in training cycle"
+  },
+  "peer_comparisons": [
+    {
+      "platform": "Yasen-class (Severodvinsk)",
+      "country": "Russia",
+      "relationship": "direct rival",
+      "key_differences": "Yasen-class features vertical launch system for cruise missiles but is reportedly noisier. Seawolf prioritizes acoustic stealth while Yasen emphasizes firepower and multi-mission capability.",
+      "video_angle": "Ultimate submarine stealth vs firepower - comparing Cold War era design philosophies"
+    },
+    {
+      "platform": "Type 093B Shang-class",
+      "country": "China",
+      "relationship": "regional competitor",
+      "key_differences": "Shang-class submarines are significantly noisier and less capable but produced in larger numbers. Seawolf maintains decisive qualitative advantage but faces numerical disadvantage.",
+      "video_angle": "Quality vs quantity in submarine warfare - can three super-subs counter a growing Chinese fleet?"
+    },
+    {
+      "platform": "Astute-class",
+      "country": "United Kingdom",
+      "relationship": "allied equivalent",
+      "key_differences": "Astute is smaller and newer with more modern combat systems, but Seawolf remains faster and more heavily armed. Both emphasize acoustic stealth over other factors.",
+      "video_angle": "Anglo-American submarine design philosophy - comparing two stealth-first approaches"
+    },
+    {
+      "platform": "Virginia-class",
+      "country": "United States",
+      "relationship": "successor",
+      "key_differences": "Virginia trades some acoustic performance and speed for lower cost, better shallow-water capability, and vertical launch systems. Seawolf remains superior in deep-ocean ASW missions.",
+      "video_angle": "Why the US Navy replaced its best submarine with something cheaper - capability vs cost analysis"
+    },
+    {
+      "platform": "Barracuda-class (Suffren)",
+      "country": "France",
+      "relationship": "allied contemporary",
+      "key_differences": "Suffren-class is newer with pump-jet propulsion like Seawolf but smaller and designed for different mission requirements. Seawolf optimized for Arctic/Pacific operations vs Mediterranean focus.",
+      "video_angle": "National submarine design priorities - how geography shapes submarine requirements"
+    }
+  ],
+  "search_keywords": [
+    "seawolf class",
+    "seawolf-class",
+    "SSN-21",
+    "SSN 21",
+    "USS Seawolf",
+    "USS Connecticut",
+    "USS Jimmy Carter",
+    "SSN-22",
+    "SSN-23",
+    "fast attack submarine",
+    "nuclear submarine"
+  ],
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Patch_of_the_USS_Seawolf_%28SSN-21%29.png",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Patch_of_the_USS_Seawolf_%28SSN-21%29.png",
+      "width": 931,
+      "height": 1097,
+      "title": "Patch of the USS Seawolf (SSN-21).png",
+      "description": "",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/USS_Seawolf_%28SSN-21%29_%2820679202313%29.jpg/1280px-USS_Seawolf_%28SSN-21%29_%2820679202313%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/USS_Seawolf_%28SSN-21%29_%2820679202313%29.jpg",
+      "width": 3000,
+      "height": 2250,
+      "title": "USS Seawolf (SSN-21) (20679202313).jpg",
+      "description": "330-CFD-DN-SD-99-04057:  The U.S. Navy\u2019s newest attack submarine, USS Seawolf (SSN 21), conducts Bravo sea trials off the coast of Connecticut in preparation for its scheduled commissioning in July 19",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/USS_Seawolf_%28SSN-21%29_%2821274044216%29.jpg/1280px-USS_Seawolf_%28SSN-21%29_%2821274044216%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/6a/USS_Seawolf_%28SSN-21%29_%2821274044216%29.jpg",
+      "width": 3000,
+      "height": 2100,
+      "title": "USS Seawolf (SSN-21) (21274044216).jpg",
+      "description": "330-CFD-DN-SD-99-04062. The U.S. Navy\u2019s newest attack submarine, USS Seawolf (SSN 21), conducts Bravo sea trials off the coast of Connecticut in preparation for its scheduled commissioning in July 199",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/USS_Seawolf_%28SSN-21%29_construction.jpg/1280px-USS_Seawolf_%28SSN-21%29_construction.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/USS_Seawolf_%28SSN-21%29_construction.jpg",
+      "width": 1948,
+      "height": 1576,
+      "title": "USS Seawolf (SSN-21) construction.jpg",
+      "description": "",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/14/USS_Seawolf_%28SSN-21%29_crest.png",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/14/USS_Seawolf_%28SSN-21%29_crest.png",
+      "width": 295,
+      "height": 345,
+      "title": "USS Seawolf (SSN-21) crest.png",
+      "description": "USS Seawolf (SSN-21) crest",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c0/USS_Seawolf_%28SSN-21%29_crest_patch.png",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/c0/USS_Seawolf_%28SSN-21%29_crest_patch.png",
+      "width": 809,
+      "height": 1000,
+      "title": "USS Seawolf (SSN-21) crest patch.png",
+      "description": "USS Seawolf (SSN-21) crest",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/USS_Seawolf_%28SSN-21%29_with_carrier%2C_japanese_destroyer.jpg/1280px-USS_Seawolf_%28SSN-21%29_with_carrier%2C_japanese_destroyer.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/7a/USS_Seawolf_%28SSN-21%29_with_carrier%2C_japanese_destroyer.jpg",
+      "width": 2100,
+      "height": 1400,
+      "title": "USS Seawolf (SSN-21) with carrier, japanese destroyer.jpg",
+      "description": "090212-N-6538W-029 PACIFIC OCEAN The Seawolf-class submarine USS Seawolf (SSN 21), leads the Japan Maritime Self-Defense Force destroyer <a href=\"//commons.wikimedia.org/wiki/Category:JS_%C5%8Cnami_(D",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/USS_Seawolf_%28SSN_21%29_2009.jpg/1280px-USS_Seawolf_%28SSN_21%29_2009.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/79/USS_Seawolf_%28SSN_21%29_2009.jpg",
+      "width": 1709,
+      "height": 2508,
+      "title": "USS Seawolf (SSN 21) 2009.jpg",
+      "description": "090212-N-2610F-158 PACIFIC OCEAN A P-3C Orion from the \"Mad Foxes\" of Patrol Squadron Five (VP) 5 patrols as the Seawolf-class submarine USS Seawolf (SSN 21) participates in an under sea warfare exerc",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/64/Kokanee-LSV.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/64/Kokanee-LSV.jpg",
+      "width": 250,
+      "height": 159,
+      "title": "Kokanee-LSV.jpg",
+      "description": "Kokanee  (LSV-1), a self-propelled, quarter-scale model of the USS  Seawolf, vents her ballast tanks while cruising on the surface of Lake Pend Oreille, Idaho, during a test at the Acoustic Research D",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/The_crew_of_the_US_Navy_%28USN%29_SEAWOLF_CLASS-_Attack_Submarine%2C_USS_JIMMY_CARTER_%28SSN_23%29%2C_assemble_in_rank_and_in_dress_attire_for_an_official_photograph_during_the_ships_Christenin_-_DPLA_-_d3ed7e3fc20f4ccb5b2513dcddb72ea6.jpeg/1280px-thumbnail.jpeg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/The_crew_of_the_US_Navy_%28USN%29_SEAWOLF_CLASS-_Attack_Submarine%2C_USS_JIMMY_CARTER_%28SSN_23%29%2C_assemble_in_rank_and_in_dress_attire_for_an_official_photograph_during_the_ships_Christenin_-_DPLA_-_d3ed7e3fc20f4ccb5b2513dcddb72ea6.jpeg",
+      "width": 3000,
+      "height": 2400,
+      "title": "The crew of the US Navy (USN) SEAWOLF CLASS- Attack Submarine, USS JIMMY CARTER (SSN 23), assemble in rank and in dress attire for an official photograph during the ships Christenin - DPLA - d3ed7e3fc20f4ccb5b2513dcddb72ea6.jpeg",
+      "description": "<div class=\"description\">\nThe original finding aid described this photograph as: Base: Groton Shipyard State: Connecticut (CT) Country: United States Of America (USA) Scene Camera Operator: Electric B",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/US_Navy_040605-N-0247F-002_The_crew_of_the_Seawolf-class_nuclear_attack_submarine_Jimmy_Carter_%28SSN_23%29_stand_in_ranks_awaiting_the_christening_of_their_submarine.jpg/1280px-thumbnail.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/a0/US_Navy_040605-N-0247F-002_The_crew_of_the_Seawolf-class_nuclear_attack_submarine_Jimmy_Carter_%28SSN_23%29_stand_in_ranks_awaiting_the_christening_of_their_submarine.jpg",
+      "width": 2000,
+      "height": 1312,
+      "title": "US Navy 040605-N-0247F-002 The crew of the Seawolf-class nuclear attack submarine Jimmy Carter (SSN 23) stand in ranks awaiting the christening of their submarine.jpg",
+      "description": "Groton, Conn (Jun 5, 2004) \u2013 The crew of the Seawolf-class nuclear attack submarine Jimmy Carter (SSN 23) stand in ranks awaiting the christening of their submarine. The new submarine honors the 39th ",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/US_Navy_050219-N-7441H-012_The_crew_of_Seawolf-class_nuclear-powered_attack_submarine_USS_Jimmy_Carter_%28SSN_23%29_prepare_to_man_the_ship.jpg/1280px-US_Navy_050219-N-7441H-012_The_crew_of_Seawolf-class_nuclear-powered_attack_submarine_USS_Jimmy_Carter_%28SSN_23%29_prepare_to_man_the_ship.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/c8/US_Navy_050219-N-7441H-012_The_crew_of_Seawolf-class_nuclear-powered_attack_submarine_USS_Jimmy_Carter_%28SSN_23%29_prepare_to_man_the_ship.jpg",
+      "width": 2400,
+      "height": 947,
+      "title": "US Navy 050219-N-7441H-012 The crew of Seawolf-class nuclear-powered attack submarine USS Jimmy Carter (SSN 23) prepare to man the ship.jpg",
+      "description": "Naval Submarine Base Groton, Conn. (Feb. 19, 2005) - The crew of Seawolf-class nuclear-powered attack submarine USS Jimmy Carter (SSN 23) prepare to man the ship during her commissioning ceremony. Jim",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/78/US_Navy_050812-N-1433S-016_Former_President_Jimmy_Carter_salutes_the_sideboys_after_departing_the_Sea_Wolf-class_attack_submarine_USS_Jimmy_Carter_%28SSN_23%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/78/US_Navy_050812-N-1433S-016_Former_President_Jimmy_Carter_salutes_the_sideboys_after_departing_the_Sea_Wolf-class_attack_submarine_USS_Jimmy_Carter_%28SSN_23%29.jpg",
+      "width": 1280,
+      "height": 960,
+      "title": "US Navy 050812-N-1433S-016 Former President Jimmy Carter salutes the sideboys after departing the Sea Wolf-class attack submarine USS Jimmy Carter (SSN 23).jpg",
+      "description": "Kings Bay, Ga. (Aug. 12, 2005) \u2013 Former President Jimmy Carter salutes the sideboys after departing the Seawolf-class attack submarine USS Jimmy Carter (SSN 23). President Jimmy Carter and wife Rosaly",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/US_Navy_050812-N-1550W-019_The_Sea_Wolf-class_attack_submarine_USS_Jimmy_Carter_%28SSN_23%29_departs_Naval_Submarine_Base_Kings_Bay_for_a_one-night_underway_that_included_an_embark_by_former_President_Jimmy_Carter_and_his_wife_Rosa.jpg/1280px-thumbnail.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/2d/US_Navy_050812-N-1550W-019_The_Sea_Wolf-class_attack_submarine_USS_Jimmy_Carter_%28SSN_23%29_departs_Naval_Submarine_Base_Kings_Bay_for_a_one-night_underway_that_included_an_embark_by_former_President_Jimmy_Carter_and_his_wife_Rosa.jpg",
+      "width": 2100,
+      "height": 1500,
+      "title": "US Navy 050812-N-1550W-019 The Sea Wolf-class attack submarine USS Jimmy Carter (SSN 23) departs Naval Submarine Base Kings Bay for a one-night underway that included an embark by former President Jimmy Carter and his wife Rosa.jpg",
+      "description": "Kings Bay, Ga. (Aug. 12, 2005) - The Sea Wolf-class attack submarine USS Jimmy Carter (SSN 23) departs Naval Submarine Base Kings Bay for a one-night underway that included an embark by former Preside",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/US_Navy_061019-N-9167V-050_Fast-attack_submarine_USS_Seawolf_%28SSN_21%29_enters_Apra_Harbor._This_was_the_first_time_a_Seawolf-class_vessel_has_made_a_port_call_in_Guam.jpg/1280px-thumbnail.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/19/US_Navy_061019-N-9167V-050_Fast-attack_submarine_USS_Seawolf_%28SSN_21%29_enters_Apra_Harbor._This_was_the_first_time_a_Seawolf-class_vessel_has_made_a_port_call_in_Guam.jpg",
+      "width": 3120,
+      "height": 2080,
+      "title": "US Navy 061019-N-9167V-050 Fast-attack submarine USS Seawolf (SSN 21) enters Apra Harbor. This was the first time a Seawolf-class vessel has made a port call in Guam.jpg",
+      "description": "Santa Rita, Guam (Oct. 19, 2006) - Fast-attack submarine USS Seawolf (SSN 21) enters Apra Harbor. This was the first time a Seawolf-class vessel has made a port call in Guam. The nuclear-powered attac",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/US_Navy_070725-N-8467N-001_Seawolf-class_fast-attack_submarine_USS_Connecticut_%28SSN_22%29_departs_Submarine_Base_New_London.jpg/1280px-US_Navy_070725-N-8467N-001_Seawolf-class_fast-attack_submarine_USS_Connecticut_%28SSN_22%29_departs_Submarine_Base_New_London.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/bc/US_Navy_070725-N-8467N-001_Seawolf-class_fast-attack_submarine_USS_Connecticut_%28SSN_22%29_departs_Submarine_Base_New_London.jpg",
+      "width": 3000,
+      "height": 1980,
+      "title": "US Navy 070725-N-8467N-001 Seawolf-class fast-attack submarine USS Connecticut (SSN 22) departs Submarine Base New London.jpg",
+      "description": "GROTON, Conn. (July 25, 2007) - Seawolf-class fast-attack submarine USS Connecticut (SSN 22) departs Submarine Base New London. The submarine will not be returning to Groton as Connecticut is shifting",
+      "license": "Public domain",
+      "source": "wikimedia"
+    }
+  ]
+}

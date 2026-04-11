@@ -1,0 +1,193 @@
+{
+  "combat_history": [
+    {
+      "date": "2016-07",
+      "operation": "South China Sea patrol",
+      "event": "Multiple Type 056 corvettes conducted sovereignty patrols around Scarborough Shoal during the peak of tensions following the international arbitration ruling. Ships maintained persistent presence to assert Chinese territorial claims.",
+      "significance": "Demonstrated the Type 056's primary role in gray-zone operations and territorial assertion through persistent presence rather than direct confrontation"
+    },
+    {
+      "date": "2018-04",
+      "operation": "Live-fire exercise",
+      "event": "Type 056A corvette conducted live-fire anti-submarine warfare exercise in the South China Sea, successfully engaging simulated submarine targets with Yu-7 torpedoes and depth charge rockets.",
+      "significance": "First confirmed operational use of the Type 056A's enhanced ASW capabilities, validating the design improvements over the base Type 056"
+    },
+    {
+      "date": "2020-08",
+      "operation": "Taiwan Strait patrol",
+      "event": "Multiple Type 056/056A corvettes participated in large-scale military exercises near Taiwan following US congressional visits, conducting simulated blockade and patrol operations.",
+      "significance": "Showcased the platform's role in potential Taiwan scenarios and the value of having numerous hulls for sustained operations"
+    }
+  ],
+  "modernization": [
+    {
+      "program": "Mid-life sensor upgrade",
+      "status": "in-progress",
+      "timeline": "2022-2025",
+      "description": "Upgrading early Type 056 hulls with improved radar and electronic warfare systems, bringing them closer to Type 056A standards. Focus on better integration with PLAN's networked operations.",
+      "impact": "Extends service life and improves interoperability with newer PLAN assets"
+    },
+    {
+      "program": "Weapons system modernization",
+      "status": "planned",
+      "timeline": "2024-2027",
+      "description": "Potential upgrade of HQ-10 point defense missiles to longer-range variants and integration of newer YJ-12 anti-ship missiles on select hulls.",
+      "impact": "Would significantly increase striking power and defensive capability"
+    }
+  ],
+  "vulnerabilities": [
+    {
+      "area": "Air defense",
+      "description": "Limited air defense capability with only 8 HQ-10 short-range SAMs and no medium-range SAM system. Vulnerable to coordinated air attacks or saturation strikes.",
+      "context": "Critical weakness when operating without air cover in contested environments against modern air forces",
+      "mitigation": "PLAN relies on shore-based air defense and larger escorts when operating in high-threat environments"
+    },
+    {
+      "area": "Structural limitations",
+      "description": "Relatively light construction and limited damage control capabilities. Small crew size limits damage control effectiveness and sustained operations capacity.",
+      "context": "Design prioritized cost and rapid construction over survivability, making it vulnerable in high-intensity combat",
+      "mitigation": "Doctrine emphasizes operating in groups and avoiding direct engagement with larger warships"
+    },
+    {
+      "area": "Electronic warfare",
+      "description": "Basic EW suite (Type 922-1) is insufficient against modern electronic threats. Limited ability to operate in heavily jammed environments.",
+      "context": "Weakness against US/allied EW capabilities could severely degrade sensor and communications effectiveness",
+      "mitigation": "Ongoing upgrades to improve EW resilience, reliance on datalinks with larger platforms"
+    }
+  ],
+  "operational_patterns": {
+    "typical_deployment": "Rotational patrols in South China Sea, East China Sea, and Taiwan Strait. Often deployed in pairs or small squadrons for persistent presence operations",
+    "deployment_length_months": 2,
+    "key_operating_areas": [
+      "South China Sea",
+      "East China Sea",
+      "Taiwan Strait",
+      "Yellow Sea"
+    ],
+    "typical_task_group": "Usually operates independently or in pairs, occasionally with Type 054A frigates for larger operations",
+    "readiness_notes": "High operational tempo has led to accelerated wear on some early hulls. Maintenance challenges due to rapid expansion of fleet size"
+  },
+  "peer_comparisons": [
+    {
+      "platform": "Kamorta-class",
+      "country": "India",
+      "relationship": "direct rival",
+      "key_differences": "Indian Kamorta-class focuses heavily on ASW with advanced sonar suite but carries fewer anti-ship missiles. Type 056 prioritizes balanced capabilities and lower cost through simplified systems.",
+      "video_angle": "Different philosophies: Indian ASW specialization vs Chinese multi-role approach in littoral warfare"
+    },
+    {
+      "platform": "Braunschweig-class",
+      "country": "Germany",
+      "relationship": "allied equivalent",
+      "key_differences": "German K130 emphasizes stealth and high-end sensors with RBS-15 missiles, but much smaller fleet size. Type 056 trades individual capability for mass production and persistent presence.",
+      "video_angle": "Quality vs quantity: Western precision engineering versus Chinese mass production strategy"
+    },
+    {
+      "platform": "Visby-class",
+      "country": "Sweden",
+      "relationship": "predecessor influence",
+      "key_differences": "Swedish Visby pioneered stealth corvette design but remains expensive and complex. Type 056 adopts conventional design for rapid, affordable construction while sacrificing stealth.",
+      "video_angle": "Evolution of corvette design: from cutting-edge stealth to mass-produced conventional platforms"
+    },
+    {
+      "platform": "Buyan-M class",
+      "country": "Russia",
+      "relationship": "direct rival",
+      "key_differences": "Russian Buyan-M carries Kalibr cruise missiles for land attack but has limited seaworthiness. Type 056 prioritizes blue-water capability and balanced armament over pure firepower.",
+      "video_angle": "Small ship, big punch: comparing missile corvette philosophies between China and Russia"
+    }
+  ],
+  "search_keywords": [
+    "type 056",
+    "type 056a",
+    "jiangdao class",
+    "jiangdao corvette",
+    "plan corvette",
+    "chinese corvette",
+    "056 corvette",
+    "hq-10",
+    "yj-83"
+  ],
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/596_Huizhou.jpg/1280px-596_Huizhou.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/596_Huizhou.jpg",
+      "width": 2446,
+      "height": 1631,
+      "title": "596 Huizhou.jpg",
+      "description": "Type 056 corvette Huizhou (596) entering Lamma Channel during Liaoning visit",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Type_056_corvette_583_Ganzhou.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Type_056_corvette_583_Ganzhou.jpg",
+      "width": 963,
+      "height": 722,
+      "title": "Type 056 corvette 583 Ganzhou.jpg",
+      "description": "Type 056 corvette 583 Ganzhou",
+      "license": "CC BY-SA 3.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Type_056_corvette_FL-3000N_8-round_SAM_launcher.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Type_056_corvette_FL-3000N_8-round_SAM_launcher.jpg",
+      "width": 969,
+      "height": 600,
+      "title": "Type 056 corvette FL-3000N 8-round SAM launcher.jpg",
+      "description": "Type 056 corvette",
+      "license": "CC BY-SA 3.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Type_056_corvette_anti-ship_missiles.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Type_056_corvette_anti-ship_missiles.jpg",
+      "width": 1024,
+      "height": 650,
+      "title": "Type 056 corvette anti-ship missiles.jpg",
+      "description": "Type 056 corvette",
+      "license": "CC BY-SA 3.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Type_056_corvette_in_ShangHai.jpg/1280px-Type_056_corvette_in_ShangHai.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/43/Type_056_corvette_in_ShangHai.jpg",
+      "width": 2000,
+      "height": 1500,
+      "title": "Type 056 corvette in ShangHai.jpg",
+      "description": "Type 056 corvette",
+      "license": "CC BY-SA 3.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Type_056_corvette_in_ShangHai_%28cropped%29.jpg/1280px-Type_056_corvette_in_ShangHai_%28cropped%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Type_056_corvette_in_ShangHai_%28cropped%29.jpg",
+      "width": 1622,
+      "height": 339,
+      "title": "Type 056 corvette in ShangHai (cropped).jpg",
+      "description": "Type 056 corvette",
+      "license": "CC BY-SA 3.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Type_056_corvette_%EF%BC%9F.jpg/1280px-Type_056_corvette_%EF%BC%9F.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/21/Type_056_corvette_%EF%BC%9F.jpg",
+      "width": 1700,
+      "height": 550,
+      "title": "Type 056 corvette \uff1f.jpg",
+      "description": "Type 056 corvette",
+      "license": "CC BY-SA 3.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Type_360_Radar.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Type_360_Radar.jpg",
+      "width": 1024,
+      "height": 650,
+      "title": "Type 360 Radar.jpg",
+      "description": "<a href=\"https://en.wikipedia.org/wiki/Type_364_Radar\" class=\"extiw\" title=\"en:Type 364 Radar\">Type 364 air/surface-search Radar</a> and TR47 fire-control radar on board one of the <a href=\"https://en",
+      "license": "CC BY-SA 3.0",
+      "source": "wikimedia"
+    }
+  ]
+}

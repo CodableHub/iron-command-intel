@@ -156,6 +156,18 @@
   "updated_at": "2026-04-10T16:39:47.101255",
   "news": [
     {
+      "id": 310,
+      "platform_id": 2,
+      "article_hash": "522564c456270dd3",
+      "title": "Mystery Launcher Appears On U.S. Navy Destroyer",
+      "url": "https://www.twz.com/news-features/mystery-launcher-appears-on-u-s-navy-destroyer",
+      "source": "The War Zone",
+      "published_at": "2026-04-10T19:51:26",
+      "relevance_score": 0.4,
+      "snippet": "The Arleigh Burke class destroyer USS Carl M. Levin has received an interesting new addition to its aft upper deck.\nThe post Mystery Launcher Appears On U.S. Navy Destroyer appeared first on The War Zone.",
+      "created_at": "2026-04-11 00:05:01"
+    },
+    {
       "id": 1,
       "platform_id": 2,
       "article_hash": "c3c93d9ee46d14ce",

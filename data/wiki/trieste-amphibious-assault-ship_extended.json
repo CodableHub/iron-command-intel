@@ -1,0 +1,126 @@
+{
+  "combat_history": [
+    {
+      "date": "2023-10",
+      "operation": "NATO Exercise Neptune Strike",
+      "event": "First operational deployment conducting F-35B flight operations in the Mediterranean, demonstrating interoperability with US and UK carrier strike groups",
+      "significance": "Validated Italy's entry into the exclusive club of nations capable of fixed-wing carrier aviation operations"
+    },
+    {
+      "date": "2023",
+      "operation": "Mediterranean patrol operations",
+      "event": "Conducted multiple migrant rescue operations and maritime security patrols in central Mediterranean",
+      "significance": "Demonstrated multi-role utility beyond pure military operations, validating design philosophy for diverse contingencies"
+    }
+  ],
+  "modernization": [
+    {
+      "program": "F-35B Integration Phase 2",
+      "status": "in-progress",
+      "timeline": "2024-2026",
+      "description": "Full integration of F-35B operations including advanced maintenance capabilities, weapons handling systems, and mission planning facilities",
+      "impact": "Transforms Trieste from helicopter carrier to true multi-role amphibious assault ship with fixed-wing aviation"
+    },
+    {
+      "program": "Enhanced C4ISR Suite",
+      "status": "planned",
+      "timeline": "2025-2027",
+      "description": "Upgrade to next-generation command and control systems for enhanced coalition interoperability and network-centric operations",
+      "impact": "Positions Trieste as preferred coalition flagship for Mediterranean operations"
+    }
+  ],
+  "vulnerabilities": [
+    {
+      "area": "Air Defense Limitations",
+      "description": "Only 16 VLS cells provide limited magazine depth compared to dedicated air defense vessels, vulnerable to sustained air attack",
+      "context": "In contested environments against peer adversaries, would require significant escort protection",
+      "mitigation": "Designed to operate within broader task group with dedicated air defense assets"
+    },
+    {
+      "area": "Single Ship Class Risk",
+      "description": "Only one ship means no redundancy - damage or maintenance removes entire capability from Italian fleet",
+      "context": "Italy lacks backup amphibious assault capability if Trieste is unavailable",
+      "mitigation": "High reliability systems and extensive maintenance support, but fundamental vulnerability remains"
+    },
+    {
+      "area": "Limited Anti-Submarine Warfare",
+      "description": "Minimal dedicated ASW systems beyond basic sonar suite, vulnerable to submarine attack",
+      "context": "Russian submarine activity in Mediterranean makes ASW protection critical",
+      "mitigation": "Relies on escort vessels and embarked helicopters for ASW protection"
+    }
+  ],
+  "operational_patterns": {
+    "typical_deployment": "Mediterranean flagship for coalition operations, disaster relief, and power projection missions",
+    "deployment_length_months": 4,
+    "key_operating_areas": [
+      "Mediterranean Sea",
+      "Red Sea",
+      "West Africa",
+      "Indian Ocean"
+    ],
+    "typical_task_group": "Operates with FREMM frigates, logistics ships, and allied vessels in coalition task groups",
+    "readiness_notes": "High operational tempo for new platform, still developing optimal maintenance cycles"
+  },
+  "peer_comparisons": [
+    {
+      "platform": "America-class LHA",
+      "country": "United States",
+      "relationship": "larger peer/model",
+      "key_differences": "America-class are larger (45,000 tons vs 33,000) with more aircraft capacity but less flexible mission profile. Trieste emphasizes multi-role over pure amphibious assault.",
+      "video_angle": "David vs Goliath - how smaller European powers maximize capability with multi-role designs"
+    },
+    {
+      "platform": "Queen Elizabeth-class",
+      "country": "United Kingdom",
+      "relationship": "capability peer",
+      "key_differences": "QE-class are pure aircraft carriers (65,000 tons) while Trieste combines amphibious and aviation roles in smaller package. Different strategic approaches to maritime power.",
+      "video_angle": "Specialization vs Multi-Role - comparing European carrier aviation philosophies"
+    },
+    {
+      "platform": "Mistral-class LHD",
+      "country": "France",
+      "relationship": "predecessor/smaller peer",
+      "key_differences": "Mistral-class smaller (21,000 tons) helicopter-only platforms. Trieste represents evolution toward fixed-wing capability and enhanced command functions.",
+      "video_angle": "European amphibious evolution - from helicopter carriers to F-35B platforms"
+    },
+    {
+      "platform": "Izumo-class DDH",
+      "country": "Japan",
+      "relationship": "conversion peer",
+      "key_differences": "Izumo-class being modified for F-35B like Trieste, but Trieste designed from start for multi-role while Izumo adapted from helicopter destroyer.",
+      "video_angle": "F-35B club - comparing purpose-built vs converted light carriers"
+    },
+    {
+      "platform": "Juan Carlos I LHD",
+      "country": "Spain",
+      "relationship": "design predecessor",
+      "key_differences": "Juan Carlos I similar multi-role concept but Trieste larger with enhanced systems. Trieste represents next-generation of the Spanish design philosophy.",
+      "video_angle": "Mediterranean rivals - Spain vs Italy amphibious capabilities"
+    }
+  ],
+  "search_keywords": [
+    "trieste",
+    "italian navy",
+    "marina militare",
+    "L 9890",
+    "LHD",
+    "amphibious assault",
+    "F-35B",
+    "fincantieri",
+    "landing helicopter dock",
+    "mediterranean",
+    "NATO"
+  ],
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Italian_tank_landing_ship_Grado_%28L9890%29_off_Sardinia_in_May_1978.jpg/1280px-Italian_tank_landing_ship_Grado_%28L9890%29_off_Sardinia_in_May_1978.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/43/Italian_tank_landing_ship_Grado_%28L9890%29_off_Sardinia_in_May_1978.jpg",
+      "width": 4630,
+      "height": 3471,
+      "title": "Italian tank landing ship Grado (L9890) off Sardinia in May 1978.jpg",
+      "description": "The Italian tank landing ship <i>Grado</i> (L9890) participates in a landing of NATO Operation \"Dawn Patrol 78\", off Sardinia, in May 1978. She was formerly USS <i>Desoto County</i> (LST-1171).",
+      "license": "Public domain",
+      "source": "wikimedia"
+    }
+  ]
+}

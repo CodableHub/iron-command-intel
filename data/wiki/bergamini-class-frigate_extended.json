@@ -1,0 +1,300 @@
+{
+  "combat_history": [
+    {
+      "date": "2016",
+      "operation": "Mare Sicuro",
+      "event": "Multiple Bergamini-class frigates conducted migrant rescue operations and counter-smuggling missions in Central Mediterranean, with F 592 Carlo Margottini intercepting several smuggling vessels",
+      "significance": "Demonstrated platform's effectiveness in constabulary operations and humanitarian missions"
+    },
+    {
+      "date": "2018-2019",
+      "operation": "UNIFIL Maritime",
+      "event": "F 594 Alpino served as flagship for UN peacekeeping naval force off Lebanon, conducting maritime security and interdiction operations",
+      "significance": "Validated command and control capabilities and endurance for extended deployments"
+    },
+    {
+      "date": "2020",
+      "operation": "COVID-19 Repatriation",
+      "event": "F 595 Luigi Rizzo evacuated Italian nationals from crisis zones during pandemic, demonstrating helicopter and medical facilities",
+      "significance": "Showcased platform's flexibility for non-combat humanitarian missions"
+    },
+    {
+      "date": "2022-2023",
+      "operation": "Enhanced Forward Presence",
+      "event": "F 596 Federico Martinengo deployed to Black Sea region for NATO deterrence missions following Russian invasion of Ukraine",
+      "significance": "First operational deployment in high-threat environment, testing radar and defensive systems"
+    }
+  ],
+  "modernization": [
+    {
+      "program": "Mid-Life Upgrade (MLU)",
+      "status": "planned",
+      "timeline": "2025-2030",
+      "description": "Planned upgrade including enhanced cyber warfare capabilities, improved electronic warfare systems, and integration of new CAMM-ER missiles to supplement Aster systems",
+      "impact": "Will extend service life to 2040s and improve survivability against peer threats"
+    },
+    {
+      "program": "Teseo Mk2/E Integration",
+      "status": "in-progress",
+      "timeline": "2023-2025",
+      "description": "Upgrading anti-ship missile capability with extended-range Teseo variant featuring improved guidance and electronic countermeasures",
+      "impact": "Significantly improves standoff engagement capability against surface threats"
+    },
+    {
+      "program": "Vulcano Guided Round Integration",
+      "status": "completed",
+      "timeline": "2020-2022",
+      "description": "Integration of precision-guided 127mm ammunition for improved shore bombardment and anti-surface capabilities",
+      "impact": "Transforms main gun into precision strike weapon with 35km+ range"
+    }
+  ],
+  "vulnerabilities": [
+    {
+      "area": "Electronic Warfare Vulnerability",
+      "description": "MFRA radar system susceptible to advanced jamming and spoofing techniques, with limited backup sensors",
+      "context": "Against Russian or Chinese EW capabilities, could face severe degradation of situational awareness",
+      "mitigation": "MLU program includes EW hardening and additional passive sensors"
+    },
+    {
+      "area": "Limited VLS Capacity",
+      "description": "32 VLS cells insufficient for sustained high-intensity combat, especially when loaded with mixed SAM/LACM payload",
+      "context": "In contested environment, would exhaust missile inventory quickly compared to larger destroyers",
+      "mitigation": "Operating doctrine emphasizes early engagement and rapid withdrawal for reload"
+    },
+    {
+      "area": "ASW Capability Gap",
+      "description": "Only 2 of 10 vessels have enhanced ASW configuration, limiting fleet-wide submarine threat response",
+      "context": "Russian submarine activity in Mediterranean requires more platforms with advanced sonar suites",
+      "mitigation": "Retrofit program being considered for additional ASW conversions"
+    },
+    {
+      "area": "Crew Training Burden",
+      "description": "Complex systems require extensive training, with maintenance skills concentrated in small specialist teams",
+      "context": "Wartime casualties to key personnel could severely degrade operational capability",
+      "mitigation": "Cross-training programs and automation improvements in development"
+    }
+  ],
+  "operational_patterns": {
+    "typical_deployment": "Mediterranean patrol, NATO task group escort, or solo constabulary missions",
+    "deployment_length_months": 4,
+    "key_operating_areas": [
+      "Central Mediterranean",
+      "Adriatic Sea",
+      "Eastern Mediterranean",
+      "Gulf of Guinea"
+    ],
+    "typical_task_group": "Often operates independently or with allied FREMM variants in small task groups",
+    "readiness_notes": "High operational tempo in Mediterranean has stressed maintenance schedules; 70% availability typical"
+  },
+  "peer_comparisons": [
+    {
+      "platform": "Aquitaine-class FREMM",
+      "country": "France",
+      "relationship": "allied equivalent",
+      "key_differences": "French variant emphasizes land-attack with SCALP missiles and different radar suite. Italian version prioritizes air defense with Aster missiles and enhanced ASW in select hulls.",
+      "video_angle": "Same hull, different missions - how national requirements shaped two variants of the FREMM design"
+    },
+    {
+      "platform": "Baden-W\u00fcrttemberg-class (F125)",
+      "country": "Germany",
+      "relationship": "peer competitor",
+      "key_differences": "German frigate larger but optimized for stabilization operations with minimal anti-air capability. Bergamini trades crew comfort for balanced warfare capabilities and costs 40% less per unit.",
+      "video_angle": "European frigate philosophies: German peacekeeping specialist vs Italian multi-mission workhorse"
+    },
+    {
+      "platform": "Type 26 Global Combat Ship",
+      "country": "United Kingdom",
+      "relationship": "direct rival",
+      "key_differences": "Type 26 emphasizes ASW with superior sonar integration but costs nearly double. Bergamini offers 80% of capability at 60% of cost, making it more attractive for export.",
+      "video_angle": "Quality vs quantity: British ASW specialist against Italian balanced design"
+    },
+    {
+      "platform": "Admiral Gorshkov-class",
+      "country": "Russia",
+      "relationship": "direct rival",
+      "key_differences": "Russian frigate heavily armed with long-range Kalibr missiles but less sophisticated sensors. Bergamini superior in air defense and ASW but lacks land-attack capability.",
+      "video_angle": "Mediterranean rivals: NATO's defensive specialist vs Russia's strike platform"
+    },
+    {
+      "platform": "Type 054A",
+      "country": "China",
+      "relationship": "export competitor",
+      "key_differences": "Chinese frigate costs less and offers good anti-air capability but inferior ASW systems and build quality. Bergamini targets higher-end export market with European technology standards.",
+      "video_angle": "Export frigate battle: European quality vs Chinese cost-effectiveness"
+    }
+  ],
+  "search_keywords": [
+    "bergamini class",
+    "FREMM frigate",
+    "italian navy frigate",
+    "carlo bergamini",
+    "virginio fasan",
+    "carlo margottini",
+    "aster missile frigate",
+    "european frigate",
+    "F590",
+    "F 590"
+  ],
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/U_S_Navy_Sailors_visit_the_Fremm_Normandie_%28D651%29_%289195388%29.jpg/1280px-U_S_Navy_Sailors_visit_the_Fremm_Normandie_%28D651%29_%289195388%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/6b/U_S_Navy_Sailors_visit_the_Fremm_Normandie_%28D651%29_%289195388%29.jpg",
+      "width": 5139,
+      "height": 3426,
+      "title": "U S Navy Sailors visit the Fremm Normandie (D651) (9195388).jpg",
+      "description": "REYKJAV\u00cdK, Iceland (July 4, 2025) - Cmdr. Eric Bowen, commanding officer, Patrol Squadron (VP) 46, salutes the colors while on the brow of the Fremm Normandie (D651), an Aquitaine-class frigate, durin",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/U_S_Navy_Sailors_visit_the_Fremm_Normandie_%28D651%29_%289195395%29.jpg/1280px-U_S_Navy_Sailors_visit_the_Fremm_Normandie_%28D651%29_%289195395%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/6a/U_S_Navy_Sailors_visit_the_Fremm_Normandie_%28D651%29_%289195395%29.jpg",
+      "width": 4704,
+      "height": 3136,
+      "title": "U S Navy Sailors visit the Fremm Normandie (D651) (9195395).jpg",
+      "description": "REYKJAV\u00cdK, Iceland (July 4, 2025) - French Marine Nationale sailors assigned to the Fremm Normandie (D651), an Aquitaine-class frigate, greet U.S. Navy Sailors assigned to the \u2018Grey Knights\u2019 of Patrol",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/U_S_Navy_Sailors_visit_the_Fremm_Normandie_%28D651%29_%289195410%29.jpg/1280px-U_S_Navy_Sailors_visit_the_Fremm_Normandie_%28D651%29_%289195410%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/U_S_Navy_Sailors_visit_the_Fremm_Normandie_%28D651%29_%289195410%29.jpg",
+      "width": 4516,
+      "height": 3011,
+      "title": "U S Navy Sailors visit the Fremm Normandie (D651) (9195410).jpg",
+      "description": "REYKJAV\u00cdK, Iceland (July 4, 2025) - French Marine Nationale sailors assigned to the Fremm Normandie (D651), an Aquitaine-class frigate, answer questions about ship capabilities to U.S. Navy Sailors as",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/U_S_Navy_Sailors_visit_the_Fremm_Normandie_%28D651%29_%289195417%29.jpg/1280px-U_S_Navy_Sailors_visit_the_Fremm_Normandie_%28D651%29_%289195417%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/40/U_S_Navy_Sailors_visit_the_Fremm_Normandie_%28D651%29_%289195417%29.jpg",
+      "width": 4766,
+      "height": 3177,
+      "title": "U S Navy Sailors visit the Fremm Normandie (D651) (9195417).jpg",
+      "description": "REYKJAV\u00cdK, Iceland (July 4, 2025) - Naval Aircrewman Operator 1st Class Jordan Smith, assigned to the \u2018Grey Knights\u2019 of Patrol Squadron (VP) 46, right, peers through the bearing repeater compass as Na",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/U_S_Navy_Sailors_visit_the_Fremm_Normandie_%28D651%29_%289195418%29.jpg/1280px-U_S_Navy_Sailors_visit_the_Fremm_Normandie_%28D651%29_%289195418%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/87/U_S_Navy_Sailors_visit_the_Fremm_Normandie_%28D651%29_%289195418%29.jpg",
+      "width": 5184,
+      "height": 3456,
+      "title": "U S Navy Sailors visit the Fremm Normandie (D651) (9195418).jpg",
+      "description": "REYKJAV\u00cdK, Iceland (July 4, 2025) - French Marine Nationale Lt. Cmdr. Alain-Marie Tertrais, assigned to the Fremm Normandie (D651), an Aquitaine-class frigate, explains NH-60 Caiman helicopter capabil",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/U_S_Navy_Sailors_visit_the_Fremm_Normandie_%28D651%29_%289195419%29.jpg/1280px-U_S_Navy_Sailors_visit_the_Fremm_Normandie_%28D651%29_%289195419%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/21/U_S_Navy_Sailors_visit_the_Fremm_Normandie_%28D651%29_%289195419%29.jpg",
+      "width": 5184,
+      "height": 3456,
+      "title": "U S Navy Sailors visit the Fremm Normandie (D651) (9195419).jpg",
+      "description": "REYKJAV\u00cdK, Iceland (July 4, 2025) - A French NH-60 Caiman helicopter, attached to the Fremm Normandie (D651), an Aquitaine-class frigate, in the hangar during a ship tour in Reykjav\u00edk, Iceland, July 4",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/U_S_Navy_Sailors_visit_the_Fremm_Normandie_%28D651%29_%289195420%29.jpg/1280px-U_S_Navy_Sailors_visit_the_Fremm_Normandie_%28D651%29_%289195420%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/c1/U_S_Navy_Sailors_visit_the_Fremm_Normandie_%28D651%29_%289195420%29.jpg",
+      "width": 4832,
+      "height": 3221,
+      "title": "U S Navy Sailors visit the Fremm Normandie (D651) (9195420).jpg",
+      "description": "REYKJAV\u00cdK, Iceland (July 4, 2025) - U.S. Navy Sailors assigned to the \u2018Grey Knights\u2019 of Patrol Squadron (VP) 46 look at a French NH-60 Caiman helicopter, attached to the Fremm Normandie (D651), an Aqu",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/U_S_Navy_Sailors_visit_the_Fremm_Normandie_%28D651%29_%289195433%29.jpg/1280px-U_S_Navy_Sailors_visit_the_Fremm_Normandie_%28D651%29_%289195433%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/e5/U_S_Navy_Sailors_visit_the_Fremm_Normandie_%28D651%29_%289195433%29.jpg",
+      "width": 5028,
+      "height": 3351,
+      "title": "U S Navy Sailors visit the Fremm Normandie (D651) (9195433).jpg",
+      "description": "REYKJAV\u00cdK, Iceland (July 4, 2025) - French Marine Nationale Lt. Cmdr. Alain-Marie Tertrais, assigned to the Fremm Normandie (D651), an Aquitaine-class frigate, center left, and U.S. Navy sailors assig",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/231103-N-EH898-1005_USS_Normandy_and_USS_Mount_Whitney.jpg/1280px-231103-N-EH898-1005_USS_Normandy_and_USS_Mount_Whitney.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/50/231103-N-EH898-1005_USS_Normandy_and_USS_Mount_Whitney.jpg",
+      "width": 5093,
+      "height": 3395,
+      "title": "231103-N-EH898-1005 USS Normandy and USS Mount Whitney.jpg",
+      "description": "Ships from the Gerald R. Ford and Dwight D. Eisenhower Carrier Strike Groups (CSG), U.S. Sixth Fleet command ship USS Mount Whitney (LCC 20), and Italian Navy frigates Carlo Margottini (F 592) and Vir",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/FREMM_Taranto.jpg/1280px-FREMM_Taranto.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/ae/FREMM_Taranto.jpg",
+      "width": 3258,
+      "height": 2101,
+      "title": "FREMM Taranto.jpg",
+      "description": "Fregata di classe Carlo Bergamini (FREMM) versione ASW nel Mar Piccolo a Taranto.",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Italian_frigate_Alpino_%28F594%29_underway_in_the_Ionian_Sea%2C_9_May_2023_%28230509-N-NU642-0004%29.jpg/1280px-Italian_frigate_Alpino_%28F594%29_underway_in_the_Ionian_Sea%2C_9_May_2023_%28230509-N-NU642-0004%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/24/Italian_frigate_Alpino_%28F594%29_underway_in_the_Ionian_Sea%2C_9_May_2023_%28230509-N-NU642-0004%29.jpg",
+      "width": 2392,
+      "height": 1593,
+      "title": "Italian frigate Alpino (F594) underway in the Ionian Sea, 9 May 2023 (230509-N-NU642-0004).jpg",
+      "description": "The Italian <i>Carlo Bergamini</i>-class frigate <i>Alpino</i> (F 594) conducted cross-deck boat operations with the U.S. Navy <i>Arleigh Burke</i>-class guided missile destroyer USS <i>James E. Willi",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Italian_frigate_Luigi_Rizzo_%28F596%29_c1962.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Italian_frigate_Luigi_Rizzo_%28F596%29_c1962.jpg",
+      "width": 945,
+      "height": 394,
+      "title": "Italian frigate Luigi Rizzo (F596) c1962.jpg",
+      "description": "The Italian <i>Bergamini</i>-class frigate <i>Luigi Rizzo</i> (F596) underway, circa 1962. <i>Ontano</i> was <i>Adjutant</i>-class motor minesweeper built at Henry C. Grebe and Co., Inc., Chicago, Ill",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Marina_Militare_Taranto.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Marina_Militare_Taranto.jpg",
+      "width": 1200,
+      "height": 1200,
+      "title": "Marina Militare Taranto.jpg",
+      "description": "Quattro navi militari italiane sul mar grande di Taranto, viste dal lungomare. Da sinistra a destra sono: un cacciatorpediniere Francesco Mimbelli (D 561), la portaerei Cavour e due fregate classe FRE",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Nave_Alpino%2CPorto_di_Livorno%2C2023%2C01.jpg/1280px-Nave_Alpino%2CPorto_di_Livorno%2C2023%2C01.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/94/Nave_Alpino%2CPorto_di_Livorno%2C2023%2C01.jpg",
+      "width": 3199,
+      "height": 4886,
+      "title": "Nave Alpino,Porto di Livorno,2023,01.jpg",
+      "description": "Vista da prua della nave militare Alpino (F594) ormeggiata al Molo Italia del Porto industriale di Livorno",
+      "license": "CC BY 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Nave_Alpino%2CPorto_di_Livorno%2C2023%2C02.jpg/1280px-Nave_Alpino%2CPorto_di_Livorno%2C2023%2C02.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/86/Nave_Alpino%2CPorto_di_Livorno%2C2023%2C02.jpg",
+      "width": 4927,
+      "height": 3263,
+      "title": "Nave Alpino,Porto di Livorno,2023,02.jpg",
+      "description": "Vista laterale della nave militare Alpino (F594) ormeggiata al Molo Italia del Porto industriale di Livorno",
+      "license": "CC BY 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Nave_Bergamini.jpg/1280px-Nave_Bergamini.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Nave_Bergamini.jpg",
+      "width": 4256,
+      "height": 2832,
+      "title": "Nave Bergamini.jpg",
+      "description": "Prima uscita in mare di Nave Bergamini",
+      "license": "Public domain",
+      "source": "wikimedia"
+    }
+  ]
+}

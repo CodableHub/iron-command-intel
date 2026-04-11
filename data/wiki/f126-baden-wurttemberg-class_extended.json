@@ -1,0 +1,155 @@
+{
+  "combat_history": [
+    {
+      "date": "2028",
+      "operation": null,
+      "event": "No combat history - class not yet commissioned",
+      "significance": "Future operational history will establish German naval capabilities in contested environments"
+    }
+  ],
+  "modernization": [
+    {
+      "program": "F126 Production and Integration",
+      "status": "in-progress",
+      "timeline": "2023-2032",
+      "description": "Initial construction and systems integration at German and Dutch shipyards, with final integration in Germany",
+      "impact": "Delivery of Germany's most capable surface combatants, replacing 1980s-era Bremen-class frigates"
+    },
+    {
+      "program": "Future Combat Air System (FCAS) Naval Integration",
+      "status": "planned",
+      "timeline": "2035-2040",
+      "description": "Potential integration of next-generation European air defense systems and cooperative engagement capabilities",
+      "impact": "Would provide enhanced air warfare capabilities and interoperability with future European systems"
+    }
+  ],
+  "vulnerabilities": [
+    {
+      "area": "Limited VLS capacity",
+      "description": "Only 32 VLS cells compared to 48-64 cells on peer frigates, limiting sustained air defense capability",
+      "context": "In high-intensity conflict, magazine depth becomes critical for survivability and mission success",
+      "mitigation": "Emphasis on defensive systems and rapid reload capabilities, but fundamental limitation remains"
+    },
+    {
+      "area": "Program delays and cost overruns",
+      "description": "Significant delays in construction timeline and cost increases from original \u20ac4.3 billion to over \u20ac8 billion program cost",
+      "context": "Reflects broader European defense procurement challenges and may impact future naval programs",
+      "mitigation": "Restructured management and oversight, but delivery timeline remains optimistic"
+    },
+    {
+      "area": "Limited land-attack capability",
+      "description": "No dedicated cruise missile capability, reducing power projection options compared to peers",
+      "context": "Modern naval operations increasingly require precision strike capabilities for deterrence and warfighting",
+      "mitigation": "Potential for future integration of land-attack missiles, but not baseline capability"
+    },
+    {
+      "area": "Reduced crew manning risks",
+      "description": "Aggressive automation may create vulnerability in damage control and sustained operations",
+      "context": "Combat operations require redundancy and human judgment that automation cannot fully replace",
+      "mitigation": "Extensive training and simulation programs, but operational validation remains untested"
+    }
+  ],
+  "operational_patterns": {
+    "typical_deployment": "NATO standing naval forces, Baltic Sea patrol, and extended Indo-Pacific deployments",
+    "deployment_length_months": 6,
+    "key_operating_areas": [
+      "Baltic Sea",
+      "North Sea",
+      "Mediterranean",
+      "Indo-Pacific"
+    ],
+    "typical_task_group": "Operates independently or with allied frigates/destroyers in multinational task forces",
+    "readiness_notes": "New class with unproven reliability; crew training pipeline still developing"
+  },
+  "peer_comparisons": [
+    {
+      "platform": "Type 26 City-class frigate",
+      "country": "United Kingdom",
+      "relationship": "direct rival",
+      "key_differences": "Type 26 emphasizes ASW with quieter design and 48 VLS cells vs F126's 32 cells but better automation and crew efficiency. Type 26 has proven British naval architecture vs F126's European consortium approach.",
+      "video_angle": "European frigate philosophy comparison - British ASW specialist vs German multi-mission efficiency"
+    },
+    {
+      "platform": "FREMM Bergamini-class",
+      "country": "France/Italy",
+      "relationship": "allied equivalent",
+      "key_differences": "FREMM offers proven operational record and land-attack capability with SCALP Naval, but F126 provides better automation and future systems integration. Similar displacement but different mission priorities.",
+      "video_angle": "European naval cooperation vs competition - proven FREMM design vs next-generation F126 capabilities"
+    },
+    {
+      "platform": "Constellation-class frigate (FFG-62)",
+      "country": "United States",
+      "relationship": "allied equivalent",
+      "key_differences": "Both based on European designs but Constellation emphasizes cost control and rapid delivery vs F126's advanced automation. Constellation has 32 VLS cells matching F126 but different radar and combat systems.",
+      "video_angle": "Transatlantic frigate approaches - American pragmatism vs German engineering in modern naval design"
+    },
+    {
+      "platform": "Admiral Gorshkov-class frigate",
+      "country": "Russia",
+      "relationship": "potential adversary",
+      "key_differences": "Gorshkov carries more anti-ship missiles and land-attack capability with Kalibr, but F126 likely superior in ASW and air defense. Russian design emphasizes firepower over sustainability.",
+      "video_angle": "Baltic Sea rivals - German defensive capability vs Russian offensive missile doctrine"
+    },
+    {
+      "platform": "Type 054A frigate",
+      "country": "China",
+      "relationship": "potential adversary",
+      "key_differences": "Type 054A built in large numbers with 32 VLS cells similar to F126, but Chinese design prioritizes cost-effectiveness vs German emphasis on crew efficiency and advanced systems integration.",
+      "video_angle": "Quality vs quantity in modern naval power - German high-tech approach vs Chinese mass production strategy"
+    }
+  ],
+  "search_keywords": [
+    "F126",
+    "F-126",
+    "Baden-W\u00fcrttemberg class",
+    "Baden-Wurttemberg",
+    "German frigate",
+    "Deutsche Marine",
+    "MKS 180",
+    "TRS-4D",
+    "Damen Naval",
+    "Blohm Voss"
+  ],
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/2013_10_17_MKS_180_Beispiel_IMG_1681_P_b_P_D.JPG/1280px-2013_10_17_MKS_180_Beispiel_IMG_1681_P_b_P_D.JPG",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/6e/2013_10_17_MKS_180_Beispiel_IMG_1681_P_b_P_D.JPG",
+      "width": 3559,
+      "height": 1003,
+      "title": "2013 10 17 MKS 180 Beispiel IMG 1681 P b P D.JPG",
+      "description": "Beispielsentwurf vom MKS 180",
+      "license": "CC BY 3.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/HMS_Plymouth_underway.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/HMS_Plymouth_underway.jpg",
+      "width": 283,
+      "height": 327,
+      "title": "HMS Plymouth underway.jpg",
+      "description": "The Type 12 Frigate HMS PLYMOUTH, photographed shortly before the Falklands Conflict. On 8 June 1982, PLYMOUTH was hit by four Argentine bombs, none of which exploded.",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/HeadingSouth.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/HeadingSouth.jpg",
+      "width": 700,
+      "height": 525,
+      "title": "HeadingSouth.jpg",
+      "description": "Two type 22 Frigates (HMS Brilliant, HMS Broadsword), two type 42 Destroyers (HMS Sheffield, HMS Coventry) and a type 12 frigate (HMS Plymouth) off Gibraltar March 1982. Most of which formed the Advan",
+      "license": "CC BY 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d3/RFA_Tarbatness_%28A345%29_underway_with_HMS_Berwick_%28F115%29_and_HMS_Plymouth_%28F125%29_in_1976.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/d3/RFA_Tarbatness_%28A345%29_underway_with_HMS_Berwick_%28F115%29_and_HMS_Plymouth_%28F125%29_in_1976.jpg",
+      "width": 1141,
+      "height": 694,
+      "title": "RFA Tarbatness (A345) underway with HMS Berwick (F115) and HMS Plymouth (F125) in 1976.jpg",
+      "description": "The Royal Navy fleet stores ship RFA <i>Tarbatness</i> (A345) underway with the frigates HMS <i>Plymouth</i> (F126), left, and HMS <i>Berwick</i> (F115) off the coast of California (USA) during excerc",
+      "license": "Public domain",
+      "source": "wikimedia"
+    }
+  ]
+}

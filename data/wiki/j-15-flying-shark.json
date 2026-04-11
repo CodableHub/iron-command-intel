@@ -1,0 +1,367 @@
+{
+  "id": 94,
+  "slug": "j-15-flying-shark",
+  "name": "Shenyang J-15 Flying Shark",
+  "designation": "J-15",
+  "type": "fighter",
+  "country": "China",
+  "operator": "People's Liberation Army Navy",
+  "overview_md": "The Shenyang J-15 Flying Shark represents China's first indigenous carrier-based fighter aircraft, serving as the primary air wing component for the PLAN's growing carrier fleet. Based heavily on the Soviet-era Su-33 design acquired through incomplete prototypes, the J-15 incorporates Chinese avionics, weapons systems, and manufacturing techniques to create a multi-role fighter optimized for carrier operations from ski-jump configured flight decks.\n\nStrategically, the J-15 fills a critical capability gap for China's blue-water naval ambitions, providing air superiority and strike capabilities for carrier battle groups operating beyond land-based air cover. The aircraft serves aboard both the Liaoning and Shandong carriers, with future variants planned for the Type 003 Fujian's electromagnetic catapult system. Its development represents a significant milestone in China's transition from a coastal defense navy to a global maritime power.\n\nThe J-15's design philosophy prioritizes robust construction for carrier operations while maintaining competitive air-to-air and air-to-ground capabilities. However, the aircraft faces significant limitations due to its ski-jump launch constraints, which severely restrict takeoff weight and operational flexibility compared to catapult-launched contemporaries. In the current threat environment, the J-15 provides China with credible carrier aviation capabilities but remains inferior to advanced Western carrier fighters in terms of payload flexibility, sensor fusion, and stealth characteristics.\n\nCompared to its primary rivals, the J-15 falls behind the F/A-18E/F Super Hornet in payload capacity and mission flexibility, and significantly trails the F-35C in stealth and sensor capabilities. However, it represents a substantial improvement over earlier Chinese naval aviation capabilities and provides the PLAN with its first legitimate carrier-based air power projection capability, fundamentally altering the strategic balance in the Western Pacific.",
+  "specs_json": {
+    "displacement_tonnes": 0,
+    "length_m": 21.9,
+    "beam_m": 15.0,
+    "draft_m": 0,
+    "speed_knots": 0,
+    "range_nm": 1620,
+    "crew": 1,
+    "propulsion": "2x Shenyang WS-10H turbofan engines, 29,300 lbf thrust each",
+    "radar": "Type 1473 (KLJ-7) X-band pulse-Doppler radar",
+    "sonar": null,
+    "combat_system": "Integrated avionics suite with datalink capability",
+    "vls_cells": 0,
+    "additional": {
+      "max_speed_mach": 2.4,
+      "service_ceiling_ft": 59055,
+      "wing_area_sqm": 62.04,
+      "max_takeoff_weight_kg": 33000,
+      "g_limits": "+8.5/-3.0",
+      "hardpoints": 12,
+      "internal_fuel_kg": 9300
+    }
+  },
+  "armament_json": [
+    {
+      "category": "Air-to-Air Missiles",
+      "name": "PL-12 (SD-10)",
+      "type": "beyond visual range AAM",
+      "quantity": "up to 6",
+      "range_km": 100,
+      "notes": "Primary BVR missile, active radar homing"
+    },
+    {
+      "category": "Air-to-Air Missiles",
+      "name": "PL-8",
+      "type": "short-range infrared AAM",
+      "quantity": "up to 4",
+      "range_km": 22,
+      "notes": "Close-range dogfighting missile"
+    },
+    {
+      "category": "Air-to-Surface Missiles",
+      "name": "YJ-83K",
+      "type": "anti-ship cruise missile",
+      "quantity": "up to 4",
+      "range_km": 180,
+      "notes": "Primary anti-ship weapon"
+    },
+    {
+      "category": "Air-to-Surface Missiles",
+      "name": "YJ-91",
+      "type": "anti-radiation missile",
+      "quantity": "up to 4",
+      "range_km": 120,
+      "notes": "SEAD/DEAD missions"
+    },
+    {
+      "category": "Guns",
+      "name": "GSh-30-1",
+      "type": "30mm autocannon",
+      "quantity": "1x 30mm",
+      "range_km": 2,
+      "notes": "150 rounds, single-barrel cannon"
+    },
+    {
+      "category": "Bombs",
+      "name": "Unguided/Guided bombs",
+      "type": "general purpose bombs",
+      "quantity": "up to 6500kg",
+      "range_km": 0,
+      "notes": "Various conventional and precision-guided munitions"
+    }
+  ],
+  "variants_json": [
+    {
+      "name": "J-15 Initial Production",
+      "designation_range": "J-15 Block 1",
+      "years": "2013-2016",
+      "count": 24,
+      "key_changes": "Basic carrier-capable variant with ski-jump takeoff capability, Type 1473 radar, initial avionics suite",
+      "status": "active"
+    },
+    {
+      "name": "J-15A",
+      "designation_range": "J-15 Block 2",
+      "years": "2016-2020",
+      "count": 26,
+      "key_changes": "Improved avionics, enhanced datalink capabilities, upgraded radar processing, structural refinements",
+      "status": "active"
+    },
+    {
+      "name": "J-15T",
+      "designation_range": "J-15 Catapult Variant",
+      "years": "2022-present",
+      "count": 6,
+      "key_changes": "Reinforced airframe for catapult launches, modified landing gear, enhanced payload capacity for Type 003 carrier operations",
+      "status": "building"
+    },
+    {
+      "name": "J-15D",
+      "designation_range": "Electronic Warfare Variant",
+      "years": "2018-present",
+      "count": 4,
+      "key_changes": "Dedicated electronic warfare configuration, jamming pods, reduced weapon load for EW mission equipment",
+      "status": "active"
+    }
+  ],
+  "fleet_status_json": [
+    {
+      "hull_number": "N/A",
+      "name": "PLAN J-15 Fleet",
+      "variant": "Mixed",
+      "commissioned": "2013",
+      "home_port": "Liaoning/Shandong Air Wings",
+      "status": "active"
+    }
+  ],
+  "cost_usd": 70000000.0,
+  "unit_count": 50,
+  "first_commissioned": "2013",
+  "builder": "Shenyang Aircraft Corporation",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/63/Two_J-15Ts_and_a_J-15D_in_Zhuhai_airshow_2024.jpg",
+  "wiki_url": "https://en.wikipedia.org/wiki/Shenyang_J-15",
+  "sources_json": [
+    "https://en.wikipedia.org/wiki/Shenyang_J-15",
+    "https://www.globalsecurity.org/military/world/china/j-15.htm",
+    "https://www.naval-technology.com/projects/shenyang-j-15-flying-shark/",
+    "https://www.janes.com/defence-news"
+  ],
+  "comparison_tags": [
+    "carrier-fighter",
+    "multirole",
+    "twin-engine",
+    "china-navy",
+    "ski-jump",
+    "flanker-derivative"
+  ],
+  "created_at": "2026-04-11 10:15:05",
+  "updated_at": "2026-04-11T10:15:05.180046",
+  "news": [],
+  "events": [],
+  "ic_coverage": [],
+  "combat_history": [
+    {
+      "date": "2016-12",
+      "operation": "Liaoning Carrier Group Transit",
+      "event": "First operational deployment of J-15s during Liaoning's transit through Taiwan Strait and operations near Taiwan. Multiple J-15s conducted flight operations demonstrating China's carrier aviation capability.",
+      "significance": "Marked the operational debut of Chinese carrier aviation, signaling China's growing naval power projection capabilities in the first island chain"
+    },
+    {
+      "date": "2018-04",
+      "operation": "South China Sea Operations",
+      "event": "J-15s conducted sustained flight operations from Liaoning during major naval exercises in South China Sea, including simulated strike missions and air defense patrols.",
+      "significance": "Demonstrated China's ability to project air power from carriers in contested waters, directly challenging US naval dominance in the region"
+    },
+    {
+      "date": "2019-2020",
+      "operation": "Taiwan Strait Operations",
+      "event": "Regular J-15 operations from both Liaoning and Shandong during increased tensions with Taiwan, including flights that crossed the median line of Taiwan Strait.",
+      "significance": "First use of carrier-based aircraft in direct pressure campaigns against Taiwan, representing escalation in China's military coercion tactics"
+    }
+  ],
+  "modernization": [
+    {
+      "program": "J-15T Catapult Integration",
+      "status": "in-progress",
+      "timeline": "2022-2025",
+      "description": "Development of catapult-capable variant for Type 003 Fujian carrier with electromagnetic catapult system. Includes reinforced airframe, modified landing gear, and enhanced payload capacity.",
+      "impact": "Will significantly increase operational flexibility and payload capacity, bringing J-15 closer to Western carrier fighter capabilities"
+    },
+    {
+      "program": "Avionics Modernization Package",
+      "status": "in-progress",
+      "timeline": "2020-2024",
+      "description": "Upgrading existing J-15A fleet with improved radar processing, enhanced electronic warfare capabilities, and better datalink integration with PLAN combat systems.",
+      "impact": "Improves situational awareness and integration with carrier battle group operations"
+    },
+    {
+      "program": "Engine Upgrade Program",
+      "status": "planned",
+      "timeline": "2024-2028",
+      "description": "Potential retrofit of improved WS-10 variants or new engine types to increase thrust and reliability, addressing current power limitations.",
+      "impact": "Could partially address ski-jump takeoff weight limitations and improve overall performance"
+    }
+  ],
+  "vulnerabilities": [
+    {
+      "area": "Ski-jump Launch Limitations",
+      "description": "Current J-15s operating from Liaoning and Shandong are severely weight-limited due to ski-jump takeoffs, typically carrying only 60% of maximum payload with full fuel load.",
+      "context": "Fundamental limitation that prevents full utilization of aircraft capability, particularly problematic for long-range strike missions or heavy air-to-air loadouts.",
+      "mitigation": "J-15T variant being developed for catapult operations on Type 003 carrier, but existing fleet remains constrained"
+    },
+    {
+      "area": "Engine Reliability and Power",
+      "description": "WS-10H engines have historically shown lower reliability than Russian AL-31 equivalents, with power output insufficient for optimal carrier operations at maximum weight.",
+      "context": "Engine issues limit operational availability and contribute to takeoff weight restrictions, reducing overall combat effectiveness.",
+      "mitigation": "Ongoing engine development programs and potential future engine upgrades planned"
+    },
+    {
+      "area": "Limited Stealth Characteristics",
+      "description": "Large radar cross-section and lack of stealth features make J-15 highly vulnerable to modern surface-to-air missiles and advanced fighter aircraft.",
+      "context": "Against peer adversaries with advanced air defenses and stealth fighters, J-15 survivability is questionable in contested airspace.",
+      "mitigation": "Electronic warfare variants and standoff weapons being developed, but fundamental design limitations remain"
+    },
+    {
+      "area": "Pilot Training and Experience",
+      "description": "PLAN carrier aviation is still developing operational expertise, with limited pilot experience in complex carrier operations and combat scenarios.",
+      "context": "Carrier aviation requires extensive training and experience that takes decades to develop fully, giving established carrier operators significant advantages.",
+      "mitigation": "Intensive training programs underway, but experience gap will persist for years"
+    }
+  ],
+  "operational_patterns": {
+    "typical_deployment": "Integrated air wing component for PLAN carrier battle groups, primarily air superiority and fleet defense with secondary strike capability",
+    "deployment_length_months": 6,
+    "key_operating_areas": [
+      "South China Sea",
+      "East China Sea",
+      "Western Pacific",
+      "Taiwan Strait"
+    ],
+    "typical_task_group": "Operates as part of carrier air wing with 24-36 J-15s alongside helicopters and support aircraft within carrier strike group",
+    "readiness_notes": "Aircraft availability rates reportedly lower than Western equivalents due to maintenance challenges and engine reliability issues"
+  },
+  "peer_comparisons": [
+    {
+      "platform": "F/A-18E/F Super Hornet",
+      "country": "United States",
+      "relationship": "direct rival",
+      "key_differences": "Super Hornet has superior payload flexibility due to catapult launches, more advanced avionics and sensors, but J-15 has larger airframe with potentially longer range. Super Hornet has extensive combat experience advantage.",
+      "video_angle": "David vs Goliath: How China's first carrier fighter stacks up against America's proven naval workhorse"
+    },
+    {
+      "platform": "F-35C Lightning II",
+      "country": "United States",
+      "relationship": "next-generation rival",
+      "key_differences": "F-35C has overwhelming advantages in stealth, sensor fusion, and situational awareness, but J-15 carries heavier payloads and has longer range. Represents different design philosophies - stealth vs payload.",
+      "video_angle": "Stealth vs Payload: Can China's Flying Shark compete with America's invisible carrier fighter?"
+    },
+    {
+      "platform": "Su-33 Flanker-D",
+      "country": "Russia",
+      "relationship": "predecessor",
+      "key_differences": "J-15 based heavily on Su-33 design but incorporates Chinese avionics and weapons systems. Both share ski-jump limitations, but J-15 has more modern electronics and indigenous weapon integration.",
+      "video_angle": "Copy or Evolution: How China transformed Russia's carrier fighter into the Flying Shark"
+    },
+    {
+      "platform": "Rafale M",
+      "country": "France",
+      "relationship": "allied equivalent comparison",
+      "key_differences": "Rafale M is smaller but more agile with superior multirole capability and advanced sensors. J-15 has longer range and larger payload capacity. Both operate from non-US carriers but with different launch systems.",
+      "video_angle": "East meets West: Comparing China's Flying Shark to France's naval Rafale"
+    },
+    {
+      "platform": "MiG-29K",
+      "country": "Russia",
+      "relationship": "contemporary rival",
+      "key_differences": "MiG-29K is smaller and more maneuverable but with less range and payload than J-15. Both designed for ski-jump operations, but different size categories and mission emphasis.",
+      "video_angle": "Russian Rivals: How China's J-15 compares to the MiG-29K carrier fighter"
+    }
+  ],
+  "search_keywords": [
+    "j-15",
+    "j15",
+    "flying shark",
+    "shenyang j-15",
+    "chinese carrier fighter",
+    "liaoning fighter",
+    "shandong aircraft",
+    "plan carrier aviation",
+    "china carrier fighter",
+    "j-15 flying shark",
+    "chinese naval aviation"
+  ],
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/65/Alexander_James_Dallas_%281791%E2%80%931844%29.png",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/65/Alexander_James_Dallas_%281791%E2%80%931844%29.png",
+      "width": 173,
+      "height": 200,
+      "title": "Alexander James Dallas (1791\u20131844).png",
+      "description": "Portrait of Alexander James Dallas (1791\u20131844) from The National Cyclopaedia of American Biography, Volume VIII, 1924, page 307",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/DALLAS%2C_Alexander_J-Treasury_%28BEP_engraved_portrait%29.jpg/1280px-DALLAS%2C_Alexander_J-Treasury_%28BEP_engraved_portrait%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/DALLAS%2C_Alexander_J-Treasury_%28BEP_engraved_portrait%29.jpg",
+      "width": 6960,
+      "height": 9600,
+      "title": "DALLAS, Alexander J-Treasury (BEP engraved portrait).jpg",
+      "description": "<a href=\"https://en.wikipedia.org/wiki/Line_engraving\" class=\"extiw\" title=\"w:Line engraving\">Engraved</a> <a href=\"https://en.wikipedia.org/wiki/Bureau_of_Engraving_and_Printing\" class=\"extiw\" title=",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Grumman_E-2C_Hawkeyes_of_VAW-115_fly_past_Mount_Fuji_on_15_February_2007_%28070215-N-2604L-024%29.jpg/1280px-Grumman_E-2C_Hawkeyes_of_VAW-115_fly_past_Mount_Fuji_on_15_February_2007_%28070215-N-2604L-024%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Grumman_E-2C_Hawkeyes_of_VAW-115_fly_past_Mount_Fuji_on_15_February_2007_%28070215-N-2604L-024%29.jpg",
+      "width": 3008,
+      "height": 2000,
+      "title": "Grumman E-2C Hawkeyes of VAW-115 fly past Mount Fuji on 15 February 2007 (070215-N-2604L-024).jpg",
+      "description": "Two U.S. Navy Grumman E-2C <i>Hawkeye</i> (BuNo 164107, 165296) assigned to Carrier Airborne Early Warning Squadron 115 (VAW-115) \"Liberty Bells\" conduct a flyby of Mount Fuji in Japan on 15 February ",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/28/Signature_of_Alexander_James_Dallas_%281791%E2%80%931844%29.png",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/28/Signature_of_Alexander_James_Dallas_%281791%E2%80%931844%29.png",
+      "width": 138,
+      "height": 28,
+      "title": "Signature of Alexander James Dallas (1791\u20131844).png",
+      "description": "Signature of Alexander James Dallas (1791\u20131844) from The National Cyclopaedia of American Biography, Volume VIII, 1924, page 307",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/US-Soviet_sailors_on_VJ_Day.jpg/1280px-US-Soviet_sailors_on_VJ_Day.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/81/US-Soviet_sailors_on_VJ_Day.jpg",
+      "width": 1800,
+      "height": 1401,
+      "title": "US-Soviet sailors on VJ Day.jpg",
+      "description": "US and Soviet sailors in <a href=\"//commons.wikimedia.org/wiki/Alaska\" title=\"Alaska\">Alaska</a> celebrate VJ day.",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d3/US_Navy_081215-N-5549O-110_Secretary_of_the_Navy_%28SECNAV%29_the_Honorable_Dr._Donald_C._Winter_visits_with_Medal_of_Honor_recipient_retired_Navy_Capt.Thomas_J._Hudner%2C_Jr._%28Small%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/d3/US_Navy_081215-N-5549O-110_Secretary_of_the_Navy_%28SECNAV%29_the_Honorable_Dr._Donald_C._Winter_visits_with_Medal_of_Honor_recipient_retired_Navy_Capt.Thomas_J._Hudner%2C_Jr._%28Small%29.jpg",
+      "width": 364,
+      "height": 477,
+      "title": "US Navy 081215-N-5549O-110 Secretary of the Navy (SECNAV) the Honorable Dr. Donald C. Winter visits with Medal of Honor recipient retired Navy Capt.Thomas J. Hudner, Jr. (Small).jpg",
+      "description": "ANNAPOLIS, Md. (Dec. 15, 2008) Secretary of the Navy (SECNAV) the Honorable Dr. Donald C. Winter visits with Medal of Honor recipient retired Navy Capt.Thomas J. Hudner, Jr. after a \"Visions of Valor\"",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/US_Navy_081215-N-5549O-110_Secretary_of_the_Navy_%28SECNAV%29_the_Honorable_Dr._Donald_C._Winter_visits_with_Medal_of_Honor_recipient_retired_Navy_Capt.Thomas_J._Hudner%2C_Jr._after_a.jpg/1280px-thumbnail.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/US_Navy_081215-N-5549O-110_Secretary_of_the_Navy_%28SECNAV%29_the_Honorable_Dr._Donald_C._Winter_visits_with_Medal_of_Honor_recipient_retired_Navy_Capt.Thomas_J._Hudner%2C_Jr._after_a.jpg",
+      "width": 4288,
+      "height": 2848,
+      "title": "US Navy 081215-N-5549O-110 Secretary of the Navy (SECNAV) the Honorable Dr. Donald C. Winter visits with Medal of Honor recipient retired Navy Capt.Thomas J. Hudner, Jr. after a.jpg",
+      "description": "ANNAPOLIS, Md. (Dec. 15, 2008) Secretary of the Navy (SECNAV) the Honorable Dr. Donald C. Winter visits with Medal of Honor recipient retired Navy Capt.Thomas J. Hudner, Jr. after a \"Visions of Valor\"",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/US_Navy_081215-N-9995B-002_U.S._Ambassador_to_Panama_Barbara_J._Stephenson_delivers_remarks_during_the_handoff_ceremony_of_Project_Handclasp_donations.jpg/1280px-US_Navy_081215-N-9995B-002_U.S._Ambassador_to_Panama_Barbara_J._Stephenson_delivers_remarks_during_the_handoff_ceremony_of_Project_Handclasp_donations.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/a4/US_Navy_081215-N-9995B-002_U.S._Ambassador_to_Panama_Barbara_J._Stephenson_delivers_remarks_during_the_handoff_ceremony_of_Project_Handclasp_donations.jpg",
+      "width": 2400,
+      "height": 3000,
+      "title": "US Navy 081215-N-9995B-002 U.S. Ambassador to Panama Barbara J. Stephenson delivers remarks during the handoff ceremony of Project Handclasp donations.jpg",
+      "description": "PANAMA CITY, Panama (Dec. 15, 2008) U.S. Ambassador to Panama Barbara J. Stephenson delivers remarks during the handoff ceremony of Project Handclasp donations. Project Handclasp is a Navy program ded",
+      "license": "Public domain",
+      "source": "wikimedia"
+    }
+  ],
+  "doctrine": null,
+  "curated_sources": []
+}

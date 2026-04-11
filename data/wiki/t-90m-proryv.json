@@ -1,0 +1,279 @@
+{
+  "id": 81,
+  "slug": "t-90m-proryv",
+  "name": "T-90M Proryv Main Battle Tank",
+  "designation": "T-90M",
+  "type": "tank",
+  "country": "Russia",
+  "operator": "Russian Ground Forces",
+  "overview_md": "The T-90M Proryv (\"Breakthrough\") represents Russia's most advanced main battle tank currently in large-scale production, serving as the flagship of Moscow's armored modernization efforts. This third-generation MBT combines proven T-90 chassis reliability with cutting-edge fire control systems, improved armor protection, and enhanced situational awareness capabilities, positioning it as Russia's answer to Western platforms like the M1A2 Abrams and Leopard 2A7.\n\nDesigned around Russia's traditional tank doctrine emphasizing firepower, protection, and numerical superiority, the T-90M integrates the Kalina fire control system with advanced thermal imaging, automated target tracking, and hunter-killer capability. The platform maintains the classic Soviet design philosophy of compact dimensions and lower weight compared to Western counterparts, enabling strategic mobility while incorporating modern battlefield management systems and improved crew survivability features.\n\nIn the current threat environment, the T-90M has become critically important as Russia's primary modern armor platform, seeing extensive combat deployment in Ukraine since 2022. Its performance in high-intensity conventional warfare has provided unprecedented real-world data on modern Russian armor capabilities against Western anti-tank systems, including Javelin and NLAW missiles. The tank's Relikt explosive reactive armor and Arena-M active protection system represent Russia's latest defensive technologies, though combat experience has revealed both capabilities and limitations.\n\nCompared to peer platforms, the T-90M emphasizes cost-effectiveness and maintainability over maximum protection levels, reflecting Russian military procurement priorities and industrial capabilities. While lacking the heavy armor and crew comfort of Western tanks, it offers sophisticated fire control systems and proven mechanical reliability, making it a formidable opponent in the hands of well-trained crews despite documented vulnerabilities in current combat operations.",
+  "specs_json": {
+    "displacement_tonnes": 48,
+    "length_m": 9.53,
+    "beam_m": 3.78,
+    "draft_m": 0,
+    "speed_knots": 0,
+    "range_nm": 0,
+    "crew": 3,
+    "propulsion": "V-92S2F 1000hp diesel engine, 7-speed automatic transmission",
+    "radar": "Kalina fire control system with thermal imaging",
+    "sonar": null,
+    "combat_system": "Kalina FCS with 1A45T gunner sight",
+    "vls_cells": 0,
+    "additional": {
+      "max_speed_kmh": 65,
+      "range_km": 550,
+      "main_gun": "2A46M-5 125mm smoothbore",
+      "armor": "Relikt explosive reactive armor + composite",
+      "active_protection": "Arena-M hard-kill APS (some variants)",
+      "ground_pressure_kpa": 86
+    }
+  },
+  "armament_json": [
+    {
+      "category": "Main Gun",
+      "name": "2A46M-5",
+      "type": "125mm smoothbore cannon",
+      "quantity": "1x 125mm",
+      "range_km": 8,
+      "notes": "APFSDS, HEAT, HE-FRAG ammunition + 9M119 Refleks ATGM"
+    },
+    {
+      "category": "Machine Guns",
+      "name": "PKTM",
+      "type": "coaxial machine gun",
+      "quantity": "1x 7.62mm",
+      "range_km": 1.5,
+      "notes": "coaxial mount"
+    },
+    {
+      "category": "Machine Guns",
+      "name": "Kord",
+      "type": "heavy machine gun",
+      "quantity": "1x 12.7mm",
+      "range_km": 2,
+      "notes": "remote weapon station"
+    },
+    {
+      "category": "Missiles",
+      "name": "9M119 Refleks",
+      "type": "anti-tank guided missile",
+      "quantity": "22 rounds total capacity",
+      "range_km": 5,
+      "notes": "gun-launched ATGM"
+    }
+  ],
+  "variants_json": [
+    {
+      "name": "T-90M Proryv",
+      "designation_range": "T-90M",
+      "years": "2017-present",
+      "count": 540,
+      "key_changes": "Kalina FCS, improved armor, new turret design, enhanced situational awareness",
+      "status": "active"
+    },
+    {
+      "name": "T-90M Proryv-3",
+      "designation_range": "T-90M",
+      "years": "2020-present",
+      "count": 150,
+      "key_changes": "Arena-M active protection system, upgraded communications, improved ERA coverage",
+      "status": "active"
+    },
+    {
+      "name": "T-90MS (Export)",
+      "designation_range": "T-90MS",
+      "years": "2011-present",
+      "count": 200,
+      "key_changes": "Export variant with modified systems, available ERA configurations",
+      "status": "active"
+    }
+  ],
+  "fleet_status_json": [
+    {
+      "hull_number": "Various",
+      "name": "4th Guards Tank Division",
+      "variant": "T-90M",
+      "commissioned": "2019",
+      "home_port": "Naro-Fominsk",
+      "status": "active"
+    },
+    {
+      "hull_number": "Various",
+      "name": "2nd Guards Motor Rifle Division",
+      "variant": "T-90M",
+      "commissioned": "2020",
+      "home_port": "Samara Oblast",
+      "status": "active"
+    },
+    {
+      "hull_number": "Various",
+      "name": "Western Military District Units",
+      "variant": "T-90M",
+      "commissioned": "2021",
+      "home_port": "Various bases",
+      "status": "active"
+    }
+  ],
+  "cost_usd": 4500000.0,
+  "unit_count": 540,
+  "first_commissioned": "2017",
+  "builder": "Uralvagonzavod",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/T-90M.jpg",
+  "wiki_url": "https://en.wikipedia.org/wiki/T-90",
+  "sources_json": [
+    "https://en.wikipedia.org/wiki/T-90",
+    "https://www.janes.com/defence-news/land-warfare/t-90m-proryv-specifications",
+    "https://www.militaryfactory.com/armor/detail.php?armor_id=1126"
+  ],
+  "comparison_tags": [
+    "main-battle-tank",
+    "russian-armor",
+    "modern-mbt",
+    "ukraine-conflict",
+    "125mm-gun"
+  ],
+  "created_at": "2026-04-11 10:08:00",
+  "updated_at": "2026-04-11T10:08:00.467969",
+  "news": [],
+  "events": [],
+  "ic_coverage": [],
+  "combat_history": [
+    {
+      "date": "2022-02",
+      "operation": "Special Military Operation (Ukraine)",
+      "event": "Initial deployment of T-90M tanks in Ukraine conflict, multiple units engaged Ukrainian forces in northern and eastern sectors.",
+      "significance": "First large-scale combat deployment revealing both capabilities and vulnerabilities against modern Western anti-tank weapons"
+    },
+    {
+      "date": "2022-04",
+      "operation": "Ukraine Conflict",
+      "event": "T-90M 'Vladimir' captured intact by Ukrainian forces near Kharkiv, providing Western intelligence with detailed technical analysis opportunity.",
+      "significance": "Major intelligence loss exposing internal systems, armor composition, and electronic warfare capabilities to Western analysis"
+    },
+    {
+      "date": "2022-09",
+      "operation": "Ukraine Conflict",
+      "event": "Documented T-90M losses to Javelin and NLAW missiles, revealing ERA limitations and crew survivability issues.",
+      "significance": "Demonstrated that even Russia's most modern armor remains vulnerable to modern Western ATGMs despite advanced protective systems"
+    },
+    {
+      "date": "2023-06",
+      "operation": "Ukraine Conflict",
+      "event": "T-90M tanks deployed in defensive operations during Ukrainian counteroffensive, engaging Ukrainian Leopard 2 and Bradley vehicles.",
+      "significance": "Direct peer-to-peer combat between Russian and Western armor systems providing real-world performance comparison data"
+    }
+  ],
+  "modernization": [
+    {
+      "program": "T-90M Proryv-3 Upgrade",
+      "status": "in-progress",
+      "timeline": "2020-2025",
+      "description": "Integration of Arena-M active protection system, improved Relikt ERA coverage, enhanced electronic warfare systems, upgraded communications suite.",
+      "impact": "Significantly improves survivability against top-attack missiles and provides better battlefield connectivity"
+    },
+    {
+      "program": "Sosna-U Gunner Sight Integration",
+      "status": "completed",
+      "timeline": "2019-2022",
+      "description": "Replacement of older thermal sights with modern Sosna-U multichannel sight system providing better target acquisition and tracking.",
+      "impact": "Enhanced first-shot hit probability and engagement range, improved night fighting capability"
+    },
+    {
+      "program": "Digital Battlefield Management",
+      "status": "planned",
+      "timeline": "2024-2027",
+      "description": "Integration of unified tactical management system for improved coordination with other platforms and command elements.",
+      "impact": "Better situational awareness and coordination capabilities for combined arms operations"
+    }
+  ],
+  "vulnerabilities": [
+    {
+      "area": "Top-attack missile defense",
+      "description": "Despite Relikt ERA, documented vulnerability to top-attack ATGMs like Javelin, with multiple combat losses showing penetration of roof armor.",
+      "context": "Modern Western ATGMs specifically designed to defeat ERA through top-attack profiles, exploiting thinnest armor areas",
+      "mitigation": "Arena-M APS integration on newer variants, though coverage gaps remain and system reliability questioned"
+    },
+    {
+      "area": "Crew survivability",
+      "description": "Autoloader ammunition storage in fighting compartment creates catastrophic explosion risk when penetrated, evidenced by turret ejections in Ukraine.",
+      "context": "Fundamental design compromise between compact size and crew protection compared to Western blow-out panel systems",
+      "mitigation": "Limited options due to basic design constraints, some improved blast deflection measures in latest variants"
+    },
+    {
+      "area": "Logistics and maintenance",
+      "description": "Complex electronic systems requiring specialized maintenance support, vulnerable to supply chain disruptions and sanctions affecting component availability.",
+      "context": "Western sanctions limiting access to advanced electronic components and manufacturing equipment",
+      "mitigation": "Domestic component substitution programs, though with reduced capability and reliability concerns"
+    },
+    {
+      "area": "Electronic warfare vulnerability",
+      "description": "Fire control and communication systems susceptible to jamming and cyber interference, affecting target acquisition and coordination.",
+      "context": "Modern battlefield EW environment requires hardened systems and redundant communications",
+      "mitigation": "Ongoing EW protection upgrades, though effectiveness against advanced Western systems remains questionable"
+    }
+  ],
+  "operational_patterns": {
+    "typical_deployment": "Battalion and regiment-level formations, primarily in tank divisions and motor rifle units",
+    "deployment_length_months": 6,
+    "key_operating_areas": [
+      "Western Military District",
+      "Southern Military District",
+      "Ukraine theater"
+    ],
+    "typical_task_group": "Tank battalion with BMP-3 support, artillery, and air defense elements",
+    "readiness_notes": "Maintenance challenges with advanced systems, parts availability issues due to sanctions affecting operational readiness rates"
+  },
+  "peer_comparisons": [
+    {
+      "platform": "M1A2 SEPv3 Abrams",
+      "country": "United States",
+      "relationship": "direct rival",
+      "key_differences": "Abrams offers superior crew protection with blow-out panels and heavier armor, but T-90M provides better strategic mobility and lower maintenance requirements. Combat experience suggests Abrams survivability advantage significant.",
+      "video_angle": "David vs Goliath: Russian engineering efficiency versus American maximum protection philosophy"
+    },
+    {
+      "platform": "Leopard 2A7",
+      "country": "Germany",
+      "relationship": "direct rival",
+      "key_differences": "Leopard 2A7 features modular armor and superior fire control, while T-90M emphasizes cost-effectiveness and simplified maintenance. Both have faced off in Ukraine with mixed results.",
+      "video_angle": "European precision engineering versus Russian proven reliability - Ukraine battlefield comparison"
+    },
+    {
+      "platform": "Type 99A",
+      "country": "China",
+      "relationship": "allied equivalent",
+      "key_differences": "Type 99A incorporates some T-90 technologies but with indigenous improvements including better armor protection and fire control systems. Represents parallel development path from Russian technology base.",
+      "video_angle": "Student vs Teacher: How China evolved Russian tank technology into the Type 99A"
+    },
+    {
+      "platform": "Challenger 2",
+      "country": "United Kingdom",
+      "relationship": "direct rival",
+      "key_differences": "Challenger 2 uses rifled 120mm gun versus T-90M smoothbore, superior armor protection but limited strategic mobility. Different doctrinal approaches to tank design philosophy.",
+      "video_angle": "Traditional British tank doctrine versus Russian mobile warfare philosophy"
+    },
+    {
+      "platform": "K2 Black Panther",
+      "country": "South Korea",
+      "relationship": "generational rival",
+      "key_differences": "K2 represents next-generation design with advanced APS, automatic transmission, and sophisticated fire control, while T-90M updates proven Soviet design. Significant technological generation gap.",
+      "video_angle": "Old school versus new school: Soviet legacy design meets 21st century Korean innovation"
+    }
+  ],
+  "search_keywords": [
+    "T-90M",
+    "T-90M Proryv",
+    "Proryv tank",
+    "T90M",
+    "Russian main battle tank",
+    "Kalina fire control",
+    "Relikt armor",
+    "Arena-M",
+    "Uralvagonzavod",
+    "Vladimir tank"
+  ],
+  "images": [],
+  "doctrine": null,
+  "curated_sources": []
+}

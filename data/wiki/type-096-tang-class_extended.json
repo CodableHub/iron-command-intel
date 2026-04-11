@@ -1,0 +1,186 @@
+{
+  "combat_history": [],
+  "modernization": [
+    {
+      "program": "Type 096 Development Program",
+      "status": "in-progress",
+      "timeline": "2015-2027 (estimated)",
+      "description": "Development and initial construction of China's third-generation SSBN with improved stealth, propulsion, and missile capabilities including JL-3 SLBM integration",
+      "impact": "Will provide China with significantly improved sea-based nuclear deterrent capability"
+    }
+  ],
+  "vulnerabilities": [
+    {
+      "area": "Acoustic signature management",
+      "description": "Despite improvements over Type 094, likely remains noisier than latest U.S. and Russian SSBNs due to technological gaps in reactor design and propulsion systems",
+      "context": "Advanced ASW capabilities of U.S. and Japanese forces could potentially track and target these submarines",
+      "mitigation": "Pump-jet propulsion and improved hull design to reduce noise signature"
+    },
+    {
+      "area": "Operational experience",
+      "description": "PLAN lacks extensive experience in SSBN operations and strategic patrol procedures compared to U.S. and Russian navies",
+      "context": "Inexperience could lead to tactical errors or compromise operational security during strategic patrols",
+      "mitigation": "Intensive training programs and possible cooperation with Russian submarine forces"
+    },
+    {
+      "area": "Geographic constraints",
+      "description": "Must transit through multiple choke points to reach deep-water patrol areas, exposing submarines to ASW detection",
+      "context": "First island chain geography limits operational flexibility and increases vulnerability during transit",
+      "mitigation": "Development of protected bastions in South China Sea and improved escort capabilities"
+    }
+  ],
+  "operational_patterns": {
+    "typical_deployment": "Strategic nuclear deterrent patrols in protected bastion areas",
+    "deployment_length_months": 0,
+    "key_operating_areas": [
+      "South China Sea",
+      "Yellow Sea",
+      "East China Sea"
+    ],
+    "typical_task_group": "Independent operations with potential escort from attack submarines",
+    "readiness_notes": "Platform not yet operational - specifications and capabilities remain largely estimated"
+  },
+  "peer_comparisons": [
+    {
+      "platform": "Ohio-class SSBN",
+      "country": "United States",
+      "relationship": "direct rival",
+      "key_differences": "Ohio-class carries 20 Trident II missiles vs 12 JL-3s, has greater global range and proven operational record. Type 096 prioritizes regional deterrence with potentially better stealth characteristics.",
+      "video_angle": "East vs West: How China's new SSBN stacks up against America's nuclear submarine fleet"
+    },
+    {
+      "platform": "Borei-class SSBN",
+      "country": "Russia",
+      "relationship": "technological predecessor",
+      "key_differences": "Borei-class provides technological baseline for Type 096 development. Similar missile load but Bulava SLBM has different performance characteristics than JL-3. Russian platform has operational experience.",
+      "video_angle": "Russia's submarine technology transfer: How the Borei influenced China's Type 096"
+    },
+    {
+      "platform": "Type 094 Jin-class",
+      "country": "China",
+      "relationship": "predecessor",
+      "key_differences": "Type 096 represents significant advancement in stealth, missile capability, and overall design. Jin-class proved China's SSBN capability but was notably loud and limited in missile range.",
+      "video_angle": "China's submarine evolution: From the loud Jin-class to the stealthy Type 096"
+    },
+    {
+      "platform": "Vanguard-class SSBN",
+      "country": "United Kingdom",
+      "relationship": "allied rival",
+      "key_differences": "Similar missile load (16 Trident II) but smaller overall size. Vanguard has decades of operational experience and proven stealth characteristics that Type 096 aspires to match.",
+      "video_angle": "Small navy, big deterrent: How Britain's submarine force compares to China's growing fleet"
+    }
+  ],
+  "search_keywords": [
+    "type 096",
+    "tang class",
+    "chinese ssbn",
+    "jl-3",
+    "slbm",
+    "chinese nuclear submarine",
+    "plan submarine",
+    "ballistic missile submarine",
+    "type-096"
+  ],
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/330-ps-8675-usn-1026546_16055826425_o.jpg/1280px-330-ps-8675-usn-1026546_16055826425_o.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/330-ps-8675-usn-1026546_16055826425_o.jpg",
+      "width": 2901,
+      "height": 2244,
+      "title": "330-ps-8675-usn-1026546 16055826425 o.jpg",
+      "description": "330-PS-8675 (USN 1026546):    Better feeding as well as the best food is a U.S. Navy objective.  How to improve the Navy\u2019s feeding operation is the job of the Commissary Research and Development Facil",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Gudgeon_%28SS-567%29_-_Tang_class.jpg/1280px-Gudgeon_%28SS-567%29_-_Tang_class.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/44/Gudgeon_%28SS-567%29_-_Tang_class.jpg",
+      "width": 1422,
+      "height": 664,
+      "title": "Gudgeon (SS-567) - Tang class.jpg",
+      "description": "Forward port quarter photo of <i>Gudgeon</i> (SS-567). The location and actual date are unknown. The photo was entered into the Mare Island photo collection in Feb 66 shortly after Gudgeon started ove",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Turkish_sailor_removing_the_nameplate_of_Gudgeon.jpg/1280px-Turkish_sailor_removing_the_nameplate_of_Gudgeon.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Turkish_sailor_removing_the_nameplate_of_Gudgeon.jpg",
+      "width": 2880,
+      "height": 1910,
+      "title": "Turkish sailor removing the nameplate of Gudgeon.jpg",
+      "description": "A Turkish sailor removes the name from the Tang class submarine ex-<i>Gudgeon</i> (SSAG-567) during the transfer ceremony at Point Loma, California on 30 Sep 1983.",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/USS_Dixon_%28AS-37%29_and_USS_Sperry_%28AS-12%29_tending_submarines_at_San_Diego_on_22_November_1975_%28KN-24281%29.jpg/1280px-USS_Dixon_%28AS-37%29_and_USS_Sperry_%28AS-12%29_tending_submarines_at_San_Diego_on_22_November_1975_%28KN-24281%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/48/USS_Dixon_%28AS-37%29_and_USS_Sperry_%28AS-12%29_tending_submarines_at_San_Diego_on_22_November_1975_%28KN-24281%29.jpg",
+      "width": 5698,
+      "height": 4520,
+      "title": "USS Dixon (AS-37) and USS Sperry (AS-12) tending submarines at San Diego on 22 November 1975 (KN-24281).jpg",
+      "description": "The U.S. Navy submarine tenders USS <i>Dixon</i> (AS-37) and USS <i>Sperry</i> (AS-12) tending <i>Skipjack</i>-, <i>Permit</i>-, and <i>Sturgeon</i>-class submarines, at the submarine support facility",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/48/AFDCM-02-015.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/48/AFDCM-02-015.jpg",
+      "width": 973,
+      "height": 760,
+      "title": "AFDCM-02-015.jpg",
+      "description": "",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/18/AFDCM-02-036.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/18/AFDCM-02-036.jpg",
+      "width": 973,
+      "height": 760,
+      "title": "AFDCM-02-036.jpg",
+      "description": "",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Armed_Forces_Kayakers_compete_at_the_Hurley_Classic._MOD_45161871.jpg/1280px-Armed_Forces_Kayakers_compete_at_the_Hurley_Classic._MOD_45161871.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Armed_Forces_Kayakers_compete_at_the_Hurley_Classic._MOD_45161871.jpg",
+      "width": 5131,
+      "height": 3420,
+      "title": "Armed Forces Kayakers compete at the Hurley Classic. MOD 45161871.jpg",
+      "description": "Pictured is an Army freestyle kayaker on the wave at The \u2018SAS Hurley Classic\u2019.\n<p>The competition is used for the Inter-Services Freestyle Championships, (The Armed Forces paddlers made up about 20 co",
+      "license": "OGL v1.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/HMS_Westminster_Visits_London_MOD_45152386.jpg/1280px-HMS_Westminster_Visits_London_MOD_45152386.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/53/HMS_Westminster_Visits_London_MOD_45152386.jpg",
+      "width": 3000,
+      "height": 2457,
+      "title": "HMS Westminster Visits London MOD 45152386.jpg",
+      "description": "Picture shows HMS Westminster passing through the Thames Barrier, London.\n<p>Royal Navy warship HMS Westminster, a Type 23 frigate,  paid an official visit to the City of London.\n</p><p>She berthed at",
+      "license": "OGL v1.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Lockheed_P-2E_Neptune_%E2%80%984711%E2%80%99_%2853856997786%29.jpg/1280px-Lockheed_P-2E_Neptune_%E2%80%984711%E2%80%99_%2853856997786%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Lockheed_P-2E_Neptune_%E2%80%984711%E2%80%99_%2853856997786%29.jpg",
+      "width": 5166,
+      "height": 3444,
+      "title": "Lockheed P-2E Neptune \u20184711\u2019 (53856997786).jpg",
+      "description": "<p>c/n 426-5283\nBuilt in 1954 as a P2V-5 for the Royal Netherlands Navy with the serial \u201819-31\u2019.\nDelivered as part of a Mutual Defence Aid Program (MDAP), it was also allocated the US Navy Bureau numb",
+      "license": "CC BY-SA 2.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/RAF_Typoon_Aircraft_in_the_Middle_East_MOD_45155792.jpg/1280px-RAF_Typoon_Aircraft_in_the_Middle_East_MOD_45155792.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/RAF_Typoon_Aircraft_in_the_Middle_East_MOD_45155792.jpg",
+      "width": 4402,
+      "height": 3000,
+      "title": "RAF Typoon Aircraft in the Middle East MOD 45155792.jpg",
+      "description": "A pair of Royal Air Force Typhoon aircraft taking off from an airbase in the Middle East.\n<p>Royal Air Force personnel from 6 Squadron, RAF Leuchars, took part in a multinational exercise from 906 Exp",
+      "license": "OGL v1.0",
+      "source": "wikimedia"
+    }
+  ]
+}

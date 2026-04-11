@@ -1,0 +1,214 @@
+{
+  "combat_history": [
+    {
+      "date": "2016-11",
+      "operation": "Syrian operations",
+      "event": "Soobrazitelny conducted Mediterranean deployment, providing area air defense for Russian naval task force supporting Syrian operations.",
+      "significance": "First operational deployment demonstrating long-range capability and integration with larger fleet operations"
+    },
+    {
+      "date": "2018-07",
+      "operation": "Naval parade participation",
+      "event": "Multiple Steregushchiy-class ships participated in Navy Day parade in St. Petersburg, demonstrating operational readiness.",
+      "significance": "Public demonstration of class capabilities and fleet integration"
+    },
+    {
+      "date": "2020-2023",
+      "operation": "Baltic Sea patrols",
+      "event": "Regular patrols and exercises in Baltic Sea, including intercepts of NATO vessels and participation in Kaliningrad defense exercises.",
+      "significance": "Operational validation of A2/AD mission in contested maritime environment"
+    }
+  ],
+  "modernization": [
+    {
+      "program": "Project 20386 development",
+      "status": "in-progress",
+      "timeline": "2020-2030",
+      "description": "Enhanced modular design with mission bay, improved stealth characteristics, potential for hypersonic missile integration (Zircon).",
+      "impact": "Increases mission flexibility and future upgrade potential while maintaining current armament baseline"
+    },
+    {
+      "program": "Redut VLS upgrade",
+      "status": "planned",
+      "timeline": "2024-2028",
+      "description": "Integration of improved 9M96E2 missiles with extended range and upgraded seekers for existing ships.",
+      "impact": "Extends air defense envelope and improves capability against modern threats"
+    },
+    {
+      "program": "Electronic warfare enhancement",
+      "status": "ongoing",
+      "timeline": "2023-2027",
+      "description": "Upgrading EW suites across the class with improved jammers and decoy systems.",
+      "impact": "Enhanced survivability against Western anti-ship missiles and targeting systems"
+    }
+  ],
+  "vulnerabilities": [
+    {
+      "area": "Propulsion reliability",
+      "description": "Chronic issues with Kolomna diesel engines leading to reduced availability and range limitations. Several ships have experienced significant mechanical failures.",
+      "context": "Impacts operational tempo and deployment flexibility, particularly critical given Russia's limited shipyard capacity for major repairs",
+      "mitigation": "Engine replacement program underway for some units, improved maintenance protocols implemented"
+    },
+    {
+      "area": "Limited magazine depth",
+      "description": "Only 12 VLS cells and 8 anti-ship missiles provide limited sustained combat capability compared to Western frigates of similar displacement.",
+      "context": "In extended engagement scenarios, particularly against NATO task forces, ammunition exhaustion becomes critical limitation",
+      "mitigation": "Doctrine emphasizes coordinated attacks with land-based systems and rapid port turnaround for rearmament"
+    },
+    {
+      "area": "Western component dependencies",
+      "description": "Despite indigenization efforts, some critical electronics and sensors still rely on Western components affected by sanctions.",
+      "context": "Post-2014 sanctions have complicated maintenance and upgrade programs, potentially degrading long-term capability",
+      "mitigation": "Ongoing substitution program with Chinese and domestic alternatives, but with performance trade-offs"
+    },
+    {
+      "area": "ASW capability gaps",
+      "description": "Limited sonar suite and ASW weapons compared to Western corvettes, particularly vulnerable to modern quiet submarines.",
+      "context": "In Baltic Sea environment with NATO submarine presence, this represents significant operational vulnerability",
+      "mitigation": "Typically operates with dedicated ASW platforms and relies on land-based maritime patrol aircraft"
+    }
+  ],
+  "operational_patterns": {
+    "typical_deployment": "Coastal defense patrol, Baltic Sea A2/AD operations, occasional Mediterranean deployments with naval task forces",
+    "deployment_length_months": 2,
+    "key_operating_areas": [
+      "Baltic Sea",
+      "Black Sea",
+      "Barents Sea",
+      "Mediterranean Sea"
+    ],
+    "typical_task_group": "Operates individually or in pairs, often with Buyan-M corvettes or larger surface combatants",
+    "readiness_notes": "Mechanical reliability issues limit sustained operations; approximately 60-70% availability rate across class due to propulsion problems"
+  },
+  "peer_comparisons": [
+    {
+      "platform": "Sa'ar 6-class corvette",
+      "country": "Israel",
+      "relationship": "direct rival",
+      "key_differences": "Sa'ar 6 emphasizes modular German engineering and integration with Israeli systems, trades some armament for reliability. Steregushchiy has heavier missile load but less operational availability.",
+      "video_angle": "David vs Goliath - Israeli quality vs Russian quantity in modern corvette design"
+    },
+    {
+      "platform": "Braunschweig-class corvette",
+      "country": "Germany",
+      "relationship": "allied equivalent",
+      "key_differences": "German ship prioritizes build quality and NATO interoperability over raw firepower. Steregushchiy carries more missiles but German ship has superior sensors and reliability.",
+      "video_angle": "Engineering philosophies - German precision vs Russian firepower in littoral warfare"
+    },
+    {
+      "platform": "Kamorta-class corvette",
+      "country": "India",
+      "relationship": "capability peer",
+      "key_differences": "Indian design focuses on ASW with limited air defense, while Steregushchiy emphasizes air/surface warfare. Similar displacement but completely different mission focus.",
+      "video_angle": "Specialization vs multi-role - how different naval doctrines shape corvette design"
+    },
+    {
+      "platform": "Visby-class corvette",
+      "country": "Sweden",
+      "relationship": "stealth pioneer",
+      "key_differences": "Swedish design pioneered naval stealth but with minimal armament. Steregushchiy adopted stealth features while maintaining heavy weapons load, representing evolution of concept.",
+      "video_angle": "Stealth evolution - from Swedish proof of concept to Russian operational application"
+    },
+    {
+      "platform": "Type 056 Jiangdao-class corvette",
+      "country": "China",
+      "relationship": "allied equivalent",
+      "key_differences": "Chinese design emphasizes numbers and simplicity over individual capability. Type 056 is smaller, cheaper, less capable but produced in much larger quantities than Steregushchiy.",
+      "video_angle": "Quantity vs quality - Chinese mass production vs Russian technological approach"
+    }
+  ],
+  "search_keywords": [
+    "steregushchiy",
+    "project 20380",
+    "project 20385",
+    "project 20386",
+    "russian corvette",
+    "redut vls",
+    "pantsir-m",
+    "gremyashchiy",
+    "soobrazitelny",
+    "baltic fleet"
+  ],
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/61/Corvette_Steregushchiy.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/61/Corvette_Steregushchiy.jpg",
+      "width": 1027,
+      "height": 456,
+      "title": "Corvette Steregushchiy.jpg",
+      "description": "The <a href=\"https://en.wikipedia.org/wiki/Russian_corvette_Steregushchiy\" class=\"extiw\" title=\"en:Russian corvette Steregushchiy\"><i>Steregushchiy</i></a> (\u0421\u0442\u0435\u0440\u0435\u0433\u0443\u0449\u0438\u0439 - Guardian) is the lead ship of ",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/66/Steregushchiy-class_corvette_%22Rezkiy%22_2023_crew.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/66/Steregushchiy-class_corvette_%22Rezkiy%22_2023_crew.jpg",
+      "width": 1200,
+      "height": 800,
+      "title": "Steregushchiy-class corvette \"Rezkiy\" 2023 crew.jpg",
+      "description": "Steregushchiy-class corvette \"Rezkiy\" 2023 crew",
+      "license": "CC BY 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/15/Steregushchiy-class_corvette_%22Rezkiy%22_commissioning_ceremony_01.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/15/Steregushchiy-class_corvette_%22Rezkiy%22_commissioning_ceremony_01.jpg",
+      "width": 1200,
+      "height": 800,
+      "title": "Steregushchiy-class corvette \"Rezkiy\" commissioning ceremony 01.jpg",
+      "description": "Steregushchiy-class corvette \"Rezkiy\" commissioning ceremony",
+      "license": "CC BY 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Steregushchiy-class_corvette_%22Rezkiy%22_commissioning_ceremony_02.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Steregushchiy-class_corvette_%22Rezkiy%22_commissioning_ceremony_02.jpg",
+      "width": 1200,
+      "height": 800,
+      "title": "Steregushchiy-class corvette \"Rezkiy\" commissioning ceremony 02.jpg",
+      "description": "Steregushchiy-class corvette \"Rezkiy\" commissioning ceremony",
+      "license": "CC BY 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Steregushchiy-class_corvette_%22Rezkiy%22_commissioning_ceremony_03.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Steregushchiy-class_corvette_%22Rezkiy%22_commissioning_ceremony_03.jpg",
+      "width": 1200,
+      "height": 800,
+      "title": "Steregushchiy-class corvette \"Rezkiy\" commissioning ceremony 03.jpg",
+      "description": "Steregushchiy-class corvette \"Rezkiy\" commissioning ceremony",
+      "license": "CC BY 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Steregushchiy-class_corvette_335_2021Oct.png/1280px-Steregushchiy-class_corvette_335_2021Oct.png",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Steregushchiy-class_corvette_335_2021Oct.png",
+      "width": 1403,
+      "height": 551,
+      "title": "Steregushchiy-class corvette 335 2021Oct.png",
+      "description": "\u30ed\u30b7\u30a2\u6d77\u8ecd\u8266\u8247 \u30b9\u30c6\u30ec\u30b0\u30b7\u30c1\u30fc\u7d1a\u30d5\u30ea\u30b2\u30fc\u30c8\uff08\uff13\uff13\uff15\uff09\u30b0\u30ed\u30fc\u30e0\u30ad\u30fc",
+      "license": "CC BY 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Steregushchiy-class_corvette_339_2021Oct.png/1280px-Steregushchiy-class_corvette_339_2021Oct.png",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/95/Steregushchiy-class_corvette_339_2021Oct.png",
+      "width": 1403,
+      "height": 576,
+      "title": "Steregushchiy-class corvette 339 2021Oct.png",
+      "description": "\u30ed\u30b7\u30a2\u6d77\u8ecd\u8266\u8247 \u30b9\u30c6\u30ec\u30b0\u30b7\u30c1\u30fc\u7d1a\u30d5\u30ea\u30b2\u30fc\u30c8\uff08\uff13\uff13\uff19\uff09\u30ed\u30b7\u30a2\u9023\u90a6\u82f1\u96c4\u30a2\u30eb\u30c0\u30fc\u30fb\u30c4\u30a3\u30c7\u30f3\u30b8\u30e3\u30dd\u30d5",
+      "license": "CC BY 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/%D0%91%D0%B0%D0%BB%D1%82%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D1%84%D0%BB%D0%BE%D1%82_%D0%BE%D0%B1%D0%B5%D1%81%D0%BF%D0%B5%D1%87%D0%B8%D1%82_%D0%B8%D1%81%D0%BF%D1%8B%D1%82%D0%B0%D0%BD%D0%B8%D1%8F_%D0%91%D0%94%D0%9A_%C2%AB%D0%9F%D1%91%D1%82%D1%80_%D0%9C%D0%BE%D1%80%D0%B3%D1%83%D0%BD%D0%BE%D0%B2%C2%BB.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/%D0%91%D0%B0%D0%BB%D1%82%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D1%84%D0%BB%D0%BE%D1%82_%D0%BE%D0%B1%D0%B5%D1%81%D0%BF%D0%B5%D1%87%D0%B8%D1%82_%D0%B8%D1%81%D0%BF%D1%8B%D1%82%D0%B0%D0%BD%D0%B8%D1%8F_%D0%91%D0%94%D0%9A_%C2%AB%D0%9F%D1%91%D1%82%D1%80_%D0%9C%D0%BE%D1%80%D0%B3%D1%83%D0%BD%D0%BE%D0%B2%C2%BB.jpg",
+      "width": 544,
+      "height": 366,
+      "title": "\u0411\u0430\u043b\u0442\u0438\u0439\u0441\u043a\u0438\u0439 \u0444\u043b\u043e\u0442 \u043e\u0431\u0435\u0441\u043f\u0435\u0447\u0438\u0442 \u0438\u0441\u043f\u044b\u0442\u0430\u043d\u0438\u044f \u0411\u0414\u041a \u00ab\u041f\u0451\u0442\u0440 \u041c\u043e\u0440\u0433\u0443\u043d\u043e\u0432\u00bb.jpg",
+      "description": "<i>This file comes from the websites (<b><a rel=\"nofollow\" class=\"external text\" href=\"http://mil.ru/\">mil.ru</a>, <a rel=\"nofollow\" class=\"external text\" href=\"http://xn--90anlfbebar6i.xn--p1ai/\">\u043c\u0438\u043d",
+      "license": "CC BY 4.0",
+      "source": "wikimedia"
+    }
+  ]
+}

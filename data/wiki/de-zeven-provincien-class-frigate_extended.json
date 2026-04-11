@@ -1,0 +1,211 @@
+{
+  "combat_history": [
+    {
+      "date": "2009",
+      "operation": "Operation Atlanta",
+      "event": "HNLMS De Ruyter conducted counter-piracy operations off Somalia, engaging pirate skiffs with 30mm guns and providing helicopter support for vessel boardings.",
+      "significance": "Demonstrated platform's effectiveness in low-intensity maritime security operations"
+    },
+    {
+      "date": "2011",
+      "operation": "Operation Unified Protector",
+      "event": "HNLMS Evertsen participated in NATO operations off Libya, providing air defense coverage and conducting maritime interdiction operations.",
+      "significance": "Proved interoperability with NATO forces in high-threat environment"
+    },
+    {
+      "date": "2019-2020",
+      "operation": "Operation Inherent Resolve",
+      "event": "HNLMS De Ruyter deployed to Arabian Gulf providing air defense and conducting surveillance operations against Iranian threats.",
+      "significance": "Validated sensor performance in contested electronic warfare environment"
+    },
+    {
+      "date": "2023",
+      "operation": "Operation Prosperity Guardian",
+      "event": "HNLMS Evertsen deployed to Red Sea, intercepting Houthi drones and missiles using ESSM and 30mm guns.",
+      "significance": "First combat use of air defense systems against modern drone swarms and anti-ship missiles"
+    }
+  ],
+  "modernization": [
+    {
+      "program": "Mid-Life Update (MLU)",
+      "status": "completed",
+      "timeline": "2017-2023",
+      "description": "Comprehensive upgrade including new combat management system, improved ESSM Block 2, enhanced electronic warfare suite, and cybersecurity improvements.",
+      "impact": "Extended service life to 2035, improved multi-threat engagement capability"
+    },
+    {
+      "program": "Above Water Warfare (AWW) upgrade",
+      "status": "planned",
+      "timeline": "2025-2030",
+      "description": "Integration of new anti-surface missiles, possibly Naval Strike Missile, and improved radar processing.",
+      "impact": "Adds credible anti-surface warfare capability against modern combatants"
+    }
+  ],
+  "vulnerabilities": [
+    {
+      "area": "Magazine depth",
+      "description": "40 VLS cells provide limited sustained engagement capability against saturation attacks compared to larger destroyers.",
+      "context": "Chinese and Russian doctrine emphasizes overwhelming small magazines through volume of fire",
+      "mitigation": "MLU improved engagement efficiency, but fundamental capacity constraint remains"
+    },
+    {
+      "area": "Electronic warfare resilience",
+      "description": "APAR radar operates in congested X-band, vulnerable to jamming and interference from commercial systems.",
+      "context": "Modern naval combat increasingly features sophisticated EW, particularly in contested areas like South China Sea",
+      "mitigation": "Vigile EW suite provides some protection, but limited compared to larger platforms"
+    },
+    {
+      "area": "Single-point failures",
+      "description": "SMART-L radar provides exceptional capability but represents critical vulnerability if damaged.",
+      "context": "Anti-radiation missiles specifically target large rotating radars like SMART-L",
+      "mitigation": "Some redundancy through APAR, but significant capability degradation if SMART-L lost"
+    }
+  ],
+  "operational_patterns": {
+    "typical_deployment": "NATO task group escort, independent patrol missions, counter-piracy operations",
+    "deployment_length_months": 6,
+    "key_operating_areas": [
+      "Mediterranean Sea",
+      "Arabian Gulf",
+      "Horn of Africa",
+      "Caribbean"
+    ],
+    "typical_task_group": "Often operates as single high-value unit or with allied frigates/destroyers",
+    "readiness_notes": "High operational tempo has stressed hull maintenance cycles; crew shortages affect deployment frequency"
+  },
+  "peer_comparisons": [
+    {
+      "platform": "Type 45 Daring-class",
+      "country": "United Kingdom",
+      "relationship": "direct rival",
+      "key_differences": "Type 45 has superior SAMPSON radar and 48 VLS cells but chronic propulsion issues. Dutch ships more reliable but less capable sensors. Similar air defense mission but Type 45 larger and more expensive.",
+      "video_angle": "European air defense frigate shootout - reliability vs raw capability"
+    },
+    {
+      "platform": "FREMM multipurpose frigate",
+      "country": "France/Italy",
+      "relationship": "allied equivalent",
+      "key_differences": "FREMM emphasizes multi-mission flexibility with better ASW capability. De Zeven Provinci\u00ebn focused on air defense with superior long-range radar. Similar size but different mission priorities.",
+      "video_angle": "European frigate philosophy - specialist vs generalist design approaches"
+    },
+    {
+      "platform": "Sejong the Great-class",
+      "country": "South Korea",
+      "relationship": "successor generation",
+      "key_differences": "Korean ships based on Arleigh Burke with 128 VLS cells and AEGIS. Much larger and more capable but significantly more expensive. Represents evolution of air defense frigate concept.",
+      "video_angle": "How much capability can you pack into a frigate before it becomes a destroyer?"
+    },
+    {
+      "platform": "Admiral Gorshkov-class",
+      "country": "Russia",
+      "relationship": "peer competitor",
+      "key_differences": "Russian design emphasizes land attack with Kalibr missiles and has 32 VLS cells. Less sophisticated air defense but more offensive capability. Similar displacement but different tactical role.",
+      "video_angle": "NATO vs Russian frigate design - defense vs offense priority"
+    },
+    {
+      "platform": "Type 052D destroyer",
+      "country": "China",
+      "relationship": "threat platform",
+      "key_differences": "Chinese destroyer has 64 VLS cells and dual-band radar system. Larger and more capable than Dutch frigate but represents likely adversary in future conflicts. Shows capability gap facing smaller navies.",
+      "video_angle": "David vs Goliath - can European frigates compete with Chinese destroyers?"
+    }
+  ],
+  "search_keywords": [
+    "de zeven provincien",
+    "zeven provincien class",
+    "dutch frigate",
+    "F802",
+    "F803",
+    "F804",
+    "F805",
+    "SMART-L radar",
+    "APAR",
+    "tromp",
+    "de ruyter",
+    "evertsen",
+    "dutch navy",
+    "royal netherlands navy"
+  ],
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/De_Zeven_Provinci%C3%ABn_At-Sea_Demo_Formidable_Shield_2021.jpg/1280px-De_Zeven_Provinci%C3%ABn_At-Sea_Demo_Formidable_Shield_2021.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/c1/De_Zeven_Provinci%C3%ABn_At-Sea_Demo_Formidable_Shield_2021.jpg",
+      "width": 6032,
+      "height": 4021,
+      "title": "De Zeven Provinci\u00ebn At-Sea Demo Formidable Shield 2021.jpg",
+      "description": "210518-N-QI061-0240\nBRITISH ISLES (May 18, 2021) The Royal Netherlands Navy guided-missile carrying fast frigate HNLMS De Zeven Provincien (F802) transits the Atlantic Ocean during exercise At-Sea Dem",
+      "license": "CC0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/F802_De_Zeven_Provincien_01.jpg/1280px-F802_De_Zeven_Provincien_01.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/34/F802_De_Zeven_Provincien_01.jpg",
+      "width": 3159,
+      "height": 1436,
+      "title": "F802 De Zeven Provincien 01.jpg",
+      "description": "HNLMS De Zeven Provincien (F802) of the Royal Netherlands Navy in Frihamnen in Stockholm, Sweden April 29 - May 2, 2022. This frigate is is the first ship of the De Zeven Provincien class of air defen",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/F802_De_Zeven_Provincien_Frihamnen_Stockhom_April_29_-_May_02_2022_01.jpg/1280px-F802_De_Zeven_Provincien_Frihamnen_Stockhom_April_29_-_May_02_2022_01.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/bc/F802_De_Zeven_Provincien_Frihamnen_Stockhom_April_29_-_May_02_2022_01.jpg",
+      "width": 4980,
+      "height": 2170,
+      "title": "F802 De Zeven Provincien Frihamnen Stockhom April 29 - May 02 2022 01.jpg",
+      "description": "HNLMS De Zeven Provincien (F802) of the Royal Netherlands Navy in Frihamnen in Stockholm, Sweden April 29 - May 2, 2022. This frigate is is the first ship of the De Zeven Provincien class of air defen",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Fregatte_De_Zeven_Provincien_2494.jpg/1280px-Fregatte_De_Zeven_Provincien_2494.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Fregatte_De_Zeven_Provincien_2494.jpg",
+      "width": 2048,
+      "height": 1365,
+      "title": "Fregatte De Zeven Provincien 2494.jpg",
+      "description": "HNLMS De Zeven Provincien of the Royal Netherlands Navy in Hamburg, Germany. This frigate is is the first ship of the De Zeven Provincien class of air defence and command frigates.",
+      "license": "CC BY 2.5",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Fregatte_De_Zeven_Provincien_2506.jpg/1280px-Fregatte_De_Zeven_Provincien_2506.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/18/Fregatte_De_Zeven_Provincien_2506.jpg",
+      "width": 2048,
+      "height": 1365,
+      "title": "Fregatte De Zeven Provincien 2506.jpg",
+      "description": "HNLMS De Zeven Provinci\u00ebn of the Royal Netherlands Navy in Hamburg, Germany. This frigate is the first ship of the De Zeven Provinci\u00ebn class of air defence and command frigates.",
+      "license": "CC BY 2.5",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Fregatte_De_Zeven_Provincien_2518.jpg/1280px-Fregatte_De_Zeven_Provincien_2518.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Fregatte_De_Zeven_Provincien_2518.jpg",
+      "width": 2048,
+      "height": 1365,
+      "title": "Fregatte De Zeven Provincien 2518.jpg",
+      "description": "HNLMS De Zeven Provincien of the Royal Netherlands Navy in Hamburg, Germany. This frigate is is the first ship of the De Zeven Provincien class of air defence and command frigates.",
+      "license": "CC BY 2.5",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Fregatte_De_Zeven_Provincien_2563.jpg/1280px-Fregatte_De_Zeven_Provincien_2563.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Fregatte_De_Zeven_Provincien_2563.jpg",
+      "width": 2048,
+      "height": 1365,
+      "title": "Fregatte De Zeven Provincien 2563.jpg",
+      "description": "HNLMS De Zeven Provincien of the Royal Netherlands Navy in Hamburg, Germany. This frigate is is the first ship of the De Zeven Provincien class of air defence and command frigates.",
+      "license": "CC BY 2.5",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Fregatte_De_Zeven_Provincien_2578.jpg/1280px-Fregatte_De_Zeven_Provincien_2578.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/af/Fregatte_De_Zeven_Provincien_2578.jpg",
+      "width": 2048,
+      "height": 1365,
+      "title": "Fregatte De Zeven Provincien 2578.jpg",
+      "description": "HNLMS De Zeven Provincien of the Royal Netherlands Navy in Hamburg, Germany. This frigate is is the first ship of the De Zeven Provincien class of air defence and command frigates.",
+      "license": "CC BY 2.5",
+      "source": "wikimedia"
+    }
+  ]
+}

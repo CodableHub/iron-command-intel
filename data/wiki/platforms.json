@@ -1,5 +1,51 @@
 [
   {
+    "slug": "2s19m2-msta-s-howitzer",
+    "name": "2S19M2 Msta-S Self-Propelled Howitzer",
+    "designation": "2S19M2",
+    "type": "other",
+    "country": "Russia",
+    "operator": "Russian Ground Forces",
+    "unit_count": 150,
+    "cost_usd": 4500000.0,
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/00/AlabinoTraining0904-34.jpg",
+    "first_commissioned": "2013",
+    "displacement_tonnes": 42,
+    "vls_cells": 0,
+    "updated_at": "2026-04-11T10:27:39.202294",
+    "comparison_tags": [
+      "artillery",
+      "self-propelled",
+      "152mm",
+      "russian-army",
+      "ground-forces",
+      "conventional-warfare"
+    ]
+  },
+  {
+    "slug": "ah-64e-apache-guardian",
+    "name": "AH-64E Apache Guardian",
+    "designation": "AH-64E",
+    "type": "helicopter",
+    "country": "United States",
+    "operator": "U.S. Army",
+    "unit_count": 689,
+    "cost_usd": 35500000.0,
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/66/AH-64D_Apache_Longbow.jpg",
+    "first_commissioned": "2011",
+    "displacement_tonnes": 0,
+    "vls_cells": 0,
+    "updated_at": "2026-04-11T10:28:12.575759",
+    "comparison_tags": [
+      "attack-helicopter",
+      "us-army",
+      "precision-strike",
+      "anti-armor",
+      "rotorcraft",
+      "close-air-support"
+    ]
+  },
+  {
     "slug": "admiral-gorshkov-class-frigate",
     "name": "Admiral Gorshkov-class frigate",
     "designation": "Project 22350",
@@ -189,6 +235,52 @@
     ]
   },
   {
+    "slug": "bmp-3-infantry-fighting-vehicle",
+    "name": "BMP-3 Infantry Fighting Vehicle",
+    "designation": "BMP-3",
+    "type": "apc",
+    "country": "Russia",
+    "operator": "Russian Ground Forces",
+    "unit_count": 2000,
+    "cost_usd": 3200000.0,
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/04/Army2016demo-011.jpg",
+    "first_commissioned": "1987",
+    "displacement_tonnes": 18.7,
+    "vls_cells": 0,
+    "updated_at": "2026-04-11T10:16:40.288068",
+    "comparison_tags": [
+      "ifv",
+      "russian",
+      "amphibious",
+      "atgm-capable",
+      "dual-cannon",
+      "mechanized-infantry"
+    ]
+  },
+  {
+    "slug": "btr-82a-apc",
+    "name": "BTR-82A Armored Personnel Carrier",
+    "designation": "BTR-82A",
+    "type": "apc",
+    "country": "Russia",
+    "operator": "Russian Ground Forces",
+    "unit_count": 800,
+    "cost_usd": 900000.0,
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3f/2011_Moscow_Victory_Day_Parade_%28360-06%29_%28cropped%29.jpg",
+    "first_commissioned": "2013",
+    "displacement_tonnes": 16.5,
+    "vls_cells": null,
+    "updated_at": "2026-04-11T10:22:07.205178",
+    "comparison_tags": [
+      "apc",
+      "wheeled",
+      "amphibious",
+      "russian",
+      "30mm-gun",
+      "mechanized-infantry"
+    ]
+  },
+  {
     "slug": "baden-wurttemberg-class-frigate",
     "name": "Baden-W\u00fcrttemberg-class frigate",
     "designation": "F125",
@@ -208,6 +300,29 @@
       "modular-design",
       "european",
       "stabilization-operations"
+    ]
+  },
+  {
+    "slug": "fa-18ef-super-hornet",
+    "name": "Boeing F/A-18E/F Super Hornet",
+    "designation": "F/A-18E/F",
+    "type": "fighter",
+    "country": "United States",
+    "operator": "United States Navy",
+    "unit_count": 608,
+    "cost_usd": 70000000.0,
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/de/US_Navy_071203-N-8923M-074_An_F-A-18F_Super_Hornet%2C_from_the_Red_Rippers_of_Strike_Fighter_Squadron_%28VFA%29_11%2C_makes_a_sharp_turn_above_the_flight_deck_aboard_the_Nimitz-class_nuclear-powered_aircraft_carrier_USS_Harry_S._Truman.jpg",
+    "first_commissioned": "1999-11-15",
+    "displacement_tonnes": 0,
+    "vls_cells": 0,
+    "updated_at": "2026-04-11T10:04:16.332009",
+    "comparison_tags": [
+      "fighter",
+      "multirole",
+      "carrier-based",
+      "boeing",
+      "us-navy",
+      "strike-fighter"
     ]
   },
   {
@@ -236,6 +351,30 @@
     ]
   },
   {
+    "slug": "boxer-armored-fighting-vehicle",
+    "name": "Boxer Multi-Role Armoured Vehicle",
+    "designation": "GTK Boxer",
+    "type": "apc",
+    "country": "Germany/Netherlands",
+    "operator": "German Army",
+    "unit_count": 1100,
+    "cost_usd": 4500000.0,
+    "image_url": "",
+    "first_commissioned": "2009",
+    "displacement_tonnes": 38.5,
+    "vls_cells": null,
+    "updated_at": "2026-04-11T10:23:12.406517",
+    "comparison_tags": [
+      "wheeled-afv",
+      "8x8",
+      "modular",
+      "european",
+      "nato",
+      "apc",
+      "reconnaissance"
+    ]
+  },
+  {
     "slug": "buyan-m-class-corvette",
     "name": "Buyan-M class corvette",
     "designation": "Project 21631",
@@ -260,6 +399,29 @@
     ]
   },
   {
+    "slug": "challenger-3-mbt",
+    "name": "Challenger 3 Main Battle Tank",
+    "designation": "CR3",
+    "type": "tank",
+    "country": "United Kingdom",
+    "operator": "British Army",
+    "unit_count": 148,
+    "cost_usd": 6500000.0,
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/77/Challenger_3_ATD.jpg",
+    "first_commissioned": "2030",
+    "displacement_tonnes": 66.0,
+    "vls_cells": 0,
+    "updated_at": "2026-04-11T10:06:53.178469",
+    "comparison_tags": [
+      "tank",
+      "MBT",
+      "british-army",
+      "NATO-standard",
+      "heavy-armor",
+      "modernization"
+    ]
+  },
+  {
     "slug": "charles-de-gaulle-carrier",
     "name": "Charles de Gaulle",
     "designation": "R 91",
@@ -279,6 +441,52 @@
       "catobar",
       "french-navy",
       "power-projection"
+    ]
+  },
+  {
+    "slug": "j-10c-vigorous-dragon",
+    "name": "Chengdu J-10C Vigorous Dragon",
+    "designation": "J-10C",
+    "type": "fighter",
+    "country": "China",
+    "operator": "People's Liberation Army Air Force (PLAAF), Pakistan Air Force",
+    "unit_count": 400,
+    "cost_usd": 40000000.0,
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/77/J-10B_with_PL-10_and_PL-12.jpg",
+    "first_commissioned": "2017",
+    "displacement_tonnes": null,
+    "vls_cells": null,
+    "updated_at": "2026-04-11T10:13:52.602325",
+    "comparison_tags": [
+      "fighter",
+      "multirole",
+      "single-engine",
+      "china",
+      "aesa-radar",
+      "fourth-generation"
+    ]
+  },
+  {
+    "slug": "j-20-mighty-dragon",
+    "name": "Chengdu J-20 Mighty Dragon",
+    "designation": "J-20",
+    "type": "fighter",
+    "country": "China",
+    "operator": "People's Liberation Army Air Force (PLAAF)",
+    "unit_count": 200,
+    "cost_usd": 110000000.0,
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/73/J-20_at_CCAS2022_%2820220827103424%29.jpg",
+    "first_commissioned": "2017-03",
+    "displacement_tonnes": null,
+    "vls_cells": null,
+    "updated_at": "2026-04-11T10:11:48.316624",
+    "comparison_tags": [
+      "stealth-fighter",
+      "fifth-generation",
+      "air-superiority",
+      "china-plaaf",
+      "pacific-theater",
+      "anti-access"
     ]
   },
   {
@@ -329,6 +537,28 @@
     ]
   },
   {
+    "slug": "cv90-infantry-fighting-vehicle",
+    "name": "Combat Vehicle 90",
+    "designation": "CV90",
+    "type": "apc",
+    "country": "Sweden",
+    "operator": "Sweden",
+    "unit_count": 1280,
+    "cost_usd": 4500000.0,
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/30/Stridsfordon_90_Revinge_2012-2.jpg",
+    "first_commissioned": "1993",
+    "displacement_tonnes": 37,
+    "vls_cells": 0,
+    "updated_at": "2026-04-11T10:18:46.072694",
+    "comparison_tags": [
+      "ifv",
+      "wheeled-armor",
+      "european",
+      "export-success",
+      "modular-design"
+    ]
+  },
+  {
     "slug": "constellation-class-frigate",
     "name": "Constellation-class frigate",
     "designation": "FFG-62",
@@ -350,6 +580,30 @@
       "blue-water",
       "asw",
       "fremm-based"
+    ]
+  },
+  {
+    "slug": "dassault-rafale",
+    "name": "Dassault Rafale",
+    "designation": "Rafale B/C/M",
+    "type": "fighter",
+    "country": "France",
+    "operator": "French Air and Space Force, French Navy",
+    "unit_count": 234,
+    "cost_usd": 85000000.0,
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/64/Rafale_-_RIAT_2009_%283751416421%29.jpg",
+    "first_commissioned": "2001-05-18",
+    "displacement_tonnes": 0,
+    "vls_cells": 0,
+    "updated_at": "2026-04-11T10:17:42.920715",
+    "comparison_tags": [
+      "fighter",
+      "multirole",
+      "4.5-generation",
+      "carrier-capable",
+      "nuclear-capable",
+      "european",
+      "export-success"
     ]
   },
   {
@@ -397,6 +651,77 @@
       "royal-navy",
       "trident",
       "strategic"
+    ]
+  },
+  {
+    "slug": "eurofighter-typhoon",
+    "name": "Eurofighter Typhoon",
+    "designation": "EF-2000",
+    "type": "fighter",
+    "country": "United Kingdom/Germany/Italy/Spain",
+    "operator": "Multiple (RAF, Luftwaffe, Aeronautica Militare, EdA)",
+    "unit_count": 681,
+    "cost_usd": 124000000.0,
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3c/RAF_Eurofighter_EF-2000_Typhoon_F2_Lofting-1.jpg",
+    "first_commissioned": "2003-08-04",
+    "displacement_tonnes": null,
+    "vls_cells": null,
+    "updated_at": "2026-04-11T10:16:24.733843",
+    "comparison_tags": [
+      "fighter",
+      "multirole",
+      "european",
+      "supersonic",
+      "aesa-radar",
+      "canard-delta",
+      "supercruise"
+    ]
+  },
+  {
+    "slug": "f-35a-lightning-ii",
+    "name": "F-35A Lightning II Multirole Fighter",
+    "designation": "F-35A",
+    "type": "fighter",
+    "country": "United States",
+    "operator": "United States Air Force",
+    "unit_count": 450,
+    "cost_usd": 82000000.0,
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/61/F-35A_flight_%28cropped%29.jpg",
+    "first_commissioned": "2016-08-02",
+    "displacement_tonnes": null,
+    "vls_cells": null,
+    "updated_at": "2026-04-11T10:01:49.614895",
+    "comparison_tags": [
+      "stealth",
+      "multirole",
+      "fifth-generation",
+      "usaf",
+      "nato",
+      "sensor-fusion"
+    ]
+  },
+  {
+    "slug": "f-35b-lightning-ii",
+    "name": "F-35B Lightning II",
+    "designation": "F-35B",
+    "type": "fighter",
+    "country": "United States",
+    "operator": "United States Marine Corps",
+    "unit_count": 195,
+    "cost_usd": 115500000.0,
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/61/F-35A_flight_%28cropped%29.jpg",
+    "first_commissioned": "2015-07-31",
+    "displacement_tonnes": 0,
+    "vls_cells": 0,
+    "updated_at": "2026-04-11T10:20:06.484910",
+    "comparison_tags": [
+      "fighter",
+      "stealth",
+      "STOVL",
+      "expeditionary",
+      "fifth-generation",
+      "multirole",
+      "carrier-capable"
     ]
   },
   {
@@ -494,6 +819,29 @@
     ]
   },
   {
+    "slug": "f-16-fighting-falcon",
+    "name": "General Dynamics F-16 Fighting Falcon",
+    "designation": "F-16",
+    "type": "fighter",
+    "country": "United States",
+    "operator": "United States Air Force",
+    "unit_count": 4604,
+    "cost_usd": 34000000.0,
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c9/F-16_June_2008.jpg",
+    "first_commissioned": "1978-08-17",
+    "displacement_tonnes": null,
+    "vls_cells": null,
+    "updated_at": "2026-04-11T10:06:39.528882",
+    "comparison_tags": [
+      "fighter",
+      "multirole",
+      "4th-generation",
+      "single-engine",
+      "usaf",
+      "nato"
+    ]
+  },
+  {
     "slug": "gerald-r-ford-class",
     "name": "Gerald R. Ford-class aircraft carrier",
     "designation": "CVN-78",
@@ -585,6 +933,53 @@
       "japan",
       "pacific",
       "stovl"
+    ]
+  },
+  {
+    "slug": "k2-black-panther",
+    "name": "K2 Black Panther Main Battle Tank",
+    "designation": "K2",
+    "type": "tank",
+    "country": "South Korea",
+    "operator": "Republic of Korea Army",
+    "unit_count": 300,
+    "cost_usd": 8500000.0,
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/41/U.S.%2C_ROK_forces_forge_interoperability_with_combined_arms_exercise_-_8_of_8.jpg",
+    "first_commissioned": "2014",
+    "displacement_tonnes": 55,
+    "vls_cells": null,
+    "updated_at": "2026-04-11T10:11:15.539155",
+    "comparison_tags": [
+      "mbt",
+      "main-battle-tank",
+      "korean-defense",
+      "active-protection",
+      "indigenous-development",
+      "export-success"
+    ]
+  },
+  {
+    "slug": "k21-ifv",
+    "name": "K21 Infantry Fighting Vehicle",
+    "designation": "K21",
+    "type": "apc",
+    "country": "South Korea",
+    "operator": "Republic of Korea Army",
+    "unit_count": 466,
+    "cost_usd": 4500000.0,
+    "image_url": "",
+    "first_commissioned": "2009",
+    "displacement_tonnes": 25.6,
+    "vls_cells": 0,
+    "updated_at": "2026-04-11T10:19:44.927736",
+    "comparison_tags": [
+      "ifv",
+      "mechanized-infantry",
+      "south-korea",
+      "hanwha-defense",
+      "korean-peninsula",
+      "hybrid-drive",
+      "anti-tank"
     ]
   },
   {
@@ -682,6 +1077,53 @@
     ]
   },
   {
+    "slug": "leclerc-main-battle-tank",
+    "name": "Leclerc Main Battle Tank",
+    "designation": "AMX-56",
+    "type": "tank",
+    "country": "France",
+    "operator": "French Army",
+    "unit_count": 862,
+    "cost_usd": 8500000.0,
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Leclerc-openphotonet_PICT6015.JPG",
+    "first_commissioned": "1992",
+    "displacement_tonnes": 56.5,
+    "vls_cells": 0,
+    "updated_at": "2026-04-11T10:13:34.135217",
+    "comparison_tags": [
+      "main-battle-tank",
+      "autoloader",
+      "120mm-gun",
+      "french-army",
+      "nato-tank",
+      "composite-armor",
+      "thermal-imaging"
+    ]
+  },
+  {
+    "slug": "leopard-2a7-plus",
+    "name": "Leopard 2A7+",
+    "designation": "Leopard 2A7+",
+    "type": "tank",
+    "country": "Germany",
+    "operator": "Germany",
+    "unit_count": 104,
+    "cost_usd": 15000000.0,
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Leopard_2_A7V_313_Bad_Frankenhausen_2024.JPG",
+    "first_commissioned": "2014",
+    "displacement_tonnes": 65,
+    "vls_cells": null,
+    "updated_at": "2026-04-11T10:05:46.862699",
+    "comparison_tags": [
+      "main-battle-tank",
+      "german-armor",
+      "nato-standard",
+      "120mm-gun",
+      "composite-armor",
+      "european-defense"
+    ]
+  },
+  {
     "slug": "lewis-b-puller-class-esb",
     "name": "Lewis B. Puller-class expeditionary sea base",
     "designation": "ESB",
@@ -705,6 +1147,29 @@
     ]
   },
   {
+    "slug": "f-22-raptor",
+    "name": "Lockheed Martin F-22 Raptor",
+    "designation": "F-22A",
+    "type": "fighter",
+    "country": "United States",
+    "operator": "United States Air Force",
+    "unit_count": 195,
+    "cost_usd": 377000000.0,
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1e/F-22_Raptor_edit1_%28cropped%29.jpg",
+    "first_commissioned": "2005-12-15",
+    "displacement_tonnes": 0,
+    "vls_cells": 0,
+    "updated_at": "2026-04-11T10:02:59.457543",
+    "comparison_tags": [
+      "fighter",
+      "stealth",
+      "air-superiority",
+      "fifth-generation",
+      "us-air-force",
+      "supercruise"
+    ]
+  },
+  {
     "slug": "los-angeles-class-submarine",
     "name": "Los Angeles-class attack submarine",
     "designation": "SSN-688",
@@ -725,6 +1190,169 @@
       "us-navy",
       "cold-war",
       "multi-mission"
+    ]
+  },
+  {
+    "slug": "m109a7-paladin-pim",
+    "name": "M109A7 Paladin Integrated Management (PIM) Self-Propelled Howitzer",
+    "designation": "M109A7",
+    "type": "other",
+    "country": "United States",
+    "operator": "United States Army",
+    "unit_count": 480,
+    "cost_usd": 3800000.0,
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Kings_of_battle_keep_the_fire%3B_1-9_FA_fires_its_last_rounds_140910-A-CW513-046.jpg",
+    "first_commissioned": "2015",
+    "displacement_tonnes": 35.4,
+    "vls_cells": null,
+    "updated_at": "2026-04-11T10:25:11.870086",
+    "comparison_tags": [
+      "artillery",
+      "self-propelled",
+      "155mm",
+      "us-army",
+      "indirect-fire",
+      "armored",
+      "tracked"
+    ]
+  },
+  {
+    "slug": "m1126-stryker-apc",
+    "name": "M1126 Stryker Infantry Carrier Vehicle",
+    "designation": "M1126",
+    "type": "apc",
+    "country": "United States",
+    "operator": "U.S. Army",
+    "unit_count": 4466,
+    "cost_usd": 4900000.0,
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/51/Stryker_ICV_front_q.jpg",
+    "first_commissioned": "2002",
+    "displacement_tonnes": null,
+    "vls_cells": null,
+    "updated_at": "2026-04-11T10:21:12.392411",
+    "comparison_tags": [
+      "apc",
+      "wheeled",
+      "8x8",
+      "us-army",
+      "medium-armor",
+      "networked",
+      "rapid-deployment"
+    ]
+  },
+  {
+    "slug": "m1a2-sepv3-abrams",
+    "name": "M1A2 System Enhancement Package Version 3 Abrams Main Battle Tank",
+    "designation": "M1A2 SEPv3",
+    "type": "tank",
+    "country": "United States",
+    "operator": "United States Army",
+    "unit_count": 87,
+    "cost_usd": 8900000.0,
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/0b/M1A2_SEP_v3.jpg",
+    "first_commissioned": "2017",
+    "displacement_tonnes": 73.6,
+    "vls_cells": null,
+    "updated_at": "2026-04-11T10:04:06.561542",
+    "comparison_tags": [
+      "main-battle-tank",
+      "nato",
+      "120mm-gun",
+      "gas-turbine",
+      "active-protection",
+      "us-army",
+      "heavy-armor"
+    ]
+  },
+  {
+    "slug": "m2a4-bradley-ifv",
+    "name": "M2A4 Bradley Infantry Fighting Vehicle",
+    "designation": "M2A4",
+    "type": "apc",
+    "country": "United States",
+    "operator": "U.S. Army",
+    "unit_count": 164,
+    "cost_usd": 4200000.0,
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/91/US_M2A1_Bradley_deployed_to_Saudi_Arabia_during_Operation_Desert_Shield.jpg",
+    "first_commissioned": "2019",
+    "displacement_tonnes": 33.6,
+    "vls_cells": null,
+    "updated_at": "2026-04-11T10:15:31.223231",
+    "comparison_tags": [
+      "ifv",
+      "mechanized-infantry",
+      "us-army",
+      "tracked-vehicle",
+      "anti-tank"
+    ]
+  },
+  {
+    "slug": "f-15ex-eagle-ii",
+    "name": "McDonnell Douglas F-15EX Eagle II",
+    "designation": "F-15EX",
+    "type": "fighter",
+    "country": "United States",
+    "operator": "United States Air Force",
+    "unit_count": 8,
+    "cost_usd": 87900000.0,
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/43/F-15EX_Eagle_II.jpg",
+    "first_commissioned": "2021-03-10",
+    "displacement_tonnes": 0,
+    "vls_cells": 0,
+    "updated_at": "2026-04-11T10:05:20.082285",
+    "comparison_tags": [
+      "fighter",
+      "air-superiority",
+      "multi-role",
+      "us-air-force",
+      "twin-engine",
+      "non-stealth",
+      "missile-truck"
+    ]
+  },
+  {
+    "slug": "merkava-mk-4",
+    "name": "Merkava Mk 4 Main Battle Tank",
+    "designation": "Merkava Mk 4",
+    "type": "tank",
+    "country": "Israel",
+    "operator": "Israel Defense Forces",
+    "unit_count": 360,
+    "cost_usd": 4500000.0,
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/43/Merkava-Mk4m-whiteback01.jpg",
+    "first_commissioned": "2004",
+    "displacement_tonnes": 65,
+    "vls_cells": null,
+    "updated_at": "2026-04-11T10:12:26.148329",
+    "comparison_tags": [
+      "main-battle-tank",
+      "active-protection",
+      "urban-warfare",
+      "israel",
+      "middle-east",
+      "survivability"
+    ]
+  },
+  {
+    "slug": "mig-31bm-foxhound",
+    "name": "Mikoyan MiG-31BM Foxhound",
+    "designation": "MiG-31BM",
+    "type": "fighter",
+    "country": "Russia",
+    "operator": "Russian Aerospace Forces",
+    "unit_count": 110,
+    "cost_usd": 45000000.0,
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/38/Russian_Air_Force_Mikoyan-Gurevich_MiG-31P.jpg",
+    "first_commissioned": "2010",
+    "displacement_tonnes": 0,
+    "vls_cells": 0,
+    "updated_at": "2026-04-11T10:10:49.586399",
+    "comparison_tags": [
+      "interceptor",
+      "long-range",
+      "hypersonic-carrier",
+      "russian-air-force",
+      "arctic-capable"
     ]
   },
   {
@@ -819,6 +1447,28 @@
     ]
   },
   {
+    "slug": "namer-heavy-apc",
+    "name": "Namer Armoured Personnel Carrier",
+    "designation": "Namer",
+    "type": "apc",
+    "country": "Israel",
+    "operator": "Israel Defense Forces",
+    "unit_count": 200,
+    "cost_usd": 3500000.0,
+    "image_url": "",
+    "first_commissioned": "2008",
+    "displacement_tonnes": 60,
+    "vls_cells": 0,
+    "updated_at": "2026-04-11T10:24:10.557026",
+    "comparison_tags": [
+      "heavy-apc",
+      "active-protection",
+      "urban-warfare",
+      "idf",
+      "merkava-based"
+    ]
+  },
+  {
     "slug": "nimitz-class-aircraft-carrier",
     "name": "Nimitz-class aircraft carrier",
     "designation": "CVN-68 class",
@@ -840,6 +1490,52 @@
       "power-projection",
       "blue-water",
       "strike-group"
+    ]
+  },
+  {
+    "slug": "b-2-spirit",
+    "name": "Northrop Grumman B-2 Spirit",
+    "designation": "B-2A",
+    "type": "bomber",
+    "country": "United States",
+    "operator": "United States Air Force",
+    "unit_count": 21,
+    "cost_usd": 2200000000.0,
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/77/RAF_F-35B_integration_flying_training_with_USAF_B-2_30092019_-_4.jpg",
+    "first_commissioned": "1993-12-17",
+    "displacement_tonnes": 0,
+    "vls_cells": 0,
+    "updated_at": "2026-04-11T10:22:44.356599",
+    "comparison_tags": [
+      "bomber",
+      "stealth",
+      "strategic",
+      "nuclear",
+      "us-air-force",
+      "global-strike"
+    ]
+  },
+  {
+    "slug": "b-21-raider",
+    "name": "Northrop Grumman B-21 Raider",
+    "designation": "B-21",
+    "type": "bomber",
+    "country": "United States",
+    "operator": "U.S. Air Force",
+    "unit_count": 2,
+    "cost_usd": 2800000000.0,
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/B-21-in-flight.jpg",
+    "first_commissioned": "2024",
+    "displacement_tonnes": null,
+    "vls_cells": null,
+    "updated_at": "2026-04-11T10:21:03.990211",
+    "comparison_tags": [
+      "bomber",
+      "stealth",
+      "strategic",
+      "nuclear-capable",
+      "us-air-force",
+      "penetrating-strike"
     ]
   },
   {
@@ -867,6 +1563,30 @@
     ]
   },
   {
+    "slug": "pzh-2000-howitzer",
+    "name": "Panzerhaubitze 2000",
+    "designation": "PzH 2000",
+    "type": "other",
+    "country": "Germany",
+    "operator": "German Army (Bundeswehr)",
+    "unit_count": 572,
+    "cost_usd": 7500000.0,
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Lithuanian_PzH_2000_%282%29.jpg",
+    "first_commissioned": "1998",
+    "displacement_tonnes": 57.0,
+    "vls_cells": 0,
+    "updated_at": "2026-04-11T10:26:31.867534",
+    "comparison_tags": [
+      "artillery",
+      "self-propelled",
+      "155mm",
+      "automated",
+      "NATO",
+      "armored",
+      "precision-fires"
+    ]
+  },
+  {
     "slug": "karakurt-class-corvette",
     "name": "Project 22800 Karakurt-class corvette",
     "designation": "Project 22800",
@@ -886,6 +1606,29 @@
       "strike",
       "russian-navy",
       "littoral-combat"
+    ]
+  },
+  {
+    "slug": "puma-ifv",
+    "name": "Puma Infantry Fighting Vehicle",
+    "designation": "SPz Puma",
+    "type": "apc",
+    "country": "Germany",
+    "operator": "German Army (Bundeswehr)",
+    "unit_count": 350,
+    "cost_usd": 17000000.0,
+    "image_url": "",
+    "first_commissioned": "2015",
+    "displacement_tonnes": 0,
+    "vls_cells": 0,
+    "updated_at": "2026-04-11T10:17:35.345440",
+    "comparison_tags": [
+      "ifv",
+      "german",
+      "nato",
+      "mechanized-infantry",
+      "advanced-sensors",
+      "reliability-issues"
     ]
   },
   {
@@ -910,6 +1653,53 @@
       "power-projection",
       "NATO",
       "ski-jump"
+    ]
+  },
+  {
+    "slug": "b-1b-lancer",
+    "name": "Rockwell B-1B Lancer",
+    "designation": "B-1B",
+    "type": "bomber",
+    "country": "United States",
+    "operator": "U.S. Air Force",
+    "unit_count": 100,
+    "cost_usd": 283000000.0,
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/7d/B-1B_air_refueling.jpg",
+    "first_commissioned": "1986-10-01",
+    "displacement_tonnes": 0,
+    "vls_cells": 0,
+    "updated_at": "2026-04-11T10:23:57.530002",
+    "comparison_tags": [
+      "bomber",
+      "strategic",
+      "supersonic",
+      "variable-sweep",
+      "us-air-force",
+      "nuclear-capable"
+    ]
+  },
+  {
+    "slug": "saab-jas-39-gripen",
+    "name": "Saab JAS 39 Gripen",
+    "designation": "JAS 39",
+    "type": "fighter",
+    "country": "Sweden",
+    "operator": "Swedish Air Force",
+    "unit_count": 271,
+    "cost_usd": 85000000.0,
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Saab_JAS_39_Gripen_at_Kaivopuisto_Air_Show%2C_June_2017_%28altered%29_copy.jpg",
+    "first_commissioned": "1996",
+    "displacement_tonnes": null,
+    "vls_cells": null,
+    "updated_at": "2026-04-11T10:18:58.439667",
+    "comparison_tags": [
+      "fighter",
+      "multirole",
+      "single-engine",
+      "lightweight",
+      "export-fighter",
+      "4.5-generation",
+      "scandinavian"
     ]
   },
   {
@@ -961,6 +1751,54 @@
     ]
   },
   {
+    "slug": "j-15-flying-shark",
+    "name": "Shenyang J-15 Flying Shark",
+    "designation": "J-15",
+    "type": "fighter",
+    "country": "China",
+    "operator": "People's Liberation Army Navy",
+    "unit_count": 50,
+    "cost_usd": 70000000.0,
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/63/Two_J-15Ts_and_a_J-15D_in_Zhuhai_airshow_2024.jpg",
+    "first_commissioned": "2013",
+    "displacement_tonnes": 0,
+    "vls_cells": 0,
+    "updated_at": "2026-04-11T10:15:05.180046",
+    "comparison_tags": [
+      "carrier-fighter",
+      "multirole",
+      "twin-engine",
+      "china-navy",
+      "ski-jump",
+      "flanker-derivative"
+    ]
+  },
+  {
+    "slug": "j-16-fighter",
+    "name": "Shenyang J-16",
+    "designation": "J-16",
+    "type": "fighter",
+    "country": "China",
+    "operator": "People's Liberation Army Air Force",
+    "unit_count": 250,
+    "cost_usd": 45000000.0,
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f8/PLAAF_J-16_-_2.jpg",
+    "first_commissioned": "2013",
+    "displacement_tonnes": null,
+    "vls_cells": 0,
+    "updated_at": "2026-04-11T10:12:51.273815",
+    "comparison_tags": [
+      "fighter",
+      "multirole",
+      "twin-engine",
+      "plaaf",
+      "chinese-military",
+      "flanker-family",
+      "aesa-radar",
+      "pacific-theater"
+    ]
+  },
+  {
     "slug": "sinpo-class-submarine",
     "name": "Sinpo-class submarine",
     "designation": "Sinpo-class (Romeo Mod)",
@@ -1007,6 +1845,74 @@
     ]
   },
   {
+    "slug": "su-34-fullback",
+    "name": "Sukhoi Su-34 Fullback",
+    "designation": "Su-34",
+    "type": "bomber",
+    "country": "Russia",
+    "operator": "Russian Aerospace Forces",
+    "unit_count": 146,
+    "cost_usd": 36000000.0,
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/76/MAKS2015part1-10_%28cropped%29.jpg",
+    "first_commissioned": "2014",
+    "displacement_tonnes": 0,
+    "vls_cells": 0,
+    "updated_at": "2026-04-11T10:09:59.692933",
+    "comparison_tags": [
+      "bomber",
+      "strike-fighter",
+      "russian",
+      "tactical-aviation",
+      "precision-strike"
+    ]
+  },
+  {
+    "slug": "su-35s-flanker-e",
+    "name": "Sukhoi Su-35S Flanker-E",
+    "designation": "Su-35S",
+    "type": "fighter",
+    "country": "Russia",
+    "operator": "Russian Aerospace Forces",
+    "unit_count": 142,
+    "cost_usd": 85000000.0,
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Russian_Air_Force%2C_RF-81719%2C_Sukhoi_Su-35S_%2849581740157%29.jpg",
+    "first_commissioned": "2014-02-17",
+    "displacement_tonnes": 0,
+    "vls_cells": 0,
+    "updated_at": "2026-04-11T10:08:52.123884",
+    "comparison_tags": [
+      "fighter",
+      "air-superiority",
+      "4th-gen-plus",
+      "russia",
+      "flanker-family",
+      "thrust-vectoring",
+      "super-maneuverability"
+    ]
+  },
+  {
+    "slug": "su-57-felon",
+    "name": "Sukhoi Su-57 Felon",
+    "designation": "Su-57",
+    "type": "fighter",
+    "country": "Russia",
+    "operator": "Russian Aerospace Forces",
+    "unit_count": 22,
+    "cost_usd": 42000000.0,
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Sukhoi_Design_Bureau%2C_054%2C_Sukhoi_T-50_%28Su-57_prototype%29_%2849581303977%29.jpg",
+    "first_commissioned": "2020-12-25",
+    "displacement_tonnes": 0,
+    "vls_cells": 0,
+    "updated_at": "2026-04-11T10:07:43.370879",
+    "comparison_tags": [
+      "stealth-fighter",
+      "air-superiority",
+      "fifth-generation",
+      "russian-aerospace",
+      "multirole"
+    ]
+  },
+  {
     "slug": "soryu-class-submarine",
     "name": "S\u014dry\u016b-class submarine",
     "designation": "SS-501 through SS-512",
@@ -1027,6 +1933,51 @@
       "asw",
       "jmsdf",
       "conventional-submarine"
+    ]
+  },
+  {
+    "slug": "t-14-armata",
+    "name": "T-14 Armata Main Battle Tank",
+    "designation": "T-14",
+    "type": "tank",
+    "country": "Russia",
+    "operator": "Russian Armed Forces",
+    "unit_count": 132,
+    "cost_usd": 8000000.0,
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/9e/VDayRehearsal05052016-28.jpg",
+    "first_commissioned": "2015",
+    "displacement_tonnes": 55,
+    "vls_cells": null,
+    "updated_at": "2026-04-11T10:09:11.602932",
+    "comparison_tags": [
+      "tank",
+      "mbt",
+      "russian-armor",
+      "next-gen",
+      "active-protection",
+      "unmanned-turret"
+    ]
+  },
+  {
+    "slug": "t-90m-proryv",
+    "name": "T-90M Proryv Main Battle Tank",
+    "designation": "T-90M",
+    "type": "tank",
+    "country": "Russia",
+    "operator": "Russian Ground Forces",
+    "unit_count": 540,
+    "cost_usd": 4500000.0,
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/T-90M.jpg",
+    "first_commissioned": "2017",
+    "displacement_tonnes": 48,
+    "vls_cells": 0,
+    "updated_at": "2026-04-11T10:08:00.467969",
+    "comparison_tags": [
+      "main-battle-tank",
+      "russian-armor",
+      "modern-mbt",
+      "ukraine-conflict",
+      "125mm-gun"
     ]
   },
   {
@@ -1097,6 +2048,29 @@
       "french-navy",
       "ballistic-missile-submarine",
       "strategic-forces"
+    ]
+  },
+  {
+    "slug": "tu-160m-blackjack",
+    "name": "Tupolev Tu-160M Blackjack Strategic Bomber",
+    "designation": "Tu-160M",
+    "type": "bomber",
+    "country": "Russia",
+    "operator": "Russian Aerospace Forces",
+    "unit_count": 17,
+    "cost_usd": 280000000.0,
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/75/Tupolev_Tu-160_RF-94109.jpg",
+    "first_commissioned": "2020",
+    "displacement_tonnes": 0,
+    "vls_cells": 0,
+    "updated_at": "2026-04-11T10:24:59.608475",
+    "comparison_tags": [
+      "bomber",
+      "strategic",
+      "nuclear",
+      "supersonic",
+      "russian",
+      "long-range"
     ]
   },
   {
@@ -1358,6 +2332,29 @@
     ]
   },
   {
+    "slug": "type-10-hitomaru-mbt",
+    "name": "Type 10 Main Battle Tank (Hitomaru)",
+    "designation": "Type 10",
+    "type": "tank",
+    "country": "Japan",
+    "operator": "Japan Ground Self-Defense Force",
+    "unit_count": 112,
+    "cost_usd": 9500000.0,
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/76/Type10MBT.jpg",
+    "first_commissioned": "2010",
+    "displacement_tonnes": 44,
+    "vls_cells": 0,
+    "updated_at": "2026-04-11T10:14:27.557057",
+    "comparison_tags": [
+      "mbt",
+      "japanese",
+      "light-tank",
+      "modern",
+      "indigenous",
+      "pacific-theater"
+    ]
+  },
+  {
     "slug": "type-212a-submarine",
     "name": "Type 212A submarine",
     "designation": "Type 212A",
@@ -1573,6 +2570,53 @@
     ]
   },
   {
+    "slug": "h-20-chinese-stealth-bomber",
+    "name": "Xian H-20 Strategic Stealth Bomber",
+    "designation": "H-20",
+    "type": "bomber",
+    "country": "China",
+    "operator": "People's Liberation Army Air Force (PLAAF)",
+    "unit_count": 0,
+    "cost_usd": 2800000000.0,
+    "image_url": "",
+    "first_commissioned": "Unknown (estimated 2025-2027)",
+    "displacement_tonnes": null,
+    "vls_cells": null,
+    "updated_at": "2026-04-11T10:25:48.073866",
+    "comparison_tags": [
+      "bomber",
+      "stealth",
+      "strategic",
+      "nuclear-capable",
+      "china",
+      "plaaf",
+      "long-range-strike"
+    ]
+  },
+  {
+    "slug": "xian-h-6k-n-bomber",
+    "name": "Xian H-6K/N Strategic Bomber",
+    "designation": "H-6K/N",
+    "type": "bomber",
+    "country": "China",
+    "operator": "People's Liberation Army Air Force",
+    "unit_count": 180,
+    "cost_usd": 45000000.0,
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/ba/H-6K_20211_20151127.jpg",
+    "first_commissioned": "2009",
+    "displacement_tonnes": 0,
+    "vls_cells": 0,
+    "updated_at": "2026-04-11T10:26:52.597226",
+    "comparison_tags": [
+      "bomber",
+      "strategic",
+      "cruise-missile",
+      "chinese",
+      "subsonic",
+      "long-range"
+    ]
+  },
+  {
     "slug": "yasen-class-submarine",
     "name": "Yasen-class nuclear-powered attack submarine",
     "designation": "Project 885/885M Yasen/Yasen-M",
@@ -1593,6 +2637,29 @@
       "cruise-missile",
       "russian-navy",
       "attack-submarine"
+    ]
+  },
+  {
+    "slug": "type-99a-main-battle-tank",
+    "name": "ZTZ-99A main battle tank",
+    "designation": "ZTZ-99A",
+    "type": "tank",
+    "country": "China",
+    "operator": "People's Liberation Army Ground Force",
+    "unit_count": 800,
+    "cost_usd": 2500000.0,
+    "image_url": "",
+    "first_commissioned": "2011",
+    "displacement_tonnes": 58,
+    "vls_cells": 0,
+    "updated_at": "2026-04-11T10:10:11.748174",
+    "comparison_tags": [
+      "tank",
+      "mbt",
+      "chinese-military",
+      "pla",
+      "ground-forces",
+      "armored-warfare"
     ]
   },
   {

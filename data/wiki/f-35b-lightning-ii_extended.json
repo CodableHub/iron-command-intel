@@ -1,0 +1,295 @@
+{
+  "combat_history": [
+    {
+      "date": "2018-09",
+      "operation": "Initial deployment",
+      "event": "First operational deployment aboard USS Essex (LHD-2) with 13th MEU to Indo-Pacific region",
+      "significance": "Demonstrated STOVL stealth fighter operations from amphibious platforms"
+    },
+    {
+      "date": "2019-04",
+      "operation": "Operation Inherent Resolve",
+      "event": "UK RAF F-35Bs conducted first combat strikes from HMS Queen Elizabeth against ISIS targets in Iraq and Syria",
+      "significance": "First combat use of F-35B, validating carrier strike operations"
+    },
+    {
+      "date": "2021-11",
+      "operation": "HMS Queen Elizabeth deployment",
+      "event": "F-35B ZA470 crashed during recovery operations in Mediterranean, pilot ejected safely",
+      "significance": "Highlighted challenges of STOVL operations and classified data security concerns"
+    },
+    {
+      "date": "2023-10",
+      "operation": "Red Flag exercises",
+      "event": "USMC F-35Bs achieved 20:1 kill ratios in air-to-air combat scenarios during advanced training",
+      "significance": "Demonstrated sensor fusion and stealth advantages in contested environments"
+    }
+  ],
+  "modernization": [
+    {
+      "program": "Block 4 Capability Release",
+      "status": "in-progress",
+      "timeline": "2023-2029",
+      "description": "TR-3 hardware upgrade with new core processor, Block 4 software with enhanced sensors, new weapons integration including Meteor, SiAW, and advanced electronic warfare capabilities",
+      "impact": "Significantly enhances sensor range, processing power, and weapons flexibility"
+    },
+    {
+      "program": "Engine Core Upgrade (ECU)",
+      "status": "planned",
+      "timeline": "2027-2035",
+      "description": "F135 engine upgrade providing 6-10% more thrust and improved thermal management for Block 4 power requirements",
+      "impact": "Addresses power and thermal limitations limiting Block 4 capabilities"
+    },
+    {
+      "program": "Adaptive Engine Transition Program (AETP)",
+      "status": "cancelled",
+      "timeline": "was 2025-2030",
+      "description": "Development of adaptive cycle engines (XA100/XA101) to replace F135 with 25% better fuel efficiency and 10% more thrust",
+      "impact": "Would have significantly improved range and performance but cancelled due to cost concerns"
+    }
+  ],
+  "vulnerabilities": [
+    {
+      "area": "Software stability and reliability",
+      "description": "Persistent software bugs in mission systems causing false alarms, display failures, and weapon release malfunctions. Block 4 TR-3 upgrade delayed multiple times.",
+      "context": "Software issues directly impact mission effectiveness and pilot confidence in combat scenarios",
+      "mitigation": "Ongoing software patches and TR-3 hardware upgrade to address processing limitations"
+    },
+    {
+      "area": "Maintenance complexity and cost",
+      "description": "Stealth coating maintenance requires specialized facilities and techniques. STOVL system adds complexity with lift fan, roll posts, and three-bearing swivel nozzle.",
+      "context": "Forward deployed operations may be limited by maintenance requirements, reducing operational availability",
+      "mitigation": "Improved maintenance procedures and mobile maintenance capabilities being developed"
+    },
+    {
+      "area": "Limited weapons bay capacity",
+      "description": "Internal weapons bays can only carry 2 x 2000lb weapons or equivalent, requiring external carriage that compromises stealth for larger payloads.",
+      "context": "In high-threat environments, stealth is essential but limits strike capability compared to conventional fighters",
+      "mitigation": "Block 4 adds new weapons options but doesn't address fundamental bay size limitations"
+    },
+    {
+      "area": "Logistics footprint",
+      "description": "ALIS/ODIN logistics system creates dependencies on contractor support and complex supply chains. Unique spare parts not shared with F-35A/C variants.",
+      "context": "Expeditionary operations may be constrained by logistics requirements, limiting the theoretical advantage of STOVL capability",
+      "mitigation": "ODIN system aims to reduce contractor dependence, but remains complex"
+    }
+  ],
+  "operational_patterns": {
+    "typical_deployment": "Embarked on LHA/LHD amphibious assault ships or forward deployed to expeditionary airfields",
+    "deployment_length_months": 6,
+    "key_operating_areas": [
+      "Western Pacific",
+      "Mediterranean",
+      "Persian Gulf",
+      "Indo-Pacific"
+    ],
+    "typical_task_group": "Marine Expeditionary Unit (MEU) or Expeditionary Strike Group (ESG)",
+    "readiness_notes": "Mission capable rates around 65-70%, below desired 80% due to maintenance complexity and parts availability"
+  },
+  "peer_comparisons": [
+    {
+      "platform": "AV-8B Harrier II",
+      "country": "United States",
+      "relationship": "predecessor",
+      "key_differences": "F-35B adds supersonic speed, stealth, and advanced sensors but with higher cost and maintenance complexity compared to the proven but obsolete Harrier platform.",
+      "video_angle": "Evolution of STOVL fighters: what was gained and lost in the Harrier to F-35B transition"
+    },
+    {
+      "platform": "F/A-18E Super Hornet",
+      "country": "United States",
+      "relationship": "allied equivalent",
+      "key_differences": "Super Hornet offers proven reliability, larger weapons capacity, and lower costs but lacks stealth and STOVL capability, requiring full-size carriers for naval operations.",
+      "video_angle": "Stealth vs. payload: comparing expeditionary strike capabilities"
+    },
+    {
+      "platform": "Yak-141 Freestyle",
+      "country": "Russia",
+      "relationship": "historical rival",
+      "key_differences": "Soviet supersonic STOVL fighter that never entered service. Similar concept but lacked stealth design and modern sensors, cancelled due to cost and complexity.",
+      "video_angle": "What if the Yak-141 had succeeded: comparing Soviet and American approaches to STOVL fighters"
+    },
+    {
+      "platform": "HAL Tejas Mk2",
+      "country": "India",
+      "relationship": "contemporary",
+      "key_differences": "India's indigenous fighter lacks STOVL capability and stealth features but offers lower costs and full domestic control, representing different approach to air power development.",
+      "video_angle": "Indigenous vs. international: different paths to advanced fighter capabilities"
+    }
+  ],
+  "search_keywords": [
+    "F-35B",
+    "F35B",
+    "Lightning II",
+    "JSF",
+    "STOVL",
+    "vertical landing",
+    "Marine Corps",
+    "amphibious",
+    "LHA",
+    "LHD",
+    "Queen Elizabeth",
+    "Harrier replacement"
+  ],
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/300th_Flight_of_BF-04%2C_an_F-35B_Lightning_II_Short_Takeoff_and_Vertical_Landing_%28STOVL%29_Aircraft_150710-D-MJ303-354.jpg/1280px-300th_Flight_of_BF-04%2C_an_F-35B_Lightning_II_Short_Takeoff_and_Vertical_Landing_%28STOVL%29_Aircraft_150710-D-MJ303-354.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/300th_Flight_of_BF-04%2C_an_F-35B_Lightning_II_Short_Takeoff_and_Vertical_Landing_%28STOVL%29_Aircraft_150710-D-MJ303-354.jpg",
+      "width": 3000,
+      "height": 2400,
+      "title": "300th Flight of BF-04, an F-35B Lightning II Short Takeoff and Vertical Landing (STOVL) Aircraft 150710-D-MJ303-354.jpg",
+      "description": "During the 300th flight of aircraft BF-04, the F-35B Lightning II Short Takeoff and Vertical Landing variant of the fifth generation stealth fighter performs one of its standard vertical landings aboa",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/F-35B_Lightning_II_completes_first_operational_STOVL_DVIDS891968.jpg/1280px-F-35B_Lightning_II_completes_first_operational_STOVL_DVIDS891968.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/f3/F-35B_Lightning_II_completes_first_operational_STOVL_DVIDS891968.jpg",
+      "width": 5616,
+      "height": 3744,
+      "title": "F-35B Lightning II completes first operational STOVL DVIDS891968.jpg",
+      "description": "An F-35B Lightning II from Marine Fighter Attack Squadron 121 conducts a vertical landing on the Marine Corps Air Station Yuma, Ariz. flightline March 21, 2013. BF-19, piloted by Maj. Richard Rusnok, ",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/F-35B_Lightning_II_completes_first_operational_STOVL_DVIDS891969.jpg/1280px-F-35B_Lightning_II_completes_first_operational_STOVL_DVIDS891969.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/9e/F-35B_Lightning_II_completes_first_operational_STOVL_DVIDS891969.jpg",
+      "width": 5616,
+      "height": 3744,
+      "title": "F-35B Lightning II completes first operational STOVL DVIDS891969.jpg",
+      "description": "Marine Fighter Attack Squadron 121 conducted its first F-35B Lightning II short take off and vertical landing at Marine Corps Air Station Yuma, Ariz., March 21, 2013. VMFA-121 is the Marine Corps' fir",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/F-35B_Lightning_II_completes_first_operational_STOVL_DVIDS891971.jpg/1280px-F-35B_Lightning_II_completes_first_operational_STOVL_DVIDS891971.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/03/F-35B_Lightning_II_completes_first_operational_STOVL_DVIDS891971.jpg",
+      "width": 5616,
+      "height": 3744,
+      "title": "F-35B Lightning II completes first operational STOVL DVIDS891971.jpg",
+      "description": "Marine Fighter Attack Squadron 121 conducted its first F-35B Lightning II short take off and vertical landing at Marine Corps Air Station Yuma, Ariz., March 21, 2013. VMFA-121 is the Marine Corps' fir",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/F-35B_Lightning_II_completes_first_operational_STOVL_DVIDS891973.jpg/1280px-F-35B_Lightning_II_completes_first_operational_STOVL_DVIDS891973.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/45/F-35B_Lightning_II_completes_first_operational_STOVL_DVIDS891973.jpg",
+      "width": 5616,
+      "height": 3744,
+      "title": "F-35B Lightning II completes first operational STOVL DVIDS891973.jpg",
+      "description": "An F-35B Lightning II from Marine Fighter Attack Squadron 121 conducts a vertical landing on the Marine Corps Air Station Yuma, Ariz. flightline March 21, 2013. BF-19, piloted by Maj. Richard Rusnok, ",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/F-35B_STOVL_Engine_and_Lift_Fan.JPG/1280px-F-35B_STOVL_Engine_and_Lift_Fan.JPG",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/73/F-35B_STOVL_Engine_and_Lift_Fan.JPG",
+      "width": 5472,
+      "height": 3648,
+      "title": "F-35B STOVL Engine and Lift Fan.JPG",
+      "description": "Pratt &amp; Whitney JSF119-611 turbofan engine and lift fan for STOVL variant of the F-35 Joint Strike Fighter, on display at the National Air &amp; Space Museum, Steven F. Udvar-Hazy Center",
+      "license": "CC BY-SA 3.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/F-35B_first_operational_STOVL_DVIDS891967.jpg/1280px-F-35B_first_operational_STOVL_DVIDS891967.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/6d/F-35B_first_operational_STOVL_DVIDS891967.jpg",
+      "width": 5616,
+      "height": 3744,
+      "title": "F-35B first operational STOVL DVIDS891967.jpg",
+      "description": "Marine Fighter Attack Squadron 121 conducted its first F-35B Lightning II short take off and vertical landing at Marine Corps Air Station Yuma, Ariz., March 21, 2013. VMFA-121 is the Marine Corps' fir",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Two_F-35B_Lightning_II_aircraft_land_on_the_flight_deck_of_USS_America._%2830650055226%29.jpg/1280px-Two_F-35B_Lightning_II_aircraft_land_on_the_flight_deck_of_USS_America._%2830650055226%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Two_F-35B_Lightning_II_aircraft_land_on_the_flight_deck_of_USS_America._%2830650055226%29.jpg",
+      "width": 4256,
+      "height": 2832,
+      "title": "Two F-35B Lightning II aircraft land on the flight deck of USS America. (30650055226).jpg",
+      "description": "<p>PACIFIC OCEAN (Oct. 30, 2016) Two F-35B Lightning II aircraft land on the flight deck of amphibious assault ship USS America (LHA 6). The F-35B short takeoff/vertical landing (STOVL) variant is the",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/F-35B_high_deck_motion_tests_on_HMS_Prince_of_Wales.jpg/1280px-F-35B_high_deck_motion_tests_on_HMS_Prince_of_Wales.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/43/F-35B_high_deck_motion_tests_on_HMS_Prince_of_Wales.jpg",
+      "width": 3600,
+      "height": 2400,
+      "title": "F-35B high deck motion tests on HMS Prince of Wales.jpg",
+      "description": "An F-35B Lightning II short takeoff vertical landing (STOVL) variant fighter jet piloted by a test pilot during high deck motion testing aboard U.K. aircraft carrier HMS Prince of Wales Oct. 26, 2023.",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/F-35B_short_takeoff_from_HMS_Prince_of_Wales.jpg/1280px-F-35B_short_takeoff_from_HMS_Prince_of_Wales.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/F-35B_short_takeoff_from_HMS_Prince_of_Wales.jpg",
+      "width": 3600,
+      "height": 2400,
+      "title": "F-35B short takeoff from HMS Prince of Wales.jpg",
+      "description": "An F-35B Lightning II flown by a test pilot performs a short takeoff (STO) on the U.K. aircraft carrier\u2019s ski jump the morning of Oct. 26, 2023. Marine Lt. Col. Michael Lippert was performing STOs, ve",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/F-35B_takeoff_clearance_from_HMS_Prince_of_Wales.jpg/1280px-F-35B_takeoff_clearance_from_HMS_Prince_of_Wales.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/33/F-35B_takeoff_clearance_from_HMS_Prince_of_Wales.jpg",
+      "width": 3600,
+      "height": 2400,
+      "title": "F-35B takeoff clearance from HMS Prince of Wales.jpg",
+      "description": "An HMS Prince of Wales (R09) flight deck officer (FDO)\u201cshoots\u201d an F-35B Lightning II flown by a test pilot toward a short takeoff (STO) on the U.K. aircraft carrier\u2019s ski jump the morning of Oct. 26, ",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/F-35B_wet_deck_vertical_landing_on_HMS_Prince_of_Wales.jpg/1280px-F-35B_wet_deck_vertical_landing_on_HMS_Prince_of_Wales.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/F-35B_wet_deck_vertical_landing_on_HMS_Prince_of_Wales.jpg",
+      "width": 3600,
+      "height": 2400,
+      "title": "F-35B wet deck vertical landing on HMS Prince of Wales.jpg",
+      "description": "An F-35 Lightning II test pilot performs a vertical landing (VL) on the wet deck of U.K. aircraft carrier HMS Prince of Wales (R09) the morning of Oct. 26, 2023. Marine Lt. Col. Michael Lippert was pe",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Flickr_-_Official_U.S._Navy_Imagery_-_F-35B_variants_of_the_Joint_Strike_Fighter_fly_in_formation..jpg/1280px-Flickr_-_Official_U.S._Navy_Imagery_-_F-35B_variants_of_the_Joint_Strike_Fighter_fly_in_formation..jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/46/Flickr_-_Official_U.S._Navy_Imagery_-_F-35B_variants_of_the_Joint_Strike_Fighter_fly_in_formation..jpg",
+      "width": 3000,
+      "height": 2357,
+      "title": "Flickr - Official U.S. Navy Imagery - F-35B variants of the Joint Strike Fighter fly in formation..jpg",
+      "description": "<p><a href=\"https://en.wikipedia.org/wiki/Atlantic_Test_Range\" class=\"extiw\" title=\"en:Atlantic Test Range\">Atlantic Test Range</a> (Aug. 22, 2012) F-35 test pilots Marine Corps Maj. C. R. Clift and N",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/US_Navy_111003-N-ZZ999-005_An_F-35B_Lightning_II_makes_the_first_vertical_landing_on_a_flight_deck_at_sea_aboard_the_amphibious_assault_ship_USS_W.jpg/1280px-US_Navy_111003-N-ZZ999-005_An_F-35B_Lightning_II_makes_the_first_vertical_landing_on_a_flight_deck_at_sea_aboard_the_amphibious_assault_ship_USS_W.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/f0/US_Navy_111003-N-ZZ999-005_An_F-35B_Lightning_II_makes_the_first_vertical_landing_on_a_flight_deck_at_sea_aboard_the_amphibious_assault_ship_USS_W.jpg",
+      "width": 2100,
+      "height": 1500,
+      "title": "US Navy 111003-N-ZZ999-005 An F-35B Lightning II makes the first vertical landing on a flight deck at sea aboard the amphibious assault ship USS W.jpg",
+      "description": "ATLANTIC OCEAN (Oct. 3, 2011) An F-35B Lightning II makes the first vertical landing on a flight deck at sea aboard the amphibious assault ship USS Wasp (LHD 1). The F-35B is the Marine Corps Joint St",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/US_Navy_111004-N-CW137-007_An_F-35B_Lightning_II_is_secured_in_the_hangar_bay_aboard_the_amphibious_assault_ship_USS_Wasp_%28LHD_1%29.jpg/1280px-US_Navy_111004-N-CW137-007_An_F-35B_Lightning_II_is_secured_in_the_hangar_bay_aboard_the_amphibious_assault_ship_USS_Wasp_%28LHD_1%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/ed/US_Navy_111004-N-CW137-007_An_F-35B_Lightning_II_is_secured_in_the_hangar_bay_aboard_the_amphibious_assault_ship_USS_Wasp_%28LHD_1%29.jpg",
+      "width": 4288,
+      "height": 2848,
+      "title": "US Navy 111004-N-CW137-007 An F-35B Lightning II is secured in the hangar bay aboard the amphibious assault ship USS Wasp (LHD 1).jpg",
+      "description": "ATLANTIC OCEAN (Oct. 4, 2011) An F-35B Lightning II is secured in the hangar bay aboard the amphibious assault ship USS Wasp (LHD 1). The F-35B is the Marine Corps Joint Strike Force variant of the Jo",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/VX-23_F-35B_approaches_HMS_Prince_of_Wales.jpg/1280px-VX-23_F-35B_approaches_HMS_Prince_of_Wales.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/2a/VX-23_F-35B_approaches_HMS_Prince_of_Wales.jpg",
+      "width": 4800,
+      "height": 2700,
+      "title": "VX-23 F-35B approaches HMS Prince of Wales.jpg",
+      "description": "F-35 test pilot Marine Maj. Paul Gucwa from Air Test and Evaluation Squadron Two Three (VX-23), Naval Air Warfare Center Aircraft Division (NAWCAD), flies an F-35B Lightning II fighter aircraft to the",
+      "license": "Public domain",
+      "source": "wikimedia"
+    }
+  ]
+}

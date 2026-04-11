@@ -1,0 +1,227 @@
+{
+  "combat_history": [
+    {
+      "date": "2005-2007",
+      "operation": "U.S. Navy training exercises",
+      "event": "HMS Gotland successfully penetrated USS Ronald Reagan carrier group defenses multiple times, achieving simulated kills on the carrier and escorts during JTFEX/COMPTUEX exercises off San Diego",
+      "significance": "Demonstrated the vulnerability of U.S. carrier groups to modern AIP submarines, leading to changes in ASW tactics and renewed focus on submarine threats"
+    },
+    {
+      "date": "2014",
+      "operation": "Foreign submarine incident",
+      "event": "Gotland-class submarines participated in the search for suspected foreign submarine activity in the Stockholm archipelago, though no confirmation of interception",
+      "significance": "Highlighted the submarines' role in territorial water defense during increased Baltic tensions"
+    }
+  ],
+  "modernization": [
+    {
+      "program": "Mid-life upgrade program",
+      "status": "completed",
+      "timeline": "2004-2019",
+      "description": "Comprehensive upgrade including new combat management system, enhanced sonar suite, improved Stirling AIP engines, new periscopes with thermal imaging, and updated torpedo handling systems",
+      "impact": "Extended service life to approximately 2025-2030 and significantly improved sensor and combat capabilities"
+    },
+    {
+      "program": "Blekinge-class replacement",
+      "status": "in-progress",
+      "timeline": "2022-2028",
+      "description": "New A26 Blekinge-class submarines will replace Gotland-class, featuring larger hull, improved AIP, and enhanced sensor suite",
+      "impact": "Gotland-class will be phased out as new submarines enter service"
+    }
+  ],
+  "vulnerabilities": [
+    {
+      "area": "Limited payload capacity",
+      "description": "Only six torpedo tubes and 12 torpedoes maximum severely limits sustained combat capability compared to nuclear submarines",
+      "context": "In extended conflict, limited weapons load requires frequent returns to base for rearming",
+      "mitigation": "Alternative mine-laying capability provides different mission profile"
+    },
+    {
+      "area": "Age and technology obsolescence",
+      "description": "First-generation AIP technology and 1990s-era combat systems are increasingly dated compared to newer submarine designs",
+      "context": "Modern anti-submarine warfare systems may be more effective against older signature management technology",
+      "mitigation": "Mid-life upgrades provided some capability improvements, but fundamental limitations remain"
+    },
+    {
+      "area": "Limited operational range",
+      "description": "Designed specifically for Baltic operations, lacks the endurance and capability for extended blue-water operations",
+      "context": "Cannot effectively contribute to NATO operations outside the Baltic region",
+      "mitigation": "This is by design for Sweden's defense requirements, not a flaw"
+    }
+  ],
+  "operational_patterns": {
+    "typical_deployment": "Patrol operations in Swedish territorial waters and the Baltic Sea, training exercises with NATO forces",
+    "deployment_length_months": 1,
+    "key_operating_areas": [
+      "Baltic Sea",
+      "Stockholm archipelago",
+      "Gothenburg archipelago",
+      "Swedish territorial waters"
+    ],
+    "typical_task_group": "Usually operates independently, occasionally with surface units or in coordinated ASW exercises",
+    "readiness_notes": "Typically one boat operational while others undergo maintenance due to intensive AIP system requirements"
+  },
+  "peer_comparisons": [
+    {
+      "platform": "Type 212A submarine",
+      "country": "Germany",
+      "relationship": "direct rival",
+      "key_differences": "Type 212A is larger with more advanced fuel cell AIP but less optimized for shallow water operations. Gotland-class has superior maneuverability in confined waters but less endurance.",
+      "video_angle": "Battle of AIP technologies: Stirling vs fuel cell systems in Baltic warfare scenarios"
+    },
+    {
+      "platform": "Soryu-class submarine",
+      "country": "Japan",
+      "relationship": "contemporary AIP submarine",
+      "key_differences": "Soryu is much larger with greater weapons capacity and range but significantly noisier. Gotland trades payload for stealth and shallow-water performance.",
+      "video_angle": "Size vs stealth: comparing compact Baltic defender to blue-water Pacific patrol submarine"
+    },
+    {
+      "platform": "Kilo-class submarine",
+      "country": "Russia",
+      "relationship": "regional adversary",
+      "key_differences": "Kilo lacks AIP propulsion but has greater weapons load and deeper diving capability. Gotland's AIP provides significant stealth advantage in Baltic scenarios.",
+      "video_angle": "Baltic submarine warfare: Swedish AIP technology vs Russian conventional power"
+    },
+    {
+      "platform": "Walrus-class submarine",
+      "country": "Netherlands",
+      "relationship": "NATO equivalent",
+      "key_differences": "Walrus is larger conventional submarine without AIP, designed for blue-water operations. Gotland's AIP and compact design better suited for confined water ASW.",
+      "video_angle": "NATO submarine philosophy: Dutch blue-water vs Swedish littoral specialization"
+    }
+  ],
+  "search_keywords": [
+    "gotland class",
+    "gotland submarine",
+    "swedish submarine",
+    "HMS gotland",
+    "kockums submarine",
+    "stirling aip",
+    "AIP submarine",
+    "baltic submarine",
+    "swedish navy submarine"
+  ],
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Bloeiende_heide._Locatie%2C_Schaopedobbe_%28Schapenpoel%29_05.jpg/1280px-Bloeiende_heide._Locatie%2C_Schaopedobbe_%28Schapenpoel%29_05.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/54/Bloeiende_heide._Locatie%2C_Schaopedobbe_%28Schapenpoel%29_05.jpg",
+      "width": 5184,
+      "height": 3456,
+      "title": "Bloeiende heide. Locatie, Schaopedobbe (Schapenpoel) 05.jpg",
+      "description": "Flowering heathland. Location, Schaopedobbe (Schapenpoel) in the Netherlands.",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Gotland_class_submarine.png/1280px-Gotland_class_submarine.png",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/99/Gotland_class_submarine.png",
+      "width": 1834,
+      "height": 1166,
+      "title": "Gotland class submarine.png",
+      "description": "Swedish submarine class Gotland.",
+      "license": "CC BY-SA 3.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Gotland_submarine.png/1280px-Gotland_submarine.png",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/98/Gotland_submarine.png",
+      "width": 1706,
+      "height": 687,
+      "title": "Gotland submarine.png",
+      "description": "Swedish submarine class Gotland.",
+      "license": "CC BY-SA 3.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Groningen%2C_Hooghoudt_%28destilleerderij%29_naast_de_Martinitoren_RM18553_IMG_0074_2018-01-07_14.29.jpg/1280px-Groningen%2C_Hooghoudt_%28destilleerderij%29_naast_de_Martinitoren_RM18553_IMG_0074_2018-01-07_14.29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/74/Groningen%2C_Hooghoudt_%28destilleerderij%29_naast_de_Martinitoren_RM18553_IMG_0074_2018-01-07_14.29.jpg",
+      "width": 4688,
+      "height": 3514,
+      "title": "Groningen, Hooghoudt (destilleerderij) naast de Martinitoren RM18553 IMG 0074 2018-01-07 14.29.jpg",
+      "description": "Groningen, Hooghoudt (distillery) near the naast de Martinitower",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/HMS_Halland_vid_Skeppsbrokajen_2013.JPG/1280px-HMS_Halland_vid_Skeppsbrokajen_2013.JPG",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/e9/HMS_Halland_vid_Skeppsbrokajen_2013.JPG",
+      "width": 3224,
+      "height": 2254,
+      "title": "HMS Halland vid Skeppsbrokajen 2013.JPG",
+      "description": "Submarine HMS Halland, in Stockholm.",
+      "license": "CC BY-SA 3.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Houten_bruggetje_over_waterloop._Locatie%2C_natuurterrein_Beekdal_Linde_Bekhofplas_03.jpg/1280px-Houten_bruggetje_over_waterloop._Locatie%2C_natuurterrein_Beekdal_Linde_Bekhofplas_03.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Houten_bruggetje_over_waterloop._Locatie%2C_natuurterrein_Beekdal_Linde_Bekhofplas_03.jpg",
+      "width": 4888,
+      "height": 2763,
+      "title": "Houten bruggetje over waterloop. Locatie, natuurterrein Beekdal Linde Bekhofplas 03.jpg",
+      "description": "Wooden bridge over waterway. Location, nature Beekdal Linde Bekhofplas in the Netherlands.",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Karakteristieke_boerderij%2C_Aldlansdyk_in_Cornjum_02.jpg/1280px-Karakteristieke_boerderij%2C_Aldlansdyk_in_Cornjum_02.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Karakteristieke_boerderij%2C_Aldlansdyk_in_Cornjum_02.jpg",
+      "width": 4605,
+      "height": 3363,
+      "title": "Karakteristieke boerderij, Aldlansdyk in Cornjum 02.jpg",
+      "description": "Characteristic farm, Aldlansdyk in Cornjum.",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Swedish_attack_submarine_HMS_Gotland.jpg/1280px-Swedish_attack_submarine_HMS_Gotland.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Swedish_attack_submarine_HMS_Gotland.jpg",
+      "width": 3008,
+      "height": 2000,
+      "title": "Swedish attack submarine HMS Gotland.jpg",
+      "description": "The Swedish diesel-powered attack submarine HMS Gotland transits through San Diego Harbor during the \u201cSea and Air Parade\u201d held as part of Fleet Week San Diego 2005. Fleet Week San Diego is a three-wee",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Gotland_DN-SD-06-07476.JPEG/1280px-Gotland_DN-SD-06-07476.JPEG",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/77/Gotland_DN-SD-06-07476.JPEG",
+      "width": 2464,
+      "height": 1632,
+      "title": "Gotland DN-SD-06-07476.JPEG",
+      "description": "San Diego, Ca. (June 27, 2005) \u2013 The Swedish Navy Type (A 19) Stirling engine-powered attack submarine HMS Gotland arrives in San Diego on a transport ship from Sweden, as it arrives at San Diego, Cal",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/HMS_Gotland_being_loaded.jpg/1280px-HMS_Gotland_being_loaded.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/HMS_Gotland_being_loaded.jpg",
+      "width": 3008,
+      "height": 2000,
+      "title": "HMS Gotland being loaded.jpg",
+      "description": "U.S. Navy port operations assists in loading the Swedish attack submarine HMS Gotland (GTD) into a Swedish transport ship in San Diego, Calif., July 11, 2007. Gotland recently finished up two years of",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Swedish_attack_submarine_HMS_Gotland_%28cropped%29.jpg/1280px-Swedish_attack_submarine_HMS_Gotland_%28cropped%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/04/Swedish_attack_submarine_HMS_Gotland_%28cropped%29.jpg",
+      "width": 2025,
+      "height": 707,
+      "title": "Swedish attack submarine HMS Gotland (cropped).jpg",
+      "description": "The Swedish diesel-powered attack submarine HMS Gotland transits through San Diego Harbor during the \u201cSea and Air Parade\u201d held as part of Fleet Week San Diego 2005. Fleet Week San Diego is a three-wee",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Uppland_och_Visborg_2009a.jpg/1280px-Uppland_och_Visborg_2009a.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Uppland_och_Visborg_2009a.jpg",
+      "width": 2990,
+      "height": 2100,
+      "title": "Uppland och Visborg 2009a.jpg",
+      "description": "Ub\u00e5t HMS <i>Uppland</i> (Upd) med HMS <i>Visborg</i> (A265) vid Skeppsbron i Stockholm.",
+      "license": "CC BY-SA 3.0",
+      "source": "wikimedia"
+    }
+  ]
+}

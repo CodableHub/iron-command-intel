@@ -1,0 +1,239 @@
+{
+  "combat_history": [
+    {
+      "date": "2009",
+      "operation": "USS John McCain encounter",
+      "event": "Type 093 submarine reportedly approached USS John McCain destroyer during routine patrol, demonstrating improved PLAN submarine operations in disputed waters",
+      "significance": "First confirmed operational deployment of Type 093 in international waters"
+    },
+    {
+      "date": "2013-11",
+      "operation": "Disputed waters patrol",
+      "event": "Japanese Maritime Self-Defense Force detected Type 093 submarine operating near Okinawa, triggering ASW response",
+      "significance": "Demonstrated PLAN willingness to operate SSNs in contested areas near Japanese territory"
+    },
+    {
+      "date": "2018",
+      "operation": "South China Sea patrol",
+      "event": "Type 093A submarine conducted extended patrol in South China Sea, tracked by U.S. P-8 Poseidon aircraft",
+      "significance": "Showcased improved endurance and operational range of upgraded variants"
+    }
+  ],
+  "modernization": [
+    {
+      "program": "Type 093 Mid-Life Upgrade",
+      "status": "in-progress",
+      "timeline": "2020-2025",
+      "description": "Retrofitting early Type 093 boats with improved sonar systems, acoustic dampening materials, and updated combat systems from Type 093B",
+      "impact": "Extends service life and improves combat effectiveness of original variants"
+    },
+    {
+      "program": "Advanced Sonar Integration",
+      "status": "completed",
+      "timeline": "2015-2019",
+      "description": "Installation of improved passive sonar arrays and towed array sonar systems on Type 093A/B variants",
+      "impact": "Significantly enhanced detection range and acoustic performance"
+    }
+  ],
+  "vulnerabilities": [
+    {
+      "area": "Acoustic signature",
+      "description": "Type 093 remains significantly noisier than Western SSNs, with acoustic signature estimated at 110-120 dB compared to ~95 dB for Virginia-class",
+      "context": "Makes submarines vulnerable to detection by advanced Western ASW assets and limits stealth operations",
+      "mitigation": "Continuous improvements in hull dampening and machinery isolation in newer variants"
+    },
+    {
+      "area": "Reactor reliability",
+      "description": "Early boats suffered from reactor cooling issues and required extended maintenance periods, limiting operational availability",
+      "context": "Reduces effective fleet size and complicates long-range deployments beyond first island chain",
+      "mitigation": "Improved reactor design in Type 093A/B, but fundamental issues remain"
+    },
+    {
+      "area": "Limited weapons loadout",
+      "description": "Only 6 torpedo tubes with 18 total weapons compared to Virginia-class 12 VLS cells plus torpedo room",
+      "context": "Reduces sustained combat capability and mission flexibility in multi-threat environments",
+      "mitigation": "Type 093B adds limited VLS capability for cruise missiles"
+    },
+    {
+      "area": "Manufacturing quality",
+      "description": "Inconsistent build quality between boats affects reliability and acoustic performance",
+      "context": "Creates maintenance burden and unpredictable operational capabilities across the class",
+      "mitigation": "Improved quality control processes at Bohai shipyard for later variants"
+    }
+  ],
+  "operational_patterns": {
+    "typical_deployment": "Bastion defense in South China Sea, intelligence gathering missions, occasional beyond first island chain patrols",
+    "deployment_length_months": 3,
+    "key_operating_areas": [
+      "South China Sea",
+      "East China Sea",
+      "Western Pacific",
+      "Philippine Sea"
+    ],
+    "typical_task_group": "Solo operations or paired with Yuan-class conventional submarines",
+    "readiness_notes": "Limited by reactor reliability issues and maintenance requirements, estimated 30-40% operational availability"
+  },
+  "peer_comparisons": [
+    {
+      "platform": "Los Angeles-class SSN",
+      "country": "United States",
+      "relationship": "direct rival",
+      "key_differences": "LA-class significantly quieter, more reliable, and better armed, but Type 093 represents China's learning curve in nuclear submarine technology with newer boats approaching 1980s Western standards",
+      "video_angle": "David vs Goliath: How China's first-gen SSN stacks up against proven American design"
+    },
+    {
+      "platform": "Virginia-class SSN",
+      "country": "United States",
+      "relationship": "aspirational target",
+      "key_differences": "Virginia-class represents generational leap ahead in stealth, sensors, and weapons systems. Type 093B attempts to close gap with VLS capability but remains significantly behind in acoustic performance",
+      "video_angle": "21st century submarine warfare: China's Type 093 vs America's most advanced attack submarine"
+    },
+    {
+      "platform": "Akula-class SSN",
+      "country": "Russia",
+      "relationship": "technological benchmark",
+      "key_differences": "Akula-class achieved better acoustic performance in 1980s than current Type 093, but Chinese boats feature more modern electronics and combat systems integration",
+      "video_angle": "East vs East: How China's submarine program compares to Soviet/Russian achievements"
+    },
+    {
+      "platform": "Astute-class SSN",
+      "country": "United Kingdom",
+      "relationship": "advanced Western equivalent",
+      "key_differences": "Astute represents cutting-edge Western SSN technology with pump-jet propulsion and advanced sonar. Type 093 lags significantly in all performance metrics but costs fraction of Astute program",
+      "video_angle": "Quality vs Quantity: Britain's premium SSN design versus China's mass production approach"
+    }
+  ],
+  "search_keywords": [
+    "type 093",
+    "shang class",
+    "shang-class",
+    "chinese submarine",
+    "PLAN SSN",
+    "nuclear attack submarine",
+    "type 093a",
+    "type 093b",
+    "chinese navy submarine"
+  ],
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/48/AFDCM-02-015.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/48/AFDCM-02-015.jpg",
+      "width": 973,
+      "height": 760,
+      "title": "AFDCM-02-015.jpg",
+      "description": "",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/18/AFDCM-02-036.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/18/AFDCM-02-036.jpg",
+      "width": 973,
+      "height": 760,
+      "title": "AFDCM-02-036.jpg",
+      "description": "",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/EA-6B_Jet_engine_test.jpg/1280px-EA-6B_Jet_engine_test.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/9f/EA-6B_Jet_engine_test.jpg",
+      "width": 2000,
+      "height": 1312,
+      "title": "EA-6B Jet engine test.jpg",
+      "description": "041201-N-0696M-093 Pacific Ocean (Dec. 1, 2004) - An EA-6B Prowler aircraft engine glows during testing at the Aviation Intermediate Maintenance Department's (AIMD) jet engine test cell aboard USS Ron",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/The_Portsmouth_based_Type_23_Frigate%2C_HMS_Iron_Duke_carrying_out_Replenishment_at_Sea_%28RAS%29_with_RFA_Wave_Ruler%2C_whilst_carrying_out_the_duties_of_the_Atlantic_Patrol_Task_%28North%29_ATP_%28N%29._MOD_45146494.jpg/1280px-thumbnail.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/52/The_Portsmouth_based_Type_23_Frigate%2C_HMS_Iron_Duke_carrying_out_Replenishment_at_Sea_%28RAS%29_with_RFA_Wave_Ruler%2C_whilst_carrying_out_the_duties_of_the_Atlantic_Patrol_Task_%28North%29_ATP_%28N%29._MOD_45146494.jpg",
+      "width": 3000,
+      "height": 2100,
+      "title": "The Portsmouth based Type 23 Frigate, HMS Iron Duke carrying out Replenishment at Sea (RAS) with RFA Wave Ruler, whilst carrying out the duties of the Atlantic Patrol Task (North) ATP (N). MOD 45146494.jpg",
+      "description": "The Portsmouth based Type 23 Frigate, HMS Iron Duke carrying out Replenishment at Sea (RAS) with RFA Wave Ruler, whilst carrying out the duties of the Atlantic Patrol Task (North) ATP (N).\n<p>The ship",
+      "license": "OGL v1.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Chinese_Type_039A_submarine.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Chinese_Type_039A_submarine.jpg",
+      "width": 442,
+      "height": 167,
+      "title": "Chinese Type 039A submarine.jpg",
+      "description": "<a href=\"https://en.wikipedia.org/wiki/China\" class=\"extiw\" title=\"en:China\">Chinese</a> <a href=\"https://en.wikipedia.org/wiki/Type_039A_submarine\" class=\"extiw\" title=\"en:Type 039A submarine\">Type 0",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Jesteburger_Ziegeleibahn%2C_2018-09_III.jpg/1280px-Jesteburger_Ziegeleibahn%2C_2018-09_III.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/71/Jesteburger_Ziegeleibahn%2C_2018-09_III.jpg",
+      "width": 4592,
+      "height": 3448,
+      "title": "Jesteburger Ziegeleibahn, 2018-09 III.jpg",
+      "description": "Reste der Jesteburger Ziegeleibahn im Brettbachtal: \u00dcberreste eines Eimerkettenbaggers",
+      "license": "CC0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Norsk_Folkemuseum_2019-09_III.jpg/1280px-Norsk_Folkemuseum_2019-09_III.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Norsk_Folkemuseum_2019-09_III.jpg",
+      "width": 3888,
+      "height": 5184,
+      "title": "Norsk Folkemuseum 2019-09 III.jpg",
+      "description": "Drogowskaz w Norweskim Muzeum Ludowym",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/S_Krizkem_Po_Funuse_09_III_2025_Olsanske_Hrbitovy_AS_A.jpg/1280px-S_Krizkem_Po_Funuse_09_III_2025_Olsanske_Hrbitovy_AS_A.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/f2/S_Krizkem_Po_Funuse_09_III_2025_Olsanske_Hrbitovy_AS_A.jpg",
+      "width": 2304,
+      "height": 3072,
+      "title": "S Krizkem Po Funuse 09 III 2025 Olsanske Hrbitovy AS A.jpg",
+      "description": "Meeting of Wikipedians at the event \"With a cross after a funeral\" (one day after 8 March, when the International Women's Day was celebrated) - a tour of some graves of important women of Czechoslovak",
+      "license": "CC0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/S_Krizkem_Po_Funuse_09_III_2025_Olsanske_Hrbitovy_AS_B.jpg/1280px-S_Krizkem_Po_Funuse_09_III_2025_Olsanske_Hrbitovy_AS_B.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/30/S_Krizkem_Po_Funuse_09_III_2025_Olsanske_Hrbitovy_AS_B.jpg",
+      "width": 2304,
+      "height": 3072,
+      "title": "S Krizkem Po Funuse 09 III 2025 Olsanske Hrbitovy AS B.jpg",
+      "description": "Meeting of Prague Wikipedians at the event \"With a cross after a funeral\" (one day after 8 March, when the International Women's Day was celebrated) - a tour of some graves of important women of Czech",
+      "license": "CC0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/S_Krizkem_Po_Funuse_09_III_2025_Olsanske_Hrbitovy_AS_C.jpg/1280px-S_Krizkem_Po_Funuse_09_III_2025_Olsanske_Hrbitovy_AS_C.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/S_Krizkem_Po_Funuse_09_III_2025_Olsanske_Hrbitovy_AS_C.jpg",
+      "width": 2304,
+      "height": 3072,
+      "title": "S Krizkem Po Funuse 09 III 2025 Olsanske Hrbitovy AS C.jpg",
+      "description": "Meeting of Prague Wikipedians at the event \"With a cross after a funeral\" (one day after 8 March, when the International Women's Day was celebrated) - a tour of some graves of important women of Czech",
+      "license": "CC0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/S_Krizkem_Po_Funuse_09_III_2025_Olsanske_Hrbitovy_Praha_A.jpg/1280px-S_Krizkem_Po_Funuse_09_III_2025_Olsanske_Hrbitovy_Praha_A.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/f0/S_Krizkem_Po_Funuse_09_III_2025_Olsanske_Hrbitovy_Praha_A.jpg",
+      "width": 3072,
+      "height": 2304,
+      "title": "S Krizkem Po Funuse 09 III 2025 Olsanske Hrbitovy Praha A.jpg",
+      "description": "Meeting of Wikipedians at the event \"With a cross after a funeral\" (one day after 8 March, when the International Women's Day was celebrated) - a tour of some graves of important women of Czechoslovak",
+      "license": "CC0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/S_Krizkem_Po_Funuse_09_III_2025_Olsanske_Hrbitovy_Praha_B.jpg/1280px-S_Krizkem_Po_Funuse_09_III_2025_Olsanske_Hrbitovy_Praha_B.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/82/S_Krizkem_Po_Funuse_09_III_2025_Olsanske_Hrbitovy_Praha_B.jpg",
+      "width": 3072,
+      "height": 2304,
+      "title": "S Krizkem Po Funuse 09 III 2025 Olsanske Hrbitovy Praha B.jpg",
+      "description": "Meeting of Wikipedians at the event \"With a cross after a funeral\" (one day after 8 March, when the International Women's Day was celebrated) - a tour of some graves of important women of Czechoslovak",
+      "license": "CC0",
+      "source": "wikimedia"
+    }
+  ]
+}

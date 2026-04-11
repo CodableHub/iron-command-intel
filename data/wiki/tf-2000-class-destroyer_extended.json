@@ -1,0 +1,128 @@
+{
+  "combat_history": [],
+  "modernization": [
+    {
+      "program": "CAFRAD Integration",
+      "status": "in-progress",
+      "timeline": "2024-2029",
+      "description": "Integration of Turkey's indigenous CAFRAD AESA radar system, providing long-range air surveillance and tracking capabilities comparable to SPY-1D",
+      "impact": "Provides Turkey with indigenous long-range air defense radar capability, reducing dependence on foreign systems"
+    },
+    {
+      "program": "MIDLAS VLS Development",
+      "status": "in-progress",
+      "timeline": "2023-2028",
+      "description": "Development of Turkey's indigenous vertical launch system compatible with Turkish-developed missiles including HISAR family and ATMACA",
+      "impact": "Enables full indigenous missile integration without foreign VLS dependencies"
+    }
+  ],
+  "vulnerabilities": [
+    {
+      "area": "Technology Integration Risk",
+      "description": "First-of-class integration of multiple new Turkish indigenous systems (CAFRAD, MIDLAS, GENESIS) simultaneously creates significant technical risk and potential delays",
+      "context": "Turkey is attempting a very ambitious indigenous systems integration with limited prior experience in destroyer-class platforms",
+      "mitigation": "Extensive testing programs and international partnerships for critical subsystems"
+    },
+    {
+      "area": "Supply Chain Dependencies",
+      "description": "Despite indigenous ambitions, key systems like propulsion (MTU/GE) and certain sensors remain foreign-sourced, creating potential supply chain vulnerabilities given Turkey's complex international relationships",
+      "context": "Turkey's relationships with NATO allies remain strained over S-400 purchase and other issues, potentially affecting parts and support",
+      "mitigation": "Stockpiling critical components and developing alternative suppliers where possible"
+    },
+    {
+      "area": "Limited Combat System Maturity",
+      "description": "GENESIS combat management system and CAFRAD radar lack operational track record compared to proven systems like Aegis or SMART-L",
+      "context": "Modern naval combat requires extremely reliable and mature sensor and combat systems - first-generation systems often have significant teething problems",
+      "mitigation": "Extensive shore-based testing and international technical assistance programs"
+    },
+    {
+      "area": "Small Fleet Size",
+      "description": "With only 4 planned hulls, the class lacks operational redundancy and mass for sustained operations or major losses",
+      "context": "Modern high-intensity conflict could rapidly attrit small naval forces, and maintenance cycles reduce available hulls",
+      "mitigation": "None effectively - constrained by budget and industrial capacity"
+    }
+  ],
+  "operational_patterns": {
+    "typical_deployment": "Eastern Mediterranean patrol, Black Sea sovereignty operations, NATO task group integration",
+    "deployment_length_months": 6,
+    "key_operating_areas": [
+      "Eastern Mediterranean",
+      "Black Sea",
+      "Aegean Sea"
+    ],
+    "typical_task_group": "Turkish naval task group flagship with Ada-class corvettes and support vessels, or NATO multinational task groups",
+    "readiness_notes": "Projected operational challenges due to new systems integration and limited maintenance infrastructure for destroyer-class platforms"
+  },
+  "peer_comparisons": [
+    {
+      "platform": "Type 45 Daring-class",
+      "country": "United Kingdom",
+      "relationship": "capability peer",
+      "key_differences": "TF-2000 emphasizes indigenous systems vs Type 45's proven but foreign-dependent approach. Similar displacement and air defense focus but Type 45 has operational experience and more mature systems.",
+      "video_angle": "Indigenous ambitions vs proven systems - can Turkey's first destroyer match Royal Navy experience?"
+    },
+    {
+      "platform": "Sachsen-class",
+      "country": "Germany",
+      "relationship": "capability peer",
+      "key_differences": "Both emphasize European systems integration, but Sachsen uses proven APAR/SMART-L radars vs TF-2000's untested CAFRAD. Similar size classes and NATO interoperability requirements.",
+      "video_angle": "European destroyer approaches - proven multinational cooperation vs national indigenous development"
+    },
+    {
+      "platform": "Horizon-class",
+      "country": "France/Italy",
+      "relationship": "capability peer",
+      "key_differences": "Horizon represents successful European cooperation model vs TF-2000's go-it-alone approach. Both emphasize area air defense but Horizon has decade of operational experience.",
+      "video_angle": "Can Turkey's solo indigenous approach match Franco-Italian cooperation success?"
+    },
+    {
+      "platform": "Kolkata-class",
+      "country": "India",
+      "relationship": "development parallel",
+      "key_differences": "Both represent emerging naval powers developing indigenous destroyer capabilities. Kolkata operational since 2014 vs TF-2000's future timeline, but both face systems integration challenges.",
+      "video_angle": "Emerging naval powers comparison - India's lessons learned vs Turkey's clean-sheet approach"
+    },
+    {
+      "platform": "F-100 Alvaro de Bazan-class",
+      "country": "Spain",
+      "relationship": "regional peer",
+      "key_differences": "F-100 uses proven Aegis system vs TF-2000's indigenous CAFRAD. Similar Mediterranean operating environment and NATO integration requirements but different technical approaches.",
+      "video_angle": "Mediterranean destroyer comparison - proven American systems vs Turkish innovation"
+    }
+  ],
+  "search_keywords": [
+    "TF-2000",
+    "TF 2000",
+    "turkish destroyer",
+    "milgem",
+    "cafrad",
+    "midlas",
+    "turkish navy destroyer",
+    "istanbul class",
+    "turkish frigate",
+    "hisar missile",
+    "atmaca missile"
+  ],
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/F-8A_NASA_1973_EC73-3468.jpg/1280px-F-8A_NASA_1973_EC73-3468.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/63/F-8A_NASA_1973_EC73-3468.jpg",
+      "width": 2865,
+      "height": 1968,
+      "title": "F-8A NASA 1973 EC73-3468.jpg",
+      "description": "A Vought F-8A <i>Crusader</i> was selected by NASA as the testbed aircraft (designated TF-8A) to install an experimental Supercritical Wing in place of the conventional wing. The unique design of the ",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/53/F-9_Cougars_VT-23_in_flight.JPG",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/53/F-9_Cougars_VT-23_in_flight.JPG",
+      "width": 718,
+      "height": 606,
+      "title": "F-9 Cougars VT-23 in flight.JPG",
+      "description": "U.S. Navy Grumman F-9 <i>Cougar</i> fighters from training squadron VT-23 <i>Professionals</i>, Naval Air Station Kingsville, Texas (USA), in flight in the 1960s. The two F-9s closest to the camera ar",
+      "license": "Public domain",
+      "source": "wikimedia"
+    }
+  ]
+}

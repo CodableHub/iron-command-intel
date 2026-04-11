@@ -1,0 +1,286 @@
+{
+  "combat_history": [
+    {
+      "date": "2011",
+      "operation": "Operation Unified Protector",
+      "event": "F-104 M\u00e9ndez N\u00fa\u00f1ez participated in NATO operations over Libya, providing air defense coverage for allied forces and conducting maritime enforcement operations",
+      "significance": "First operational deployment demonstrating Aegis capability in combat environment"
+    },
+    {
+      "date": "2018-2019",
+      "operation": "NATO BMD Mission",
+      "event": "F-104 M\u00e9ndez N\u00fa\u00f1ez deployed to Eastern Mediterranean and Black Sea regions as part of NATO ballistic missile defense operations",
+      "significance": "Demonstrated theater ballistic missile defense capability and NATO interoperability"
+    },
+    {
+      "date": "2020-2023",
+      "operation": "Operation Sea Guardian",
+      "event": "Multiple F-100 frigates conducted counter-terrorism operations in Mediterranean, providing air defense umbrella for NATO task groups",
+      "significance": "Validated sustained deployment capability and multi-mission effectiveness"
+    }
+  ],
+  "modernization": [
+    {
+      "program": "Mid-Life Update (MLU)",
+      "status": "in-progress",
+      "timeline": "2020-2027",
+      "description": "Comprehensive upgrade including combat system modernization, new sonar systems, improved electronic warfare capabilities, and helicopter facilities upgrade for MH-60R compatibility",
+      "impact": "Extends service life to 2040s and improves anti-submarine warfare capability"
+    },
+    {
+      "program": "Aegis Baseline 9 Upgrade",
+      "status": "planned",
+      "timeline": "2025-2030",
+      "description": "Upgrade to latest Aegis combat system baseline with improved ballistic missile defense and integrated air and missile defense capability",
+      "impact": "Enhanced BMD capability and better integration with NATO systems"
+    }
+  ],
+  "vulnerabilities": [
+    {
+      "area": "Anti-submarine warfare",
+      "description": "Limited ASW capability with only hull-mounted sonar and helicopter-delivered weapons. No towed array sonar or shipboard ASW missiles",
+      "context": "Significant limitation against modern submarines, particularly in Mediterranean where quiet diesels operate",
+      "mitigation": "MLU program includes improved sonar systems and MH-60R helicopter integration"
+    },
+    {
+      "area": "Electronic warfare",
+      "description": "Basic EW suite compared to latest threats. Limited jamming capability and dated ESM systems",
+      "context": "Vulnerable to sophisticated electronic attacks from peer adversaries with advanced EW capabilities",
+      "mitigation": "MLU program includes EW system upgrades"
+    },
+    {
+      "area": "Magazine depth",
+      "description": "Only 48 VLS cells limits sustained engagement capability compared to larger destroyers",
+      "context": "Could be overwhelmed by saturation attacks or depleted in extended operations",
+      "mitigation": "Careful mission planning and logistics support required"
+    },
+    {
+      "area": "Radar signature",
+      "description": "Conventional design lacks stealth features of modern frigates, making it more detectable",
+      "context": "Higher vulnerability to anti-ship missiles and targeting by adversary surveillance systems",
+      "mitigation": "None planned - fundamental design limitation"
+    }
+  ],
+  "operational_patterns": {
+    "typical_deployment": "NATO standing maritime groups, Mediterranean patrols, ballistic missile defense stations",
+    "deployment_length_months": 6,
+    "key_operating_areas": [
+      "Mediterranean Sea",
+      "Atlantic Ocean",
+      "Black Sea"
+    ],
+    "typical_task_group": "NATO standing maritime groups, Spanish task groups with support vessels",
+    "readiness_notes": "High availability rate but limited by defense budget constraints and maintenance requirements"
+  },
+  "peer_comparisons": [
+    {
+      "platform": "Sachsen-class frigate",
+      "country": "Germany",
+      "relationship": "direct rival",
+      "key_differences": "Similar concept with different radar (APAR vs SPY-1D). Sachsen has better stealth but \u00c1lvaro de Baz\u00e1n has more proven combat system and larger missile load",
+      "video_angle": "European Aegis rivals - German engineering vs proven American systems"
+    },
+    {
+      "platform": "FREMM multipurpose frigate",
+      "country": "France/Italy",
+      "relationship": "allied equivalent",
+      "key_differences": "FREMM emphasizes multi-mission capability while F-100 focuses on air defense. FREMM has better ASW capability but inferior area air defense",
+      "video_angle": "European frigate philosophies - specialist vs generalist design approaches"
+    },
+    {
+      "platform": "Hobart-class destroyer",
+      "country": "Australia",
+      "relationship": "successor",
+      "key_differences": "Based on F-100 hull but with enhanced Aegis system and improved sensors. Larger displacement and better integrated systems",
+      "video_angle": "Evolution of Spanish design - how Australia improved the F-100 concept"
+    },
+    {
+      "platform": "Type 45 destroyer",
+      "country": "United Kingdom",
+      "relationship": "direct rival",
+      "key_differences": "Type 45 has superior radar (SAMPSON) but fewer VLS cells. Both are air defense specialists but different technological approaches",
+      "video_angle": "European air defense champions - Aegis vs PAAMS comparison"
+    },
+    {
+      "platform": "Admiral Gorshkov-class frigate",
+      "country": "Russia",
+      "relationship": "adversary equivalent",
+      "key_differences": "Russian design emphasizes offensive firepower with larger anti-ship missiles, while F-100 focuses on defensive air warfare capabilities",
+      "video_angle": "NATO vs Russian frigate concepts - defense vs offense philosophies"
+    }
+  ],
+  "search_keywords": [
+    "alvaro de bazan",
+    "f-100",
+    "f100",
+    "spanish frigate",
+    "aegis frigate",
+    "bazan class",
+    "mendez nunez",
+    "blas de lezo",
+    "spanish navy",
+    "armada espa\u00f1ola"
+  ],
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CVW-5_Apr2007.jpg/1280px-CVW-5_Apr2007.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/81/CVW-5_Apr2007.jpg",
+      "width": 4288,
+      "height": 2848,
+      "title": "CVW-5 Apr2007.jpg",
+      "description": "Aircraft assigned to <i>Carrier Air Wing Five (CVW-5)</i> perform a formation flight in front of Mount Fuji, Japan on 12 April 2007. CVW-5 was embarked aboard the carrier USS <i>Kitty Hawk</i> (CV-63)",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/F-18F_after_launch_from_USS_Abraham_Lincoln_%28CVN-72%29.jpg/1280px-F-18F_after_launch_from_USS_Abraham_Lincoln_%28CVN-72%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/44/F-18F_after_launch_from_USS_Abraham_Lincoln_%28CVN-72%29.jpg",
+      "width": 2100,
+      "height": 1500,
+      "title": "F-18F after launch from USS Abraham Lincoln (CVN-72).jpg",
+      "description": "NORTH ARABIAN SEA (July 10, 2008) An F/A-18F Super Hornet assigned to the \"Bounty Hunters\" of Strike Fighter Squadron (VFA) 2 climbs away from the Nimitz-class aircraft carrier USS Abraham Lincoln (CV",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Mozambique_-_traditional_sailboat.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Mozambique_-_traditional_sailboat.jpg",
+      "width": 1089,
+      "height": 720,
+      "title": "Mozambique - traditional sailboat.jpg",
+      "description": "Off the northern coast of Mozambique lies the island the country is named after \u2013 Ilha de Mo\u00e7ambique. It was settled in the 1400s by Portuguese explorers. Today, the island is inhabited by local fishe",
+      "license": "CC BY 2.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/US_Navy_020305-N-1587C-100_F-A-18_launches_off_the_flight_deck.jpg/1280px-US_Navy_020305-N-1587C-100_F-A-18_launches_off_the_flight_deck.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/c4/US_Navy_020305-N-1587C-100_F-A-18_launches_off_the_flight_deck.jpg",
+      "width": 2000,
+      "height": 1312,
+      "title": "US Navy 020305-N-1587C-100 F-A-18 launches off the flight deck.jpg",
+      "description": "020305-N-1587C-100\nAt sea aboard USS John C. Stennis (CVN 74) Mar. 5, 2002 -- An F/A-18 \"Hornet\", loaded with ordnance, launches from the flight deck of the Stennis.  The F/A-18 \u201cHornet\u201d is assigned t",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/US_Navy_030531-N-0000X-001_An_F-14D_Tomcat_assigned_to_the.jpg/1280px-US_Navy_030531-N-0000X-001_An_F-14D_Tomcat_assigned_to_the.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/75/US_Navy_030531-N-0000X-001_An_F-14D_Tomcat_assigned_to_the.jpg",
+      "width": 2100,
+      "height": 1679,
+      "title": "US Navy 030531-N-0000X-001 An F-14D Tomcat assigned to the.jpg",
+      "description": "United States (May 31, 2003) \u2013 An F-14D Tomcat assigned to the \"Bounty Hunters\" of Fighter Squadron 2 (VF-2), heads back to its home base, Naval Air Station Oceana, Va., after a successful seven month",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/US_Navy_040925-N-0295M-100_An_F-A-18F_Super_Hornet_flies_an_aerial_demonstration_in_front_of_the_crowd.jpg/1280px-US_Navy_040925-N-0295M-100_An_F-A-18F_Super_Hornet_flies_an_aerial_demonstration_in_front_of_the_crowd.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/18/US_Navy_040925-N-0295M-100_An_F-A-18F_Super_Hornet_flies_an_aerial_demonstration_in_front_of_the_crowd.jpg",
+      "width": 2400,
+      "height": 3000,
+      "title": "US Navy 040925-N-0295M-100 An F-A-18F Super Hornet flies an aerial demonstration in front of the crowd.jpg",
+      "description": "Naval Air Station Oceana, Va. (Sept. 25, 2004) - An F/A-18F Super Hornet assigned to the \"Flying Eagles\" of Strike Fighter Squadron One Two Two (VFA-122), flies an aerial demonstration in front of the",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/US_Navy_051105-F-5480T-005_An_F-14D_Tomcat_conducts_a_mission_over_the_Persian_Gulf-region.jpg/1280px-US_Navy_051105-F-5480T-005_An_F-14D_Tomcat_conducts_a_mission_over_the_Persian_Gulf-region.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/f7/US_Navy_051105-F-5480T-005_An_F-14D_Tomcat_conducts_a_mission_over_the_Persian_Gulf-region.jpg",
+      "width": 1796,
+      "height": 1297,
+      "title": "US Navy 051105-F-5480T-005 An F-14D Tomcat conducts a mission over the Persian Gulf-region.jpg",
+      "description": "Persian Gulf (Nov. 5, 2005) \u2013 An F-14D Tomcat, assigned to the \u201cTomcatters\u201d of Fighter Squadron Three One (VF-31), conducts a mission over the Persian Gulf-region. VF-31 is assigned to Carrier Air Win",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/US_Navy_111017-N-AU622-100_An_F-A-18E_Super_Hornet_assigned_to_the_Rampagers_of_Strike_Fighter_Squadron_%28VFA%29_83_lands_aboard_the_aircraft_carrier.jpg/1280px-US_Navy_111017-N-AU622-100_An_F-A-18E_Super_Hornet_assigned_to_the_Rampagers_of_Strike_Fighter_Squadron_%28VFA%29_83_lands_aboard_the_aircraft_carrier.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/a8/US_Navy_111017-N-AU622-100_An_F-A-18E_Super_Hornet_assigned_to_the_Rampagers_of_Strike_Fighter_Squadron_%28VFA%29_83_lands_aboard_the_aircraft_carrier.jpg",
+      "width": 4256,
+      "height": 2832,
+      "title": "US Navy 111017-N-AU622-100 An F-A-18E Super Hornet assigned to the Rampagers of Strike Fighter Squadron (VFA) 83 lands aboard the aircraft carrier.jpg",
+      "description": "ATLANTIC OCEAN (Oct. 17, 2011) An F/A-18C Hornet assigned to the Rampagers of Strike Fighter Squadron (VFA) 83 lands aboard the aircraft carrier USS Dwight D. Eisenhower (CVN 69). Dwight D. Eisenhower",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Alvaro_de_bazan.jpg/1280px-Alvaro_de_bazan.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Alvaro_de_bazan.jpg",
+      "width": 2100,
+      "height": 1500,
+      "title": "Alvaro de bazan.jpg",
+      "description": "An SH-60 Seahawk helicopter prepares to land aboard the Spanish Navy frigate <i>Alvaro de Bazan</i> (F101) while underway in the Persian Gulf.",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/F-101_Alvaro_de_Bazan_with_group.jpg/1280px-F-101_Alvaro_de_Bazan_with_group.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/f0/F-101_Alvaro_de_Bazan_with_group.jpg",
+      "width": 2100,
+      "height": 1500,
+      "title": "F-101 Alvaro de Bazan with group.jpg",
+      "description": "The Spanish Navy 100 Class Frigate ALVARO DE BAZAN (F101) sails past the US Navy (USN) Nimitz Class Aircraft Carrier USS THEODORE ROOSEVELT (CVN 71) and the USN Arleigh Burke Class Guided Missile Dest",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Spanish_frigate_Alvaro_de_Bazan_%28F101%29_underway_in_the_Mediterranean_Sea_on_5_October_2016.JPG/1280px-Spanish_frigate_Alvaro_de_Bazan_%28F101%29_underway_in_the_Mediterranean_Sea_on_5_October_2016.JPG",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Spanish_frigate_Alvaro_de_Bazan_%28F101%29_underway_in_the_Mediterranean_Sea_on_5_October_2016.JPG",
+      "width": 4928,
+      "height": 3280,
+      "title": "Spanish frigate Alvaro de Bazan (F101) underway in the Mediterranean Sea on 5 October 2016.JPG",
+      "description": "The Spanish frigate <i>Alvaro de Bazan</i> (F101) underway in the Mediterranean Sea on 5 October 2016.",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Spanish_frigate_%C3%81lvaro_de_Baz%C3%A1n_%28F101%29_underway_in_the_Atlantic_Ocean_on_15_July_2005_%28050715-N-8163B-020%29.jpg/1280px-Spanish_frigate_%C3%81lvaro_de_Baz%C3%A1n_%28F101%29_underway_in_the_Atlantic_Ocean_on_15_July_2005_%28050715-N-8163B-020%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Spanish_frigate_%C3%81lvaro_de_Baz%C3%A1n_%28F101%29_underway_in_the_Atlantic_Ocean_on_15_July_2005_%28050715-N-8163B-020%29.jpg",
+      "width": 3000,
+      "height": 2400,
+      "title": "Spanish frigate \u00c1lvaro de Baz\u00e1n (F101) underway in the Atlantic Ocean on 15 July 2005 (050715-N-8163B-020).jpg",
+      "description": "The Spanish Navy frigate <i>\u00c1lvaro de Baz\u00e1n</i> (F101) conducts a close quarters exercise near a U.S. Navy guided missile destroyer while underway in the Atlantic Ocean on 15 July 2005.",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/The_Spanish_navy_frigate_Alvaro_de_Bazan_%28F_101%29_cruises_along_side_USS_Carney._%2830170274285%29.jpg/1280px-The_Spanish_navy_frigate_Alvaro_de_Bazan_%28F_101%29_cruises_along_side_USS_Carney._%2830170274285%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/a1/The_Spanish_navy_frigate_Alvaro_de_Bazan_%28F_101%29_cruises_along_side_USS_Carney._%2830170274285%29.jpg",
+      "width": 4000,
+      "height": 3000,
+      "title": "The Spanish navy frigate Alvaro de Bazan (F 101) cruises along side USS Carney. (30170274285).jpg",
+      "description": "<p>MEDITERRANEAN SEA  (Oct. 5, 2016) The Spanish navy frigate Alvaro de Bazan (F 101) cruises along side USS Carney (DDG 64) in the Mediterranean Sea. Carney, an Arleigh Burke-class guided-missile des",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/US_Navy_050717-N-2838C-001_The_Spanish_Navy_frigate_Alvaro_De_Bazan_%28F_101%29_pulls_alongside_the_Nimitz-class_aircraft_carrier_USS_Theodore_Roosevelt_%28CVN_71%29_to_observe_flight_operations.jpg/1280px-thumbnail.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/US_Navy_050717-N-2838C-001_The_Spanish_Navy_frigate_Alvaro_De_Bazan_%28F_101%29_pulls_alongside_the_Nimitz-class_aircraft_carrier_USS_Theodore_Roosevelt_%28CVN_71%29_to_observe_flight_operations.jpg",
+      "width": 2100,
+      "height": 1500,
+      "title": "US Navy 050717-N-2838C-001 The Spanish Navy frigate Alvaro De Bazan (F 101) pulls alongside the Nimitz-class aircraft carrier USS Theodore Roosevelt (CVN 71) to observe flight operations.jpg",
+      "description": "Atlantic Ocean (July 17, 2005) \u2013 The Spanish Navy frigate Alvaro De Bazan (F 101) pulls alongside the Nimitz-class aircraft carrier USS Theodore Roosevelt (CVN 71) to observe flight operations. Roosev",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/US_Navy_050717-N-3436C-002_The_Spanish_Navy_frigate_Alvaro_De_Bazan_%28F_101%29_pulls_alongside_the_Nimitz-class_aircraft_carrier_USS_Theodore_Roosevelt_%28CVN_71%29_to_observe_flight_operations.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/US_Navy_050717-N-3436C-002_The_Spanish_Navy_frigate_Alvaro_De_Bazan_%28F_101%29_pulls_alongside_the_Nimitz-class_aircraft_carrier_USS_Theodore_Roosevelt_%28CVN_71%29_to_observe_flight_operations.jpg",
+      "width": 1050,
+      "height": 750,
+      "title": "US Navy 050717-N-3436C-002 The Spanish Navy frigate Alvaro De Bazan (F 101) pulls alongside the Nimitz-class aircraft carrier USS Theodore Roosevelt (CVN 71) to observe flight operations.jpg",
+      "description": "Atlantic Ocean (July 17, 2005) \u2013 The Spanish Navy frigate Alvaro De Bazan (F 101) pulls alongside the Nimitz-class aircraft carrier USS Theodore Roosevelt (CVN 71) to observe flight operations. Roosev",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/US_Navy_051203-N-4154B-008_The_Spanish_Navy_frigate_Alvaro_de_Bazan_%28F101%29_sails_alongside_the_Nimitz-class_aircraft_carrier_USS_Theodore_Roosevelt_%28CVN_71%29_during_Alvaro_de_Bazan%27s_departure_from_Carrier_Strike_Group_Two.jpg/1280px-thumbnail.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/cd/US_Navy_051203-N-4154B-008_The_Spanish_Navy_frigate_Alvaro_de_Bazan_%28F101%29_sails_alongside_the_Nimitz-class_aircraft_carrier_USS_Theodore_Roosevelt_%28CVN_71%29_during_Alvaro_de_Bazan%27s_departure_from_Carrier_Strike_Group_Two.jpg",
+      "width": 3000,
+      "height": 2100,
+      "title": "US Navy 051203-N-4154B-008 The Spanish Navy frigate Alvaro de Bazan (F101) sails alongside the Nimitz-class aircraft carrier USS Theodore Roosevelt (CVN 71) during Alvaro de Bazan's departure from Carrier Strike Group Two.jpg",
+      "description": "Persian Gulf (Dec. 3, 2005) \u2013 The Spanish Navy frigate Alvaro de Bazan (F101) sails alongside the Nimitz-class aircraft carrier USS Theodore Roosevelt (CVN 71) during Alvaro de Bazan\u2019s departure from ",
+      "license": "Public domain",
+      "source": "wikimedia"
+    }
+  ]
+}

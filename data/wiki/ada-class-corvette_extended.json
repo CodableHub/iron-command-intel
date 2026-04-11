@@ -1,0 +1,265 @@
+{
+  "combat_history": [
+    {
+      "date": "2016-07-15",
+      "operation": "July 15 Coup Attempt",
+      "event": "TCG Heybeliada and B\u00fcy\u00fckada remained loyal to government during attempted military coup, helped secure naval facilities against coup plotters",
+      "significance": "Demonstrated crew loyalty and highlighted the strategic importance of modern naval assets during domestic political crises"
+    },
+    {
+      "date": "2018-2020",
+      "operation": "Counter-piracy Operations",
+      "event": "Ada-class corvettes conducted anti-piracy patrols in Gulf of Aden and Horn of Africa as part of international maritime security operations",
+      "significance": "First extended blue-water deployments proved the class's endurance and operational capabilities beyond regional waters"
+    },
+    {
+      "date": "2020-2022",
+      "operation": "Eastern Mediterranean Tensions",
+      "event": "Multiple Ada-class vessels conducted patrols and escort missions during Turkey-Greece maritime boundary disputes, including escorting seismic survey vessels",
+      "significance": "Real-world test of stealth capabilities and sensor systems in contested maritime environment with NATO allies"
+    }
+  ],
+  "modernization": [
+    {
+      "program": "MIDLAS VLS Integration",
+      "status": "in-progress",
+      "timeline": "2022-2025",
+      "description": "Retrofitting existing Ada-class vessels with Turkish indigenous MIDLAS vertical launch system to replace or supplement foreign VLS cells",
+      "impact": "Reduces foreign dependency and enables integration of Turkish-developed missiles including HISAR-O SAM and indigenous anti-ship missiles"
+    },
+    {
+      "program": "\u00c7AFRAD Radar Upgrade",
+      "status": "planned",
+      "timeline": "2024-2027",
+      "description": "Potential upgrade to Turkish \u00c7AFRAD active electronically scanned array radar system to replace Thales Smart-S",
+      "impact": "Would eliminate foreign dependency on critical sensor systems and improve detection capabilities against stealth targets"
+    },
+    {
+      "program": "Electronic Warfare Enhancement",
+      "status": "in-progress",
+      "timeline": "2023-2026",
+      "description": "Upgrading ARES-2N EW suite with improved jamming capabilities and integration with Turkish satellite communication systems",
+      "impact": "Enhanced survivability in high-threat electronic warfare environment, particularly relevant for Black Sea operations"
+    }
+  ],
+  "vulnerabilities": [
+    {
+      "area": "Limited VLS capacity",
+      "description": "With only 8 VLS cells, Ada-class corvettes have significantly less missile capacity than peer vessels like Sa'ar 6 (32 cells) or even smaller vessels like Karakurt-class (8-16 Kalibr cells)",
+      "context": "In high-intensity conflict against peer adversaries, limited missile inventory severely constrains engagement options and requires frequent resupply",
+      "mitigation": "Istanbul-class variant addresses this with MIDLAS system and potential for increased cell count"
+    },
+    {
+      "area": "Foreign system dependencies",
+      "description": "Critical systems including main radar, sonar, and weapons remain foreign-sourced, creating potential supply chain vulnerabilities during extended conflicts",
+      "context": "Turkey's complex relationships with NATO allies could limit spare parts and upgrades during crisis situations",
+      "mitigation": "Ongoing indigenization programs aim to replace foreign systems with Turkish alternatives by 2030"
+    },
+    {
+      "area": "ASW limitations in deep water",
+      "description": "Hull-mounted sonar configuration and lack of towed array limits ASW effectiveness in deep-water environments against modern quiet submarines",
+      "context": "Russian submarine activity in Black Sea and potential future confrontations require enhanced ASW capabilities",
+      "mitigation": "Reliance on embarked helicopter for extended ASW operations, potential towed array integration in future variants"
+    }
+  ],
+  "operational_patterns": {
+    "typical_deployment": "Regional patrol and escort missions in Eastern Mediterranean, Black Sea, and Aegean Sea with periodic extended deployments for international missions",
+    "deployment_length_months": 3,
+    "key_operating_areas": [
+      "Eastern Mediterranean",
+      "Black Sea",
+      "Aegean Sea",
+      "Gulf of Aden"
+    ],
+    "typical_task_group": "Operates independently or with Turkish frigates in surface action groups, occasionally integrated with NATO Standing Maritime Groups",
+    "readiness_notes": "High operational tempo due to regional tensions has resulted in increased maintenance requirements; foreign component supply chains create occasional readiness impacts"
+  },
+  "peer_comparisons": [
+    {
+      "platform": "Sa'ar 6-class corvette",
+      "country": "Israel",
+      "relationship": "direct rival",
+      "key_differences": "Sa'ar 6 carries 32 VLS cells vs Ada's 8, but Ada has superior stealth design and ASW capability. Both emphasize regional power projection but Sa'ar 6 prioritizes air defense while Ada balances multiple missions.",
+      "video_angle": "Eastern Mediterranean naval arms race - stealth vs firepower approach to corvette design"
+    },
+    {
+      "platform": "Karakurt-class corvette",
+      "country": "Russia",
+      "relationship": "direct rival",
+      "key_differences": "Karakurt trades stealth and ASW for raw missile firepower with 8 Kalibr cruise missiles. Ada emphasizes multi-mission capability while Karakurt is optimized for land-attack missions. Similar displacement but different operational philosophies.",
+      "video_angle": "Black Sea corvette showdown - NATO vs Russian approaches to small combatant design"
+    },
+    {
+      "platform": "Braunschweig-class corvette",
+      "country": "Germany",
+      "relationship": "allied equivalent",
+      "key_differences": "German design prioritizes modularity and NATO interoperability over stealth. Similar ASW focus but Braunschweig emphasizes mine warfare capability. Ada represents more aggressive, stealth-focused approach.",
+      "video_angle": "NATO corvette evolution - traditional German engineering vs Turkish stealth innovation"
+    },
+    {
+      "platform": "Sigma-class corvette",
+      "country": "Netherlands/Indonesia",
+      "relationship": "export competitor",
+      "key_differences": "Sigma variants offer modular mission packages similar to Ada but with conventional hull design. Ada's stealth shaping gives advantage in contested environments while Sigma offers proven reliability and lower costs.",
+      "video_angle": "Global corvette export market - Turkish MILGEM vs Dutch Sigma approaches to international sales"
+    }
+  ],
+  "search_keywords": [
+    "ada class",
+    "ada-class",
+    "milgem",
+    "turkish corvette",
+    "heybeliada",
+    "b\u00fcy\u00fckada",
+    "burgazada",
+    "k\u0131nal\u0131ada",
+    "f-511",
+    "f-512",
+    "f-513",
+    "f-514",
+    "genesis combat system",
+    "istanbul class"
+  ],
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Bulava_of_Hetman_Ivan_Mazepa_exhibit_photo%2C_Kyiv_2021.jpg/1280px-Bulava_of_Hetman_Ivan_Mazepa_exhibit_photo%2C_Kyiv_2021.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Bulava_of_Hetman_Ivan_Mazepa_exhibit_photo%2C_Kyiv_2021.jpg",
+      "width": 6000,
+      "height": 3368,
+      "title": "Bulava of Hetman Ivan Mazepa exhibit photo, Kyiv 2021.jpg",
+      "description": "The bulava of Hetman Ivan Mazepa was brought from Sweden to Ukraine with the Constitution of Pylyp Orlyk in 2021 to be exhibited on the occasion of the 30-th Anniversary of Ukrainian Independence. The",
+      "license": "CC BY 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/F211HetmanIvanMazepaShoulderPatch.png",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/F211HetmanIvanMazepaShoulderPatch.png",
+      "width": 250,
+      "height": 255,
+      "title": "F211HetmanIvanMazepaShoulderPatch.png",
+      "description": "Shoulder patch of the Ukrainian Navy corvette F211 Hetman Ivan Mazepa",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Hetman_Ivan_Mazepa_1690.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Hetman_Ivan_Mazepa_1690.jpg",
+      "width": 708,
+      "height": 1022,
+      "title": "Hetman Ivan Mazepa 1690.jpg",
+      "description": "Hetman Ivan Mazepa 1690",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/MockupAdaClassCorvette.jpg/1280px-MockupAdaClassCorvette.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/21/MockupAdaClassCorvette.jpg",
+      "width": 2492,
+      "height": 1177,
+      "title": "MockupAdaClassCorvette.jpg",
+      "description": "Mockup of Ada-class corvette with missile launcher at the IDEF 2019 in Istanbul, Turkey.",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/9e/SMART-S_Mk2_radar_deployed_on_Turkish_Ada_class_corvette_TCG_Burgazada_%28F-513%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/9e/SMART-S_Mk2_radar_deployed_on_Turkish_Ada_class_corvette_TCG_Burgazada_%28F-513%29.jpg",
+      "width": 870,
+      "height": 627,
+      "title": "SMART-S Mk2 radar deployed on Turkish Ada class corvette TCG Burgazada (F-513).jpg",
+      "description": "SMART-S Mk2 radar deployed on Turkish\u00a0Ada class corvette.",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/TCG_Heybeliada_maket.JPG/1280px-TCG_Heybeliada_maket.JPG",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/10/TCG_Heybeliada_maket.JPG",
+      "width": 3264,
+      "height": 2448,
+      "title": "TCG Heybeliada maket.JPG",
+      "description": "Mersin Deniz M\u00fczesinde sergilenmekte olan <a href=\"https://en.wikipedia.org/wiki/tr:TCG_Heybeliada_(F-511)\" class=\"extiw\" title=\"wikipedia:tr:TCG Heybeliada (F-511)\">TCG <i>Heybeliada</i></a> maketi.",
+      "license": "CC0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/U.S._Navy_Cmdr._Russell_Caldwell_waves_to_the_Turkish_corvette_TCG_Heybeliada_%28F_511%29_from_aboard_the_guided_missile_destroyer_USS_Ross_%28DDG_71%29_in_the_Mediterranean_Sea_during_a_passing_exercise_Sept_140902-N-IY142-159.jpg/1280px-thumbnail.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/U.S._Navy_Cmdr._Russell_Caldwell_waves_to_the_Turkish_corvette_TCG_Heybeliada_%28F_511%29_from_aboard_the_guided_missile_destroyer_USS_Ross_%28DDG_71%29_in_the_Mediterranean_Sea_during_a_passing_exercise_Sept_140902-N-IY142-159.jpg",
+      "width": 3561,
+      "height": 2371,
+      "title": "U.S. Navy Cmdr. Russell Caldwell waves to the Turkish corvette TCG Heybeliada (F 511) from aboard the guided missile destroyer USS Ross (DDG 71) in the Mediterranean Sea during a passing exercise Sept 140902-N-IY142-159.jpg",
+      "description": "U.S. Navy Cmdr. Russell Caldwell waves to the Turkish corvette TCG Heybeliada (F 511) from aboard the guided missile destroyer USS Ross (DDG 71) in the Mediterranean Sea during a passing exercise Sept",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/%D0%92%D1%96%D0%B7%D0%B8%D1%82_%D0%BF%D0%B5%D1%80%D1%88%D0%BE%D1%97_%D0%BB%D0%B5%D0%B4%D1%96_%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D0%B8_%D0%B4%D0%BE_%D0%A2%D1%83%D1%80%D0%B5%D1%86%D1%8C%D0%BA%D0%BE%D1%97_%D0%A0%D0%B5%D1%81%D0%BF%D1%83%D0%B1%D0%BB%D1%96%D0%BA%D0%B8_03_%28cropped%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/%D0%92%D1%96%D0%B7%D0%B8%D1%82_%D0%BF%D0%B5%D1%80%D1%88%D0%BE%D1%97_%D0%BB%D0%B5%D0%B4%D1%96_%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D0%B8_%D0%B4%D0%BE_%D0%A2%D1%83%D1%80%D0%B5%D1%86%D1%8C%D0%BA%D0%BE%D1%97_%D0%A0%D0%B5%D1%81%D0%BF%D1%83%D0%B1%D0%BB%D1%96%D0%BA%D0%B8_03_%28cropped%29.jpg",
+      "width": 332,
+      "height": 422,
+      "title": "\u0412\u0456\u0437\u0438\u0442 \u043f\u0435\u0440\u0448\u043e\u0457 \u043b\u0435\u0434\u0456 \u0423\u043a\u0440\u0430\u0457\u043d\u0438 \u0434\u043e \u0422\u0443\u0440\u0435\u0446\u044c\u043a\u043e\u0457 \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0456\u043a\u0438 03 (cropped).jpg",
+      "description": "Visit of the First Lady of Ukraine to the Republic of Turkey",
+      "license": "CC BY 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Austal_OPV_-_Front_View_at_ADAS_2018.jpg/1280px-Austal_OPV_-_Front_View_at_ADAS_2018.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Austal_OPV_-_Front_View_at_ADAS_2018.jpg",
+      "width": 4608,
+      "height": 2128,
+      "title": "Austal OPV - Front View at ADAS 2018.jpg",
+      "description": "Front view of the scale model of Austal's Offshore Patrol Vessel (OPV), a bigger version of their Cape Class Patrol Boat (CCPB) that they are offering to the Philippine Navy. Photo taken during the 20",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Austal_OPV_-_Rear_View_at_ADAS_2018.jpg/1280px-Austal_OPV_-_Rear_View_at_ADAS_2018.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Austal_OPV_-_Rear_View_at_ADAS_2018.jpg",
+      "width": 4608,
+      "height": 2128,
+      "title": "Austal OPV - Rear View at ADAS 2018.jpg",
+      "description": "Rear view of the scale model of Austal's Offshore Patrol Vessel (OPV), a bigger version of their Cape Class Patrol Boat (CCPB) that they are offering to the Philippine Navy. Photo taken during the 201",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/NSA_Souda_Bay_Awards_at_Quarters_Nov_2025_%289394327%29.jpg/1280px-NSA_Souda_Bay_Awards_at_Quarters_Nov_2025_%289394327%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/14/NSA_Souda_Bay_Awards_at_Quarters_Nov_2025_%289394327%29.jpg",
+      "width": 5209,
+      "height": 4167,
+      "title": "NSA Souda Bay Awards at Quarters Nov 2025 (9394327).jpg",
+      "description": "NAVAL SUPPORT ACTIVITY SOUDA BAY, Greece (Nov. 14, 2025) Aviation Maintenance Administrationman 1st Class Ada Guo, assigned to Naval Support Activity (NSA) Souda Bay, receives a Navy and Marine Corps ",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/US_Navy_101016-N-3731H-119_Aviation_Ordnanceman_2nd_Class_Victorjack_Ada%2C_right%2C_from_Saipan%2C_fires_a_.50-caliber_machine_gun_while_Gunner%27s_Mate_1.jpg/1280px-US_Navy_101016-N-3731H-119_Aviation_Ordnanceman_2nd_Class_Victorjack_Ada%2C_right%2C_from_Saipan%2C_fires_a_.50-caliber_machine_gun_while_Gunner%27s_Mate_1.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/US_Navy_101016-N-3731H-119_Aviation_Ordnanceman_2nd_Class_Victorjack_Ada%2C_right%2C_from_Saipan%2C_fires_a_.50-caliber_machine_gun_while_Gunner%27s_Mate_1.jpg",
+      "width": 2100,
+      "height": 1500,
+      "title": "US Navy 101016-N-3731H-119 Aviation Ordnanceman 2nd Class Victorjack Ada, right, from Saipan, fires a .50-caliber machine gun while Gunner's Mate 1.jpg",
+      "description": "PACIFIC OCEAN (Oct. 16, 2010) Aviation Ordnanceman 2nd Class Victorjack Ada, right, from Saipan, fires a .50-caliber machine gun while Gunner's Mate 1st Class Carlos Torres, from Houston, Texas, looks",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/US_Navy_110921-N-GO179-002_Brian_Martin%2C_left%2C_privacy_officer_for_Navy_Medicine_Support_Command_%28NMSC%29%2C_and_Hospital_Corpsman_1st_Class_Teresa_Ada.jpg/1280px-US_Navy_110921-N-GO179-002_Brian_Martin%2C_left%2C_privacy_officer_for_Navy_Medicine_Support_Command_%28NMSC%29%2C_and_Hospital_Corpsman_1st_Class_Teresa_Ada.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/01/US_Navy_110921-N-GO179-002_Brian_Martin%2C_left%2C_privacy_officer_for_Navy_Medicine_Support_Command_%28NMSC%29%2C_and_Hospital_Corpsman_1st_Class_Teresa_Ada.jpg",
+      "width": 2896,
+      "height": 1944,
+      "title": "US Navy 110921-N-GO179-002 Brian Martin, left, privacy officer for Navy Medicine Support Command (NMSC), and Hospital Corpsman 1st Class Teresa Ada.jpg",
+      "description": "JACKSONVILLE, Fla. (Sept. 21, 2011) Brian Martin, left, privacy officer for Navy Medicine Support Command (NMSC), and Hospital Corpsman 1st Class Teresa Adams prepare labels for boxes of donated food ",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/U_S_Army_C-12V_Huron_arrives_onboard_Naval_Support_Activity_Naples%2C_Italy_%285443296%29.jpg/1280px-U_S_Army_C-12V_Huron_arrives_onboard_Naval_Support_Activity_Naples%2C_Italy_%285443296%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/70/U_S_Army_C-12V_Huron_arrives_onboard_Naval_Support_Activity_Naples%2C_Italy_%285443296%29.jpg",
+      "width": 6672,
+      "height": 4448,
+      "title": "U S Army C-12V Huron arrives onboard Naval Support Activity Naples, Italy (5443296).jpg",
+      "description": "Aviation Boatswain\u2019s Mate (handling) 2nd Class Ada Tate, assigned to Naval Support Activity (NSA) Naples, Italy, directs a U.S. Army C-12V Huron, flown by B Company 2-228 Theater Fixed Wing Battalion ",
+      "license": "Public domain",
+      "source": "wikimedia"
+    }
+  ]
+}

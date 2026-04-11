@@ -139,6 +139,18 @@
       "created_at": "2026-04-10 20:39:15"
     },
     {
+      "id": 326,
+      "platform_id": 46,
+      "article_hash": "828552df57e453dd",
+      "title": "I was in the room as Royal Navy announced bombshell deployment against Russian submarines - MSN",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPOTJneDBwTHVpc0VDT1BIQ0prWUdHazNkc0szeks5R2Jvc1pQcHdPVTZmM0Y0alFwdGROZF96UWlYU1hLY3ZabWhrc3lXeUprQXNsSGNRZnU1UHFKbGwzNnhQOVF1OEdqZ1dUdDM2UFlfVXA5bkxHSzVmd0FqdnZidkE3LTBIanVGMUhPdVFic01paXVBNWlOMGtEVWlQNG16ZE9RTm4xcFhBRmNwaGxweXpXQ1h6SXdvanpiTlprRTlxWWtmV2ZycGlBWnhfRHg2ZzdSeg?oc=5",
+      "source": "GNews (MSN)",
+      "published_at": "2026-04-09T14:52:11",
+      "relevance_score": 0.6,
+      "snippet": "I was in the room as Royal Navy announced bombshell deployment against Russian submarines - MSN",
+      "created_at": "2026-04-11 08:05:01"
+    },
+    {
       "id": 198,
       "platform_id": 46,
       "article_hash": "5cdf23e944b6e35d",
@@ -223,6 +235,18 @@
       "created_at": "2026-04-10 20:39:16"
     },
     {
+      "id": 324,
+      "platform_id": 46,
+      "article_hash": "d632629c941c5bd0",
+      "title": "Royal Navy fits ship with advanced minehunting drones ahead of possible Hormuz deployment - The Independent",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQUEpTTWItVTVBVkR0MHhuNjlLMXFnWUc1cEczdjhiSTNwT1dBQWtGZ0dJTlctWm82X3k5NHVoS2stZzMyV2pLRmxkZGdnTDlxTllWT2NOTl9yVGJLTWRJd0hIakEyOUtiTG45YmJXdFNUZXBoMlZmWnlwcHAxTG12VHBqUzZEUDcxYkRUQkctM2Y?oc=5",
+      "source": "GNews (The Independent)",
+      "published_at": "2026-03-29T07:00:00",
+      "relevance_score": 0.6,
+      "snippet": "Royal Navy fits ship with advanced minehunting drones ahead of possible Hormuz deployment - The Independent",
+      "created_at": "2026-04-11 05:05:02"
+    },
+    {
       "id": 286,
       "platform_id": 46,
       "article_hash": "188931a4d38f0147",
@@ -257,6 +281,18 @@
       "relevance_score": 0.6,
       "snippet": "Royal Navy warship HMS Dragon sails for Eastern Mediterranean mission - U.K. Royal Navy",
       "created_at": "2026-04-10 20:39:17"
+    },
+    {
+      "id": 314,
+      "platform_id": 46,
+      "article_hash": "7177c9474e08c5ba",
+      "title": "Magical homecoming for Carrier Strike Group - U.K. Royal Navy",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOb2dfV1pMWnhBNVF1VjJOdldzeXZRNEUtdG5PWkdMZlhVZzY1WTE5MkJCTHAyUHZyeU9RbWM2MlJaNVlrUllUT2M3eU5UOThUZGZCVmpzdXZVZnV6X2ZaeUE1bDcyVEdmOE1yQTl6MVF6TThUOWlNUTB0akN3WDB3Z2ZKOXE?oc=5",
+      "source": "GNews (U.K. Royal Navy)",
+      "published_at": "2025-11-30T08:00:00",
+      "relevance_score": 0.6,
+      "snippet": "Magical homecoming for Carrier Strike Group - U.K. Royal Navy",
+      "created_at": "2026-04-11 01:05:02"
     }
   ],
   "events": [],

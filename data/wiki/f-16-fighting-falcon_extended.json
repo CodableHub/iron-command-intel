@@ -1,0 +1,315 @@
+{
+  "combat_history": [
+    {
+      "date": "1981-06-07",
+      "operation": "Operation Opera",
+      "event": "Israeli F-16As conducted precision strike against Iraqi Osirak nuclear reactor, demonstrating long-range strike capability and precision attack potential",
+      "significance": "First major combat use, proved F-16's multirole capability and strategic strike potential"
+    },
+    {
+      "date": "1991-01-17",
+      "operation": "Operation Desert Storm",
+      "event": "USAF F-16s flew 13,450 sorties, primarily air-to-ground missions. Shot down Iraqi aircraft while conducting extensive SEAD and CAS operations",
+      "significance": "Validated multirole concept in high-intensity conflict, proved effectiveness against integrated air defenses"
+    },
+    {
+      "date": "1999-03-24",
+      "operation": "Operation Allied Force",
+      "event": "NATO F-16s conducted 4,800+ sorties over Kosovo. Notable shoot-down of F-16CG 88-0550 by SA-3 on March 27, pilot recovered",
+      "significance": "Highlighted vulnerability to modern SAMs while demonstrating sustained operations capability"
+    },
+    {
+      "date": "2011-03-19",
+      "operation": "Operation Odyssey Dawn",
+      "event": "USAF F-16CJs conducted initial SEAD strikes against Libyan air defenses, suppressing SA-5 and SA-2 sites",
+      "significance": "Demonstrated continued relevance of dedicated Wild Weasel variants against modern threats"
+    },
+    {
+      "date": "2014-09-23",
+      "operation": "Operation Inherent Resolve",
+      "event": "F-16s conducted first strikes against ISIS in Syria, using precision munitions in urban environments with minimal collateral damage",
+      "significance": "Showcased precision strike capability and effectiveness of modern targeting pods"
+    }
+  ],
+  "modernization": [
+    {
+      "program": "F-16V Upgrade Program",
+      "status": "in-progress",
+      "timeline": "2012-2030",
+      "description": "Retrofit existing F-16C/D aircraft with APG-83 AESA radar, modern mission computer, advanced cockpit displays, and Link 16. Over 1,600 aircraft planned for upgrade across multiple nations.",
+      "impact": "Extends F-16 relevance into 2040s, provides 5th generation sensor capability and network integration"
+    },
+    {
+      "program": "Service Life Extension Program (SLEP)",
+      "status": "in-progress",
+      "timeline": "2018-2048",
+      "description": "Structural modifications to extend airframe life from 8,000 to 12,000 flight hours. Includes wing replacement, fuselage strengthening, and landing gear upgrades.",
+      "impact": "Allows F-16 operations into 2040s while F-35 production ramps up"
+    },
+    {
+      "program": "Have Glass V",
+      "status": "completed",
+      "timeline": "2005-2015",
+      "description": "Radar signature reduction through specialized coatings and structural modifications. Classified program with limited public details.",
+      "impact": "Modest RCS reduction improving survivability against legacy radars"
+    },
+    {
+      "program": "Automatic Ground Collision Avoidance System (Auto GCAS)",
+      "status": "completed",
+      "timeline": "2014-2020",
+      "description": "Automatic system prevents controlled flight into terrain by taking control from pilot when ground collision is imminent.",
+      "impact": "Significant safety improvement, has saved multiple aircraft and pilots"
+    }
+  ],
+  "vulnerabilities": [
+    {
+      "area": "Radar Cross Section",
+      "description": "Large frontal RCS of approximately 5 square meters makes F-16 highly visible to modern radars, especially when carrying external stores.",
+      "context": "Advanced SAM systems like S-400 can detect and engage F-16s at maximum missile range, limiting operational effectiveness",
+      "mitigation": "Standoff weapons employment, EW systems, limited stealth treatments in Have Glass program"
+    },
+    {
+      "area": "Single Engine Vulnerability",
+      "description": "Single F100/F110 engine creates vulnerability to battle damage, bird strikes, or mechanical failure with no backup propulsion.",
+      "context": "Higher loss rates compared to twin-engine fighters in combat, particularly concerning over water or hostile territory",
+      "mitigation": "Improved engine reliability, ejection seat improvements, but inherent vulnerability remains"
+    },
+    {
+      "area": "Limited Payload-Range",
+      "description": "Small internal fuel capacity and single-engine efficiency limit combat radius with meaningful payload to approximately 340nm.",
+      "context": "Pacific theater distances and standoff weapon requirements often exceed F-16 unrefueled range",
+      "mitigation": "Conformal fuel tanks, aerial refueling, forward basing strategies"
+    },
+    {
+      "area": "Electronic Warfare Susceptibility",
+      "description": "Older variants lack advanced EW systems and digital RWR, making them vulnerable to modern jamming and deception techniques.",
+      "context": "Russian and Chinese EW capabilities can significantly degrade F-16 sensor effectiveness and situational awareness",
+      "mitigation": "F-16V upgrades include improved EW suite, but still behind dedicated EW platforms"
+    }
+  ],
+  "operational_patterns": {
+    "typical_deployment": "Forward deployment in 12-24 aircraft squadrons, often rotating through allied bases for presence missions",
+    "deployment_length_months": 6,
+    "key_operating_areas": [
+      "Middle East",
+      "Eastern Europe",
+      "Korean Peninsula",
+      "Pacific Islands"
+    ],
+    "typical_task_group": "Operates in packages with tankers, AWACS, and EW support. Often mixed with F-35s in high-threat environments",
+    "readiness_notes": "Aging fleet requires increased maintenance, parts availability issues for older blocks. Mission capable rates average 70-75%"
+  },
+  "peer_comparisons": [
+    {
+      "platform": "F/A-18E/F Super Hornet",
+      "country": "United States",
+      "relationship": "allied equivalent",
+      "key_differences": "Super Hornet offers greater payload, range, and twin-engine reliability, but F-16 has superior sustained turn performance and lower operating costs. Hornet provides carrier capability.",
+      "video_angle": "Backbone vs Workhorse: Why the Navy chose twin engines while the Air Force stayed single"
+    },
+    {
+      "platform": "Dassault Rafale",
+      "country": "France",
+      "relationship": "European equivalent",
+      "key_differences": "Rafale features better multirole integration, longer range, and more advanced EW systems, but is significantly more expensive. Both emphasize agility and multirole capability.",
+      "video_angle": "European sophistication vs American pragmatism in fighter design philosophy"
+    },
+    {
+      "platform": "Eurofighter Typhoon",
+      "country": "Multi-national",
+      "relationship": "European equivalent",
+      "key_differences": "Typhoon optimized for air superiority with superior climb rate and altitude performance, while F-16 emphasizes multirole capability and cost-effectiveness. Typhoon lacks mature air-to-ground systems.",
+      "video_angle": "Specialized air superiority vs jack-of-all-trades design approaches"
+    },
+    {
+      "platform": "Saab JAS 39 Gripen",
+      "country": "Sweden",
+      "relationship": "light fighter equivalent",
+      "key_differences": "Gripen offers similar performance with lower operating costs and better short-field capability, but smaller production run means higher unit costs and limited upgrade potential.",
+      "video_angle": "Small nation innovation vs superpower mass production in modern fighter development"
+    },
+    {
+      "platform": "Chengdu J-10",
+      "country": "China",
+      "relationship": "direct rival",
+      "key_differences": "J-10 shares similar design philosophy and performance envelope but uses delta-canard configuration. Latest variants feature AESA radar but lack combat experience and international support network.",
+      "video_angle": "How China's J-10 copied and evolved the F-16 formula for domestic needs"
+    }
+  ],
+  "search_keywords": [
+    "f-16",
+    "f16",
+    "fighting falcon",
+    "viper",
+    "falcon",
+    "f-16c",
+    "f-16d",
+    "block 50",
+    "block 70",
+    "f-16v",
+    "general dynamics",
+    "lockheed martin"
+  ],
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/A_USAF_F-16_pilot_breaking_right_on_final_approach_over_northern_Las_Vegas.jpg/1280px-A_USAF_F-16_pilot_breaking_right_on_final_approach_over_northern_Las_Vegas.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/be/A_USAF_F-16_pilot_breaking_right_on_final_approach_over_northern_Las_Vegas.jpg",
+      "width": 3240,
+      "height": 2160,
+      "title": "A USAF F-16 pilot breaking right on final approach over northern Las Vegas.jpg",
+      "description": "Air Force Capt. Brandon Lavalley breaks right on a final approach over northern Las Vegas during day three of Red Flag 12-2 on Nellis Air Force Base, Nev., Jan. 25, 2012. Lavalley is a pilot assigned ",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/An_F-16_of_the_Egyptian_Air_Force_fly_in_support_of_exercise_Agile_Phoenix.jpg/1280px-An_F-16_of_the_Egyptian_Air_Force_fly_in_support_of_exercise_Agile_Phoenix.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/10/An_F-16_of_the_Egyptian_Air_Force_fly_in_support_of_exercise_Agile_Phoenix.jpg",
+      "width": 2535,
+      "height": 1677,
+      "title": "An F-16 of the Egyptian Air Force fly in support of exercise Agile Phoenix.jpg",
+      "description": "U.S. Air Force F-16 aircraft assigned to the 179th Expeditionary Fighter Squadron conduct aerial training operations with Egyptian Air Force partners in support of exercise Agile Phoenix within the U.",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/F-16_Fighting_Falcon.jpg/1280px-F-16_Fighting_Falcon.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/66/F-16_Fighting_Falcon.jpg",
+      "width": 2792,
+      "height": 1627,
+      "title": "F-16 Fighting Falcon.jpg",
+      "description": "<p>A U.S. Air Force F-16 Fighting Falcon flies a mission in the skies near Iraq on March 22, 2003 during Operation Iraqi freedom.\n</p>\nOPERATION IRAQI FREEDOM -- An F-16 Fighting Falcon flies a missio",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/F-16_June_2008.jpg/1280px-F-16_June_2008.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/c9/F-16_June_2008.jpg",
+      "width": 3842,
+      "height": 2655,
+      "title": "F-16 June 2008.jpg",
+      "description": "A U.S. Air Force F-16 Fighting Falcon Block 40 aircraft after receiving fuel from a KC-135 Stratotanker aircraft during a mission over Iraq on 10 June 2008.  This F-16 is assigned to the 34th EFS Bala",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/F-16_refuelling%2C_Exercise_Green_Flag_East_-_081201-F-3071N-235.jpg/1280px-F-16_refuelling%2C_Exercise_Green_Flag_East_-_081201-F-3071N-235.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/F-16_refuelling%2C_Exercise_Green_Flag_East_-_081201-F-3071N-235.jpg",
+      "width": 1997,
+      "height": 3000,
+      "title": "F-16 refuelling, Exercise Green Flag East - 081201-F-3071N-235.jpg",
+      "description": "A U.S. Air National Guard General Dynamics F-16C <i>Fighting Falcon</i> receives fuel from a Boeing KC-135R <i>Stratotanker</i> on 1 December 2008 en route to Barksdale Air Force Base, Louisiana (USA)",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/SSG_Desiree_Palacios_makes_final_settings_on_her_camera_before_a_sortie_in_a_F-16D_Fighting_Falcon.jpg/1280px-SSG_Desiree_Palacios_makes_final_settings_on_her_camera_before_a_sortie_in_a_F-16D_Fighting_Falcon.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/a9/SSG_Desiree_Palacios_makes_final_settings_on_her_camera_before_a_sortie_in_a_F-16D_Fighting_Falcon.jpg",
+      "width": 3000,
+      "height": 1916,
+      "title": "SSG Desiree Palacios makes final settings on her camera before a sortie in a F-16D Fighting Falcon.jpg",
+      "description": "Staff Sgt. Desiree Palacios tests and makes final settings on her camera before taxing out to on sortie in a <a href=\"https://en.wikipedia.org/wiki/General_Dynamics_F-16_Fighting_Falcon\" class=\"extiw\"",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/USAF_F-16C_Profile.jpg/1280px-USAF_F-16C_Profile.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/USAF_F-16C_Profile.jpg",
+      "width": 3008,
+      "height": 1960,
+      "title": "USAF F-16C Profile.jpg",
+      "description": "A US Air Force (USAF) F-16C Fighting Falcon, 120th Fighter Squadron (FS), 140th Fighter Wing (FW), Colorado Air National Guard (COANG) disengages from a refueling boom (fuel port is still open) as it ",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/USAF_Lockheed_F-16CM_Fighting_Falcon_91-0418_Royal_International_Air_Tattoo_2024_01.jpg/1280px-USAF_Lockheed_F-16CM_Fighting_Falcon_91-0418_Royal_International_Air_Tattoo_2024_01.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/f2/USAF_Lockheed_F-16CM_Fighting_Falcon_91-0418_Royal_International_Air_Tattoo_2024_01.jpg",
+      "width": 4096,
+      "height": 2304,
+      "title": "USAF Lockheed F-16CM Fighting Falcon 91-0418 Royal International Air Tattoo 2024 01.jpg",
+      "description": "United States Air Force Lockheed F-16CM Fighting Falcon (reg. 91-0418, 52nd Fighter Wing) at the Royal International Air Tattoo 2024.",
+      "license": "CC BY 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/011218-N-9769P-047_F-A-18_With_Weapons_Ready_for_Mission.jpg/1280px-011218-N-9769P-047_F-A-18_With_Weapons_Ready_for_Mission.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/e9/011218-N-9769P-047_F-A-18_With_Weapons_Ready_for_Mission.jpg",
+      "width": 2000,
+      "height": 1312,
+      "title": "011218-N-9769P-047 F-A-18 With Weapons Ready for Mission.jpg",
+      "description": "011218-N-9769P-047\nAt sea aboard <a href=\"https://en.wikipedia.org/wiki/USS_John_C._Stennis_(CVN-74)\" class=\"extiw\" title=\"w:USS John C. Stennis (CVN-74)\">USS John C. Stennis (CVN-74)</a> Dec. 18, 200",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/020116-N-6626D-501_navy_F-A-18.jpg/1280px-020116-N-6626D-501_navy_F-A-18.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/020116-N-6626D-501_navy_F-A-18.jpg",
+      "width": 2100,
+      "height": 1500,
+      "title": "020116-N-6626D-501 navy F-A-18.jpg",
+      "description": "A U.S. Marine Corps McDonnell Douglas F/A-18C <i>Hornet</i> from VMFA-251 <i>Thunderbolts</i>  is launched from the flight deck of the U.S. Navy aircraft carrier USS <i>Theodore Roosevelt</i> (CVN-71)",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/An_F-A-18C_Hornet_launches_from_the_flight_deck_of_the_conventionally_powered_aircraft_carrier.jpg/1280px-An_F-A-18C_Hornet_launches_from_the_flight_deck_of_the_conventionally_powered_aircraft_carrier.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/49/An_F-A-18C_Hornet_launches_from_the_flight_deck_of_the_conventionally_powered_aircraft_carrier.jpg",
+      "width": 2100,
+      "height": 1391,
+      "title": "An F-A-18C Hornet launches from the flight deck of the conventionally powered aircraft carrier.jpg",
+      "description": "Pacific Ocean (Aug. 17, 2005) \u2013 An F/A-18C Hornet, assigned to the \"Golden Dragons\" of Strike Fighter Squadron One Nine Two (VFA-192), launches from the flight deck of the conventionally powered aircr",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/US_Navy_021004-N-9593M-025_Loading_a_GBU-16_onto_an_F-A-18C.jpg/1280px-US_Navy_021004-N-9593M-025_Loading_a_GBU-16_onto_an_F-A-18C.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/35/US_Navy_021004-N-9593M-025_Loading_a_GBU-16_onto_an_F-A-18C.jpg",
+      "width": 1500,
+      "height": 2100,
+      "title": "US Navy 021004-N-9593M-025 Loading a GBU-16 onto an F-A-18C.jpg",
+      "description": "At sea aboard USS Abraham Lincoln (CVN 72) Oct. 4, 2002 -- An Aviation Ordnancemen assigned to the \u201cStingers\u201d of Strike Fighter Squadron One One Three (VFA-113) manually loads a 1000 pound Laser Guide",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/US_Navy_021023-F-2034C-020_An_Air_Force_F-15_%27Eagle%27_and_F-16_%27Falcon%27_fly_in_formation_with_a_Navy_F-14_%27Tomcat%27_and_F-A-18_%27Hornet%27_over_the_Atlantic_Ocean_during_exercise_Cope_S.jpg/1280px-thumbnail.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/ba/US_Navy_021023-F-2034C-020_An_Air_Force_F-15_%27Eagle%27_and_F-16_%27Falcon%27_fly_in_formation_with_a_Navy_F-14_%27Tomcat%27_and_F-A-18_%27Hornet%27_over_the_Atlantic_Ocean_during_exercise_Cope_S.jpg",
+      "width": 2410,
+      "height": 1902,
+      "title": "US Navy 021023-F-2034C-020 An Air Force F-15 'Eagle' and F-16 'Falcon' fly in formation with a Navy F-14 'Tomcat' and F-A-18 'Hornet' over the Atlantic Ocean during exercise Cope S.jpg",
+      "description": "Naval Air Station (NAS) Key West, Fla. (Oct. 23, 2002) -- An Air Force McDonnell Douglas F-15A-19-MC <i>Eagle</i> (s/n 77-0081);and Lockheed F-16C Block 52Q <i>Fighting Falcon</i> (s/n 93-0535)\u00a0; fly ",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/US_Navy_040218-N-8228R-006_An_Italian_Air_Force_F-16_fighter_intercepts_a_U.S._Navy_P-3C_Orion.jpg/1280px-US_Navy_040218-N-8228R-006_An_Italian_Air_Force_F-16_fighter_intercepts_a_U.S._Navy_P-3C_Orion.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/7e/US_Navy_040218-N-8228R-006_An_Italian_Air_Force_F-16_fighter_intercepts_a_U.S._Navy_P-3C_Orion.jpg",
+      "width": 1800,
+      "height": 1200,
+      "title": "US Navy 040218-N-8228R-006 An Italian Air Force F-16 fighter intercepts a U.S. Navy P-3C Orion.jpg",
+      "description": "Mediterranean Sea (Feb. 18, 2004) \u2013 An Italian Air Force F-16 fighter intercepts a U.S. Navy P-3C Orion assigned to the \u201cTridents\u201d of Patrol Squadron Two Six (VP-26), during Exercise Air Brake 04, a m",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/U_S_Navy_F-A-18_conducts_operations_in_U_S_CENTCOM_%288953428%29.jpg/1280px-U_S_Navy_F-A-18_conducts_operations_in_U_S_CENTCOM_%288953428%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/U_S_Navy_F-A-18_conducts_operations_in_U_S_CENTCOM_%288953428%29.jpg",
+      "width": 5450,
+      "height": 3223,
+      "title": "U S Navy F-A-18 conducts operations in U S CENTCOM (8953428).jpg",
+      "description": "A U.S. Navy F/A-18 Super Hornet is refueled over the U.S. Central Command area of responsibility, March 16, 2025. The Super Hornet is deployed to the U.S. 5th Fleet area of operations to support marit",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/U_S_Navy_F-A-18_conducts_operations_in_U_S_CENTCOM_%288953429%29.jpg/1280px-U_S_Navy_F-A-18_conducts_operations_in_U_S_CENTCOM_%288953429%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/bf/U_S_Navy_F-A-18_conducts_operations_in_U_S_CENTCOM_%288953429%29.jpg",
+      "width": 5516,
+      "height": 3272,
+      "title": "U S Navy F-A-18 conducts operations in U S CENTCOM (8953429).jpg",
+      "description": "A U.S. Navy F/A-18 Super Hornet is refueled over the U.S. Central Command area of responsibility, March 16, 2025. The Super Hornet is deployed to the U.S. 5th Fleet area of operations to support marit",
+      "license": "Public domain",
+      "source": "wikimedia"
+    }
+  ]
+}

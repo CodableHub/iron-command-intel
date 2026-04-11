@@ -1,0 +1,209 @@
+{
+  "combat_history": [
+    {
+      "date": "2020-08",
+      "operation": "Op Calpe",
+      "event": "HMS Trent intercepted Spanish Guardia Civil vessels in disputed Gibraltar waters, demonstrating UK sovereignty claims",
+      "significance": "Showed the utility of OPVs in sovereignty disputes where larger warships might escalate tensions"
+    },
+    {
+      "date": "2021-07",
+      "operation": "Counter-narcotics",
+      "event": "HMS Medway seized 3 tonnes of cocaine worth \u00a3300 million in Caribbean operations",
+      "significance": "Demonstrated effectiveness in constabulary operations and counter-narcotics missions"
+    },
+    {
+      "date": "2022-03",
+      "operation": "Ukraine Crisis",
+      "event": "HMS Trent conducted presence patrols in North Sea and English Channel during Russian invasion of Ukraine",
+      "significance": "Showed role in protecting critical national infrastructure and sea lanes during crisis"
+    }
+  ],
+  "modernization": [
+    {
+      "program": "Mission System Upgrades",
+      "status": "in-progress",
+      "timeline": "2023-2026",
+      "description": "Integration of improved EO/IR sensors, encrypted communications, and enhanced boarding equipment",
+      "impact": "Improved intelligence gathering and interdiction capabilities"
+    },
+    {
+      "program": "Defensive Systems Study",
+      "status": "planned",
+      "timeline": "2025-2030",
+      "description": "Evaluation of adding soft-kill defensive systems and improved radar for operations in contested waters",
+      "impact": "Would enable limited operations in higher threat environments"
+    }
+  ],
+  "vulnerabilities": [
+    {
+      "area": "Air Defense",
+      "description": "Completely vulnerable to air attack with no surface-to-air missiles or CIWS systems",
+      "context": "Cannot operate in contested airspace or areas with hostile air presence",
+      "mitigation": "Reliance on air cover from other platforms or operating in permissive environments only"
+    },
+    {
+      "area": "Electronic Warfare",
+      "description": "Limited electronic warfare capabilities and countermeasures against modern threats",
+      "context": "Vulnerable to jamming and electronic attack in near-peer conflict scenarios",
+      "mitigation": "Planned upgrades to communications and some EW systems"
+    },
+    {
+      "area": "Anti-Surface Warfare",
+      "description": "30mm gun insufficient against modern fast attack craft or armed patrol boats",
+      "context": "Limited ability to engage surface threats beyond small boats and civilian vessels",
+      "mitigation": "Designed to operate with frigate or destroyer support in higher threat areas"
+    }
+  ],
+  "operational_patterns": {
+    "typical_deployment": "Forward presence operations, fisheries protection, counter-narcotics, sovereignty patrols",
+    "deployment_length_months": 12,
+    "key_operating_areas": [
+      "South Atlantic (Falklands)",
+      "Mediterranean",
+      "Caribbean",
+      "Indo-Pacific"
+    ],
+    "typical_task_group": "Independent operations or with allied patrol vessels",
+    "readiness_notes": "High availability due to commercial-standard systems and reduced maintenance requirements"
+  },
+  "peer_comparisons": [
+    {
+      "platform": "Holland-class OPV",
+      "country": "Netherlands",
+      "relationship": "allied equivalent",
+      "key_differences": "Holland-class is smaller (3750 tonnes) but better armed with 76mm gun and potential for missiles. River-class prioritizes endurance and cost efficiency.",
+      "video_angle": "NATO OPV comparison - different approaches to offshore patrol mission requirements"
+    },
+    {
+      "platform": "Type 056 Corvette",
+      "country": "China",
+      "relationship": "near-peer rival",
+      "key_differences": "Type 056 is smaller but heavily armed with missiles and ASW capability. River-class is constabulary-focused while Type 056 is a light warship.",
+      "video_angle": "Patrol vessel vs corvette philosophy - constabulary operations vs light combat capability"
+    },
+    {
+      "platform": "Comandanti-class patrol vessel",
+      "country": "Italy",
+      "relationship": "allied equivalent",
+      "key_differences": "Comandanti-class has better sensors and 76mm gun but shorter range. Both designed for Mediterranean/regional operations.",
+      "video_angle": "European patrol vessel comparison - UK vs Italian approach to maritime security"
+    },
+    {
+      "platform": "Legend-class National Security Cutter",
+      "country": "United States",
+      "relationship": "allied equivalent",
+      "key_differences": "Legend-class is larger (4500 tonnes) with 57mm gun and potential missile capability. River-class is more austere but cheaper to operate.",
+      "video_angle": "Coast Guard vs Navy patrol vessels - different service approaches to similar missions"
+    }
+  ],
+  "search_keywords": [
+    "river class",
+    "river-class",
+    "P233",
+    "P234",
+    "P235",
+    "P237",
+    "P239",
+    "HMS Forth",
+    "HMS Medway",
+    "HMS Trent",
+    "HMS Tamar",
+    "HMS Spey",
+    "OPV",
+    "offshore patrol vessel",
+    "batch 2"
+  ],
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/AMERICA%27S_CUP_ROYAL_NAVY_DISPLAY_MOD_45161316.jpg/1280px-AMERICA%27S_CUP_ROYAL_NAVY_DISPLAY_MOD_45161316.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/bf/AMERICA%27S_CUP_ROYAL_NAVY_DISPLAY_MOD_45161316.jpg",
+      "width": 2499,
+      "height": 1958,
+      "title": "AMERICA'S CUP ROYAL NAVY DISPLAY MOD 45161316.jpg",
+      "description": "Pictured is HMS Blazer passing by Sir Ben Ainslie's America\u2019s Cup Boat Land Rover BAR.\n<p>Type 23 Frigate HMS Kent can be seen in the background.\n</p><p>Offshore Patrol Vessels conduct fishery protect",
+      "license": "OGL v1.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/45153648_river_class.jpg/1280px-45153648_river_class.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/bb/45153648_river_class.jpg",
+      "width": 2203,
+      "height": 1655,
+      "title": "45153648 river class.jpg",
+      "description": "All three River Class patrol vessels of the Fishery Protection Squadron, HMS Severn, HMS Tyne and HMS Mersey are pictured exercising off the coast of Cornwall. The Fishery Protection Squadron (FPS) en",
+      "license": "OGL v1.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/ASEAN_Bridge_on_25_May_2024_02.jpg/1280px-ASEAN_Bridge_on_25_May_2024_02.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/ASEAN_Bridge_on_25_May_2024_02.jpg",
+      "width": 3129,
+      "height": 2086,
+      "title": "ASEAN Bridge on 25 May 2024 02.jpg",
+      "description": "ASEAN Bridge on 25 May 2024.",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/HMS_Severn_%28P282%29_River-class_Offshore_patrol_vessel%2C_1%2C700_tonnes%2C_Royal_Navy._%2814756210989%29.jpg/1280px-HMS_Severn_%28P282%29_River-class_Offshore_patrol_vessel%2C_1%2C700_tonnes%2C_Royal_Navy._%2814756210989%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/f4/HMS_Severn_%28P282%29_River-class_Offshore_patrol_vessel%2C_1%2C700_tonnes%2C_Royal_Navy._%2814756210989%29.jpg",
+      "width": 3583,
+      "height": 2245,
+      "title": "HMS Severn (P282) River-class Offshore patrol vessel, 1,700 tonnes, Royal Navy. (14756210989).jpg",
+      "description": "Falmouth - Cornwall UK, August 14 2014.",
+      "license": "CC BY-SA 2.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/HMS_Severn_%28P282%29_River-class_Offshore_patrol_vessel%2C_1%2C700_tonnes%2C_Royal_Navy._%2814756219300%29.jpg/1280px-HMS_Severn_%28P282%29_River-class_Offshore_patrol_vessel%2C_1%2C700_tonnes%2C_Royal_Navy._%2814756219300%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/96/HMS_Severn_%28P282%29_River-class_Offshore_patrol_vessel%2C_1%2C700_tonnes%2C_Royal_Navy._%2814756219300%29.jpg",
+      "width": 3390,
+      "height": 1998,
+      "title": "HMS Severn (P282) River-class Offshore patrol vessel, 1,700 tonnes, Royal Navy. (14756219300).jpg",
+      "description": "Falmouth - Cornwall UK, August 14 2014.",
+      "license": "CC BY-SA 2.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/HMS_Trent_Ukraine_Operation_Orbital.jpg/1280px-HMS_Trent_Ukraine_Operation_Orbital.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/69/HMS_Trent_Ukraine_Operation_Orbital.jpg",
+      "width": 5860,
+      "height": 3907,
+      "title": "HMS Trent Ukraine Operation Orbital.jpg",
+      "description": "Pictured is HMS TRENT being escorted into Odesa harbour by Ukrainian tugboats.The ship is visiting Odesa to deliver a package of maritime training to members of the Ukrainian Navy. This is part of Ope",
+      "license": "OGL v1.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Korvette_Severn_P282_7946.jpg/1280px-Korvette_Severn_P282_7946.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Korvette_Severn_P282_7946.jpg",
+      "width": 2048,
+      "height": 1365,
+      "title": "Korvette Severn P282 7946.jpg",
+      "description": "HMS Severn (P282), a River class offshore patrol vessel of the British Royal Navy, on the river Elbe in Hamburg, Germany.",
+      "license": "CC BY 2.5",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/River_Class_Offshore_Patrol_Vessel_HMS_Mersey_MOD_45151905.jpg/1280px-River_Class_Offshore_Patrol_Vessel_HMS_Mersey_MOD_45151905.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/fb/River_Class_Offshore_Patrol_Vessel_HMS_Mersey_MOD_45151905.jpg",
+      "width": 3000,
+      "height": 2400,
+      "title": "River Class Offshore Patrol Vessel HMS Mersey MOD 45151905.jpg",
+      "description": "Pictured is HMS Mersey, a River Class Offshore Patrol Vessel (OPV) used mainly for Fishery Protection duties.\n<ul><li>Organization: ROYAL NAVY</li>\n<li>Object Name: 041133988</li>\n<li>Category: RNA</l",
+      "license": "OGL v1.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/River_Class_Offshore_Patrol_Vessel_HMS_Severn_MOD_45151904.jpg/1280px-River_Class_Offshore_Patrol_Vessel_HMS_Severn_MOD_45151904.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/90/River_Class_Offshore_Patrol_Vessel_HMS_Severn_MOD_45151904.jpg",
+      "width": 2400,
+      "height": 3000,
+      "title": "River Class Offshore Patrol Vessel HMS Severn MOD 45151904.jpg",
+      "description": "Pictured is HMS Severn, a River Class Offshore Patrol Vessel (OPV) used mainly for Fishery Protection duties.\n<ul><li>Organization: ROYAL NAVY</li>\n<li>Object Name: 04113991</li>\n<li>Category: RNA</li",
+      "license": "OGL v1.0",
+      "source": "wikimedia"
+    }
+  ]
+}

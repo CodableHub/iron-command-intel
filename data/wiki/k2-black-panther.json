@@ -1,0 +1,412 @@
+{
+  "id": 87,
+  "slug": "k2-black-panther",
+  "name": "K2 Black Panther Main Battle Tank",
+  "designation": "K2",
+  "type": "tank",
+  "country": "South Korea",
+  "operator": "Republic of Korea Army",
+  "overview_md": "The K2 Black Panther represents South Korea's ambitious leap into indigenous advanced armor technology, designed specifically to counter North Korean armor threats while establishing ROK as a credible defense exporter. Built by Hyundai Rotem with extensive technology transfer from German systems, the K2 incorporates cutting-edge active protection, sophisticated fire control, and a revolutionary in-arm suspension system that enables firing while moving at speeds that would disable most contemporary MBTs.\n\nStrategically, the K2 serves as the backbone of South Korea's armored deterrent against North Korea's estimated 3,500+ tanks, many concentrated near the DMZ. Its design philosophy emphasizes rapid engagement, shoot-and-scoot tactics, and technological superiority over numerical parity. The tank's ability to engage targets accurately while moving at 50+ km/h addresses the reality of fighting on the Korean Peninsula, where static positions invite devastating artillery strikes.\n\nIn the current threat environment, the K2 stands out for its sophisticated countermeasures suite and battlefield management systems that integrate seamlessly with ROK's C4ISR architecture. Unlike many Western MBTs designed for sustained campaigns, the K2 prioritizes rapid, decisive engagement - reflecting South Korea's strategic doctrine of blunting an initial assault while maintaining mobility.\n\nCompared to its peers, the K2 trades raw armor protection for mobility and technological sophistication. While it may not match the Leopard 2A8's passive protection or the M1A2's combat-proven reliability, it exceeds both in advanced fire control integration and active protection systems. The tank represents a successful example of a mid-tier power developing indigenous capabilities that rival or exceed those of traditional defense exporters.",
+  "specs_json": {
+    "displacement_tonnes": 55,
+    "length_m": 10.8,
+    "beam_m": 3.6,
+    "draft_m": null,
+    "speed_knots": null,
+    "range_nm": null,
+    "crew": 3,
+    "propulsion": "MTU MT883 Ka-501 diesel engine, 1500hp with German transmission",
+    "radar": "Millimeter wave radar for active protection",
+    "sonar": null,
+    "combat_system": "Integrated Fire Control System with thermal imaging and laser rangefinder",
+    "vls_cells": null,
+    "additional": {
+      "max_speed_kmh": 70,
+      "range_km": 450,
+      "suspension": "In-arm suspension unit (ISU) hydropneumatic",
+      "main_gun": "Rheinmetall 120mm L/55 smoothbore",
+      "armor": "Modular composite with ERA capability",
+      "active_protection": "Korean Active Protection System (KAPS)",
+      "engine_power_hp": 1500,
+      "ground_pressure_kg_cm2": 0.84
+    }
+  },
+  "armament_json": [
+    {
+      "category": "Main Gun",
+      "name": "Rheinmetall 120mm L/55",
+      "type": "smoothbore tank gun",
+      "quantity": "1x 120mm",
+      "range_km": 4,
+      "notes": "German-made gun with indigenous APFSDS rounds"
+    },
+    {
+      "category": "Secondary Gun",
+      "name": "K6 Heavy Machine Gun",
+      "type": "coaxial machine gun",
+      "quantity": "1x 12.7mm",
+      "range_km": 2,
+      "notes": "Coaxial mount"
+    },
+    {
+      "category": "Secondary Gun",
+      "name": "K6 Heavy Machine Gun",
+      "type": "commander's weapon station",
+      "quantity": "1x 12.7mm",
+      "range_km": 2,
+      "notes": "Remote weapon station"
+    },
+    {
+      "category": "Missiles",
+      "name": "KSTAM",
+      "type": "gun-launched anti-tank missile",
+      "quantity": "Compatible",
+      "range_km": 8,
+      "notes": "Smart top-attack munition fired from main gun"
+    },
+    {
+      "category": "Countermeasures",
+      "name": "Korean Active Protection System",
+      "type": "hard-kill APS",
+      "quantity": "Integrated",
+      "range_km": 0.05,
+      "notes": "Intercepts incoming projectiles"
+    }
+  ],
+  "variants_json": [
+    {
+      "name": "K2 PIP (Product Improvement Program)",
+      "designation_range": "K2A1 designation planned",
+      "years": "2018-present",
+      "count": 54,
+      "key_changes": "Indigenous Korean transmission replacing German system, improved FCS software, enhanced KAPS integration, upgraded battlefield management system",
+      "status": "active"
+    },
+    {
+      "name": "K2 Export Variant",
+      "designation_range": "Altay (Turkey), K2PL (Poland)",
+      "years": "2016-present",
+      "count": 180,
+      "key_changes": "Modified armor package, different engine options, customized electronics suite for customer requirements",
+      "status": "building"
+    }
+  ],
+  "fleet_status_json": [
+    {
+      "hull_number": "K2-001",
+      "name": "First Production Batch",
+      "variant": "K2 Initial",
+      "commissioned": "2014",
+      "home_port": "1st Armored Brigade, ROK Army",
+      "status": "active"
+    },
+    {
+      "hull_number": "K2-100",
+      "name": "PIP Batch",
+      "variant": "K2 PIP",
+      "commissioned": "2018",
+      "home_port": "Various ROK Army units",
+      "status": "active"
+    }
+  ],
+  "cost_usd": 8500000.0,
+  "unit_count": 300,
+  "first_commissioned": "2014",
+  "builder": "Hyundai Rotem",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/41/U.S.%2C_ROK_forces_forge_interoperability_with_combined_arms_exercise_-_8_of_8.jpg",
+  "wiki_url": "https://en.wikipedia.org/wiki/K2_Black_Panther",
+  "sources_json": [
+    "https://en.wikipedia.org/wiki/K2_Black_Panther",
+    "https://www.army-technology.com/projects/k2-black-panther-tank/",
+    "https://www.janes.com/",
+    "https://www.defensenews.com/",
+    "https://www.hyundai-rotem.co.kr/"
+  ],
+  "comparison_tags": [
+    "mbt",
+    "main-battle-tank",
+    "korean-defense",
+    "active-protection",
+    "indigenous-development",
+    "export-success"
+  ],
+  "created_at": "2026-04-11 10:11:15",
+  "updated_at": "2026-04-11T10:11:15.539155",
+  "news": [],
+  "events": [],
+  "ic_coverage": [],
+  "combat_history": [
+    {
+      "date": "2014-2016",
+      "operation": "Initial Operational Test & Evaluation",
+      "event": "Extensive live-fire testing including KSTAM missile trials, mobility testing in Korean terrain conditions, integration with ROK C4ISR systems",
+      "significance": "Validated fire-on-the-move capabilities and KSTAM effectiveness, proving technological superiority over legacy systems"
+    },
+    {
+      "date": "2019",
+      "operation": "DMZ Readiness Exercises",
+      "event": "K2 units participated in large-scale exercises simulating counter-invasion scenarios, demonstrated rapid deployment and shoot-and-scoot tactics",
+      "significance": "Proved operational readiness and tactical doctrine integration in realistic threat scenarios"
+    }
+  ],
+  "modernization": [
+    {
+      "program": "K2A1 Upgrade Program",
+      "status": "in-progress",
+      "timeline": "2020-2025",
+      "description": "Full indigenization of transmission system, advanced KAPS-II active protection, improved battlefield management system, enhanced EW resistance",
+      "impact": "Eliminates German technology dependence, significantly improves survivability against modern threats"
+    },
+    {
+      "program": "K2 Future Upgrade",
+      "status": "planned",
+      "timeline": "2025-2030",
+      "description": "Integration of AI-assisted targeting, drone coordination capabilities, improved armor package, hybrid-electric drive system",
+      "impact": "Maintains technological edge against emerging regional threats, enables network-centric warfare capabilities"
+    }
+  ],
+  "vulnerabilities": [
+    {
+      "area": "Logistics Complexity",
+      "description": "Sophisticated systems require extensive maintenance infrastructure and highly trained technicians, creating potential operational bottlenecks",
+      "context": "Complex hydropneumatic suspension and advanced electronics demand more maintenance than simpler systems during sustained operations",
+      "mitigation": "ROK Army investing in expanded technical training programs and forward maintenance capabilities"
+    },
+    {
+      "area": "Technology Dependence",
+      "description": "Despite indigenization efforts, still relies on German engine and some fire control components, creating potential supply chain vulnerabilities",
+      "context": "Export restrictions or sanctions could impact spare parts availability during extended conflict",
+      "mitigation": "Ongoing technology transfer programs and indigenous alternative development"
+    },
+    {
+      "area": "Urban Combat Limitations",
+      "description": "Large size and sophisticated systems may be vulnerable in dense urban environments where simpler, more robust platforms excel",
+      "context": "Korean Peninsula conflict scenarios may involve significant urban fighting where technological advantages are reduced",
+      "mitigation": "Training emphasis on combined arms operations and infantry support"
+    }
+  ],
+  "operational_patterns": {
+    "typical_deployment": "Forward-deployed with armored brigades near DMZ, rapid response formations in strategic reserve",
+    "deployment_length_months": null,
+    "key_operating_areas": [
+      "DMZ vicinity",
+      "Gyeonggi Province",
+      "Training areas in central Korea"
+    ],
+    "typical_task_group": "Operates in company and battalion formations with mechanized infantry, artillery support, and air defense assets",
+    "readiness_notes": "High maintenance requirements for suspension and electronics systems, requires specialized technical support"
+  },
+  "peer_comparisons": [
+    {
+      "platform": "Leopard 2A8",
+      "country": "Germany",
+      "relationship": "technological peer",
+      "key_differences": "Leopard 2A8 emphasizes proven reliability and modular armor upgrades, while K2 focuses on mobility and integrated electronics. K2 has superior fire-on-the-move capability but Leopard has greater combat experience base.",
+      "video_angle": "German engineering vs Korean innovation - comparing traditional vs high-tech approaches to MBT design"
+    },
+    {
+      "platform": "Type 99A2",
+      "country": "China",
+      "relationship": "regional rival",
+      "key_differences": "Type 99A2 prioritizes heavy armor and powerful gun over mobility. K2's active protection and fire control systems likely superior, but 99A2 has proven industrial base and lower unit costs for mass production.",
+      "video_angle": "Quality vs Quantity - examining how different military philosophies shape tank design in Northeast Asia"
+    },
+    {
+      "platform": "Type 90",
+      "country": "Japan",
+      "relationship": "allied equivalent",
+      "key_differences": "Type 90 designed for island defense with lighter weight for bridge crossing, while K2 optimized for peninsula warfare. Both emphasize technological sophistication over raw armor protection.",
+      "video_angle": "Allied but different - how geography shapes tank requirements for island vs peninsula nations"
+    },
+    {
+      "platform": "M1A2 SEPv4",
+      "country": "United States",
+      "relationship": "allied peer/competitor",
+      "key_differences": "M1A2 proven in combat with superior armor protection and logistics base, but K2 has more advanced fire control and active protection systems. M1A2 optimized for expeditionary warfare, K2 for homeland defense.",
+      "video_angle": "Experience vs Innovation - traditional superpower design vs emerging defense industry capabilities"
+    },
+    {
+      "platform": "T-14 Armata",
+      "country": "Russia",
+      "relationship": "technological competitor",
+      "key_differences": "Both represent advanced indigenous development programs, but T-14 emphasizes revolutionary crew protection with unmanned turret while K2 focuses on proven concepts with advanced execution. K2 actually in service while T-14 remains limited production.",
+      "video_angle": "Revolutionary vs Evolutionary - comparing different paths to next-generation MBT development"
+    }
+  ],
+  "search_keywords": [
+    "k2 black panther",
+    "k2 tank",
+    "black panther tank",
+    "hyundai rotem",
+    "rok army",
+    "korean tank",
+    "k2 mbt",
+    "kstam missile",
+    "korean active protection",
+    "altay tank"
+  ],
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Gyeryong_Ground_Forces_Festival_2025_-_22_of_24.jpg/1280px-Gyeryong_Ground_Forces_Festival_2025_-_22_of_24.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Gyeryong_Ground_Forces_Festival_2025_-_22_of_24.jpg",
+      "width": 6720,
+      "height": 4480,
+      "title": "Gyeryong Ground Forces Festival 2025 - 22 of 24.jpg",
+      "description": "Plumes of smoke surround a K2 Black Panther main battle tank during a combat demonstration, part of the Gyeryong Ground Forces Festival (GGFF) Gyeryong, South Korea, Sep 18, 2025. Hosted by ROKA, the ",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/K2_Tank_Joins_the_Fight_with_eFP_Battle_Group_Poland_-_2.jpg/1280px-K2_Tank_Joins_the_Fight_with_eFP_Battle_Group_Poland_-_2.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/37/K2_Tank_Joins_the_Fight_with_eFP_Battle_Group_Poland_-_2.jpg",
+      "width": 6720,
+      "height": 4480,
+      "title": "K2 Tank Joins the Fight with eFP Battle Group Poland - 2.jpg",
+      "description": "A Polish K2 Tank is on static display for a live fire demonstration in Bemowo Piskie, Poland on March 31, 2023. The 4th Infantry Division\u2019s mission in Europe is to engage in multinational training and",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/2e/K2_black_panther.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/2e/K2_black_panther.jpg",
+      "width": 750,
+      "height": 562,
+      "title": "K2 black panther.jpg",
+      "description": "promotional picture of the K2 Black Panther tank",
+      "license": "CC BY-SA 2.0 kr",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/K2_black_panther3.jpg/1280px-K2_black_panther3.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/8d/K2_black_panther3.jpg",
+      "width": 2000,
+      "height": 1295,
+      "title": "K2 black panther3.jpg",
+      "description": "K2 Black Panther on display at Seoul International Aerospace &amp; Defense Exhibition 2013",
+      "license": "CC BY-SA 3.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Polish_Army_K2_at_Radom-2023.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Polish_Army_K2_at_Radom-2023.jpg",
+      "width": 1024,
+      "height": 768,
+      "title": "Polish Army K2 at Radom-2023.jpg",
+      "description": "Polish Army K2 <i>Black Panther</i> MBT, registration UA 0534T, on static display at Radom Air Show 2023",
+      "license": "CC BY-SA 3.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Polish_Army_K2_left_side_Radom-2023.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Polish_Army_K2_left_side_Radom-2023.jpg",
+      "width": 1024,
+      "height": 768,
+      "title": "Polish Army K2 left side Radom-2023.jpg",
+      "description": "Polish Army K2 <i>Black Panther</i> MBT on static display at Radom Air Show 2023",
+      "license": "CC BY-SA 3.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Polish_Army_K2_right_turret_Radom-2023.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Polish_Army_K2_right_turret_Radom-2023.jpg",
+      "width": 1024,
+      "height": 768,
+      "title": "Polish Army K2 right turret Radom-2023.jpg",
+      "description": "Polish Army K2 <i>Black Panther</i> MBT on static display at Radom Air Show 2023",
+      "license": "CC BY-SA 3.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/60/Polish_army_K2_Black_Panther.webp",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/60/Polish_army_K2_Black_Panther.webp",
+      "width": 1000,
+      "height": 667,
+      "title": "Polish army K2 Black Panther.webp",
+      "description": "A Polish K2 tank maneuvers on the firing range for a live fire demonstration in Bemowo Piskie, Poland on March 31, 2023. The 4th Infantry Division\u2019s mission in Europe is to engage in multinational tra",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/86/Daewoo_K2_DM-SD-06-11423.JPEG",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/86/Daewoo_K2_DM-SD-06-11423.JPEG",
+      "width": 1000,
+      "height": 1500,
+      "title": "Daewoo K2 DM-SD-06-11423.JPEG",
+      "description": "",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/60/Daewoo_K2_DM-SD-06-11424.JPEG",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/60/Daewoo_K2_DM-SD-06-11424.JPEG",
+      "width": 708,
+      "height": 295,
+      "title": "Daewoo K2 DM-SD-06-11424.JPEG",
+      "description": "",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Daewoo_K2_K3_DM-SD-06-11424.JPEG/1280px-Daewoo_K2_K3_DM-SD-06-11424.JPEG",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Daewoo_K2_K3_DM-SD-06-11424.JPEG",
+      "width": 1500,
+      "height": 1000,
+      "title": "Daewoo K2 K3 DM-SD-06-11424.JPEG",
+      "description": "",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Korea_DN-SD-03-16696.jpg/1280px-Korea_DN-SD-03-16696.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Korea_DN-SD-03-16696.jpg",
+      "width": 2000,
+      "height": 1312,
+      "title": "Korea DN-SD-03-16696.jpg",
+      "description": "A Republic of Korea (ROK) Soldier armed with a 5.56mm K2 assault RIFLE wears Multiple Integrated Laser Engagement System (MILES) gear during the combined Exercises Reception, Staging, Onward Movement,",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/9e/The_Royal_Navy_during_the_Second_World_War-_the_Campaign_in_Normandy%2C_August_1944_A25094.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/9e/The_Royal_Navy_during_the_Second_World_War-_the_Campaign_in_Normandy%2C_August_1944_A25094.jpg",
+      "width": 800,
+      "height": 599,
+      "title": "The Royal Navy during the Second World War- the Campaign in Normandy, August 1944 A25094.jpg",
+      "description": "<i>The Royal Navy during the Second World War- the Campaign in Normandy, August 1944</i><br>\nAt Courseulles, France wounded men are being transferred from ambulances to Hospital Tank Landing Ship LST ",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b1/The_Royal_Navy_during_the_Second_World_War_A25098.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/b1/The_Royal_Navy_during_the_Second_World_War_A25098.jpg",
+      "width": 800,
+      "height": 607,
+      "title": "The Royal Navy during the Second World War A25098.jpg",
+      "description": "<i>The Royal Navy during the Second World War</i><br>\nThe Campaign in Normandy, August 1944: Wounded men being transferred from parked ambulances to the hospital tank landing ship LST 428 at low tide ",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b9/The_Royal_Navy_during_the_Second_World_War_A25099.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/b9/The_Royal_Navy_during_the_Second_World_War_A25099.jpg",
+      "width": 800,
+      "height": 606,
+      "title": "The Royal Navy during the Second World War A25099.jpg",
+      "description": "<i>The Royal Navy during the Second World War</i><br>\nThe Campaign in Normandy, August 1944: Wounded men being transferred from parked ambulances to Hospital Tank Landing Ship LST 428 at low tide thro",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/US_Navy_090317-N-9573A-004_Marines_and_the_Republic_of_Korea_%28ROK%29_Marine_Infantry_Company_are_collaborating_in_a_combined_combat_marksmanship_shoot.jpg/1280px-US_Navy_090317-N-9573A-004_Marines_and_the_Republic_of_Korea_%28ROK%29_Marine_Infantry_Company_are_collaborating_in_a_combined_combat_marksmanship_shoot.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/5c/US_Navy_090317-N-9573A-004_Marines_and_the_Republic_of_Korea_%28ROK%29_Marine_Infantry_Company_are_collaborating_in_a_combined_combat_marksmanship_shoot.jpg",
+      "width": 2100,
+      "height": 1500,
+      "title": "US Navy 090317-N-9573A-004 Marines and the Republic of Korea (ROK) Marine Infantry Company are collaborating in a combined combat marksmanship shoot.jpg",
+      "description": "RODRIGUEZ RANGE, Republic of Korea (March 17, 2009) Marines from the 31st Marine Expeditionary Unit (31st MEU) and the Republic of Korea (ROK) Marine Infantry Company are collaborating in a combined c",
+      "license": "Public domain",
+      "source": "wikimedia"
+    }
+  ],
+  "doctrine": null,
+  "curated_sources": []
+}

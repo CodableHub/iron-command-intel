@@ -1,0 +1,259 @@
+{
+  "combat_history": [
+    {
+      "date": "2024",
+      "operation": "Sea trials",
+      "event": "Isaac Peral completed initial operational testing including weapons systems trials and AIP endurance tests in the western Mediterranean.",
+      "significance": "First validation of the troubled program's core systems after years of delays, proving the redesigned submarine could operate safely."
+    }
+  ],
+  "modernization": [
+    {
+      "program": "Lithium-ion battery upgrade",
+      "status": "planned",
+      "timeline": "2026-2030",
+      "description": "Replacement of lead-acid batteries with lithium-ion technology to improve underwater performance and reduce maintenance requirements.",
+      "impact": "Enhanced submerged speed and endurance, reduced acoustic signature during battery operations"
+    },
+    {
+      "program": "Combat system updates",
+      "status": "in-progress",
+      "timeline": "2024-2027",
+      "description": "Software upgrades to integrate latest Tomahawk variants and improve sensor fusion capabilities.",
+      "impact": "Enhanced land-attack and intelligence gathering capabilities"
+    }
+  ],
+  "vulnerabilities": [
+    {
+      "area": "Industrial base maturity",
+      "description": "Spain lacks deep experience in modern submarine design, leading to fundamental engineering errors like the original buoyancy miscalculations.",
+      "context": "Creates reliability concerns and suggests potential for undiscovered flaws in complex systems",
+      "mitigation": "Increased foreign technical assistance and extended testing programs"
+    },
+    {
+      "area": "Program sustainability",
+      "description": "Massive cost overruns (original budget \u20ac2.1B, current cost over \u20ac4B) threaten long-term support and follow-on programs.",
+      "context": "Spanish defense budget constraints may limit operational tempo and maintenance quality",
+      "mitigation": "No clear mitigation - Spain committed to completing all four boats despite costs"
+    },
+    {
+      "area": "AIP system reliability",
+      "description": "Bioethanol fuel cell technology is relatively unproven compared to German or Swedish AIP systems, with unknown long-term reliability.",
+      "context": "AIP failures would severely compromise the submarine's primary operational advantage",
+      "mitigation": "Extensive shore-based testing and conservative operational procedures planned"
+    }
+  ],
+  "operational_patterns": {
+    "typical_deployment": "Mediterranean patrol and surveillance missions, NATO integrated operations",
+    "deployment_length_months": 2,
+    "key_operating_areas": [
+      "Western Mediterranean",
+      "Gibraltar Strait",
+      "Balearic Sea"
+    ],
+    "typical_task_group": "Independent operations or with Spanish Navy surface groups",
+    "readiness_notes": "Limited operational experience with first boat still in extended trials phase; maintenance procedures still being established"
+  },
+  "peer_comparisons": [
+    {
+      "platform": "Type 212A submarine",
+      "country": "Germany",
+      "relationship": "direct rival",
+      "key_differences": "German design is proven and reliable with hydrogen fuel cells, but Isaac Peral class is larger with land-attack missile capability. Spanish boats have more ambitious sensor suite but unproven reliability.",
+      "video_angle": "European submarine design philosophies: proven German engineering vs. Spanish ambition"
+    },
+    {
+      "platform": "Gotland-class submarine",
+      "country": "Sweden",
+      "relationship": "direct rival",
+      "key_differences": "Gotland class has proven Stirling AIP and exceptional stealth characteristics, but Isaac Peral has superior weapons capacity and land-attack capability. Swedish boats are smaller but operationally mature.",
+      "video_angle": "AIP technology comparison: Stirling vs. fuel cell systems in modern submarine warfare"
+    },
+    {
+      "platform": "Scorp\u00e8ne-class submarine",
+      "country": "France",
+      "relationship": "direct rival",
+      "key_differences": "Scorp\u00e8ne is proven export success with simpler, reliable design philosophy. Isaac Peral more complex with AIP and vertical launch capability but much higher risk and cost.",
+      "video_angle": "Defense procurement strategies: proven designs vs. indigenous development"
+    },
+    {
+      "platform": "A26 Blekinge-class",
+      "country": "Sweden",
+      "relationship": "direct rival",
+      "key_differences": "Both represent next-generation European AIP submarines with land-attack capability, but Swedish design benefits from proven Stirling technology base while Spanish boats use experimental fuel cells.",
+      "video_angle": "Next-generation European submarines: competing visions for littoral warfare"
+    }
+  ],
+  "search_keywords": [
+    "isaac peral",
+    "S-81",
+    "S-80 class",
+    "spanish submarine",
+    "navantia",
+    "AIP submarine",
+    "fuel cell submarine",
+    "spanish navy submarine"
+  ],
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Destroyer_USS_Winston_S._Churchill_%28DDG_81%29.jpg/1280px-Destroyer_USS_Winston_S._Churchill_%28DDG_81%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Destroyer_USS_Winston_S._Churchill_%28DDG_81%29.jpg",
+      "width": 4928,
+      "height": 3280,
+      "title": "Destroyer USS Winston S. Churchill (DDG 81).jpg",
+      "description": "NORFOLK (Mar. 19, 2021)\u2013 The guided-missile destroyer USS Winston S. Churchill (DDG 81) returns to Naval Station Norfolk, March 19, after nearly nine months deployed in the U.S. 5th and 6th Fleet area",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Flickr_-_Official_U.S._Navy_Imagery_-_A_VBSS_team_departs_USS_Winston_S._Churchill..jpg/1280px-Flickr_-_Official_U.S._Navy_Imagery_-_A_VBSS_team_departs_USS_Winston_S._Churchill..jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Flickr_-_Official_U.S._Navy_Imagery_-_A_VBSS_team_departs_USS_Winston_S._Churchill..jpg",
+      "width": 4093,
+      "height": 2718,
+      "title": "Flickr - Official U.S. Navy Imagery - A VBSS team departs USS Winston S. Churchill..jpg",
+      "description": "<p>GULF OF ADEN (Sept. 23, 2012) Members of the visit, board, search, and seizure team from the guided-missile destroyer USS Winston S. Churchill (DDG 81) depart for a maritime flag verification of a ",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/USS-WINSTON-CHURCHILL-DDG-81.png",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/USS-WINSTON-CHURCHILL-DDG-81.png",
+      "width": 1152,
+      "height": 864,
+      "title": "USS-WINSTON-CHURCHILL-DDG-81.png",
+      "description": "Broadside view of DDG-81 USS Winston Churchill",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/USS_Winston_S._Churchill_%28DDG-81%29_turn.jpg/1280px-USS_Winston_S._Churchill_%28DDG-81%29_turn.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/USS_Winston_S._Churchill_%28DDG-81%29_turn.jpg",
+      "width": 2100,
+      "height": 1395,
+      "title": "USS Winston S. Churchill (DDG-81) turn.jpg",
+      "description": "080123-N-0535P-633 PERSIAN GULF - The Arleigh Burke-class guided-missile destroyer USS Winston S. Churchill (DDG 81) performs an emergency breakaway maneuver during a replenishment at sea with the Nim",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/USS_Winston_S._Churchill_%28DDG_81%29.jpg/1280px-USS_Winston_S._Churchill_%28DDG_81%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/9e/USS_Winston_S._Churchill_%28DDG_81%29.jpg",
+      "width": 4928,
+      "height": 3280,
+      "title": "USS Winston S. Churchill (DDG 81).jpg",
+      "description": "NORFOLK (Mar. 19, 2021)\u2013 The guided-missile destroyer USS Winston S. Churchill (DDG 81) returns to Naval Station Norfolk, March 19, after nearly nine months deployed in the U.S. 5th and 6th Fleet area",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/USS_Winston_S._Churchill_%28DDG_81%29_English_Channel.jpg/1280px-USS_Winston_S._Churchill_%28DDG_81%29_English_Channel.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/7b/USS_Winston_S._Churchill_%28DDG_81%29_English_Channel.jpg",
+      "width": 1312,
+      "height": 2000,
+      "title": "USS Winston S. Churchill (DDG 81) English Channel.jpg",
+      "description": "010913-N-6967M-504 At sea with USS Winston S. Churchill (DDG 81) Sep. 13, 2001 -- USS Winston S. Churchill makes a high-speed run in the English Channel. The destroyer, based in Norfolk, Va., is makin",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/US_Navy_060121-N-5358A-006_The_U.S._Navy%27s_Arleigh_Burke-class_guided_missile_destroyer_USS_Winston_S._Churchill_%28DDG_81%29_follows_a_suspected_pirate_vessel_in_the_Indian_Ocean_Jan._21.jpg/1280px-thumbnail.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/9b/US_Navy_060121-N-5358A-006_The_U.S._Navy%27s_Arleigh_Burke-class_guided_missile_destroyer_USS_Winston_S._Churchill_%28DDG_81%29_follows_a_suspected_pirate_vessel_in_the_Indian_Ocean_Jan._21.jpg",
+      "width": 2100,
+      "height": 1500,
+      "title": "US Navy 060121-N-5358A-006 The U.S. Navy's Arleigh Burke-class guided missile destroyer USS Winston S. Churchill (DDG 81) follows a suspected pirate vessel in the Indian Ocean Jan. 21.jpg",
+      "description": "INDIAN OCEAN (Jan. 21, 2006) - The U.S. Navy\u2019s Arleigh Burke-class guided missile destroyer USS Winston S. Churchill (DDG 81) follows a suspected pirate vessel in the Indian Ocean Jan. 21. After recei",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/US_Navy_100521-N-6764G-128_The_Arleigh_Burke-class_guided-missile_destroyer_USS_Winston_S._Churchill_%28DDG_81%29_departs_Naval_Station_Norfolk.jpg/1280px-US_Navy_100521-N-6764G-128_The_Arleigh_Burke-class_guided-missile_destroyer_USS_Winston_S._Churchill_%28DDG_81%29_departs_Naval_Station_Norfolk.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/0b/US_Navy_100521-N-6764G-128_The_Arleigh_Burke-class_guided-missile_destroyer_USS_Winston_S._Churchill_%28DDG_81%29_departs_Naval_Station_Norfolk.jpg",
+      "width": 2100,
+      "height": 1500,
+      "title": "US Navy 100521-N-6764G-128 The Arleigh Burke-class guided-missile destroyer USS Winston S. Churchill (DDG 81) departs Naval Station Norfolk.jpg",
+      "description": "NORFOLK (May 21, 2010) The Arleigh Burke-class guided-missile destroyer USS Winston S. Churchill (DDG 81) departs Naval Station Norfolk. Churchill is deploying as part of the Harry S. Truman Carrier S",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/4b/20231229_-_Isaac_Peral_en_el_puerto_de_Cartagena_%28cropped%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/4b/20231229_-_Isaac_Peral_en_el_puerto_de_Cartagena_%28cropped%29.jpg",
+      "width": 939,
+      "height": 480,
+      "title": "20231229 - Isaac Peral en el puerto de Cartagena (cropped).jpg",
+      "description": "Submarino S-81 Isaac Peral en el puerto de Cartagena.",
+      "license": "CC BY 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/bb/El_submarino_militar_%27Isaac_Peral%27_en_la_bah%C3%ADa_de_la_Concha_%281_de_3%29_-_Fondo_Car-Kutxa_Fototeka.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/bb/El_submarino_militar_%27Isaac_Peral%27_en_la_bah%C3%ADa_de_la_Concha_%281_de_3%29_-_Fondo_Car-Kutxa_Fototeka.jpg",
+      "width": 1024,
+      "height": 623,
+      "title": "El submarino militar 'Isaac Peral' en la bah\u00eda de la Concha (1 de 3) - Fondo Car-Kutxa Fototeka.jpg",
+      "description": "* <b>T\u00edtulo original</b>: El submarino militar 'Isaac Peral' en la bah\u00eda de la Concha (1/3)\n<ul><li><b>Localizaci\u00f3n</b>: <a href=\"https://es.wikipedia.org/wiki/San_Sebasti%C3%A1n\" class=\"extiw\" title=",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/16/El_submarino_militar_%27Isaac_Peral%27_en_la_bah%C3%ADa_de_la_Concha_%282_de_3%29_-_Fondo_Car-Kutxa_Fototeka.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/16/El_submarino_militar_%27Isaac_Peral%27_en_la_bah%C3%ADa_de_la_Concha_%282_de_3%29_-_Fondo_Car-Kutxa_Fototeka.jpg",
+      "width": 1024,
+      "height": 643,
+      "title": "El submarino militar 'Isaac Peral' en la bah\u00eda de la Concha (2 de 3) - Fondo Car-Kutxa Fototeka.jpg",
+      "description": "* <b>T\u00edtulo original</b>: El submarino militar 'Isaac Peral' en la bah\u00eda de la Concha (2/3)\n<ul><li><b>Localizaci\u00f3n</b>: <a href=\"https://es.wikipedia.org/wiki/San_Sebasti%C3%A1n\" class=\"extiw\" title=",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/af/El_submarino_militar_%27Isaac_Peral%27_en_la_bah%C3%ADa_de_la_Concha_%283_de_3%29_-_Fondo_Car-Kutxa_Fototeka.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/af/El_submarino_militar_%27Isaac_Peral%27_en_la_bah%C3%ADa_de_la_Concha_%283_de_3%29_-_Fondo_Car-Kutxa_Fototeka.jpg",
+      "width": 1024,
+      "height": 641,
+      "title": "El submarino militar 'Isaac Peral' en la bah\u00eda de la Concha (3 de 3) - Fondo Car-Kutxa Fototeka.jpg",
+      "description": "* <b>T\u00edtulo original</b>: El submarino militar 'Isaac Peral' en la bah\u00eda de la Concha (3/3)\n<ul><li><b>Localizaci\u00f3n</b>: <a href=\"https://es.wikipedia.org/wiki/San_Sebasti%C3%A1n\" class=\"extiw\" title=",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/7b/ISAAC_PERAL%2C_Spain_LOC_14523567758.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/7b/ISAAC_PERAL%2C_Spain_LOC_14523567758.jpg",
+      "width": 1024,
+      "height": 745,
+      "title": "ISAAC PERAL, Spain LOC 14523567758.jpg",
+      "description": "<p>Bain News Service,, publisher.\n</p><p>ISAAC PERAL, Spain\n</p><p>[between ca. 1915 and ca. 1920]\n</p><p>1 negative\u00a0: glass\u00a0; 5 x 7 in. or smaller.\n</p><p><b>Notes:</b>\n<b> Title from unverified data",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Isaac_Peral_y_Caballero_%28MUNCYT%2C_Eulogia_Merle%29.jpg/1280px-Isaac_Peral_y_Caballero_%28MUNCYT%2C_Eulogia_Merle%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/60/Isaac_Peral_y_Caballero_%28MUNCYT%2C_Eulogia_Merle%29.jpg",
+      "width": 3311,
+      "height": 4724,
+      "title": "Isaac Peral y Caballero (MUNCYT, Eulogia Merle).jpg",
+      "description": "Retrato de Isaac Peral y Caballero. Fundaci\u00f3n Espa\u00f1ola para la Ciencia y la Tecnolog\u00eda, Eulogia Merle.",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/PXL_20231229_-_Isaac_Peral_en_el_puerto_de_Cartagena.jpg/1280px-PXL_20231229_-_Isaac_Peral_en_el_puerto_de_Cartagena.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/b8/PXL_20231229_-_Isaac_Peral_en_el_puerto_de_Cartagena.jpg",
+      "width": 1367,
+      "height": 1367,
+      "title": "PXL 20231229 - Isaac Peral en el puerto de Cartagena.jpg",
+      "description": "Submarino S-81 Isaac Peral en el puerto de Cartagena.",
+      "license": "CC BY 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Whale_Watching%2C_Cartagena_Spain_-_Flickr_-_A_Guy_Named_Nyal.jpg/1280px-Whale_Watching%2C_Cartagena_Spain_-_Flickr_-_A_Guy_Named_Nyal.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/39/Whale_Watching%2C_Cartagena_Spain_-_Flickr_-_A_Guy_Named_Nyal.jpg",
+      "width": 4928,
+      "height": 2804,
+      "title": "Whale Watching, Cartagena Spain - Flickr - A Guy Named Nyal.jpg",
+      "description": "<p><b><i>Niccy and I just got back from a transatlantic cruise so I've finally got some shots to post!</i></b>\n</p><p>Acoording to mi amigo [/photos/toddkeith533/ toddkeith533] this is an S-80 Plus or",
+      "license": "CC BY-SA 2.0",
+      "source": "wikimedia"
+    }
+  ]
+}

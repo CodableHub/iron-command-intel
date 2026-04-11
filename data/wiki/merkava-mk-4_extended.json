@@ -1,0 +1,243 @@
+{
+  "combat_history": [
+    {
+      "date": "2006-07",
+      "operation": "Second Lebanon War",
+      "event": "First combat deployment of Mk 4 prototypes. Multiple tanks hit by Hezbollah Kornet ATGMs, crew survivability superior to earlier Merkava variants.",
+      "significance": "Validated survivability design philosophy and identified need for active protection systems"
+    },
+    {
+      "date": "2008-2009",
+      "operation": "Operation Cast Lead",
+      "event": "First major operational use in Gaza urban environment. Demonstrated urban warfare capabilities and crew compartment versatility for infantry support.",
+      "significance": "Proved urban warfare design concepts and rear compartment utility"
+    },
+    {
+      "date": "2011-05",
+      "operation": "Gaza border incidents",
+      "event": "Trophy APS first combat intercept of RPG-29 round, protecting Mk 4M crew from direct hit.",
+      "significance": "World's first operational hard-kill APS combat success, validating active protection concept"
+    },
+    {
+      "date": "2014-07",
+      "operation": "Operation Protective Edge",
+      "event": "Extensive urban combat in Gaza. Trophy system achieved over 90% intercept rate against ATGMs and RPGs. Multiple crew saves documented.",
+      "significance": "Demonstrated maturity of Trophy system and overall platform survivability in intensive urban combat"
+    },
+    {
+      "date": "2021-05",
+      "operation": "Operation Guardian of the Walls",
+      "event": "Mk 4 Barak variant with Iron Vision system used in Gaza operations. Enhanced situational awareness in urban environment.",
+      "significance": "First operational use of latest variant with advanced crew interfaces"
+    }
+  ],
+  "modernization": [
+    {
+      "program": "Iron Vision Integration",
+      "status": "completed",
+      "timeline": "2017-2020",
+      "description": "Elbit Iron Vision 360-degree camera system with helmet-mounted displays, allowing crew to see through armor",
+      "impact": "Dramatically improved situational awareness while maintaining protection"
+    },
+    {
+      "program": "Trophy Gen 2",
+      "status": "in-progress",
+      "timeline": "2020-2025",
+      "description": "Upgraded Trophy system with improved radar, faster response time, and lighter interceptors",
+      "impact": "Enhanced protection against advanced threats and reduced system weight"
+    },
+    {
+      "program": "Digital Army Program",
+      "status": "in-progress",
+      "timeline": "2022-2028",
+      "description": "Integration with IDF's digital battlefield network, AI-assisted threat detection, autonomous features",
+      "impact": "Network-centric warfare capabilities and reduced crew workload"
+    },
+    {
+      "program": "Mk 5 Development",
+      "status": "planned",
+      "timeline": "2025-2030",
+      "description": "Next-generation Merkava with electric drive, AI systems, and modular mission packages",
+      "impact": "Maintains technological edge against emerging threats"
+    }
+  ],
+  "vulnerabilities": [
+    {
+      "area": "Mobility limitations",
+      "description": "Lower power-to-weight ratio compared to contemporary MBTs, limiting tactical mobility in rapid maneuver scenarios",
+      "context": "Critical in potential multi-front conflict where rapid repositioning between sectors required",
+      "mitigation": "IDF doctrine emphasizes defensive positions and urban warfare where mobility less critical"
+    },
+    {
+      "area": "Trophy system gaps",
+      "description": "Limited effectiveness against kinetic penetrators, top-attack munitions, and coordinated simultaneous attacks",
+      "context": "Advanced adversaries developing specific countermeasures to Trophy system",
+      "mitigation": "Trophy Gen 2 development and integration with other defensive systems"
+    },
+    {
+      "area": "Logistics footprint",
+      "description": "Complex systems require specialized maintenance and high-tech spare parts, vulnerable to supply disruption",
+      "context": "Extended conflict could strain maintenance capabilities for electronic systems",
+      "mitigation": "Domestic production of critical components and modular design for field replacement"
+    },
+    {
+      "area": "Urban warfare signature",
+      "description": "Trophy launches and muzzle blast create significant visual/audible signatures in urban environment",
+      "context": "Reveals position to enemy observers and can cause civilian casualties from interceptor debris",
+      "mitigation": "Tactical employment procedures and soft-kill countermeasures development"
+    }
+  ],
+  "operational_patterns": {
+    "typical_deployment": "Integrated into IDF armored brigades for border security and rapid response to multiple threat sectors",
+    "deployment_length_months": 12,
+    "key_operating_areas": [
+      "Gaza Strip",
+      "West Bank",
+      "Lebanese border",
+      "Golan Heights"
+    ],
+    "typical_task_group": "Company-level formations with infantry, engineering, and air support integration",
+    "readiness_notes": "High maintenance requirements for Trophy and electronic systems, limited by specialized technician availability"
+  },
+  "peer_comparisons": [
+    {
+      "platform": "M1A2 SEPv3 Abrams",
+      "country": "United States",
+      "relationship": "allied equivalent",
+      "key_differences": "Abrams prioritizes mobility and firepower, Merkava emphasizes crew survival. Abrams has superior armor protection and mobility, Merkava has better urban warfare features and active protection.",
+      "video_angle": "Survivability philosophy comparison - American vs Israeli design approaches to crew protection"
+    },
+    {
+      "platform": "Leopard 2A7",
+      "country": "Germany",
+      "relationship": "western equivalent",
+      "key_differences": "Leopard 2A7 has superior mobility and modular armor, but lacks operational active protection system. Merkava has proven urban warfare experience and Trophy APS advantage.",
+      "video_angle": "European precision engineering vs Israeli battle-tested innovation comparison"
+    },
+    {
+      "platform": "T-90M Proryv",
+      "country": "Russia",
+      "relationship": "regional rival",
+      "key_differences": "T-90M lighter and more mobile but inferior crew protection. Shtora system less capable than Trophy. Merkava has superior fire control and battle management systems.",
+      "video_angle": "Active protection systems comparison - Trophy vs Shtora effectiveness analysis"
+    },
+    {
+      "platform": "K2 Black Panther",
+      "country": "South Korea",
+      "relationship": "technological peer",
+      "key_differences": "K2 has superior mobility and advanced suspension system, but unproven active protection. Both emphasize advanced electronics and crew interfaces over raw armor.",
+      "video_angle": "Next-generation MBT technology comparison - digital battlefield integration"
+    },
+    {
+      "platform": "Challenger 2 TES",
+      "country": "United Kingdom",
+      "relationship": "allied equivalent",
+      "key_differences": "Challenger 2 TES has superior armor protection but inferior active protection and mobility. Both designed for survivability but different approaches - passive vs active protection.",
+      "video_angle": "Urban warfare adaptation comparison - British vs Israeli solutions to asymmetric threats"
+    }
+  ],
+  "search_keywords": [
+    "merkava",
+    "merkava mk 4",
+    "merkava mark 4",
+    "merkava barak",
+    "trophy aps",
+    "israeli tank",
+    "idf armor",
+    "active protection",
+    "iron vision",
+    "merkava mk4"
+  ],
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/%D7%94%D7%9E%D7%A6%D7%A2%D7%93_%D7%94%D7%A6%D7%91%D7%90%D7%99_%D7%91%D7%92%D7%91%D7%A2%D7%AA_%D7%A8%D7%9D_%D7%91%D7%A0%D7%99%D7%94%D7%95%D7%9C%D7%95_%D7%A9%D7%9C_%D7%99%D7%94%D7%95%D7%93%D7%94_%D7%90%D7%99%D7%9C%D7%9F_1978.jpg/1280px-%D7%94%D7%9E%D7%A6%D7%A2%D7%93_%D7%94%D7%A6%D7%91%D7%90%D7%99_%D7%91%D7%92%D7%91%D7%A2%D7%AA_%D7%A8%D7%9D_%D7%91%D7%A0%D7%99%D7%94%D7%95%D7%9C%D7%95_%D7%A9%D7%9C_%D7%99%D7%94%D7%95%D7%93%D7%94_%D7%90%D7%99%D7%9C%D7%9F_1978.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/28/%D7%94%D7%9E%D7%A6%D7%A2%D7%93_%D7%94%D7%A6%D7%91%D7%90%D7%99_%D7%91%D7%92%D7%91%D7%A2%D7%AA_%D7%A8%D7%9D_%D7%91%D7%A0%D7%99%D7%94%D7%95%D7%9C%D7%95_%D7%A9%D7%9C_%D7%99%D7%94%D7%95%D7%93%D7%94_%D7%90%D7%99%D7%9C%D7%9F_1978.jpg",
+      "width": 5472,
+      "height": 3648,
+      "title": "\u05d4\u05de\u05e6\u05e2\u05d3 \u05d4\u05e6\u05d1\u05d0\u05d9 \u05d1\u05d2\u05d1\u05e2\u05ea \u05e8\u05dd \u05d1\u05e0\u05d9\u05d4\u05d5\u05dc\u05d5 \u05e9\u05dc \u05d9\u05d4\u05d5\u05d3\u05d4 \u05d0\u05d9\u05dc\u05df 1978.jpg",
+      "description": "\u05d4\u05de\u05e6\u05e2\u05d3 \u05d4\u05e6\u05d1\u05d0\u05d9 \u05d1\u05d2\u05d1\u05e2\u05ea \u05e8\u05dd 1978 - \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, \u05dc\u05d7\u05d2\u05d9\u05d2\u05d5\u05ea 30 \u05e9\u05e0\u05d4 \u05dc\u05e2\u05e6\u05de\u05d0\u05d5\u05ea \n  \u05d9\u05e9\u05e8\u05d0\u05dc. \u05d1\u05de\u05e2\u05de\u05d3 \u05db\u05dc \u05e8\u05d0\u05e9\u05d9 \u05d9\u05e9\u05e8\u05d0\u05dc \u05d5\u05d1\u05e0\u05d9\u05d4\u05d5\u05dc\u05d5 \u05e9\u05dc \u05de\u05e8 \u05d9\u05d4\u05d5\u05d3\u05d4 \u05d0\u05d9\u05dc\u05df, \u05de\u05e0\u05d4\u05dc \u05d4\u05d4\u05e1\u05d1\u05e8\u05d4 \u05d5\u05d4\u05d8\u05e7\u05e1\u05d9\u05dd \u05d4\u05de\u05de\u05dc\u05db\u05ea\u05d9\u05d9\u05dd \u05d1\u05d9\u05e9\u05e8\u05d0\u05dc",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Merkava-4-tank-6611a-white1.jpg/1280px-Merkava-4-tank-6611a-white1.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/69/Merkava-4-tank-6611a-white1.jpg",
+      "width": 5804,
+      "height": 3689,
+      "title": "Merkava-4-tank-6611a-white1.jpg",
+      "description": "IDF Merkava Mk 4 main battle tank\n\u05de\u05e8\u05db\u05d1\u05d4 \u05e1\u05d9\u05de\u05df 4",
+      "license": "CC BY 2.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Merkava-4-tank-67.jpg/1280px-Merkava-4-tank-67.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/55/Merkava-4-tank-67.jpg",
+      "width": 5804,
+      "height": 3689,
+      "title": "Merkava-4-tank-67.jpg",
+      "description": "IDF <a href=\"//commons.wikimedia.org/w/index.php?title=Merkava_4&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Merkava 4 (page does not exist)\">Merkava 4</a> main battle tank",
+      "license": "CC BY 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Merkava-Mk-4-Barak-0001.jpg/1280px-Merkava-Mk-4-Barak-0001.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Merkava-Mk-4-Barak-0001.jpg",
+      "width": 1600,
+      "height": 1068,
+      "title": "Merkava-Mk-4-Barak-0001.jpg",
+      "description": "IDF Merkava Mk 4 Barak",
+      "license": "CC BY-SA 3.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Merkava-Tanks-Wikipedia-02.jpg/1280px-Merkava-Tanks-Wikipedia-02.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/04/Merkava-Tanks-Wikipedia-02.jpg",
+      "width": 2169,
+      "height": 1491,
+      "title": "Merkava-Tanks-Wikipedia-02.jpg",
+      "description": "The <a href=\"//commons.wikimedia.org/wiki/Israel\" class=\"mw-redirect\" title=\"Israel\">Israeli</a> <a href=\"//commons.wikimedia.org/wiki/Merkava\" class=\"mw-redirect\" title=\"Merkava\">Merkava</a> main bat",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Merkava4_MichaelMass01.jpg/1280px-Merkava4_MichaelMass01.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Merkava4_MichaelMass01.jpg",
+      "width": 3872,
+      "height": 2592,
+      "title": "Merkava4 MichaelMass01.jpg",
+      "description": "<p>IDF Merkava Mark IV tank\n</p>\n\u05d8\u05e0\u05e7 \u05de\u05e8\u05db\u05d1\u05d4 \u05e1\u05d9\u05de\u05df 4",
+      "license": "CC BY-SA 3.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Merkava_Mk_4M_-_Israeli_Tanks_2019-04-21_IZE-14.jpg/1280px-Merkava_Mk_4M_-_Israeli_Tanks_2019-04-21_IZE-14.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Merkava_Mk_4M_-_Israeli_Tanks_2019-04-21_IZE-14.jpg",
+      "width": 5473,
+      "height": 4026,
+      "title": "Merkava Mk 4M - Israeli Tanks 2019-04-21 IZE-14.jpg",
+      "description": "Merkava Mk 4M Windbreaker main battle tank, Israel",
+      "license": "CC BY 2.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Merkeva_Mk_4M_-_Israeli_Tanks_2019-04-21_IZE-42.jpg/1280px-Merkeva_Mk_4M_-_Israeli_Tanks_2019-04-21_IZE-42.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Merkeva_Mk_4M_-_Israeli_Tanks_2019-04-21_IZE-42.jpg",
+      "width": 5926,
+      "height": 3960,
+      "title": "Merkeva Mk 4M - Israeli Tanks 2019-04-21 IZE-42.jpg",
+      "description": "Merkava Mk 4M Windbreaker main battle tank, Israel",
+      "license": "CC BY 2.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/82/NGP_6692.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/82/NGP_6692.jpg",
+      "width": 1027,
+      "height": 682,
+      "title": "NGP 6692.jpg",
+      "description": "An Israeli Defense Forces Merkava Mark 4 tank fire its 120mm canon",
+      "license": "CC BY-SA 3.0",
+      "source": "wikimedia"
+    }
+  ]
+}

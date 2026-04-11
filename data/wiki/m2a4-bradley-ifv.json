@@ -1,0 +1,360 @@
+{
+  "id": 95,
+  "slug": "m2a4-bradley-ifv",
+  "name": "M2A4 Bradley Infantry Fighting Vehicle",
+  "designation": "M2A4",
+  "type": "apc",
+  "country": "United States",
+  "operator": "U.S. Army",
+  "overview_md": "The M2A4 Bradley represents the latest evolution of America's primary infantry fighting vehicle, incorporating four decades of combat lessons into a modernized platform designed for multi-domain operations. As the fourth major upgrade of the Bradley family, the A4 variant addresses critical survivability and lethality gaps identified during operations in Iraq and Afghanistan, while preparing for potential peer conflicts against advanced adversaries like Russia and China.\n\nStrategically, the M2A4 fills the crucial gap between heavy main battle tanks and light armored vehicles, providing mechanized infantry units with protected mobility, direct fire support, and anti-armor capability. Its 25mm M242 Bushmaster cannon and TOW missile system give it significant punch against both infantry and armored targets, while its ability to transport a full infantry squad makes it integral to combined arms operations.\n\nThe A4 upgrade focuses heavily on survivability improvements, including enhanced armor packages, improved blast-resistant seating, and upgraded fire suppression systems \u2014 direct responses to IED and RPG threats encountered in urban warfare. The integration of modern digital systems and improved situational awareness tools reflects lessons learned about the importance of information dominance in modern warfare.\n\nIn the current threat environment, the Bradley's role has evolved from Cold War mechanized warfare against Soviet armor to include urban combat, counterinsurgency, and preparation for multi-domain operations against near-peer adversaries. Compared to competitors like Russia's BMP-3 or Germany's Puma, the Bradley prioritizes crew survivability and proven reliability over raw speed or firepower, reflecting American military doctrine that emphasizes force protection and sustained operations.",
+  "specs_json": {
+    "displacement_tonnes": 33.6,
+    "length_m": 6.55,
+    "beam_m": 3.6,
+    "draft_m": null,
+    "speed_knots": null,
+    "range_nm": null,
+    "crew": 3,
+    "propulsion": "Cummins VTA-903T diesel engine, 600 hp",
+    "radar": "Fire control radar for TOW missiles",
+    "sonar": null,
+    "combat_system": "Integrated Fire Control System (IFCS)",
+    "vls_cells": null,
+    "additional": {
+      "max_speed_kmh": 66,
+      "range_km": 483,
+      "passengers": 6,
+      "armor": "Spaced laminate armor with reactive armor tiles",
+      "ground_clearance_m": 0.43,
+      "fording_depth_m": 1.22,
+      "climb_grade_percent": 60
+    }
+  },
+  "armament_json": [
+    {
+      "category": "Main Gun",
+      "name": "M242 Bushmaster",
+      "type": "25mm chain gun",
+      "quantity": "1x 25mm",
+      "range_km": 3,
+      "notes": "Dual-feed capability for AP and HE rounds"
+    },
+    {
+      "category": "Anti-Tank Missiles",
+      "name": "BGM-71 TOW",
+      "type": "wire-guided ATGM",
+      "quantity": "2 ready + 5 stowed",
+      "range_km": 4.2,
+      "notes": "TOW-2A/2B variants, top-attack capability"
+    },
+    {
+      "category": "Machine Gun",
+      "name": "M240C",
+      "type": "7.62mm coaxial MG",
+      "quantity": "1x 7.62mm",
+      "range_km": 1.8,
+      "notes": "Coaxially mounted with main gun"
+    }
+  ],
+  "variants_json": [
+    {
+      "name": "M2 Bradley",
+      "designation_range": "Original production",
+      "years": "1981-1986",
+      "count": 2000,
+      "key_changes": "Initial production model with basic armor and systems",
+      "status": "retired"
+    },
+    {
+      "name": "M2A1 Bradley",
+      "designation_range": "First upgrade",
+      "years": "1986-1988",
+      "count": 1371,
+      "key_changes": "Improved TOW missile system, enhanced fire control",
+      "status": "retired"
+    },
+    {
+      "name": "M2A2 Bradley",
+      "designation_range": "Operation Desert Storm era",
+      "years": "1988-1994",
+      "count": 1602,
+      "key_changes": "Improved armor, better NBC protection, eye-safe laser rangefinder",
+      "status": "mostly retired"
+    },
+    {
+      "name": "M2A3 Bradley",
+      "designation_range": "Current main variant",
+      "years": "2000-2019",
+      "count": 1602,
+      "key_changes": "Digital systems integration, thermal sights, improved situational awareness",
+      "status": "active"
+    },
+    {
+      "name": "M2A4 Bradley",
+      "designation_range": "Latest upgrade",
+      "years": "2019-present",
+      "count": 164,
+      "key_changes": "Enhanced survivability, improved armor, better blast protection, upgraded electronics",
+      "status": "building"
+    }
+  ],
+  "fleet_status_json": [
+    {
+      "hull_number": "M2A4-001",
+      "name": "First Production M2A4",
+      "variant": "M2A4",
+      "commissioned": "2019-10",
+      "home_port": "Fort Benning, GA",
+      "status": "active"
+    }
+  ],
+  "cost_usd": 4200000.0,
+  "unit_count": 164,
+  "first_commissioned": "2019",
+  "builder": "BAE Systems Land & Armaments",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/91/US_M2A1_Bradley_deployed_to_Saudi_Arabia_during_Operation_Desert_Shield.jpg",
+  "wiki_url": "https://en.wikipedia.org/wiki/M2_Bradley",
+  "sources_json": [
+    "https://en.wikipedia.org/wiki/M2_Bradley",
+    "https://www.army.mil/article/229055/army_takes_delivery_of_first_upgraded_m2a4_bradley_fighting_vehicle",
+    "https://www.baesystems.com/en-us/product/bradley-fighting-vehicle"
+  ],
+  "comparison_tags": [
+    "ifv",
+    "mechanized-infantry",
+    "us-army",
+    "tracked-vehicle",
+    "anti-tank"
+  ],
+  "created_at": "2026-04-11 10:15:31",
+  "updated_at": "2026-04-11T10:15:31.223231",
+  "news": [],
+  "events": [],
+  "ic_coverage": [],
+  "combat_history": [
+    {
+      "date": "1991-01-17",
+      "operation": "Operation Desert Storm",
+      "event": "M2A2 Bradleys first major combat deployment. 20 Bradleys destroyed, primarily by friendly fire incidents. Successfully engaged Iraqi BMPs and infantry positions.",
+      "significance": "Proved effectiveness of 25mm gun and TOW missiles against Soviet-era armor, but highlighted friendly fire vulnerabilities"
+    },
+    {
+      "date": "2003-03-20",
+      "operation": "Operation Iraqi Freedom",
+      "event": "M2A3 Bradleys spearheaded advance to Baghdad. Notable engagement at Battle of 73 Easting where Bradleys destroyed multiple Iraqi vehicles.",
+      "significance": "Demonstrated urban warfare capabilities and need for improved IED protection"
+    },
+    {
+      "date": "2007-02-05",
+      "operation": "Operation Iraqi Freedom",
+      "event": "IED attack in Anbar Province destroyed M2A3, killing 5 soldiers. Led to accelerated development of improved blast protection.",
+      "significance": "Highlighted vulnerability to roadside bombs and shaped armor requirements for A4 variant"
+    },
+    {
+      "date": "2017-11-15",
+      "operation": "Operation Inherent Resolve",
+      "event": "M2A3 Bradleys supported Syrian Democratic Forces in final assault on Raqqa, providing overwatch and direct fire support.",
+      "significance": "Most recent major combat employment, validated modernized fire control systems"
+    }
+  ],
+  "modernization": [
+    {
+      "program": "Bradley A4 Engineering Change Proposal (ECP)",
+      "status": "in-progress",
+      "timeline": "2015-2025",
+      "description": "Major survivability upgrade including improved armor, blast-resistant seating, enhanced fire suppression, and upgraded electrical systems",
+      "impact": "Significantly improves crew survivability against IEDs and RPGs while modernizing C4I systems"
+    },
+    {
+      "program": "Next Generation Bradley Fighting Vehicle (NGBFV)",
+      "status": "cancelled",
+      "timeline": "2010-2014",
+      "description": "Attempt to develop completely new IFV platform to replace Bradley, cancelled due to cost and technical issues",
+      "impact": "Cancellation led to focus on incremental Bradley upgrades rather than replacement"
+    },
+    {
+      "program": "Optionally Manned Fighting Vehicle (OMFV)",
+      "status": "planned",
+      "timeline": "2025-2035",
+      "description": "Next-generation IFV program intended to eventually replace Bradley fleet with modern platform designed for multi-domain operations",
+      "impact": "Will eventually phase out Bradley family, incorporating lessons from 40+ years of operations"
+    }
+  ],
+  "vulnerabilities": [
+    {
+      "area": "Top Attack Weapons",
+      "description": "Limited protection against top-attack missiles, artillery, and drone-dropped munitions. Roof armor significantly thinner than side protection.",
+      "context": "Modern conflicts show increasing use of loitering munitions and top-attack ATGMs by both state and non-state actors",
+      "mitigation": "Active protection systems being evaluated but not yet fielded on production vehicles"
+    },
+    {
+      "area": "Weight Growth",
+      "description": "Successive upgrades have increased weight from 22.6 tons (M2) to 33.6 tons (M2A4), straining automotive components and reducing strategic mobility",
+      "context": "Heavier vehicles require more robust logistics, limit air transportability, and stress bridges/infrastructure",
+      "mitigation": "OMFV program designed from ground up to avoid weight growth issues"
+    },
+    {
+      "area": "Thermal Signature",
+      "description": "Large thermal signature from engine and track heating makes vehicle easily detectable by modern thermal imaging systems",
+      "context": "Peer adversaries increasingly equipped with thermal sights and guided weapons that home on heat signatures",
+      "mitigation": "Some experimental signature reduction measures tested but not widely implemented"
+    }
+  ],
+  "operational_patterns": {
+    "typical_deployment": "Mechanized infantry battalion organic equipment, typically deployed as part of Armored Brigade Combat Teams",
+    "deployment_length_months": 12,
+    "key_operating_areas": [
+      "Eastern Europe",
+      "Middle East",
+      "Korean Peninsula",
+      "Training Ranges CONUS"
+    ],
+    "typical_task_group": "Operates in mechanized infantry companies (14 vehicles) as part of combined arms teams with M1 Abrams tanks",
+    "readiness_notes": "High maintenance requirements due to complex systems; spare parts availability issues for older variants"
+  },
+  "peer_comparisons": [
+    {
+      "platform": "BMP-3",
+      "country": "Russia",
+      "relationship": "direct rival",
+      "key_differences": "BMP-3 has superior firepower with 100mm gun but significantly less armor protection and crew survivability. Bradley prioritizes force protection over raw firepower.",
+      "video_angle": "Cold War rivals modernized - protection vs firepower philosophy comparison"
+    },
+    {
+      "platform": "Puma IFV",
+      "country": "Germany",
+      "relationship": "allied equivalent",
+      "key_differences": "Puma is newer design with modular armor and better mobility, but costs significantly more and has had reliability issues. Bradley offers proven reliability at lower cost.",
+      "video_angle": "NATO IFV showdown - German engineering vs American pragmatism"
+    },
+    {
+      "platform": "CV90",
+      "country": "Sweden",
+      "relationship": "allied equivalent",
+      "key_differences": "CV90 family offers multiple variants and better strategic mobility, but Bradley has superior armor protection and anti-tank capability with TOW missiles.",
+      "video_angle": "Scandinavian versatility vs American heavy metal approach"
+    },
+    {
+      "platform": "Type 89 IFV",
+      "country": "Japan",
+      "relationship": "allied equivalent",
+      "key_differences": "Type 89 designed for Japanese terrain with emphasis on amphibious capability, but Bradley has better armor and more combat experience driving improvements.",
+      "video_angle": "Island warfare vs continental warfare design philosophies"
+    }
+  ],
+  "search_keywords": [
+    "bradley fighting vehicle",
+    "M2A4",
+    "M2 bradley",
+    "bradley ifv",
+    "TOW missile",
+    "bushmaster cannon",
+    "BAE systems",
+    "mechanized infantry",
+    "armored fighting vehicle"
+  ],
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/M2A4_Stuart_tank_is_hoisted_from_USS_Alchiba_%28AK-23%29_into_a_landing_craft_off_the_Guadalcanal%2C_7_August_1942_%2880-G-10973%29.jpg/1280px-M2A4_Stuart_tank_is_hoisted_from_USS_Alchiba_%28AK-23%29_into_a_landing_craft_off_the_Guadalcanal%2C_7_August_1942_%2880-G-10973%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/92/M2A4_Stuart_tank_is_hoisted_from_USS_Alchiba_%28AK-23%29_into_a_landing_craft_off_the_Guadalcanal%2C_7_August_1942_%2880-G-10973%29.jpg",
+      "width": 4060,
+      "height": 5735,
+      "title": "M2A4 Stuart tank is hoisted from USS Alchiba (AK-23) into a landing craft off the Guadalcanal, 7 August 1942 (80-G-10973).jpg",
+      "description": "A U.S. Marine Corps M2A4 <i>Stuart</i> light tank is hoisted from the U.S. Navy cargo ship USS <i>Alchiba</i> (AK-23) into a LCM(2) landing craft, off the Guadalcanal invasion beaches on the first day",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/M2A4_tank_is_hoisted_onto_a_landing_craft_off_Guadalcanal%2C_7_August_1942_%2880-G-16329%29.jpg/1280px-M2A4_tank_is_hoisted_onto_a_landing_craft_off_Guadalcanal%2C_7_August_1942_%2880-G-16329%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/8f/M2A4_tank_is_hoisted_onto_a_landing_craft_off_Guadalcanal%2C_7_August_1942_%2880-G-16329%29.jpg",
+      "width": 1824,
+      "height": 2456,
+      "title": "M2A4 tank is hoisted onto a landing craft off Guadalcanal, 7 August 1942 (80-G-16329).jpg",
+      "description": "A U.S. Marine Corps M2A4 <i>Stuart</i> light tank (named \"Blizzard\") is hoisted from the U.S. Navy cargo ship USS <i>Alchiba</i> (AK-23) into a LCM(2) landing craft, off the Guadalcanal invasion beach",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Certifying_M2A4_Bradley_Crews_in_Estonia_%288904859%29.jpg/1280px-Certifying_M2A4_Bradley_Crews_in_Estonia_%288904859%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Certifying_M2A4_Bradley_Crews_in_Estonia_%288904859%29.jpg",
+      "width": 1920,
+      "height": 1080,
+      "title": "Certifying M2A4 Bradley Crews in Estonia (8904859).jpg",
+      "description": "U.S. Soldiers assigned to 5th Squadron, 7th Cavalry Regiment, 1st Heavy Brigade Combat Team, 3rd Infantry Division, participate in the M2A4 Bradley Fighting Vehicle Gunnery certification range at Camp",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/M2A4_Bradley.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/M2A4_Bradley.jpg",
+      "width": 1200,
+      "height": 792,
+      "title": "M2A4 Bradley.jpg",
+      "description": "A rear view of the M3 Bradley fighting vehicle to be used by the 3rd Squadron, 1st Cav., 5th Infantry Division (Mech.).",
+      "license": "CC0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/M2A4_Bradley_5-7th_CAV.jpg/1280px-M2A4_Bradley_5-7th_CAV.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/M2A4_Bradley_5-7th_CAV.jpg",
+      "width": 6720,
+      "height": 4480,
+      "title": "M2A4 Bradley 5-7th CAV.jpg",
+      "description": "An M2A4 Bradley assigned to 5th Squadron 7th Cavalry Regiment, 1st Heavy Brigade Combat Team, 3rd Infantry Division, awaits orders during NATO\u2019s training exercise \u2018Winter Camp\u2019 near Tapa, Estonia, Feb",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/M2A4_Bradley_Fighting_Vehicle.jpg/1280px-M2A4_Bradley_Fighting_Vehicle.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/f3/M2A4_Bradley_Fighting_Vehicle.jpg",
+      "width": 3748,
+      "height": 2485,
+      "title": "M2A4 Bradley Fighting Vehicle.jpg",
+      "description": "U.S. Army Soldiers assigned to 1st Battalion, 64th Armor Regiment, 1st Armored Brigade Combat Team, 3rd Infantry Division support 2nd Brigade Combat Team, 82nd Airborne Division, using M2A4 Bradley Fi",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/M2A4_Bradley_in_Poland_March_2025.jpg/1280px-M2A4_Bradley_in_Poland_March_2025.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/c0/M2A4_Bradley_in_Poland_March_2025.jpg",
+      "width": 6720,
+      "height": 4480,
+      "title": "M2A4 Bradley in Poland March 2025.jpg",
+      "description": "A U.S. Army Bradley Fighting Vehicle, assigned to 2nd Battalion, 7th Infantry Regiment, 1st Armored Brigade Combat Team, 3rd Infantry Division, is staged during a Situational Training Exercise (STX) i",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/M2A4_Bradley_with_2nd_Battalion%2C_7th_Infantry_Regiment.jpg/1280px-M2A4_Bradley_with_2nd_Battalion%2C_7th_Infantry_Regiment.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/74/M2A4_Bradley_with_2nd_Battalion%2C_7th_Infantry_Regiment.jpg",
+      "width": 6041,
+      "height": 4027,
+      "title": "M2A4 Bradley with 2nd Battalion, 7th Infantry Regiment.jpg",
+      "description": "A M2A4 Bradley Fighting Vehicle, assigned to 2nd Battalion, 7th Infantry Regiment, 1st Armored Brigade Combat Team, 3rd Infantry Division, pulls security during a situational training exercise, Marne ",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/U_S_Army_Bradley_Fighting_Vehicle_Simulated_Firefight_in_Estonia_%28Hedgehog%29_%289040103%29.jpg/1280px-U_S_Army_Bradley_Fighting_Vehicle_Simulated_Firefight_in_Estonia_%28Hedgehog%29_%289040103%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/4b/U_S_Army_Bradley_Fighting_Vehicle_Simulated_Firefight_in_Estonia_%28Hedgehog%29_%289040103%29.jpg",
+      "width": 7424,
+      "height": 4952,
+      "title": "U S Army Bradley Fighting Vehicle Simulated Firefight in Estonia (Hedgehog) (9040103).jpg",
+      "description": "A M2A4 Bradley Fighting Vehicle, operated by U.S. Soldiers assigned to 5th Squadron, 7th Cavalry Regiment, 1st Armored Brigade Combat Team, 3rd Infantry Division, maneuvers to the next location during",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/U_S_Army_Bradley_Fighting_Vehicle_Simulated_Firefight_in_Estonia_%28Hedgehog%29_%289040112%29.jpg/1280px-U_S_Army_Bradley_Fighting_Vehicle_Simulated_Firefight_in_Estonia_%28Hedgehog%29_%289040112%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/U_S_Army_Bradley_Fighting_Vehicle_Simulated_Firefight_in_Estonia_%28Hedgehog%29_%289040112%29.jpg",
+      "width": 5464,
+      "height": 8192,
+      "title": "U S Army Bradley Fighting Vehicle Simulated Firefight in Estonia (Hedgehog) (9040112).jpg",
+      "description": "A M2A4 Bradley Fighting Vehicle, operated by U.S. Soldiers assigned to 5th Squadron, 7th Cavalry Regiment, 1st Armored Brigade Combat Team, 3rd Infantry Division, maneuvers to the next location during",
+      "license": "Public domain",
+      "source": "wikimedia"
+    }
+  ],
+  "doctrine": null,
+  "curated_sources": []
+}

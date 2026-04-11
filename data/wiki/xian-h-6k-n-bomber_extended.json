@@ -1,0 +1,133 @@
+{
+  "combat_history": [
+    {
+      "date": "2016-12",
+      "operation": "South China Sea Patrols",
+      "event": "First confirmed H-6K flights over South China Sea, demonstrating extended range capabilities against regional targets",
+      "significance": "Marked China's willingness to use strategic bombers for territorial assertion and power projection"
+    },
+    {
+      "date": "2018-05",
+      "operation": "Taiwan Strait Operations",
+      "event": "H-6K bombers conducted circumnavigation flights around Taiwan as part of regular training missions",
+      "significance": "Established pattern of using H-6K for political signaling while building operational experience"
+    },
+    {
+      "date": "2020-09",
+      "operation": "ADIZ Incursions",
+      "event": "Increased frequency of H-6K flights into Taiwan's ADIZ, often coordinated with fighter escorts",
+      "significance": "Demonstrated integrated long-range strike package capabilities and tested Taiwanese response times"
+    },
+    {
+      "date": "2022-08",
+      "operation": "Post-Pelosi Visit Exercises",
+      "event": "H-6K bombers participated in large-scale exercises around Taiwan following US Congressional delegation visit",
+      "significance": "Showed integration with broader PLA joint operations and escalatory signaling"
+    }
+  ],
+  "modernization": [
+    {
+      "program": "H-6K Mid-Life Upgrade",
+      "status": "in-progress",
+      "timeline": "2020-2025",
+      "description": "Avionics upgrades, improved electronic warfare systems, integration of newer cruise missile variants",
+      "impact": "Enhanced survivability and precision strike capability against defended targets"
+    },
+    {
+      "program": "H-6N Expansion",
+      "status": "in-progress",
+      "timeline": "2020-2025",
+      "description": "Additional H-6N aircraft with confirmed aerial refueling and heavy missile capability",
+      "impact": "Significantly extended operational range and ability to threaten second island chain targets"
+    },
+    {
+      "program": "Next-Generation Bomber (H-20)",
+      "status": "planned",
+      "timeline": "2025-2030",
+      "description": "Stealth strategic bomber development to eventually supplement/replace H-6 fleet",
+      "impact": "H-6K/N will likely remain in service for secondary roles and mass capacity"
+    }
+  ],
+  "vulnerabilities": [
+    {
+      "area": "Survivability Against Modern SAMs",
+      "description": "Large RCS and subsonic speed make H-6K extremely vulnerable to modern integrated air defense systems like SM-6, PAC-3, and THAAD",
+      "context": "In contested airspace against peer adversaries, survival depends entirely on standoff weapons and escort support",
+      "mitigation": "Reliance on long-range cruise missiles and saturation tactics; development of stealth H-20 successor"
+    },
+    {
+      "area": "Aging Airframe Design",
+      "description": "Fundamentally 1950s aerodynamic design limits speed, altitude, and maneuverability compared to modern platforms",
+      "context": "Cannot match performance characteristics of B-1B, Tu-160, or other modern strategic bombers",
+      "mitigation": "Focus on cost-effectiveness and proven reliability rather than cutting-edge performance"
+    },
+    {
+      "area": "Limited Payload Flexibility",
+      "description": "External carriage of large missiles creates significant drag and radar signature penalties",
+      "context": "Unlike B-52H or Tu-95, cannot carry heavy payloads while maintaining optimal flight characteristics",
+      "mitigation": "Development of smaller, more efficient cruise missiles; H-6N improvements to heavy weapon integration"
+    },
+    {
+      "area": "Electronic Warfare Vulnerability",
+      "description": "Limited organic EW capability compared to dedicated platforms like EA-18G or Russian equivalents",
+      "context": "Requires extensive escort support in electronically contested environments",
+      "mitigation": "Integration with J-16D electronic warfare aircraft and improved onboard EW suites"
+    }
+  ],
+  "operational_patterns": {
+    "typical_deployment": "Long-range strike missions, maritime patrol, strategic deterrence flights, territorial assertion operations",
+    "deployment_length_months": 0,
+    "key_operating_areas": [
+      "South China Sea",
+      "East China Sea",
+      "Taiwan Strait",
+      "Western Pacific"
+    ],
+    "typical_task_group": "Often operates with J-11/J-16 fighter escort, Y-8 AEW support, and aerial refueling aircraft",
+    "readiness_notes": "High operational tempo with regular long-range training flights; maintenance challenges with older airframe design"
+  },
+  "peer_comparisons": [
+    {
+      "platform": "Boeing B-52H Stratofortress",
+      "country": "United States",
+      "relationship": "direct rival",
+      "key_differences": "B-52H has larger payload capacity and longer range, but H-6K has more modern avionics and is younger design. B-52H better suited for penetrating missions with stealth escorts.",
+      "video_angle": "Old vs. New: How China's modern H-6K compares to America's veteran B-52H in the Pacific theater"
+    },
+    {
+      "platform": "Tupolev Tu-95MS Bear",
+      "country": "Russia",
+      "relationship": "allied equivalent",
+      "key_differences": "Tu-95MS has significantly longer range and larger payload, but H-6K offers better fuel efficiency and modern systems integration. Both serve similar regional deterrence roles.",
+      "video_angle": "Allied Bombers: Russia's Tu-95 Bear vs China's H-6K in the new Cold War"
+    },
+    {
+      "platform": "Rockwell B-1B Lancer",
+      "country": "United States",
+      "relationship": "capability competitor",
+      "key_differences": "B-1B offers supersonic speed and much larger payload capacity, but H-6K provides similar standoff cruise missile capability at lower operational cost and complexity.",
+      "video_angle": "Speed vs. Economy: America's supersonic B-1B versus China's subsonic H-6K approach to strategic bombing"
+    },
+    {
+      "platform": "Tupolev Tu-22M3 Backfire",
+      "country": "Russia",
+      "relationship": "similar role competitor",
+      "key_differences": "Tu-22M3 offers supersonic speed and swing-wing design for various mission profiles, while H-6K focuses on subsonic efficiency and proven reliability with modern sensors.",
+      "video_angle": "Maritime Strike: Russia's swing-wing Tu-22M3 versus China's modernized H-6K for naval warfare"
+    }
+  ],
+  "search_keywords": [
+    "h-6k",
+    "h-6n",
+    "xian h-6",
+    "chinese bomber",
+    "plaaf bomber",
+    "h6k",
+    "h6n",
+    "badger bomber",
+    "chinese strategic bomber",
+    "cj-10 missile",
+    "df-21 missile"
+  ],
+  "images": []
+}

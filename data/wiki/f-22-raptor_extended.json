@@ -1,0 +1,297 @@
+{
+  "combat_history": [
+    {
+      "date": "2014-09-23",
+      "operation": "Operation Inherent Resolve",
+      "event": "First combat deployment over Syria, F-22s from 1st Fighter Wing conducted airstrikes against ISIS targets using GPS-guided bombs",
+      "significance": "First operational use demonstrated air-to-ground capability and validated stealth performance in contested airspace"
+    },
+    {
+      "date": "2018-02-07",
+      "operation": "Syria Operations",
+      "event": "F-22s provided air cover during Battle of Khasham, deterring Syrian and Russian aircraft during clash with Wagner mercenaries",
+      "significance": "Demonstrated deterrent effect against near-peer air forces in complex multi-actor environment"
+    },
+    {
+      "date": "2019-06-20",
+      "operation": "Persian Gulf Operations",
+      "event": "F-22s deployed to Al Udeid Air Base following Iranian shootdown of U.S. drone, conducted deterrence patrols",
+      "significance": "Showed rapid deployment capability and role in strategic deterrence against regional powers"
+    }
+  ],
+  "modernization": [
+    {
+      "program": "Raptor Agile Capability Release (ACR)",
+      "status": "in-progress",
+      "timeline": "2020-2030",
+      "description": "Software-driven capability updates including Link 16 datalink improvements, new air-to-air missiles integration, and enhanced electronic warfare suite",
+      "impact": "Extends relevance against advanced threats, improves interoperability with allies"
+    },
+    {
+      "program": "F-22 Service Life Extension Program (SLEP)",
+      "status": "planned",
+      "timeline": "2025-2040",
+      "description": "Structural modifications and component replacements to extend airframe life to 12,000+ hours, cockpit modernization",
+      "impact": "Keeps F-22 viable until Next Generation Air Dominance platform IOC around 2030"
+    },
+    {
+      "program": "Talon HATE Pod Integration",
+      "status": "completed",
+      "timeline": "2016-2018",
+      "description": "External pod enabling real-time datalink with F-35 and other assets, sacrificing some stealth for connectivity",
+      "impact": "Addresses datalink limitations, enables F-22 to function as quarterback for distributed operations"
+    }
+  ],
+  "vulnerabilities": [
+    {
+      "area": "Low Observable Coatings Maintenance",
+      "description": "Radar-absorbent materials require climate-controlled hangars and extensive maintenance after each flight, severely limiting sortie generation rates",
+      "context": "Against peer adversaries requiring sustained operations, maintenance burden could limit operational availability",
+      "mitigation": "USAF developing more durable coatings and streamlined maintenance procedures"
+    },
+    {
+      "area": "Limited Datalink Capability",
+      "description": "Lacks native Link 16 capability due to emissions control requirements, creating information sharing challenges with other platforms",
+      "context": "Modern air combat increasingly relies on distributed sensors and collaborative targeting",
+      "mitigation": "Talon HATE pod provides interim solution, software updates adding limited datalink capability"
+    },
+    {
+      "area": "Small Fleet Size and Production Line Closure",
+      "description": "Only 195 aircraft built with no option for additional production, limiting surge capacity and creating sustainment challenges",
+      "context": "Insufficient numbers for simultaneous major theater wars, high operational tempo stresses limited fleet",
+      "mitigation": "Next Generation Air Dominance program intended as follow-on, but timeline uncertain"
+    },
+    {
+      "area": "Oxygen Generation System Issues",
+      "description": "Chronic problems with OBOGS causing pilot hypoxia symptoms, resulting in flight restrictions and pilot safety concerns",
+      "context": "Pilot safety issues affect training and readiness, similar to F-35 ejection seat problems",
+      "mitigation": "Ongoing modifications to oxygen system, backup oxygen bottles installed"
+    }
+  ],
+  "operational_patterns": {
+    "typical_deployment": "Rotational deployments to forward bases for deterrence, integration with allied exercises, homeland defense alert",
+    "deployment_length_months": 4,
+    "key_operating_areas": [
+      "Western Pacific",
+      "Middle East",
+      "Europe",
+      "Alaska NORAD"
+    ],
+    "typical_task_group": "Often operates independently or in small packages, coordinates with F-35s and legacy fighters",
+    "readiness_notes": "Mission capable rates around 50-70%, well below USAF targets due to maintenance complexity and parts shortages"
+  },
+  "peer_comparisons": [
+    {
+      "platform": "Chengdu J-20 Mighty Dragon",
+      "country": "China",
+      "relationship": "direct rival",
+      "key_differences": "J-20 optimized for long-range interception with larger weapons bay, less maneuverable but potentially better stealth from certain aspects. F-22 superior in dogfighting and supercruise performance.",
+      "video_angle": "Stealth fighter showdown - comparing design philosophies and operational concepts between air superiority and interceptor roles"
+    },
+    {
+      "platform": "Sukhoi Su-57 Felon",
+      "country": "Russia",
+      "relationship": "direct rival",
+      "key_differences": "Su-57 emphasizes maneuverability over stealth, more multirole capable but less stealthy. F-22 has mature systems integration while Su-57 faces development challenges and limited production.",
+      "video_angle": "Fifth-generation reality check - examining which stealth fighter concepts actually work in practice"
+    },
+    {
+      "platform": "Lockheed Martin F-35 Lightning II",
+      "country": "United States",
+      "relationship": "allied successor",
+      "key_differences": "F-35 prioritizes multirole capability and allied integration over pure air superiority. Better sensors and avionics but inferior kinematic performance and stealth optimization.",
+      "video_angle": "High-low mix strategy - how F-22 and F-35 complement each other in U.S. air power doctrine"
+    },
+    {
+      "platform": "Dassault Rafale",
+      "country": "France",
+      "relationship": "allied equivalent",
+      "key_differences": "4.5 generation multirole fighter with excellent sensors and weapons integration but no stealth capability. More affordable and exportable than F-22.",
+      "video_angle": "Stealth vs. versatility - examining whether fifth-generation capabilities justify the cost premium"
+    },
+    {
+      "platform": "Eurofighter Typhoon",
+      "country": "Multi-national",
+      "relationship": "allied equivalent",
+      "key_differences": "Air superiority focused like F-22 but lacks stealth, relies on superior kinematic performance and advanced radar. More affordable but vulnerable to modern SAMs.",
+      "video_angle": "The road not taken - comparing stealth vs. traditional air superiority fighter approaches"
+    }
+  ],
+  "search_keywords": [
+    "f-22",
+    "f22",
+    "raptor",
+    "f-22a",
+    "f22a",
+    "stealth fighter",
+    "fifth generation",
+    "5th generation",
+    "air superiority",
+    "supercruise",
+    "lockheed martin",
+    "usaf",
+    "air force"
+  ],
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/A_325th_Fighter_Wing_F-22A_Raptor_taxis_off_the_runway_at_Eglin_Air_Force_Base%2C_Fla.%2C_Nov._20.jpg/1280px-A_325th_Fighter_Wing_F-22A_Raptor_taxis_off_the_runway_at_Eglin_Air_Force_Base%2C_Fla.%2C_Nov._20.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/c0/A_325th_Fighter_Wing_F-22A_Raptor_taxis_off_the_runway_at_Eglin_Air_Force_Base%2C_Fla.%2C_Nov._20.jpg",
+      "width": 3000,
+      "height": 1628,
+      "title": "A 325th Fighter Wing F-22A Raptor taxis off the runway at Eglin Air Force Base, Fla., Nov. 20.jpg",
+      "description": "A 325th Fighter Wing F-22A Raptor taxis off the runway at Eglin Air Force Base, Fla., Nov. 20. The first six Raptors arrived to their temporary home at Eglin from Tyndall Air Force Base. This move is ",
+      "license": "CC0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/An_F-22_Raptor_assigned_to_the_United_States_Air_Force%27s_3rd_Wing_flies.jpg/1280px-An_F-22_Raptor_assigned_to_the_United_States_Air_Force%27s_3rd_Wing_flies.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/An_F-22_Raptor_assigned_to_the_United_States_Air_Force%27s_3rd_Wing_flies.jpg",
+      "width": 5293,
+      "height": 3522,
+      "title": "An F-22 Raptor assigned to the United States Air Force's 3rd Wing flies.jpg",
+      "description": "A U.S. Air Force F-22 Raptor assigned to 3rd Wing takes off from the flight line at Joint Base Elmendorf-Richardson, Alaska, Jan. 27, 2022. The F-22 is a fifth-generation fighter that is capable of pe",
+      "license": "CC0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/F-22_Raptor_assigned_to_the_43rd_Fighter_Squadron_flies_alongside_a_KC-135_Stratotanker.jpg/1280px-F-22_Raptor_assigned_to_the_43rd_Fighter_Squadron_flies_alongside_a_KC-135_Stratotanker.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/5a/F-22_Raptor_assigned_to_the_43rd_Fighter_Squadron_flies_alongside_a_KC-135_Stratotanker.jpg",
+      "width": 4855,
+      "height": 3230,
+      "title": "F-22 Raptor assigned to the 43rd Fighter Squadron flies alongside a KC-135 Stratotanker.jpg",
+      "description": "An F-22 Raptor assigned to the 43rd Fighter Squadron flies alongside a KC-135 Stratotanker after aerial refueling during the squadron\u2019s pilot training over the Florida Panhandle, March 3, 2023. During",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/F-22_Raptor_edit1.jpg/1280px-F-22_Raptor_edit1.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/e2/F-22_Raptor_edit1.jpg",
+      "width": 3000,
+      "height": 1996,
+      "title": "F-22 Raptor edit1.jpg",
+      "description": "An F-22 Raptor flies over Kadena Air Base, Japan, Jan. 23 on a routine training mission. The F-22 is deployed from the 27th Fighter Squadron at Langley Air Force Base, Va.",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/F-22_Raptor_edit1_%28cropped%29.jpg/1280px-F-22_Raptor_edit1_%28cropped%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/1e/F-22_Raptor_edit1_%28cropped%29.jpg",
+      "width": 1988,
+      "height": 1491,
+      "title": "F-22 Raptor edit1 (cropped).jpg",
+      "description": "An F-22 Raptor flies over Kadena Air Base, Japan, Jan. 23 2009 on a routine training mission. The F-22 is deployed from the 27th Fighter Squadron at Langley Air Force Base, Va.",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Lockheed_Martin_F-22A_Raptor_JSOH.jpg/1280px-Lockheed_Martin_F-22A_Raptor_JSOH.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/46/Lockheed_Martin_F-22A_Raptor_JSOH.jpg",
+      "width": 2736,
+      "height": 1822,
+      "title": "Lockheed Martin F-22A Raptor JSOH.jpg",
+      "description": "A <a href=\"//commons.wikimedia.org/wiki/F-22_Raptor\" class=\"mw-redirect\" title=\"F-22 Raptor\">Lockheed Martin F-22A Raptor</a> fighter streaks by at the 2008 Joint Services Open House (JSOH) airshow at",
+      "license": "CC BY-SA 2.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Raptor_F-22_27th.jpg/1280px-Raptor_F-22_27th.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/03/Raptor_F-22_27th.jpg",
+      "width": 1821,
+      "height": 1307,
+      "title": "Raptor F-22 27th.jpg",
+      "description": "A F-22 from the 27th Fighter Squadron, flown by Lt. Col. James Hecker  near Langley AFB",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Two_F-22A_Raptor_in_column_flight_-_%28Noise_reduced%29.jpg/1280px-Two_F-22A_Raptor_in_column_flight_-_%28Noise_reduced%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/25/Two_F-22A_Raptor_in_column_flight_-_%28Noise_reduced%29.jpg",
+      "width": 3000,
+      "height": 2400,
+      "title": "Two F-22A Raptor in column flight - (Noise reduced).jpg",
+      "description": "Lt. Col. James Hecker (front) and Lt. Col. Evan Dertein line up their F/A-22 Raptor aircraft behind a KC-10 Extender to refuel while en route to Hill Air Force Base, Utah. Colonel Hecker commands the ",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/F-22A_90th_FS_refuled_by_465th_ARS_KC-135R_2010.jpg/1280px-F-22A_90th_FS_refuled_by_465th_ARS_KC-135R_2010.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/ab/F-22A_90th_FS_refuled_by_465th_ARS_KC-135R_2010.jpg",
+      "width": 2065,
+      "height": 1419,
+      "title": "F-22A 90th FS refuled by 465th ARS KC-135R 2010.jpg",
+      "description": "A U.S. Air Force Lockheed Martin F-22A <i>Raptor</i> aircraft, assigned to the 90th Fighter Squadron, 3rd Wing, from Elmendorf Air Force Base, Alaska (USA), receives fuel from a Boeing KC-135R <i>Stra",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/F-22A_Raptor_and_four_U.S._Marine_Corps_FA-18C_Hornets_in_flight_over_the_Southern_California_coast_on_6_February_2019_%28190206-M-BG453-1225%29.JPG/1280px-F-22A_Raptor_and_four_U.S._Marine_Corps_FA-18C_Hornets_in_flight_over_the_Southern_California_coast_on_6_February_2019_%28190206-M-BG453-1225%29.JPG",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/ce/F-22A_Raptor_and_four_U.S._Marine_Corps_FA-18C_Hornets_in_flight_over_the_Southern_California_coast_on_6_February_2019_%28190206-M-BG453-1225%29.JPG",
+      "width": 2673,
+      "height": 1782,
+      "title": "F-22A Raptor and four U.S. Marine Corps FA-18C Hornets in flight over the Southern California coast on 6 February 2019 (190206-M-BG453-1225).JPG",
+      "description": "Four U.S. Marine Corps McDonnell Douglas F/A-18C <i>Hornets</i> from Marine Aircraft Group 11 (MAG-11), 3rd Marine Aircraft Wing, fly in close formation over the Southern California coast with a U.S. ",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/US_Navy_060607-F-7049H-002_A_crew_chief_assigned_to_the_1st_Fighter_Wing%2C_Langley_Air_Force_Base%2C_Va.%2C_directs_an_F-22A_Raptor.jpg/1280px-US_Navy_060607-F-7049H-002_A_crew_chief_assigned_to_the_1st_Fighter_Wing%2C_Langley_Air_Force_Base%2C_Va.%2C_directs_an_F-22A_Raptor.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/cf/US_Navy_060607-F-7049H-002_A_crew_chief_assigned_to_the_1st_Fighter_Wing%2C_Langley_Air_Force_Base%2C_Va.%2C_directs_an_F-22A_Raptor.jpg",
+      "width": 1758,
+      "height": 977,
+      "title": "US Navy 060607-F-7049H-002 A crew chief assigned to the 1st Fighter Wing, Langley Air Force Base, Va., directs an F-22A Raptor.jpg",
+      "description": "Elemendorf, Alaska (June 7, 2006) - A crew chief assigned to the 1st Fighter Wing, Langley Air Force Base, Va., directs an F-22A Raptor as it taxis down the runway after completion of its mission duri",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/US_Navy_060607-F-7049H-025_An_F-22A_Raptor_assigned_to_the_1st_Fighter_Wing%2C_Langley_Air_Force_Base%2C_Va.%2C_is_one_of_the_major_aircraft_taking_part_in_exercise_Northern_Edge_2006.jpg/1280px-thumbnail.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/b9/US_Navy_060607-F-7049H-025_An_F-22A_Raptor_assigned_to_the_1st_Fighter_Wing%2C_Langley_Air_Force_Base%2C_Va.%2C_is_one_of_the_major_aircraft_taking_part_in_exercise_Northern_Edge_2006.jpg",
+      "width": 2160,
+      "height": 1216,
+      "title": "US Navy 060607-F-7049H-025 An F-22A Raptor assigned to the 1st Fighter Wing, Langley Air Force Base, Va., is one of the major aircraft taking part in exercise Northern Edge 2006.jpg",
+      "description": "Elemendorf, Alaska (June 7, 2006) - An F-22A Raptor assigned to the 1st Fighter Wing, Langley Air Force Base, Va., is one of the major aircraft taking part in exercise Northern Edge 2006. U.S. Air For",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/US_Navy_070316-N-2359T-001_An_F-A-18E_Super_Hornet_from_Strike_Fighter_Squadron_%28VFA%29_115%2C_an_F-22A_Raptor_from_the_U.S._Air_Force%27s_27th_Expeditionary_Fighter_Squadron%2C_an_F-15C_Eagle_from_the_U.S._Air_Force%27s_44th_Fighter_Squ.jpg/1280px-thumbnail.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/US_Navy_070316-N-2359T-001_An_F-A-18E_Super_Hornet_from_Strike_Fighter_Squadron_%28VFA%29_115%2C_an_F-22A_Raptor_from_the_U.S._Air_Force%27s_27th_Expeditionary_Fighter_Squadron%2C_an_F-15C_Eagle_from_the_U.S._Air_Force%27s_44th_Fighter_Squ.jpg",
+      "width": 3872,
+      "height": 2592,
+      "title": "US Navy 070316-N-2359T-001 An F-A-18E Super Hornet from Strike Fighter Squadron (VFA) 115, an F-22A Raptor from the U.S. Air Force's 27th Expeditionary Fighter Squadron, an F-15C Eagle from the U.S. Air Force's 44th Fighter Squ.jpg",
+      "description": "PHILIPPINE SEA (March 16, 2007) - An F/A-18E Super Hornet from Strike Fighter Squadron (VFA) 115, an F-22A Raptor from the U.S. Air Force's 27th Expeditionary Fighter Squadron, an F-15C Eagle from the",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/US_Navy_070316-N-2359T-002_An_F-A-18E_Super_Hornet_from_Strike_Fighter_Squadron_%28VFA%29_115%2C_an_F-22A_Raptor_from_the_Air_Force%27s_27th_Expeditionary_Fighter_Squadron%2C_an_F-15C_Eagle_from_the_Air_Force%27s_44th_Fighter_Squadron%2C_and.jpg/1280px-thumbnail.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/US_Navy_070316-N-2359T-002_An_F-A-18E_Super_Hornet_from_Strike_Fighter_Squadron_%28VFA%29_115%2C_an_F-22A_Raptor_from_the_Air_Force%27s_27th_Expeditionary_Fighter_Squadron%2C_an_F-15C_Eagle_from_the_Air_Force%27s_44th_Fighter_Squadron%2C_and.jpg",
+      "width": 3872,
+      "height": 2592,
+      "title": "US Navy 070316-N-2359T-002 An F-A-18E Super Hornet from Strike Fighter Squadron (VFA) 115, an F-22A Raptor from the Air Force's 27th Expeditionary Fighter Squadron, an F-15C Eagle from the Air Force's 44th Fighter Squadron, and.jpg",
+      "description": "PHILIPPINE SEA (March 16, 2007) - An F/A-18E Super Hornet from Strike Fighter Squadron (VFA) 115, an F-22A Raptor from the Air Force's 27th Expeditionary Fighter Squadron, an F-15C Eagle from the Air ",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/US_Navy_070316-N-7130B-205_An_F-A-18E_Super_Hornet_from_Strike_Fighter_Squadron_%28VFA%29_115%2C_an_F-22A_Raptor_from_the_U.S._Air_Force%27s_27th_Expeditionary_Fighter_Squadron%2C_an_F-15C_Eagle_from_the_U.S._Air_Force%27s_44th_Fighter_Squ.jpg/1280px-thumbnail.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/US_Navy_070316-N-7130B-205_An_F-A-18E_Super_Hornet_from_Strike_Fighter_Squadron_%28VFA%29_115%2C_an_F-22A_Raptor_from_the_U.S._Air_Force%27s_27th_Expeditionary_Fighter_Squadron%2C_an_F-15C_Eagle_from_the_U.S._Air_Force%27s_44th_Fighter_Squ.jpg",
+      "width": 2000,
+      "height": 1312,
+      "title": "US Navy 070316-N-7130B-205 An F-A-18E Super Hornet from Strike Fighter Squadron (VFA) 115, an F-22A Raptor from the U.S. Air Force's 27th Expeditionary Fighter Squadron, an F-15C Eagle from the U.S. Air Force's 44th Fighter Squ.jpg",
+      "description": "PHILIPPINE SEA (March 16, 2007) - An F/A-18E Super Hornet from Strike Fighter Squadron (VFA) 115, an F-22A Raptor from the U.S. Air Force's 27th Expeditionary Fighter Squadron, an F-15C Eagle from the",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/US_Navy_070316-N-7130B-209_An_F-A-18E_Super_Hornet_from_Strike_Fighter_Squadron_%28VFA%29_115%2C_an_F-22A_Raptor_from_the_U.S._Air_Force%27s_27th_Expeditionary_Fighter_Squadron%2C_an_F-15C_Eagle_from_the_U.S._Air_Force%27s_44th_Fighter_Squ.jpg/1280px-thumbnail.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/US_Navy_070316-N-7130B-209_An_F-A-18E_Super_Hornet_from_Strike_Fighter_Squadron_%28VFA%29_115%2C_an_F-22A_Raptor_from_the_U.S._Air_Force%27s_27th_Expeditionary_Fighter_Squadron%2C_an_F-15C_Eagle_from_the_U.S._Air_Force%27s_44th_Fighter_Squ.jpg",
+      "width": 1312,
+      "height": 2000,
+      "title": "US Navy 070316-N-7130B-209 An F-A-18E Super Hornet from Strike Fighter Squadron (VFA) 115, an F-22A Raptor from the U.S. Air Force's 27th Expeditionary Fighter Squadron, an F-15C Eagle from the U.S. Air Force's 44th Fighter Squ.jpg",
+      "description": "PHILIPPINE SEA (March 16, 2007) - An F/A-18E Super Hornet from Strike Fighter Squadron (VFA) 115, an F-22A Raptor from the U.S. Air Force's 27th Expeditionary Fighter Squadron, an F-15C Eagle from the",
+      "license": "Public domain",
+      "source": "wikimedia"
+    }
+  ]
+}

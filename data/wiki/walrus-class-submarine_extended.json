@@ -1,0 +1,294 @@
+{
+  "combat_history": [
+    {
+      "date": "2011",
+      "operation": "Operation Unified Protector",
+      "event": "HNLMS Walrus deployed to Mediterranean for intelligence gathering and maritime surveillance during Libya intervention",
+      "significance": "Demonstrated long-range deployment capability and NATO interoperability"
+    },
+    {
+      "date": "2014-2015",
+      "operation": "Counter-piracy operations",
+      "event": "Multiple deployments to Gulf of Aden area for anti-piracy patrol and intelligence collection",
+      "significance": "Showed utility of conventional submarines in constabulary roles and warm-water operations"
+    },
+    {
+      "date": "2018-2021",
+      "operation": "Enhanced Forward Presence",
+      "event": "Regular patrols in North Sea and North Atlantic monitoring increased Russian submarine activity",
+      "significance": "Primary operational role in current strategic environment, leveraging acoustic advantages in home waters"
+    }
+  ],
+  "modernization": [
+    {
+      "program": "Walrus Life Extension Program (WLEP)",
+      "status": "cancelled",
+      "timeline": "2017-2019",
+      "description": "Planned \u20ac1.5 billion program to extend service life to 2035+ with new combat systems, sensors, and hull modifications",
+      "impact": "Cancellation led to accelerated replacement program timeline, limiting remaining capability growth"
+    },
+    {
+      "program": "Walrus Replacement Program",
+      "status": "in-progress",
+      "timeline": "2025-2034",
+      "description": "Four new submarines to replace Walrus-class, likely based on existing European design with Dutch modifications",
+      "impact": "Will provide AIP capability, modern sensors, and extended operational life through 2070s"
+    },
+    {
+      "program": "SEWACO IX Upgrade",
+      "status": "completed",
+      "timeline": "2015-2020",
+      "description": "Combat management system upgrade providing improved sensor fusion and torpedo fire control",
+      "impact": "Enhanced multi-target engagement and improved situational awareness"
+    }
+  ],
+  "vulnerabilities": [
+    {
+      "area": "Hull fatigue and corrosion",
+      "description": "30+ year old pressure hulls showing stress cracking and corrosion issues requiring extensive maintenance periods",
+      "context": "Significantly impacts operational availability with boats spending 40-50% of time in maintenance",
+      "mitigation": "Increased inspection intervals and hull repairs, but fundamental age limitations cannot be overcome"
+    },
+    {
+      "area": "Lack of air-independent propulsion",
+      "description": "Must surface or snorkel every 24-48 hours for battery charging, creating vulnerability windows",
+      "context": "Modern AIP submarines can remain submerged for weeks, providing significant tactical advantage",
+      "mitigation": "None possible with current propulsion system - replacement submarines will have AIP"
+    },
+    {
+      "area": "Limited crew training pipeline",
+      "description": "Small submarine service struggles to maintain qualified crews, particularly senior technical ratings",
+      "context": "Crew shortages force reduced operational tempo and impact readiness rates",
+      "mitigation": "Enhanced training programs and retention incentives, but fundamental personnel limitations persist"
+    },
+    {
+      "area": "Obsolescent electronic warfare suite",
+      "description": "Electronic support measures and countermeasures date from 1990s design, vulnerable to modern threats",
+      "context": "Russian and Chinese submarine detection capabilities have advanced significantly",
+      "mitigation": "Partial upgrades completed but comprehensive modernization cancelled due to cost"
+    }
+  ],
+  "operational_patterns": {
+    "typical_deployment": "North Sea and North Atlantic patrol, NATO exercise participation, occasional Mediterranean deployment",
+    "deployment_length_months": 2,
+    "key_operating_areas": [
+      "North Sea",
+      "North Atlantic",
+      "Norwegian Sea",
+      "Baltic Sea approaches"
+    ],
+    "typical_task_group": "Operates independently or with NATO task groups, particularly with UK and Norwegian submarine forces",
+    "readiness_notes": "Typically 1-2 boats operationally available due to extended maintenance cycles and hull fatigue issues"
+  },
+  "peer_comparisons": [
+    {
+      "platform": "Type 212A submarine",
+      "country": "Germany",
+      "relationship": "allied equivalent",
+      "key_differences": "German boats have fuel cell AIP providing 2-3 week submerged endurance vs 48 hours for Walrus. Type 212A is newer but smaller with shorter range. Walrus has deeper diving capability.",
+      "video_angle": "AIP vs conventional diesel-electric - when newer isn't necessarily better for all missions"
+    },
+    {
+      "platform": "Gotland-class submarine",
+      "country": "Sweden",
+      "relationship": "allied equivalent",
+      "key_differences": "Swedish Stirling AIP system provides week+ submerged endurance. Gotland optimized for Baltic operations while Walrus designed for open ocean. Similar vintage but Swedish boats upgraded more extensively.",
+      "video_angle": "Small nation submarine design philosophy - specialized vs general purpose boats"
+    },
+    {
+      "platform": "Collins-class submarine",
+      "country": "Australia",
+      "relationship": "allied equivalent",
+      "key_differences": "Collins are larger with longer range for Pacific operations but suffered major reliability issues. Both represent 1980s European submarine technology adapted for specific national requirements.",
+      "video_angle": "When submarine imports go wrong vs right - Netherlands vs Australia experience"
+    },
+    {
+      "platform": "Kilo-class submarine",
+      "country": "Russia",
+      "relationship": "direct rival",
+      "key_differences": "Similar conventional diesel-electric design philosophy but Russian boat is smaller, less sophisticated sensors. Kilo has simpler systems but potentially higher reliability. Walrus has superior stealth characteristics.",
+      "video_angle": "NATO vs Warsaw Pact submarine philosophy - complexity vs simplicity in design"
+    },
+    {
+      "platform": "Soryu-class submarine",
+      "country": "Japan",
+      "relationship": "allied equivalent",
+      "key_differences": "Japanese design represents evolution of conventional submarine with AIP and now lithium-ion batteries. Much newer than Walrus with superior sensors and stealth, but similar mission profile for littoral operations.",
+      "video_angle": "East vs West approaches to conventional submarine development in 21st century"
+    }
+  ],
+  "search_keywords": [
+    "walrus class",
+    "walrus-class",
+    "type 471",
+    "dutch submarine",
+    "netherlands submarine",
+    "hnlms walrus",
+    "hnlms zeeleeuw",
+    "hnlms dolfijn",
+    "hnlms bruinvis",
+    "royal netherlands navy submarine"
+  ],
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/5a/2_walrusklasse_onderzeeboten.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/5a/2_walrusklasse_onderzeeboten.jpg",
+      "width": 800,
+      "height": 532,
+      "title": "2 walrusklasse onderzeeboten.jpg",
+      "description": "Two Dutch Walrus-class submarines",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e4/4_walrusklasse_onderzeeboten.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/e4/4_walrusklasse_onderzeeboten.jpg",
+      "width": 399,
+      "height": 308,
+      "title": "4 walrusklasse onderzeeboten.jpg",
+      "description": "The four Dutch Walrus-class submarines",
+      "license": "Attribution",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Dutch_submarine_Zeeleeuw.JPG/1280px-Dutch_submarine_Zeeleeuw.JPG",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/93/Dutch_submarine_Zeeleeuw.JPG",
+      "width": 1600,
+      "height": 1200,
+      "title": "Dutch submarine Zeeleeuw.JPG",
+      "description": "The Zeeleeuw, a <a href=\"https://en.wikipedia.org/wiki/The_Netherlands\" class=\"extiw\" title=\"w:The Netherlands\">Dutch</a> <a href=\"https://en.wikipedia.org/wiki/submarine\" class=\"extiw\" title=\"w:subma",
+      "license": "CC BY-SA 2.5",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Royal_Netherlands_Submarine_-_geograph.org.uk_-_913392.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Royal_Netherlands_Submarine_-_geograph.org.uk_-_913392.jpg",
+      "width": 640,
+      "height": 480,
+      "title": "Royal Netherlands Submarine - geograph.org.uk - 913392.jpg",
+      "description": "Royal Netherlands Submarine Royal Netherlands Submarine leaving Devonport via The Sound",
+      "license": "CC BY-SA 2.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Subadubdub_%283098064472%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Subadubdub_%283098064472%29.jpg",
+      "width": 1008,
+      "height": 660,
+      "title": "Subadubdub (3098064472).jpg",
+      "description": "A Dutch submarine leaving Cardiff.",
+      "license": "CC BY 2.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Submarine_coming_into_Oslo_Harbor_Norway.jpg/1280px-Submarine_coming_into_Oslo_Harbor_Norway.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/76/Submarine_coming_into_Oslo_Harbor_Norway.jpg",
+      "width": 4896,
+      "height": 2825,
+      "title": "Submarine coming into Oslo Harbor Norway.jpg",
+      "description": "Submarine coming into Oslo Harbor Norway",
+      "license": "CC BY 2.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/US_Navy_081029-N-7668G-018_he_Dutch_submarine_HNLMS_Walrus_%28SSK_S802%29_and_the_Los_Angeles-class_attack_submarine_USS_Tucson_%28SSN_770%29_share_a_pier_at_Naval_Station_Norfolk.jpg/1280px-thumbnail.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/85/US_Navy_081029-N-7668G-018_he_Dutch_submarine_HNLMS_Walrus_%28SSK_S802%29_and_the_Los_Angeles-class_attack_submarine_USS_Tucson_%28SSN_770%29_share_a_pier_at_Naval_Station_Norfolk.jpg",
+      "width": 2100,
+      "height": 1500,
+      "title": "US Navy 081029-N-7668G-018 he Dutch submarine HNLMS Walrus (SSK S802) and the Los Angeles-class attack submarine USS Tucson (SSN 770) share a pier at Naval Station Norfolk.jpg",
+      "description": "NORFOLK, Va. (Oct. 29, 2008) The Dutch submarine HNLMS Walrus (SSK S802) and the Los Angeles-class attack submarine USS Tucson (SSN 770) share a pier at Naval Station Norfolk. U.S. and Dutch naval for",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/96/Walrus-class_submarine_emerges.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/96/Walrus-class_submarine_emerges.jpg",
+      "width": 960,
+      "height": 963,
+      "title": "Walrus-class submarine emerges.jpg",
+      "description": "A <a href=\"https://en.wikipedia.org/wiki/Walrus-class_submarine\" class=\"extiw\" title=\"w:Walrus-class submarine\">Walrus-class submarine</a> emerges out of the water",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/A_manual_of_scientific_enquiry_%28Page_471%29_BHL34617263.jpg/1280px-A_manual_of_scientific_enquiry_%28Page_471%29_BHL34617263.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/71/A_manual_of_scientific_enquiry_%28Page_471%29_BHL34617263.jpg",
+      "width": 2106,
+      "height": 3449,
+      "title": "A manual of scientific enquiry (Page 471) BHL34617263.jpg",
+      "description": "A manual of scientific enquiry\u00a0: prepared for the use of Her Majesty's Navy and adapted for travellers in general. /",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/57/Grumman_F-14A_Tomcat%2C_USA_-_Navy_AN0712962.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/57/Grumman_F-14A_Tomcat%2C_USA_-_Navy_AN0712962.jpg",
+      "width": 1024,
+      "height": 678,
+      "title": "Grumman F-14A Tomcat, USA - Navy AN0712962.jpg",
+      "description": "Of VF-154 ' Black Knights ' based at NAS Miramar on deployment.",
+      "license": "GFDL 1.2",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Grupo_de_ministros_da_Ditadura_Militar_-_O_Domingo_Ilustrado_N%C2%BA_76_%2827_Jun._1926%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Grupo_de_ministros_da_Ditadura_Militar_-_O_Domingo_Ilustrado_N%C2%BA_76_%2827_Jun._1926%29.jpg",
+      "width": 817,
+      "height": 269,
+      "title": "Grupo de ministros da Ditadura Militar - O Domingo Ilustrado N\u00ba 76 (27 Jun. 1926).jpg",
+      "description": "Photograph of the government led by Manuel Gomes da Costa, the second goverment appointed during the Portuguese military dictatorship. \n<p>Taken for the newspaper \u201cO Domingo Ilustrado\u201d before June 27,",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/23/Leslie_Ward_-_Vanity_Fair%2C_Military_and_Navy%2C_%5EIn_his_Military_Capacity%5E%2C_Mr_Montagu_Williams%2C_November_1%2C_1879_-_B1979.14.471_-_Yale_Center_for_British_Art.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/23/Leslie_Ward_-_Vanity_Fair%2C_Military_and_Navy%2C_%5EIn_his_Military_Capacity%5E%2C_Mr_Montagu_Williams%2C_November_1%2C_1879_-_B1979.14.471_-_Yale_Center_for_British_Art.jpg",
+      "width": 1146,
+      "height": 1920,
+      "title": "Leslie Ward - Vanity Fair, Military and Navy, ^In his Military Capacity^, Mr Montagu Williams, November 1, 1879 - B1979.14.471 - Yale Center for British Art.jpg",
+      "description": "",
+      "license": "CC0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Sterling_%28Sunbeam%29_Cossack%2C_V-12_Engine_-_DPLA_-_55084bc6c7b71c6febd45d0e8d0e87c0_%28page_6%29.jpg/1280px-Sterling_%28Sunbeam%29_Cossack%2C_V-12_Engine_-_DPLA_-_55084bc6c7b71c6febd45d0e8d0e87c0_%28page_6%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Sterling_%28Sunbeam%29_Cossack%2C_V-12_Engine_-_DPLA_-_55084bc6c7b71c6febd45d0e8d0e87c0_%28page_6%29.jpg",
+      "width": 2000,
+      "height": 1264,
+      "title": "Sterling (Sunbeam) Cossack, V-12 Engine - DPLA - 55084bc6c7b71c6febd45d0e8d0e87c0 (page 6).jpg",
+      "description": "<div class=\"description\">\nType: Reciprocating, V-type, 12 cylinders, water cooled; Power rating: 261 kW (350 hp) at 2,000 rpm; Displacement: 18.2 L (1,113.24 cu in.); Bore and Stroke: 110 mm (4.33 in.",
+      "license": "CC0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Sterling_%28Sunbeam%29_Cossack%2C_V-12_Engine_-_DPLA_-_55084bc6c7b71c6febd45d0e8d0e87c0_%28page_8%29.jpg/1280px-Sterling_%28Sunbeam%29_Cossack%2C_V-12_Engine_-_DPLA_-_55084bc6c7b71c6febd45d0e8d0e87c0_%28page_8%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Sterling_%28Sunbeam%29_Cossack%2C_V-12_Engine_-_DPLA_-_55084bc6c7b71c6febd45d0e8d0e87c0_%28page_8%29.jpg",
+      "width": 2000,
+      "height": 1495,
+      "title": "Sterling (Sunbeam) Cossack, V-12 Engine - DPLA - 55084bc6c7b71c6febd45d0e8d0e87c0 (page 8).jpg",
+      "description": "<div class=\"description\">\nType: Reciprocating, V-type, 12 cylinders, water cooled; Power rating: 261 kW (350 hp) at 2,000 rpm; Displacement: 18.2 L (1,113.24 cu in.); Bore and Stroke: 110 mm (4.33 in.",
+      "license": "CC0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/54/Truck_falling_through_the_ice_pier_in_1983.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/54/Truck_falling_through_the_ice_pier_in_1983.jpg",
+      "width": 325,
+      "height": 471,
+      "title": "Truck falling through the ice pier in 1983.jpg",
+      "description": "<b>Date</b>: 1983<br>\n<p><b>Location</b>: <a href=\"https://en.wikipedia.org/wiki/McMurdo_Station\" class=\"extiw\" title=\"en:McMurdo Station\">en:McMurdo Station</a>, Antarctica<br>\n</p>\n<b>Photographer</",
+      "license": "CC BY-SA 2.5",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/39/USS_Beale_%28DD-471%29_underway_in_1944.JPG",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/39/USS_Beale_%28DD-471%29_underway_in_1944.JPG",
+      "width": 624,
+      "height": 301,
+      "title": "USS Beale (DD-471) underway in 1944.JPG",
+      "description": "The U.S. Navy destroyer USS <i>Beale</i> (DD-471) underway in 1944 with all guns trained to starboard.",
+      "license": "Public domain",
+      "source": "wikimedia"
+    }
+  ]
+}

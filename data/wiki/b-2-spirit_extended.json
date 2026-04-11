@@ -1,0 +1,331 @@
+{
+  "combat_history": [
+    {
+      "date": "1999-03-24",
+      "operation": "Operation Allied Force",
+      "event": "B-2s conducted first combat missions, striking Serbian targets with GPS-guided bombs. Six aircraft flew 49 sorties over 78 days, demonstrating global strike capability with missions flown from Whiteman AFB.",
+      "significance": "First operational use proved B-2's ability to conduct precision strikes while maintaining stealth, validating the platform's conventional warfare role"
+    },
+    {
+      "date": "2001-10-07",
+      "operation": "Operation Enduring Freedom",
+      "event": "B-2s struck Taliban and Al-Qaeda targets in Afghanistan in opening night of war, flying 44-hour round-trip missions from Whiteman AFB with multiple aerial refuelings.",
+      "significance": "Demonstrated unprecedented global reach and persistence, setting record for longest combat missions in aviation history"
+    },
+    {
+      "date": "2003-03-21",
+      "operation": "Operation Iraqi Freedom",
+      "event": "B-2s participated in 'shock and awe' campaign, striking Iraqi command and control facilities and strategic targets with precision munitions during opening phase of invasion.",
+      "significance": "Proved effectiveness against integrated air defense systems and hardened targets in high-threat environment"
+    },
+    {
+      "date": "2011-03-19",
+      "operation": "Operation Odyssey Dawn",
+      "event": "Three B-2s struck Libyan airfields and aircraft shelters with 2,000-pound bombs in opening strikes against Gaddafi regime, flying from Whiteman AFB.",
+      "significance": "Demonstrated continued relevance in limited intervention scenarios and ability to rapidly project power globally"
+    },
+    {
+      "date": "2017-01-19",
+      "operation": "Operation Odyssey Lightning",
+      "event": "B-2s struck ISIS camps in Libya with GBU-38 JDAMs, targeting foreign fighters and terrorist infrastructure in coordinated strikes.",
+      "significance": "Showed adaptation to counterterrorism missions and precision strike against non-state actors"
+    },
+    {
+      "date": "2008-02-23",
+      "operation": "Training accident",
+      "event": "Spirit of Kansas (82-1071) crashed on takeoff at Andersen AFB, Guam due to moisture in air data sensors. Both crew members ejected safely. Aircraft was total loss.",
+      "significance": "Only operational loss of B-2, highlighting vulnerability of complex systems to environmental factors and enormous cost of each airframe loss"
+    }
+  ],
+  "modernization": [
+    {
+      "program": "Defensive Management System (DMS)",
+      "status": "completed",
+      "timeline": "2008-2012",
+      "description": "Installation of radar warning receivers and defensive avionics to detect and counter emerging air defense threats. Includes threat warning displays and countermeasures dispensing systems.",
+      "impact": "Enhanced survivability against modern integrated air defense systems, particularly important as stealth advantage erodes"
+    },
+    {
+      "program": "Flexible Strike Package",
+      "status": "completed",
+      "timeline": "2010-2015",
+      "description": "Integration of GBU-57 Massive Ordnance Penetrator (MOP) capability for deep underground bunker targets. Required structural modifications to bomb bay and software upgrades.",
+      "impact": "Provides unique capability against hardened and deeply buried targets, particularly relevant for Iran and North Korea scenarios"
+    },
+    {
+      "program": "Common Very Low Frequency (CVLF) Receiver",
+      "status": "completed",
+      "timeline": "2012-2018",
+      "description": "Installation of new communication systems for receiving Emergency Action Messages and maintaining nuclear command authority connectivity during stealth operations.",
+      "impact": "Ensures nuclear mission viability and command connectivity while maintaining low electromagnetic signature"
+    },
+    {
+      "program": "Radar Modernization Program (RMP)",
+      "status": "in-progress",
+      "timeline": "2020-2025",
+      "description": "Upgrade of APQ-181 radar with new processors, synthetic aperture radar modes, and improved ground mapping capabilities. Includes electronic warfare improvements.",
+      "impact": "Extends radar service life and improves ground target identification and engagement capabilities against modern threats"
+    },
+    {
+      "program": "Engine Replacement Program (ERP)",
+      "status": "planned",
+      "timeline": "2025-2035",
+      "description": "Potential replacement of F118 engines with more fuel-efficient variants to extend range and reduce maintenance costs. Currently in feasibility study phase.",
+      "impact": "Would extend operational range and reduce logistics footprint, critical for Pacific theater operations"
+    }
+  ],
+  "vulnerabilities": [
+    {
+      "area": "Low-frequency radar detection",
+      "description": "B-2's stealth coatings and shaping are optimized against X-band radars. VHF and UHF radars can potentially detect the aircraft at reduced but tactically significant ranges.",
+      "context": "China and Russia have deployed long-wavelength radars specifically to counter stealth aircraft, potentially compromising B-2's primary advantage",
+      "mitigation": "Route planning to avoid known low-frequency radar sites, electronic warfare support, and development of next-generation B-21 with improved all-aspect stealth"
+    },
+    {
+      "area": "Maintenance complexity and cost",
+      "description": "Each B-2 requires 119 hours of maintenance per flight hour, with stealth coating maintenance being particularly demanding. Operating costs exceed $135,000 per flight hour.",
+      "context": "High maintenance requirements limit availability and sortie generation rates in sustained operations, while costs restrict training and readiness",
+      "mitigation": "Ongoing efforts to reduce maintenance requirements and develop more durable stealth coatings, but fundamental issues remain"
+    },
+    {
+      "area": "Limited quantity and basing",
+      "description": "Only 20 operational aircraft concentrated at single base (Whiteman AFB) makes fleet vulnerable to attack or natural disasters. No backup production capability exists.",
+      "context": "In peer conflict, losing even one aircraft represents 5% of fleet. Concentration at Whiteman makes entire fleet vulnerable to strike or weather events",
+      "mitigation": "Dispersal operations to forward bases, construction of additional hangars, and development of B-21 replacement fleet"
+    },
+    {
+      "area": "Electronic warfare vulnerability",
+      "description": "GPS jamming can degrade precision munitions effectiveness. Communications jamming can isolate aircraft from command structure during long-duration missions.",
+      "context": "Near-peer adversaries have sophisticated EW capabilities that could degrade B-2's precision strike capability and mission effectiveness",
+      "mitigation": "Integration of jam-resistant GPS, backup navigation systems, and enhanced electronic warfare defensive systems"
+    },
+    {
+      "area": "Infrared signature",
+      "description": "While radar-stealthy, B-2 has significant infrared signature from engines and aerodynamic heating. Advanced infrared search and track systems pose detection threat.",
+      "context": "Modern IRST systems deployed by Russia and China can potentially detect B-2 at operationally significant ranges, especially during afterburner operations",
+      "mitigation": "Tactical procedures to minimize IR signature, route planning to avoid IRST coverage, and research into IR signature reduction technologies"
+    }
+  ],
+  "operational_patterns": {
+    "typical_deployment": "Global strike missions from Whiteman AFB with forward staging at Guam, Diego Garcia, or allied bases for extended operations",
+    "deployment_length_months": 6,
+    "key_operating_areas": [
+      "Western Pacific",
+      "Middle East",
+      "European theater"
+    ],
+    "typical_task_group": "Usually operates independently or in pairs, supported by KC-135 tanker aircraft for aerial refueling",
+    "readiness_notes": "Typically 12-16 aircraft mission-capable at any time due to extensive maintenance requirements. Stealth coating repairs can ground aircraft for weeks."
+  },
+  "peer_comparisons": [
+    {
+      "platform": "Tupolev Tu-160 Blackjack",
+      "country": "Russia",
+      "relationship": "strategic competitor",
+      "key_differences": "Tu-160 prioritizes speed (Mach 2.05) and payload (45,000kg) over stealth, uses variable-geometry wings and carries only standoff weapons. B-2 trades speed/payload for stealth and precision.",
+      "video_angle": "Classic speed vs stealth comparison - which approach better penetrates modern air defenses in 2024?"
+    },
+    {
+      "platform": "Xian H-20",
+      "country": "China",
+      "relationship": "direct rival",
+      "key_differences": "H-20 appears to copy B-2 flying wing design but likely has less advanced stealth technology and shorter range. Still in development with limited public information available.",
+      "video_angle": "China's attempt to match B-2 capability - how close can they get to 30-year-old American technology?"
+    },
+    {
+      "platform": "Northrop B-21 Raider",
+      "country": "United States",
+      "relationship": "successor",
+      "key_differences": "B-21 uses more advanced materials and manufacturing for better stealth and lower costs. Smaller payload but more affordable to build and operate in quantity.",
+      "video_angle": "Old vs new stealth - why the US is replacing the 'irreplaceable' B-2 with a smaller bomber"
+    },
+    {
+      "platform": "Tupolev Tu-95 Bear",
+      "country": "Russia",
+      "relationship": "strategic competitor",
+      "key_differences": "Completely opposite philosophy - Tu-95 relies on standoff weapons and accepts detection, while B-2 penetrates air defenses. Tu-95 much cheaper but more vulnerable.",
+      "video_angle": "Penetration vs standoff - two completely different approaches to strategic bombing in the nuclear age"
+    },
+    {
+      "platform": "Rockwell B-1B Lancer",
+      "country": "United States",
+      "relationship": "allied equivalent",
+      "key_differences": "B-1B carries more conventional weapons (84 JDAMs vs 16) and flies faster, but lacks stealth capability. Complementary rather than competing platforms in USAF service.",
+      "video_angle": "America's bomber duo - when do you send the invisible B-2 vs the weapons truck B-1B?"
+    }
+  ],
+  "search_keywords": [
+    "B-2 Spirit",
+    "B-2A",
+    "stealth bomber",
+    "B2 bomber",
+    "Spirit bomber",
+    "Northrop stealth",
+    "flying wing bomber",
+    "strategic bomber",
+    "nuclear bomber",
+    "Whiteman AFB"
+  ],
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/2nd_Air_Refueling_Squadron_refuels_B-2%27s_161110-F-GV347-141.jpg/1280px-2nd_Air_Refueling_Squadron_refuels_B-2%27s_161110-F-GV347-141.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/08/2nd_Air_Refueling_Squadron_refuels_B-2%27s_161110-F-GV347-141.jpg",
+      "width": 4928,
+      "height": 3280,
+      "title": "2nd Air Refueling Squadron refuels B-2's 161110-F-GV347-141.jpg",
+      "description": "A 2nd Air Refueling Squadron KC-10 Extender from Joint Base McGuire-Dix-Lakehurst, N.J., prepares to refuel a B-2 Spirit, during a training exercise near Kansas, Nov. 10, 2016. The KC-10 Extender is a",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/B-2_Spirit_%28cropped%29.jpg/1280px-B-2_Spirit_%28cropped%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/B-2_Spirit_%28cropped%29.jpg",
+      "width": 1937,
+      "height": 995,
+      "title": "B-2 Spirit (cropped).jpg",
+      "description": "A B-2 Spirit soars after a refueling mission over the Pacific Ocean on Tuesday, May 30, 2006. The B-2, from the 509th Bomb Wing at Whiteman Air Force Base, Mo., is part of a continuous bomber presence",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/B-2_Spirit_Stealth_Bomber_Maintenance_in_Iceland_%287999702%29.jpg/1280px-B-2_Spirit_Stealth_Bomber_Maintenance_in_Iceland_%287999702%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/B-2_Spirit_Stealth_Bomber_Maintenance_in_Iceland_%287999702%29.jpg",
+      "width": 5948,
+      "height": 3970,
+      "title": "B-2 Spirit Stealth Bomber Maintenance in Iceland (7999702).jpg",
+      "description": "Two U.S. Air Force B-2 Spirits positioned for aircraft maintenance at Keflavik Air Base, Iceland, Aug. 18, 2023. Keflavik Air Base is operated by the Icelandic Coast Guard. The B-2 Spirits are deploye",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/B-2_Spirit_original.jpg/1280px-B-2_Spirit_original.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/47/B-2_Spirit_original.jpg",
+      "width": 2000,
+      "height": 1252,
+      "title": "B-2 Spirit original.jpg",
+      "description": "A <a href=\"https://en.wikipedia.org/wiki/Northrop_Grumman_B-2_Spirit\" class=\"extiw\" title=\"w:Northrop Grumman B-2 Spirit\">Northrop Grumman B-2 Spirit</a> soars after a refueling mission over the <a hr",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/B-2_Spirit_stealth_bomber_lands_at_Amberley_%288595725%29.jpg/1280px-B-2_Spirit_stealth_bomber_lands_at_Amberley_%288595725%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/f8/B-2_Spirit_stealth_bomber_lands_at_Amberley_%288595725%29.jpg",
+      "width": 2700,
+      "height": 1800,
+      "title": "B-2 Spirit stealth bomber lands at Amberley (8595725).jpg",
+      "description": "A U.S. Air Force B-2 Spirit stealth bomber arrives for a Bomber Task Force mission at Royal Australian Air Force Base Amberley, Australia, August 16, 2024. The U.S. routinely and visibly demonstrates ",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/B-2_Spirit_stealth_bomber_lands_at_Amberley_%288595727%29.jpg/1280px-B-2_Spirit_stealth_bomber_lands_at_Amberley_%288595727%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/B-2_Spirit_stealth_bomber_lands_at_Amberley_%288595727%29.jpg",
+      "width": 2700,
+      "height": 1800,
+      "title": "B-2 Spirit stealth bomber lands at Amberley (8595727).jpg",
+      "description": "U.S. Air Force Airmen execute post flight procedures on a B-2 Spirit stealth bomber at Royal Australian Air Force Base Amberley, Australia, August 16, 2024. The United States\u2019 commitment to the Indo-P",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/B-2_Spirit_stealth_bomber_night_time_maintenance_in_Iceland_%287998069%29.jpg/1280px-B-2_Spirit_stealth_bomber_night_time_maintenance_in_Iceland_%287998069%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/9e/B-2_Spirit_stealth_bomber_night_time_maintenance_in_Iceland_%287998069%29.jpg",
+      "width": 5915,
+      "height": 3943,
+      "title": "B-2 Spirit stealth bomber night time maintenance in Iceland (7998069).jpg",
+      "description": "U.S. Air Force maintainers with the 393rd Expeditionary Bomb Squadron perform maintenance on a B-2 Spirit stealth bomber as part of a Bomber Task Force mission supported by the Icelandic Coast Guard a",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/B-2_Spirit_stealth_bomber_night_time_maintenance_in_Iceland_%287998080%29.jpg/1280px-B-2_Spirit_stealth_bomber_night_time_maintenance_in_Iceland_%287998080%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/60/B-2_Spirit_stealth_bomber_night_time_maintenance_in_Iceland_%287998080%29.jpg",
+      "width": 8256,
+      "height": 5504,
+      "title": "B-2 Spirit stealth bomber night time maintenance in Iceland (7998080).jpg",
+      "description": "U.S. Air Force maintainers with the 393rd Expeditionary Bomb Squadron perform maintenance on a B-2 Spirit stealth bomber as part of a Bomber Task Force mission supported by the Icelandic Coast Guard a",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Kaman_UH-2A%2BB_Seasprites_of_HC-1_Det.E_in_flight_c1965.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Kaman_UH-2A%2BB_Seasprites_of_HC-1_Det.E_in_flight_c1965.jpg",
+      "width": 847,
+      "height": 570,
+      "title": "Kaman UH-2A+B Seasprites of HC-1 Det.E in flight c1965.jpg",
+      "description": "Two U.S. Navy Kaman UH-2A/B <i>Seasprite</i> (UH-2A BuNo 149024 in the foreground) from Helicopter Combat Support Squadron 1 (HC-1) Det.E \"Pacific Fleet Angels\" in flight. HC-1 Det.E was assigned to A",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Kaman_UH-2A_Seasprite_of_HC-2_Det.59_in_1967.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Kaman_UH-2A_Seasprite_of_HC-2_Det.59_in_1967.jpg",
+      "width": 942,
+      "height": 709,
+      "title": "Kaman UH-2A Seasprite of HC-2 Det.59 in 1967.jpg",
+      "description": "A U.S. Navy Kaman UH-2A <i>Seasprite</i> (BuNo 149768) from Helicopter Combat Support Squadron 2 (HC-2) Det.59 \"Pacific Fleet Angels\". HC-2 Det.59 was assigned to Attack Carrier Air Wing 17 (CVW-17) a",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Kaman_UH-2A_Seasprite_of_HU-1_Det.B_in_flight%2C_in_1964.jpg/1280px-Kaman_UH-2A_Seasprite_of_HU-1_Det.B_in_flight%2C_in_1964.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/34/Kaman_UH-2A_Seasprite_of_HU-1_Det.B_in_flight%2C_in_1964.jpg",
+      "width": 1535,
+      "height": 1241,
+      "title": "Kaman UH-2A Seasprite of HU-1 Det.B in flight, in 1964.jpg",
+      "description": "A U.S. Navy Kaman UH-2A <i>Seasprite</i> (BuNo 149759) from Helicopter Utility Squadron 1 (HU-1) Det.B \"Pacific Fleet Angels\" hovers over a destroyer during a personnel transfer. HU-1 Det.B was assign",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/98/Kaman_UH-2A_Seasprite_of_HU-1_Det.N_in_flight_c1963.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/98/Kaman_UH-2A_Seasprite_of_HU-1_Det.N_in_flight_c1963.jpg",
+      "width": 863,
+      "height": 571,
+      "title": "Kaman UH-2A Seasprite of HU-1 Det.N in flight c1963.jpg",
+      "description": "A U.S. Navy Kaman UH-2A <i>Seasprite</i> (BuNo 149782) from Helicopter Utility Squadron 1 (HU-1) Det.N \"Pacific Fleet Angels\" in flight. HU-1 Det.N was assigned to Carrier Anti-Submarine Air Group 57 ",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/95/UH-2A_HC-1_CVA-63_Mar1966.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/95/UH-2A_HC-1_CVA-63_Mar1966.jpg",
+      "width": 1280,
+      "height": 932,
+      "title": "UH-2A HC-1 CVA-63 Mar1966.jpg",
+      "description": "A Kaman UH-2A <i>Seasprite</i> plane guard helicopter (BuNo 149742) of helicopter combat support squadron HC-1 Det. C <i>Pacific Fleet Angels</i> hovering over the aircraft carrier <i>USS Kitty Hawk (",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/0f/UH-2A_HC-1_CVA-63_Mar1966_%28clipped%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/0f/UH-2A_HC-1_CVA-63_Mar1966_%28clipped%29.jpg",
+      "width": 629,
+      "height": 472,
+      "title": "UH-2A HC-1 CVA-63 Mar1966 (clipped).jpg",
+      "description": "A Kaman UH-2A <i>Seasprite</i> plane guard helicopter (BuNo 149742) of helicopter combat support squadron HC-1 Det. C <i>Pacific Fleet Angels</i> hovering over the aircraft carrier <i>USS Kitty Hawk (",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/99/UH-2A_Seasprite_of_HC-2_in_flight_c1968.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/99/UH-2A_Seasprite_of_HC-2_in_flight_c1968.jpg",
+      "width": 932,
+      "height": 619,
+      "title": "UH-2A Seasprite of HC-2 in flight c1968.jpg",
+      "description": "<p>A U.S. Navy Kaman UH-2A <i>Seasprite</i> (BuNo 149772) from Helicopter Combat Support Squadron 2 (HC-2) Det.62 <i>Fleet Angels</i> in flight. HC-2 Det.62 was assigned to Carrier Air Wing 7 (CVW-7) ",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/61/YUH-2A_147204_ditching_NAN7-63.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/61/YUH-2A_147204_ditching_NAN7-63.jpg",
+      "width": 717,
+      "height": 688,
+      "title": "YUH-2A 147204 ditching NAN7-63.jpg",
+      "description": "The third Kaman YUH-2A <i>Seasprite</i> prototype (BuNo 147204) after ditiching during trials in 1963.",
+      "license": "Public domain",
+      "source": "wikimedia"
+    }
+  ]
+}

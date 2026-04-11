@@ -1,0 +1,180 @@
+{
+  "combat_history": [
+    {
+      "date": "1996-03",
+      "operation": "Third Taiwan Strait Crisis",
+      "event": "Cheng Kung class frigates conducted patrol operations during Chinese missile tests and military exercises near Taiwan. ROCS Cheng Kung and Chi Kuang maintained heightened readiness posture.",
+      "significance": "First operational deployment during major military crisis, demonstrated Taiwan's commitment to maintaining sea lane security"
+    },
+    {
+      "date": "2005-2010",
+      "operation": "Anti-piracy patrols",
+      "event": "Multiple Cheng Kung class frigates conducted extended patrols in South China Sea approaches, intercepting suspected smuggling vessels and conducting freedom of navigation operations.",
+      "significance": "Validated long-range patrol capability and interoperability with allied maritime forces"
+    },
+    {
+      "date": "2020-2023",
+      "operation": "Taiwan Strait tensions",
+      "event": "Increased operational tempo with daily patrols during heightened cross-strait tensions. Multiple vessels have conducted electronic intelligence gathering missions tracking PLAN vessel movements.",
+      "significance": "Demonstrated sustained operational capability under current threat environment"
+    }
+  ],
+  "modernization": [
+    {
+      "program": "Mid-Life Upgrade (MLU)",
+      "status": "in-progress",
+      "timeline": "2018-2025",
+      "description": "Comprehensive upgrade including replacement of Mk 15 Phalanx with SeaRAM systems, upgraded electronic warfare suite, improved radar processing, and enhanced communications systems.",
+      "impact": "Significantly improved point defense capability against anti-ship missiles and enhanced survivability"
+    },
+    {
+      "program": "Combat System Modernization",
+      "status": "planned",
+      "timeline": "2025-2030",
+      "description": "Potential replacement of Mk 13 launcher with VLS cells, integration of indigenous Hsiung Feng III missiles, and upgraded fire control systems.",
+      "impact": "Would provide modern multi-mission capability comparable to contemporary frigates"
+    }
+  ],
+  "vulnerabilities": [
+    {
+      "area": "Air Defense Capability",
+      "description": "Single-arm Mk 13 launcher provides limited missile engagement rate compared to modern VLS systems. Cannot engage multiple simultaneous threats effectively.",
+      "context": "Critical weakness against China's saturation attack tactics using multiple anti-ship missiles",
+      "mitigation": "SeaRAM upgrades provide some improvement but fundamental limitation remains"
+    },
+    {
+      "area": "Electronic Warfare Vulnerability",
+      "description": "Limited electronic warfare and jamming resistance compared to modern Chinese systems. Older combat systems vulnerable to cyber warfare attacks.",
+      "context": "China's advanced EW capabilities could degrade sensors and communications during conflict",
+      "mitigation": "Ongoing upgrades to EW suite but significant capability gap remains"
+    },
+    {
+      "area": "Aging Platform Limitations",
+      "description": "30-year-old hull design with limited space and power for modern systems upgrades. Maintenance requirements increasing with age.",
+      "context": "Structural limitations constrain modernization options as threat environment evolves",
+      "mitigation": "Taiwan developing next-generation frigate design but timeline extends beyond 2030"
+    }
+  ],
+  "operational_patterns": {
+    "typical_deployment": "Taiwan Strait patrol, convoy escort, and maritime domain awareness missions",
+    "deployment_length_months": 1,
+    "key_operating_areas": [
+      "Taiwan Strait",
+      "Bashi Channel",
+      "South China Sea approaches",
+      "East China Sea"
+    ],
+    "typical_task_group": "Operates independently or with Kang Ding class frigates and Fast Attack Craft",
+    "readiness_notes": "High operational tempo has stressed maintenance cycles; availability rates estimated at 65-70%"
+  },
+  "peer_comparisons": [
+    {
+      "platform": "Jiangkai II class (Type 054A)",
+      "country": "China",
+      "relationship": "direct rival",
+      "key_differences": "Type 054A features 32-cell VLS system vs single-arm launcher, modern integrated combat system, and superior electronic warfare capabilities. Cheng Kung class retains ASW advantage with towed array capability.",
+      "video_angle": "David vs Goliath: Taiwan's aging frigates vs China's modern fleet"
+    },
+    {
+      "platform": "Oliver Hazard Perry class",
+      "country": "United States",
+      "relationship": "predecessor design",
+      "key_differences": "Cheng Kung retained full ASW capability that US removed from later Perry class vessels. Similar armament and sensors but Taiwan versions have improved damage control systems.",
+      "video_angle": "How Taiwan improved on the proven Perry design for local requirements"
+    },
+    {
+      "platform": "Formidable class",
+      "country": "Singapore",
+      "relationship": "regional equivalent",
+      "key_differences": "Formidable class features VLS cells and more modern combat systems but smaller size. Both designed for regional defense missions with Western weapons integration.",
+      "video_angle": "Small nation naval strategies: Singapore vs Taiwan frigate approaches"
+    },
+    {
+      "platform": "Anzac class",
+      "country": "Australia/New Zealand",
+      "relationship": "allied equivalent",
+      "key_differences": "Similar displacement and mission but Anzac class features VLS systems and more advanced radars. Both emphasize ASW capability and regional patrol missions.",
+      "video_angle": "Allied frigate designs: How different nations approached similar requirements"
+    },
+    {
+      "platform": "Admiral Grigorovich class",
+      "country": "Russia",
+      "relationship": "comparable generation",
+      "key_differences": "Russian design emphasizes land attack capability with Kalibr missiles while Cheng Kung focuses on air defense and ASW. Similar vintage but different tactical approaches.",
+      "video_angle": "East vs West frigate philosophy: Russian power projection vs Taiwanese sea denial"
+    }
+  ],
+  "search_keywords": [
+    "cheng kung class",
+    "cheng-kung class",
+    "FFG-1101",
+    "taiwan frigate",
+    "ROC navy",
+    "republic of china navy",
+    "taiwan strait",
+    "perry class taiwan",
+    "CSBC frigate"
+  ],
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/ROCN_Cheng_Ho_%28PFG2-1103%29_Shipped_at_Zuoying_Naval_Base_20141123.jpg/1280px-ROCN_Cheng_Ho_%28PFG2-1103%29_Shipped_at_Zuoying_Naval_Base_20141123.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/48/ROCN_Cheng_Ho_%28PFG2-1103%29_Shipped_at_Zuoying_Naval_Base_20141123.jpg",
+      "width": 4896,
+      "height": 3264,
+      "title": "ROCN Cheng Ho (PFG2-1103) Shipped at Zuoying Naval Base 20141123.jpg",
+      "description": "\u200b\u62c9\u8d77\u5168\u8266\u98fe\u3001\u505c\u6cca\u65bc\u5de6\u71df\u8ecd\u6e2f\u897f\u78bc\u982d\u7684\u6210\u529f\u7d1a\u5de1\u9632\u8266\u912d\u548c\uff08PFG2-1103\uff09\uff0c\u651d\u65bc2014\u5e74\u5de6\u71df\u8ecd\u6e2f\u71df\u5340\u958b\u653e\u6d3b\u52d5\u3002\u5f8c\u65b9\u767d\u8272\u5efa\u7269\u70ba<a rel=\"nofollow\" class=\"external text\" href=\"http://navy.mnd.gov.tw/Publish.aspx?cnid=2731&amp;p=44242&amp;Level=3\">\u6d77\u8ecd\u4e00\u4e8c\u56db\u8266\u968a\u90e8</a>\u3002",
+      "license": "CC BY-SA 3.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/ROCN_PFG-1101_model_in_WOC_20120609.jpg/1280px-ROCN_PFG-1101_model_in_WOC_20120609.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/5c/ROCN_PFG-1101_model_in_WOC_20120609.jpg",
+      "width": 4608,
+      "height": 2592,
+      "title": "ROCN PFG-1101 model in WOC 20120609.jpg",
+      "description": "\u200b\u5c0f\u4eba\u570b\u4e3b\u984c\u6a02\u5712\u5c55\u793a\u7684\u4e2d\u83ef\u6c11\u570b\u6d77\u8ecd\u6210\u529f\u8ecd\u8266\uff08PFG2-1101\uff09\u6a21\u578b\u3002",
+      "license": "CC BY-SA 3.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/ROCN_PFG2-1101_%26_MHC-1311_in_Kaohsiung_20150612.jpg/1280px-ROCN_PFG2-1101_%26_MHC-1311_in_Kaohsiung_20150612.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/f7/ROCN_PFG2-1101_%26_MHC-1311_in_Kaohsiung_20150612.jpg",
+      "width": 4896,
+      "height": 3264,
+      "title": "ROCN PFG2-1101 & MHC-1311 in Kaohsiung 20150612.jpg",
+      "description": "\u200b\u4e2d\u83ef\u6c11\u570b\u6d77\u8ecd\u6210\u529f\u8ecd\u8266\u8207\u6c38\u5b89\u8ecd\u8266\uff0c\u9760\u6cca\u9ad8\u96c4\u6e2f\u65b0\u6ff1\u78bc\u982d\u3002",
+      "license": "CC BY 2.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/ROCN_PFG2-1101_model_20181027.jpg/1280px-ROCN_PFG2-1101_model_20181027.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/1b/ROCN_PFG2-1101_model_20181027.jpg",
+      "width": 3600,
+      "height": 2700,
+      "title": "ROCN PFG2-1101 model 20181027.jpg",
+      "description": "\u200b\u7b2c6\u5c46\u958b\u62d3\u6a21\u578b\u796d\uff0c\u4e2d\u83ef\u6c11\u570b\u6d77\u8ecd\u6210\u529f\u8ecd\u8266\uff08PFG2-1101\uff091:350\u6bd4\u4f8b\u6a21\u578b\u3002",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c8/ROCN_cheng_kung_class_PFG2-1105_and_PFG2-1101_20050624.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/c8/ROCN_cheng_kung_class_PFG2-1105_and_PFG2-1101_20050624.jpg",
+      "width": 850,
+      "height": 480,
+      "title": "ROCN cheng kung class PFG2-1105 and PFG2-1101 20050624.jpg",
+      "description": "<p><a href=\"https://en.wikipedia.org/wiki/ROC_Navy\" class=\"extiw\" title=\"en:ROC Navy\">ROC (Taiwan) Navy</a> <i>Cheng-Kung</i>-class (Oliver Hazard Perry class) frigate.\n</p><p>Originally from ROCN sit",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Tzu_I_Shipped_in_No.12_Pier_of_Zhongzheng_Naval_Base_20130504a.jpg/1280px-Tzu_I_Shipped_in_No.12_Pier_of_Zhongzheng_Naval_Base_20130504a.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/65/Tzu_I_Shipped_in_No.12_Pier_of_Zhongzheng_Naval_Base_20130504a.jpg",
+      "width": 4000,
+      "height": 3000,
+      "title": "Tzu I Shipped in No.12 Pier of Zhongzheng Naval Base 20130504a.jpg",
+      "description": "\u200b2013\u5e74\u4e2d\u6b63\u8ecd\u6e2f\u71df\u5340\u958b\u653e\u6d3b\u52d5\uff0c\u505c\u6cca12\u865f\u78bc\u982d\u7684\u6210\u529f\u7d1a\u5de1\u9632\u8266\u300c\u5b50\u5100\u8ecd\u8266\u300d\uff08PFG2-1107\uff09\u3002",
+      "license": "CC BY-SA 3.0",
+      "source": "wikimedia"
+    }
+  ]
+}

@@ -1,0 +1,193 @@
+{
+  "combat_history": [
+    {
+      "date": "2007-08",
+      "operation": "Training Exercise",
+      "event": "ROCS Kee Lung successfully intercepted multiple aerial targets during first major live-fire exercise, validating SM-2 missile systems integration",
+      "significance": "Demonstrated successful transfer of U.S. Navy combat systems expertise to ROC Navy operations"
+    },
+    {
+      "date": "2016-01",
+      "operation": "Cross-strait tensions",
+      "event": "All four Kee Lung-class destroyers deployed to establish air defense perimeter during Taiwan presidential election period amid mainland Chinese military exercises",
+      "significance": "First major operational deployment demonstrating class capability for sustained fleet air defense operations"
+    },
+    {
+      "date": "2020-09",
+      "operation": "Strait patrol",
+      "event": "ROCS Su Ao tracked and monitored Chinese Liaoning carrier group transit through Taiwan Strait, maintaining radar contact throughout passage",
+      "significance": "Showcased surveillance and tracking capabilities against modern PLAN surface action groups"
+    }
+  ],
+  "modernization": [
+    {
+      "program": "Combat Systems Upgrade",
+      "status": "completed",
+      "timeline": "2015-2020",
+      "description": "Integration of Link 16 datalink, upgraded electronic warfare systems, and improved radar processing capabilities",
+      "impact": "Enhanced interoperability with U.S. forces and improved situational awareness in contested environments"
+    },
+    {
+      "program": "Self-Defense Upgrade",
+      "status": "planned",
+      "timeline": "2024-2028",
+      "description": "Potential installation of additional CIWS systems and electronic countermeasures to address increased missile threat environment",
+      "impact": "Improved survivability against anti-ship cruise missiles and drone swarms"
+    }
+  ],
+  "vulnerabilities": [
+    {
+      "area": "Aging combat systems",
+      "description": "SPG-51D illuminator radars and Mk 14 combat system represent 1980s technology vulnerable to modern electronic countermeasures and simultaneous multi-axis attacks",
+      "context": "Chinese anti-ship missiles and electronic warfare capabilities have advanced significantly since these systems were designed",
+      "mitigation": "Limited upgrades to processing power and ECM resistance, but fundamental architecture remains vulnerable"
+    },
+    {
+      "area": "Limited missile inventory",
+      "description": "Mk 26 twin-arm launchers cannot rapid-fire like VLS systems, creating reload delays during sustained engagements. Total missile load of 68 rounds limits sustained operations",
+      "context": "Modern threats include large-scale missile salvos that could exhaust defensive ammunition quickly",
+      "mitigation": "No viable solution due to launcher design constraints; requires careful engagement prioritization"
+    },
+    {
+      "area": "Parts availability",
+      "description": "As unique platforms in ROC Navy service with U.S. origins, parts supply and maintenance expertise are limited and expensive",
+      "context": "Political restrictions on Taiwan military sales complicate spare parts acquisition and technology updates",
+      "mitigation": "Stockpiling critical components and developing indigenous maintenance capabilities where possible"
+    }
+  ],
+  "operational_patterns": {
+    "typical_deployment": "Fleet air defense for Taiwan naval task groups, strait patrol missions, and training exercises with allied forces",
+    "deployment_length_months": 2,
+    "key_operating_areas": [
+      "Taiwan Strait",
+      "South China Sea",
+      "Philippine Sea"
+    ],
+    "typical_task_group": "Usually operate individually or in pairs with frigate escorts and support vessels",
+    "readiness_notes": "Typically maintain 2-3 vessels operationally ready with one in maintenance cycle due to age and parts constraints"
+  },
+  "peer_comparisons": [
+    {
+      "platform": "Type 052D Luyang III-class",
+      "country": "China",
+      "relationship": "direct rival",
+      "key_differences": "Chinese destroyers have modern VLS systems with 64 cells versus Kee Lung's 68 Mk 26 missiles, but VLS offers greater flexibility and faster engagement cycles. Type 052D has more modern radar and combat systems but Kee Lung crews have superior training heritage.",
+      "video_angle": "David vs Goliath: Taiwan's aging but well-trained destroyer crews versus China's modern but less experienced fleet"
+    },
+    {
+      "platform": "Atago-class",
+      "country": "Japan",
+      "relationship": "allied equivalent",
+      "key_differences": "Japanese destroyers represent the modern evolution of Aegis technology that Kee Lung predates, with SPY-1D radar and 96 VLS cells. Both operate in similar tactical roles but Atago has significantly more capability and sustainability.",
+      "video_angle": "How Japan's defense partnership with the U.S. evolved beyond what Taiwan could access"
+    },
+    {
+      "platform": "Sejong the Great-class",
+      "country": "South Korea",
+      "relationship": "regional competitor",
+      "key_differences": "Korean destroyers are much larger with 128 VLS cells and represent what advanced U.S. allies can achieve with modern Aegis systems. Kee Lung class shows the capability gap created by political restrictions on arms sales.",
+      "video_angle": "Tale of two allies: how geopolitical status determines naval capability access"
+    },
+    {
+      "platform": "Arleigh Burke Flight I",
+      "country": "United States",
+      "relationship": "contemporary design",
+      "key_differences": "Burke Flight I was built around same era but with more modern VLS architecture. Both share similar missions but Burke benefits from continuous U.S. Navy modernization programs that Kee Lung cannot access.",
+      "video_angle": "What happens when identical-era naval technology takes different upgrade paths"
+    }
+  ],
+  "search_keywords": [
+    "kee lung class",
+    "kidd class taiwan",
+    "roc navy destroyer",
+    "taiwan destroyer",
+    "DDG-1801",
+    "DDG-1802",
+    "DDG-1803",
+    "DDG-1805",
+    "ROCS Kee Lung",
+    "taiwan naval defense"
+  ],
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/2025.08.22_ROCS_Ma_Kong_%28DDG-1805%29_01.jpg/1280px-2025.08.22_ROCS_Ma_Kong_%28DDG-1805%29_01.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/02/2025.08.22_ROCS_Ma_Kong_%28DDG-1805%29_01.jpg",
+      "width": 2048,
+      "height": 1365,
+      "title": "2025.08.22 ROCS Ma Kong (DDG-1805) 01.jpg",
+      "description": "2025\u5e748\u670822\u65e5\uff0c\u4e2d\u83ef\u6c11\u570b\u7e3d\u7d71\u8cf4\u6e05\u5fb7\u52d7\u52c9\u6d77\u8ecd\u4e00\u516d\u516b\u8266\u968a\u3002\u5716\u70ba\u99ac\u516c\u865f\u9a45\u9010\u8266\u3002Official Photo by Lin Yen Ting/ Office of the President",
+      "license": "CC BY 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/2025.08.22_ROCS_Ma_Kong_%28DDG-1805%29_02.jpg/1280px-2025.08.22_ROCS_Ma_Kong_%28DDG-1805%29_02.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/8b/2025.08.22_ROCS_Ma_Kong_%28DDG-1805%29_02.jpg",
+      "width": 2048,
+      "height": 1365,
+      "title": "2025.08.22 ROCS Ma Kong (DDG-1805) 02.jpg",
+      "description": "2025\u5e748\u670822\u65e5\uff0c\u4e2d\u83ef\u6c11\u570b\u7e3d\u7d71\u8cf4\u6e05\u5fb7\u52d7\u52c9\u6d77\u8ecd\u4e00\u516d\u516b\u8266\u968a\u3002\u5716\u70ba\u99ac\u516c\u865f\u9a45\u9010\u8266\u3002Official Photo by Lin Yen Ting/ Office of the President",
+      "license": "CC BY 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/2025.08.22_ROCS_Ma_Kong_%28DDG-1805%29_03.jpg/1280px-2025.08.22_ROCS_Ma_Kong_%28DDG-1805%29_03.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/11/2025.08.22_ROCS_Ma_Kong_%28DDG-1805%29_03.jpg",
+      "width": 2048,
+      "height": 1365,
+      "title": "2025.08.22 ROCS Ma Kong (DDG-1805) 03.jpg",
+      "description": "2025\u5e748\u670822\u65e5\uff0c\u4e2d\u83ef\u6c11\u570b\u7e3d\u7d71\u8cf4\u6e05\u5fb7\u52d7\u52c9\u6d77\u8ecd\u4e00\u516d\u516b\u8266\u968a\u3002\u5716\u70ba\u99ac\u516c\u865f\u9a45\u9010\u8266\u3002Official Photo by Lin Yen Ting/ Office of the President",
+      "license": "CC BY 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Kidd_class_vs_Spruance_class.jpg/1280px-Kidd_class_vs_Spruance_class.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Kidd_class_vs_Spruance_class.jpg",
+      "width": 2857,
+      "height": 1910,
+      "title": "Kidd class vs Spruance class.jpg",
+      "description": "Service Depicted: Navy<br>Command Shown: N0113-NMCA-4/96-08<br>A starboard bow view of the guided missile destroyer USS KIDD (DDG-993) and the Spruance class destroyer USS PETERSON (DD-969) moored tog",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/71/Modified_Spruance_destroyer_of_Iran.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/71/Modified_Spruance_destroyer_of_Iran.jpg",
+      "width": 817,
+      "height": 499,
+      "title": "Modified Spruance destroyer of Iran.jpg",
+      "description": "An artist's impression of \"Modified Spruance\" destroyers of Iran, ordered from Litton Industries in 1974. The ships were never delivered to Iran and became Kidd-class destroyers of the US Navy.",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/ROCS_Ma_Kong_%28DDG-1805%29.jpg/1280px-ROCS_Ma_Kong_%28DDG-1805%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/ROCS_Ma_Kong_%28DDG-1805%29.jpg",
+      "width": 4634,
+      "height": 3089,
+      "title": "ROCS Ma Kong (DDG-1805).jpg",
+      "description": "\u7d00\u5fb7\u578b\u9a45\u9010\u8266\u99ac\u516c\uff08DDG-1805\uff09\u3002",
+      "license": "CC0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/USS_Chandler_%28DDG-996%29.jpg/1280px-USS_Chandler_%28DDG-996%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/65/USS_Chandler_%28DDG-996%29.jpg",
+      "width": 2820,
+      "height": 1860,
+      "title": "USS Chandler (DDG-996).jpg",
+      "description": "The U.S. Navy guided missile destroyer USS <i>Chandler</i> (DDG-996) anchored off North Island, San Diego, California (USA).",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/USS_Kidd_%28DDG-993%29.jpg/1280px-USS_Kidd_%28DDG-993%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/aa/USS_Kidd_%28DDG-993%29.jpg",
+      "width": 2894,
+      "height": 2313,
+      "title": "USS Kidd (DDG-993).jpg",
+      "description": "The U.S. Navy guided missile destroyer USS <i>Kidd</i> (DDG-993) crossing Thimble Shoals in Chesapeake Bay (USA).",
+      "license": "Public domain",
+      "source": "wikimedia"
+    }
+  ]
+}

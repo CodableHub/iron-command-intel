@@ -1,0 +1,296 @@
+{
+  "combat_history": [
+    {
+      "date": "2011",
+      "operation": "Operation Unified Protector",
+      "event": "French Horizon-class ships participated in NATO operations over Libya, providing area air defense for allied naval forces",
+      "significance": "First operational deployment demonstrating integrated air defense capabilities in combat environment"
+    },
+    {
+      "date": "2013-2014",
+      "operation": "Operation Atalanta",
+      "event": "Italian Andrea Doria conducted counter-piracy operations in the Indian Ocean, demonstrating multi-mission capability beyond primary air defense role",
+      "significance": "Showed platform flexibility for extended deployments and lower-intensity operations"
+    },
+    {
+      "date": "2020-2024",
+      "operation": "Operation Irini",
+      "event": "Both French and Italian Horizon-class ships have participated in Mediterranean embargo enforcement operations",
+      "significance": "Demonstrates continued operational relevance and sensor capabilities for maritime security missions"
+    }
+  ],
+  "modernization": [
+    {
+      "program": "EMPAR radar upgrade",
+      "status": "in-progress",
+      "timeline": "2022-2027",
+      "description": "Software and hardware upgrades to EMPAR system for enhanced discrimination against modern threats including stealth targets",
+      "impact": "Improved detection and tracking of low-observable threats and ballistic missiles"
+    },
+    {
+      "program": "Aster Block 1 NT integration",
+      "status": "completed",
+      "timeline": "2020-2023",
+      "description": "Integration of improved Aster 30 Block 1 NT missiles with enhanced kinematics and countermeasure resistance",
+      "impact": "Extended engagement envelope and improved performance against maneuvering threats"
+    },
+    {
+      "program": "Communication system modernization",
+      "status": "planned",
+      "timeline": "2025-2030",
+      "description": "Upgrade to next-generation secure communications and data links for improved interoperability",
+      "impact": "Enhanced network-centric warfare capabilities and NATO interoperability"
+    }
+  ],
+  "vulnerabilities": [
+    {
+      "area": "Limited missile capacity",
+      "description": "Only 48 VLS cells compared to 90+ on comparable platforms limits sustained engagement capability",
+      "context": "In high-threat environments with saturation attacks, magazine depth becomes critical limitation",
+      "mitigation": "Emphasis on high-precision engagement and coordination with other platforms"
+    },
+    {
+      "area": "Lack of offensive strike capability",
+      "description": "No land-attack cruise missiles or long-range anti-ship weapons beyond helicopter-delivered systems",
+      "context": "Limits utility in power projection scenarios and reduces deterrent effect",
+      "mitigation": "Future missile integration studies ongoing but no firm commitments"
+    },
+    {
+      "area": "Small fleet size vulnerability",
+      "description": "Only four units total means any losses or maintenance issues significantly impact capability",
+      "context": "High-value, low-density assets create operational planning challenges",
+      "mitigation": "High availability focus and extensive cross-training programs"
+    },
+    {
+      "area": "Hypersonic threat response",
+      "description": "Current sensors and missiles not optimized for hypersonic glide vehicles or high-speed maneuvering threats",
+      "context": "Emerging threat environment requires faster reaction times and different engagement profiles",
+      "mitigation": "Radar upgrade programs and next-generation missile development"
+    }
+  ],
+  "operational_patterns": {
+    "typical_deployment": "Carrier battle group air defense, high-value unit escort, maritime security operations",
+    "deployment_length_months": 4,
+    "key_operating_areas": [
+      "Mediterranean Sea",
+      "Indian Ocean",
+      "Atlantic Ocean"
+    ],
+    "typical_task_group": "Charles de Gaulle carrier group, Cavour amphibious group, or NATO standing forces",
+    "readiness_notes": "High operational tempo maintained despite small fleet size, shared maintenance burden between nations"
+  },
+  "peer_comparisons": [
+    {
+      "platform": "Type 45 Daring-class",
+      "country": "United Kingdom",
+      "relationship": "direct rival",
+      "key_differences": "Type 45 has more powerful radar but propulsion reliability issues. Horizon has proven CODAG propulsion but smaller radar aperture. Both emphasize air defense over multi-mission capability.",
+      "video_angle": "European air defense destroyer comparison - different technological approaches to same mission"
+    },
+    {
+      "platform": "Sachsen-class frigate",
+      "country": "Germany",
+      "relationship": "allied equivalent",
+      "key_differences": "Sachsen smaller and cheaper but uses similar APAR/SMART-L radar combination. Horizon larger with indigenous European systems throughout. Both limited by small VLS capacity compared to US/Asian designs.",
+      "video_angle": "European naval cooperation vs national programs - cost and capability trade-offs"
+    },
+    {
+      "platform": "Arleigh Burke Flight IIA",
+      "country": "United States",
+      "relationship": "NATO equivalent",
+      "key_differences": "Burke has 96 VLS cells vs 48, proven Aegis system, and Tomahawk strike capability. Horizon has more modern radar technology and propulsion but limited magazine depth and no offensive missiles.",
+      "video_angle": "European independence vs proven American systems - capability gaps and technological sovereignty"
+    },
+    {
+      "platform": "Type 052D Luyang III",
+      "country": "China",
+      "relationship": "peer competitor",
+      "key_differences": "Type 052D has 64 VLS cells, integrated mast design, and anti-ship missiles. Horizon has superior air defense missiles and sensors but lacks offensive capability. Chinese design more balanced multi-mission approach.",
+      "video_angle": "Western vs Chinese destroyer philosophy - specialization vs multi-mission capability"
+    },
+    {
+      "platform": "Akizuki-class destroyer",
+      "country": "Japan",
+      "relationship": "mission equivalent",
+      "key_differences": "Akizuki optimized for ASW with ASROC capability, smaller and less capable air defense. Horizon pure air defense focus with minimal ASW capability. Different threat environment priorities.",
+      "video_angle": "Regional threat adaptation - Mediterranean vs Pacific destroyer requirements"
+    }
+  ],
+  "search_keywords": [
+    "horizon class",
+    "horizon-class",
+    "forbin class",
+    "andrea doria class",
+    "PAAMS",
+    "EMPAR",
+    "aster missile",
+    "D 620",
+    "D 621",
+    "D 550",
+    "D 551",
+    "european destroyer",
+    "franco-italian"
+  ],
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/230515-N-NQ285-1358_-_USS_Porter_Participates_in_Formidable_Shield_2023.jpg/1280px-230515-N-NQ285-1358_-_USS_Porter_Participates_in_Formidable_Shield_2023.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/230515-N-NQ285-1358_-_USS_Porter_Participates_in_Formidable_Shield_2023.jpg",
+      "width": 6465,
+      "height": 4310,
+      "title": "230515-N-NQ285-1358 - USS Porter Participates in Formidable Shield 2023.jpg",
+      "description": "230515-N-NQ285-1358\nNORTH ATLANTIC OCEAN (May 15, 2023) The Arleigh Burke-class guided-missile destroyer USS Porter (DDG 78), foreground, transits in formation with NATO Allied warships participating ",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Caio_Duilio_D554.jpg/1280px-Caio_Duilio_D554.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Caio_Duilio_D554.jpg",
+      "width": 2592,
+      "height": 1944,
+      "title": "Caio Duilio D554.jpg",
+      "description": "Italian Destroyer Caio Duilio",
+      "license": "CC BY-SA 2.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Chevalier_Paul_%28D_621%29.jpg/1280px-Chevalier_Paul_%28D_621%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/97/Chevalier_Paul_%28D_621%29.jpg",
+      "width": 3264,
+      "height": 2448,
+      "title": "Chevalier Paul (D 621).jpg",
+      "description": "French destroyer <a href=\"https://en.wikipedia.org/wiki/French_frigate_Chevalier_Paul_(D621)\" class=\"extiw\" title=\"en:French frigate Chevalier Paul (D621)\">Chevalier Paul</a>",
+      "license": "CC BY 2.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Chief_Boatswain%E2%80%99s_Mate_Evandare_Aganon_searches_the_horizon_%288983010%29.jpg/1280px-Chief_Boatswain%E2%80%99s_Mate_Evandare_Aganon_searches_the_horizon_%288983010%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Chief_Boatswain%E2%80%99s_Mate_Evandare_Aganon_searches_the_horizon_%288983010%29.jpg",
+      "width": 4000,
+      "height": 6000,
+      "title": "Chief Boatswain\u2019s Mate Evandare Aganon searches the horizon (8983010).jpg",
+      "description": "BAY OF CADIZ, Spain \u2013 (April 10, 2025) Chief Boatswain\u2019s Mate Evandare Aganon, assigned to the Arleigh Burke-class guided-missile destroyer USS Bulkeley (DDG 84), searches the horizon on April 10, 202",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/97/French-Navy-Horizon-class-frigate.png",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/97/French-Navy-Horizon-class-frigate.png",
+      "width": 1004,
+      "height": 248,
+      "title": "French-Navy-Horizon-class-frigate.png",
+      "description": "Silhouette of Horizon class frigate",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Horizon_frigate.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Horizon_frigate.jpg",
+      "width": 500,
+      "height": 360,
+      "title": "Horizon frigate.jpg",
+      "description": "",
+      "license": "CC BY-SA 3.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Officers_scan_the_horizon_%288847343%29.jpg/1280px-Officers_scan_the_horizon_%288847343%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/13/Officers_scan_the_horizon_%288847343%29.jpg",
+      "width": 5874,
+      "height": 3916,
+      "title": "Officers scan the horizon (8847343).jpg",
+      "description": "Ens. Damiyan Caldwell, left, and Cmdr. James Koffi, right, commanding officer of the Arleigh Burke-class guided-missile destroyer USS Truxtun (DDG 103), scan the horizon for aircraft or maritime craft",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/US_Navy_100507-N-6274T-010_The_Arleigh_Burk-class_guided-missile_destroyer_USS_Gravely_%28DDG_107%29_is_surrounded_by_an_oil_containment_booms_to_prevent_oil_from_the_Deepwater_Horizon_oil_spill_from_reaching_it%27s_hull_while_piersi.jpg/1280px-thumbnail.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/40/US_Navy_100507-N-6274T-010_The_Arleigh_Burk-class_guided-missile_destroyer_USS_Gravely_%28DDG_107%29_is_surrounded_by_an_oil_containment_booms_to_prevent_oil_from_the_Deepwater_Horizon_oil_spill_from_reaching_it%27s_hull_while_piersi.jpg",
+      "width": 4288,
+      "height": 2848,
+      "title": "US Navy 100507-N-6274T-010 The Arleigh Burk-class guided-missile destroyer USS Gravely (DDG 107) is surrounded by an oil containment booms to prevent oil from the Deepwater Horizon oil spill from reaching it's hull while piersi.jpg",
+      "description": "PASCAGOULA, Miss. (May 7, 2010) The Arleigh Burk-class guided-missile destroyer USS Gravely (DDG 107) is surrounded by an oil containment booms to prevent oil from the Deepwater Horizon oil spill from",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Chuichi_Hara%2C_Oct_27%2C_1948%28...%29_-_NARA_-_6997372_%28page_550%29.jpg/1280px-Chuichi_Hara%2C_Oct_27%2C_1948%28...%29_-_NARA_-_6997372_%28page_550%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Chuichi_Hara%2C_Oct_27%2C_1948%28...%29_-_NARA_-_6997372_%28page_550%29.jpg",
+      "width": 3448,
+      "height": 5670,
+      "title": "Chuichi Hara, Oct 27, 1948(...) - NARA - 6997372 (page 550).jpg",
+      "description": "",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Chuichi_Hara%2C_Oct_27%2C_1948%28...%29_-_NARA_-_6997372_%28page_553%29.jpg/1280px-Chuichi_Hara%2C_Oct_27%2C_1948%28...%29_-_NARA_-_6997372_%28page_553%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Chuichi_Hara%2C_Oct_27%2C_1948%28...%29_-_NARA_-_6997372_%28page_553%29.jpg",
+      "width": 3468,
+      "height": 5687,
+      "title": "Chuichi Hara, Oct 27, 1948(...) - NARA - 6997372 (page 553).jpg",
+      "description": "",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Organisationsbuc00nati_orig_0459_ORGANISATIONSBUCH_DER_NSDAP_1936_Tafel_34_Sturmabteilung_SA_Uniform_Marinesturmf%C3%BChrer_im_Dienstanzug%2C_Marinescharf%C3%BChrer_im_Mantel_No_known_copyright_restrictions_cropped.jpg/1280px-thumbnail.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Organisationsbuc00nati_orig_0459_ORGANISATIONSBUCH_DER_NSDAP_1936_Tafel_34_Sturmabteilung_SA_Uniform_Marinesturmf%C3%BChrer_im_Dienstanzug%2C_Marinescharf%C3%BChrer_im_Mantel_No_known_copyright_restrictions_cropped.jpg",
+      "width": 2818,
+      "height": 3946,
+      "title": "Organisationsbuc00nati orig 0459 ORGANISATIONSBUCH DER NSDAP 1936 Tafel 34 Sturmabteilung SA Uniform Marinesturmf\u00fchrer im Dienstanzug, Marinescharf\u00fchrer im Mantel No known copyright restrictions cropped.jpg",
+      "description": "Illustrations from the official <a href=\"https://en.wikipedia.org/wiki/Nazi_Party\" class=\"extiw\" title=\"en:Nazi Party\">Nazi Party</a> handbook 1936, showing flags, emblems, signs, <a href=\"https://en.",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Organisationsbuc00nati_orig_0490_ORGANISATIONSBUCH_DER_NSDAP_1936_Tafel_41_Nationalsozialistisches_Kraftfahrkorps_NSKK_Uniform_Adjutantschnure_Fuhrerschnure_Nazi_Party_National_Socialist_Motor_Corps_Aiguillettes_No_known_copyright_Crop.jpg/1280px-thumbnail.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Organisationsbuc00nati_orig_0490_ORGANISATIONSBUCH_DER_NSDAP_1936_Tafel_41_Nationalsozialistisches_Kraftfahrkorps_NSKK_Uniform_Adjutantschnure_Fuhrerschnure_Nazi_Party_National_Socialist_Motor_Corps_Aiguillettes_No_known_copyright_Crop.jpg",
+      "width": 2829,
+      "height": 3961,
+      "title": "Organisationsbuc00nati orig 0490 ORGANISATIONSBUCH DER NSDAP 1936 Tafel 41 Nationalsozialistisches Kraftfahrkorps NSKK Uniform Adjutantschnure Fuhrerschnure Nazi Party National Socialist Motor Corps Aiguillettes No known copyright Crop.jpg",
+      "description": "Illustration plate from the official <a href=\"https://en.wikipedia.org/wiki/Nazi_Party\" class=\"extiw\" title=\"en:Nazi Party\">Nazi Party</a> handbook 1936, showing <a href=\"//commons.wikimedia.org/wiki/",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Organisationsbuc00nati_orig_0491_ORGANISATIONSBUCH_DER_NSDAP_1936_Tafel_42_Nationalsozialistisches_Kraftfahrkorps_NSKK_Uniform_Kraftbootstandarte_Sturmfuhrer_im_Stab_der_Staff_Scharfuhrer_Dienstanzug_No_known_copyright_Cropped.jpg/1280px-thumbnail.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Organisationsbuc00nati_orig_0491_ORGANISATIONSBUCH_DER_NSDAP_1936_Tafel_42_Nationalsozialistisches_Kraftfahrkorps_NSKK_Uniform_Kraftbootstandarte_Sturmfuhrer_im_Stab_der_Staff_Scharfuhrer_Dienstanzug_No_known_copyright_Cropped.jpg",
+      "width": 2787,
+      "height": 3902,
+      "title": "Organisationsbuc00nati orig 0491 ORGANISATIONSBUCH DER NSDAP 1936 Tafel 42 Nationalsozialistisches Kraftfahrkorps NSKK Uniform Kraftbootstandarte Sturmfuhrer im Stab der Staff Scharfuhrer Dienstanzug No known copyright Cropped.jpg",
+      "description": "Illustration plate from the official <a href=\"https://en.wikipedia.org/wiki/Nazi_Party\" class=\"extiw\" title=\"en:Nazi Party\">Nazi Party</a> handbook 1936, showing <a href=\"//commons.wikimedia.org/wiki/",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Organisationsbuc00nati_orig_0492_ORGANISATIONSBUCH_DER_NSDAP_1936_Tafel_43_Nationalsozialistisches_Kraftfahrkorps_NSKK_Uniform_Sonderdienstrangabzeichen_Kragenspiegeln_Achselstucke_Mutzen_Rank_insignia_Caps_No_known_copyright_Cropped.jpg/1280px-thumbnail.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/08/Organisationsbuc00nati_orig_0492_ORGANISATIONSBUCH_DER_NSDAP_1936_Tafel_43_Nationalsozialistisches_Kraftfahrkorps_NSKK_Uniform_Sonderdienstrangabzeichen_Kragenspiegeln_Achselstucke_Mutzen_Rank_insignia_Caps_No_known_copyright_Cropped.jpg",
+      "width": 2730,
+      "height": 3822,
+      "title": "Organisationsbuc00nati orig 0492 ORGANISATIONSBUCH DER NSDAP 1936 Tafel 43 Nationalsozialistisches Kraftfahrkorps NSKK Uniform Sonderdienstrangabzeichen Kragenspiegeln Achselstucke Mutzen Rank insignia Caps No known copyright Cropped.jpg",
+      "description": "Illustration plate from the official <a href=\"https://en.wikipedia.org/wiki/Nazi_Party\" class=\"extiw\" title=\"en:Nazi Party\">Nazi Party</a> handbook 1936, showing <a href=\"//commons.wikimedia.org/wiki/",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Organisationsbuc00nati_orig_0493_ORGANISATIONSBUCH_DER_NSDAP_1936_Tafel_44_Nationalsozialistisches_Kraftfahrkorps_NSKK_Uniform_Dienstrangabzeichen_Kragenspiegeln_Nazi_Party_National_Socialist_Motor_Corps_rank_insignia_No_known_copyrigh.jpg/1280px-thumbnail.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Organisationsbuc00nati_orig_0493_ORGANISATIONSBUCH_DER_NSDAP_1936_Tafel_44_Nationalsozialistisches_Kraftfahrkorps_NSKK_Uniform_Dienstrangabzeichen_Kragenspiegeln_Nazi_Party_National_Socialist_Motor_Corps_rank_insignia_No_known_copyrigh.jpg",
+      "width": 2703,
+      "height": 3784,
+      "title": "Organisationsbuc00nati orig 0493 ORGANISATIONSBUCH DER NSDAP 1936 Tafel 44 Nationalsozialistisches Kraftfahrkorps NSKK Uniform Dienstrangabzeichen Kragenspiegeln Nazi Party National Socialist Motor Corps rank insignia No known copyrigh.jpg",
+      "description": "Illustration plate from the official <a href=\"https://en.wikipedia.org/wiki/Nazi_Party\" class=\"extiw\" title=\"en:Nazi Party\">Nazi Party</a> handbook 1936, showing <a href=\"//commons.wikimedia.org/wiki/",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Organisationsbuc00nati_orig_0494_ORGANISATIONSBUCH_DER_NSDAP_1936_Tafel_45_Nationalsozialistisches_Kraftfahrkorps_NSKK_Kommandoflaggen_Wagen-Wimpel_Nazi_Party_National_Socialist_Motor_Corps_flags_pennants_No_known_copyright_Cropped.jpg/1280px-thumbnail.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Organisationsbuc00nati_orig_0494_ORGANISATIONSBUCH_DER_NSDAP_1936_Tafel_45_Nationalsozialistisches_Kraftfahrkorps_NSKK_Kommandoflaggen_Wagen-Wimpel_Nazi_Party_National_Socialist_Motor_Corps_flags_pennants_No_known_copyright_Cropped.jpg",
+      "width": 2828,
+      "height": 3960,
+      "title": "Organisationsbuc00nati orig 0494 ORGANISATIONSBUCH DER NSDAP 1936 Tafel 45 Nationalsozialistisches Kraftfahrkorps NSKK Kommandoflaggen Wagen-Wimpel Nazi Party National Socialist Motor Corps flags pennants No known copyright Cropped.jpg",
+      "description": "Illustration plate from the official <a href=\"https://en.wikipedia.org/wiki/Nazi_Party\" class=\"extiw\" title=\"en:Nazi Party\">Nazi Party</a> handbook 1936, showing <a href=\"//commons.wikimedia.org/wiki/",
+      "license": "Public domain",
+      "source": "wikimedia"
+    }
+  ]
+}

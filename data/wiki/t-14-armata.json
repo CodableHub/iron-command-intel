@@ -1,0 +1,416 @@
+{
+  "id": 83,
+  "slug": "t-14-armata",
+  "name": "T-14 Armata Main Battle Tank",
+  "designation": "T-14",
+  "type": "tank",
+  "country": "Russia",
+  "operator": "Russian Armed Forces",
+  "overview_md": "The T-14 Armata represents Russia's most ambitious main battle tank program since the T-80, featuring a revolutionary unmanned turret design and crew capsule concept that fundamentally differs from Western tank philosophy. Unveiled in 2015 and entering limited service around 2020, the Armata was designed to leap ahead of NATO armor capabilities with advanced active protection systems, a 125mm smoothbore gun, and modular armor systems. The tank's defining feature is its crew isolation in an armored capsule at the front of the hull, with all three crew members separated from the ammunition and main gun systems.\n\nStrategically, the T-14 was intended to restore Russian technological superiority in armored warfare and serve as the foundation for a universal heavy platform family including the T-15 IFV and T-16 recovery vehicle. However, the program has been plagued by production delays, cost overruns, and technical issues. Initial plans for 2,300 units by 2020 have been dramatically scaled back, with current procurement limited to small test batches for evaluation.\n\nIn the current threat environment, the T-14's significance lies more in its technological demonstration than operational impact. Its advanced fire control systems, claimed ability to fire anti-tank guided missiles through the main gun, and sophisticated sensors represent genuine innovations. However, reliability issues, limited production numbers, and the revealing performance of Russian armor in Ukraine have raised serious questions about the platform's readiness and the broader state of Russian defense manufacturing.\n\nCompared to contemporary Western designs like the M1A2 SEPv4 or Leopard 2A8, the T-14 offers theoretical advantages in crew survivability and sensor integration, but lacks the proven reliability, logistical support systems, and combat-tested upgrades that define NATO armor. The tank remains more significant as an indicator of Russian military ambitions than as a current battlefield factor, though its technologies may influence future Russian armor development if production and reliability challenges can be resolved.",
+  "specs_json": {
+    "displacement_tonnes": 55,
+    "length_m": 10.8,
+    "beam_m": 3.5,
+    "draft_m": null,
+    "speed_knots": null,
+    "range_nm": null,
+    "crew": 3,
+    "propulsion": "ChTZ 12N360 diesel engine, 1500 hp, 12-speed automatic transmission",
+    "radar": "Integrated fire control radar (designation uncertain)",
+    "sonar": null,
+    "combat_system": "Digital fire control system with thermal imaging and laser rangefinding",
+    "vls_cells": null,
+    "additional": {
+      "max_road_speed_kmh": 90,
+      "max_range_km": 500,
+      "main_gun": "125mm 2A82-1M smoothbore cannon",
+      "armor": "Modular composite armor with Malakhit ERA",
+      "active_protection": "Afghanit APS system",
+      "weight_tonnes": 55,
+      "ground_pressure_kpa": 103
+    }
+  },
+  "armament_json": [
+    {
+      "category": "Main Gun",
+      "name": "2A82-1M smoothbore cannon",
+      "type": "tank gun",
+      "quantity": "1x 125mm",
+      "range_km": 8,
+      "notes": "Can fire APFSDS, HEAT, HE-FRAG rounds and 9M119 Refleks ATGM"
+    },
+    {
+      "category": "Secondary Gun",
+      "name": "6P7K machine gun",
+      "type": "coaxial machine gun",
+      "quantity": "1x 7.62mm",
+      "range_km": 2,
+      "notes": "Remotely operated coaxial mount"
+    },
+    {
+      "category": "Anti-Aircraft",
+      "name": "Remote weapon station",
+      "type": "machine gun",
+      "quantity": "1x 12.7mm",
+      "range_km": 2,
+      "notes": "Commander's remote-controlled station"
+    },
+    {
+      "category": "Active Protection",
+      "name": "Afghanit APS",
+      "type": "active protection system",
+      "quantity": "Multiple launchers",
+      "range_km": 0.05,
+      "notes": "Hard-kill interceptors and soft-kill countermeasures"
+    }
+  ],
+  "variants_json": [
+    {
+      "name": "T-14 Object 148",
+      "designation_range": "Initial prototype series",
+      "years": "2010-2014",
+      "count": 20,
+      "key_changes": "Original development prototypes with various configuration tests",
+      "status": "retired"
+    },
+    {
+      "name": "T-14 Pre-production",
+      "designation_range": "First parade vehicles",
+      "years": "2015-2017",
+      "count": 20,
+      "key_changes": "Parade-ready vehicles with some systems mocked up or non-functional",
+      "status": "retired"
+    },
+    {
+      "name": "T-14 Initial Production",
+      "designation_range": "First operational batch",
+      "years": "2019-2022",
+      "count": 92,
+      "key_changes": "First combat-capable vehicles with full systems integration",
+      "status": "active"
+    }
+  ],
+  "fleet_status_json": [
+    {
+      "hull_number": "N/A",
+      "name": "Development prototypes",
+      "variant": "Object 148",
+      "commissioned": "2010-2014",
+      "home_port": "Kubinka Test Center",
+      "status": "retired"
+    },
+    {
+      "hull_number": "N/A",
+      "name": "Initial production batch",
+      "variant": "Production",
+      "commissioned": "2019",
+      "home_port": "3rd Guards Motor Rifle Division",
+      "status": "active"
+    }
+  ],
+  "cost_usd": 8000000.0,
+  "unit_count": 132,
+  "first_commissioned": "2015",
+  "builder": "Uralvagonzavod",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/9e/VDayRehearsal05052016-28.jpg",
+  "wiki_url": "https://en.wikipedia.org/wiki/T-14_Armata",
+  "sources_json": [
+    "https://en.wikipedia.org/wiki/T-14_Armata",
+    "https://www.janes.com/defence-news/news-detail/russia-resumes-t-14-armata-production",
+    "https://www.defensenews.com/land/2023/05/09/russias-t-14-armata-tank-breaks-down-before-victory-day-parade/",
+    "https://www.rferl.org/a/russia-armata-tank-problems/32406789.html"
+  ],
+  "comparison_tags": [
+    "tank",
+    "mbt",
+    "russian-armor",
+    "next-gen",
+    "active-protection",
+    "unmanned-turret"
+  ],
+  "created_at": "2026-04-11 10:09:11",
+  "updated_at": "2026-04-11T10:09:11.602932",
+  "news": [],
+  "events": [],
+  "ic_coverage": [],
+  "combat_history": [
+    {
+      "date": "2022-04",
+      "operation": "Special Military Operation Ukraine",
+      "event": "Unconfirmed reports of T-14 deployment near Ukrainian border for evaluation. No confirmed combat engagements documented.",
+      "significance": "Suggests Russia may have considered combat testing but likely held back due to capture/loss concerns"
+    },
+    {
+      "date": "2023-05",
+      "operation": "Red Square Victory Parade",
+      "event": "Single T-14 broke down during rehearsal, replaced by T-34 for actual parade",
+      "significance": "Public demonstration of ongoing reliability issues affecting even ceremonial operations"
+    }
+  ],
+  "modernization": [
+    {
+      "program": "T-14M Upgrade Program",
+      "status": "planned",
+      "timeline": "2024-2027",
+      "description": "Enhanced armor package, improved Afghanit APS, upgraded digital systems, and reliability improvements based on initial service experience",
+      "impact": "Intended to address early production reliability issues and enhance protection against latest Western ATGMs"
+    },
+    {
+      "program": "Serial Production Restart",
+      "status": "in-progress",
+      "timeline": "2023-2025",
+      "description": "Resumed limited production after 2-year halt, focusing on resolving manufacturing and quality control issues",
+      "impact": "Critical for achieving meaningful operational numbers and validating platform viability"
+    }
+  ],
+  "vulnerabilities": [
+    {
+      "area": "Production and Reliability",
+      "description": "Chronic manufacturing problems, component failures, and extremely limited production numbers. Only ~132 vehicles produced vs original 2,300 planned.",
+      "context": "Western sanctions have disrupted supply chains for advanced electronics and materials needed for production",
+      "mitigation": "Attempted shift to domestic components and simplified systems, but progress remains slow"
+    },
+    {
+      "area": "Unproven Combat Performance",
+      "description": "No confirmed combat experience despite ongoing conflict in Ukraine. Complex systems remain untested under battlefield conditions.",
+      "context": "Ukraine conflict has revealed significant shortcomings in Russian armor doctrine and crew training",
+      "mitigation": "Limited field testing and evaluation, but reluctance to risk high-value platforms in combat"
+    },
+    {
+      "area": "Logistical Complexity",
+      "description": "Advanced digital systems and unique design require specialized maintenance and training that Russian forces may lack at scale",
+      "context": "Russian military has struggled with maintaining less complex systems during current operations",
+      "mitigation": "Simplified maintenance protocols and enhanced crew training programs, effectiveness uncertain"
+    },
+    {
+      "area": "Cost and Sustainability",
+      "description": "Estimated $8M per unit cost is 4-5x higher than upgraded T-72/T-80 variants, making mass procurement unlikely",
+      "context": "Russia's defense budget is under pressure from sanctions and ongoing military operations",
+      "mitigation": "Focus on T-72/T-80 upgrades for bulk forces while T-14 remains limited to elite units"
+    }
+  ],
+  "operational_patterns": {
+    "typical_deployment": "Limited to evaluation units and elite formations; primarily used for testing and training",
+    "deployment_length_months": 0,
+    "key_operating_areas": [
+      "Moscow Military District",
+      "Western Military District training areas",
+      "Kubinka Test Center"
+    ],
+    "typical_task_group": "Small platoons or companies for evaluation, not integrated into standard tank battalions",
+    "readiness_notes": "Low operational readiness due to maintenance issues and spare parts shortages"
+  },
+  "peer_comparisons": [
+    {
+      "platform": "M1A2 SEPv4 Abrams",
+      "country": "United States",
+      "relationship": "direct rival",
+      "key_differences": "Abrams emphasizes proven reliability and extensive upgrade path, while T-14 features more radical design changes but unproven performance. Abrams has extensive combat history and established logistics.",
+      "video_angle": "Old school proven vs revolutionary untested - which approach wins?"
+    },
+    {
+      "platform": "Leopard 2A8",
+      "country": "Germany",
+      "relationship": "direct rival",
+      "key_differences": "Leopard 2A8 represents evolutionary improvement with modular armor and digital systems, while T-14 attempts revolutionary crew protection design. Both emphasize advanced fire control but Leopard has production maturity.",
+      "video_angle": "European precision engineering vs Russian innovation - contrasting military industrial approaches"
+    },
+    {
+      "platform": "Challenger 3",
+      "country": "United Kingdom",
+      "relationship": "contemporary development",
+      "key_differences": "Both feature advanced digital systems and crew protection, but Challenger 3 uses proven Challenger 2 hull while T-14 is clean-sheet design. Challenger 3 has realistic production timeline.",
+      "video_angle": "Upgrade vs clean-sheet design philosophies in modern MBT development"
+    },
+    {
+      "platform": "K2 Black Panther",
+      "country": "South Korea",
+      "relationship": "technological peer",
+      "key_differences": "Both incorporate advanced APS and digital systems, but K2 has achieved successful production and export sales while T-14 remains limited. K2 emphasizes mobility, T-14 emphasizes protection.",
+      "video_angle": "Asian military innovation vs Russian - who actually delivered on next-gen MBT promises?"
+    },
+    {
+      "platform": "Type 99A",
+      "country": "China",
+      "relationship": "allied comparison",
+      "key_differences": "Type 99A represents Chinese conventional approach with proven systems, while T-14 shows Russian appetite for radical innovation. Type 99A achieved larger production numbers but less advanced crew protection.",
+      "video_angle": "Two different paths for Russian and Chinese armor modernization"
+    }
+  ],
+  "search_keywords": [
+    "t-14",
+    "t14",
+    "armata",
+    "t-14 armata",
+    "russian tank",
+    "object 148",
+    "afghanit",
+    "uralvagonzavod",
+    "russian mbt",
+    "next generation tank"
+  ],
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/14T_Armata.jpg/1280px-14T_Armata.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/dd/14T_Armata.jpg",
+      "width": 7712,
+      "height": 4352,
+      "title": "14T Armata.jpg",
+      "description": "T-14 Armata",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/4mayrehearsal_05.jpg/1280px-4mayrehearsal_05.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/ca/4mayrehearsal_05.jpg",
+      "width": 2250,
+      "height": 1419,
+      "title": "4mayrehearsal 05.jpg",
+      "description": "Main battle tank T-14 object 148 Armata",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Main_battle_tank_T-14_-_0-01.jpg/1280px-Main_battle_tank_T-14_-_0-01.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Main_battle_tank_T-14_-_0-01.jpg",
+      "width": 5616,
+      "height": 3744,
+      "title": "Main battle tank T-14 - 0-01.jpg",
+      "description": "Main battle tank T-14 object 148 on heavy unified tracked platform Armata",
+      "license": "CC BY-SA 3.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Main_battle_tank_T-14_-_0-02.jpg/1280px-Main_battle_tank_T-14_-_0-02.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Main_battle_tank_T-14_-_0-02.jpg",
+      "width": 5616,
+      "height": 3744,
+      "title": "Main battle tank T-14 - 0-02.jpg",
+      "description": "Main battle tank T-14 object 148 on heavy unified tracked platform Armata",
+      "license": "CC BY-SA 3.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Main_battle_tank_T-14_-_0-03.jpg/1280px-Main_battle_tank_T-14_-_0-03.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Main_battle_tank_T-14_-_0-03.jpg",
+      "width": 5616,
+      "height": 3744,
+      "title": "Main battle tank T-14 - 0-03.jpg",
+      "description": "Main battle tank T-14 object 148 on heavy unified tracked platform Armata",
+      "license": "CC BY-SA 3.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/T-14_%22Armata%22_during_%22Armiya_2020%22_exhibition.jpg/1280px-T-14_%22Armata%22_during_%22Armiya_2020%22_exhibition.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/1e/T-14_%22Armata%22_during_%22Armiya_2020%22_exhibition.jpg",
+      "width": 4575,
+      "height": 2534,
+      "title": "T-14 \"Armata\" during \"Armiya 2020\" exhibition.jpg",
+      "description": "T-14 \u00abArmata\u00bb on \u00abArmiya-2020\u00bb exhibition.",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/T-14_prototype_from_above.JPG/1280px-T-14_prototype_from_above.JPG",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/1b/T-14_prototype_from_above.JPG",
+      "width": 1890,
+      "height": 1326,
+      "title": "T-14 prototype from above.JPG",
+      "description": "Prototype of russian main battle tank T-14 Armata, view from above, Victory parade Moscow 2015",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/T-14_prototype_from_above_%28cropped%29.JPG/1280px-T-14_prototype_from_above_%28cropped%29.JPG",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/a1/T-14_prototype_from_above_%28cropped%29.JPG",
+      "width": 1700,
+      "height": 1150,
+      "title": "T-14 prototype from above (cropped).JPG",
+      "description": "Prototyp of russian main battle tank T-14 Armata, view from above, Victory parade Moscow 2015",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Commander_Matthew_Fontaine_Maury_USN_painting.jpg/1280px-Commander_Matthew_Fontaine_Maury_USN_painting.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Commander_Matthew_Fontaine_Maury_USN_painting.jpg",
+      "width": 2198,
+      "height": 2918,
+      "title": "Commander Matthew Fontaine Maury USN painting.jpg",
+      "description": "A painting by Ella Sophonisba Hergesheimer.",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Matthew_Fontaine_Maury-book-lettering.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Matthew_Fontaine_Maury-book-lettering.jpg",
+      "width": 985,
+      "height": 130,
+      "title": "Matthew Fontaine Maury-book-lettering.jpg",
+      "description": "Lettering- an element of the front cover page",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Matthew_Fontaine_Maury.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Matthew_Fontaine_Maury.jpg",
+      "width": 242,
+      "height": 283,
+      "title": "Matthew Fontaine Maury.jpg",
+      "description": "Matthew Fontaine Maury, U.S. Naval Observatory Library Note: Image cleaned; perspective corrected.",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Matthew_Fontaine_Maury.png",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Matthew_Fontaine_Maury.png",
+      "width": 1062,
+      "height": 1502,
+      "title": "Matthew Fontaine Maury.png",
+      "description": "Matthew Fontaine Maury",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Matthew_Fontaine_Maury2.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Matthew_Fontaine_Maury2.jpg",
+      "width": 600,
+      "height": 680,
+      "title": "Matthew Fontaine Maury2.jpg",
+      "description": "Matthew Fontaine Maury (January 14, 1806 \u2013 February 1, 1873)",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/40/Matthew_Fontaine_Maury_-_p197wmm.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/40/Matthew_Fontaine_Maury_-_p197wmm.jpg",
+      "width": 1072,
+      "height": 1397,
+      "title": "Matthew Fontaine Maury - p197wmm.jpg",
+      "description": "image from book / caption shows Matthew Fontaine Maury /  Maury was internationally famous 1850s and is known as \"The Pathfinder of the Seas / More detailed information can be found here: <a class=\"ex",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Matthew_Fontaine_Maury_crop.jpg/1280px-Matthew_Fontaine_Maury_crop.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/20/Matthew_Fontaine_Maury_crop.jpg",
+      "width": 1790,
+      "height": 2608,
+      "title": "Matthew Fontaine Maury crop.jpg",
+      "description": "Commander Matthew Fontaine Maury, Confederate States Army",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/41/Matthew_Fontaine_Maury_wmm2.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/41/Matthew_Fontaine_Maury_wmm2.jpg",
+      "width": 653,
+      "height": 877,
+      "title": "Matthew Fontaine Maury wmm2.jpg",
+      "description": "This image was extracted from a volume of Southern Literature",
+      "license": "Public domain",
+      "source": "wikimedia"
+    }
+  ],
+  "doctrine": null,
+  "curated_sources": []
+}

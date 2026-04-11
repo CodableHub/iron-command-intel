@@ -1,0 +1,305 @@
+{
+  "combat_history": [
+    {
+      "date": "2014-09",
+      "operation": "Operation Chammal",
+      "event": "Aquitaine provided maritime security and intelligence gathering in support of coalition operations against ISIS, operating in the eastern Mediterranean and Red Sea approaches.",
+      "significance": "First operational deployment demonstrated the class's intelligence gathering and network-centric warfare capabilities"
+    },
+    {
+      "date": "2016-04",
+      "operation": "EU NAVFOR Atalanta",
+      "event": "Provence conducted counter-piracy operations off Somalia, intercepting several suspicious vessels and providing helicopter support for merchant vessel escorts.",
+      "significance": "Validated the class's expeditionary capabilities and helicopter operations in high-threat environments"
+    },
+    {
+      "date": "2018-04",
+      "operation": "Chammal Strike Operations",
+      "event": "Aquitaine launched SCALP Naval cruise missiles against Syrian chemical weapons facilities as part of coordinated strikes with US and UK forces.",
+      "significance": "First combat use of SCALP Naval from FREMM platform, demonstrating precision strike capability"
+    },
+    {
+      "date": "2020-06",
+      "operation": "NATO Sea Guardian",
+      "event": "Multiple Aquitaine-class vessels participated in NATO maritime security operations in the Mediterranean, providing surveillance and interdiction capabilities.",
+      "significance": "Demonstrated interoperability with NATO systems and sustained deployment capabilities"
+    }
+  ],
+  "modernization": [
+    {
+      "program": "FREMM Evolution Program",
+      "status": "in-progress",
+      "timeline": "2022-2028",
+      "description": "Comprehensive upgrade including enhanced electronic warfare systems, improved SETIS combat management system, and integration of new-generation sonars. Focus on cyber warfare resilience and network connectivity.",
+      "impact": "Significantly enhances multi-domain warfare capability and extends operational relevance through 2040"
+    },
+    {
+      "program": "SCALP Naval Integration",
+      "status": "completed",
+      "timeline": "2017-2020",
+      "description": "Integration of SCALP Naval cruise missiles into SYLVER VLS system, providing land-attack capability up to 1000km range with GPS/terrain-following guidance.",
+      "impact": "Transforms frigates into precision strike platforms capable of strategic targets"
+    },
+    {
+      "program": "Future Combat Air System (FCAS) Integration",
+      "status": "planned",
+      "timeline": "2030-2035",
+      "description": "Integration with European FCAS network for cooperative engagement and shared sensor data, including manned-unmanned teaming capabilities.",
+      "impact": "Will enable distributed lethality concepts and multi-platform targeting"
+    }
+  ],
+  "vulnerabilities": [
+    {
+      "area": "Limited VLS magazine depth",
+      "description": "Only 16 VLS cells compared to 32-48 on peer platforms limits sustained air defense capability and magazine depth for extended operations.",
+      "context": "In high-intensity conflict against peer adversaries, missile inventory would be rapidly depleted without frequent replenishment",
+      "mitigation": "Modular mission bay allows for additional missile storage, but requires manual reload capabilities"
+    },
+    {
+      "area": "Electronic warfare susceptibility",
+      "description": "Older-generation EW systems are vulnerable to modern jamming and cyber attacks, particularly in GPS-denied environments.",
+      "context": "Russian and Chinese EW capabilities could significantly degrade sensor and weapon effectiveness",
+      "mitigation": "FREMM Evolution program addresses some EW gaps, but fundamental architecture limitations remain"
+    },
+    {
+      "area": "Single-point failures in propulsion",
+      "description": "Reliance on single MT30 gas turbine creates vulnerability if main propulsion is damaged, with limited redundancy from diesel generators.",
+      "context": "Combat damage to main turbine could strand vessel or require lengthy repairs",
+      "mitigation": "Diesel generators provide emergency propulsion but at significantly reduced speed and maneuverability"
+    },
+    {
+      "area": "Limited crew redundancy",
+      "description": "Minimal manning of 108 personnel creates challenges for damage control and sustained operations under combat conditions.",
+      "context": "Modern naval combat requires extensive damage control teams and watch rotation for extended operations",
+      "mitigation": "Automation systems compensate partially, but fundamental manning limitations constrain operational tempo"
+    }
+  ],
+  "operational_patterns": {
+    "typical_deployment": "Independent patrol, carrier task force escort, or NATO task group integration",
+    "deployment_length_months": 4,
+    "key_operating_areas": [
+      "Mediterranean Sea",
+      "Indian Ocean",
+      "West Africa",
+      "French Overseas Territories"
+    ],
+    "typical_task_group": "Often operates independently or with 1-2 support vessels, occasionally integrated with carrier groups",
+    "readiness_notes": "High operational tempo has strained maintenance schedules; typically 2-3 vessels available for immediate deployment"
+  },
+  "peer_comparisons": [
+    {
+      "platform": "Type 26 City-class frigate",
+      "country": "United Kingdom",
+      "relationship": "direct rival",
+      "key_differences": "Type 26 prioritizes ASW with quieter design and larger sonar suite, but Aquitaine offers better balanced multi-mission capability with land-attack missiles. Type 26 has larger crew but higher operating costs.",
+      "video_angle": "ASW specialist vs. multi-mission generalist - different approaches to modern frigate design"
+    },
+    {
+      "platform": "Constellation-class frigate (FFG-62)",
+      "country": "United States",
+      "relationship": "allied equivalent",
+      "key_differences": "FFG-62 based on FREMM design but with Aegis systems and larger VLS magazine (32 cells). US version sacrifices some ASW capability for enhanced air defense and network integration with US Navy systems.",
+      "video_angle": "How America adapted European frigate design for Pacific operations and Aegis integration"
+    },
+    {
+      "platform": "Bergamini-class frigate",
+      "country": "Italy",
+      "relationship": "allied equivalent",
+      "key_differences": "Essentially same FREMM hull with Italian systems integration. Italian version emphasizes general purpose mission flexibility over specialized ASW capability, with different radar and combat management systems.",
+      "video_angle": "Tale of two FREMMs - how France and Italy customized the same design for different naval doctrines"
+    },
+    {
+      "platform": "Type 054A frigate",
+      "country": "China",
+      "relationship": "direct rival",
+      "key_differences": "Type 054A has larger VLS magazine (32 cells) and longer range but lacks the ASW sophistication and stealth features. Chinese design prioritizes quantity production over individual platform capability.",
+      "video_angle": "Quality vs. quantity - sophisticated European frigate design versus mass-produced Chinese equivalent"
+    },
+    {
+      "platform": "Admiral Gorshkov-class frigate",
+      "country": "Russia",
+      "relationship": "direct rival",
+      "key_differences": "Gorshkov class carries larger anti-ship missiles (Kalibr/Oniks) and more VLS cells but has questionable reliability and limited production numbers. Russian design emphasizes firepower over sensors and sustainability.",
+      "video_angle": "Western finesse versus Russian firepower - contrasting approaches to modern surface warfare"
+    }
+  ],
+  "search_keywords": [
+    "aquitaine class",
+    "aquitaine-class",
+    "FREMM",
+    "french frigate",
+    "D650",
+    "D651",
+    "D652",
+    "D653",
+    "D654",
+    "D655",
+    "D656",
+    "D657",
+    "SCALP naval",
+    "SYLVER",
+    "anti-submarine warfare"
+  ],
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/U_S_Navy_Sailors_visit_the_Fremm_Normandie_%28D651%29_%289195388%29.jpg/1280px-U_S_Navy_Sailors_visit_the_Fremm_Normandie_%28D651%29_%289195388%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/6b/U_S_Navy_Sailors_visit_the_Fremm_Normandie_%28D651%29_%289195388%29.jpg",
+      "width": 5139,
+      "height": 3426,
+      "title": "U S Navy Sailors visit the Fremm Normandie (D651) (9195388).jpg",
+      "description": "REYKJAV\u00cdK, Iceland (July 4, 2025) - Cmdr. Eric Bowen, commanding officer, Patrol Squadron (VP) 46, salutes the colors while on the brow of the Fremm Normandie (D651), an Aquitaine-class frigate, durin",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/U_S_Navy_Sailors_visit_the_Fremm_Normandie_%28D651%29_%289195395%29.jpg/1280px-U_S_Navy_Sailors_visit_the_Fremm_Normandie_%28D651%29_%289195395%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/6a/U_S_Navy_Sailors_visit_the_Fremm_Normandie_%28D651%29_%289195395%29.jpg",
+      "width": 4704,
+      "height": 3136,
+      "title": "U S Navy Sailors visit the Fremm Normandie (D651) (9195395).jpg",
+      "description": "REYKJAV\u00cdK, Iceland (July 4, 2025) - French Marine Nationale sailors assigned to the Fremm Normandie (D651), an Aquitaine-class frigate, greet U.S. Navy Sailors assigned to the \u2018Grey Knights\u2019 of Patrol",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/U_S_Navy_Sailors_visit_the_Fremm_Normandie_%28D651%29_%289195410%29.jpg/1280px-U_S_Navy_Sailors_visit_the_Fremm_Normandie_%28D651%29_%289195410%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/U_S_Navy_Sailors_visit_the_Fremm_Normandie_%28D651%29_%289195410%29.jpg",
+      "width": 4516,
+      "height": 3011,
+      "title": "U S Navy Sailors visit the Fremm Normandie (D651) (9195410).jpg",
+      "description": "REYKJAV\u00cdK, Iceland (July 4, 2025) - French Marine Nationale sailors assigned to the Fremm Normandie (D651), an Aquitaine-class frigate, answer questions about ship capabilities to U.S. Navy Sailors as",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/U_S_Navy_Sailors_visit_the_Fremm_Normandie_%28D651%29_%289195417%29.jpg/1280px-U_S_Navy_Sailors_visit_the_Fremm_Normandie_%28D651%29_%289195417%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/40/U_S_Navy_Sailors_visit_the_Fremm_Normandie_%28D651%29_%289195417%29.jpg",
+      "width": 4766,
+      "height": 3177,
+      "title": "U S Navy Sailors visit the Fremm Normandie (D651) (9195417).jpg",
+      "description": "REYKJAV\u00cdK, Iceland (July 4, 2025) - Naval Aircrewman Operator 1st Class Jordan Smith, assigned to the \u2018Grey Knights\u2019 of Patrol Squadron (VP) 46, right, peers through the bearing repeater compass as Na",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/U_S_Navy_Sailors_visit_the_Fremm_Normandie_%28D651%29_%289195418%29.jpg/1280px-U_S_Navy_Sailors_visit_the_Fremm_Normandie_%28D651%29_%289195418%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/87/U_S_Navy_Sailors_visit_the_Fremm_Normandie_%28D651%29_%289195418%29.jpg",
+      "width": 5184,
+      "height": 3456,
+      "title": "U S Navy Sailors visit the Fremm Normandie (D651) (9195418).jpg",
+      "description": "REYKJAV\u00cdK, Iceland (July 4, 2025) - French Marine Nationale Lt. Cmdr. Alain-Marie Tertrais, assigned to the Fremm Normandie (D651), an Aquitaine-class frigate, explains NH-60 Caiman helicopter capabil",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/U_S_Navy_Sailors_visit_the_Fremm_Normandie_%28D651%29_%289195419%29.jpg/1280px-U_S_Navy_Sailors_visit_the_Fremm_Normandie_%28D651%29_%289195419%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/21/U_S_Navy_Sailors_visit_the_Fremm_Normandie_%28D651%29_%289195419%29.jpg",
+      "width": 5184,
+      "height": 3456,
+      "title": "U S Navy Sailors visit the Fremm Normandie (D651) (9195419).jpg",
+      "description": "REYKJAV\u00cdK, Iceland (July 4, 2025) - A French NH-60 Caiman helicopter, attached to the Fremm Normandie (D651), an Aquitaine-class frigate, in the hangar during a ship tour in Reykjav\u00edk, Iceland, July 4",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/U_S_Navy_Sailors_visit_the_Fremm_Normandie_%28D651%29_%289195420%29.jpg/1280px-U_S_Navy_Sailors_visit_the_Fremm_Normandie_%28D651%29_%289195420%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/c1/U_S_Navy_Sailors_visit_the_Fremm_Normandie_%28D651%29_%289195420%29.jpg",
+      "width": 4832,
+      "height": 3221,
+      "title": "U S Navy Sailors visit the Fremm Normandie (D651) (9195420).jpg",
+      "description": "REYKJAV\u00cdK, Iceland (July 4, 2025) - U.S. Navy Sailors assigned to the \u2018Grey Knights\u2019 of Patrol Squadron (VP) 46 look at a French NH-60 Caiman helicopter, attached to the Fremm Normandie (D651), an Aqu",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/U_S_Navy_Sailors_visit_the_Fremm_Normandie_%28D651%29_%289195433%29.jpg/1280px-U_S_Navy_Sailors_visit_the_Fremm_Normandie_%28D651%29_%289195433%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/e5/U_S_Navy_Sailors_visit_the_Fremm_Normandie_%28D651%29_%289195433%29.jpg",
+      "width": 5028,
+      "height": 3351,
+      "title": "U S Navy Sailors visit the Fremm Normandie (D651) (9195433).jpg",
+      "description": "REYKJAV\u00cdK, Iceland (July 4, 2025) - French Marine Nationale Lt. Cmdr. Alain-Marie Tertrais, assigned to the Fremm Normandie (D651), an Aquitaine-class frigate, center left, and U.S. Navy sailors assig",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/230515-F-AV821-002_-_USS_Oscar_Austin_%28DDG_79%29_and_NATO_allies_perform_a_Photo_Exercise_during_Formidable_Shield_2023.jpg/1280px-230515-F-AV821-002_-_USS_Oscar_Austin_%28DDG_79%29_and_NATO_allies_perform_a_Photo_Exercise_during_Formidable_Shield_2023.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/41/230515-F-AV821-002_-_USS_Oscar_Austin_%28DDG_79%29_and_NATO_allies_perform_a_Photo_Exercise_during_Formidable_Shield_2023.jpg",
+      "width": 5649,
+      "height": 4035,
+      "title": "230515-F-AV821-002 - USS Oscar Austin (DDG 79) and NATO allies perform a Photo Exercise during Formidable Shield 2023.jpg",
+      "description": "The Arleigh Burke-class guided-missile destroyer USS Oscar Austin (DDG 79) steams in formation alongside NATO Allies in support of exercise Formidable Shield 2023 while operating in the North Atlantic",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/230515-F-AV821-003_-_USS_Oscar_Austin_%28DDG_79%29_and_NATO_allies_perform_a_Photo_Exercise_during_Formidable_Shield_2023.jpg/1280px-230515-F-AV821-003_-_USS_Oscar_Austin_%28DDG_79%29_and_NATO_allies_perform_a_Photo_Exercise_during_Formidable_Shield_2023.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/71/230515-F-AV821-003_-_USS_Oscar_Austin_%28DDG_79%29_and_NATO_allies_perform_a_Photo_Exercise_during_Formidable_Shield_2023.jpg",
+      "width": 6433,
+      "height": 4595,
+      "title": "230515-F-AV821-003 - USS Oscar Austin (DDG 79) and NATO allies perform a Photo Exercise during Formidable Shield 2023.jpg",
+      "description": "The Arleigh Burke-class guided-missile destroyer USS Oscar Austin (DDG 79) steams in formation alongside NATO Allies in support of exercise Formidable Shield 2023 while operating in the North Atlantic",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Aquitaine_I-class_frigate_FS_Languedoc_%28D653%29_-a.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Aquitaine_I-class_frigate_FS_Languedoc_%28D653%29_-a.jpg",
+      "width": 469,
+      "height": 151,
+      "title": "Aquitaine I-class frigate FS Languedoc (D653) -a.jpg",
+      "description": "Arleigh Burke-class guided-missile destroyer USS Ramage (DDG-61) and French navy Aquitaine I-class frigate FS Languedoc (D653) steam in formation during a photo exercise conducted for Neptune Strike, ",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Brest_2024_-_Fr%C3%A9gate_Aquitaine_01.jpg/1280px-Brest_2024_-_Fr%C3%A9gate_Aquitaine_01.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Brest_2024_-_Fr%C3%A9gate_Aquitaine_01.jpg",
+      "width": 4608,
+      "height": 3456,
+      "title": "Brest 2024 - Fr\u00e9gate Aquitaine 01.jpg",
+      "description": "La fr\u00e9gate Aquitaine \u00e0 quai.",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/FREMM_Aquitaine_1.jpg/1280px-FREMM_Aquitaine_1.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/03/FREMM_Aquitaine_1.jpg",
+      "width": 4952,
+      "height": 2104,
+      "title": "FREMM Aquitaine 1.jpg",
+      "description": "La fregata francese Aquitaine",
+      "license": "CC BY 2.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Fr%C3%A9gate_Aquitaine_1.jpg/1280px-Fr%C3%A9gate_Aquitaine_1.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/04/Fr%C3%A9gate_Aquitaine_1.jpg",
+      "width": 3264,
+      "height": 2448,
+      "title": "Fr\u00e9gate Aquitaine 1.jpg",
+      "description": "Fr\u00e9gate Aquitaine \u00e0 quai \u00e0 Bordeaux",
+      "license": "CC BY-SA 3.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Fr%C3%A9gate_Aquitaine_2.jpg/1280px-Fr%C3%A9gate_Aquitaine_2.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Fr%C3%A9gate_Aquitaine_2.jpg",
+      "width": 3264,
+      "height": 2448,
+      "title": "Fr\u00e9gate Aquitaine 2.jpg",
+      "description": "Fr\u00e9gate Aquitaine \u00e0 quai \u00e0 Bordeaux",
+      "license": "CC BY-SA 3.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/USS_Ramage_%28DDG-61%29_and_French_navy_Aquitaine_I-class_frigate_FS_Languedoc_%28D653%29_steam_in_formation_-a.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/USS_Ramage_%28DDG-61%29_and_French_navy_Aquitaine_I-class_frigate_FS_Languedoc_%28D653%29_steam_in_formation_-a.jpg",
+      "width": 945,
+      "height": 630,
+      "title": "USS Ramage (DDG-61) and French navy Aquitaine I-class frigate FS Languedoc (D653) steam in formation -a.jpg",
+      "description": "Arleigh Burke-class guided-missile destroyer USS Ramage (DDG-61) and French navy Aquitaine I-class frigate FS Languedoc (D653) steam in formation during a photo exercise conducted for Neptune Strike, ",
+      "license": "Public domain",
+      "source": "wikimedia"
+    }
+  ]
+}

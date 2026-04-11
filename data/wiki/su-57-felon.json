@@ -1,0 +1,433 @@
+{
+  "id": 80,
+  "slug": "su-57-felon",
+  "name": "Sukhoi Su-57 Felon",
+  "designation": "Su-57",
+  "type": "fighter",
+  "country": "Russia",
+  "operator": "Russian Aerospace Forces",
+  "overview_md": "The Sukhoi Su-57 Felon represents Russia's entry into fifth-generation fighter aircraft, designed to counter American F-22 Raptor and F-35 Lightning II capabilities. Developed from the PAK FA (T-50) program that began in the early 2000s, the Su-57 emphasizes air superiority with multi-role capabilities, featuring stealth technology, supercruise, advanced avionics, and supermaneuverability through thrust vectoring.\n\nStrategically, the Su-57 aims to maintain Russian air power relevance in an era dominated by Western stealth fighters, though its development has been plagued by delays, technical challenges, and budget constraints. The aircraft represents a significant technological leap for Russian aerospace, incorporating low-observable design principles while maintaining traditional Russian emphasis on kinematic performance and heavy weapons loads.\n\nIn the current threat environment, the Su-57's limited production numbers (approximately 22 aircraft as of 2024) significantly constrain its strategic impact. While individual aircraft may pose credible threats to fourth-generation fighters, the platform lacks the maturity and numbers to fundamentally alter regional air power balances. Its stealth characteristics are considered inferior to American counterparts, with Western assessments suggesting reduced low-observable performance.\n\nCompared to peers like the F-22 and F-35, the Su-57 offers competitive kinematics and weapons capacity but appears to lag in stealth technology, sensor fusion, and overall systems integration. The aircraft's operational debut in limited Syrian deployments and current employment in Ukraine operations provides real-world performance data, though details remain classified. Its significance lies more in demonstrating Russian technological ambition than in fielding a mature, game-changing capability at scale.",
+  "specs_json": {
+    "displacement_tonnes": 0,
+    "length_m": 19.8,
+    "beam_m": 13.95,
+    "draft_m": 0,
+    "speed_knots": 0,
+    "range_nm": 1944,
+    "crew": 1,
+    "propulsion": "2x Saturn AL-41F1 afterburning turbofans with 3D thrust vectoring",
+    "radar": "N036 Byelka AESA radar system",
+    "sonar": null,
+    "combat_system": "Integrated avionics complex with distributed processing",
+    "vls_cells": 0,
+    "additional": {
+      "max_speed_mach": 2.0,
+      "supercruise_mach": 1.3,
+      "service_ceiling_m": 20000,
+      "max_g_load": 9.0,
+      "thrust_to_weight": 1.02,
+      "radar_cross_section_m2": 0.1,
+      "internal_weapon_bays": 2,
+      "external_hardpoints": 6,
+      "max_weapon_load_kg": 10000
+    }
+  },
+  "armament_json": [
+    {
+      "category": "Air-to-Air Missiles",
+      "name": "R-77M/R-37M",
+      "type": "medium/long-range AAM",
+      "quantity": "4-6 internal + external",
+      "range_km": 200,
+      "notes": "Primary BVR engagement capability"
+    },
+    {
+      "category": "Air-to-Air Missiles",
+      "name": "R-74M",
+      "type": "short-range infrared AAM",
+      "quantity": "2 internal",
+      "range_km": 40,
+      "notes": "Close-range dogfighting missile"
+    },
+    {
+      "category": "Air-to-Surface Missiles",
+      "name": "Kh-59MK2",
+      "type": "cruise missile",
+      "quantity": "2 internal",
+      "range_km": 290,
+      "notes": "Precision strike capability"
+    },
+    {
+      "category": "Bombs",
+      "name": "KAB-250/500",
+      "type": "guided bombs",
+      "quantity": "4-8 internal/external",
+      "range_km": 0,
+      "notes": "GLONASS/TV guided munitions"
+    },
+    {
+      "category": "Gun",
+      "name": "GSh-30-1",
+      "type": "30mm autocannon",
+      "quantity": "1x 150 rounds",
+      "range_km": 2,
+      "notes": "Internal cannon installation"
+    }
+  ],
+  "variants_json": [
+    {
+      "name": "T-50 Prototype",
+      "designation_range": "T-50-1 to T-50-11",
+      "years": "2010-2017",
+      "count": 11,
+      "key_changes": "Initial flight testing prototypes with AL-41F1 engines, basic avionics",
+      "status": "retired"
+    },
+    {
+      "name": "Su-57 Initial Production",
+      "designation_range": "509-512 series",
+      "years": "2020-2024",
+      "count": 22,
+      "key_changes": "Production standard with N036 radar, updated avionics, combat capable",
+      "status": "active"
+    },
+    {
+      "name": "Su-57M Planned",
+      "designation_range": "TBD",
+      "years": "2025-2030",
+      "count": 0,
+      "key_changes": "Improved engines (Izdeliye 30), enhanced stealth, updated sensors",
+      "status": "planned"
+    }
+  ],
+  "fleet_status_json": [
+    {
+      "hull_number": "RF-50701",
+      "name": "Blue 01",
+      "variant": "Initial Production",
+      "commissioned": "2020-12-25",
+      "home_port": "Akhtubinsk Test Center",
+      "status": "active"
+    },
+    {
+      "hull_number": "RF-50702",
+      "name": "Blue 02",
+      "variant": "Initial Production",
+      "commissioned": "2021-01-15",
+      "home_port": "Komsomolsk-on-Amur",
+      "status": "active"
+    },
+    {
+      "hull_number": "509-511",
+      "name": "Production batch 1",
+      "variant": "Initial Production",
+      "commissioned": "2022-2024",
+      "home_port": "Various test/combat units",
+      "status": "active"
+    }
+  ],
+  "cost_usd": 42000000.0,
+  "unit_count": 22,
+  "first_commissioned": "2020-12-25",
+  "builder": "Sukhoi/United Aircraft Corporation",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Sukhoi_Design_Bureau%2C_054%2C_Sukhoi_T-50_%28Su-57_prototype%29_%2849581303977%29.jpg",
+  "wiki_url": "https://en.wikipedia.org/wiki/Sukhoi_Su-57",
+  "sources_json": [
+    "https://en.wikipedia.org/wiki/Sukhoi_Su-57",
+    "https://www.janes.com/defence-news/air-platforms",
+    "https://www.flightglobal.com/",
+    "https://theaviationist.com/",
+    "https://russianplanes.net/"
+  ],
+  "comparison_tags": [
+    "stealth-fighter",
+    "air-superiority",
+    "fifth-generation",
+    "russian-aerospace",
+    "multirole"
+  ],
+  "created_at": "2026-04-11 10:07:43",
+  "updated_at": "2026-04-11T10:07:43.370879",
+  "news": [],
+  "events": [],
+  "ic_coverage": [],
+  "combat_history": [
+    {
+      "date": "2018-02",
+      "operation": "Syrian deployment",
+      "event": "Two Su-57s deployed to Khmeimim Air Base for combat evaluation, conducted limited combat sorties against ground targets",
+      "significance": "First operational deployment demonstrated Russia's confidence in basic systems while revealing ongoing development needs"
+    },
+    {
+      "date": "2022-04",
+      "operation": "Ukraine Special Operation",
+      "event": "Su-57s reportedly used for long-range missile strikes from Russian airspace, launching R-37M missiles at Ukrainian aircraft",
+      "significance": "First sustained combat employment, though limited by aircraft numbers and risk management"
+    },
+    {
+      "date": "2023-06",
+      "operation": "Ukrainian air defense engagement",
+      "event": "Ukrainian S-300 system reportedly engaged Su-57, aircraft survived but highlighted vulnerability to modern SAMs",
+      "significance": "Revealed stealth limitations and operational constraints in contested airspace"
+    }
+  ],
+  "modernization": [
+    {
+      "program": "Izdeliye 30 Engine Integration",
+      "status": "in-progress",
+      "timeline": "2024-2027",
+      "description": "Installation of new-generation engines providing improved thrust, fuel efficiency, and stealth characteristics",
+      "impact": "Enhanced supercruise performance and reduced infrared signature"
+    },
+    {
+      "program": "Advanced Avionics Suite",
+      "status": "planned",
+      "timeline": "2025-2028",
+      "description": "Upgraded sensor fusion, AI-assisted targeting, and improved electronic warfare capabilities",
+      "impact": "Better situational awareness and multi-target engagement"
+    },
+    {
+      "program": "Stealth Enhancement Package",
+      "status": "planned",
+      "timeline": "2026-2030",
+      "description": "Improved radar-absorbent materials and structural modifications to reduce radar cross-section",
+      "impact": "Enhanced survivability against modern air defense systems"
+    }
+  ],
+  "vulnerabilities": [
+    {
+      "area": "Limited stealth performance",
+      "description": "Radar cross-section significantly larger than F-22/F-35, particularly from side/rear aspects. Engine nozzles and wing design compromise low-observable characteristics",
+      "context": "In high-threat environments with modern AESA radars and networked air defenses, detection probability remains significant",
+      "mitigation": "Operational tactics emphasize standoff weapons employment and limited penetration missions"
+    },
+    {
+      "area": "Production and sustainment challenges",
+      "description": "Extremely limited production numbers and complex manufacturing requirements strain operational readiness. Parts shortages and international sanctions complicate logistics",
+      "context": "Cannot achieve meaningful operational impact with current fleet size. Maintenance infrastructure remains immature",
+      "mitigation": "Concentrated deployment and selective mission employment to maximize available aircraft"
+    },
+    {
+      "area": "Sensor integration immaturity",
+      "description": "N036 radar and avionics package lack the development maturity of Western counterparts. Sensor fusion capabilities appear limited compared to F-35",
+      "context": "Reduced situational awareness in complex multi-threat environments limits tactical effectiveness",
+      "mitigation": "Ongoing software development and potential foreign technology integration"
+    }
+  ],
+  "operational_patterns": {
+    "typical_deployment": "Limited operational deployment with emphasis on air defense and long-range interdiction from Russian airspace",
+    "deployment_length_months": 3,
+    "key_operating_areas": [
+      "Western Russia",
+      "Kaliningrad",
+      "Syrian deployment"
+    ],
+    "typical_task_group": "Operates individually or in pairs with conventional fighter escort",
+    "readiness_notes": "Low mission-capable rates due to complex systems and limited spare parts availability"
+  },
+  "peer_comparisons": [
+    {
+      "platform": "F-22 Raptor",
+      "country": "United States",
+      "relationship": "direct rival",
+      "key_differences": "F-22 offers superior stealth and sensor integration but Su-57 provides better weapons capacity and potentially superior kinematic performance. F-22 production ended while Su-57 remains in development.",
+      "video_angle": "Cold War rivalry continues - stealth vs maneuverability philosophy comparison"
+    },
+    {
+      "platform": "F-35 Lightning II",
+      "country": "United States",
+      "relationship": "direct rival",
+      "key_differences": "F-35 emphasizes sensor fusion and network integration with massive production numbers, while Su-57 focuses on air superiority performance with limited numbers. Cost and availability vastly favor F-35.",
+      "video_angle": "Quantity vs quality debate - mature Western production vs ambitious Russian development"
+    },
+    {
+      "platform": "J-20 Mighty Dragon",
+      "country": "China",
+      "relationship": "peer competitor",
+      "key_differences": "Both represent non-Western 5th generation approaches, but J-20 has achieved larger production numbers and different design priorities emphasizing long-range interception over dogfighting.",
+      "video_angle": "Eastern stealth fighter development paths - Russian vs Chinese approaches to challenging Western air dominance"
+    },
+    {
+      "platform": "Eurofighter Typhoon",
+      "country": "European Consortium",
+      "relationship": "generational competitor",
+      "key_differences": "Typhoon represents mature 4.5 generation design with excellent air-to-air performance but lacks stealth. Su-57 trades proven reliability for stealth capability and advanced features.",
+      "video_angle": "4.5 gen proven capability vs 5th gen promised performance"
+    }
+  ],
+  "search_keywords": [
+    "su-57",
+    "felon",
+    "pak fa",
+    "t-50",
+    "sukhoi",
+    "russian stealth fighter",
+    "fifth generation fighter",
+    "su57",
+    "su 57"
+  ],
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Six_Su-57_fifth-generation_fighters_escort_Putin%27s_airliner_to_airport.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Six_Su-57_fifth-generation_fighters_escort_Putin%27s_airliner_to_airport.jpg",
+      "width": 940,
+      "height": 580,
+      "title": "Six Su-57 fifth-generation fighters escort Putin's airliner to airport.jpg",
+      "description": "Seis aviones de combate Su-57 de quinta generaci\u00f3n escoltan al avi\u00f3n presidencial de Rusia al aeropuerto.",
+      "license": "CC BY 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Su-57E_tail_at_Dubai_Airshow_2025.jpg/1280px-Su-57E_tail_at_Dubai_Airshow_2025.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Su-57E_tail_at_Dubai_Airshow_2025.jpg",
+      "width": 1600,
+      "height": 1200,
+      "title": "Su-57E tail at Dubai Airshow 2025.jpg",
+      "description": "Su-57E tail at Dubai Airshow 2025",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/38/Su57_take_off.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/38/Su57_take_off.jpg",
+      "width": 1200,
+      "height": 800,
+      "title": "Su57 take off.jpg",
+      "description": "\u0421\u0443-57",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Sukhoi_Design_Bureau%2C_054%2C_Sukhoi_T-50_%28Su-57_prototype%29_%2849581303977%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Sukhoi_Design_Bureau%2C_054%2C_Sukhoi_T-50_%28Su-57_prototype%29_%2849581303977%29.jpg",
+      "width": 1200,
+      "height": 800,
+      "title": "Sukhoi Design Bureau, 054, Sukhoi T-50 (Su-57 prototype) (49581303977).jpg",
+      "description": "Sukhoi Design Bureau, 054, Sukhoi T-50",
+      "license": "CC BY-SA 2.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Sukhoi_Su-57_RF-81775_Army-2022.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Sukhoi_Su-57_RF-81775_Army-2022.jpg",
+      "width": 1200,
+      "height": 800,
+      "title": "Sukhoi Su-57 RF-81775 Army-2022.jpg",
+      "description": "Russian Air Force Sukhoi Su-57, registration RF-81775, red 52, on static display at ARMY-2022. Kubinka Air base, Moscow region, Russia",
+      "license": "CC BY-SA 3.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Sukhoi_Su-57_bn058_Kubinka_2020.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Sukhoi_Su-57_bn058_Kubinka_2020.jpg",
+      "width": 1200,
+      "height": 800,
+      "title": "Sukhoi Su-57 bn058 Kubinka 2020.jpg",
+      "description": "Sukhoi Su-57 solo display performing at Military-Technical Forum \"Army-2020\"",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/87/Sukhoi_T-50.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/87/Sukhoi_T-50.jpg",
+      "width": 550,
+      "height": 390,
+      "title": "Sukhoi T-50.jpg",
+      "description": "Sukhoi T-50",
+      "license": "CC BY 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Vladimir_Putin_in_MAKS_Airshow_2021_23.jpg/1280px-Vladimir_Putin_in_MAKS_Airshow_2021_23.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/94/Vladimir_Putin_in_MAKS_Airshow_2021_23.jpg",
+      "width": 1880,
+      "height": 1160,
+      "title": "Vladimir Putin in MAKS Airshow 2021 23.jpg",
+      "description": "\u0414\u0435\u043c\u043e\u043d\u0441\u0442\u0440\u0430\u0446\u0438\u043e\u043d\u043d\u0430\u044f \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0430 \u041c\u0435\u0436\u0434\u0443\u043d\u0430\u0440\u043e\u0434\u043d\u043e\u0433\u043e \u0430\u0432\u0438\u0430\u0446\u0438\u043e\u043d\u043d\u043e-\u043a\u043e\u0441\u043c\u0438\u0447\u0435\u0441\u043a\u043e\u0433\u043e \u0441\u0430\u043b\u043e\u043d\u0430 \u041c\u0410\u041a\u0421-2021.",
+      "license": "CC BY 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Admiral_Charles_R._Larson%2C_Commander_in_CHIEF%2C_US_Pacific_Fleet%2C_looks_into_the_cockpit_of_a_Soviet_Su-17_Fitter_aircraft_during_a_visit_to_an_air_base._Larson_is_in_the_Soviet_Unio_-_DPLA_-_1defa326f4fe1f5a85e529ae00683ae3.jpeg/1280px-thumbnail.jpeg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/85/Admiral_Charles_R._Larson%2C_Commander_in_CHIEF%2C_US_Pacific_Fleet%2C_looks_into_the_cockpit_of_a_Soviet_Su-17_Fitter_aircraft_during_a_visit_to_an_air_base._Larson_is_in_the_Soviet_Unio_-_DPLA_-_1defa326f4fe1f5a85e529ae00683ae3.jpeg",
+      "width": 2790,
+      "height": 1860,
+      "title": "Admiral Charles R. Larson, Commander in CHIEF, US Pacific Fleet, looks into the cockpit of a Soviet Su-17 Fitter aircraft during a visit to an air base. Larson is in the Soviet Unio - DPLA - 1defa326f4fe1f5a85e529ae00683ae3.jpeg",
+      "description": "<div class=\"description\">\nThe original finding aid described this photograph as: Base: Vladivostok State: Siberia Country: U.S.S.R. (SUN) Scene Camera Operator: PHCS Terry Mitchell Release Status: Rel",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Flickr_-_Official_U.S._Navy_Imagery_-_Two_U.S._F-A-18s_fly_with_two_Malaysian_Su-30s..jpg/1280px-Flickr_-_Official_U.S._Navy_Imagery_-_Two_U.S._F-A-18s_fly_with_two_Malaysian_Su-30s..jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Flickr_-_Official_U.S._Navy_Imagery_-_Two_U.S._F-A-18s_fly_with_two_Malaysian_Su-30s..jpg",
+      "width": 4928,
+      "height": 3264,
+      "title": "Flickr - Official U.S. Navy Imagery - Two U.S. F-A-18s fly with two Malaysian Su-30s..jpg",
+      "description": "<p>SOUTH CHINA SEA (Oct. 15, 2012) Two F/A-18Es from the Royal Maces of Strike Fighter Squadron (VFA) 27 fly in formation with two Sukhoi Su-30s from the Royal Malaysian air force over the aircraft ca",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/One_of_the_Mark_7_16-inch-50-caliber_guns_in_turret_No._3_aboard_the_battleship_USS_WISCONSIN_%28BB-64%29_is_fired_during_a_gunnery_exercise._The_WISCONSIN_is_deployed_in_the_gulf_in_su_-_DPLA_-_ef852d249207912c9f49875272ee3f29.jpeg/1280px-thumbnail.jpeg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/97/One_of_the_Mark_7_16-inch-50-caliber_guns_in_turret_No._3_aboard_the_battleship_USS_WISCONSIN_%28BB-64%29_is_fired_during_a_gunnery_exercise._The_WISCONSIN_is_deployed_in_the_gulf_in_su_-_DPLA_-_ef852d249207912c9f49875272ee3f29.jpeg",
+      "width": 1870,
+      "height": 2810,
+      "title": "One of the Mark 7 16-inch-50-caliber guns in turret No. 3 aboard the battleship USS WISCONSIN (BB-64) is fired during a gunnery exercise. The WISCONSIN is deployed in the gulf in su - DPLA - ef852d249207912c9f49875272ee3f29.jpeg",
+      "description": "<div class=\"description\">\nThe original finding aid described this photograph as: Subject Operation/Series: DESERT SHIELD Country: Persian Gulf Scene Camera Operator: PH2 J. Carnes Release Status: Rele",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/PH1%28AC%29_Chuck_Dutkiewicz_....A_Light_Helicopter_Anti-submarine_Squadron_43_%28HSL-43%29_SH-60B_Sea_Hawk_helicopter_releases_a_sonobuoy_from_its_dispenser_while_taking_part_in_an_anti-su_-_DPLA_-_5ad37d8d881bb985fd931de583a047eb.jpeg/1280px-thumbnail.jpeg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/1b/PH1%28AC%29_Chuck_Dutkiewicz_....A_Light_Helicopter_Anti-submarine_Squadron_43_%28HSL-43%29_SH-60B_Sea_Hawk_helicopter_releases_a_sonobuoy_from_its_dispenser_while_taking_part_in_an_anti-su_-_DPLA_-_5ad37d8d881bb985fd931de583a047eb.jpeg",
+      "width": 2770,
+      "height": 1900,
+      "title": "PH1(AC) Chuck Dutkiewicz ....A Light Helicopter Anti-submarine Squadron 43 (HSL-43) SH-60B Sea Hawk helicopter releases a sonobuoy from its dispenser while taking part in an anti-su - DPLA - 5ad37d8d881bb985fd931de583a047eb.jpeg",
+      "description": "<div class=\"description\">\nThe original finding aid described this photograph as: Country: Unknown Release Status: Released to Public</div>",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Retired_Navy_Captain_%28CAPT%29_A.C._Smith_is_applauded_during_the_opening_ceremony_of_the_new_Naval_Hospital%2C_San_Diego._Attending_are%2C_from_left_to_right-_Vice_Admiral_J.A._Zimble%2C_su_-_DPLA_-_c355c467952e71d01b4a141611cb10f2.jpeg/1280px-thumbnail.jpeg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Retired_Navy_Captain_%28CAPT%29_A.C._Smith_is_applauded_during_the_opening_ceremony_of_the_new_Naval_Hospital%2C_San_Diego._Attending_are%2C_from_left_to_right-_Vice_Admiral_J.A._Zimble%2C_su_-_DPLA_-_c355c467952e71d01b4a141611cb10f2.jpeg",
+      "width": 2880,
+      "height": 1920,
+      "title": "Retired Navy Captain (CAPT) A.C. Smith is applauded during the opening ceremony of the new Naval Hospital, San Diego. Attending are, from left to right- Vice Admiral J.A. Zimble, su - DPLA - c355c467952e71d01b4a141611cb10f2.jpeg",
+      "description": "<div class=\"description\">\nThe original finding aid described this photograph as: Base: San Diego State: California (CA) Country: United States Of America (USA) Scene Camera Operator: PH1 Michael Flynn",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/The_memorial_monument_of_Fukuoka_Navy_Air_Service.jpg/1280px-The_memorial_monument_of_Fukuoka_Navy_Air_Service.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/61/The_memorial_monument_of_Fukuoka_Navy_Air_Service.jpg",
+      "width": 3596,
+      "height": 5394,
+      "title": "The memorial monument of Fukuoka Navy Air Service.jpg",
+      "description": "\u798f\u5ca1\u5e02\u897f\u533a\u6cc93\u4e01\u76ee \u6cc9\u516c\u5712\u306b\u3042\u308b\u798f\u5ca1\u6d77\u8ecd\u822a\u7a7a\u968a\u8de1\u8a18\u5ff5\u7891\u3002\u662d\u548c57\u5e746\u670810\u65e5\u5efa\u7acb\u3002",
+      "license": "CC0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Unsafe_Unprofessional_Interception_of_a_U_S_Navy_P8_by_Russian_SU-35s_over_the_Mediterranean_Sea_%286221813%29.jpg/1280px-Unsafe_Unprofessional_Interception_of_a_U_S_Navy_P8_by_Russian_SU-35s_over_the_Mediterranean_Sea_%286221813%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Unsafe_Unprofessional_Interception_of_a_U_S_Navy_P8_by_Russian_SU-35s_over_the_Mediterranean_Sea_%286221813%29.jpg",
+      "width": 3936,
+      "height": 2624,
+      "title": "Unsafe Unprofessional Interception of a U S Navy P8 by Russian SU-35s over the Mediterranean Sea (6221813).jpg",
+      "description": "MEDITERRANEAN SEA (May 26, 2020) Two Russian Su-35 aircraft unsafely intercept a P-8A Poseidon patrol aircraft assigned to U.S. 6th Fleet over the Mediterranean Sea May 26, 2020. The intercept was det",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Vice_Admiral_John_Fetterman.jpg/1280px-Vice_Admiral_John_Fetterman.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Vice_Admiral_John_Fetterman.jpg",
+      "width": 2790,
+      "height": 1860,
+      "title": "Vice Admiral John Fetterman.jpg",
+      "description": "United States Navy Vice Admiral John H. Fetterman Jr., Commander, Naval Air Force, US Pacific Fleet, sits in the cockpit of a Soviet Su-27 Flanker aircraft during a visit to an air base. Fetterman is ",
+      "license": "Public domain",
+      "source": "wikimedia"
+    }
+  ],
+  "doctrine": null,
+  "curated_sources": []
+}

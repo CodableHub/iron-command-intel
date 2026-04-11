@@ -1,0 +1,212 @@
+{
+  "combat_history": [
+    {
+      "date": "2024-03",
+      "operation": "Eastern Mediterranean Patrol",
+      "event": "TCG \u0130stanbul conducted maiden operational deployment, monitoring Greek naval exercises near Crete and shadowing French naval units during tensions over EEZ boundaries.",
+      "significance": "First operational deployment demonstrated basic sensor and navigation capabilities, but revealed integration issues with combat system"
+    }
+  ],
+  "modernization": [
+    {
+      "program": "H\u0130SAR-U Integration",
+      "status": "planned",
+      "timeline": "2025-2027",
+      "description": "Integration of longer-range H\u0130SAR-U surface-to-air missiles to replace or supplement H\u0130SAR-RF, extending air defense envelope to 100+ km",
+      "impact": "Would provide area air defense capability and enhance fleet air defense role"
+    },
+    {
+      "program": "Indigenous Torpedo Integration",
+      "status": "planned",
+      "timeline": "2026-2028",
+      "description": "Replacement of US Mk 46 torpedoes with Turkish AKYA heavyweight torpedoes",
+      "impact": "Reduces US dependency and provides enhanced ASW capability against submarines"
+    }
+  ],
+  "vulnerabilities": [
+    {
+      "area": "Limited Magazine Depth",
+      "description": "Only 16 VLS cells and 8 anti-ship missiles severely limit sustained combat capability compared to peers",
+      "context": "In high-intensity conflict, would exhaust missile inventory quickly without resupply",
+      "mitigation": "Turkey developing mission modules and considering VLS expansion in future variants"
+    },
+    {
+      "area": "Unproven Combat Systems Integration",
+      "description": "Mix of Turkish indigenous systems with foreign components creates potential integration and reliability issues under combat stress",
+      "context": "No combat testing of ADVENT CMS or CAFRAD radar in actual warfare conditions",
+      "mitigation": "Extensive testing ongoing, but real-world combat validation remains limited"
+    },
+    {
+      "area": "Supply Chain Vulnerabilities",
+      "description": "Despite high indigenous content, critical components like engines and some sensors remain foreign-sourced and vulnerable to sanctions",
+      "context": "Turkey's complex relationships with NATO allies could disrupt spare parts and maintenance",
+      "mitigation": "Ongoing efforts to indigenize remaining foreign components, but timeline uncertain"
+    }
+  ],
+  "operational_patterns": {
+    "typical_deployment": "Eastern Mediterranean patrol, Black Sea security operations, NATO missions when relations permit",
+    "deployment_length_months": 3,
+    "key_operating_areas": [
+      "Eastern Mediterranean",
+      "Black Sea",
+      "Aegean Sea"
+    ],
+    "typical_task_group": "Usually operates independently or with 1-2 Ada-class corvettes",
+    "readiness_notes": "High readiness maintained but limited by crew training on new systems and maintenance learning curve"
+  },
+  "peer_comparisons": [
+    {
+      "platform": "FREMM Multipurpose Frigate",
+      "country": "France/Italy",
+      "relationship": "direct rival",
+      "key_differences": "FREMM offers superior sensors, 32 VLS cells, and proven combat systems, but costs twice as much. Istanbul-class prioritizes cost-effectiveness and indigenous content over raw capability.",
+      "video_angle": "Indigenous ambition vs proven capability - can Turkey's domestic approach compete with European cooperation?"
+    },
+    {
+      "platform": "Type 054A Frigate",
+      "country": "China",
+      "relationship": "peer competitor",
+      "key_differences": "Type 054A has 32 VLS cells and longer range, but Istanbul-class features more advanced radar and stealth characteristics. Both represent regional powers' indigenous frigate development.",
+      "video_angle": "Regional powers building blue-water navies - comparing Chinese and Turkish approaches to indigenous warship development"
+    },
+    {
+      "platform": "Admiral Grigorovich-class",
+      "country": "Russia",
+      "relationship": "regional rival",
+      "key_differences": "Russian frigate has more powerful radar and longer-range missiles, but Istanbul-class is newer design with better stealth features and potentially more reliable systems.",
+      "video_angle": "Black Sea rivals - how Turkey's new frigates stack up against Russia's regional naval power"
+    },
+    {
+      "platform": "Constellation-class FFG(X)",
+      "country": "United States",
+      "relationship": "allied equivalent",
+      "key_differences": "Constellation-class will have superior sensors and 32 VLS cells when delivered, but Istanbul-class is already operational and costs significantly less per unit.",
+      "video_angle": "NATO frigate comparison - different approaches to 21st century surface warfare from allies"
+    }
+  ],
+  "search_keywords": [
+    "istanbul class",
+    "istanbul-class",
+    "milgem",
+    "ada class block ii",
+    "turkish frigate",
+    "f-515",
+    "tcg istanbul",
+    "advent combat system",
+    "cafrad radar",
+    "hisar-rf",
+    "atmaca missile"
+  ],
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/French_Memorial_Certificates_Are_Given_Heroes%27_Kin_in_the_Hudson_Observer_of_Jersey_City%2C_New_Jersey_on_February_24%2C_1920%2C_page_1.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/French_Memorial_Certificates_Are_Given_Heroes%27_Kin_in_the_Hudson_Observer_of_Jersey_City%2C_New_Jersey_on_February_24%2C_1920%2C_page_1.jpg",
+      "width": 819,
+      "height": 2535,
+      "title": "French Memorial Certificates Are Given Heroes' Kin in the Hudson Observer of Jersey City, New Jersey on February 24, 1920, page 1.jpg",
+      "description": "French Memorial Certificates Are Given Heroes' Kin in the Hudson Observer of Jersey City, New Jersey on February 24, 1920, page 1",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a9/India-Proofs_of_Wood-Engravings_by_The_Brothers_Dalziel_%28BM_1913%2C0415.200_111%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/a9/India-Proofs_of_Wood-Engravings_by_The_Brothers_Dalziel_%28BM_1913%2C0415.200_111%29.jpg",
+      "width": 992,
+      "height": 750,
+      "title": "India-Proofs of Wood-Engravings by The Brothers Dalziel (BM 1913,0415.200 111).jpg",
+      "description": "The Landing of the Scots Guards at Alexandria, August 10th. 1882. Francis Barraud, after a sketch by our special artist Charles ... Pictorial World September 9, 1882.<br>\n<p>Album with hand-written ti",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/India-Proofs_of_Wood-Engravings_by_The_Brothers_Dalziel_%28BM_1913%2C0415.200_127%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/India-Proofs_of_Wood-Engravings_by_The_Brothers_Dalziel_%28BM_1913%2C0415.200_127%29.jpg",
+      "width": 992,
+      "height": 750,
+      "title": "India-Proofs of Wood-Engravings by The Brothers Dalziel (BM 1913,0415.200 127).jpg",
+      "description": "Album with hand-written title page: 'India-Proofs of Wood-Engravings  by The Brothers Dalziel. \"The Pictorial World\". 1879 to 1883. This  Book was made up at the time the engravings  shown in it were ",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Japanese-Hiei-Kong%C5%8D-Class-Corvette-Survivors-Ertugrul-Constantinople-1891.png",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Japanese-Hiei-Kong%C5%8D-Class-Corvette-Survivors-Ertugrul-Constantinople-1891.png",
+      "width": 900,
+      "height": 784,
+      "title": "Japanese-Hiei-Kong\u014d-Class-Corvette-Survivors-Ertugrul-Constantinople-1891.png",
+      "description": "A view of the Japanese ironclad <i>Hiei</i>, a <i>Kong\u014d</i>-class cruiser that brought survivors of the Ottoman frigate <i>Ertu\u011frul</i> that sank in Japan to Constantinople (now Istanbul) in 1890. It ",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Krivak-class_missile_frigate_Ladny%2C_Istanbul_in_2015.jpg/1280px-Krivak-class_missile_frigate_Ladny%2C_Istanbul_in_2015.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Krivak-class_missile_frigate_Ladny%2C_Istanbul_in_2015.jpg",
+      "width": 2000,
+      "height": 1183,
+      "title": "Krivak-class missile frigate Ladny, Istanbul in 2015.jpg",
+      "description": "The Russian frigate <i>Ladnyy</i> heading through the Bosphorus in Istanbul, Turkey in 2015.",
+      "license": "CC BY 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Scale_model_of_TCG_%C4%B0stanbul_%28F-515%29.jpg/1280px-Scale_model_of_TCG_%C4%B0stanbul_%28F-515%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/06/Scale_model_of_TCG_%C4%B0stanbul_%28F-515%29.jpg",
+      "width": 4032,
+      "height": 3024,
+      "title": "Scale model of TCG \u0130stanbul (F-515).jpg",
+      "description": "Scale model of TCG \u0130stanbul (F-515).",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/South_Australian_Railways_C_class_and_first_I_class_steam_locomotives_%28two_photos_on_one_print%29.jpg/1280px-South_Australian_Railways_C_class_and_first_I_class_steam_locomotives_%28two_photos_on_one_print%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/5c/South_Australian_Railways_C_class_and_first_I_class_steam_locomotives_%28two_photos_on_one_print%29.jpg",
+      "width": 2448,
+      "height": 3264,
+      "title": "South Australian Railways C class and first I class steam locomotives (two photos on one print).jpg",
+      "description": "<div class=\"description\">\nUpper: South Australian Railways \"C\" class locomotive no. 6.<br>Lower: Neilson and Company 1873 builder's photo of the locomotive that became Canterbury Provincial Railways n",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/aa/South_Australian_Railways_I_Class_%282nd%29_No._161.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/aa/South_Australian_Railways_I_Class_%282nd%29_No._161.jpg",
+      "width": 1280,
+      "height": 873,
+      "title": "South Australian Railways I Class (2nd) No. 161.jpg",
+      "description": "Outer Harbour - SAR I Class Locomotive (2nd) No. 161 when used on the Outer Harbour construction.",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TCG_%C4%B0%C3%A7el_tam_gemi_modeli.JPG/1280px-TCG_%C4%B0%C3%A7el_tam_gemi_modeli.JPG",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/47/TCG_%C4%B0%C3%A7el_tam_gemi_modeli.JPG",
+      "width": 3144,
+      "height": 1536,
+      "title": "TCG \u0130\u00e7el tam gemi modeli.JPG",
+      "description": "<a href=\"https://en.wikipedia.org/wiki/tr:Mersin_Deniz_M%C3%BCzesi\" class=\"extiw\" title=\"wikipedia:tr:Mersin Deniz M\u00fczesi\">Mersin Deniz M\u00fczesinde</a> sergilenmekte olan TCG <i>\u0130\u00e7el</i> tam gemi modeli",
+      "license": "CC0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Udaloy-I-class_destroyer_profile_1987.png",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Udaloy-I-class_destroyer_profile_1987.png",
+      "width": 1020,
+      "height": 233,
+      "title": "Udaloy-I-class destroyer profile 1987.png",
+      "description": "Profile of a Soviet <i>Udaloy-I</i>-class (Project 1155 <i>Fregat</i>) guided missile destroyer.",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Victor_I_class_submarine.jpg/1280px-Victor_I_class_submarine.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Victor_I_class_submarine.jpg",
+      "width": 3000,
+      "height": 2400,
+      "title": "Victor I class submarine.jpg",
+      "description": "",
+      "license": "Public domain",
+      "source": "wikimedia"
+    }
+  ]
+}

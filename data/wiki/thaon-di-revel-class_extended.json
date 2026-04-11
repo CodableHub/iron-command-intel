@@ -1,0 +1,216 @@
+{
+  "combat_history": [
+    {
+      "date": "2023-10",
+      "operation": "Mare Sicuro",
+      "event": "Thaon di Revel conducted first operational patrol in Central Mediterranean, intercepting migrant vessels and coordinating with Frontex operations",
+      "significance": "Validated the class's primary mission of maritime border control and demonstrated helicopter coordination capabilities"
+    },
+    {
+      "date": "2024-02",
+      "operation": "NATO Enhanced Vigilance Activity",
+      "event": "Comandante Foscari participated in Eastern Mediterranean patrols, conducting surveillance of Russian naval movements near Cyprus",
+      "significance": "First deployment in potential peer-adversary environment, testing sensor integration and data-link capabilities"
+    }
+  ],
+  "modernization": [
+    {
+      "program": "Anti-ship missile integration",
+      "status": "planned",
+      "timeline": "2025-2027",
+      "description": "Installation of Teseo Mk2/E anti-ship missiles on modular launcher systems for higher-threat deployments",
+      "impact": "Would transform patrol vessels into light frigates capable of engaging surface combatants"
+    },
+    {
+      "program": "Enhanced EW suite",
+      "status": "in-progress",
+      "timeline": "2024-2026",
+      "description": "Integration of advanced electronic warfare systems and improved communications security for NATO interoperability",
+      "impact": "Better survivability in contested electromagnetic environments"
+    }
+  ],
+  "vulnerabilities": [
+    {
+      "area": "Air defense",
+      "description": "Limited beyond 76mm gun and DART rounds - no dedicated SAM system",
+      "context": "Vulnerable to coordinated air attacks or saturation strikes in high-threat environments",
+      "mitigation": "Relies on helicopter early warning and operating under land-based air cover"
+    },
+    {
+      "area": "Anti-submarine warfare",
+      "description": "Dependent entirely on embarked helicopter for ASW capability - no hull-mounted sonar or organic torpedoes",
+      "context": "Significant limitation in Mediterranean where Russian submarines operate regularly",
+      "mitigation": "Black Scorpion towed array provides some detection capability, but engagement requires helicopter availability"
+    },
+    {
+      "area": "Crew sustainability",
+      "description": "90-person crew for extended 30-day deployments creates fatigue and maintenance challenges",
+      "context": "Persistent patrol missions strain crew resources, particularly with helicopter operations and boarding parties",
+      "mitigation": "Rotation policies and port calls every 20-25 days to prevent crew degradation"
+    }
+  ],
+  "operational_patterns": {
+    "typical_deployment": "Independent patrol missions in Central/Eastern Mediterranean, anti-migration operations, NATO maritime security",
+    "deployment_length_months": 1,
+    "key_operating_areas": [
+      "Central Mediterranean",
+      "Adriatic Sea",
+      "Eastern Mediterranean",
+      "Strait of Sicily"
+    ],
+    "typical_task_group": "Usually operates independently or with Coast Guard vessels, occasionally integrated with frigate task groups",
+    "readiness_notes": "High operational tempo due to immigration crisis - limited maintenance windows"
+  },
+  "peer_comparisons": [
+    {
+      "platform": "Holland-class OPV",
+      "country": "Netherlands",
+      "relationship": "allied equivalent",
+      "key_differences": "Holland class emphasizes constabulary role with 76mm gun but lacks helicopter hangar and has lighter armament. Thaon di Revel is more combat-oriented.",
+      "video_angle": "European patrol vessel philosophy - Italian combat focus vs Dutch constabulary approach"
+    },
+    {
+      "platform": "Meteoro-class OPV",
+      "country": "Spain",
+      "relationship": "allied equivalent",
+      "key_differences": "Similar Mediterranean focus but Meteoro class is larger (93m vs 95m) with emphasis on boarding operations. Thaon di Revel has superior sensor suite.",
+      "video_angle": "Mediterranean patrol boat comparison - different approaches to the same operational environment"
+    },
+    {
+      "platform": "Gowind-class corvette",
+      "country": "France/Egypt",
+      "relationship": "direct rival",
+      "key_differences": "Gowind has VLS cells and dedicated SAM systems, making it a true corvette vs patrol vessel. Thaon di Revel prioritizes cost-effectiveness over pure combat power.",
+      "video_angle": "Patrol vessel vs corvette - where to draw the line between constabulary and combat vessels"
+    },
+    {
+      "platform": "Buyan-M class corvette",
+      "country": "Russia",
+      "relationship": "potential adversary",
+      "key_differences": "Russian emphasis on offensive firepower (Kalibr missiles) vs Italian focus on surveillance and maritime security. Similar size but completely different mission philosophy.",
+      "video_angle": "Russian power projection vs NATO maritime security - two approaches to small combatants"
+    }
+  ],
+  "search_keywords": [
+    "thaon di revel",
+    "italian navy patrol",
+    "P 430",
+    "comandante foscari",
+    "fincantieri opv",
+    "italian offshore patrol vessel",
+    "mediterranean patrol",
+    "kronos radar"
+  ],
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/%22Working_On_Fire%22_Cessna_182M_ZS-PPA_-_Spotter_8_%2815668151323%29.jpg/1280px-%22Working_On_Fire%22_Cessna_182M_ZS-PPA_-_Spotter_8_%2815668151323%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/f2/%22Working_On_Fire%22_Cessna_182M_ZS-PPA_-_Spotter_8_%2815668151323%29.jpg",
+      "width": 3016,
+      "height": 1758,
+      "title": "\"Working On Fire\" Cessna 182M ZS-PPA - Spotter 8 (15668151323).jpg",
+      "description": "\"Working On Fire\" Cessna 182M ZS-PPA - Spotter 8",
+      "license": "CC BY-SA 2.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Air_India_A321-211_%28VT-PPA%29_at_Chhatrapati_Shivaji_International_Airport.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Air_India_A321-211_%28VT-PPA%29_at_Chhatrapati_Shivaji_International_Airport.jpg",
+      "width": 760,
+      "height": 528,
+      "title": "Air India A321-211 (VT-PPA) at Chhatrapati Shivaji International Airport.jpg",
+      "description": "Air India at Mumbai Chhatrapati Shivaji International Airport",
+      "license": "CC BY-SA 3.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Berlin_Brandenburg_Airport_Play_Airbus_A320-251N_TF-PPA_%28DSC07346%29.jpg/1280px-Berlin_Brandenburg_Airport_Play_Airbus_A320-251N_TF-PPA_%28DSC07346%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/94/Berlin_Brandenburg_Airport_Play_Airbus_A320-251N_TF-PPA_%28DSC07346%29.jpg",
+      "width": 4510,
+      "height": 2538,
+      "title": "Berlin Brandenburg Airport Play Airbus A320-251N TF-PPA (DSC07346).jpg",
+      "description": "Der Airbus A320-251N der Fluggesellschaft Play mit dem Kennzeichen TF-PPA im Landeanflug auf die Bahn 25L des Flughafens Berlin Brandenburg. Das Flugzeug f\u00fchrte einen Flug vom Flughafen Keflavik nach ",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/HS-PPA_%2818525424994%29.jpg/1280px-HS-PPA_%2818525424994%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/bc/HS-PPA_%2818525424994%29.jpg",
+      "width": 2238,
+      "height": 1430,
+      "title": "HS-PPA (18525424994).jpg",
+      "description": "Airbus A319 of Bangkok Airways at Bangkok-BKK, Thailand, 23/06/15.",
+      "license": "CC BY-SA 2.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/PPA_LOGO.png",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/PPA_LOGO.png",
+      "width": 100,
+      "height": 38,
+      "title": "PPA LOGO.png",
+      "description": "PPA logo",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/TF-PPA_-_Airbus_A320-251N_-_Play_GLA_%282023-09-29%29_01.jpg/1280px-TF-PPA_-_Airbus_A320-251N_-_Play_GLA_%282023-09-29%29_01.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/TF-PPA_-_Airbus_A320-251N_-_Play_GLA_%282023-09-29%29_01.jpg",
+      "width": 4032,
+      "height": 3024,
+      "title": "TF-PPA - Airbus A320-251N - Play GLA (2023-09-29) 01.jpg",
+      "description": "Icelandic airline <a href=\"https://en.wikipedia.org/wiki/Play_(airline)\" class=\"extiw\" title=\"w:Play (airline)\">Play</a> Airbus A320-251N TF-PPA at Glasgow Airport, getting ready to depart back to Rey",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/TF-PPA_-_Airbus_A320-251N_-_Play_STN_280123_A.jpg/1280px-TF-PPA_-_Airbus_A320-251N_-_Play_STN_280123_A.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/b7/TF-PPA_-_Airbus_A320-251N_-_Play_STN_280123_A.jpg",
+      "width": 4945,
+      "height": 2119,
+      "title": "TF-PPA - Airbus A320-251N - Play STN 280123 A.jpg",
+      "description": "Aerozone morning at London Stansted - January overcast and rather grey with a surface temperature of 3C.  The UAE Globemaster II was already in and the 767 was hangared, but as the morning wore on thi",
+      "license": "CC BY 2.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/TF-PPA_at_KSWF_7-8-25.jpg/1280px-TF-PPA_at_KSWF_7-8-25.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/db/TF-PPA_at_KSWF_7-8-25.jpg",
+      "width": 1920,
+      "height": 1280,
+      "title": "TF-PPA at KSWF 7-8-25.jpg",
+      "description": "TF-PPA, an Airbus A320-251N arrives and taxis towards the terminal on Charlie.",
+      "license": "CC BY 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a9/India-Proofs_of_Wood-Engravings_by_The_Brothers_Dalziel_%28BM_1913%2C0415.200_111%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/a9/India-Proofs_of_Wood-Engravings_by_The_Brothers_Dalziel_%28BM_1913%2C0415.200_111%29.jpg",
+      "width": 992,
+      "height": 750,
+      "title": "India-Proofs of Wood-Engravings by The Brothers Dalziel (BM 1913,0415.200 111).jpg",
+      "description": "The Landing of the Scots Guards at Alexandria, August 10th. 1882. Francis Barraud, after a sketch by our special artist Charles ... Pictorial World September 9, 1882.<br>\n<p>Album with hand-written ti",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/India-Proofs_of_Wood-Engravings_by_The_Brothers_Dalziel_%28BM_1913%2C0415.200_127%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/India-Proofs_of_Wood-Engravings_by_The_Brothers_Dalziel_%28BM_1913%2C0415.200_127%29.jpg",
+      "width": 992,
+      "height": 750,
+      "title": "India-Proofs of Wood-Engravings by The Brothers Dalziel (BM 1913,0415.200 127).jpg",
+      "description": "Album with hand-written title page: 'India-Proofs of Wood-Engravings  by The Brothers Dalziel. \"The Pictorial World\". 1879 to 1883. This  Book was made up at the time the engravings  shown in it were ",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Navy_SEALs_in_Afghanistan_prior_to_Red_Wing.jpg/1280px-Navy_SEALs_in_Afghanistan_prior_to_Red_Wing.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Navy_SEALs_in_Afghanistan_prior_to_Red_Wing.jpg",
+      "width": 1653,
+      "height": 1293,
+      "title": "Navy SEALs in Afghanistan prior to Red Wing.jpg",
+      "description": "050628-N-0000X-001 <a href=\"//commons.wikimedia.org/wiki/United_States_Navy\" title=\"United States Navy\">United States Navy</a> file photo of Navy SEALs operating in <a href=\"//commons.wikimedia.org/wi",
+      "license": "Public domain",
+      "source": "wikimedia"
+    }
+  ]
+}

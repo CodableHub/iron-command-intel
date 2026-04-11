@@ -1,0 +1,204 @@
+{
+  "combat_history": [
+    {
+      "date": "2018-12-20",
+      "operation": "Dokdo patrol",
+      "event": "ROKS Gwanggaeto the Great allegedly locked fire-control radar on JMSDF P-1 maritime patrol aircraft during routine patrol near disputed islands, creating major diplomatic incident between South Korea and Japan.",
+      "significance": "Demonstrated the political tensions these platforms operate within and the potential for escalation from routine operations"
+    },
+    {
+      "date": "2017-01",
+      "operation": "Anti-piracy deployment",
+      "event": "ROKS Yang Manchun deployed to Gulf of Aden as part of Combined Maritime Forces anti-piracy operations, first major overseas deployment for class.",
+      "significance": "Proved the class's blue-water capability and established ROKN presence in Middle Eastern waters"
+    },
+    {
+      "date": "2010-03-26",
+      "operation": "Cheonan incident response",
+      "event": "All three ships participated in search and rescue operations following the sinking of ROKS Cheonan, later providing escort duties during heightened tensions with North Korea.",
+      "significance": "First major crisis deployment demonstrating the class's role in Korean Peninsula security"
+    }
+  ],
+  "modernization": [
+    {
+      "program": "Combat System Upgrade",
+      "status": "completed",
+      "timeline": "2015-2018",
+      "description": "Upgrade of combat management systems and integration of newer Korean-made missiles including improved Hae Sung variants.",
+      "impact": "Extended service life and improved interoperability with newer ROKN vessels"
+    },
+    {
+      "program": "Mid-Life Upgrade",
+      "status": "planned",
+      "timeline": "2025-2028",
+      "description": "Planned comprehensive upgrade including new radar systems, enhanced electronic warfare capabilities, and possible VLS expansion.",
+      "impact": "Would extend service life to 2040+ and maintain relevance against regional threats"
+    }
+  ],
+  "vulnerabilities": [
+    {
+      "area": "Limited VLS capacity",
+      "description": "32 VLS cells insufficient for sustained high-threat operations, particularly when defending against saturation missile attacks from Chinese or North Korean forces.",
+      "context": "Regional missile threat has grown exponentially since design phase in 1990s",
+      "mitigation": "Planned upgrade may increase VLS count; typically operate in task groups with newer destroyers"
+    },
+    {
+      "area": "Aging radar systems",
+      "description": "SMART-L radar, while capable, lacks the discrimination and electronic warfare resistance of newer AESA systems deployed by regional competitors.",
+      "context": "China and Japan have deployed more advanced radar systems on newer destroyers",
+      "mitigation": "Mid-life upgrade program includes radar modernization"
+    },
+    {
+      "area": "ASW limitations",
+      "description": "Hull-mounted sonar only, lacks towed array sonar for long-range submarine detection in deep water operations.",
+      "context": "North Korean submarine threat has evolved to include more capable conventional submarines and potential nuclear boats",
+      "mitigation": "Relies heavily on helicopter-based ASW and cooperation with specialized ASW vessels"
+    }
+  ],
+  "operational_patterns": {
+    "typical_deployment": "Regional patrol operations, particularly Dokdo area and East China Sea, occasional overseas deployments",
+    "deployment_length_months": 6,
+    "key_operating_areas": [
+      "East China Sea",
+      "Sea of Japan",
+      "Yellow Sea",
+      "Gulf of Aden"
+    ],
+    "typical_task_group": "Usually operates with ROKN frigates or newer KDX-II/III destroyers",
+    "readiness_notes": "Generally high readiness, though aging systems require increasing maintenance time"
+  },
+  "peer_comparisons": [
+    {
+      "platform": "Kongo-class destroyer",
+      "country": "Japan",
+      "relationship": "direct rival",
+      "key_differences": "Kongo-class features full Aegis system with superior air defense capabilities but similar vintage. Gwanggaeto-class has indigenous weapons systems but less sophisticated combat management.",
+      "video_angle": "First-generation Asian destroyers: comparing Japanese vs Korean approaches to naval modernization"
+    },
+    {
+      "platform": "Type 052B Luyang I",
+      "country": "China",
+      "relationship": "direct rival",
+      "key_differences": "Similar displacement and mission but Chinese design emphasizes anti-ship warfare over air defense. Both represent early indigenous destroyer efforts by their respective navies.",
+      "video_angle": "China vs South Korea: comparing first-generation modern destroyers and design philosophies"
+    },
+    {
+      "platform": "Arleigh Burke Flight I",
+      "country": "United States",
+      "relationship": "technological benchmark",
+      "key_differences": "Burke-class superior in every major category but costs twice as much. Gwanggaeto represents budget-conscious approach to similar mission requirements.",
+      "video_angle": "David vs Goliath: How smaller navies build capable destroyers on limited budgets"
+    },
+    {
+      "platform": "\u00c1lvaro de Baz\u00e1n-class",
+      "country": "Spain",
+      "relationship": "allied equivalent",
+      "key_differences": "Spanish design uses Aegis system like larger US destroyers but similar size to Korean ships. Both represent mid-tier navy approaches to air defense destroyers.",
+      "video_angle": "Medium power destroyers: comparing Korean and European approaches to Aegis integration"
+    }
+  ],
+  "search_keywords": [
+    "gwanggaeto the great",
+    "kdx-i",
+    "kdx-1",
+    "rokn destroyer",
+    "korean destroyer",
+    "gwanggaeto class",
+    "eulji mundeok",
+    "yang manchun",
+    "smart-l radar",
+    "hae sung missile"
+  ],
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Starboard_bow_view_of_international_group_of_ships_underway_at_the_conclusion_of_RIMPAC_2004_including_ROKS_Chungmugong_Yi_Sun-sin_%28DDH-975%29_and_USS_John_Paul_Jones_%28DDG-53%29_040722-N-1513W-202.jpg/1280px-thumbnail.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Starboard_bow_view_of_international_group_of_ships_underway_at_the_conclusion_of_RIMPAC_2004_including_ROKS_Chungmugong_Yi_Sun-sin_%28DDH-975%29_and_USS_John_Paul_Jones_%28DDG-53%29_040722-N-1513W-202.jpg",
+      "width": 2000,
+      "height": 1312,
+      "title": "Starboard bow view of international group of ships underway at the conclusion of RIMPAC 2004 including ROKS Chungmugong Yi Sun-sin (DDH-975) and USS John Paul Jones (DDG-53) 040722-N-1513W-202.jpg",
+      "description": "Pacific Ocean (July 22, 2004) - Pictured foreground-to-background The Republic of South Korea (KOR), KDX-2 Class: Frigate Chungmugong Yi Sun-sin (DDH-975); the US Navy (USN) Arleigh Burke Cass (Flight",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/20101228_DDH%ED%95%A8_%ED%95%A8%ED%8F%AC_%281%29_%287626102230%29.jpg/1280px-20101228_DDH%ED%95%A8_%ED%95%A8%ED%8F%AC_%281%29_%287626102230%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/20101228_DDH%ED%95%A8_%ED%95%A8%ED%8F%AC_%281%29_%287626102230%29.jpg",
+      "width": 1384,
+      "height": 2000,
+      "title": "20101228 DDH\ud568 \ud568\ud3ec (1) (7626102230).jpg",
+      "description": "2010. 12. DDH\ud568 \ud6c8\ub828 Rep. of Korea Navy DDH class destroyer maritime exercise",
+      "license": "CC BY-SA 2.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/2012._12._%ED%95%B4%EC%83%81%EC%A0%84%ED%88%AC%EB%8B%A8_%EA%B8%B0%EB%8F%99%ED%9B%88%EB%A0%A8_Rep._of_Korea_Navy_Surface_Action_Group_Maneuver_Exercises_%288289632489%29.jpg/1280px-2012._12._%ED%95%B4%EC%83%81%EC%A0%84%ED%88%AC%EB%8B%A8_%EA%B8%B0%EB%8F%99%ED%9B%88%EB%A0%A8_Rep._of_Korea_Navy_Surface_Action_Group_Maneuver_Exercises_%288289632489%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/de/2012._12._%ED%95%B4%EC%83%81%EC%A0%84%ED%88%AC%EB%8B%A8_%EA%B8%B0%EB%8F%99%ED%9B%88%EB%A0%A8_Rep._of_Korea_Navy_Surface_Action_Group_Maneuver_Exercises_%288289632489%29.jpg",
+      "width": 2362,
+      "height": 1541,
+      "title": "2012. 12. \ud574\uc0c1\uc804\ud22c\ub2e8 \uae30\ub3d9\ud6c8\ub828 Rep. of Korea Navy Surface Action Group Maneuver Exercises (8289632489).jpg",
+      "description": "<p>\ud574\uad70 1\ud568\ub300\ub294 10\uc77c\ubd80\ud130 12\uc77c\uae4c\uc9c0 \ucc45\uc784\uc9c0\uc5ed \ud574\uc0c1\uc5d0\uc11c \ud574\uc0c1\uc804\ud22c\ub2e8 \uae30\ub3d9\ud6c8\ub828\uc744 \uc804\uac1c\ud558\uc5ec \n\uac15\ub3c4 \ub192\uc740 \ud6c8\ub828\uc73c\ub85c \uc791\uc804\uc218\ud589 \ub2a5\ub825\uc744 \uac15\ud654\ud558\uace0 \uc788\ub2e4.  \n</p>\n\ucd2c\uc601\uc790\u00a0: \uc7a5\uc11d\ud6c8",
+      "license": "CC BY-SA 2.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Goalkeeper_CIWS_on_ROKS_Gwanggaeto_the_Great.jpg/1280px-Goalkeeper_CIWS_on_ROKS_Gwanggaeto_the_Great.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/13/Goalkeeper_CIWS_on_ROKS_Gwanggaeto_the_Great.jpg",
+      "width": 1840,
+      "height": 1232,
+      "title": "Goalkeeper CIWS on ROKS Gwanggaeto the Great.jpg",
+      "description": "\u300c\u5e83\u958b\u571f\u5927\u738b\u300d\u8266\u4e0a\u306e\u30b4\u30fc\u30eb\u30ad\u30fc\u30d1\u30fcCIWS",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/74/Gwanggaeto_the_Great_class_destroyer_%28taken_by_JMSDF_P-1%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/74/Gwanggaeto_the_Great_class_destroyer_%28taken_by_JMSDF_P-1%29.jpg",
+      "width": 900,
+      "height": 367,
+      "title": "Gwanggaeto the Great class destroyer (taken by JMSDF P-1).jpg",
+      "description": "South Korean Navy ship, Gwanggaeto the Great class destroyer. This photograph was taken by P-1 (maritime patrol aircraft), Fleet Air Wing 4, JMSDF.",
+      "license": "CC BY 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Mk.48_mod.2_on_ROKS_Gwanggaeto_the_Great.jpg/1280px-Mk.48_mod.2_on_ROKS_Gwanggaeto_the_Great.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Mk.48_mod.2_on_ROKS_Gwanggaeto_the_Great.jpg",
+      "width": 1840,
+      "height": 1232,
+      "title": "Mk.48 mod.2 on ROKS Gwanggaeto the Great.jpg",
+      "description": "\u300c\u5e83\u958b\u571f\u5927\u738b\u300d\u8266\u4e0a\u306eMk.48 mod.2",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Otobreda_127mm_Compact_on_ROKS_Gwanggaeto_the_Great.jpg/1280px-Otobreda_127mm_Compact_on_ROKS_Gwanggaeto_the_Great.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/df/Otobreda_127mm_Compact_on_ROKS_Gwanggaeto_the_Great.jpg",
+      "width": 1840,
+      "height": 1232,
+      "title": "Otobreda 127mm Compact on ROKS Gwanggaeto the Great.jpg",
+      "description": "\u300c\u5e83\u958b\u571f\u5927\u738b\u300d\u8266\u4e0a\u306e127mm\u30b3\u30f3\u30d1\u30c3\u30c8\u7832",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/ROKS_Cheonji_and_Gwanggaeto_the_Great.jpg/1280px-ROKS_Cheonji_and_Gwanggaeto_the_Great.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/51/ROKS_Cheonji_and_Gwanggaeto_the_Great.jpg",
+      "width": 1840,
+      "height": 1232,
+      "title": "ROKS Cheonji and Gwanggaeto the Great.jpg",
+      "description": "ROKS Cheonji and ROKS Gwanggaeto the Great at Harumi, Tokyo, Japan",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/%EA%B4%91%EB%B3%B5%EC%A0%88%EC%9D%BC%EC%B6%9C_NPC_4588_%2820107618963%29.jpg/1280px-%EA%B4%91%EB%B3%B5%EC%A0%88%EC%9D%BC%EC%B6%9C_NPC_4588_%2820107618963%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/%EA%B4%91%EB%B3%B5%EC%A0%88%EC%9D%BC%EC%B6%9C_NPC_4588_%2820107618963%29.jpg",
+      "width": 4469,
+      "height": 2040,
+      "title": "\uad11\ubcf5\uc808\uc77c\ucd9c NPC 4588 (20107618963).jpg",
+      "description": "\uad11\ubcf5\uc808\uc77c\ucd9c_NPC_4588",
+      "license": "CC BY-SA 2.0",
+      "source": "wikimedia"
+    }
+  ]
+}

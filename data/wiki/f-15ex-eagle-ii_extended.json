@@ -1,0 +1,187 @@
+{
+  "combat_history": [
+    {
+      "date": "2021-2023",
+      "operation": "Operational Test and Evaluation",
+      "event": "Initial operational test and evaluation phase at 40th Flight Test Squadron, Eglin AFB. Aircraft demonstrated missile separation tests, avionics integration, and weapons system functionality.",
+      "significance": "Validated basic combat systems integration and weapons compatibility, proving the platform's readiness for operational deployment"
+    }
+  ],
+  "modernization": [
+    {
+      "program": "F-15EX Production and Development",
+      "status": "in-progress",
+      "timeline": "2021-2031",
+      "description": "Full-rate production program to deliver up to 144 aircraft to replace aging F-15C/D fleet. Includes continued software updates and capability enhancements.",
+      "impact": "Will provide USAF with modern air superiority platform through 2050s"
+    },
+    {
+      "program": "Future Weapons Integration",
+      "status": "planned",
+      "timeline": "2024-2028",
+      "description": "Integration of future weapons including AIM-260 JATM, hypersonic weapons, and directed energy systems. Open Mission Systems architecture enables rapid capability insertion.",
+      "impact": "Maintains relevance against evolving threats, particularly long-range Chinese missiles"
+    }
+  ],
+  "vulnerabilities": [
+    {
+      "area": "Radar Cross Section",
+      "description": "Large, non-stealthy airframe presents significant radar signature, making it vulnerable to advanced SAM systems and long-range air-to-air missiles in contested airspace.",
+      "context": "Against S-400, HQ-9B, or PL-15 equipped fighters, detectability at extended ranges limits survivability in high-threat environments",
+      "mitigation": "EPAWSS jamming, standoff weapons employment, coordination with stealth fighters for threat suppression"
+    },
+    {
+      "area": "Production Rate Limitations",
+      "description": "Current production rate of 12-24 aircraft annually insufficient to rapidly reconstitute losses in high-intensity conflict. Single production line creates vulnerability.",
+      "context": "In Pacific conflict scenario, attrition rates could exceed replacement capacity, degrading long-term air superiority capability",
+      "mitigation": "Accelerated production planning, industrial base expansion studies ongoing"
+    },
+    {
+      "area": "Pilot Training Pipeline",
+      "description": "Insufficient F-15EX qualified pilots due to limited training aircraft and instructor capacity. Transition training from F-15C legacy aircraft creates bottleneck.",
+      "context": "Operational squadrons cannot achieve full manning, reducing surge capacity and readiness rates",
+      "mitigation": "Expanded simulator training, accelerated transition programs, retention incentives for experienced F-15 pilots"
+    }
+  ],
+  "operational_patterns": {
+    "typical_deployment": "Homeland defense alert, theater air superiority, maritime strike escort",
+    "deployment_length_months": 6,
+    "key_operating_areas": [
+      "CONUS Air Defense",
+      "Pacific Theater",
+      "European Theater"
+    ],
+    "typical_task_group": "Mixed fighter packages with F-35A, F-22A; operates with E-3 AWACS and KC-46 tanker support",
+    "readiness_notes": "High mission capable rates expected due to proven F-15 logistics chain, but new avionics create some maintenance learning curve"
+  },
+  "peer_comparisons": [
+    {
+      "platform": "Sukhoi Su-35S Flanker-E",
+      "country": "Russia",
+      "relationship": "direct rival",
+      "key_differences": "Su-35S offers superior maneuverability and thrust vectoring but inferior radar/avionics. F-15EX has better sensor fusion and weapons integration but less agility in close combat.",
+      "video_angle": "Classic East vs West air superiority showdown - American tech vs Russian agility"
+    },
+    {
+      "platform": "Shenyang J-16 Flanker",
+      "country": "China",
+      "relationship": "direct rival",
+      "key_differences": "Similar multi-role concept but J-16 carries Chinese weapons ecosystem (PL-15, PL-10). F-15EX has superior electronic warfare suite and longer-range radar detection capability.",
+      "video_angle": "Pacific rivalry - comparing the missile trucks that would dominate any Taiwan scenario"
+    },
+    {
+      "platform": "Eurofighter Typhoon",
+      "country": "UK/Germany/Italy/Spain",
+      "relationship": "allied equivalent",
+      "key_differences": "Typhoon prioritizes air-to-air performance with better sustained turn rates, F-15EX emphasizes payload and range. Both lack stealth but offer complementary capabilities.",
+      "video_angle": "Allied air power comparison - European finesse vs American brute force approach"
+    },
+    {
+      "platform": "Dassault Rafale",
+      "country": "France",
+      "relationship": "allied equivalent",
+      "key_differences": "Rafale offers better multi-role flexibility and carrier capability, F-15EX provides superior missile capacity and range. Different philosophies for air dominance.",
+      "video_angle": "NATO's heavyweight fighters - French elegance vs American power projection"
+    },
+    {
+      "platform": "F-35A Lightning II",
+      "country": "United States",
+      "relationship": "complement/successor",
+      "key_differences": "F-35A prioritizes stealth and sensor fusion over raw payload. F-15EX carries 3x more missiles but lacks low observability. Designed to work together, not compete.",
+      "video_angle": "USAF's high-low mix strategy - when do you choose stealth vs payload?"
+    }
+  ],
+  "search_keywords": [
+    "F-15EX",
+    "F-15 EX",
+    "Eagle II",
+    "F15EX",
+    "F-15EX Eagle",
+    "Boeing F-15EX",
+    "APG-82",
+    "EPAWSS",
+    "Eagle II fighter"
+  ],
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/142nd_Wing_F-15EX_Eagle_II_Unveiling_Ceremony_at_the_Portland_Air_National_Guard_Base%2C_Oregon_on_July_12%2C_2024_-_3.jpg/1280px-142nd_Wing_F-15EX_Eagle_II_Unveiling_Ceremony_at_the_Portland_Air_National_Guard_Base%2C_Oregon_on_July_12%2C_2024_-_3.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/01/142nd_Wing_F-15EX_Eagle_II_Unveiling_Ceremony_at_the_Portland_Air_National_Guard_Base%2C_Oregon_on_July_12%2C_2024_-_3.jpg",
+      "width": 4941,
+      "height": 3288,
+      "title": "142nd Wing F-15EX Eagle II Unveiling Ceremony at the Portland Air National Guard Base, Oregon on July 12, 2024 - 3.jpg",
+      "description": "An F-15EX Eagle II, assigned to the 142nd Wing, taxis on the flightline before take-off during the official Unveiling Ceremony for the new fighter jet at the Portland Air National Guard Base, Oregon o",
+      "license": "CC BY 2.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/142nd_Wing_F-15EX_Eagle_II_Unveiling_Ceremony_at_the_Portland_Air_National_Guard_Base%2C_Oregon_on_July_12%2C_2024_-_34.jpg/1280px-142nd_Wing_F-15EX_Eagle_II_Unveiling_Ceremony_at_the_Portland_Air_National_Guard_Base%2C_Oregon_on_July_12%2C_2024_-_34.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/a9/142nd_Wing_F-15EX_Eagle_II_Unveiling_Ceremony_at_the_Portland_Air_National_Guard_Base%2C_Oregon_on_July_12%2C_2024_-_34.jpg",
+      "width": 3996,
+      "height": 5994,
+      "title": "142nd Wing F-15EX Eagle II Unveiling Ceremony at the Portland Air National Guard Base, Oregon on July 12, 2024 - 34.jpg",
+      "description": "142nd Wing F-15EX Eagle II Unveiling Ceremony at the Portland Air National Guard Base, Oregon on July 12, 2024",
+      "license": "CC BY 2.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/142nd_Wing_F-15EX_Eagle_II_Unveiling_Ceremony_at_the_Portland_Air_National_Guard_Base%2C_Oregon_on_July_12%2C_2024_-_39.jpg/1280px-142nd_Wing_F-15EX_Eagle_II_Unveiling_Ceremony_at_the_Portland_Air_National_Guard_Base%2C_Oregon_on_July_12%2C_2024_-_39.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/64/142nd_Wing_F-15EX_Eagle_II_Unveiling_Ceremony_at_the_Portland_Air_National_Guard_Base%2C_Oregon_on_July_12%2C_2024_-_39.jpg",
+      "width": 5744,
+      "height": 3972,
+      "title": "142nd Wing F-15EX Eagle II Unveiling Ceremony at the Portland Air National Guard Base, Oregon on July 12, 2024 - 39.jpg",
+      "description": "142nd Wing F-15EX Eagle II Unveiling Ceremony at the Portland Air National Guard Base, Oregon on July 12, 2024",
+      "license": "CC BY 2.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/142nd_Wing_F-15EX_Eagle_II_Unveiling_Ceremony_at_the_Portland_Air_National_Guard_Base%2C_Oregon_on_July_12%2C_2024_-_4.jpg/1280px-142nd_Wing_F-15EX_Eagle_II_Unveiling_Ceremony_at_the_Portland_Air_National_Guard_Base%2C_Oregon_on_July_12%2C_2024_-_4.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/e2/142nd_Wing_F-15EX_Eagle_II_Unveiling_Ceremony_at_the_Portland_Air_National_Guard_Base%2C_Oregon_on_July_12%2C_2024_-_4.jpg",
+      "width": 4887,
+      "height": 3400,
+      "title": "142nd Wing F-15EX Eagle II Unveiling Ceremony at the Portland Air National Guard Base, Oregon on July 12, 2024 - 4.jpg",
+      "description": "An F-15EX Eagle II, assigned to the 142nd Wing, taxis on the flightline before take-off during the official Unveiling Ceremony for the new fighter jet at the Portland Air National Guard Base, Oregon o",
+      "license": "CC BY 2.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/142nd_Wing_F-15EX_Eagle_II_Unveiling_Ceremony_at_the_Portland_Air_National_Guard_Base%2C_Oregon_on_July_12%2C_2024_-_40.jpg/1280px-142nd_Wing_F-15EX_Eagle_II_Unveiling_Ceremony_at_the_Portland_Air_National_Guard_Base%2C_Oregon_on_July_12%2C_2024_-_40.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/52/142nd_Wing_F-15EX_Eagle_II_Unveiling_Ceremony_at_the_Portland_Air_National_Guard_Base%2C_Oregon_on_July_12%2C_2024_-_40.jpg",
+      "width": 3928,
+      "height": 5645,
+      "title": "142nd Wing F-15EX Eagle II Unveiling Ceremony at the Portland Air National Guard Base, Oregon on July 12, 2024 - 40.jpg",
+      "description": "142nd Wing F-15EX Eagle II Unveiling Ceremony at the Portland Air National Guard Base, Oregon on July 12, 2024",
+      "license": "CC BY 2.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/142nd_Wing_F-15EX_Eagle_II_Unveiling_Ceremony_at_the_Portland_Air_National_Guard_Base%2C_Oregon_on_July_12%2C_2024_-_41.jpg/1280px-142nd_Wing_F-15EX_Eagle_II_Unveiling_Ceremony_at_the_Portland_Air_National_Guard_Base%2C_Oregon_on_July_12%2C_2024_-_41.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/d5/142nd_Wing_F-15EX_Eagle_II_Unveiling_Ceremony_at_the_Portland_Air_National_Guard_Base%2C_Oregon_on_July_12%2C_2024_-_41.jpg",
+      "width": 5540,
+      "height": 3933,
+      "title": "142nd Wing F-15EX Eagle II Unveiling Ceremony at the Portland Air National Guard Base, Oregon on July 12, 2024 - 41.jpg",
+      "description": "142nd Wing F-15EX Eagle II Unveiling Ceremony at the Portland Air National Guard Base, Oregon on July 12, 2024",
+      "license": "CC BY 2.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/142nd_Wing_F-15EX_Eagle_II_Unveiling_Ceremony_at_the_Portland_Air_National_Guard_Base%2C_Oregon_on_July_12%2C_2024_-_44.jpg/1280px-142nd_Wing_F-15EX_Eagle_II_Unveiling_Ceremony_at_the_Portland_Air_National_Guard_Base%2C_Oregon_on_July_12%2C_2024_-_44.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/93/142nd_Wing_F-15EX_Eagle_II_Unveiling_Ceremony_at_the_Portland_Air_National_Guard_Base%2C_Oregon_on_July_12%2C_2024_-_44.jpg",
+      "width": 5580,
+      "height": 3720,
+      "title": "142nd Wing F-15EX Eagle II Unveiling Ceremony at the Portland Air National Guard Base, Oregon on July 12, 2024 - 44.jpg",
+      "description": "142nd Wing F-15EX Eagle II Unveiling Ceremony at the Portland Air National Guard Base, Oregon on July 12, 2024",
+      "license": "CC BY 2.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/F-15EX_Eagle_II.jpg/1280px-F-15EX_Eagle_II.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/43/F-15EX_Eagle_II.jpg",
+      "width": 4750,
+      "height": 3167,
+      "title": "F-15EX Eagle II.jpg",
+      "description": "An F-15EX Eagle II from the 40th Flight Test Squadron, 96th Test Wing out of Eglin Air Force Base, Florida, flies in formation during an aerial refueling operation above the skies of Northern Californ",
+      "license": "Public domain",
+      "source": "wikimedia"
+    }
+  ]
+}

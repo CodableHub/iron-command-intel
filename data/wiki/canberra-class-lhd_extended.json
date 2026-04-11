@@ -1,0 +1,200 @@
+{
+  "combat_history": [
+    {
+      "date": "2019-2020",
+      "operation": "Operation Bushfire Assist",
+      "event": "HMAS Adelaide and Canberra conducted evacuation of civilians from bushfire-affected areas, demonstrating humanitarian capability. Adelaide evacuated over 1,100 people from Mallacoota beach.",
+      "significance": "First major operational use, proved value for domestic emergency response and validated well-deck operations in challenging conditions"
+    },
+    {
+      "date": "2021",
+      "operation": "Indo-Pacific Endeavour 21",
+      "event": "HMAS Adelaide deployed on 4-month regional engagement with 13 nations, operating MRH-90 and Chinook helicopters, conducting amphibious exercises.",
+      "significance": "Demonstrated sustained regional presence capability and interoperability with key Indo-Pacific partners"
+    },
+    {
+      "date": "2022",
+      "operation": "Exercise Talisman Sabre",
+      "event": "Both ships participated in large-scale US-Australia amphibious exercise, with HMAS Canberra operating F-35B aircraft from US Marines for first time.",
+      "significance": "Proved flight deck can handle F-35B despite lacking ski-jump, opening future capability options"
+    }
+  ],
+  "modernization": [
+    {
+      "program": "F-35B Integration Study",
+      "status": "completed",
+      "timeline": "2022-2023",
+      "description": "Assessment of modifications needed to operate F-35B Lightning II fighters. Study concluded ships can operate F-35B with heat-resistant deck coating and minor modifications.",
+      "impact": "Opens potential for genuine aircraft carrier capability, significantly enhancing power projection"
+    },
+    {
+      "program": "Enhanced Communications Suite",
+      "status": "in-progress",
+      "timeline": "2023-2025",
+      "description": "Upgrade to satellite communications and data links to support Joint All-Domain Command and Control (JADC2) concepts with US forces.",
+      "impact": "Better integration with US Navy and enhanced command and control for distributed operations"
+    }
+  ],
+  "vulnerabilities": [
+    {
+      "area": "Air Defense",
+      "description": "Extremely limited air defense capability with only CIWS and small-caliber guns. No medium or long-range SAM systems. Completely dependent on escort vessels or friendly air cover.",
+      "context": "Critical weakness in contested environments where adversaries have significant missile and air capabilities",
+      "mitigation": "Always operates with air defense escorts (Hobart-class destroyers) when in threat environments"
+    },
+    {
+      "area": "Speed and Survivability",
+      "description": "21-knot maximum speed is slow by modern naval standards. Large signature makes it easy to detect and target. Minimal armor protection.",
+      "context": "Vulnerable to modern anti-ship missiles and submarines, requires substantial defensive escort",
+      "mitigation": "Relies on distance from threats and escort protection rather than organic survivability"
+    },
+    {
+      "area": "Aviation Fuel Capacity",
+      "description": "Limited aviation fuel storage restricts sustained high-tempo flight operations, particularly with fuel-hungry aircraft like Chinook helicopters.",
+      "context": "Limits operational endurance in extended operations far from resupply",
+      "mitigation": "Requires regular replenishment from support vessels during extended operations"
+    }
+  ],
+  "operational_patterns": {
+    "typical_deployment": "Regional presence operations, humanitarian assistance, amphibious exercises with allies, disaster relief",
+    "deployment_length_months": 4,
+    "key_operating_areas": [
+      "Coral Sea",
+      "South China Sea",
+      "Indian Ocean",
+      "Southwest Pacific"
+    ],
+    "typical_task_group": "Usually operates with 1-2 Hobart-class destroyers, 1 ANZAC-class frigate, and Supply-class AOR",
+    "readiness_notes": "High availability despite complexity. Both ships have maintained good operational tempo since commissioning."
+  },
+  "peer_comparisons": [
+    {
+      "platform": "JS Izumo-class",
+      "country": "Japan",
+      "relationship": "regional equivalent",
+      "key_differences": "Izumo converting to F-35B carriers but smaller (19,500t vs 27,500t). Canberra has superior amphibious capability with well deck. Izumo has better self-defense systems.",
+      "video_angle": "Pacific helicopter carriers: comparing Australia's amphibious focus vs Japan's air defense conversion"
+    },
+    {
+      "platform": "Type 075 Yushen-class",
+      "country": "China",
+      "relationship": "regional rival",
+      "key_differences": "Type 075 is larger (40,000t) with stronger self-defense, carries more aircraft and troops. Canberra has superior sensors and electronics but much smaller capacity.",
+      "video_angle": "David vs Goliath: How Australia's LHDs stack against China's amphibious fleet"
+    },
+    {
+      "platform": "Juan Carlos I",
+      "country": "Spain",
+      "relationship": "predecessor/parent design",
+      "key_differences": "Near-identical hull but Juan Carlos retains ski-jump for Harrier operations. Spanish version has different radar and combat systems. Both share most capabilities.",
+      "video_angle": "Original vs copy: How Australia modified Spain's amphibious design"
+    },
+    {
+      "platform": "HMS Queen Elizabeth",
+      "country": "United Kingdom",
+      "relationship": "allied equivalent",
+      "key_differences": "QE is pure aircraft carrier (65,000t) with 36+ F-35B capability but no amphibious capacity. Completely different mission focus despite similar flight deck appearance.",
+      "video_angle": "Carrier vs amphibious ship: why Australia and Britain chose different paths"
+    },
+    {
+      "platform": "USS America-class",
+      "country": "United States",
+      "relationship": "allied equivalent",
+      "key_differences": "America-class larger (45,000t) with no well deck but superior aviation facilities and self-defense. More optimized for aviation operations than amphibious assault.",
+      "video_angle": "Allied amphibious ships: US aviation focus vs Australian flexibility"
+    }
+  ],
+  "search_keywords": [
+    "canberra class",
+    "HMAS Canberra",
+    "HMAS Adelaide",
+    "LHD 02",
+    "LHD 03",
+    "australian aircraft carrier",
+    "landing helicopter dock",
+    "juan carlos",
+    "RAN amphibious"
+  ],
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Adelaide_Canberra_FBE.JPG/1280px-Adelaide_Canberra_FBE.JPG",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Adelaide_Canberra_FBE.JPG",
+      "width": 4928,
+      "height": 3264,
+      "title": "Adelaide Canberra FBE.JPG",
+      "description": "The landing helicopter dock ships HMAS Adelaide and HMAS Canberra dominating the wharfside at Fleet Base East",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Canberra-class_landing_helicopter_dock_ships_%2830676205621%29.jpg/1280px-Canberra-class_landing_helicopter_dock_ships_%2830676205621%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Canberra-class_landing_helicopter_dock_ships_%2830676205621%29.jpg",
+      "width": 4119,
+      "height": 1851,
+      "title": "Canberra-class landing helicopter dock ships (30676205621).jpg",
+      "description": "Canberra-class landing helicopter dock ships",
+      "license": "CC BY 2.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Canberras_Concept_Mission_UAV_1.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Canberras_Concept_Mission_UAV_1.jpg",
+      "width": 720,
+      "height": 220,
+      "title": "Canberras Concept Mission UAV 1.jpg",
+      "description": "Canberras",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/72/Cpl._Ryan_Dills_communicates_with_other_assault_amphibious_vehicles_while_traveling_from_amphibious_assault_ship_USS_San_Diego_to_Royal_Australian_Navy_Canberra_class_amphibious_ship_HMAS_Canberra_%28L02%29_in_the_Pacific_Ocean.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/72/Cpl._Ryan_Dills_communicates_with_other_assault_amphibious_vehicles_while_traveling_from_amphibious_assault_ship_USS_San_Diego_to_Royal_Australian_Navy_Canberra_class_amphibious_ship_HMAS_Canberra_%28L02%29_in_the_Pacific_Ocean.jpg",
+      "width": 1200,
+      "height": 748,
+      "title": "Cpl. Ryan Dills communicates with other assault amphibious vehicles while traveling from amphibious assault ship USS San Diego to Royal Australian Navy Canberra class amphibious ship HMAS Canberra (L02) in the Pacific Ocean.jpg",
+      "description": "Cpl. Ryan Dills communicates with other assault amphibious vehicles while traveling from amphibious assault ship USS San Diego to Royal Australian Navy Canberra class amphibious ship HMAS Canberra (L0",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/HMAS_Canberra_%26_HMAS_Adelaide.jpg/1280px-HMAS_Canberra_%26_HMAS_Adelaide.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/48/HMAS_Canberra_%26_HMAS_Adelaide.jpg",
+      "width": 4608,
+      "height": 3072,
+      "title": "HMAS Canberra & HMAS Adelaide.jpg",
+      "description": "HMAS Canberra &amp; HMAS Adelaide berthed at RAN Fleet Base East in Sydney on 2nd Jan 2016",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Optical_Osprey-HMAS_Canberra%28cropped%29.jpg/1280px-Optical_Osprey-HMAS_Canberra%28cropped%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Optical_Osprey-HMAS_Canberra%28cropped%29.jpg",
+      "width": 3120,
+      "height": 1755,
+      "title": "Optical Osprey-HMAS Canberra(cropped).jpg",
+      "description": "PACIFIC OCEAN (July 25, 2022) U.S. Marine Corps MV-22B Osprey tiltrotor aircraft perform deck landing maneuverers aboard the Royal Australian Navy Canberra-class landing helicopter dock HMAS Canberra ",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/RAN_Ships_in_dock_Sydney_Harbour-1_%2824596904787%29.jpg/1280px-RAN_Ships_in_dock_Sydney_Harbour-1_%2824596904787%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/8a/RAN_Ships_in_dock_Sydney_Harbour-1_%2824596904787%29.jpg",
+      "width": 2638,
+      "height": 1606,
+      "title": "RAN Ships in dock Sydney Harbour-1 (24596904787).jpg",
+      "description": "RAN Ships in dock Sydney Harbour",
+      "license": "CC BY-SA 2.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/The_future_HMAS_Canberra_being_fitted_out_in_Williamstown_in_February_2014.jpg/1280px-The_future_HMAS_Canberra_being_fitted_out_in_Williamstown_in_February_2014.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/77/The_future_HMAS_Canberra_being_fitted_out_in_Williamstown_in_February_2014.jpg",
+      "width": 1920,
+      "height": 817,
+      "title": "The future HMAS Canberra being fitted out in Williamstown in February 2014.jpg",
+      "description": "HMAS Canberra being fitted out in Williamstown, Melbourne.",
+      "license": "CC BY-SA 3.0",
+      "source": "wikimedia"
+    }
+  ]
+}

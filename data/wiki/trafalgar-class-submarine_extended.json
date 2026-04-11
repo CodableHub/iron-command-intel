@@ -1,0 +1,302 @@
+{
+  "combat_history": [
+    {
+      "date": "1999-03",
+      "operation": "Operation Allied Force",
+      "event": "HMS Splendid (T-class predecessor) and HMS Triumph launched Tomahawk strikes against Yugoslav targets, marking first operational use of submarine-launched Tomahawks by Royal Navy",
+      "significance": "Demonstrated transition from pure ASW role to multi-mission land-attack capability"
+    },
+    {
+      "date": "2001-10",
+      "operation": "Operation Enduring Freedom",
+      "event": "HMS Trafalgar and other T-boats conducted Tomahawk strikes against Taliban and Al-Qaeda targets in Afghanistan from Arabian Sea",
+      "significance": "Showed strategic reach and relevance in post-Cold War conflicts far from traditional patrol areas"
+    },
+    {
+      "date": "2011-03",
+      "operation": "Operation Ellamy",
+      "event": "HMS Triumph launched Tomahawk missiles against Libyan air defense sites in opening phase of NATO intervention",
+      "significance": "Confirmed enduring land-attack capability despite aging platform"
+    },
+    {
+      "date": "2000-03-20",
+      "operation": null,
+      "event": "HMS Tireless suffered reactor coolant leak while submerged near Gibraltar, forcing emergency surface and lengthy repairs",
+      "significance": "Highlighted aging reactor plant issues and maintenance challenges facing the class"
+    },
+    {
+      "date": "2007",
+      "operation": "Various deployments",
+      "event": "Multiple Trafalgar-class boats conducted covert intelligence gathering missions in support of Iraq operations and broader Middle East presence",
+      "significance": "Demonstrated continued relevance for strategic reconnaissance and special operations support"
+    }
+  ],
+  "modernization": [
+    {
+      "program": "Core H reactor refueling program",
+      "status": "cancelled",
+      "timeline": "2000s",
+      "description": "Planned mid-life reactor core replacements cancelled due to cost and decision to accelerate Astute program instead",
+      "impact": "Limited remaining service life and forced early retirements of otherwise capable boats"
+    },
+    {
+      "program": "Tomahawk Integration",
+      "status": "completed",
+      "timeline": "1990s-2000s",
+      "description": "Retrofit of later boats with Tomahawk Block IV capability through torpedo tube launch system",
+      "impact": "Provided credible land-attack capability extending platform relevance into post-Cold War era"
+    },
+    {
+      "program": "Sonar 2076 upgrade",
+      "status": "completed",
+      "timeline": "1990s-2000s",
+      "description": "Replacement of original Type 2020 sonar with more capable integrated sonar suite",
+      "impact": "Maintained acoustic sensor advantage critical for submarine operations"
+    }
+  ],
+  "vulnerabilities": [
+    {
+      "area": "Reactor plant aging",
+      "description": "PWR1 reactors approaching end of safe operating life with increasing maintenance requirements and reduced availability",
+      "context": "Creates capability gaps as boats spend more time in maintenance and face forced early retirement",
+      "mitigation": "Accelerated Astute program delivery, though gaps remain due to construction delays"
+    },
+    {
+      "area": "Limited missile capacity",
+      "description": "No vertical launch system means reduced Tomahawk loadout compared to modern SSNs, forced trade-off between torpedoes and cruise missiles",
+      "context": "In high-intensity conflict, insufficient firepower for sustained land-attack missions",
+      "mitigation": "None practical given platform constraints"
+    },
+    {
+      "area": "Hull fatigue and materials",
+      "description": "Steel pressure hulls showing signs of fatigue after 30+ years and multiple deep-dive cycles",
+      "context": "Limits operational diving depth and creates safety margins that reduce tactical flexibility",
+      "mitigation": "Enhanced inspection protocols and conservative operating procedures"
+    },
+    {
+      "area": "Communications and networking",
+      "description": "Legacy communications systems not fully compatible with modern joint operations and real-time intelligence sharing",
+      "context": "Reduces integration with surface task groups and limits responsiveness to dynamic targeting",
+      "mitigation": "Limited upgrades where possible, but fundamental architecture constraints remain"
+    }
+  ],
+  "operational_patterns": {
+    "typical_deployment": "Independent patrol operations, special operations support, occasional task group integration",
+    "deployment_length_months": 6,
+    "key_operating_areas": [
+      "North Atlantic",
+      "Mediterranean",
+      "Arabian Gulf",
+      "Indo-Pacific"
+    ],
+    "typical_task_group": "Independent operations or with surface action group for specific missions",
+    "readiness_notes": "Reduced availability due to aging reactor plants and extended maintenance periods, typically 1-2 boats operationally available"
+  },
+  "peer_comparisons": [
+    {
+      "platform": "Los Angeles-class submarine",
+      "country": "United States",
+      "relationship": "contemporary rival/ally equivalent",
+      "key_differences": "LA-class emphasized speed and numbers over stealth, larger crew (130 vs 140+), similar vintage but longer service life due to reactor refueling",
+      "video_angle": "Anglo vs American submarine philosophy: quality vs quantity in Cold War SSN design"
+    },
+    {
+      "platform": "Rubis-class submarine",
+      "country": "France",
+      "relationship": "European contemporary",
+      "key_differences": "French boats much smaller (2600t vs 5200t) but similar nuclear endurance, different tactical role focused on Mediterranean vs North Atlantic",
+      "video_angle": "Small vs large nuclear submarines: French efficiency vs British capability"
+    },
+    {
+      "platform": "Victor III-class submarine",
+      "country": "Soviet Union/Russia",
+      "relationship": "primary Cold War adversary",
+      "key_differences": "Soviet design prioritized speed and diving depth over acoustic stealth, titanium hull vs steel, designed as interceptor vs hunter",
+      "video_angle": "Hunter vs hunted: British stealth vs Soviet speed in Cold War submarine warfare"
+    },
+    {
+      "platform": "Type 209 submarine",
+      "country": "Germany",
+      "relationship": "conventional alternative",
+      "key_differences": "Diesel-electric with limited endurance but much lower cost and complexity, represents different national approach to submarine warfare",
+      "video_angle": "Nuclear vs conventional: when does the extra capability justify the cost?"
+    }
+  ],
+  "search_keywords": [
+    "trafalgar class",
+    "trafalgar-class",
+    "HMS Trafalgar",
+    "HMS Turbulent",
+    "HMS Tireless",
+    "HMS Torbay",
+    "HMS Trenchant",
+    "HMS Talent",
+    "HMS Triumph",
+    "royal navy submarine",
+    "SSN",
+    "PWR1",
+    "spearfish torpedo"
+  ],
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/F214_L%C3%BCbeck_and_Trafalgar_class_sub_in_Plymouth_Sound.jpg/1280px-F214_L%C3%BCbeck_and_Trafalgar_class_sub_in_Plymouth_Sound.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/bf/F214_L%C3%BCbeck_and_Trafalgar_class_sub_in_Plymouth_Sound.jpg",
+      "width": 3310,
+      "height": 2382,
+      "title": "F214 L\u00fcbeck and Trafalgar class sub in Plymouth Sound.jpg",
+      "description": "The German frigate L\u00fcbeck (F214) passing a Trafalgar-class submarine in Plymouth Sound, just inside Plymouth Breakwater.",
+      "license": "CC BY-SA 3.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/HMS_Trafalgar%2C_a_Trafalgar_Class_Attack_Submarine%2C_on_transit_to_the_fleet_review_in_Portsmouth_Dockyard%2C_part_of_the_Trafalgar_200_celebrations._MOD_45145964.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/HMS_Trafalgar%2C_a_Trafalgar_Class_Attack_Submarine%2C_on_transit_to_the_fleet_review_in_Portsmouth_Dockyard%2C_part_of_the_Trafalgar_200_celebrations._MOD_45145964.jpg",
+      "width": 1187,
+      "height": 2000,
+      "title": "HMS Trafalgar, a Trafalgar Class Attack Submarine, on transit to the fleet review in Portsmouth Dockyard, part of the Trafalgar 200 celebrations. MOD 45145964.jpg",
+      "description": "HMS Trafalgar, a Trafalgar Class Attack Submarine, on transit to the fleet review in Portsmouth Dockyard, part of the Trafalgar 200 celebrations. \n<p>In this Trafalgar bicentennial year, the Royal Nav",
+      "license": "OGL v1.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/HMS_Trafalgar_SSN.JPG/1280px-HMS_Trafalgar_SSN.JPG",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/28/HMS_Trafalgar_SSN.JPG",
+      "width": 3648,
+      "height": 2736,
+      "title": "HMS Trafalgar SSN.JPG",
+      "description": "Royal Navy nuclear attack submarine HMS Trafalgar departing 38 berth Southampton Docks, UK, 10th Dec 2008. In the background can be seen the Southampton University National Oceanographic Centre, and s",
+      "license": "CC BY-SA 3.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/38/Plymouth_%2C_Trafalgar_Submarine_at_Devonport_Naval_Dockyard_-_geograph.org.uk_-_1151394.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/38/Plymouth_%2C_Trafalgar_Submarine_at_Devonport_Naval_Dockyard_-_geograph.org.uk_-_1151394.jpg",
+      "width": 640,
+      "height": 480,
+      "title": "Plymouth , Trafalgar Submarine at Devonport Naval Dockyard - geograph.org.uk - 1151394.jpg",
+      "description": "Plymouth\u00a0: Trafalgar Submarine at Devonport Naval Dockyard Plymouth is the base for seven of the Trafalgar class nuclear powered hunter killer submarines and the main refitting base for all Royal Navy",
+      "license": "CC BY-SA 2.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Plymouth_%2C_Trafalgar_Submarine_at_Devonport_Naval_Dockyard_-_geograph.org.uk_-_1151413.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Plymouth_%2C_Trafalgar_Submarine_at_Devonport_Naval_Dockyard_-_geograph.org.uk_-_1151413.jpg",
+      "width": 640,
+      "height": 480,
+      "title": "Plymouth , Trafalgar Submarine at Devonport Naval Dockyard - geograph.org.uk - 1151413.jpg",
+      "description": "Plymouth\u00a0: Trafalgar Submarine at Devonport Naval Dockyard It is the base for seven of the Trafalgar class nuclear powered hunter killer submarines and the main refitting base for all Royal Navy nucle",
+      "license": "CC BY-SA 2.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Trafalgar-class_sub_in_Plymouth_Sound.jpg/1280px-Trafalgar-class_sub_in_Plymouth_Sound.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/15/Trafalgar-class_sub_in_Plymouth_Sound.jpg",
+      "width": 2020,
+      "height": 1395,
+      "title": "Trafalgar-class sub in Plymouth Sound.jpg",
+      "description": "An unidentified Trafalgar-class submarine in Plymouth Sound, Devon, accompanied by two tugs and a police boat. The houses are in Heybrook Bay.",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Trafalgar-class_submarine_and_Plymouth_Breakwater.jpg/1280px-Trafalgar-class_submarine_and_Plymouth_Breakwater.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Trafalgar-class_submarine_and_Plymouth_Breakwater.jpg",
+      "width": 3150,
+      "height": 2384,
+      "title": "Trafalgar-class submarine and Plymouth Breakwater.jpg",
+      "description": "A Trafalgar-class submarine being positioned by the tugs SD Adept and SD Forceful, at the mooring behind Plymouth Breakwater.",
+      "license": "CC BY-SA 3.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/af/Trafalgar_class_SSN_silhouette.png",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/af/Trafalgar_class_SSN_silhouette.png",
+      "width": 557,
+      "height": 231,
+      "title": "Trafalgar class SSN silhouette.png",
+      "description": "Silhouette of a Trafalgar class SSN",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/NH_97214_USS_Scorpion_%28SSN-589%29.tif/lossy-page1-1280px-NH_97214_USS_Scorpion_%28SSN-589%29.tif.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/NH_97214_USS_Scorpion_%28SSN-589%29.tif",
+      "width": 6092,
+      "height": 4928,
+      "title": "NH 97214 USS Scorpion (SSN-589).tif",
+      "description": "USS Scorpion (SSN-589) off the coast of New London, Connecticut, photographed in August 1960",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/SSN-AUKUS_submarine.jpg/1280px-SSN-AUKUS_submarine.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/a1/SSN-AUKUS_submarine.jpg",
+      "width": 1500,
+      "height": 844,
+      "title": "SSN-AUKUS submarine.jpg",
+      "description": "Artist rendering of possible design for SSN-AUKUS submarines",
+      "license": "OGL 3",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/USN_1048964_USS_Thresher_%28SSN-593%29.jpg/1280px-USN_1048964_USS_Thresher_%28SSN-593%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/2e/USN_1048964_USS_Thresher_%28SSN-593%29.jpg",
+      "width": 5706,
+      "height": 4554,
+      "title": "USN 1048964 USS Thresher (SSN-593).jpg",
+      "description": "Launch of USS Thresher (SSN-593) at the Portsmouth Naval Shipyard, New Hampshire",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/USN_1048964_USS_Thresher_%28SSN-593%29.png/1280px-USN_1048964_USS_Thresher_%28SSN-593%29.png",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/7b/USN_1048964_USS_Thresher_%28SSN-593%29.png",
+      "width": 5706,
+      "height": 4554,
+      "title": "USN 1048964 USS Thresher (SSN-593).png",
+      "description": "Launch of USS Thresher (SSN-593) at the Portsmouth Naval Shipyard, New Hampshire",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/USS_Iowa_%28SSN_797%29_delivery.jpg/1280px-USS_Iowa_%28SSN_797%29_delivery.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/85/USS_Iowa_%28SSN_797%29_delivery.jpg",
+      "width": 3000,
+      "height": 1998,
+      "title": "USS Iowa (SSN 797) delivery.jpg",
+      "description": "The pre-commissioning unit (PCU) Iowa (SSN 797) arrives for the first time at Naval Submarine Base New London in Groton, Connecticut, December 19, 2024. The future USS Iowa was delivered to Submarine ",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/USS_Tullibee_%28SSN-597%29_underway_at_sea%2C_circa_in_1960.jpg/1280px-USS_Tullibee_%28SSN-597%29_underway_at_sea%2C_circa_in_1960.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/59/USS_Tullibee_%28SSN-597%29_underway_at_sea%2C_circa_in_1960.jpg",
+      "width": 2100,
+      "height": 1469,
+      "title": "USS Tullibee (SSN-597) underway at sea, circa in 1960.jpg",
+      "description": "The U.S. Navy submarine USS <i>Tullibee</i> (SSN-597) underway at sea, circa in 1960.",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/USS_Washington_%28SSN-787%29_16-Sep-2024.jpg/1280px-USS_Washington_%28SSN-787%29_16-Sep-2024.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/35/USS_Washington_%28SSN-787%29_16-Sep-2024.jpg",
+      "width": 3000,
+      "height": 1980,
+      "title": "USS Washington (SSN-787) 16-Sep-2024.jpg",
+      "description": "GROTON, Conn. The Virginia-class fast attack submarine USS Washington (SSN 787) pulls into to Submarine Base New London in Groton, Conn. on Monday, September 16, 2024. Washington and crew operate unde",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/US_Navy_030903-N-0435H-044_USS_Greeneville_%28SSN_772%29_departed.jpg/1280px-US_Navy_030903-N-0435H-044_USS_Greeneville_%28SSN_772%29_departed.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/33/US_Navy_030903-N-0435H-044_USS_Greeneville_%28SSN_772%29_departed.jpg",
+      "width": 3008,
+      "height": 1960,
+      "title": "US Navy 030903-N-0435H-044 USS Greeneville (SSN 772) departed.jpg",
+      "description": "Pearl Harbor, Hawaii (Sept. 3, 2003) -- USS Greeneville (SSN 772) departed for deployment Sept. 1, 2003, as part of Expeditionary Strike Group One (ESG-1), which set sail Aug. 22 from Naval Station Sa",
+      "license": "Public domain",
+      "source": "wikimedia"
+    }
+  ]
+}

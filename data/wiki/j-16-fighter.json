@@ -1,0 +1,448 @@
+{
+  "id": 90,
+  "slug": "j-16-fighter",
+  "name": "Shenyang J-16",
+  "designation": "J-16",
+  "type": "fighter",
+  "country": "China",
+  "operator": "People's Liberation Army Air Force",
+  "overview_md": "The Shenyang J-16 is China's premier twin-engine multirole fighter, representing the PLAAF's evolution toward Western-style air superiority and strike capabilities. Based on the Russian Su-30MKK airframe but heavily modified with indigenous Chinese systems, the J-16 serves as Beijing's answer to the F-15E Strike Eagle and F/A-18E/F Super Hornet. The aircraft combines long-range strike capability with advanced air-to-air combat systems, featuring an Active Electronically Scanned Array (AESA) radar and compatibility with the full spectrum of Chinese precision-guided munitions.\n\nStrategically, the J-16 fills a critical gap in China's force projection capabilities, providing the PLAAF with a platform capable of conducting deep strike missions against high-value targets while maintaining strong air-to-air combat effectiveness. Its twin-engine reliability and substantial payload capacity make it ideal for operations over the vast distances of the Pacific theater, particularly in contested scenarios around Taiwan and the South China Sea. The aircraft's sensor fusion capabilities and electronic warfare systems represent significant advances in Chinese aerospace technology.\n\nIn the current threat environment, the J-16 poses a serious challenge to regional air superiority, particularly when operating in large formations with datalink coordination. Its ability to carry long-range air-to-air missiles like the PL-15 extends China's defensive perimeter significantly, while its precision strike capabilities threaten critical infrastructure and naval assets throughout the first and second island chains. The platform's rapid production rate and deployment numbers indicate China's commitment to modernizing its tactical aviation forces.\n\nCompared to Western peers, the J-16 likely matches or exceeds F-15E capabilities in certain areas, particularly in terms of radar performance and missile range, though questions remain about overall systems integration, pilot training standards, and combat-proven reliability. Its proliferation represents one of the most significant shifts in regional air power balance since the end of the Cold War.",
+  "specs_json": {
+    "displacement_tonnes": null,
+    "length_m": 21.9,
+    "beam_m": 14.7,
+    "draft_m": null,
+    "speed_knots": null,
+    "range_nm": 1620,
+    "crew": 2,
+    "propulsion": "2x WS-10A turbofan engines, 31,000 lbf thrust each",
+    "radar": "Type 1475 AESA radar",
+    "sonar": null,
+    "combat_system": "Integrated avionics suite with datalink capability",
+    "vls_cells": 0,
+    "additional": {
+      "max_speed_mach": 2.0,
+      "service_ceiling_m": 18000,
+      "max_takeoff_weight_kg": 38000,
+      "internal_fuel_kg": 9400,
+      "external_hardpoints": 12,
+      "max_payload_kg": 12000,
+      "g_limit": 9.0
+    }
+  },
+  "armament_json": [
+    {
+      "category": "Air-to-Air Missiles",
+      "name": "PL-15",
+      "type": "beyond visual range missile",
+      "quantity": "up to 6",
+      "range_km": 300,
+      "notes": "Primary long-range AAM with AESA seeker"
+    },
+    {
+      "category": "Air-to-Air Missiles",
+      "name": "PL-10",
+      "type": "short-range infrared missile",
+      "quantity": "up to 4",
+      "range_km": 20,
+      "notes": "High off-boresight capability"
+    },
+    {
+      "category": "Air-to-Surface Missiles",
+      "name": "YJ-91",
+      "type": "anti-radiation missile",
+      "quantity": "up to 4",
+      "range_km": 120,
+      "notes": "SEAD/DEAD missions"
+    },
+    {
+      "category": "Air-to-Surface Missiles",
+      "name": "KD-88",
+      "type": "air-to-surface missile",
+      "quantity": "up to 6",
+      "range_km": 180,
+      "notes": "Precision strike weapon"
+    },
+    {
+      "category": "Guns",
+      "name": "Type 23-3",
+      "type": "autocannon",
+      "quantity": "1x 30mm",
+      "range_km": 3,
+      "notes": "Internal cannon, 150 rounds"
+    },
+    {
+      "category": "Bombs",
+      "name": "Various PGMs",
+      "type": "precision guided munitions",
+      "quantity": "multiple configurations",
+      "range_km": 0,
+      "notes": "LS series laser-guided bombs, FT series satellite-guided"
+    }
+  ],
+  "variants_json": [
+    {
+      "name": "J-16 Basic",
+      "designation_range": "Initial production",
+      "years": "2013-2016",
+      "count": 50,
+      "key_changes": "Initial variant with Type 1475 AESA radar, WS-10A engines, basic multirole capability",
+      "status": "active"
+    },
+    {
+      "name": "J-16 Improved",
+      "designation_range": "Mid-production",
+      "years": "2017-2020",
+      "count": 120,
+      "key_changes": "Enhanced radar processing, improved EW suite, upgraded datalink capabilities, WS-10B engines",
+      "status": "active"
+    },
+    {
+      "name": "J-16 Latest",
+      "designation_range": "Current production",
+      "years": "2021-present",
+      "count": 80,
+      "key_changes": "Advanced sensor fusion, improved pilot-vehicle interface, enhanced networked warfare capabilities",
+      "status": "building"
+    },
+    {
+      "name": "J-16D",
+      "designation_range": "EW variant",
+      "years": "2019-present",
+      "count": 20,
+      "key_changes": "Dedicated electronic warfare variant with wingtip pods, additional EW equipment, reduced weapons load",
+      "status": "building"
+    }
+  ],
+  "fleet_status_json": [
+    {
+      "hull_number": "Various",
+      "name": "PLAAF J-16 Fleet",
+      "variant": "Mixed variants",
+      "commissioned": "2013-present",
+      "home_port": "Multiple airbases",
+      "status": "active"
+    }
+  ],
+  "cost_usd": 45000000.0,
+  "unit_count": 250,
+  "first_commissioned": "2013",
+  "builder": "Shenyang Aircraft Corporation",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f8/PLAAF_J-16_-_2.jpg",
+  "wiki_url": "https://en.wikipedia.org/wiki/Shenyang_J-16",
+  "sources_json": [
+    "https://en.wikipedia.org/wiki/Shenyang_J-16",
+    "https://www.globalsecurity.org/military/world/china/j-16.htm",
+    "https://www.janes.com/defence-news/news-detail/plaaf-j-16-multirole-fighter-enters-service",
+    "https://www.scmp.com/news/china/military/article/3154321/chinas-j-16-fighter-jets-make-debut-military-parade"
+  ],
+  "comparison_tags": [
+    "fighter",
+    "multirole",
+    "twin-engine",
+    "plaaf",
+    "chinese-military",
+    "flanker-family",
+    "aesa-radar",
+    "pacific-theater"
+  ],
+  "created_at": "2026-04-11 10:12:51",
+  "updated_at": "2026-04-11T10:12:51.273815",
+  "news": [],
+  "events": [],
+  "ic_coverage": [],
+  "combat_history": [
+    {
+      "date": "2020-09",
+      "operation": "Taiwan Strait Operations",
+      "event": "J-16 formations conducted multiple crossings of Taiwan Strait median line, demonstrating long-range patrol capability and political messaging",
+      "significance": "First major operational deployment showing platform's strategic intimidation role"
+    },
+    {
+      "date": "2021-10",
+      "operation": "Taiwan ADIZ Incursions",
+      "event": "Record-setting sortie rates with J-16s comprising majority of aircraft in 150+ aircraft formations entering Taiwan's ADIZ",
+      "significance": "Demonstrated mass employment tactics and logistical sustainability"
+    },
+    {
+      "date": "2022-08",
+      "operation": "Taiwan Blockade Exercise",
+      "event": "J-16s participated in live-fire exercises around Taiwan following Pelosi visit, conducting simulated strike missions",
+      "significance": "First demonstration of integrated strike package operations in realistic scenario"
+    }
+  ],
+  "modernization": [
+    {
+      "program": "WS-10C Engine Upgrade",
+      "status": "in-progress",
+      "timeline": "2022-2025",
+      "description": "Replacement of WS-10A/B engines with improved WS-10C variant offering better reliability, fuel efficiency, and thrust-to-weight ratio",
+      "impact": "Improved range, payload capacity, and reduced maintenance requirements"
+    },
+    {
+      "program": "Advanced Sensor Integration",
+      "status": "in-progress",
+      "timeline": "2023-2026",
+      "description": "Integration of distributed aperture system, improved IRST, and enhanced electronic support measures for better situational awareness",
+      "impact": "Significantly improved detection and tracking of stealth targets"
+    },
+    {
+      "program": "Next-Generation Weapons Integration",
+      "status": "planned",
+      "timeline": "2024-2028",
+      "description": "Integration of PL-17 very long-range AAM, improved anti-ship missiles, and hypersonic strike weapons",
+      "impact": "Extended engagement envelope and improved anti-access capabilities"
+    }
+  ],
+  "vulnerabilities": [
+    {
+      "area": "Engine Reliability",
+      "description": "WS-10 engines still lag Western counterparts in mean time between failures and overall service life",
+      "context": "Critical for sustained operations and limits deployment flexibility",
+      "mitigation": "Ongoing WS-10C development and improved maintenance procedures"
+    },
+    {
+      "area": "Systems Integration Maturity",
+      "description": "Sensor fusion and multi-domain operations capability likely less mature than Western equivalents, particularly in complex electromagnetic environments",
+      "context": "May limit effectiveness against advanced opposition with sophisticated EW capabilities",
+      "mitigation": "Continuous software updates and expanded training programs"
+    },
+    {
+      "area": "Pilot Training Hours",
+      "description": "PLAAF pilot training hours historically lower than Western standards, though rapidly improving",
+      "context": "Affects tactical flexibility and decision-making in complex scenarios",
+      "mitigation": "Increased training tempo and realistic exercise participation"
+    },
+    {
+      "area": "Stealth Limitations",
+      "description": "Conventional airframe design with minimal stealth features makes it vulnerable to modern SAM systems",
+      "context": "Limits utility in high-threat environments without extensive SEAD support",
+      "mitigation": "Standoff weapons employment and coordinated package tactics"
+    }
+  ],
+  "operational_patterns": {
+    "typical_deployment": "Regiment-level formations conducting air superiority, strike, and maritime patrol missions",
+    "deployment_length_months": 0,
+    "key_operating_areas": [
+      "Taiwan Strait",
+      "South China Sea",
+      "East China Sea",
+      "Western Pacific"
+    ],
+    "typical_task_group": "Mixed formations with J-11, J-20, and support aircraft including KJ-500 AWACS and H-6 tankers",
+    "readiness_notes": "High operational tempo maintained, engine maintenance remains primary limiting factor"
+  },
+  "peer_comparisons": [
+    {
+      "platform": "F-15E Strike Eagle",
+      "country": "United States",
+      "relationship": "direct rival",
+      "key_differences": "J-16 likely has superior radar and longer-range missiles, but F-15E has proven combat record and better systems integration. J-16 optimized more for air-to-air while maintaining strike capability.",
+      "video_angle": "Head-to-head capability comparison in Pacific theater scenarios"
+    },
+    {
+      "platform": "F/A-18E/F Super Hornet",
+      "country": "United States",
+      "relationship": "mission overlap rival",
+      "key_differences": "J-16 has significantly longer range and larger payload, Super Hornet has carrier capability and better electronic warfare systems. Different design philosophies for different operational concepts.",
+      "video_angle": "Land-based vs carrier-based multirole fighter trade-offs"
+    },
+    {
+      "platform": "Su-35 Flanker-E",
+      "country": "Russia",
+      "relationship": "evolutionary cousin",
+      "key_differences": "Both based on Flanker family but J-16 has AESA radar and Chinese weapons integration. Su-35 has thrust vectoring and potentially better kinematic performance.",
+      "video_angle": "Chinese indigenous development vs Russian original comparison"
+    },
+    {
+      "platform": "Rafale",
+      "country": "France",
+      "relationship": "multirole competitor",
+      "key_differences": "Rafale smaller and more agile with proven SEAD capability, J-16 has longer range and larger weapon load. Different approaches to sensor fusion and network integration.",
+      "video_angle": "European vs Chinese multirole fighter philosophy"
+    },
+    {
+      "platform": "F-16V Viper",
+      "country": "United States/Taiwan",
+      "relationship": "regional adversary",
+      "key_differences": "F-16V much smaller and more numerous, optimized for point defense. J-16 designed for offensive operations with much greater range and payload capacity.",
+      "video_angle": "Taiwan Strait air war matchup analysis"
+    }
+  ],
+  "search_keywords": [
+    "J-16",
+    "J16",
+    "shenyang j-16",
+    "j-16 fighter",
+    "chinese j-16",
+    "plaaf j-16",
+    "flanker",
+    "chinese flanker",
+    "multirole fighter china",
+    "j-16d electronic warfare"
+  ],
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/119th_Fighter_Squadron_-_F-16_Iraq.jpg/1280px-119th_Fighter_Squadron_-_F-16_Iraq.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/08/119th_Fighter_Squadron_-_F-16_Iraq.jpg",
+      "width": 4288,
+      "height": 2848,
+      "title": "119th Fighter Squadron - F-16 Iraq.jpg",
+      "description": "Members of the 332nd Expeditionary Aircraft Maintenance Squadron (EAMXS), place an F-16C+ Fighting Falcon from the 177th Fighter Wing back in a hardened aircraft shelter (HAS) at Joint Base Balad, Ira",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Fighter_Weapons_Instructors_Training_2019_J-881_%2849794665117%29.jpg/1280px-Fighter_Weapons_Instructors_Training_2019_J-881_%2849794665117%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Fighter_Weapons_Instructors_Training_2019_J-881_%2849794665117%29.jpg",
+      "width": 5290,
+      "height": 3527,
+      "title": "Fighter Weapons Instructors Training 2019 J-881 (49794665117).jpg",
+      "description": "<p>Leeuwarden, June 2019\n</p>\nFinal FWIT",
+      "license": "CC BY 2.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/PLAAF_H-6_and_J-16_2024-11-29.jpg/1280px-PLAAF_H-6_and_J-16_2024-11-29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/PLAAF_H-6_and_J-16_2024-11-29.jpg",
+      "width": 1394,
+      "height": 925,
+      "title": "PLAAF H-6 and J-16 2024-11-29.jpg",
+      "description": "A Chinese H-6 bomber and J-16 fighter flew from the East China Sea to the Sea of Japan. The photo was taken by JASDF.",
+      "license": "CC BY 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/PLAAF_J-16_2024-11-30.jpg/1280px-PLAAF_J-16_2024-11-30.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/08/PLAAF_J-16_2024-11-30.jpg",
+      "width": 1369,
+      "height": 937,
+      "title": "PLAAF J-16 2024-11-30.jpg",
+      "description": "A Chinese J-16 fighter flew over Miyako Strait. The photo was taken by JASDF.",
+      "license": "CC BY 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/PLAAF_J-16_61186_2024-11-29.jpg/1280px-PLAAF_J-16_61186_2024-11-29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/7d/PLAAF_J-16_61186_2024-11-29.jpg",
+      "width": 1388,
+      "height": 900,
+      "title": "PLAAF J-16 61186 2024-11-29.jpg",
+      "description": "A Chinese J-16 fighter flew from the East China Sea to the Sea of Japan. The photo was taken by JASDF.",
+      "license": "CC BY 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/PLAAF_YY-20_20844_refueling_J-16_2024-11-30.jpg/1280px-PLAAF_YY-20_20844_refueling_J-16_2024-11-30.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/24/PLAAF_YY-20_20844_refueling_J-16_2024-11-30.jpg",
+      "width": 1411,
+      "height": 914,
+      "title": "PLAAF YY-20 20844 refueling J-16 2024-11-30.jpg",
+      "description": "A Chinese YY-20 tanker and J-16 fighter flew over Miyako Strait. The photo was taken by JASDF.",
+      "license": "CC BY 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d7/PLANS_Liaoning_with_helicopter_and_fighter_2024-09-20.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/d7/PLANS_Liaoning_with_helicopter_and_fighter_2024-09-20.jpg",
+      "width": 1111,
+      "height": 312,
+      "title": "PLANS Liaoning with helicopter and fighter 2024-09-20.jpg",
+      "description": "China's aircraft carrier Liaoning in the Pacific Ocean with fighters and helicopters. Photo by the Japan Maritime Self-Defense Force.",
+      "license": "CC BY 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/73/Russian_Air_Force_Tu-95_and_PLAAF_J-16_2024-11-30.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/73/Russian_Air_Force_Tu-95_and_PLAAF_J-16_2024-11-30.jpg",
+      "width": 1112,
+      "height": 811,
+      "title": "Russian Air Force Tu-95 and PLAAF J-16 2024-11-30.jpg",
+      "description": "A Russian Tu-95 bomber and Chinese J-16 fighter flew over Miyako Strait. The photo was taken by JASDF.",
+      "license": "CC BY 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Cane_cutters_in_Jamaica.jpg/1280px-Cane_cutters_in_Jamaica.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Cane_cutters_in_Jamaica.jpg",
+      "width": 2215,
+      "height": 2800,
+      "title": "Cane cutters in Jamaica.jpg",
+      "description": "Cane cutters in Jamaica. 1880s.",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/86/Jamaica_-_Peeling_ginger.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/86/Jamaica_-_Peeling_ginger.jpg",
+      "width": 1086,
+      "height": 689,
+      "title": "Jamaica - Peeling ginger.jpg",
+      "description": "Photomechanical print (postcard) <br>\nDivided back",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Jamaica_-_Travellers_Palm_01.jpg/1280px-Jamaica_-_Travellers_Palm_01.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Jamaica_-_Travellers_Palm_01.jpg",
+      "width": 1508,
+      "height": 976,
+      "title": "Jamaica - Travellers Palm 01.jpg",
+      "description": "Photomechanical print (postcard)\u00a0: halftone, tinted  <br>\n<p>Divided back <br>\nNo. 71 <br>\n</p>\nPrinted in Germany",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Jamaica_Av_149th_St_td_%282022-02-03%29_03_-_The_Crossing_at_Jamaica_Station%2C_Jamaica_Hampton_Inn_%26_Suites.jpg/1280px-Jamaica_Av_149th_St_td_%282022-02-03%29_03_-_The_Crossing_at_Jamaica_Station%2C_Jamaica_Hampton_Inn_%26_Suites.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/51/Jamaica_Av_149th_St_td_%282022-02-03%29_03_-_The_Crossing_at_Jamaica_Station%2C_Jamaica_Hampton_Inn_%26_Suites.jpg",
+      "width": 5472,
+      "height": 3648,
+      "title": "Jamaica Av 149th St td (2022-02-03) 03 - The Crossing at Jamaica Station, Jamaica Hampton Inn & Suites.jpg",
+      "description": "Looking south Tower I of The Crossing at Jamaica Station complex (left) and the Jamaica Hampton Inn &amp; Suites hotel (right) on Archer Avenue, looking from Jamaica Avenue and 149th Street in Jamaica",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Jamaica_Av_153rd_St_td_%282022-04-11%29_10_-_Jamaica_Performing_Arts_Center%2C_Jamaica_Green.jpg/1280px-Jamaica_Av_153rd_St_td_%282022-04-11%29_10_-_Jamaica_Performing_Arts_Center%2C_Jamaica_Green.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/76/Jamaica_Av_153rd_St_td_%282022-04-11%29_10_-_Jamaica_Performing_Arts_Center%2C_Jamaica_Green.jpg",
+      "width": 5472,
+      "height": 3648,
+      "title": "Jamaica Av 153rd St td (2022-04-11) 10 - Jamaica Performing Arts Center, Jamaica Green.jpg",
+      "description": "Plaques for the Jamaica Performing Arts Center and the surrounding Jamaica Green park, the former First Reformed Church, at the southeast corner of Jamaica Avenue and 153rd Street in Downtown Jamaica,",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Navy_binoculars.jpg/1280px-Navy_binoculars.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Navy_binoculars.jpg",
+      "width": 2100,
+      "height": 1395,
+      "title": "Navy binoculars.jpg",
+      "description": "The sun sets over a set of \"Big Eyes\" binoculars on the signal bridge of the USS <i>Harry S. Truman</i> while an MH-60S Seahawk assigned to the \"Bay Raiders\" of Helicopter Combat Support Squadron 28 a",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/48/Satellite_image_of_Jamaica_in_November_2001.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/48/Satellite_image_of_Jamaica_in_November_2001.jpg",
+      "width": 949,
+      "height": 387,
+      "title": "Satellite image of Jamaica in November 2001.jpg",
+      "description": "Satellite image of Jamaica in November 2001.",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/US_Navy_101116-N-2218M-008_Vice_Adm._David_J._%22Jack%22_Dorsett.jpg/1280px-US_Navy_101116-N-2218M-008_Vice_Adm._David_J._%22Jack%22_Dorsett.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/96/US_Navy_101116-N-2218M-008_Vice_Adm._David_J._%22Jack%22_Dorsett.jpg",
+      "width": 2100,
+      "height": 1500,
+      "title": "US Navy 101116-N-2218M-008 Vice Adm. David J. \"Jack\" Dorsett.jpg",
+      "description": "ARABIAN GULF (Nov. 16, 2010) Vice Adm. David J. \u00a8Jack\" Dorsett, the first Deputy Chief of Naval Operations for Information Dominance, passes through rainbow sideboys as he is piped aboard the aircraft",
+      "license": "Public domain",
+      "source": "wikimedia"
+    }
+  ],
+  "doctrine": null,
+  "curated_sources": []
+}

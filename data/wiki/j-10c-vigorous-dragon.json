@@ -1,0 +1,348 @@
+{
+  "id": 92,
+  "slug": "j-10c-vigorous-dragon",
+  "name": "Chengdu J-10C Vigorous Dragon",
+  "designation": "J-10C",
+  "type": "fighter",
+  "country": "China",
+  "operator": "People's Liberation Army Air Force (PLAAF), Pakistan Air Force",
+  "overview_md": "The Chengdu J-10C Vigorous Dragon represents China's most advanced production single-engine multirole fighter, incorporating indigenous technologies that demonstrate the PLAAF's evolution toward peer-level capabilities. Based on the earlier J-10A/B airframes but featuring comprehensive avionics upgrades, the J-10C serves as China's primary domestic alternative to imported Russian fighters and a testbed for technologies later incorporated into fifth-generation platforms.\n\nStrategically, the J-10C fills the PLAAF's need for a cost-effective, domestically-produced multirole fighter capable of both air superiority and precision strike missions. Its design philosophy emphasizes agility and multi-mission flexibility over stealth, making it complementary to China's J-20 stealth fighter rather than competitive. The aircraft incorporates an Active Electronically Scanned Array (AESA) radar, advanced electronic warfare systems, and compatibility with China's latest air-to-air and air-to-surface weaponry.\n\nIn the current threat environment, the J-10C represents China's ability to field large numbers of modern fighters without relying on foreign suppliers, addressing a critical strategic vulnerability. The platform's export success with Pakistan validates its capabilities and provides China with valuable operational feedback. Compared to regional peers like the F-16V, Rafale, and F/A-18E/F, the J-10C offers comparable sensor and weapons capabilities at lower cost, though with questions remaining about engine reliability and electronic warfare effectiveness.\n\nThe J-10C's significance extends beyond its individual capabilities to what it represents: China's maturation as an aerospace power capable of producing sophisticated combat aircraft incorporating indigenous technologies across all major subsystems. This development fundamentally alters regional air power balances and reduces Chinese dependence on Russian military technology.",
+  "specs_json": {
+    "displacement_tonnes": null,
+    "length_m": 16.43,
+    "beam_m": 9.75,
+    "draft_m": null,
+    "speed_knots": null,
+    "range_nm": 675,
+    "crew": 1,
+    "propulsion": "1x Shenyang WS-10B afterburning turbofan, 32,000 lbf thrust",
+    "radar": "Type 1475 (KLJ-10) AESA radar",
+    "sonar": null,
+    "combat_system": "Integrated avionics and mission system",
+    "vls_cells": null,
+    "additional": {
+      "max_speed_mach": 2.0,
+      "service_ceiling_m": 18000,
+      "wing_area_m2": 33.1,
+      "empty_weight_kg": 8850,
+      "max_takeoff_weight_kg": 19277,
+      "thrust_to_weight": 1.15,
+      "hardpoints": 11,
+      "internal_fuel_kg": 4500,
+      "g_limits": "+9/-3"
+    }
+  },
+  "armament_json": [
+    {
+      "category": "Air-to-Air Missiles",
+      "name": "PL-15",
+      "type": "Beyond Visual Range AAM",
+      "quantity": "4-6 missiles",
+      "range_km": 200,
+      "notes": "Primary long-range AAM with AESA seeker"
+    },
+    {
+      "category": "Air-to-Air Missiles",
+      "name": "PL-10",
+      "type": "Short Range AAM",
+      "quantity": "2-4 missiles",
+      "range_km": 20,
+      "notes": "Helmet-mounted sight cued IR missile"
+    },
+    {
+      "category": "Air-to-Surface Missiles",
+      "name": "YJ-91/KD-88",
+      "type": "Anti-radiation/Land attack missile",
+      "quantity": "2-4 missiles",
+      "range_km": 100,
+      "notes": "SEAD and precision strike capability"
+    },
+    {
+      "category": "Air-to-Surface Missiles",
+      "name": "LS-6 GPS glide bomb",
+      "type": "Precision guided munition",
+      "quantity": "Multiple configurations",
+      "range_km": 60,
+      "notes": "GPS/INS guided glide bomb family"
+    },
+    {
+      "category": "Guns",
+      "name": "Type 23-3",
+      "type": "Internal cannon",
+      "quantity": "1x 23mm",
+      "range_km": 2,
+      "notes": "200 rounds, twin-barrel cannon"
+    }
+  ],
+  "variants_json": [
+    {
+      "name": "J-10A",
+      "designation_range": "J-10A",
+      "years": "2003-2013",
+      "count": 270,
+      "key_changes": "Initial production version with AL-31FN engine, mechanically scanned radar, basic avionics",
+      "status": "active"
+    },
+    {
+      "name": "J-10B",
+      "designation_range": "J-10B",
+      "years": "2013-2018",
+      "count": 50,
+      "key_changes": "DSI intake, IRST sensor, improved avionics, retains mechanically scanned radar",
+      "status": "active"
+    },
+    {
+      "name": "J-10C",
+      "designation_range": "J-10C",
+      "years": "2017-present",
+      "count": 400,
+      "key_changes": "AESA radar, WS-10B engine, advanced EW suite, PL-15 compatibility, improved cockpit displays",
+      "status": "active"
+    },
+    {
+      "name": "J-10CE",
+      "designation_range": "J-10CE",
+      "years": "2022-present",
+      "count": 25,
+      "key_changes": "Export variant for Pakistan, modified IFF and communications systems",
+      "status": "active"
+    }
+  ],
+  "fleet_status_json": [
+    {
+      "hull_number": "N/A",
+      "name": "J-10C Fleet",
+      "variant": "J-10C",
+      "commissioned": "2017-present",
+      "home_port": "Multiple PLAAF bases",
+      "status": "active"
+    }
+  ],
+  "cost_usd": 40000000.0,
+  "unit_count": 400,
+  "first_commissioned": "2017",
+  "builder": "Chengdu Aerospace Corporation (CAC)",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/77/J-10B_with_PL-10_and_PL-12.jpg",
+  "wiki_url": "https://en.wikipedia.org/wiki/Chengdu_J-10",
+  "sources_json": [
+    "https://en.wikipedia.org/wiki/Chengdu_J-10",
+    "https://www.globalsecurity.org/military/world/china/j-10.htm",
+    "https://www.janes.com/",
+    "https://www.flightglobal.com/"
+  ],
+  "comparison_tags": [
+    "fighter",
+    "multirole",
+    "single-engine",
+    "china",
+    "aesa-radar",
+    "fourth-generation"
+  ],
+  "created_at": "2026-04-11 10:13:52",
+  "updated_at": "2026-04-11T10:13:52.602325",
+  "news": [],
+  "events": [],
+  "ic_coverage": [],
+  "combat_history": [
+    {
+      "date": "2022-08",
+      "operation": "Taiwan Strait Tensions",
+      "event": "J-10C aircraft participated in large-scale exercises around Taiwan following US Congressional visits, demonstrating precision strike capabilities",
+      "significance": "First major operational employment showing integrated air-to-surface capabilities"
+    },
+    {
+      "date": "2023-03",
+      "operation": "Pakistan Air Force Operations",
+      "event": "Pakistani J-10CE aircraft conducted first operational patrols along India-Pakistan border, integrating with existing PAF command systems",
+      "significance": "Validates export variant operational readiness and interoperability"
+    }
+  ],
+  "modernization": [
+    {
+      "program": "WS-10 Engine Integration",
+      "status": "completed",
+      "timeline": "2017-2019",
+      "description": "Replacement of Russian AL-31FN with indigenous WS-10B engine, improving reliability and reducing foreign dependence",
+      "impact": "Enhanced strategic autonomy and improved thrust-to-weight ratio"
+    },
+    {
+      "program": "Advanced Sensor Integration",
+      "status": "in-progress",
+      "timeline": "2023-2026",
+      "description": "Integration of improved IRST systems, enhanced electronic warfare capabilities, and datalink improvements",
+      "impact": "Better survivability and situational awareness in contested environments"
+    },
+    {
+      "program": "Next-Generation Weapons Integration",
+      "status": "planned",
+      "timeline": "2024-2027",
+      "description": "Integration of PL-17 very long range AAM and advanced air-to-surface weapons including hypersonic missiles",
+      "impact": "Extended engagement envelope and improved strike capabilities"
+    }
+  ],
+  "vulnerabilities": [
+    {
+      "area": "Engine Reliability",
+      "description": "WS-10B engines have shorter service intervals and higher maintenance requirements than Western equivalents, with some reliability concerns remaining",
+      "context": "Critical for sustained operations and export competitiveness",
+      "mitigation": "Ongoing engine improvements and maintenance protocol refinements"
+    },
+    {
+      "area": "Electronic Warfare Effectiveness",
+      "description": "EW systems lack combat validation against advanced Western electronic attack capabilities, with effectiveness against modern jamming unknown",
+      "context": "Critical vulnerability in high-intensity conflict with advanced adversaries",
+      "mitigation": "Continuous system upgrades and training against simulated advanced threats"
+    },
+    {
+      "area": "Single Engine Configuration",
+      "description": "Single engine design creates inherent vulnerability over water and in extended missions compared to twin-engine platforms",
+      "context": "Limits missions over Taiwan Strait and South China Sea operations",
+      "mitigation": "Paired operations with twin-engine platforms and improved engine reliability"
+    }
+  ],
+  "operational_patterns": {
+    "typical_deployment": "Regional air defense, multi-role strike missions, and training/conversion unit assignments",
+    "deployment_length_months": null,
+    "key_operating_areas": [
+      "East China Sea",
+      "South China Sea",
+      "Taiwan Strait",
+      "Continental China air defense"
+    ],
+    "typical_task_group": "Mixed fighter regiments with J-11/J-16 aircraft, or specialized J-10C regiments",
+    "readiness_notes": "Generally high readiness but constrained by engine maintenance intervals and pilot training pipeline capacity"
+  },
+  "peer_comparisons": [
+    {
+      "platform": "F-16V Viper",
+      "country": "United States",
+      "relationship": "direct rival",
+      "key_differences": "J-10C offers larger payload and longer range but F-16V has proven engine reliability and combat experience. J-10C features more modern baseline avionics.",
+      "video_angle": "David vs Goliath: Can China's J-10C match the legendary F-16?"
+    },
+    {
+      "platform": "Dassault Rafale",
+      "country": "France",
+      "relationship": "direct rival",
+      "key_differences": "Rafale superior in twin-engine reliability and proven combat record, J-10C advantages in cost and potentially radar performance. Similar multirole philosophy.",
+      "video_angle": "European Elegance vs Chinese Engineering: Rafale vs J-10C capability comparison"
+    },
+    {
+      "platform": "JF-17 Thunder",
+      "country": "Pakistan/China",
+      "relationship": "predecessor",
+      "key_differences": "J-10C represents significant capability leap with AESA radar, advanced weapons, and better performance, but at much higher cost than JF-17's budget approach.",
+      "video_angle": "China's Fighter Evolution: From JF-17 to J-10C technological progression"
+    },
+    {
+      "platform": "KF-21 Boramae",
+      "country": "South Korea",
+      "relationship": "direct rival",
+      "key_differences": "KF-21 incorporates stealth features and Western components, J-10C is fully operational with proven systems. Different design philosophies for regional air power.",
+      "video_angle": "Next-Gen Regional Fighters: J-10C vs KF-21 design approaches"
+    },
+    {
+      "platform": "F/A-18E/F Super Hornet",
+      "country": "United States",
+      "relationship": "direct rival",
+      "key_differences": "Super Hornet offers twin-engine reliability and carrier capability, J-10C potentially superior air-to-air radar and weapons. Different operational roles.",
+      "video_angle": "Land vs Sea: J-10C challenges to US Navy's Super Hornet dominance"
+    }
+  ],
+  "search_keywords": [
+    "j-10c",
+    "j10c",
+    "vigorous dragon",
+    "chengdu j-10",
+    "plaaf fighter",
+    "chinese fighter",
+    "j-10",
+    "ws-10b",
+    "pl-15",
+    "aesa radar"
+  ],
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/dd/1930_garden_manual_for_southern_growers_%281930%29_%2816462221507%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/dd/1930_garden_manual_for_southern_growers_%281930%29_%2816462221507%29.jpg",
+      "width": 1092,
+      "height": 1808,
+      "title": "1930 garden manual for southern growers (1930) (16462221507).jpg",
+      "description": "<br>\n<p><b>Title</b>: 1930 garden manual for southern growers<br>\n<b>Identifier</b>: 1930gardenmanual19jste (<a class=\"external text\" href=\"https://commons.wikimedia.org/w/index.php?title=Special%3ASe",
+      "license": "No restrictions",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Annual_catalogue_of_celebrated_seeds_%281896%29_%2817801597214%29.jpg/1280px-Annual_catalogue_of_celebrated_seeds_%281896%29_%2817801597214%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Annual_catalogue_of_celebrated_seeds_%281896%29_%2817801597214%29.jpg",
+      "width": 1532,
+      "height": 2892,
+      "title": "Annual catalogue of celebrated seeds (1896) (17801597214).jpg",
+      "description": "<br>\n<p><b>Title</b>: Annual catalogue of celebrated seeds<br>\n<b>Identifier</b>: annualcatalogueo1896jaev (<a class=\"external text\" href=\"https://commons.wikimedia.org/w/index.php?title=Special%3ASea",
+      "license": "No restrictions",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/86/Bolgiano%27s_capitol_city_seeds_-_1889_-_1950_%281950%29_%2819767603264%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/86/Bolgiano%27s_capitol_city_seeds_-_1889_-_1950_%281950%29_%2819767603264%29.jpg",
+      "width": 794,
+      "height": 644,
+      "title": "Bolgiano's capitol city seeds - 1889 - 1950 (1950) (19767603264).jpg",
+      "description": "<br>\n<p><b>Title</b>: Bolgiano's capitol city seeds\u00a0: 1889 - 1950<br>\n<b>Identifier</b>: bolgianoscapitol19fwbo_20 (<a class=\"external text\" href=\"https://commons.wikimedia.org/w/index.php?title=Speci",
+      "license": "No restrictions",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Coldwater%2C_Michigan_pictorial_city_directory_and_year_book_%281919%29_%2814784001642%29.jpg/1280px-Coldwater%2C_Michigan_pictorial_city_directory_and_year_book_%281919%29_%2814784001642%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/93/Coldwater%2C_Michigan_pictorial_city_directory_and_year_book_%281919%29_%2814784001642%29.jpg",
+      "width": 2636,
+      "height": 1430,
+      "title": "Coldwater, Michigan pictorial city directory and year book (1919) (14784001642).jpg",
+      "description": "<br>\n<p><b>Identifier</b>: coldwatermichiga00unse_0 (<a class=\"external text\" href=\"https://commons.wikimedia.org/w/index.php?title=Special%3ASearch&amp;profile=default&amp;fulltext=Search&amp;search=",
+      "license": "No restrictions",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Dreer%27s_garden_book_1939_-_101_years_of_Dreer_quality_seeds_plants_bulbs_%281939%29_%2821028674105%29.jpg/1280px-Dreer%27s_garden_book_1939_-_101_years_of_Dreer_quality_seeds_plants_bulbs_%281939%29_%2821028674105%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Dreer%27s_garden_book_1939_-_101_years_of_Dreer_quality_seeds_plants_bulbs_%281939%29_%2821028674105%29.jpg",
+      "width": 2438,
+      "height": 1400,
+      "title": "Dreer's garden book 1939 - 101 years of Dreer quality seeds plants bulbs (1939) (21028674105).jpg",
+      "description": "<br>\n<p><b>Title</b>: Dreer's garden book 1939\u00a0: 101 years of Dreer quality seeds plants bulbs<br>\n<b>Identifier</b>: dreersgardenbook1939henr (<a class=\"external text\" href=\"https://commons.wikimedia",
+      "license": "No restrictions",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Dreer%27s_garden_book_for_1941_%281941%29_%2820841408760%29.jpg/1280px-Dreer%27s_garden_book_for_1941_%281941%29_%2820841408760%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/29/Dreer%27s_garden_book_for_1941_%281941%29_%2820841408760%29.jpg",
+      "width": 2354,
+      "height": 1460,
+      "title": "Dreer's garden book for 1941 (1941) (20841408760).jpg",
+      "description": "<br>\n<p><b>Title</b>: Dreer's garden book for 1941<br>\n<b>Identifier</b>: dreersgardenbook1941henr (<a class=\"external text\" href=\"https://commons.wikimedia.org/w/index.php?title=Special%3ASearch&amp;",
+      "license": "No restrictions",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Everything_for_the_garden_%2816205087637%29.jpg/1280px-Everything_for_the_garden_%2816205087637%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Everything_for_the_garden_%2816205087637%29.jpg",
+      "width": 1400,
+      "height": 1810,
+      "title": "Everything for the garden (16205087637).jpg",
+      "description": "<p>118 <br>\nEVERYTHING FOIR THE QA3RDEH \u00ab\u00a0Flower <br>\nA Collection of <br>\nGrandiflora and Unvvin Sweet Peas <br>\nThe overshadowing size and beauty of the Giant Waved Spencer <br>\nSweet Peas has gradu",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Harper%27s_weekly_%281865%29_%2814578495897%29.jpg/1280px-Harper%27s_weekly_%281865%29_%2814578495897%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Harper%27s_weekly_%281865%29_%2814578495897%29.jpg",
+      "width": 2036,
+      "height": 1376,
+      "title": "Harper's weekly (1865) (14578495897).jpg",
+      "description": "<br>\n<p><b>Identifier</b>: harpersweeklyv9bonn (<a class=\"external text\" href=\"https://commons.wikimedia.org/w/index.php?title=Special%3ASearch&amp;profile=default&amp;fulltext=Search&amp;search=insou",
+      "license": "No restrictions",
+      "source": "wikimedia"
+    }
+  ],
+  "doctrine": null,
+  "curated_sources": []
+}

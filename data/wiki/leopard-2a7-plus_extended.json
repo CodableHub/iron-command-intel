@@ -1,0 +1,203 @@
+{
+  "combat_history": [
+    {
+      "date": "2023-06",
+      "operation": "Ukraine conflict",
+      "event": "Ukrainian forces received Leopard 2A6 variants (predecessor) and engaged Russian forces in counteroffensive operations. Mixed results with several losses to mines, artillery, and ATGMs, but successful penetration of Russian defensive lines in some sectors.",
+      "significance": "First major combat use of modern Leopard 2 variants, validating some design concepts while exposing vulnerabilities to modern battlefield threats including drone surveillance and top-attack weapons"
+    },
+    {
+      "date": "2016-2019",
+      "operation": "Operation Euphrates Shield/Olive Branch",
+      "event": "Turkish Leopard 2A4 tanks (earlier variants) suffered significant losses to ISIS and Kurdish ATGMs including Kornet and TOW missiles. At least 10 confirmed destroyed.",
+      "significance": "Highlighted vulnerabilities of older Leopard 2 variants to modern ATGMs, driving upgrades that influenced 2A7+ development including improved armor packages and active protection systems"
+    }
+  ],
+  "modernization": [
+    {
+      "program": "Trophy Active Protection System integration",
+      "status": "in-progress",
+      "timeline": "2022-2025",
+      "description": "Integration of Rafael Trophy APS on German 2A7V and future 2A8 variants. System provides 360-degree protection against RPGs and ATGMs.",
+      "impact": "Significantly enhances survivability against modern anti-tank threats, addressing primary vulnerability identified in recent conflicts"
+    },
+    {
+      "program": "130mm gun upgrade preparation",
+      "status": "planned",
+      "timeline": "2025-2030",
+      "description": "Structural modifications to accommodate Rheinmetall's 130mm L/51 gun system for 2A8 variant. Requires turret modifications and new ammunition handling.",
+      "impact": "Maintains firepower parity with next-generation Russian and Chinese tank guns, ensuring penetration capability against future armor"
+    },
+    {
+      "program": "Digitalization Package",
+      "status": "in-progress",
+      "timeline": "2023-2027",
+      "description": "Integration of advanced battlefield management systems, AI-assisted target identification, and improved crew interfaces across existing fleet.",
+      "impact": "Enhances situational awareness and reduces crew workload in complex urban and conventional battlespaces"
+    }
+  ],
+  "vulnerabilities": [
+    {
+      "area": "Top-attack munitions",
+      "description": "Roof armor remains vulnerable to modern top-attack ATGMs like Javelin, NLAW, and loitering munitions. Standard armor configuration provides limited protection against attacks from above 30-degree angles.",
+      "context": "Ukraine conflict has demonstrated proliferation of top-attack weapons and effectiveness against even modern MBTs. Drone-delivered munitions pose emerging threat.",
+      "mitigation": "Trophy APS integration provides some protection, but coverage gaps remain. Additional roof armor modules under development."
+    },
+    {
+      "area": "Mine vulnerability",
+      "description": "Despite IED-resistant belly armor, large mines and multiple IED strikes can penetrate hull bottom, potentially causing mobility kills or crew casualties.",
+      "context": "Modern conflicts feature increasingly sophisticated mine warfare including EFP mines and stacked charges specifically designed to defeat MBT armor.",
+      "mitigation": "V-shaped hull modifications limited by existing chassis constraints. Reliance on engineering support and route clearance operations."
+    },
+    {
+      "area": "Logistical footprint",
+      "description": "65-tonne weight limits bridge crossings and requires heavy equipment transporters for strategic mobility. Fuel consumption remains high despite efficiency improvements.",
+      "context": "European infrastructure generally supports weight, but deployment to other theaters faces significant logistics challenges. Ukraine has highlighted transport bottlenecks.",
+      "mitigation": "Bridge-laying equipment and heavy transport assets being increased. Alternative deployment routes identified."
+    }
+  ],
+  "operational_patterns": {
+    "typical_deployment": "Battalion-level deployments within NATO enhanced Forward Presence, training rotations, and homeland defense",
+    "deployment_length_months": 6,
+    "key_operating_areas": [
+      "Eastern Europe",
+      "Baltic States",
+      "Training areas in Germany"
+    ],
+    "typical_task_group": "Combined arms battalion with Puma IFVs, Panzerhaubitze 2000, and engineer support",
+    "readiness_notes": "Higher maintenance requirements than predecessor variants due to complex systems. Parts availability good within NATO framework."
+  },
+  "peer_comparisons": [
+    {
+      "platform": "M1A2 SEPv3 Abrams",
+      "country": "United States",
+      "relationship": "allied equivalent",
+      "key_differences": "Abrams emphasizes heavier armor and gas turbine power while 2A7+ prioritizes fuel efficiency, crew ergonomics, and modular armor. Abrams has superior protection but higher logistical footprint.",
+      "video_angle": "NATO heavy armor philosophy: German engineering precision vs American protection-first approach in modern battlefield contexts"
+    },
+    {
+      "platform": "Challenger 3",
+      "country": "United Kingdom",
+      "relationship": "allied equivalent",
+      "key_differences": "Both emphasize crew survivability and advanced fire control, but Challenger 3 retains rifled gun initially while 2A7+ uses proven smoothbore. Similar modular armor approaches.",
+      "video_angle": "European MBT evolution: How British and German approaches to tank modernization reflect different operational priorities"
+    },
+    {
+      "platform": "T-90M Proryv-3",
+      "country": "Russia",
+      "relationship": "direct rival",
+      "key_differences": "T-90M cheaper and more numerous but inferior fire control and crew protection. 2A7+ has superior optics and situational awareness but faces same top-attack vulnerabilities as demonstrated in Ukraine.",
+      "video_angle": "Ukraine's tank lessons: Western precision vs Russian mass production in high-intensity conflict"
+    },
+    {
+      "platform": "Type 99A",
+      "country": "China",
+      "relationship": "strategic competitor",
+      "key_differences": "Type 99A incorporates some German technology via licensing but with Chinese modifications. Similar weight class but different armor philosophy and unknown reliability in sustained combat.",
+      "video_angle": "Technology transfer consequences: How German tank technology influenced Chinese armor development"
+    },
+    {
+      "platform": "K2 Black Panther",
+      "country": "South Korea",
+      "relationship": "allied equivalent",
+      "key_differences": "K2 more technologically advanced in some areas (active suspension, autoloader) but less combat proven. Similar price point and capability tier as 2A7+.",
+      "video_angle": "Next-gen MBT features: Korean innovation vs German proven reliability in tank design philosophy"
+    }
+  ],
+  "search_keywords": [
+    "leopard 2a7+",
+    "leopard 2a7 plus",
+    "leopard 2a7v",
+    "leopard 2a8",
+    "german tank",
+    "main battle tank",
+    "mbt",
+    "kmw",
+    "knds",
+    "rheinmetall 120mm",
+    "trophy aps",
+    "ukraine tanks"
+  ],
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Leopard_2A7.jpg/1280px-Leopard_2A7.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/51/Leopard_2A7.jpg",
+      "width": 3000,
+      "height": 2000,
+      "title": "Leopard 2A7.jpg",
+      "description": "Leopard 2A7, IDET/PYROS/ISET 2019, Brno",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/65/Leopard_2A7_Trophy_APS_at_NATO_Days_2023.JPG",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/65/Leopard_2A7_Trophy_APS_at_NATO_Days_2023.JPG",
+      "width": 1200,
+      "height": 800,
+      "title": "Leopard 2A7 Trophy APS at NATO Days 2023.JPG",
+      "description": "KMW Leopard 2 A7A1 with Trophy APS on display at NATO Days Ostrava 2023",
+      "license": "CC BY-SA 3.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Leopard_2_A7V_313_Bad_Frankenhausen_2024.JPG",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Leopard_2_A7V_313_Bad_Frankenhausen_2024.JPG",
+      "width": 1024,
+      "height": 768,
+      "title": "Leopard 2 A7V 313 Bad Frankenhausen 2024.JPG",
+      "description": "German Army Leopard 2 A7V assigned to 393 tank battalion (PzBtl) on display at Open Day at Kyffh\u00e4user barracks in Bad Frankenhausen 2024",
+      "license": "CC BY-SA 3.0 de",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Photomontage_Leopard_2A7-Leclerc.png",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Photomontage_Leopard_2A7-Leclerc.png",
+      "width": 456,
+      "height": 149,
+      "title": "Photomontage Leopard 2A7-Leclerc.png",
+      "description": "Photomontage of a Leclerc tank turret on a Leopard 2A7 chassis. This configuration is similar to the European Main Battle Tank.",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Tank_Leopard_2A7_NATO_Days_2022.jpg/1280px-Tank_Leopard_2A7_NATO_Days_2022.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Tank_Leopard_2A7_NATO_Days_2022.jpg",
+      "width": 4608,
+      "height": 2304,
+      "title": "Tank Leopard 2A7 NATO Days 2022.jpg",
+      "description": "Leopard 2A7 tank (KMW) at NATO Days 2022. NATO Days is the biggest security show in Europe, traditionally held annually at Ostrava Leos Janacek Airport.",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Tank_Leopard_2A7_NATO_Days_2022_%28cropped%29.jpg/1280px-Tank_Leopard_2A7_NATO_Days_2022_%28cropped%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Tank_Leopard_2A7_NATO_Days_2022_%28cropped%29.jpg",
+      "width": 3605,
+      "height": 2304,
+      "title": "Tank Leopard 2A7 NATO Days 2022 (cropped).jpg",
+      "description": "Leopard 2A7 tank (KMW) at NATO Days 2022. NATO Days is the biggest security show in Europe, traditionally held annually at Ostrava Leos Janacek Airport.",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Tank_Leopard_2A7_NATO_Days_2022_%28cropped_2%29.jpg/1280px-Tank_Leopard_2A7_NATO_Days_2022_%28cropped_2%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Tank_Leopard_2A7_NATO_Days_2022_%28cropped_2%29.jpg",
+      "width": 4000,
+      "height": 2300,
+      "title": "Tank Leopard 2A7 NATO Days 2022 (cropped 2).jpg",
+      "description": "Leopard 2A7 tank (KMW) at NATO Days 2022. NATO Days is the biggest security show in Europe, traditionally held annually at Ostrava Leos Janacek Airport.",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/af/Tank_Leopard_2A7_NATO_Days_2022_%28no_marks%29.png",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/af/Tank_Leopard_2A7_NATO_Days_2022_%28no_marks%29.png",
+      "width": 1200,
+      "height": 767,
+      "title": "Tank Leopard 2A7 NATO Days 2022 (no marks).png",
+      "description": "Leopard 2A7 tank (KMW) at NATO Days 2022. NATO Days is the biggest security show in Europe, traditionally held annually at Ostrava Leos Janacek Airport.",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    }
+  ]
+}

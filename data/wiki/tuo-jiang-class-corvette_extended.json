@@ -1,0 +1,201 @@
+{
+  "combat_history": [
+    {
+      "date": "2020-01",
+      "operation": "Combat testing",
+      "event": "Tuo Jiang conducted live-fire testing of Hsiung Feng III missiles, successfully engaging surface targets at maximum range",
+      "significance": "First operational validation of supersonic anti-ship missile capability from the platform"
+    },
+    {
+      "date": "2022-08",
+      "operation": "Fourth Taiwan Strait Crisis response",
+      "event": "Multiple Tuo Jiang-class vessels conducted patrol operations during heightened tensions following Pelosi visit, maintaining readiness posture",
+      "significance": "Demonstrated rapid deployment capability and sustained operations during crisis period"
+    }
+  ],
+  "modernization": [
+    {
+      "program": "TC-2N SAM integration",
+      "status": "planned",
+      "timeline": "2024-2026",
+      "description": "Integration of indigenous TC-2N surface-to-air missiles to provide point air defense capability against aircraft and incoming missiles",
+      "impact": "Would address critical air defense vulnerability, enhancing survivability in contested airspace"
+    },
+    {
+      "program": "Enhanced EW suite",
+      "status": "in-progress",
+      "timeline": "2023-2025",
+      "description": "Upgraded electronic warfare systems including improved ESM/ECM capabilities and decoy systems",
+      "impact": "Better survivability against modern radar-guided threats and improved situational awareness"
+    },
+    {
+      "program": "Hsiung Feng IIE land-attack variant",
+      "status": "planned",
+      "timeline": "2025-2027",
+      "description": "Potential integration of land-attack cruise missile variant for coastal defense and counter-landing operations",
+      "impact": "Would provide precision strike capability against landing forces and coastal installations"
+    }
+  ],
+  "vulnerabilities": [
+    {
+      "area": "Air defense capability",
+      "description": "Limited air defense beyond single Phalanx CIWS, highly vulnerable to air attack from fighter aircraft or helicopters",
+      "context": "In Taiwan Strait scenario, PLAAF would likely achieve local air superiority, making survival dependent on stealth and speed",
+      "mitigation": "Planned TC-2N SAM integration, emphasis on rapid hit-and-run tactics"
+    },
+    {
+      "area": "Endurance limitations",
+      "description": "Short range and limited sea-keeping ability restricts operations to coastal waters, cannot sustain extended patrols",
+      "context": "Design trade-off for speed and stealth limits strategic flexibility and operational tempo",
+      "mitigation": "Distributed basing strategy and emphasis on surge operations rather than continuous patrol"
+    },
+    {
+      "area": "Sensor limitations",
+      "description": "Single radar system creates vulnerability to jamming or failure, limited over-the-horizon targeting capability",
+      "context": "Dependent on external targeting for maximum-range Hsiung Feng III engagements against maneuvering targets",
+      "mitigation": "Integration with Taiwan's coastal radar network and potential datalink improvements"
+    }
+  ],
+  "operational_patterns": {
+    "typical_deployment": "Coastal patrol and rapid response from distributed bases, surge deployment during crisis",
+    "deployment_length_months": 0.5,
+    "key_operating_areas": [
+      "Taiwan Strait",
+      "East Taiwan waters",
+      "Penghu Islands vicinity"
+    ],
+    "typical_task_group": "Often operates individually or in pairs, occasionally with larger ROCN task forces",
+    "readiness_notes": "High maintenance requirements for waterjet propulsion, limited by crew training pipeline"
+  },
+  "peer_comparisons": [
+    {
+      "platform": "Type 022 Houbei-class",
+      "country": "China",
+      "relationship": "direct rival",
+      "key_differences": "Chinese counterpart with similar catamaran hull but smaller, less sophisticated sensors and older anti-ship missiles. Tuo Jiang has better sea-keeping and longer-range weapons.",
+      "video_angle": "David vs Goliath: How Taiwan's corvettes plan to swarm Chinese fast attack craft"
+    },
+    {
+      "platform": "Sa'ar 6-class",
+      "country": "Israel",
+      "relationship": "allied equivalent",
+      "key_differences": "Israeli design emphasizes air defense with Barak missiles and multi-mission capability. Tuo Jiang sacrifices versatility for pure anti-ship firepower and speed.",
+      "video_angle": "Different approaches to small nation naval strategy: Air defense vs anti-ship focus"
+    },
+    {
+      "platform": "Yoon Youngha-class",
+      "country": "South Korea",
+      "relationship": "regional equivalent",
+      "key_differences": "Korean PKX-B design balances anti-ship and anti-submarine warfare with more conservative conventional hull. Tuo Jiang prioritizes speed and stealth over ASW capability.",
+      "video_angle": "Asian corvette design philosophy: Balanced capability vs specialized threat focus"
+    },
+    {
+      "platform": "Hayabusa-class",
+      "country": "Japan",
+      "relationship": "regional predecessor",
+      "key_differences": "Japanese design influenced Tuo Jiang development but focuses on Type 90 missiles with shorter range. Tuo Jiang has superior stealth characteristics and longer-range weapons.",
+      "video_angle": "Evolution of Pacific fast attack craft: From Japanese influence to Taiwanese innovation"
+    },
+    {
+      "platform": "Skjold-class",
+      "country": "Norway",
+      "relationship": "design inspiration",
+      "key_differences": "Norwegian air-cushion catamaran inspired Taiwan's stealth approach but designed for Arctic conditions. Tuo Jiang adapted concept for tropical littoral warfare with heavier armament.",
+      "video_angle": "Stealth corvette concepts: From Norwegian fjords to Taiwan Strait adaptation"
+    }
+  ],
+  "search_keywords": [
+    "tuo jiang",
+    "tuo chiang",
+    "PGG-618",
+    "PGG 618",
+    "taiwan corvette",
+    "ROCN corvette",
+    "catamaran corvette",
+    "stealth corvette",
+    "hsiung feng",
+    "an chiang"
+  ],
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/%E6%B2%B1%E6%B1%9F%E7%B4%9A%E8%89%A6%E5%87%BA%E6%B8%AF.jpg/1280px-%E6%B2%B1%E6%B1%9F%E7%B4%9A%E8%89%A6%E5%87%BA%E6%B8%AF.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/2c/%E6%B2%B1%E6%B1%9F%E7%B4%9A%E8%89%A6%E5%87%BA%E6%B8%AF.jpg",
+      "width": 1440,
+      "height": 960,
+      "title": "\u6cb1\u6c5f\u7d1a\u8266\u51fa\u6e2f.jpg",
+      "description": "\u200b\u6cb1\u6c5f\u7d1a\u8266\u57fa\u9686\u51fa\u6e2f",
+      "license": "Attribution",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/09.09_%E7%B8%BD%E7%B5%B1%E4%B8%BB%E6%8C%81%E3%80%8C%E6%B5%B7%E8%BB%8D%E5%A1%94%E6%B1%9F%E8%BB%8D%E8%89%A6%E6%88%90%E8%BB%8D%E6%9A%A8%E5%BF%AB%E9%80%9F%E5%B8%83%E9%9B%B7%E8%89%87%E4%BA%A4%E8%89%87%E5%85%B8%E7%A6%AE%E3%80%8D.jpg/1280px-09.09_%E7%B8%BD%E7%B5%B1%E4%B8%BB%E6%8C%81%E3%80%8C%E6%B5%B7%E8%BB%8D%E5%A1%94%E6%B1%9F%E8%BB%8D%E8%89%A6%E6%88%90%E8%BB%8D%E6%9A%A8%E5%BF%AB%E9%80%9F%E5%B8%83%E9%9B%B7%E8%89%87%E4%BA%A4%E8%89%87%E5%85%B8%E7%A6%AE%E3%80%8D.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/69/09.09_%E7%B8%BD%E7%B5%B1%E4%B8%BB%E6%8C%81%E3%80%8C%E6%B5%B7%E8%BB%8D%E5%A1%94%E6%B1%9F%E8%BB%8D%E8%89%A6%E6%88%90%E8%BB%8D%E6%9A%A8%E5%BF%AB%E9%80%9F%E5%B8%83%E9%9B%B7%E8%89%87%E4%BA%A4%E8%89%87%E5%85%B8%E7%A6%AE%E3%80%8D.jpg",
+      "width": 2048,
+      "height": 1365,
+      "title": "09.09 \u7e3d\u7d71\u4e3b\u6301\u300c\u6d77\u8ecd\u5854\u6c5f\u8ecd\u8266\u6210\u8ecd\u66a8\u5feb\u901f\u5e03\u96f7\u8247\u4ea4\u8247\u5178\u79ae\u300d.jpg",
+      "description": "ROCS Ta Chiang (PGG-619)\nOfficial Photo by Makoto Lin / Office of the President",
+      "license": "CC BY 2.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/12.15_%E7%B8%BD%E7%B5%B1%E5%87%BA%E5%B8%AD%E3%80%8C%E9%AB%98%E6%95%88%E8%83%BD%E8%89%A6%E8%89%87%E5%BE%8C%E7%BA%8C%E8%89%A6%E9%A6%96%E8%89%A6%E5%91%BD%E5%90%8D%E3%80%81%E4%B8%8B%E6%B0%B4%E6%9A%A8%E5%BF%AB%E9%80%9F%E5%B8%83%E9%9B%B7%E8%89%87%E9%A6%96%E8%89%87%E4%BA%A4%E8%89%87%E5%85%B8%E7%A6%AE%E3%80%8D_-_50721842166.jpg/1280px-12.15_%E7%B8%BD%E7%B5%B1%E5%87%BA%E5%B8%AD%E3%80%8C%E9%AB%98%E6%95%88%E8%83%BD%E8%89%A6%E8%89%87%E5%BE%8C%E7%BA%8C%E8%89%A6%E9%A6%96%E8%89%A6%E5%91%BD%E5%90%8D%E3%80%81%E4%B8%8B%E6%B0%B4%E6%9A%A8%E5%BF%AB%E9%80%9F%E5%B8%83%E9%9B%B7%E8%89%87%E9%A6%96%E8%89%87%E4%BA%A4%E8%89%87%E5%85%B8%E7%A6%AE%E3%80%8D_-_50721842166.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/8f/12.15_%E7%B8%BD%E7%B5%B1%E5%87%BA%E5%B8%AD%E3%80%8C%E9%AB%98%E6%95%88%E8%83%BD%E8%89%A6%E8%89%87%E5%BE%8C%E7%BA%8C%E8%89%A6%E9%A6%96%E8%89%A6%E5%91%BD%E5%90%8D%E3%80%81%E4%B8%8B%E6%B0%B4%E6%9A%A8%E5%BF%AB%E9%80%9F%E5%B8%83%E9%9B%B7%E8%89%87%E9%A6%96%E8%89%87%E4%BA%A4%E8%89%87%E5%85%B8%E7%A6%AE%E3%80%8D_-_50721842166.jpg",
+      "width": 2048,
+      "height": 1365,
+      "title": "12.15 \u7e3d\u7d71\u51fa\u5e2d\u300c\u9ad8\u6548\u80fd\u8266\u8247\u5f8c\u7e8c\u8266\u9996\u8266\u547d\u540d\u3001\u4e0b\u6c34\u66a8\u5feb\u901f\u5e03\u96f7\u8247\u9996\u8247\u4ea4\u8247\u5178\u79ae\u300d - 50721842166.jpg",
+      "description": "Official Photo by Mori / Office of the President",
+      "license": "CC BY 2.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/ROCN_Ta_Chiang.png/1280px-ROCN_Ta_Chiang.png",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/ROCN_Ta_Chiang.png",
+      "width": 1614,
+      "height": 908,
+      "title": "ROCN Ta Chiang.png",
+      "description": "Screenshot of video provided by <a href=\"//commons.wikimedia.org/w/index.php?title=Lungteh_Shipbuilding&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Lungteh Shipbuilding (page does not exist)\">Lu",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/ROC_NSDC_Offshore_Patrol_Vessel_Flight_II_model_20190928.jpg/1280px-ROC_NSDC_Offshore_Patrol_Vessel_Flight_II_model_20190928.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/3f/ROC_NSDC_Offshore_Patrol_Vessel_Flight_II_model_20190928.jpg",
+      "width": 3200,
+      "height": 2400,
+      "title": "ROC NSDC Offshore Patrol Vessel Flight II model 20190928.jpg",
+      "description": "\u200b\u4e2d\u83ef\u6c11\u570b\u6d77\u8ecd\u57fa\u9686\u5a01\u6d77\u71df\u5340\u958b\u653e\u53c3\u89c0\uff0c\u57fa\u9686\u6e2f\u897f\u5cb8\u78bc\u982d\uff0c\u6d77\u8ecd\u9020\u8239\u767c\u5c55\u4e2d\u5fc3\u5c55\u793a\u7684\u6d77\u8ecd\u6cb1\u6c5f\u7d1a\u5de1\u908f\u8266\u5f8c\u7e8c\u8266\u6a21\u578b\u3002",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/ROC_NSDC_Tuo_Chiang-class_corvette_model_20190928.jpg/1280px-ROC_NSDC_Tuo_Chiang-class_corvette_model_20190928.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/51/ROC_NSDC_Tuo_Chiang-class_corvette_model_20190928.jpg",
+      "width": 3600,
+      "height": 2700,
+      "title": "ROC NSDC Tuo Chiang-class corvette model 20190928.jpg",
+      "description": "\u200b\u4e2d\u83ef\u6c11\u570b\u6d77\u8ecd\u57fa\u9686\u5a01\u6d77\u71df\u5340\u958b\u653e\u53c3\u89c0\uff0c\u57fa\u9686\u6e2f\u897f\u5cb8\u78bc\u982d\uff0c\u6d77\u8ecd\u9020\u8239\u767c\u5c55\u4e2d\u5fc3\u5c55\u793a\u7684\u6d77\u8ecd\u6cb1\u6c5f\u7d1a\u5de1\u908f\u8266\u6a21\u578b\u3002",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/%E6%B2%B1%E6%B1%9F%E7%B4%9A%E8%89%A6%E9%81%8B%E5%8B%95%E6%80%A7%E8%83%BD%E5%B1%95%E7%A4%BA.jpg/1280px-%E6%B2%B1%E6%B1%9F%E7%B4%9A%E8%89%A6%E9%81%8B%E5%8B%95%E6%80%A7%E8%83%BD%E5%B1%95%E7%A4%BA.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/14/%E6%B2%B1%E6%B1%9F%E7%B4%9A%E8%89%A6%E9%81%8B%E5%8B%95%E6%80%A7%E8%83%BD%E5%B1%95%E7%A4%BA.jpg",
+      "width": 1440,
+      "height": 959,
+      "title": "\u6cb1\u6c5f\u7d1a\u8266\u904b\u52d5\u6027\u80fd\u5c55\u793a.jpg",
+      "description": "\u200b\u4e2d\u83ef\u6c11\u570b\u6d77\u8ecd\u5854\u6c5f\u8ecd\u8266\uff08PGG-619\uff09\u904b\u52d5\u6027\u80fd\u5c55\u793a",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/%E6%B5%B7%E8%BB%8D%E6%B2%B1%E6%B1%9F%E8%BB%8D%E8%89%A6.jpg/1280px-%E6%B5%B7%E8%BB%8D%E6%B2%B1%E6%B1%9F%E8%BB%8D%E8%89%A6.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/%E6%B5%B7%E8%BB%8D%E6%B2%B1%E6%B1%9F%E8%BB%8D%E8%89%A6.jpg",
+      "width": 2048,
+      "height": 1335,
+      "title": "\u6d77\u8ecd\u6cb1\u6c5f\u8ecd\u8266.jpg",
+      "description": "\u200b\u4e2d\u83ef\u6c11\u570b\u6d77\u8ecd\u6cb1\u6c5f\u8ecd\u8266",
+      "license": "Attribution",
+      "source": "wikimedia"
+    }
+  ]
+}

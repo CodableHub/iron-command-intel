@@ -1,0 +1,180 @@
+{
+  "combat_history": [
+    {
+      "date": "2013-2014",
+      "operation": "ISAF Afghanistan",
+      "event": "German Boxer vehicles conducted final NATO combat patrols in Afghanistan, demonstrating mine resistance and reliability in harsh terrain",
+      "significance": "Validated protection systems and mechanical reliability under combat conditions"
+    },
+    {
+      "date": "2015-present",
+      "operation": "NATO Enhanced Forward Presence",
+      "event": "German and Lithuanian Boxer vehicles regularly participate in Baltic deterrence missions and multinational exercises",
+      "significance": "Demonstrates interoperability and rapid deployment capabilities for NATO Article 5 scenarios"
+    },
+    {
+      "date": "2021",
+      "operation": "Training incidents",
+      "event": "Multiple IED simulation tests conducted by British Army CRV variants, validating protection upgrades",
+      "significance": "Confirmed survivability improvements over earlier 8x8 platforms"
+    }
+  ],
+  "modernization": [
+    {
+      "program": "Trophy Active Protection System",
+      "status": "in-progress",
+      "timeline": "2023-2025",
+      "description": "Integration of Rafael Trophy APS on Australian and potential other variants to defeat RPGs and ATGMs",
+      "impact": "Significantly enhances survivability against modern anti-tank threats"
+    },
+    {
+      "program": "Digitalization Package",
+      "status": "in-progress",
+      "timeline": "2022-2026",
+      "description": "Upgraded IFIS systems, improved C4ISR integration, enhanced battlefield management capabilities",
+      "impact": "Better situational awareness and network integration for multi-domain operations"
+    },
+    {
+      "program": "Next-Generation Turret",
+      "status": "planned",
+      "timeline": "2025-2030",
+      "description": "Development of 35mm turret option with airburst ammunition and improved sensors",
+      "impact": "Enhanced lethality against drones, light armor, and infantry in fortified positions"
+    }
+  ],
+  "vulnerabilities": [
+    {
+      "area": "Top-attack munitions",
+      "description": "Like all wheeled AFVs, vulnerable to modern top-attack ATGMs, loitering munitions, and artillery-delivered smart submunitions",
+      "context": "Critical weakness against Russian Kornet-EM, Javelin, and emerging drone swarm attacks",
+      "mitigation": "Trophy APS integration ongoing, but coverage gaps remain for certain attack angles"
+    },
+    {
+      "area": "Urban mobility limitations",
+      "description": "Large size (8m length, 3m width) restricts maneuverability in dense urban terrain compared to tracked IFVs",
+      "context": "Problematic for urban warfare scenarios like those seen in Ukraine's cities",
+      "mitigation": "Training emphasis on combined arms coordination, but fundamental size constraint remains"
+    },
+    {
+      "area": "Wheel vulnerability",
+      "description": "Wheels remain vulnerable to small arms fire and fragmentation, potentially immobilizing vehicle",
+      "context": "Run-flat inserts help but cannot match tracked vehicle survivability after mobility kills",
+      "mitigation": "Improved run-flat technology and rapid repair procedures, but inherent weakness persists"
+    }
+  ],
+  "operational_patterns": {
+    "typical_deployment": "Battalion-level mechanized infantry support, reconnaissance, and command post operations",
+    "deployment_length_months": 6,
+    "key_operating_areas": [
+      "Eastern Europe",
+      "Baltic States",
+      "Training areas in Germany/UK/Australia"
+    ],
+    "typical_task_group": "Operates in mechanized infantry battalions with 12-14 vehicles per company",
+    "readiness_notes": "High availability rates (85%+) but complex mission module changes require specialized maintenance"
+  },
+  "peer_comparisons": [
+    {
+      "platform": "Patria AMV XP",
+      "country": "Finland",
+      "relationship": "direct rival",
+      "key_differences": "AMV is lighter (26t vs 38.5t) with better strategic mobility but inferior protection and modularity. Boxer offers superior mine protection and mission flexibility at higher cost.",
+      "video_angle": "European 8x8 showdown - weight vs protection trade-offs in modern AFV design"
+    },
+    {
+      "platform": "Centauro II MGS",
+      "country": "Italy",
+      "relationship": "capability competitor",
+      "key_differences": "Centauro focuses on fire support with 120mm gun vs Boxer's transport/utility focus. Similar mobility but different tactical roles and protection philosophies.",
+      "video_angle": "Wheels vs tracks debate - examining 8x8 specialization strategies"
+    },
+    {
+      "platform": "Stryker A1",
+      "country": "United States",
+      "relationship": "allied equivalent",
+      "key_differences": "Stryker is lighter (19t) with lower protection but greater air-transportability. Boxer provides superior survivability and modularity but sacrifices strategic deployment speed.",
+      "video_angle": "NATO standardization challenges - comparing American vs European 8x8 philosophies"
+    },
+    {
+      "platform": "BTR-82A",
+      "country": "Russia",
+      "relationship": "adversary equivalent",
+      "key_differences": "BTR-82A is much lighter (13.6t) and cheaper but significantly inferior in protection, electronics, and crew survivability. Represents quantity vs quality approach.",
+      "video_angle": "East vs West AFV philosophies - survivability vs cost effectiveness"
+    }
+  ],
+  "search_keywords": [
+    "boxer afv",
+    "gtk boxer",
+    "artec boxer",
+    "8x8 armored vehicle",
+    "boxer crv",
+    "boxer apc",
+    "modular armored vehicle",
+    "german afv",
+    "rheinmetall boxer",
+    "multinational armored vehicle"
+  ],
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Allied_Spirit_24_Participants_Conduct_Mounted_and_Dismounted_Combat_Training_%288289798%29.jpg/1280px-Allied_Spirit_24_Participants_Conduct_Mounted_and_Dismounted_Combat_Training_%288289798%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/51/Allied_Spirit_24_Participants_Conduct_Mounted_and_Dismounted_Combat_Training_%288289798%29.jpg",
+      "width": 6720,
+      "height": 4480,
+      "title": "Allied Spirit 24 Participants Conduct Mounted and Dismounted Combat Training (8289798).jpg",
+      "description": "Lithuanian Land Forces soldiers assigned to the Grand Duchess Birut\u0117 Uhlan Battalion, a mechanized infantry unit, enter a Boxer armored vehicle during a training exercise as part of Allied Spirit 24 a",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Allied_Spirit_24_Participants_Conduct_Mounted_and_Dismounted_Combat_Training_%288289799%29.jpg/1280px-Allied_Spirit_24_Participants_Conduct_Mounted_and_Dismounted_Combat_Training_%288289799%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Allied_Spirit_24_Participants_Conduct_Mounted_and_Dismounted_Combat_Training_%288289799%29.jpg",
+      "width": 6720,
+      "height": 4480,
+      "title": "Allied Spirit 24 Participants Conduct Mounted and Dismounted Combat Training (8289799).jpg",
+      "description": "A Boxer armored vehicle transports Lithuanian Land Forces soldiers assigned to the Grand Duchess Birut\u0117 Uhlan Battalion, a mechanized infantry unit, during a training exercise as part of Allied Spirit",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Boxer_MRAV_.50.jpg/1280px-Boxer_MRAV_.50.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Boxer_MRAV_.50.jpg",
+      "width": 5800,
+      "height": 3866,
+      "title": "Boxer MRAV .50.jpg",
+      "description": "Harskamp, 26 maart 2015\nVandaag is er voor het eerst geschoten op de Harskamp met de Boxer in combinatie met de .50. foto: MCD/Evert-Jan Daniels",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Boxer_operators.png/1280px-Boxer_operators.png",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/57/Boxer_operators.png",
+      "width": 2753,
+      "height": 1400,
+      "title": "Boxer operators.png",
+      "description": "Map of Boxer operators in blue",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Fahrschulpanzer_GTK_Boxer.JPG/1280px-Fahrschulpanzer_GTK_Boxer.JPG",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Fahrschulpanzer_GTK_Boxer.JPG",
+      "width": 4608,
+      "height": 3456,
+      "title": "Fahrschulpanzer GTK Boxer.JPG",
+      "description": "Fahrschulpanzer GTK Boxer",
+      "license": "CC BY-SA 3.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/The_Female_Dutch_Driver_and_Medic_in_Hohenfels.jpg/1280px-The_Female_Dutch_Driver_and_Medic_in_Hohenfels.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/2a/The_Female_Dutch_Driver_and_Medic_in_Hohenfels.jpg",
+      "width": 5399,
+      "height": 3599,
+      "title": "The Female Dutch Driver and Medic in Hohenfels.jpg",
+      "description": "Dutch Pvt. Sanne Terkulve drives a vehicle during training exercise Combined Resolve XIII at the Joint Multinational Readiness Center in Hohenfels, Germany on Feb. 2, 2020. Combined Resolve XIII is a ",
+      "license": "Public domain",
+      "source": "wikimedia"
+    }
+  ]
+}

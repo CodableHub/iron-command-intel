@@ -1,0 +1,506 @@
+{
+  "id": 101,
+  "slug": "saab-jas-39-gripen",
+  "name": "Saab JAS 39 Gripen",
+  "designation": "JAS 39",
+  "type": "fighter",
+  "country": "Sweden",
+  "operator": "Swedish Air Force",
+  "overview_md": "The Saab JAS 39 Gripen is a lightweight, single-engine multirole fighter aircraft designed around Sweden's unique defense doctrine of decentralized operations from highway strips and austere bases. Its designation 'JAS' represents its tri-role capability: Jakt (fighter), Attack (ground attack), and Spaning (reconnaissance). The Gripen embodies Swedish military philosophy of achieving maximum capability per defense krona, emphasizing cost-effectiveness, ease of maintenance, and rapid turnaround times over raw performance metrics.\n\nStrategically, the Gripen serves as Sweden's primary air defense asset and represents a compelling alternative for smaller air forces seeking advanced capabilities without the logistical burden of larger platforms like the F-35 or Eurofighter. Its design prioritizes pilot situational awareness through advanced sensor fusion, datalink capabilities, and an intuitive human-machine interface. The aircraft can be maintained by a crew of six technicians and turned around in under 20 minutes between sorties.\n\nIn the current threat environment, the Gripen's strength lies in its network-centric warfare capabilities and electronic warfare systems rather than stealth or kinematic performance. The aircraft excels in contested airspace through its ability to share targeting data across platforms and integrate with ground-based air defense systems. Its relatively small radar cross-section and advanced EW suite provide survivability through electronic rather than physical stealth.\n\nCompared to its peers, the Gripen trades raw performance for operational flexibility and cost-effectiveness. While it cannot match the F-35's stealth or the Eurofighter's high-altitude performance, it offers superior operational availability rates, lower lifecycle costs, and the ability to operate from damaged or improvised airfields. This makes it particularly attractive to nations prioritizing defensive operations and cost-conscious procurement strategies.",
+  "specs_json": {
+    "displacement_tonnes": null,
+    "length_m": 14.1,
+    "beam_m": 8.4,
+    "draft_m": null,
+    "speed_knots": null,
+    "range_nm": 1620,
+    "crew": 1,
+    "propulsion": "1x Volvo RM12 (General Electric F404-GE-400 derivative) afterburning turbofan, 80.5 kN thrust",
+    "radar": "PS-05/A pulse-Doppler radar (Gripen C/D), ES-05 Raven AESA radar (Gripen E/F)",
+    "sonar": null,
+    "combat_system": "Integrated avionics system with sensor fusion",
+    "vls_cells": null,
+    "additional": {
+      "max_speed_mach": 2.0,
+      "service_ceiling_m": 15240,
+      "wing_span_m": 8.4,
+      "empty_weight_kg": 6800,
+      "max_takeoff_weight_kg": 14000,
+      "g_limit": 9,
+      "thrust_to_weight": 0.97,
+      "hardpoints": 8
+    }
+  },
+  "armament_json": [
+    {
+      "category": "Air-to-Air Missiles",
+      "name": "AIM-120 AMRAAM",
+      "type": "Beyond visual range AAM",
+      "quantity": "up to 6",
+      "range_km": 180,
+      "notes": "Primary BVR weapon"
+    },
+    {
+      "category": "Air-to-Air Missiles",
+      "name": "AIM-9 Sidewinder",
+      "type": "Short-range AAM",
+      "quantity": "up to 2",
+      "range_km": 35,
+      "notes": "IR-guided WVR missile"
+    },
+    {
+      "category": "Air-to-Air Missiles",
+      "name": "IRIS-T",
+      "type": "Short-range AAM",
+      "quantity": "up to 2",
+      "range_km": 25,
+      "notes": "Alternative WVR missile"
+    },
+    {
+      "category": "Air-to-Surface Missiles",
+      "name": "RBS15",
+      "type": "Anti-ship missile",
+      "quantity": "up to 4",
+      "range_km": 200,
+      "notes": "Swedish anti-ship missile"
+    },
+    {
+      "category": "Air-to-Surface Missiles",
+      "name": "KEPD 350 Taurus",
+      "type": "Cruise missile",
+      "quantity": "up to 2",
+      "range_km": 500,
+      "notes": "Long-range precision strike"
+    },
+    {
+      "category": "Guns",
+      "name": "Mauser BK-27",
+      "type": "Autocannon",
+      "quantity": "1x 27mm",
+      "range_km": 4,
+      "notes": "120 rounds"
+    },
+    {
+      "category": "Pods",
+      "name": "BOL countermeasures",
+      "type": "Chaff/flare dispenser",
+      "quantity": "integrated",
+      "range_km": 0,
+      "notes": "160 countermeasures"
+    }
+  ],
+  "variants_json": [
+    {
+      "name": "Gripen A",
+      "designation_range": "JAS 39A",
+      "years": "1996-2013",
+      "count": 204,
+      "key_changes": "Initial single-seat production variant with PS-05/A radar, basic multirole capability",
+      "status": "retired"
+    },
+    {
+      "name": "Gripen B",
+      "designation_range": "JAS 39B",
+      "years": "1996-2013",
+      "count": 28,
+      "key_changes": "Two-seat trainer variant, reduced fuel capacity, retained combat capability",
+      "status": "retired"
+    },
+    {
+      "name": "Gripen C",
+      "designation_range": "JAS 39C",
+      "years": "2003-present",
+      "count": 204,
+      "key_changes": "Upgraded avionics, NATO compatibility, air-to-air refueling capability, improved radar",
+      "status": "active"
+    },
+    {
+      "name": "Gripen D",
+      "designation_range": "JAS 39D",
+      "years": "2005-present",
+      "count": 28,
+      "key_changes": "Two-seat version of Gripen C with same capabilities",
+      "status": "active"
+    },
+    {
+      "name": "Gripen E",
+      "designation_range": "JAS 39E",
+      "years": "2019-present",
+      "count": 7,
+      "key_changes": "Lengthened fuselage, ES-05 Raven AESA radar, increased fuel capacity, improved EW suite, GE F414 engine",
+      "status": "active"
+    }
+  ],
+  "fleet_status_json": [
+    {
+      "hull_number": "Various",
+      "name": "Swedish Air Force",
+      "variant": "C/D/E",
+      "commissioned": "1996-present",
+      "home_port": "Multiple Swedish bases",
+      "status": "active - 94 C/D, 60 E on order"
+    },
+    {
+      "hull_number": "Various",
+      "name": "South African Air Force",
+      "variant": "C/D",
+      "commissioned": "2008",
+      "home_port": "AFB Makhado, AFB Overberg",
+      "status": "active - 26 aircraft"
+    },
+    {
+      "hull_number": "Various",
+      "name": "Czech Air Force",
+      "variant": "C/D",
+      "commissioned": "2005",
+      "home_port": "\u010c\u00e1slav Air Base",
+      "status": "active - 14 aircraft"
+    },
+    {
+      "hull_number": "Various",
+      "name": "Hungarian Air Force",
+      "variant": "C/D",
+      "commissioned": "2006",
+      "home_port": "Kecskemet Air Base",
+      "status": "active - 14 aircraft"
+    },
+    {
+      "hull_number": "Various",
+      "name": "Thai Air Force",
+      "variant": "C/D",
+      "commissioned": "2011",
+      "home_port": "Surat Thani Air Base",
+      "status": "active - 12 aircraft"
+    },
+    {
+      "hull_number": "Various",
+      "name": "Brazilian Air Force",
+      "variant": "E/F (F-39E/F)",
+      "commissioned": "2021",
+      "home_port": "An\u00e1polis Air Base",
+      "status": "active - 36 aircraft ordered, 5 delivered"
+    }
+  ],
+  "cost_usd": 85000000.0,
+  "unit_count": 271,
+  "first_commissioned": "1996",
+  "builder": "Saab AB",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Saab_JAS_39_Gripen_at_Kaivopuisto_Air_Show%2C_June_2017_%28altered%29_copy.jpg",
+  "wiki_url": "https://en.wikipedia.org/wiki/Saab_JAS_39_Gripen",
+  "sources_json": [
+    "https://en.wikipedia.org/wiki/Saab_JAS_39_Gripen",
+    "https://www.saab.com/products/gripen-e-series",
+    "https://www.janes.com/",
+    "https://www.flightglobal.com/",
+    "Swedish Defense Research Agency (FOI) reports"
+  ],
+  "comparison_tags": [
+    "fighter",
+    "multirole",
+    "single-engine",
+    "lightweight",
+    "export-fighter",
+    "4.5-generation",
+    "scandinavian"
+  ],
+  "created_at": "2026-04-11 10:18:58",
+  "updated_at": "2026-04-11T10:18:58.439667",
+  "news": [],
+  "events": [],
+  "ic_coverage": [],
+  "combat_history": [
+    {
+      "date": "2011-03",
+      "operation": "Operation Odyssey Dawn",
+      "event": "Swedish Gripen C aircraft conducted reconnaissance missions over Libya, marking the type's first combat deployment. Eight aircraft deployed to Sigonella, Sicily.",
+      "significance": "Demonstrated Gripen's expeditionary capability and NATO interoperability in contested airspace"
+    },
+    {
+      "date": "2014-2022",
+      "operation": "Baltic Air Policing",
+      "event": "Swedish, Czech, and Hungarian Gripens have conducted NATO Baltic Air Policing missions, intercepting Russian aircraft over Baltic states.",
+      "significance": "Proved Gripen's effectiveness in air policing role against modern Russian aircraft including Su-27 and Su-30"
+    },
+    {
+      "date": "2022-present",
+      "operation": "Ukrainian Support",
+      "event": "Multiple Gripen operators have committed to training Ukrainian pilots and potentially transferring aircraft, though no transfers completed as of 2024.",
+      "significance": "Highlights Gripen's role as a bridge platform for nations transitioning from Soviet-era equipment"
+    }
+  ],
+  "modernization": [
+    {
+      "program": "Gripen E/F Development",
+      "status": "in-progress",
+      "timeline": "2019-2030",
+      "description": "Next-generation Gripen with AESA radar, increased range, advanced EW suite, and improved weapons capacity. Features 40% greater range and enhanced sensor fusion.",
+      "impact": "Transforms Gripen into true 4.5+ generation fighter with significantly enhanced beyond-visual-range capabilities"
+    },
+    {
+      "program": "MS20 Upgrade (Sweden)",
+      "status": "completed",
+      "timeline": "2012-2018",
+      "description": "Major upgrade to Swedish Gripen C/D fleet including AESA radar retrofit, new EW systems, and improved datalinks.",
+      "impact": "Extends service life to 2035+ and maintains capability gap against modern threats"
+    },
+    {
+      "program": "GlobalEye Integration",
+      "status": "in-progress",
+      "timeline": "2020-2025",
+      "description": "Integration with Saab's GlobalEye AEW&C platform for enhanced battlespace awareness and targeting.",
+      "impact": "Creates network-centric capability allowing Gripen to engage targets beyond radar range using off-board sensors"
+    }
+  ],
+  "vulnerabilities": [
+    {
+      "area": "Single-engine reliability",
+      "description": "Unlike twin-engine competitors, Gripen has no engine redundancy, creating vulnerability over water or hostile territory.",
+      "context": "Critical weakness for expeditionary operations or long-range missions over contested areas",
+      "mitigation": "Extremely reliable RM12 engine and comprehensive maintenance program, but fundamental limitation remains"
+    },
+    {
+      "area": "Weapons payload capacity",
+      "description": "Limited to 5,300kg external payload compared to 8,000+ kg for competitors like F-16 Block 70 or Eurofighter.",
+      "context": "Restricts capability in high-intensity conflicts requiring sustained weapons delivery",
+      "mitigation": "Gripen E increases capacity but still limited compared to larger platforms"
+    },
+    {
+      "area": "Radar power and range",
+      "description": "PS-05/A mechanically-scanned radar has limited range compared to larger AESA systems on F-35 or F/A-18E/F.",
+      "context": "Disadvantage in beyond-visual-range engagements against peer adversaries",
+      "mitigation": "ES-05 Raven AESA in Gripen E addresses this but older variants remain limited"
+    },
+    {
+      "area": "Industrial base dependency",
+      "description": "Heavy reliance on international suppliers (US engines, missiles) creates potential supply chain vulnerabilities.",
+      "context": "Could limit export potential and operational flexibility during conflicts involving supplier nations",
+      "mitigation": "Sweden developing indigenous alternatives but timeline uncertain"
+    }
+  ],
+  "operational_patterns": {
+    "typical_deployment": "Primary air defense fighter operating from dispersed bases, emphasis on rapid reaction and highway operations",
+    "deployment_length_months": 6,
+    "key_operating_areas": [
+      "Baltic Sea region",
+      "Nordic airspace",
+      "NATO Eastern flank",
+      "Export operator territories"
+    ],
+    "typical_task_group": "Operates in 2-4 aircraft sections, often integrated with ground-based air defense and AEW&C platforms",
+    "readiness_notes": "High availability rates (70%+) due to simplified maintenance requirements, but limited by small fleet sizes in export countries"
+  },
+  "peer_comparisons": [
+    {
+      "platform": "F-16 Block 70/72",
+      "country": "United States",
+      "relationship": "direct rival",
+      "key_differences": "Gripen offers superior operational flexibility and lower costs, F-16 provides greater payload and combat radius. Both compete heavily in export markets.",
+      "video_angle": "David vs Goliath - how Swedish engineering philosophy challenges American design dominance"
+    },
+    {
+      "platform": "Eurofighter Typhoon",
+      "country": "Multinational",
+      "relationship": "allied equivalent",
+      "key_differences": "Typhoon superior in air-to-air performance and altitude capability, Gripen wins on cost-effectiveness and multirole flexibility. Different approaches to European air power.",
+      "video_angle": "European fighter philosophy - performance vs practicality comparison"
+    },
+    {
+      "platform": "Dassault Rafale",
+      "country": "France",
+      "relationship": "direct rival",
+      "key_differences": "Rafale offers carrier capability and greater weapons capacity, Gripen provides lower acquisition and operating costs. Both target same export market segment.",
+      "video_angle": "Export fighter showdown - French luxury vs Swedish efficiency"
+    },
+    {
+      "platform": "KAI FA-50",
+      "country": "South Korea",
+      "relationship": "competitor",
+      "key_differences": "FA-50 is light attack trainer-derived, Gripen is purpose-built multirole fighter. Similar costs but Gripen offers significantly greater capability.",
+      "video_angle": "Light fighter comparison - trainer derivative vs purpose-built design"
+    },
+    {
+      "platform": "JF-17 Thunder",
+      "country": "Pakistan/China",
+      "relationship": "budget competitor",
+      "key_differences": "JF-17 much lower cost but significantly inferior in avionics, sensors, and weapons integration. Different market segments but some overlap.",
+      "video_angle": "Low-cost fighter analysis - Chinese quantity vs Swedish quality"
+    }
+  ],
+  "search_keywords": [
+    "gripen",
+    "jas 39",
+    "jas-39",
+    "saab gripen",
+    "gripen c",
+    "gripen d",
+    "gripen e",
+    "gripen f",
+    "swedish fighter",
+    "nordic fighter",
+    "gripen export"
+  ],
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Gripen_3.jpg/1280px-Gripen_3.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/db/Gripen_3.jpg",
+      "width": 2694,
+      "height": 2005,
+      "title": "Gripen 3.jpg",
+      "description": "Swedish air force JAS 39 Gripen fighters arrive at Nellis AFB, Nev., on July 14 for Red Flag 08-3. Seven Gripens and their crews, from the 212nd Fighter Squadron at Norrbotten Wing, Sweden, are partic",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Saab_J29_Tunnan_and_JAS-39_Gripen_%288375515103%29.jpg/1280px-Saab_J29_Tunnan_and_JAS-39_Gripen_%288375515103%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Saab_J29_Tunnan_and_JAS-39_Gripen_%288375515103%29.jpg",
+      "width": 2308,
+      "height": 1539,
+      "title": "Saab J29 Tunnan and JAS-39 Gripen (8375515103).jpg",
+      "description": "<p>A contrast of Saab jet fighters as the J-29F Tunnan operated by the Swedish AF Heritage Flight (SE-DXB) departs over a South African AF JAS-39C Gripen (3924) which is taxiing in after its display.\n",
+      "license": "CC BY-SA 2.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Saab_JAS-39C_Gripen_HUD_at_ADAS_2018.jpg/1280px-Saab_JAS-39C_Gripen_HUD_at_ADAS_2018.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/29/Saab_JAS-39C_Gripen_HUD_at_ADAS_2018.jpg",
+      "width": 4608,
+      "height": 2128,
+      "title": "Saab JAS-39C Gripen HUD at ADAS 2018.jpg",
+      "description": "The Heads Up Display (HUD) of a JAS-39C Gripen Fighter Aircraft. Photo taken during the 2018 Asian Defence and Security (ADAS) Trade Show at the World Trade Center in Pasay, Metro Manila.",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Saab_JAS-39C_Gripen_MFD_at_ADAS_2018.jpg/1280px-Saab_JAS-39C_Gripen_MFD_at_ADAS_2018.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Saab_JAS-39C_Gripen_MFD_at_ADAS_2018.jpg",
+      "width": 4608,
+      "height": 2128,
+      "title": "Saab JAS-39C Gripen MFD at ADAS 2018.jpg",
+      "description": "The three Multi Function Displays (MFD) of a JAS-39C Gripen Fighter Aircraft. Photo taken during the 2018 Asian Defence and Security (ADAS) Trade Show at the World Trade Center in Pasay, Metro Manila.",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Saab_JAS-39C_HUNAF_39_ILA-2018.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Saab_JAS-39C_HUNAF_39_ILA-2018.jpg",
+      "width": 1200,
+      "height": 800,
+      "title": "Saab JAS-39C HUNAF 39 ILA-2018.jpg",
+      "description": "Hungarian Air Force Saab JAS 39EBS HU C Gripen, 59th tactical fighter wing, registration 39, ILA Berlin airshow, 2018",
+      "license": "CC BY-SA 3.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Saab_JAS-39_Gripen_of_the_Czech_Air_Force_taking_off_from_AFB_%C4%8C%C3%A1slav.jpg/1280px-Saab_JAS-39_Gripen_of_the_Czech_Air_Force_taking_off_from_AFB_%C4%8C%C3%A1slav.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Saab_JAS-39_Gripen_of_the_Czech_Air_Force_taking_off_from_AFB_%C4%8C%C3%A1slav.jpg",
+      "width": 2091,
+      "height": 1427,
+      "title": "Saab JAS-39 Gripen of the Czech Air Force taking off from AFB \u010c\u00e1slav.jpg",
+      "description": "Saab JAS-39 Gripen of the Czech Air Force taking off from AFB \u010c\u00e1slav.",
+      "license": "CC BY-SA 2.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Saab_JAS39D_Gripen_39830_830_%288421647190%29.jpg/1280px-Saab_JAS39D_Gripen_39830_830_%288421647190%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Saab_JAS39D_Gripen_39830_830_%288421647190%29.jpg",
+      "width": 2956,
+      "height": 1971,
+      "title": "Saab JAS39D Gripen 39830 830 (8421647190).jpg",
+      "description": "<p>Taxiing back in after taking part in a 4-ship formation put together by F17 fighter unit.\nmsn 39-830.\n2012 Malmen Airshow, Sweden.\n</p>\n03-06-2012",
+      "license": "CC BY-SA 2.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Swedish_JAS-39_Gripen_landing.jpg/1280px-Swedish_JAS-39_Gripen_landing.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Swedish_JAS-39_Gripen_landing.jpg",
+      "width": 3008,
+      "height": 1960,
+      "title": "Swedish JAS-39 Gripen landing.jpg",
+      "description": "A Swedish Air Force JAS 39 Gripen fighter aircraft arrives in support of the Partnership for Peace Exercise Cooperative Key 2003 at Graf Ignatievo Air Base (AB), Bulgaria.",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/161004-N-5359K-032_%2829961045220%29.jpg/1280px-161004-N-5359K-032_%2829961045220%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/161004-N-5359K-032_%2829961045220%29.jpg",
+      "width": 2288,
+      "height": 1520,
+      "title": "161004-N-5359K-032 (29961045220).jpg",
+      "description": "161004-N-5359K-032 REYKJAVIK, Iceland  (Oct. 4, 2016) Commander, U.S. Naval Forces Europe-Africa Adm. Michelle J. Howard, right, tours an aircraft hangar bay with Lt. Col. Jaroslav Tomana, CZ Air Forc",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Arctic_Challenge_Exercise_2019_%285410812%29.jpg/1280px-Arctic_Challenge_Exercise_2019_%285410812%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Arctic_Challenge_Exercise_2019_%285410812%29.jpg",
+      "width": 7160,
+      "height": 3158,
+      "title": "Arctic Challenge Exercise 2019 (5410812).jpg",
+      "description": "A Swedish Air Force JAS 39 Gripen taxies prior to flight operations during Arctic Challenge Exercise 2019 at Kallax Air Base, Lule\u00e5, Sweden, May 28, 2019. ACE 19 is a Nordic aviation exercise that pro",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Arctic_Challenge_Exercise_2019_%285411814%29.jpg/1280px-Arctic_Challenge_Exercise_2019_%285411814%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/13/Arctic_Challenge_Exercise_2019_%285411814%29.jpg",
+      "width": 7429,
+      "height": 3779,
+      "title": "Arctic Challenge Exercise 2019 (5411814).jpg",
+      "description": "U.S. Air Force F-16C Block 52 Fighting Falcons assigned to the Air National Guard\u2019s 169th Fighter Wing from McEntire Joint National Guard Base, S.C., taxi after flight operations in support of Arctic ",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Arctic_Challenge_Exercise_2019_%285417144%29.jpg/1280px-Arctic_Challenge_Exercise_2019_%285417144%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/91/Arctic_Challenge_Exercise_2019_%285417144%29.jpg",
+      "width": 6823,
+      "height": 3006,
+      "title": "Arctic Challenge Exercise 2019 (5417144).jpg",
+      "description": "A Royal Air Force Typhoon FGR4 taxis behind Swedish Air Force JAS 39 Gripens prior to flight operations in support of Arctic Challenge Exercise 2019 at Kallax Air Base, Lule\u00e5, Sweden, May 30, 2019. AC",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Arctic_Challenge_Exercise_2019_%285417157%29.jpg/1280px-Arctic_Challenge_Exercise_2019_%285417157%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Arctic_Challenge_Exercise_2019_%285417157%29.jpg",
+      "width": 7450,
+      "height": 2806,
+      "title": "Arctic Challenge Exercise 2019 (5417157).jpg",
+      "description": "Swedish Air Force JAS 39 Gripens commence flight operations in support of Arctic Challenge Exercise 2019 at Kallax Air Base, Lule\u00e5, Sweden, May 30, 2019. ACE 19 is a Nordic aviation exercise that prov",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Arctic_Challenge_Exercise_2019_%285417165%29.jpg/1280px-Arctic_Challenge_Exercise_2019_%285417165%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Arctic_Challenge_Exercise_2019_%285417165%29.jpg",
+      "width": 7256,
+      "height": 2861,
+      "title": "Arctic Challenge Exercise 2019 (5417165).jpg",
+      "description": "A Swedish Air Force JAS 39 Gripen taxis after flight operations in support of Arctic Challenge Exercise 2019 at Kallax Air Base, Lule\u00e5, Sweden, May 30, 2019. ACE 19 is a Nordic aviation exercise that ",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Saab_Gripen_taking_off_at_Aero_India_2011.jpg/1280px-Saab_Gripen_taking_off_at_Aero_India_2011.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Saab_Gripen_taking_off_at_Aero_India_2011.jpg",
+      "width": 2200,
+      "height": 1375,
+      "title": "Saab Gripen taking off at Aero India 2011.jpg",
+      "description": "The Vice Admiral, Shekher Sinha DCIDS (PP&amp;FD) also Gray Eagle of the Indian Navy is taking of first hand experience of flying in the Gripen Air craft at Aero -India 2011, in Bangalore on February ",
+      "license": "GODL-India",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/US_Navy_110913-N-RB564-014_Lt._Gen._Ralph_J._Jodice_II%2C_commander_of_Combined_Forces_Air_Component%2C_receives_a_briefing_on_the_Swedish_JAS_39_Griff.jpg/1280px-US_Navy_110913-N-RB564-014_Lt._Gen._Ralph_J._Jodice_II%2C_commander_of_Combined_Forces_Air_Component%2C_receives_a_briefing_on_the_Swedish_JAS_39_Griff.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/c8/US_Navy_110913-N-RB564-014_Lt._Gen._Ralph_J._Jodice_II%2C_commander_of_Combined_Forces_Air_Component%2C_receives_a_briefing_on_the_Swedish_JAS_39_Griff.jpg",
+      "width": 2784,
+      "height": 1848,
+      "title": "US Navy 110913-N-RB564-014 Lt. Gen. Ralph J. Jodice II, commander of Combined Forces Air Component, receives a briefing on the Swedish JAS 39 Griff.jpg",
+      "description": "SIGONELLA, Sicily (Sept. 13, 2011) Lt. Gen. Ralph J. Jodice II, commander of Combined Forces Air Component, receives a briefing on the Swedish JAS 39 Griffin, a light-weight multi-role fighter, during",
+      "license": "Public domain",
+      "source": "wikimedia"
+    }
+  ],
+  "doctrine": null,
+  "curated_sources": []
+}

@@ -1,0 +1,224 @@
+{
+  "combat_history": [
+    {
+      "date": "1995-03",
+      "operation": "Arctic patrol",
+      "event": "K-154 Tigr conducted first operational patrol under Arctic ice, demonstrating Akula capability to operate in traditional Soviet naval bastions",
+      "significance": "Proved class could fulfill strategic mission of protecting SSBN patrol areas"
+    },
+    {
+      "date": "2012-08",
+      "operation": "Atlantic patrol",
+      "event": "Akula-class submarine operated undetected in Gulf of Mexico for weeks before being discovered by U.S. Navy, causing significant concern about CONUS homeland defense",
+      "significance": "Demonstrated strategic reach and acoustic stealth capabilities against U.S. homeland"
+    },
+    {
+      "date": "2014-2022",
+      "operation": "Mediterranean deployments",
+      "event": "Multiple Akula boats conducted extended patrols in Eastern Mediterranean supporting Syrian operations, launching Kalibr cruise missiles at Syrian opposition targets",
+      "significance": "First combat use of land-attack cruise missiles from Akula torpedo tubes, proving multi-mission capability"
+    },
+    {
+      "date": "2022-present",
+      "operation": "Special Military Operation",
+      "event": "Akula boats have maintained continuous patrols in Black Sea and Eastern Mediterranean, reportedly launching Kalibr strikes against Ukrainian infrastructure",
+      "significance": "Validates submarine-launched land attack capability in high-intensity conflict"
+    }
+  ],
+  "modernization": [
+    {
+      "program": "Kalibr Integration Program",
+      "status": "completed",
+      "timeline": "2010-2018",
+      "description": "Integration of 3M-54 Kalibr land-attack cruise missiles launched from standard 533mm torpedo tubes using vertical launch canisters",
+      "impact": "Transformed boats from pure anti-submarine platforms to multi-mission strike submarines"
+    },
+    {
+      "program": "Sonar System Upgrades",
+      "status": "in-progress",
+      "timeline": "2015-2025",
+      "description": "Upgrading older boats with MGK-540M sonar systems and improved signal processing capabilities to maintain acoustic advantage",
+      "impact": "Extends service life and maintains detection capabilities against modern quiet submarines"
+    },
+    {
+      "program": "Life Extension Program",
+      "status": "planned",
+      "timeline": "2020-2030",
+      "description": "Mid-life nuclear fuel replacement and major systems overhaul for younger hulls to extend service to 2040s",
+      "impact": "Maintains submarine force strength as Yasen-class production remains limited"
+    }
+  ],
+  "vulnerabilities": [
+    {
+      "area": "Electronic warfare and communications",
+      "description": "Limited beyond-line-of-sight communications and electronic warfare capabilities compared to Western submarines, relying on older ESM systems",
+      "context": "Modern maritime warfare requires sophisticated electronic intelligence gathering and jamming capabilities that Akula boats lack",
+      "mitigation": "Some boats receiving upgraded Bukhta communication systems and improved ESM suites during overhauls"
+    },
+    {
+      "area": "Maintenance and availability",
+      "description": "High maintenance requirements and limited Russian shipyard capacity results in low operational availability rates, typically 15-20% of fleet at sea",
+      "context": "Sanctions have limited access to Western components and manufacturing equipment needed for complex maintenance",
+      "mitigation": "Prioritizing maintenance on newest and most capable boats while older hulls go to reserve status"
+    },
+    {
+      "area": "Combat system integration",
+      "description": "Omnibus combat system lacks sophisticated automated target engagement and multi-sensor fusion capabilities of Western submarines",
+      "context": "Modern submarine warfare requires rapid automated target classification and engagement, areas where Russian systems lag",
+      "mitigation": "Newer variants receiving improved combat systems but limited by overall Russian electronics industry capabilities"
+    },
+    {
+      "area": "Anti-submarine warfare",
+      "description": "While excellent hunters, Akula boats are vulnerable to Western SSNs with superior sonar processing and longer-range weapons",
+      "context": "U.S. Virginia and Seawolf class boats maintain acoustic and electronic advantages in submarine-vs-submarine engagements",
+      "mitigation": "Relying on operational deception, bastion defense tactics, and numerical superiority in home waters"
+    }
+  ],
+  "operational_patterns": {
+    "typical_deployment": "Extended patrols in Atlantic and Pacific approaches to Russia, Mediterranean forward deployment, Arctic under-ice operations",
+    "deployment_length_months": 3,
+    "key_operating_areas": [
+      "Barents Sea",
+      "Sea of Okhotsk",
+      "Eastern Mediterranean",
+      "North Atlantic",
+      "Norwegian Sea"
+    ],
+    "typical_task_group": "Independent operations or coordinated with surface action groups and naval aviation",
+    "readiness_notes": "Low availability due to maintenance requirements and limited shipyard capacity; typically 2-3 boats operationally deployed at any time"
+  },
+  "peer_comparisons": [
+    {
+      "platform": "Los Angeles-class submarine",
+      "country": "United States",
+      "relationship": "direct rival",
+      "key_differences": "Akula trades electronic sophistication for raw performance - deeper diving, higher speed, heavier torpedo load but less advanced sonar processing and combat systems. Similar acoustic stealth levels.",
+      "video_angle": "Cold War submarine showdown - Soviet quantity and power vs American technology and precision"
+    },
+    {
+      "platform": "Trafalgar-class submarine",
+      "country": "United Kingdom",
+      "relationship": "direct rival",
+      "key_differences": "Akula significantly larger and faster with greater weapons load, but Trafalgar has superior sonar integration and electronic warfare capabilities. Both specialized ASW platforms.",
+      "video_angle": "Nuclear submarine philosophy - British precision engineering vs Russian brute force approach"
+    },
+    {
+      "platform": "Han-class submarine",
+      "country": "China",
+      "relationship": "generational predecessor",
+      "key_differences": "Akula represents what China aspired to with Han class - genuine acoustic stealth and blue-water capability. Han boats were much noisier and less capable than Akulas.",
+      "video_angle": "Evolution of communist submarine design - Soviet success story vs Chinese early struggles"
+    },
+    {
+      "platform": "Virginia-class submarine",
+      "country": "United States",
+      "relationship": "successor rival",
+      "key_differences": "Virginia represents next generation with superior electronics, modular payloads, and network integration. Akula maintains advantages in speed and depth but outclassed in sensors and weapons.",
+      "video_angle": "Old vs new - Cold War veteran Akula against modern multi-mission Virginia class"
+    },
+    {
+      "platform": "Yasen-class submarine",
+      "country": "Russia",
+      "relationship": "successor",
+      "key_differences": "Yasen is intended Akula replacement with VLS cells, advanced electronics, and modern design. Production delays mean Akula remains backbone of Russian submarine force.",
+      "video_angle": "Russian submarine evolution - proven Akula workhouse vs ambitious but troubled Yasen program"
+    }
+  ],
+  "search_keywords": [
+    "akula class",
+    "akula submarine",
+    "project 971",
+    "shchuka-b",
+    "russian submarine",
+    "soviet submarine",
+    "nuclear attack submarine",
+    "SSN",
+    "bars class",
+    "gepard submarine",
+    "vepr submarine",
+    "kalibr missile",
+    "russian navy submarine"
+  ],
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/AkulaProjekt971U.png/1280px-AkulaProjekt971U.png",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/da/AkulaProjekt971U.png",
+      "width": 2592,
+      "height": 774,
+      "title": "AkulaProjekt971U.png",
+      "description": "Drawing of the 971-U subtype of the russian Akula class submarines (Boats K-152, K-157).",
+      "license": "CC BY-SA 3.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/AkulaProjekt971klein.png/1280px-AkulaProjekt971klein.png",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/82/AkulaProjekt971klein.png",
+      "width": 2800,
+      "height": 2881,
+      "title": "AkulaProjekt971klein.png",
+      "description": "Drawing of the 4 different, currently thought to be active, versions of russian Akula class submarines. Starting with boats of the first flight/batch on the bottom, followed by the 2nd flight and fina",
+      "license": "CC BY-SA 3.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/88/AkulaSchema2.png",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/88/AkulaSchema2.png",
+      "width": 1244,
+      "height": 496,
+      "title": "AkulaSchema2.png",
+      "description": "simplified sideview drawing of a russian Aklua class SSN with descriptions",
+      "license": "CC BY-SA 3.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Akula_%28Typhoon%29_class_submarine_DD-ST-85-06625.jpg/1280px-Akula_%28Typhoon%29_class_submarine_DD-ST-85-06625.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/05/Akula_%28Typhoon%29_class_submarine_DD-ST-85-06625.jpg",
+      "width": 2821,
+      "height": 1901,
+      "title": "Akula (Typhoon) class submarine DD-ST-85-06625.jpg",
+      "description": "A starboard quarter view of a Soviet submarine TK-202 of <a href=\"https://en.wikipedia.org/wiki/Typhoon_class_submarine\" class=\"extiw\" title=\"en:Typhoon class submarine\">Project 941 \"Akula\"</a> class ",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Akula_class_submarine.JPG/1280px-Akula_class_submarine.JPG",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/40/Akula_class_submarine.JPG",
+      "width": 2907,
+      "height": 1923,
+      "title": "Akula class submarine.JPG",
+      "description": "K-322 Cachalot, <a href=\"https://en.wikipedia.org/wiki/Akula_class_submarine\" class=\"extiw\" title=\"en:Akula class submarine\">Akula class submarine</a> underway. A port quarter aerial view of the Russi",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Akula_class_submarine_starboard_quarter_view.JPEG/1280px-Akula_class_submarine_starboard_quarter_view.JPEG",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/55/Akula_class_submarine_starboard_quarter_view.JPEG",
+      "width": 2820,
+      "height": 1890,
+      "title": "Akula class submarine starboard quarter view.JPEG",
+      "description": "",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Akula_class_submarine_stern_view.jpg/1280px-Akula_class_submarine_stern_view.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Akula_class_submarine_stern_view.jpg",
+      "width": 2895,
+      "height": 1911,
+      "title": "Akula class submarine stern view.jpg",
+      "description": "",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Akula_submarine_DN-SN-91-00616.JPG/1280px-Akula_submarine_DN-SN-91-00616.JPG",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/29/Akula_submarine_DN-SN-91-00616.JPG",
+      "width": 3000,
+      "height": 2400,
+      "title": "Akula submarine DN-SN-91-00616.JPG",
+      "description": "",
+      "license": "Public domain",
+      "source": "wikimedia"
+    }
+  ]
+}

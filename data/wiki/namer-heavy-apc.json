@@ -1,0 +1,406 @@
+{
+  "id": 110,
+  "slug": "namer-heavy-apc",
+  "name": "Namer Armoured Personnel Carrier",
+  "designation": "Namer",
+  "type": "apc",
+  "country": "Israel",
+  "operator": "Israel Defense Forces",
+  "overview_md": "The Namer is Israel's heavy armoured personnel carrier, built on the Merkava Mark IV main battle tank chassis and representing one of the most heavily protected APCs in the world. Developed following lessons learned from urban combat in Gaza and Lebanon, the Namer prioritizes crew survivability over mobility, featuring 60+ tons of weight with comprehensive armor protection including active protection systems.\n\nStrategically, the Namer addresses the IDF's specific operational requirements for high-intensity urban warfare where IED threats and RPG attacks are constant. Its design philosophy centers on bringing infantry safely to the fight rather than providing fire support, though it maintains significant defensive capabilities. The platform reflects Israel's willingness to accept mobility penalties in exchange for maximum protection.\n\nIn the current Middle Eastern threat environment, the Namer's heavy protection suite makes it particularly relevant as adversaries increasingly employ advanced anti-tank guided missiles and sophisticated IEDs. Its Trophy active protection system has proven combat-effective against RPGs and ATGMs, providing real-world validation of APS technology that other nations are now adopting.\n\nCompared to lighter Western APCs like the M2 Bradley or CV90, the Namer sacrifices strategic mobility and operational tempo for tactical survivability. While it cannot be airlifted or rapidly deployed, it excels in sustained high-threat operations where crew protection is paramount, representing a distinct doctrinal approach to mechanized infantry operations.",
+  "specs_json": {
+    "displacement_tonnes": 60,
+    "length_m": 7.6,
+    "beam_m": 3.7,
+    "draft_m": 0,
+    "speed_knots": 0,
+    "range_nm": 0,
+    "crew": 12,
+    "propulsion": "MTU MT883 Ka-501 diesel engine, 1500 hp",
+    "radar": "EL/M-2133 WindGuard",
+    "sonar": null,
+    "combat_system": "Elbit Systems BMS",
+    "vls_cells": 0,
+    "additional": {
+      "max_speed_kmh": 60,
+      "range_km": 500,
+      "ground_pressure_kpa": 95,
+      "armor_protection": "Classified, estimated 600mm+ RHA equivalent",
+      "active_protection": "Trophy APS",
+      "passengers": 9,
+      "amphibious": false
+    }
+  },
+  "armament_json": [
+    {
+      "category": "Machine Guns",
+      "name": "FN MAG 58",
+      "type": "general purpose machine gun",
+      "quantity": "1x 7.62mm",
+      "range_km": 1.8,
+      "notes": "Remotely operated weapon station"
+    },
+    {
+      "category": "Self Defense",
+      "name": "Smoke Grenade Launchers",
+      "type": "countermeasures",
+      "quantity": "12x launchers",
+      "range_km": 0.2,
+      "notes": "Multi-spectral screening"
+    },
+    {
+      "category": "Active Protection",
+      "name": "Trophy APS",
+      "type": "hard-kill APS",
+      "quantity": "4x launchers",
+      "range_km": 0.03,
+      "notes": "Intercepts incoming projectiles"
+    }
+  ],
+  "variants_json": [
+    {
+      "name": "Namer Basic",
+      "designation_range": "Initial production",
+      "years": "2008-2013",
+      "count": 60,
+      "key_changes": "Base configuration without Trophy APS, basic battle management system",
+      "status": "active"
+    },
+    {
+      "name": "Namer Trophy",
+      "designation_range": "Standard production",
+      "years": "2014-present",
+      "count": 140,
+      "key_changes": "Integrated Trophy APS, improved BMS, enhanced situational awareness systems",
+      "status": "active"
+    },
+    {
+      "name": "Namer Command",
+      "designation_range": "Command variant",
+      "years": "2016-present",
+      "count": 20,
+      "key_changes": "Additional communications equipment, reduced passenger capacity, command and control systems",
+      "status": "active"
+    },
+    {
+      "name": "Namer Ambulance",
+      "designation_range": "Medical variant",
+      "years": "2015-present",
+      "count": 15,
+      "key_changes": "Medical equipment, stretcher capacity, life support systems",
+      "status": "active"
+    }
+  ],
+  "fleet_status_json": [
+    {
+      "hull_number": "N/A",
+      "name": "Namer fleet information classified",
+      "variant": "Various",
+      "commissioned": "2008-present",
+      "home_port": "Various IDF bases",
+      "status": "active"
+    }
+  ],
+  "cost_usd": 3500000.0,
+  "unit_count": 200,
+  "first_commissioned": "2008",
+  "builder": "Israel Military Industries / Elbit Systems",
+  "image_url": "",
+  "wiki_url": "https://en.wikipedia.org/wiki/Namer_(APC)",
+  "sources_json": [
+    "https://en.wikipedia.org/wiki/Namer_(APC)",
+    "https://www.idf.il/",
+    "https://www.janes.com/",
+    "https://www.armyrecognition.com/"
+  ],
+  "comparison_tags": [
+    "heavy-apc",
+    "active-protection",
+    "urban-warfare",
+    "idf",
+    "merkava-based"
+  ],
+  "created_at": "2026-04-11 10:24:10",
+  "updated_at": "2026-04-11T10:24:10.557026",
+  "news": [],
+  "events": [],
+  "ic_coverage": [],
+  "combat_history": [
+    {
+      "date": "2014-07-08",
+      "operation": "Operation Protective Edge",
+      "event": "First operational deployment of Namer APCs during Gaza ground operations. Multiple vehicles successfully transported infantry through heavily contested urban terrain.",
+      "significance": "Validated the platform's survivability in high-threat urban environment against RPGs and IEDs"
+    },
+    {
+      "date": "2014-07-20",
+      "operation": "Operation Protective Edge",
+      "event": "Trophy-equipped Namer successfully intercepted multiple RPG rounds in Gaza, marking first combat use of Trophy APS on APC platform.",
+      "significance": "Demonstrated effectiveness of active protection systems on non-tank platforms, influencing global APS adoption"
+    },
+    {
+      "date": "2021-05",
+      "operation": "Operation Guardian of the Walls",
+      "event": "Namer APCs operated in Gaza border areas, successfully protecting crews from anti-tank missile attacks using Trophy system.",
+      "significance": "Further validated APS effectiveness and heavy armor approach in current threat environment"
+    }
+  ],
+  "modernization": [
+    {
+      "program": "Trophy APS Integration",
+      "status": "completed",
+      "timeline": "2014-2018",
+      "description": "Retrofit of existing Namer fleet with Trophy active protection system, including radar integration and countermeasure launchers.",
+      "impact": "Significantly enhanced survivability against RPGs and ATGMs, reduced crew casualties"
+    },
+    {
+      "program": "Digital Soldier System Integration",
+      "status": "in-progress",
+      "timeline": "2020-2025",
+      "description": "Integration with IDF digital soldier systems, improved C4I capabilities, and enhanced situational awareness displays for dismounted troops.",
+      "impact": "Improves infantry-vehicle coordination and battlefield awareness"
+    },
+    {
+      "program": "Iron Fist APS Evaluation",
+      "status": "planned",
+      "timeline": "2024-2026",
+      "description": "Evaluation of Iron Fist APS as potential Trophy supplement or replacement, testing dual-layer protection concepts.",
+      "impact": "Could provide enhanced protection against top-attack and multiple simultaneous threats"
+    }
+  ],
+  "vulnerabilities": [
+    {
+      "area": "Strategic Mobility",
+      "description": "60-ton weight prevents air transport and limits bridge crossing options. Cannot be deployed rapidly to distant theaters.",
+      "context": "Limits IDF flexibility in multi-front scenarios and prevents overseas deployment without heavy sealift",
+      "mitigation": "IDF accepts this limitation given regional focus and prioritizes tactical survivability"
+    },
+    {
+      "area": "Top Attack Munitions",
+      "description": "Trophy APS has limited effectiveness against top-attack missiles and artillery. Roof armor may be vulnerable to advanced submunitions.",
+      "context": "Hezbollah and other adversaries possess top-attack capable systems like Kornet-E variants",
+      "mitigation": "Operational procedures emphasize cover and concealment, potential future APS upgrades"
+    },
+    {
+      "area": "Urban Maneuverability",
+      "description": "Large size and weight limit maneuverability in tight urban spaces, potentially channeling movement into predictable routes.",
+      "context": "Gaza and Lebanese urban environments have narrow streets and weight-restricted infrastructure",
+      "mitigation": "Coordinated operations with lighter vehicles and extensive route planning"
+    }
+  ],
+  "operational_patterns": {
+    "typical_deployment": "Attached to infantry brigades for high-threat operations, primarily Gaza border and potential Lebanon scenarios",
+    "deployment_length_months": 0,
+    "key_operating_areas": [
+      "Gaza Strip border",
+      "Lebanon border",
+      "West Bank operations"
+    ],
+    "typical_task_group": "Operates with Merkava tanks, D9 bulldozers, and infantry units in combined arms teams",
+    "readiness_notes": "High maintenance requirements due to weight and complexity, limited by specialized transport needs"
+  },
+  "peer_comparisons": [
+    {
+      "platform": "M2A4 Bradley",
+      "country": "United States",
+      "relationship": "doctrinal alternative",
+      "key_differences": "Bradley prioritizes mobility and firepower over protection, air-transportable but vulnerable to RPGs. Namer sacrifices mobility for maximum crew protection and relies on external fire support.",
+      "video_angle": "Philosophy comparison: speed vs survivability in modern mechanized warfare"
+    },
+    {
+      "platform": "CV90 Infantry Fighting Vehicle",
+      "country": "Sweden",
+      "relationship": "weight class competitor",
+      "key_differences": "CV90 emphasizes modularity and export potential with moderate protection. Namer is single-purpose maximum protection design for specific threat environment.",
+      "video_angle": "European flexibility vs Israeli survivability-first design philosophy"
+    },
+    {
+      "platform": "T-15 Armata",
+      "country": "Russia",
+      "relationship": "direct rival",
+      "key_differences": "T-15 matches Namer's heavy protection approach but includes 30mm cannon and unmanned turret. Namer focuses purely on transport role with better-proven APS.",
+      "video_angle": "Heavy APC showdown: proven Israeli design vs ambitious Russian concept"
+    },
+    {
+      "platform": "Puma Infantry Fighting Vehicle",
+      "country": "Germany",
+      "relationship": "capability competitor",
+      "key_differences": "Puma balances protection, firepower, and mobility but lacks active protection. Namer maximizes protection with proven APS but sacrifices firepower and strategic mobility.",
+      "video_angle": "Traditional armor vs active protection approaches to crew survivability"
+    }
+  ],
+  "search_keywords": [
+    "namer apc",
+    "namer israel",
+    "merkava apc",
+    "trophy aps",
+    "israeli armored personnel carrier",
+    "namer heavy apc",
+    "israel military industries",
+    "idf namer",
+    "trophy active protection"
+  ],
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Armenian_Presidential_Elections_2008_Protest_Day_11_-_French_Embassy_Demonstration_APC_130pm.jpg/1280px-Armenian_Presidential_Elections_2008_Protest_Day_11_-_French_Embassy_Demonstration_APC_130pm.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/56/Armenian_Presidential_Elections_2008_Protest_Day_11_-_French_Embassy_Demonstration_APC_130pm.jpg",
+      "width": 1428,
+      "height": 1071,
+      "title": "Armenian Presidential Elections 2008 Protest Day 11 - French Embassy Demonstration APC 130pm.jpg",
+      "description": "The 11th day of <a href=\"https://en.wikipedia.org/wiki/Armenian_presidential_election,_2008\" class=\"extiw\" title=\"en:Armenian presidential election, 2008\">Armenian presidential election protests</a>. ",
+      "license": "CC BY 3.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Austin_-_1922_-_12_hp_-_4_cyl_-_Kolkata_2013-01-13_3202.JPG/1280px-Austin_-_1922_-_12_hp_-_4_cyl_-_Kolkata_2013-01-13_3202.JPG",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Austin_-_1922_-_12_hp_-_4_cyl_-_Kolkata_2013-01-13_3202.JPG",
+      "width": 6016,
+      "height": 4000,
+      "title": "Austin - 1922 - 12 hp - 4 cyl - Kolkata 2013-01-13 3202.JPG",
+      "description": "This Austin car was exhibited and ran during \u2018The Statesman Vintage &amp; Classic Car Rally 2013\u2019 from the Eastern Command Sports Stadium of Fort William, Kolkata to the same via: Rabindra Sadan, Espl",
+      "license": "CC BY 3.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Austin_-_1922_-_12_hp_-_4_cyl_-_Kolkata_2013-01-13_3203.JPG/1280px-Austin_-_1922_-_12_hp_-_4_cyl_-_Kolkata_2013-01-13_3203.JPG",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Austin_-_1922_-_12_hp_-_4_cyl_-_Kolkata_2013-01-13_3203.JPG",
+      "width": 6016,
+      "height": 4000,
+      "title": "Austin - 1922 - 12 hp - 4 cyl - Kolkata 2013-01-13 3203.JPG",
+      "description": "This Austin car was exhibited and ran during \u2018The Statesman Vintage &amp; Classic Car Rally 2013\u2019 from the Eastern Command Sports Stadium of Fort William, Kolkata to the same via: Rabindra Sadan, Espl",
+      "license": "CC BY 3.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Catlanit_RCWS_on_NAMER_AFV.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Catlanit_RCWS_on_NAMER_AFV.jpg",
+      "width": 890,
+      "height": 705,
+      "title": "Catlanit RCWS on NAMER AFV.jpg",
+      "description": "Catlanit <a href=\"//commons.wikimedia.org/wiki/Category:Rafael_Samson_RCWS\" title=\"Category:Rafael Samson RCWS\">Samson Remote Controlled Weapon Station</a> armed with <a href=\"//commons.wikimedia.org/",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Logo_and_Radiator_Cap_-_Austin_-_1922_-_12_hp_-_4_cyl_-_Kolkata_2013-01-13_3055.JPG/1280px-Logo_and_Radiator_Cap_-_Austin_-_1922_-_12_hp_-_4_cyl_-_Kolkata_2013-01-13_3055.JPG",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/86/Logo_and_Radiator_Cap_-_Austin_-_1922_-_12_hp_-_4_cyl_-_Kolkata_2013-01-13_3055.JPG",
+      "width": 6016,
+      "height": 4000,
+      "title": "Logo and Radiator Cap - Austin - 1922 - 12 hp - 4 cyl - Kolkata 2013-01-13 3055.JPG",
+      "description": "Part of the Austin car that was exhibited and ran during \u2018The Statesman Vintage &amp; Classic Car Rally 2013\u2019 from the Eastern Command Sports Stadium of Fort William, Kolkata to the same via: Rabindra",
+      "license": "CC BY 3.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Mastiff_Vehicle_.50_Calibre_Heavy_Machine_Gun_Night_Firing_MOD_45158051.jpg/1280px-Mastiff_Vehicle_.50_Calibre_Heavy_Machine_Gun_Night_Firing_MOD_45158051.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Mastiff_Vehicle_.50_Calibre_Heavy_Machine_Gun_Night_Firing_MOD_45158051.jpg",
+      "width": 4800,
+      "height": 2525,
+      "title": "Mastiff Vehicle .50 Calibre Heavy Machine Gun Night Firing MOD 45158051.jpg",
+      "description": "Members of 34 Regiment Squadron from RAF Leeming firing a .50 calibre heavy machine gun mounted on a Mastiff armoured vehicle, during a night time live firing exercise at Warcop Ranges in Cumbria.\n<p>",
+      "license": "OGL v1.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/RAF_Regiment_Soldiers_Line_Up_Jackal_Vehicles_on_a_Heavy_Weapons_Range_in_Afghanistan_MOD_45153501.jpg/1280px-RAF_Regiment_Soldiers_Line_Up_Jackal_Vehicles_on_a_Heavy_Weapons_Range_in_Afghanistan_MOD_45153501.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/c0/RAF_Regiment_Soldiers_Line_Up_Jackal_Vehicles_on_a_Heavy_Weapons_Range_in_Afghanistan_MOD_45153501.jpg",
+      "width": 3000,
+      "height": 2000,
+      "title": "RAF Regiment Soldiers Line Up Jackal Vehicles on a Heavy Weapons Range in Afghanistan MOD 45153501.jpg",
+      "description": "Soldiers from the RAF Regiment onboard Jackal patrol vehicles zero their weapons on the Leatherneck Heavy Weapons Range in Afghanistan.\n<p>The RAF Regiment takes the lead on Force Protection (FP) for ",
+      "license": "OGL v1.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Soldier_Manning_.50_Cal_Heavy_Machine_Gun_on_Patrol_in_Gereshk%2C_Afghanistan_MOD_45152675.jpg/1280px-Soldier_Manning_.50_Cal_Heavy_Machine_Gun_on_Patrol_in_Gereshk%2C_Afghanistan_MOD_45152675.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Soldier_Manning_.50_Cal_Heavy_Machine_Gun_on_Patrol_in_Gereshk%2C_Afghanistan_MOD_45152675.jpg",
+      "width": 2000,
+      "height": 1036,
+      "title": "Soldier Manning .50 Cal Heavy Machine Gun on Patrol in Gereshk, Afghanistan MOD 45152675.jpg",
+      "description": "A soldier from D Squadron the Household Cavalry Regiment (HCR) is pictured manning a .50cal Heavy Machine Gun on a Jackal 2 All Terrain Vehicle (ATV). This was during a patrol based at the Kandak in t",
+      "license": "OGL v1.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/2019_Colt_Navy_1851_Leech%26Rigdon.jpg/1280px-2019_Colt_Navy_1851_Leech%26Rigdon.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/2019_Colt_Navy_1851_Leech%26Rigdon.jpg",
+      "width": 5054,
+      "height": 2365,
+      "title": "2019 Colt Navy 1851 Leech&Rigdon.jpg",
+      "description": "Colt Navy 1851, Leech&amp;Rigdon version",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Brooklyn_Navy_Yard_%2824286%29.jpg/1280px-Brooklyn_Navy_Yard_%2824286%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Brooklyn_Navy_Yard_%2824286%29.jpg",
+      "width": 4226,
+      "height": 2858,
+      "title": "Brooklyn Navy Yard (24286).jpg",
+      "description": "Brooklyn Navy Yard",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Merchant_Navy_Memorial%2C_Pier_Head_2.jpg/1280px-Merchant_Navy_Memorial%2C_Pier_Head_2.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/48/Merchant_Navy_Memorial%2C_Pier_Head_2.jpg",
+      "width": 4081,
+      "height": 3654,
+      "title": "Merchant Navy Memorial, Pier Head 2.jpg",
+      "description": "Front, looking towards the Port of Liverpool building.",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Mumbai_-_Army_and_Navy_Building.jpg/1280px-Mumbai_-_Army_and_Navy_Building.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/49/Mumbai_-_Army_and_Navy_Building.jpg",
+      "width": 5780,
+      "height": 4202,
+      "title": "Mumbai - Army and Navy Building.jpg",
+      "description": "Army &amp; Navy Building\nMumbai - Mahatma Gandhi Road near Elphinstone College",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Navy_binoculars.jpg/1280px-Navy_binoculars.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Navy_binoculars.jpg",
+      "width": 2100,
+      "height": 1395,
+      "title": "Navy binoculars.jpg",
+      "description": "The sun sets over a set of \"Big Eyes\" binoculars on the signal bridge of the USS <i>Harry S. Truman</i> while an MH-60S Seahawk assigned to the \"Bay Raiders\" of Helicopter Combat Support Squadron 28 a",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Polish_navy_tugboat_H-7.JPG/1280px-Polish_navy_tugboat_H-7.JPG",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Polish_navy_tugboat_H-7.JPG",
+      "width": 4020,
+      "height": 2494,
+      "title": "Polish navy tugboat H-7.JPG",
+      "description": "Polish navy tugboat.",
+      "license": "Attribution",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/U.S._Navy_Diver_enters_the_water_during_a_training_evolution_at_the_Naval_Diving_and_Salvage_Training_Center_140218-N-IC111-156.jpg/1280px-U.S._Navy_Diver_enters_the_water_during_a_training_evolution_at_the_Naval_Diving_and_Salvage_Training_Center_140218-N-IC111-156.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/ae/U.S._Navy_Diver_enters_the_water_during_a_training_evolution_at_the_Naval_Diving_and_Salvage_Training_Center_140218-N-IC111-156.jpg",
+      "width": 2000,
+      "height": 3000,
+      "title": "U.S. Navy Diver enters the water during a training evolution at the Naval Diving and Salvage Training Center 140218-N-IC111-156.jpg",
+      "description": "U.S. Navy Diver 1st Class Alvin Carter enters the water from the yard diving tender Poseidon (YDT 18) Feb. 18, 2014, during a training evolution at the Naval Diving and Salvage Training Center in Pana",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/William_Allen_Rogers_-_Only_the_Navy_Can_Stop_This_%28WWI_U.S._Navy_recruitment_poster%29.jpg/1280px-William_Allen_Rogers_-_Only_the_Navy_Can_Stop_This_%28WWI_U.S._Navy_recruitment_poster%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/54/William_Allen_Rogers_-_Only_the_Navy_Can_Stop_This_%28WWI_U.S._Navy_recruitment_poster%29.jpg",
+      "width": 1818,
+      "height": 2658,
+      "title": "William Allen Rogers - Only the Navy Can Stop This (WWI U.S. Navy recruitment poster).jpg",
+      "description": "A WWI Recruitment poster, using a <i><a href=\"https://en.wikipedia.org/wiki/New_York_Herald\" class=\"extiw\" title=\"w:New York Herald\">New York Herald</a></i> cartoon by W.A. Rogers. Shows an anthropomo",
+      "license": "Public domain",
+      "source": "wikimedia"
+    }
+  ],
+  "doctrine": null,
+  "curated_sources": []
+}

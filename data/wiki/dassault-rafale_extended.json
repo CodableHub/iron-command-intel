@@ -1,0 +1,285 @@
+{
+  "combat_history": [
+    {
+      "date": "2011-03",
+      "operation": "Operation Harmattan (Libya)",
+      "event": "First combat deployment, conducted air-to-ground strikes and reconnaissance missions over Libya during NATO intervention",
+      "significance": "Combat debut demonstrated multirole capabilities and precision strike effectiveness"
+    },
+    {
+      "date": "2013-01",
+      "operation": "Operation Serval (Mali)",
+      "event": "Rapid deployment from France to conduct close air support and precision strikes against insurgent forces",
+      "significance": "Proved long-range deployment capability and effectiveness in counterinsurgency operations"
+    },
+    {
+      "date": "2014-2019",
+      "operation": "Operation Chammal (Iraq/Syria)",
+      "event": "Conducted over 1,400 sorties against ISIS targets, including SCALP cruise missile strikes from significant standoff distances",
+      "significance": "Demonstrated sustained operations capability and precision in urban environments"
+    },
+    {
+      "date": "2019-02",
+      "operation": "Balakot Air Strike (India)",
+      "event": "Indian Rafales (first export customer) used for precision strikes across Pakistan border in response to terrorist attack",
+      "significance": "First combat use by export customer, validated aircraft's performance in high-tension environment"
+    },
+    {
+      "date": "2020-present",
+      "operation": "Various African Operations",
+      "event": "Continued operations in Sahel region supporting counterterrorism efforts across multiple countries",
+      "significance": "Ongoing demonstration of sustained deployment capabilities in harsh environments"
+    }
+  ],
+  "modernization": [
+    {
+      "program": "Rafale F4 Standard",
+      "status": "in-progress",
+      "timeline": "2019-2030",
+      "description": "Major upgrade including enhanced RBE2-AA radar, improved SPECTRA EW suite, satellite communications, helmet-mounted display system, and enhanced connectivity for collaborative combat",
+      "impact": "Significantly improves situational awareness, sensor fusion, and network-centric warfare capabilities"
+    },
+    {
+      "program": "F5 Standard Development",
+      "status": "planned",
+      "timeline": "2030+",
+      "description": "Next major standard focusing on AI integration, advanced sensors, improved stealth features, and enhanced electronic warfare capabilities",
+      "impact": "Will maintain relevance against emerging fifth-generation threats and advanced air defenses"
+    },
+    {
+      "program": "METEOR Integration",
+      "status": "completed",
+      "timeline": "2018-2022",
+      "description": "Integration of METEOR beyond-visual-range air-to-air missile across all variants",
+      "impact": "Provides significant air-to-air engagement advantage with 100km+ range"
+    },
+    {
+      "program": "Talios Pod Integration",
+      "status": "completed",
+      "timeline": "2019-2021",
+      "description": "New targeting pod with improved sensors and laser designation capabilities",
+      "impact": "Enhanced precision strike capabilities and intelligence gathering"
+    }
+  ],
+  "vulnerabilities": [
+    {
+      "area": "Radar Cross Section",
+      "description": "While incorporating some low-observable features, Rafale has larger RCS than true fifth-generation fighters like F-35 or F-22",
+      "context": "Increasing deployment of advanced air defense systems makes stealth increasingly critical",
+      "mitigation": "SPECTRA electronic warfare suite provides active protection, F5 standard may include additional stealth improvements"
+    },
+    {
+      "area": "Production Rate Limitations",
+      "description": "Dassault can only produce 11-12 aircraft annually, limiting rapid fleet expansion or replacement after losses",
+      "context": "In high-intensity conflict, production bottlenecks could impact sustained operations",
+      "mitigation": "France planning to increase production rate, but industrial base remains relatively small"
+    },
+    {
+      "area": "Logistics Complexity",
+      "description": "Advanced systems require sophisticated maintenance infrastructure and specialized personnel training",
+      "context": "Deployed operations may be limited by support requirements, especially for smaller export customers",
+      "mitigation": "Dassault provides comprehensive support packages, but dependency on French industrial base remains"
+    },
+    {
+      "area": "Electronic Warfare Dependence",
+      "description": "Survivability increasingly relies on SPECTRA system effectiveness against evolving threats",
+      "context": "Peer adversaries developing AI-driven electronic warfare capabilities that may overcome current systems",
+      "mitigation": "Continuous SPECTRA upgrades and F4/F5 standard improvements address evolving threats"
+    }
+  ],
+  "operational_patterns": {
+    "typical_deployment": "Air superiority, deep strike, nuclear deterrent patrol, carrier operations (M variant)",
+    "deployment_length_months": 4,
+    "key_operating_areas": [
+      "Sahel Africa",
+      "Eastern Mediterranean",
+      "Baltic Sea",
+      "Indo-Pacific"
+    ],
+    "typical_task_group": "Mixed formations with Mirage 2000, aerial refueling support, AWACS coordination",
+    "readiness_notes": "High availability rates (~75%), but complex maintenance requirements for advanced systems"
+  },
+  "peer_comparisons": [
+    {
+      "platform": "Eurofighter Typhoon",
+      "country": "UK/Germany/Italy/Spain",
+      "relationship": "direct rival",
+      "key_differences": "Typhoon optimized for air-to-air with superior kinematic performance, Rafale better multirole integration and carrier capability. Rafale has better export success due to fewer political restrictions.",
+      "video_angle": "European fighter rivalry: specialist vs generalist design philosophies and export competition"
+    },
+    {
+      "platform": "F/A-18E/F Super Hornet",
+      "country": "USA",
+      "relationship": "allied equivalent",
+      "key_differences": "Super Hornet larger with more payload capacity and proven carrier operations, Rafale more advanced sensors and lower RCS. Both excellent multirole platforms with different industrial ecosystems.",
+      "video_angle": "Atlantic alliance fighter comparison: American industrial scale vs European technological sophistication"
+    },
+    {
+      "platform": "F-35A Lightning II",
+      "country": "USA",
+      "relationship": "generational competitor",
+      "key_differences": "F-35 true fifth-generation with superior stealth and sensor fusion, Rafale better kinematic performance and operational flexibility. Cost and availability favor different procurement strategies.",
+      "video_angle": "4.5 vs 5th gen: proven capability vs future technology, cost-effectiveness analysis"
+    },
+    {
+      "platform": "Saab JAS 39 Gripen E",
+      "country": "Sweden",
+      "relationship": "export competitor",
+      "key_differences": "Gripen significantly lower operating costs and simpler logistics, Rafale superior performance and weapon capacity. Different approaches to European fighter independence and smaller nation requirements.",
+      "video_angle": "European fighter economics: high-end capability vs cost-effective operations"
+    },
+    {
+      "platform": "Su-35 Flanker-E",
+      "country": "Russia",
+      "relationship": "peer adversary",
+      "key_differences": "Su-35 superior kinematic performance and payload, Rafale better avionics integration and precision strike capability. Represents different design philosophies and industrial capabilities.",
+      "video_angle": "East vs West fighter design: Russian emphasis on raw performance vs Western system integration"
+    }
+  ],
+  "search_keywords": [
+    "dassault rafale",
+    "rafale fighter",
+    "rafale b",
+    "rafale c",
+    "rafale m",
+    "french fighter",
+    "omnirole fighter",
+    "spectra ew",
+    "meteor missile",
+    "scalp missile",
+    "rbe2 radar",
+    "m88 engine"
+  ],
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Closeup_of_name_on_French_aircraft_carrier_Charles_de_Gaulle.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Closeup_of_name_on_French_aircraft_carrier_Charles_de_Gaulle.jpg",
+      "width": 675,
+      "height": 1200,
+      "title": "Closeup of name on French aircraft carrier Charles de Gaulle.jpg",
+      "description": "The 14th edition of Indo-French naval exercise (VARUNA) began with the arrival of four French naval ships at Goa on 23 April 2015. Representing the French Navy is aircraft carrier Charles de Gaulle, t",
+      "license": "GODL-India",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/22/French_aircraft_carrier_Charles_de_Gaulle_in_Goa_during_VARUNA_2015_%281%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/22/French_aircraft_carrier_Charles_de_Gaulle_in_Goa_during_VARUNA_2015_%281%29.jpg",
+      "width": 1000,
+      "height": 563,
+      "title": "French aircraft carrier Charles de Gaulle in Goa during VARUNA 2015 (1).jpg",
+      "description": "The 14th edition of Indo-French naval exercise (VARUNA) began with the arrival of four French naval ships at Goa on 23 April 2015. Representing the French Navy is aircraft carrier Charles de Gaulle, t",
+      "license": "GODL-India",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/af/French_aircraft_carrier_Charles_de_Gaulle_in_Goa_during_VARUNA_2015_%282%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/af/French_aircraft_carrier_Charles_de_Gaulle_in_Goa_during_VARUNA_2015_%282%29.jpg",
+      "width": 1000,
+      "height": 563,
+      "title": "French aircraft carrier Charles de Gaulle in Goa during VARUNA 2015 (2).jpg",
+      "description": "The 14th edition of Indo-French naval exercise (VARUNA) began with the arrival of four French naval ships at Goa on 23 April 2015. Representing the French Navy is aircraft carrier Charles de Gaulle, t",
+      "license": "GODL-India",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Goa_Chief_Minister_Laxmikant_Parsekar%2C_Vice_Admiral_SPS_Cheema%2C_and_Indian_and_French_naval_offciers_on_board_FNS_Charles_De_Gaulle.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Goa_Chief_Minister_Laxmikant_Parsekar%2C_Vice_Admiral_SPS_Cheema%2C_and_Indian_and_French_naval_offciers_on_board_FNS_Charles_De_Gaulle.jpg",
+      "width": 700,
+      "height": 518,
+      "title": "Goa Chief Minister Laxmikant Parsekar, Vice Admiral SPS Cheema, and Indian and French naval offciers on board FNS Charles De Gaulle.jpg",
+      "description": "Goa Chief Minister Laxmikant Parsekar, Vice Admiral SPS Cheema, and Indian and French naval offciers on board FNS Charles De Gaulle",
+      "license": "GODL-India",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/60/Goa_Chief_Minister_Laxmikant_Parsekar%2C_Vice_Admiral_SPS_Cheema%2C_and_Indian_and_French_naval_personnel_on_board_aircraft_carrier_Charles_de_Gaulle.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/60/Goa_Chief_Minister_Laxmikant_Parsekar%2C_Vice_Admiral_SPS_Cheema%2C_and_Indian_and_French_naval_personnel_on_board_aircraft_carrier_Charles_de_Gaulle.jpg",
+      "width": 1000,
+      "height": 750,
+      "title": "Goa Chief Minister Laxmikant Parsekar, Vice Admiral SPS Cheema, and Indian and French naval personnel on board aircraft carrier Charles de Gaulle.jpg",
+      "description": "Laxmikant Parsekar, Chief Minister of Goa, along with Vice Admiral SPS Cheema, Flag Officer Commanding-in-Chief Western Naval Command on board French Navy\u2019s Aircraft Carrier, Charles de Gaulle. Seen i",
+      "license": "GODL-India",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/47/%27113-GU%27_French_Air_Force_Dassault_Rafale_C_with_afterburners_at_Air14%2C_Payerne%2C_Switzerland_%28Ank_Kumar%29_02.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/47/%27113-GU%27_French_Air_Force_Dassault_Rafale_C_with_afterburners_at_Air14%2C_Payerne%2C_Switzerland_%28Ank_Kumar%29_02.jpg",
+      "width": 1148,
+      "height": 765,
+      "title": "'113-GU' French Air Force Dassault Rafale C with afterburners at Air14, Payerne, Switzerland (Ank Kumar) 02.jpg",
+      "description": "'113-GU' French Air Force Dassault Rafale C with afterburners on.\nAir14, Payerne, Switzerland",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Dassault_Rafale_B%2C_France_-_Air_Force_AN0367295.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Dassault_Rafale_B%2C_France_-_Air_Force_AN0367295.jpg",
+      "width": 1200,
+      "height": 820,
+      "title": "Dassault Rafale B, France - Air Force AN0367295.jpg",
+      "description": "Afterburner action!",
+      "license": "GFDL 1.2",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Dassault_Rafale_B.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Dassault_Rafale_B.jpg",
+      "width": 977,
+      "height": 652,
+      "title": "Dassault Rafale B.jpg",
+      "description": "Dassault Rafale B at <a href=\"//commons.wikimedia.org/wiki/Paris_Air_Show\" title=\"Paris Air Show\">Paris Air Show</a> 2007",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Dassault_Rafale_B_02.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Dassault_Rafale_B_02.jpg",
+      "width": 1000,
+      "height": 667,
+      "title": "Dassault Rafale B 02.jpg",
+      "description": "Dassault Rafale B",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Dassault_Rafale_C%2C_France_-_Air_Force_AN0947661.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Dassault_Rafale_C%2C_France_-_Air_Force_AN0947661.jpg",
+      "width": 1024,
+      "height": 683,
+      "title": "Dassault Rafale C, France - Air Force AN0947661.jpg",
+      "description": "The Rafale lifting off to start its display at Farnborough Sept 1992",
+      "license": "GFDL 1.2",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Dassault_Rafale_C_%E2%80%98141_30-GT%E2%80%99_%2849358510998%29.jpg/1280px-Dassault_Rafale_C_%E2%80%98141_30-GT%E2%80%99_%2849358510998%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/12/Dassault_Rafale_C_%E2%80%98141_30-GT%E2%80%99_%2849358510998%29.jpg",
+      "width": 4655,
+      "height": 3103,
+      "title": "Dassault Rafale C \u2018141 30-GT\u2019 (49358510998).jpg",
+      "description": "<p>c/n unknown\nMilitary callsign F-UHGT\nOperated by EC02.030 \u2018Normandie-Niemen\u2019, French Air Force, a multi-role fighter unit based at Mont-de-Marsan. Her tail badge, however, is that of EC01.007 \u2018Prov",
+      "license": "CC BY-SA 2.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Dassault_Rafale_of_the_Croatian_Air_Force_of_191st_Fighter_Aircraft_Squadron.jpg/1280px-Dassault_Rafale_of_the_Croatian_Air_Force_of_191st_Fighter_Aircraft_Squadron.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Dassault_Rafale_of_the_Croatian_Air_Force_of_191st_Fighter_Aircraft_Squadron.jpg",
+      "width": 5036,
+      "height": 3357,
+      "title": "Dassault Rafale of the Croatian Air Force of 191st Fighter Aircraft Squadron.jpg",
+      "description": "Regarding the license, author (Government ministry of the Armed Forces) stated \"Content from this site may be transmitted without special permission provided the source is acknowledged\". Furthermore, ",
+      "license": "CC BY 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/67/French_Air_Force_Dassault_Rafale_c-n_107_%28113-HJ%29_at_Kleine_Brogel_Air_Base.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/67/French_Air_Force_Dassault_Rafale_c-n_107_%28113-HJ%29_at_Kleine_Brogel_Air_Base.jpg",
+      "width": 1280,
+      "height": 853,
+      "title": "French Air Force Dassault Rafale c-n 107 (113-HJ) at Kleine Brogel Air Base.jpg",
+      "description": "Kleine Brogel Air Base",
+      "license": "CC0",
+      "source": "wikimedia"
+    }
+  ]
+}

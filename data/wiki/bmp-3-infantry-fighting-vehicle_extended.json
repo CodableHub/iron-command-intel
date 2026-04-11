@@ -1,0 +1,306 @@
+{
+  "combat_history": [
+    {
+      "date": "1991",
+      "operation": "Soviet Army trials",
+      "event": "First operational deployment during Soviet-era exercises, revealing initial mechanical reliability issues and crew training challenges",
+      "significance": "Identified need for improved crew ergonomics and maintenance procedures"
+    },
+    {
+      "date": "1999-2009",
+      "operation": "Second Chechen War",
+      "event": "BMP-3s deployed in urban combat operations, suffering losses to RPGs and improvised explosive devices",
+      "significance": "Demonstrated vulnerability to asymmetric threats and need for urban warfare modifications"
+    },
+    {
+      "date": "2008",
+      "operation": "Russo-Georgian War",
+      "event": "Russian BMP-3s participated in the advance into South Ossetia and Abkhazia, primarily in fire support roles",
+      "significance": "First major interstate conflict deployment, validated amphibious crossing capabilities"
+    },
+    {
+      "date": "2015-present",
+      "operation": "Syrian Civil War",
+      "event": "Russian BMP-3s deployed with special forces units, used for base security and limited offensive operations",
+      "significance": "Combat testing of modernized variants in desert environment"
+    },
+    {
+      "date": "2022-present",
+      "operation": "Russia-Ukraine War",
+      "event": "Extensive deployment of BMP-3s in Ukrainian theater, suffering significant losses to Javelin, NLAW, and other Western ATGMs",
+      "significance": "Exposed critical vulnerabilities to modern top-attack munitions and highlighted inadequate active protection systems"
+    }
+  ],
+  "modernization": [
+    {
+      "program": "BMP-3 Manul Upgrade Program",
+      "status": "in-progress",
+      "timeline": "2020-2025",
+      "description": "Comprehensive modernization including Sosna-U fire control system, thermal imaging, digital battlefield management, and modular armor packages",
+      "impact": "Significantly improves target acquisition and situational awareness in day/night conditions"
+    },
+    {
+      "program": "Active Protection System Integration",
+      "status": "planned",
+      "timeline": "2024-2027",
+      "description": "Installation of Arena-M or Afghanit active protection systems to counter incoming ATGMs and RPGs",
+      "impact": "Addresses critical vulnerability to modern anti-tank weapons demonstrated in Ukraine conflict"
+    },
+    {
+      "program": "Armor Enhancement Package",
+      "status": "in-progress",
+      "timeline": "2022-2026",
+      "description": "Retrofit of existing vehicles with explosive reactive armor and composite armor modules for improved survivability",
+      "impact": "Increases protection against RPGs and older ATGMs, limited effectiveness against top-attack weapons"
+    }
+  ],
+  "vulnerabilities": [
+    {
+      "area": "Top-attack munitions defense",
+      "description": "Minimal roof armor (typically 6-10mm) makes BMP-3 extremely vulnerable to modern top-attack ATGMs like Javelin, NLAW, and artillery-delivered submunitions",
+      "context": "Ukraine conflict has demonstrated catastrophic vulnerability with numerous confirmed kills by Western-supplied systems",
+      "mitigation": "Active protection system integration planned but not yet fielded in significant numbers"
+    },
+    {
+      "area": "Crew survivability",
+      "description": "Ammunition storage layout and fuel placement create significant risk of catastrophic explosion when penetrated, with limited crew escape options",
+      "context": "Multiple documented cases of total vehicle loss with crew fatalities from single ATGM hits",
+      "mitigation": "Some newer variants feature improved ammunition storage but fundamental layout constraints remain"
+    },
+    {
+      "area": "Electronic warfare susceptibility",
+      "description": "Older variants lack modern electronic countermeasures and digital communications are vulnerable to jamming and interception",
+      "context": "Modern battlefield EW environment significantly degrades coordination and targeting capabilities",
+      "mitigation": "Manul upgrade addresses some issues but many vehicles in service lack modern EW protection"
+    },
+    {
+      "area": "Maintenance complexity",
+      "description": "Dual-cannon system and amphibious capability create maintenance burden, particularly for water-jet propulsion and complex fire control systems",
+      "context": "High operational tempo conflicts reveal reliability issues and extended downtime for repairs",
+      "mitigation": "Training improvements and parts availability programs show mixed results"
+    }
+  ],
+  "operational_patterns": {
+    "typical_deployment": "Battalion-level formations supporting mechanized infantry, often in combined-arms task forces with tank support",
+    "deployment_length_months": 6,
+    "key_operating_areas": [
+      "Eastern Military District",
+      "Southern Military District",
+      "Western Military District"
+    ],
+    "typical_task_group": "Operates in platoons of 3-4 vehicles within mechanized infantry companies, often supported by T-72/T-80/T-90 tanks",
+    "readiness_notes": "Maintenance-intensive platform with significant logistical footprint; amphibious systems require specialized training and support"
+  },
+  "peer_comparisons": [
+    {
+      "platform": "M2A3 Bradley Fighting Vehicle",
+      "country": "United States",
+      "relationship": "direct rival",
+      "key_differences": "Bradley emphasizes survivability and advanced optics over raw firepower, lacks amphibious capability but features superior armor protection and crew survivability systems",
+      "video_angle": "Cold War IFV philosophy comparison - Soviet firepower emphasis vs Western survivability focus"
+    },
+    {
+      "platform": "CV90 Infantry Fighting Vehicle",
+      "country": "Sweden",
+      "relationship": "modern equivalent",
+      "key_differences": "CV90 represents modern Western IFV design with modular armor, advanced FCS, and multiple variants, but lacks amphibious capability and heavy anti-tank firepower of BMP-3",
+      "video_angle": "Soviet legacy design vs modern modular approach to IFV development"
+    },
+    {
+      "platform": "Puma Infantry Fighting Vehicle",
+      "country": "Germany",
+      "relationship": "modern rival",
+      "key_differences": "Puma features cutting-edge protection systems, modular design, and advanced C4I, but costs 10x more than BMP-3 and lacks amphibious capability",
+      "video_angle": "Cost vs capability analysis - mass production Soviet model vs boutique Western engineering"
+    },
+    {
+      "platform": "ZBD-04 Infantry Fighting Vehicle",
+      "country": "China",
+      "relationship": "influenced successor",
+      "key_differences": "Chinese design influenced by BMP-3 with similar amphibious capability and firepower, but incorporates modern fire control and protection systems",
+      "video_angle": "Russian technology transfer and Chinese military modernization case study"
+    },
+    {
+      "platform": "BMD-4 Airborne Fighting Vehicle",
+      "country": "Russia",
+      "relationship": "specialized variant",
+      "key_differences": "Shares weapons system with BMP-3 but optimized for airborne operations with lighter armor and air-droppable design",
+      "video_angle": "Russian unified weapons system approach and role specialization within same design family"
+    }
+  ],
+  "search_keywords": [
+    "BMP-3",
+    "BMP3",
+    "Russian IFV",
+    "infantry fighting vehicle",
+    "2A70 gun",
+    "Bastion missile",
+    "BMP-3M",
+    "Manul upgrade",
+    "Russian armor",
+    "Soviet IFV",
+    "amphibious IFV"
+  ],
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/BMP-3_amphibious_infantry_fighting_vehicle.jpg/1280px-BMP-3_amphibious_infantry_fighting_vehicle.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/d6/BMP-3_amphibious_infantry_fighting_vehicle.jpg",
+      "width": 1600,
+      "height": 1054,
+      "title": "BMP-3 amphibious infantry fighting vehicle.jpg",
+      "description": "A Russian BMP-3 amphibious infantry fighting vehicle.",
+      "license": "CC BY-SA 3.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/BMP-3_infantry_fighting_vehicle_at_Engineering_Technologies_2012_01.jpg/1280px-BMP-3_infantry_fighting_vehicle_at_Engineering_Technologies_2012_01.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/35/BMP-3_infantry_fighting_vehicle_at_Engineering_Technologies_2012_01.jpg",
+      "width": 2916,
+      "height": 1944,
+      "title": "BMP-3 infantry fighting vehicle at Engineering Technologies 2012 01.jpg",
+      "description": "<div style=\"display:table;width:;vertical-align:middle;direction:ltr;float:left;line-height:22px;height:24px;font-size:.96em;margin:0px;padding:2px 4px 2px 6px;color:var(--color-base,#000);background:",
+      "license": "CC BY-SA 3.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/BMP-3_infantry_fighting_vehicle_at_Engineering_Technologies_2012_02.jpg/1280px-BMP-3_infantry_fighting_vehicle_at_Engineering_Technologies_2012_02.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/eb/BMP-3_infantry_fighting_vehicle_at_Engineering_Technologies_2012_02.jpg",
+      "width": 2886,
+      "height": 1924,
+      "title": "BMP-3 infantry fighting vehicle at Engineering Technologies 2012 02.jpg",
+      "description": "<div style=\"display:table;width:;vertical-align:middle;direction:ltr;float:left;line-height:22px;height:24px;font-size:.96em;margin:0px;padding:2px 4px 2px 6px;color:var(--color-base,#000);background:",
+      "license": "CC BY-SA 3.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/BMP-3_infantry_fighting_vehicle_at_Engineering_Technologies_2012_03.jpg/1280px-BMP-3_infantry_fighting_vehicle_at_Engineering_Technologies_2012_03.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/9f/BMP-3_infantry_fighting_vehicle_at_Engineering_Technologies_2012_03.jpg",
+      "width": 3010,
+      "height": 2007,
+      "title": "BMP-3 infantry fighting vehicle at Engineering Technologies 2012 03.jpg",
+      "description": "<div style=\"display:table;width:;vertical-align:middle;direction:ltr;float:left;line-height:22px;height:24px;font-size:.96em;margin:0px;padding:2px 4px 2px 6px;color:var(--color-base,#000);background:",
+      "license": "CC BY-SA 3.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/BMP-3_infantry_fighting_vehicle_at_Engineering_Technologies_2012_04.jpg/1280px-BMP-3_infantry_fighting_vehicle_at_Engineering_Technologies_2012_04.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/58/BMP-3_infantry_fighting_vehicle_at_Engineering_Technologies_2012_04.jpg",
+      "width": 3008,
+      "height": 2005,
+      "title": "BMP-3 infantry fighting vehicle at Engineering Technologies 2012 04.jpg",
+      "description": "<div style=\"display:table;width:;vertical-align:middle;direction:ltr;float:left;line-height:22px;height:24px;font-size:.96em;margin:0px;padding:2px 4px 2px 6px;color:var(--color-base,#000);background:",
+      "license": "CC BY-SA 3.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Captured_BMP-3.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Captured_BMP-3.jpg",
+      "width": 891,
+      "height": 701,
+      "title": "Captured BMP-3.jpg",
+      "description": "\u041e\u043a\u0440\u0435\u043c\u0430 \u043c\u043e\u0442\u043e\u043f\u0456\u0445\u043e\u0442\u043d\u0430 \u0431\u0440\u0438\u0433\u0430\u0434\u0430 \u0456\u043c\u0435\u043d\u0456 \u042f\u043a\u043e\u0432\u0430 \u0413\u0430\u043d\u0434\u0437\u044e\u043a\u0430 \u0437\u0430\u0445\u043e\u043f\u0438\u043b\u0430 \u0440\u043e\u0441\u0456\u0439\u0441\u044c\u043a\u0443 \u0411\u041c\u041f-3",
+      "license": "CC BY 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Captured_BMP-3_Ukrainian_AF_2022-03.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Captured_BMP-3_Ukrainian_AF_2022-03.jpg",
+      "width": 1200,
+      "height": 800,
+      "title": "Captured BMP-3 Ukrainian AF 2022-03.jpg",
+      "description": "\u0422\u0440\u043e\u0444\u0435\u0439\u043d\u0430\u044f \u0411\u041c\u041f-3 \u0412\u043e\u043e\u0440\u0443\u0436\u0451\u043d\u043d\u044b\u0445 \u0441\u0438\u043b \u0423\u043a\u0440\u0430\u0438\u043d\u044b, \u043c\u0430\u0439 2022 \u0433.",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/UA_BMP-3_Vuhledar.jpg/1280px-UA_BMP-3_Vuhledar.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/1e/UA_BMP-3_Vuhledar.jpg",
+      "width": 1600,
+      "height": 1066,
+      "title": "UA BMP-3 Vuhledar.jpg",
+      "description": "\u0417 \u043a\u043e\u0437\u0430\u0446\u044c\u043a\u0438\u0445 \u0447\u0430\u0441\u0456\u0432 \u0445\u043b\u043e\u043f\u0446\u0456 \u0431\u0438\u043b\u0438 \u0432\u043e\u0440\u043e\u0433\u0430 \u0439\u043e\u0433\u043e \u0436 \u0437\u0431\u0440\u043e\u0454\u044e!\n\u0422\u0440\u0430\u0434\u0438\u0446\u0456\u044f \u0436\u0438\u0432\u0430, \u0456 \u043d\u0438\u043d\u0456 \u0442\u0440\u043e\u0444\u0435\u0439\u043d\u0430 \u0411\u041c\u041f-3, \u0449\u043e \u0434\u0432\u0430 \u0440\u043e\u043a\u0438 \u0442\u043e\u043c\u0443 \u0437\u0430\u0445\u043e\u043f\u043b\u0435\u043d\u0430 \u0443 \u0431\u043e\u044e \u043f\u0456\u0434 \u0412\u0443\u0433\u043b\u0435\u0434\u0430\u0440\u043e\u043c \u043d\u0430\u0448\u0438\u043c\u0438 \u0431\u0456\u0439\u0446\u044f\u043c\u0438, \u0432\u043f\u0440\u0430\u0432\u043d\u043e \u0456 \u0432\u043c\u0456\u043b\u043e \u043d\u0438\u0449\u0438\u0442\u044c \u0437\u0430\u0433\u0430\u0440\u0431\u043d\u0438\u043a\u0430 \u0432\u0434\u0435\u043d\u044c \u0456 \u0432\u043d\u043e\u0447",
+      "license": "CC BY 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/BMP-3_AFVs_of_the_UAE.JPEG/1280px-BMP-3_AFVs_of_the_UAE.JPEG",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/BMP-3_AFVs_of_the_UAE.JPEG",
+      "width": 3008,
+      "height": 1960,
+      "title": "BMP-3 AFVs of the UAE.JPEG",
+      "description": "Marines from the 13th Marine Expeditionary Unit (13th MEU) 1st Light Armor Reconnaissance Battalion Landing Team (1st LAR BLT 1/1) stationed at 29 palms, Calif., conduct live fire desert training with",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/BMP-3_of_the_UAE.JPEG/1280px-BMP-3_of_the_UAE.JPEG",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/74/BMP-3_of_the_UAE.JPEG",
+      "width": 1960,
+      "height": 3008,
+      "title": "BMP-3 of the UAE.JPEG",
+      "description": "Marines from the 13th Marine Expeditionary Unit (13th MEU) 1st Light Armor Reconnaissance Battalion Landing Team (1st LAR BLT 1/1) stationed at 29 palms, Calif., conduct live fire desert training with",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/BMP-3_tank_of_the_UAE.JPEG/1280px-BMP-3_tank_of_the_UAE.JPEG",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/BMP-3_tank_of_the_UAE.JPEG",
+      "width": 3008,
+      "height": 1960,
+      "title": "BMP-3 tank of the UAE.JPEG",
+      "description": "Marines from the 13th Marine Expeditionary Unit (13th MEU) 1st Light Armor Reconnaissance Battalion Landing Team (1st LAR BLT 1/1) stationed at 29 palms, Calif., conduct live fire desert training with",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/BMP-3_tanks_of_the_UAE.JPEG/1280px-BMP-3_tanks_of_the_UAE.JPEG",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/2e/BMP-3_tanks_of_the_UAE.JPEG",
+      "width": 3008,
+      "height": 1960,
+      "title": "BMP-3 tanks of the UAE.JPEG",
+      "description": "Marines from the 13th Marine Expeditionary Unit (13th MEU) 1st Light Armor Reconnaissance Battalion Landing Team (1st LAR BLT 1/1) stationed at 29 palms, Calif., conduct live fire desert training with",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/File-Kuwaiti_BMP-2_3.JPEG/1280px-File-Kuwaiti_BMP-2_3.JPEG",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/66/File-Kuwaiti_BMP-2_3.JPEG",
+      "width": 1860,
+      "height": 2820,
+      "title": "File-Kuwaiti BMP-2 3.JPEG",
+      "description": "Lt. David Culler, a public affairs officer with the Joint Information Bureau, sits atop a Kuwaiti BMP-2 Infantry fighting vehicle (the original description suggests that it was captured from the Iraqi",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Indonesian_Naval_Academy_promotional_recruiting_poster.jpg/1280px-Indonesian_Naval_Academy_promotional_recruiting_poster.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Indonesian_Naval_Academy_promotional_recruiting_poster.jpg",
+      "width": 1314,
+      "height": 1471,
+      "title": "Indonesian Naval Academy promotional recruiting poster.jpg",
+      "description": "An Indonesian Naval Academy promotional recruiting poster by the Indonesian Navy",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/KRI_Amboina_%28503%29_on_29_May_2019_%282%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/KRI_Amboina_%28503%29_on_29_May_2019_%282%29.jpg",
+      "width": 736,
+      "height": 392,
+      "title": "KRI Amboina (503) on 29 May 2019 (2).jpg",
+      "description": "JAKARTA, May 29, 2019 - \"On May 201E the Joint Task Force Landing Administration (Kogasgabratmin) after passing through the stages of personnel and material embarkation at the Jakarta base - sea cross",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/US_Navy_030223-N-1050K-001_UAE_offloads_a_BMP3_Tank_at_a_Kuwaiti_port_facility_from_its_Elbahia_L62_landing_craft.jpg/1280px-US_Navy_030223-N-1050K-001_UAE_offloads_a_BMP3_Tank_at_a_Kuwaiti_port_facility_from_its_Elbahia_L62_landing_craft.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/US_Navy_030223-N-1050K-001_UAE_offloads_a_BMP3_Tank_at_a_Kuwaiti_port_facility_from_its_Elbahia_L62_landing_craft.jpg",
+      "width": 2100,
+      "height": 1507,
+      "title": "US Navy 030223-N-1050K-001 UAE offloads a BMP3 Tank at a Kuwaiti port facility from its Elbahia L62 landing craft.jpg",
+      "description": "<a href=\"https://en.wikipedia.org/wiki/Kuwait_Naval_Base\" class=\"extiw\" title=\"w:Kuwait Naval Base\">Camp Patriot</a>, Kuwait (Feb. 23, 2003) -- The Gulf Country Council (GCC) continues its protective ",
+      "license": "Public domain",
+      "source": "wikimedia"
+    }
+  ]
+}

@@ -1,0 +1,277 @@
+{
+  "combat_history": [
+    {
+      "date": "2024",
+      "operation": "None",
+      "event": "No combat history - first ship not yet commissioned. Program currently in construction phase with HMAS Hunter in early build stages.",
+      "significance": "Platform remains unproven in operational conditions, with capabilities based on design specifications and Type 26 baseline performance"
+    }
+  ],
+  "modernization": [
+    {
+      "program": "Hunter-class Continuous Improvement Program",
+      "status": "planned",
+      "timeline": "2025-2040",
+      "description": "Planned spiral development approach to incorporate new technologies and address capability gaps identified during construction and early operations. May include enhanced electronic warfare systems, directed energy weapons, and improved cyber resilience.",
+      "impact": "Will maintain technological relevance throughout the production run and early service life"
+    },
+    {
+      "program": "AEGIS Baseline Integration",
+      "status": "in-progress",
+      "timeline": "2024-2031",
+      "description": "Integration of select AEGIS combat system elements with SAAB 9LV, including improved cooperative engagement capability and ballistic missile defense potential.",
+      "impact": "Enhanced interoperability with U.S. Navy and improved area air defense capabilities"
+    }
+  ],
+  "vulnerabilities": [
+    {
+      "area": "Program Risk and Delays",
+      "description": "Extensive schedule delays, cost overruns exceeding 20%, and complex systems integration challenges. First ship delivery pushed from 2027 to 2031.",
+      "context": "Australia needs these capabilities urgently given regional threat development, but delays leave capability gaps",
+      "mitigation": "Government considering interim measures including additional Hobart-class destroyers or accelerated submarine programs"
+    },
+    {
+      "area": "Over-Engineering for Requirements",
+      "description": "7,000+ tonne displacement and complex systems may be excessive for Australia's actual operational needs, creating sustainment burden.",
+      "context": "Designed for high-intensity warfare but may spend most time on constabulary duties in Australia's EEZ",
+      "mitigation": "None identified - committed to current design"
+    },
+    {
+      "area": "Limited VLS Capacity",
+      "description": "Only 32 VLS cells compared to 48+ on peer platforms, limiting sustained engagement capability in high-threat environments.",
+      "context": "In South China Sea scenarios, limited missile loadout could be problematic for extended operations",
+      "mitigation": "Reliance on cooperative engagement and task group integration to provide additional firepower"
+    },
+    {
+      "area": "Industrial Base Limitations",
+      "description": "New shipyard, inexperienced workforce, and complex technology transfer creating quality and schedule risks.",
+      "context": "Australia rebuilding naval shipbuilding capability from near-zero baseline",
+      "mitigation": "Extensive BAE Systems oversight and gradual workforce development programs"
+    }
+  ],
+  "operational_patterns": {
+    "typical_deployment": "Independent patrol operations in Australia's EEZ, task group operations with allies in Indo-Pacific, ASW screening for high-value units",
+    "deployment_length_months": 6,
+    "key_operating_areas": [
+      "South China Sea",
+      "Indo-Pacific",
+      "Australian EEZ",
+      "Southern Ocean"
+    ],
+    "typical_task_group": "Operates with Hobart-class destroyers, Collins-class submarines, replenishment ships, or integrated with U.S./UK task groups",
+    "readiness_notes": "Sustainment model still being developed; concerns about maintenance capability and parts availability for complex hybrid systems"
+  },
+  "peer_comparisons": [
+    {
+      "platform": "Type 26 Frigate (HMS Glasgow)",
+      "country": "United Kingdom",
+      "relationship": "direct predecessor",
+      "key_differences": "Hunter-class features different radar (AN/SPY-6 vs Type 997), combat system (9LV vs CMS-1), and weapons fit (NSM vs Sea Ceptor). Australian version is larger and more complex.",
+      "video_angle": "How much customization is too much - comparing baseline Type 26 to heavily modified Hunter variant"
+    },
+    {
+      "platform": "Canadian Surface Combatant (Type 26 variant)",
+      "country": "Canada",
+      "relationship": "allied equivalent",
+      "key_differences": "Both are Type 26 derivatives but Canadian version features different mission bay utilization, potentially larger VLS fit, and different radar solutions. Similar timeline challenges.",
+      "video_angle": "Tale of two Type 26 programs - how different allies adapted the same baseline design"
+    },
+    {
+      "platform": "Type 055 Renhai-class",
+      "country": "China",
+      "relationship": "potential adversary",
+      "key_differences": "Type 055 is much larger (13,000 tonnes), carries 112 VLS cells, and has dual-band radar. Represents the high-end threat Hunter-class may face in South China Sea scenarios.",
+      "video_angle": "David vs Goliath - how Hunter-class frigates would engage Type 055 destroyers in contested scenarios"
+    },
+    {
+      "platform": "Constellation-class Frigate (FFG-62)",
+      "country": "United States",
+      "relationship": "allied equivalent",
+      "key_differences": "Constellation-class is smaller (7,300 tonnes), based on FREMM design, with 32 VLS cells but different sensor suite. Both programs face similar schedule and cost challenges.",
+      "video_angle": "Allied frigate programs - comparing U.S. and Australian approaches to next-generation surface combatants"
+    },
+    {
+      "platform": "Mogami-class Frigate",
+      "country": "Japan",
+      "relationship": "allied equivalent",
+      "key_differences": "Mogami is lighter (5,500 tonnes), more focused on ASW with advanced sonar, but less area air defense capability. Different operational philosophy for different threat environment.",
+      "video_angle": "ASW specialist comparison - different approaches to submarine hunting in the Pacific"
+    }
+  ],
+  "search_keywords": [
+    "hunter class",
+    "hunter-class frigate",
+    "FFG",
+    "royal australian navy",
+    "RAN",
+    "type 26",
+    "BAE systems",
+    "ASC shipbuilding",
+    "AN/SPY-6",
+    "9LV combat system",
+    "australian frigate",
+    "hunter frigate"
+  ],
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/240830_1526_Rosneath_Point%2C_HMS_Cardiff_%28F89%29_on_Malin_Augustea_CD01_for_launch.jpg/1280px-240830_1526_Rosneath_Point%2C_HMS_Cardiff_%28F89%29_on_Malin_Augustea_CD01_for_launch.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/0d/240830_1526_Rosneath_Point%2C_HMS_Cardiff_%28F89%29_on_Malin_Augustea_CD01_for_launch.jpg",
+      "width": 3520,
+      "height": 1980,
+      "title": "240830 1526 Rosneath Point, HMS Cardiff (F89) on Malin Augustea CD01 for launch.jpg",
+      "description": "Firth of Clyde, <a href=\"https://en.wikipedia.org/wiki/HMS_Cardiff_(F89)\" class=\"extiw\" title=\"w:HMS Cardiff (F89)\">HMS <i>Cardiff</i> (F89)</a> on <a href=\"https://en.wikipedia.org/wiki/semi-submersi",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/240830_1527_kayaks_on_Clyde%2C_HMS_Cardiff_%28F89%29_on_Malin_Augustea_CD01_for_launch.jpg/1280px-240830_1527_kayaks_on_Clyde%2C_HMS_Cardiff_%28F89%29_on_Malin_Augustea_CD01_for_launch.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/bb/240830_1527_kayaks_on_Clyde%2C_HMS_Cardiff_%28F89%29_on_Malin_Augustea_CD01_for_launch.jpg",
+      "width": 1994,
+      "height": 1122,
+      "title": "240830 1527 kayaks on Clyde, HMS Cardiff (F89) on Malin Augustea CD01 for launch.jpg",
+      "description": "Kayaks on Firth of Clyde, <a href=\"https://en.wikipedia.org/wiki/HMS_Cardiff_(F89)\" class=\"extiw\" title=\"w:HMS Cardiff (F89)\">HMS <i>Cardiff</i> (F89)</a> on <a href=\"https://en.wikipedia.org/wiki/sem",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/240830_1537_HMS_Cardiff_%28F89%29_on_Malin_Augustea_CD01_for_launch%2C_nearing_Loch_Long.jpg/1280px-240830_1537_HMS_Cardiff_%28F89%29_on_Malin_Augustea_CD01_for_launch%2C_nearing_Loch_Long.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/99/240830_1537_HMS_Cardiff_%28F89%29_on_Malin_Augustea_CD01_for_launch%2C_nearing_Loch_Long.jpg",
+      "width": 3138,
+      "height": 1765,
+      "title": "240830 1537 HMS Cardiff (F89) on Malin Augustea CD01 for launch, nearing Loch Long.jpg",
+      "description": "Firth of Clyde, <a href=\"https://en.wikipedia.org/wiki/HMS_Cardiff_(F89)\" class=\"extiw\" title=\"w:HMS Cardiff (F89)\">HMS <i>Cardiff</i> (F89)</a> on <a href=\"https://en.wikipedia.org/wiki/semi-submersi",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/FRPUN-20240905-ZC0132-009.jpg/1280px-FRPUN-20240905-ZC0132-009.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/FRPUN-20240905-ZC0132-009.jpg",
+      "width": 6455,
+      "height": 4303,
+      "title": "FRPUN-20240905-ZC0132-009.jpg",
+      "description": "Pictured: Type 26 Frigate HMS Cardiff being towed and maneuvered as she passes under the Erskine Bridge on the Clyde.HMS Cardiff, the second of the Royal Navy\u2019s new City Class Type 26 frigates, was lo",
+      "license": "OGL v1.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Future_of_the_Royal_Navy_2025.png/1280px-Future_of_the_Royal_Navy_2025.png",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/87/Future_of_the_Royal_Navy_2025.png",
+      "width": 4400,
+      "height": 4104,
+      "title": "Future of the Royal Navy 2025.png",
+      "description": "Silhouettes of all planned future ships of the Royal Navy from the end of 2024",
+      "license": "CC BY 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/HMS_Glasgow_under_construction_in_Govan.jpg/1280px-HMS_Glasgow_under_construction_in_Govan.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/af/HMS_Glasgow_under_construction_in_Govan.jpg",
+      "width": 4928,
+      "height": 3280,
+      "title": "HMS Glasgow under construction in Govan.jpg",
+      "description": "Image of HMS Glasgow, seen here under construction at BAE Systems\u2019 shipyard in Govan on the River Clyde today (29/06/2021).The first steel has been cut for HMS Belfast, the third ship in the Royal Nav",
+      "license": "OGL v1.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/HMS_Northumberland_MOD_45167777.jpg/1280px-HMS_Northumberland_MOD_45167777.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/41/HMS_Northumberland_MOD_45167777.jpg",
+      "width": 5472,
+      "height": 3653,
+      "title": "HMS Northumberland MOD 45167777.jpg",
+      "description": "Dramatic image taken from the bow of HMS Northumberland, showing the Focsle, bridge and 4.5\" Mk 8 Naval Gun As she transits North towards the Arctic Circle with the sun rising astern.\n<p>Imagery of li",
+      "license": "OGL 3",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Ship_under_construction_-_geograph.org.uk_-_6943224.jpg/1280px-Ship_under_construction_-_geograph.org.uk_-_6943224.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Ship_under_construction_-_geograph.org.uk_-_6943224.jpg",
+      "width": 3580,
+      "height": 2510,
+      "title": "Ship under construction - geograph.org.uk - 6943224.jpg",
+      "description": "Ship under construction\u00a0<span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"//commons.wikimedia.org/wiki/File:Ship_under_construction_-_geograph.org.uk_-_6943224.jpg#ooui-php-",
+      "license": "CC BY-SA 2.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/FFG%28X%29_SNA_2022.png/1280px-FFG%28X%29_SNA_2022.png",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/30/FFG%28X%29_SNA_2022.png",
+      "width": 1300,
+      "height": 790,
+      "title": "FFG(X) SNA 2022.png",
+      "description": "FFG(X) artist rendering from Program Executive Office Unmanned and Small Combatants (PEO USC) as presented in the 2022 Surface Navy Association symposium",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/FFG%28X%29_Technical-System_Details.png/1280px-FFG%28X%29_Technical-System_Details.png",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/34/FFG%28X%29_Technical-System_Details.png",
+      "width": 3538,
+      "height": 2070,
+      "title": "FFG(X) Technical-System Details.png",
+      "description": "FFG(X) artist rendering with system-technical details from Program Executive Office Unmanned and Small Combatants (PEO USC) as presented in the 2022 Surface Navy Association symposium",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Next_Generation_Frigate_linesplan.jpg/1280px-Next_Generation_Frigate_linesplan.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Next_Generation_Frigate_linesplan.jpg",
+      "width": 1440,
+      "height": 900,
+      "title": "Next Generation Frigate linesplan.jpg",
+      "description": "Next generation guided missile frigate",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Proposed_Government_Furnished_Equipment_for_FFG%28X%29.png/1280px-Proposed_Government_Furnished_Equipment_for_FFG%28X%29.png",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Proposed_Government_Furnished_Equipment_for_FFG%28X%29.png",
+      "width": 2240,
+      "height": 1299,
+      "title": "Proposed Government Furnished Equipment for FFG(X).png",
+      "description": "Proposed Government Furnished Equipment for FFG(X) - U.S. Navy\nDISTRIBUTION STATEMENT A: Approved for public release. Distribution is unlimited.",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/U.S._Navy_guided-missile_frigate_FFG%28X%29_artist_rendering%2C_30_April_2020_%28200430-N-NO101-150%29.JPG/1280px-U.S._Navy_guided-missile_frigate_FFG%28X%29_artist_rendering%2C_30_April_2020_%28200430-N-NO101-150%29.JPG",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/U.S._Navy_guided-missile_frigate_FFG%28X%29_artist_rendering%2C_30_April_2020_%28200430-N-NO101-150%29.JPG",
+      "width": 3679,
+      "height": 2400,
+      "title": "U.S. Navy guided-missile frigate FFG(X) artist rendering, 30 April 2020 (200430-N-NO101-150).JPG",
+      "description": "An artist rendering of the U.S. Navy guided-missile frigate FFG(X). The new small surface combatant will have multi-mission capability to conduct air warfare, anti-submarine warfare, surface warfare, ",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/US_Navy_021219-N-5319A-001_USS_Thach_%28FFG_43%29.jpg/1280px-US_Navy_021219-N-5319A-001_USS_Thach_%28FFG_43%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/14/US_Navy_021219-N-5319A-001_USS_Thach_%28FFG_43%29.jpg",
+      "width": 1312,
+      "height": 2000,
+      "title": "US Navy 021219-N-5319A-001 USS Thach (FFG 43).jpg",
+      "description": "Central Command Area of Responsibility (Dec. 19, 2002) \u2013 The U.S. Navy guided missile frigate USS Thach (FFG 43) as she cruises in the Arabian Gulf.  Thach is in the Central Command Area of Responsibi",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/US_Navy_030429-N-5067K-003_The_guided_missile_frigate_USS_McClusky_%28FFG_41%29.jpg/1280px-US_Navy_030429-N-5067K-003_The_guided_missile_frigate_USS_McClusky_%28FFG_41%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/f0/US_Navy_030429-N-5067K-003_The_guided_missile_frigate_USS_McClusky_%28FFG_41%29.jpg",
+      "width": 2100,
+      "height": 1500,
+      "title": "US Navy 030429-N-5067K-003 The guided missile frigate USS McClusky (FFG 41).jpg",
+      "description": "Pacific Ocean (Apr. 29, 2003) -- The guided missile frigate USS McClusky (FFG 41) maneuvers at slow speeds while training near San Diego, Calif.  U.S. Navy photo by Photographer's Mate 2nd Class Micha",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/US_Navy_030926-N-2716P-031_USS_Nicholas_%28FFG_47%29.jpg/1280px-US_Navy_030926-N-2716P-031_USS_Nicholas_%28FFG_47%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/a6/US_Navy_030926-N-2716P-031_USS_Nicholas_%28FFG_47%29.jpg",
+      "width": 2100,
+      "height": 1500,
+      "title": "US Navy 030926-N-2716P-031 USS Nicholas (FFG 47).jpg",
+      "description": "Neum, Bosnia and Herzegovina (Sep. 26, 2003) -- Crewmembers aboard the U.S. Navy guided missile frigate USS Nicholas (FFG 47) \"man the rails\" during ships arrival honors to the port city of Neum.  Nic",
+      "license": "Public domain",
+      "source": "wikimedia"
+    }
+  ]
+}

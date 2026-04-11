@@ -1,0 +1,204 @@
+{
+  "combat_history": [
+    {
+      "date": "2022-08",
+      "operation": "Response to Pelosi Visit",
+      "event": "Kang Ding-class frigates conducted patrols in Taiwan Strait during PLA exercises following Nancy Pelosi's visit, maintaining defensive positions",
+      "significance": "Demonstrated Taiwan's commitment to maintaining naval presence despite large-scale PLA intimidation exercises"
+    },
+    {
+      "date": "2021-04",
+      "operation": "Freedom of Navigation",
+      "event": "ROCS Kun Ming conducted joint patrol with coast guard vessels following PLA aircraft incursions into ADIZ",
+      "significance": "Shows integration of naval and coast guard operations in Taiwan's layered defense"
+    },
+    {
+      "date": "2019-03",
+      "operation": "Hsiung Feng III Test",
+      "event": "ROCS Kang Ding successfully test-fired indigenous Hsiung Feng III supersonic anti-ship missile",
+      "significance": "Validated Taiwan's indigenous missile capability and reduced dependence on foreign weapons"
+    }
+  ],
+  "modernization": [
+    {
+      "program": "Hsiung Feng III Integration",
+      "status": "completed",
+      "timeline": "2014-2019",
+      "description": "Replacement of French Exocet MM40 with indigenous Hsiung Feng III supersonic anti-ship missiles, including new fire control systems",
+      "impact": "Significantly increased anti-ship capability and range, reduced foreign dependence"
+    },
+    {
+      "program": "Combat System Upgrade",
+      "status": "in-progress",
+      "timeline": "2020-2025",
+      "description": "Modernization of TAVITAC combat management system, integration with indigenous sensors and datalinks",
+      "impact": "Improved network-centric warfare capability and integration with other ROC Navy assets"
+    },
+    {
+      "program": "Air Defense Enhancement",
+      "status": "planned",
+      "timeline": "2024-2028",
+      "description": "Potential replacement of Sea Chaparral with more capable indigenous or foreign SAM system",
+      "impact": "Would significantly improve area air defense capability against modern threats"
+    }
+  ],
+  "vulnerabilities": [
+    {
+      "area": "Limited air defense capability",
+      "description": "Sea Chaparral missiles are 1970s technology with limited range and capability against modern supersonic missiles and aircraft",
+      "context": "PLA has extensive inventory of supersonic anti-ship missiles and modern fighter-bombers that outrange current SAM systems",
+      "mitigation": "Exploring indigenous SAM development and potential foreign procurement"
+    },
+    {
+      "area": "Magazine depth",
+      "description": "Only 16 VLS cells and limited reloads mean sustained combat capability is questionable in high-intensity conflict",
+      "context": "Would face saturation attacks from multiple PLA platforms in any conflict scenario",
+      "mitigation": "Focus on first-strike capability and hit-and-run tactics rather than sustained engagement"
+    },
+    {
+      "area": "Age and maintenance",
+      "description": "Ships are 20+ years old with some systems becoming obsolete and maintenance becoming more expensive",
+      "context": "Taiwan's defense budget constraints limit major modernization programs while threat environment intensifies",
+      "mitigation": "Selective upgrades focusing on critical systems, extending service life to 2030s"
+    },
+    {
+      "area": "Limited numbers",
+      "description": "Only six hulls means limited presence and high operational tempo, reducing training and maintenance time",
+      "context": "Cannot be everywhere at once in a Taiwan Strait crisis, must prioritize missions carefully",
+      "mitigation": "Integration with coast guard and development of asymmetric naval tactics"
+    }
+  ],
+  "operational_patterns": {
+    "typical_deployment": "Taiwan Strait patrol, port security, and as flagships for task groups including missile boats",
+    "deployment_length_months": 3,
+    "key_operating_areas": [
+      "Taiwan Strait",
+      "Bashi Channel",
+      "East China Sea"
+    ],
+    "typical_task_group": "1 frigate with 2-4 missile boats and supporting vessels",
+    "readiness_notes": "High operational tempo due to increased PLA activities, maintenance challenges due to age"
+  },
+  "peer_comparisons": [
+    {
+      "platform": "Type 054A Jiangkai II-class",
+      "country": "China",
+      "relationship": "direct rival",
+      "key_differences": "Type 054A has superior air defense with 32 VLS cells and HQ-16 SAMs, but Kang Ding has stealth features and potentially superior anti-ship missiles. Chinese frigate has numerical advantage.",
+      "video_angle": "David vs Goliath - how Taiwan's stealth frigates stack up against China's numerical superiority"
+    },
+    {
+      "platform": "La Fayette-class",
+      "country": "France",
+      "relationship": "predecessor/parent design",
+      "key_differences": "Kang Ding is enlarged version with VLS and enhanced combat systems. French ships focus more on overseas patrol while Taiwan variant is optimized for high-intensity warfare.",
+      "video_angle": "How arms sales and technology transfer work - the La Fayette family tree"
+    },
+    {
+      "platform": "Adelaide-class",
+      "country": "Australia",
+      "relationship": "allied equivalent",
+      "key_differences": "Australian ships based on Oliver Hazard Perry class, more traditional design. Kang Ding has better stealth but Adelaide had better air defense (before retirement).",
+      "video_angle": "Regional allies' approaches to frigate design - stealth vs proven systems"
+    },
+    {
+      "platform": "Formidable-class",
+      "country": "Singapore",
+      "relationship": "allied equivalent",
+      "key_differences": "Singapore's ships also La Fayette-derived but with different mission focus. Both emphasize stealth but Formidable has Aster missiles for better air defense.",
+      "video_angle": "How small navies customize European designs for their specific threats"
+    }
+  ],
+  "search_keywords": [
+    "kang ding class",
+    "kang-ding",
+    "lafayette taiwan",
+    "roc navy frigate",
+    "hsiung feng III",
+    "taiwan frigate",
+    "FFG-1802",
+    "republic of china navy"
+  ],
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/France_La_Fayette-class_frigate_in_Haifa_port.jpg/1280px-France_La_Fayette-class_frigate_in_Haifa_port.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/ba/France_La_Fayette-class_frigate_in_Haifa_port.jpg",
+      "width": 4608,
+      "height": 3456,
+      "title": "France La Fayette-class frigate in Haifa port.jpg",
+      "description": "France La Fayette-class F710 frigate in Haifa port",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/French_frigate_La_Fayette_-_01.jpg/1280px-French_frigate_La_Fayette_-_01.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/92/French_frigate_La_Fayette_-_01.jpg",
+      "width": 1796,
+      "height": 1347,
+      "title": "French frigate La Fayette - 01.jpg",
+      "description": "La Fayette class frigates",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/French_frigate_La_Fayette_-_02.jpg/1280px-French_frigate_La_Fayette_-_02.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/02/French_frigate_La_Fayette_-_02.jpg",
+      "width": 3508,
+      "height": 2797,
+      "title": "French frigate La Fayette - 02.jpg",
+      "description": "La Fayette class frigates",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/French_frigate_La_Fayette_-_03.jpg/1280px-French_frigate_La_Fayette_-_03.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/83/French_frigate_La_Fayette_-_03.jpg",
+      "width": 3737,
+      "height": 1448,
+      "title": "French frigate La Fayette - 03.jpg",
+      "description": "La Fayette class frigates",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/French_frigate_La_Fayette_-_04.jpg/1280px-French_frigate_La_Fayette_-_04.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/76/French_frigate_La_Fayette_-_04.jpg",
+      "width": 3155,
+      "height": 1272,
+      "title": "French frigate La Fayette - 04.jpg",
+      "description": "La Fayette class frigates",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/French_frigate_La_Fayette_-_05.jpg/1280px-French_frigate_La_Fayette_-_05.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/80/French_frigate_La_Fayette_-_05.jpg",
+      "width": 3503,
+      "height": 1549,
+      "title": "French frigate La Fayette - 05.jpg",
+      "description": "La Fayette class frigates",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/ROC_Navy_PFG3-1202_and_S-70C.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/ROC_Navy_PFG3-1202_and_S-70C.jpg",
+      "width": 850,
+      "height": 602,
+      "title": "ROC Navy PFG3-1202 and S-70C.jpg",
+      "description": "<a href=\"https://en.wikipedia.org/wiki/en:Republic_of_China_Navy\" class=\"extiw\" title=\"w:en:Republic of China Navy\">ROC (Taiwan) Navy</a> <i>Kang Ding</i> frigate (PFG3-1202) with S-70C helicopter.",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Ravitaillement_%C3%A0_la_mer.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Ravitaillement_%C3%A0_la_mer.jpg",
+      "width": 352,
+      "height": 235,
+      "title": "Ravitaillement \u00e0 la mer.jpg",
+      "description": "Ravitaillement \u00e0 la mer.",
+      "license": "CC BY-SA 3.0",
+      "source": "wikimedia"
+    }
+  ]
+}

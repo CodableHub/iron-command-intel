@@ -1,0 +1,200 @@
+{
+  "combat_history": [
+    {
+      "date": "2008-2012",
+      "operation": "ISAF Afghanistan",
+      "event": "Norwegian CV9030N vehicles deployed with Telemark Battalion, conducted convoy escort and base security operations in Faryab Province. Vehicles demonstrated reliability in harsh conditions but limited urban combat exposure.",
+      "significance": "First sustained combat deployment proved mechanical reliability and crew protection, validating design for expeditionary operations"
+    },
+    {
+      "date": "2009-2013",
+      "operation": "ISAF Afghanistan",
+      "event": "Danish CV9035DK operated in Helmand Province, engaged Taliban forces with 35mm cannon and provided fire support for dismounted infantry operations.",
+      "significance": "Combat use validated 35mm cannon effectiveness against fortified positions and demonstrated platform's utility in asymmetric warfare"
+    },
+    {
+      "date": "2010-2014",
+      "operation": "ISAF Afghanistan",
+      "event": "Dutch CV9035NL vehicles operated in Uruzgan Province, extensive patrol and convoy operations. Several vehicles damaged by IEDs but crew survivability remained high.",
+      "significance": "IED encounters led to armor upgrades and demonstrated need for modular protection systems, influencing Mk IV development"
+    }
+  ],
+  "modernization": [
+    {
+      "program": "CV90 Mk IV Development",
+      "status": "completed",
+      "timeline": "2014-2018",
+      "description": "Complete redesign featuring new turret, digital backbone, modular armor system, and weight reduction. Incorporates lessons from Afghanistan deployments.",
+      "impact": "Represents generational leap in capability while maintaining platform commonality"
+    },
+    {
+      "program": "Active Protection System Integration",
+      "status": "in-progress",
+      "timeline": "2018-2025",
+      "description": "Integration of Elbit Iron Fist APS on CV90 Mk IV, providing hard-kill protection against RPGs and ATGMs. Currently in testing phase.",
+      "impact": "Significantly enhances survivability against modern anti-tank threats"
+    },
+    {
+      "program": "Mid-Life Upgrade (MLU)",
+      "status": "in-progress",
+      "timeline": "2020-2028",
+      "description": "Upgrading older CV90 variants with new fire control systems, digital architecture, and modular armor. Sweden upgrading 300+ vehicles.",
+      "impact": "Extends service life to 2040+ and maintains interoperability with newer variants"
+    }
+  ],
+  "vulnerabilities": [
+    {
+      "area": "Side and rear armor protection",
+      "description": "Base armor provides limited protection against modern RPGs and ATGMs from flank attacks. Side armor vulnerable to 14.5mm AP at close range.",
+      "context": "Modern battlefield features multi-directional threats and precision-guided munitions that can exploit thinner side armor",
+      "mitigation": "Modular armor packages and APS systems address this, but increase weight and cost significantly"
+    },
+    {
+      "area": "Urban warfare limitations",
+      "description": "Limited elevation/depression angles restrict effectiveness in dense urban environments. Turret design optimized for open terrain engagement.",
+      "context": "Urban warfare increasingly dominant in contemporary conflicts, platform shows limitations compared to specialized urban combat vehicles",
+      "mitigation": "Mk IV turret design partially addresses this with improved gun angles, but fundamental limitations remain"
+    },
+    {
+      "area": "Strategic mobility vs protection trade-off",
+      "description": "Weight constraints to maintain air transportability limit maximum protection levels compared to heavier IFVs like Puma or Bradley A4.",
+      "context": "Peer adversaries fielding increasingly sophisticated anti-armor weapons that challenge medium-weight vehicle protection schemes",
+      "mitigation": "APS systems and reactive armor help, but fundamental physics limitations require operational adaptation"
+    }
+  ],
+  "operational_patterns": {
+    "typical_deployment": "Battalion-level mechanized infantry formations, often integrated with main battle tanks in combined arms operations",
+    "deployment_length_months": 6,
+    "key_operating_areas": [
+      "Northern Europe",
+      "Afghanistan (historical)",
+      "NATO Eastern Flank exercises"
+    ],
+    "typical_task_group": "Operates as part of mechanized infantry company (usually 4 vehicles) with supporting elements",
+    "readiness_notes": "High mechanical reliability reported by operators, simplified maintenance compared to tracked alternatives"
+  },
+  "peer_comparisons": [
+    {
+      "platform": "M2A4 Bradley",
+      "country": "USA",
+      "relationship": "direct rival",
+      "key_differences": "Bradley offers heavier protection and TOW standard, but CV90 provides better strategic mobility and lower lifecycle costs. Bradley's tracked design offers superior cross-country mobility but higher maintenance requirements.",
+      "video_angle": "European vs American IFV philosophy - strategic mobility vs maximum protection comparison"
+    },
+    {
+      "platform": "Puma IFV",
+      "country": "Germany",
+      "relationship": "peer competitor",
+      "key_differences": "Puma represents high-end European approach with maximum protection and advanced systems, while CV90 prioritizes cost-effectiveness and deployability. Puma significantly heavier (43+ tonnes) and more expensive.",
+      "video_angle": "Cost vs capability analysis - when is 'good enough' better than 'best possible'"
+    },
+    {
+      "platform": "BMP-3",
+      "country": "Russia",
+      "relationship": "opposing system",
+      "key_differences": "BMP-3 emphasizes firepower with 100mm gun but minimal protection. CV90 represents Western approach prioritizing crew survival over maximum offensive capability.",
+      "video_angle": "East vs West IFV philosophy - survivability vs firepower trade-offs in modern warfare"
+    },
+    {
+      "platform": "AMV XP",
+      "country": "Finland",
+      "relationship": "allied equivalent",
+      "key_differences": "AMV uses wheeled configuration for higher strategic mobility but lower cross-country performance. Both designed for Nordic conditions but different mobility solutions.",
+      "video_angle": "Wheels vs tracks debate in modern IFV design - terrain vs speed analysis"
+    }
+  ],
+  "search_keywords": [
+    "CV90",
+    "CV 90",
+    "Combat Vehicle 90",
+    "CV9035",
+    "CV9040",
+    "Swedish IFV",
+    "Hagglunds",
+    "BAE Systems Hagglunds",
+    "Bushmaster cannon",
+    "Nordic IFV"
+  ],
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/2nd_ANGLICO_Marines_learn_more_about_Swedish_Army_CV90_Infantry_Fighting_Vehicle_in_Sweden_during_BALTOPS_24_%288480808%29.jpg/1280px-2nd_ANGLICO_Marines_learn_more_about_Swedish_Army_CV90_Infantry_Fighting_Vehicle_in_Sweden_during_BALTOPS_24_%288480808%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/2nd_ANGLICO_Marines_learn_more_about_Swedish_Army_CV90_Infantry_Fighting_Vehicle_in_Sweden_during_BALTOPS_24_%288480808%29.jpg",
+      "width": 6720,
+      "height": 4480,
+      "title": "2nd ANGLICO Marines learn more about Swedish Army CV90 Infantry Fighting Vehicle in Sweden during BALTOPS 24 (8480808).jpg",
+      "description": "A U.S. Marine with 2nd Air-Naval Gunfire Liaison Company, II Marine Expeditionary Force Information Group, II Marine Expeditionary Force, shakes hands with a Swedish Army Soldier with 181st Armored Ba",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2nd_ANGLICO_Marines_learn_more_about_Swedish_Army_CV90_Infantry_Fighting_Vehicle_in_Sweden_during_BALTOPS_24_%288480809%29.jpg/1280px-2nd_ANGLICO_Marines_learn_more_about_Swedish_Army_CV90_Infantry_Fighting_Vehicle_in_Sweden_during_BALTOPS_24_%288480809%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/37/2nd_ANGLICO_Marines_learn_more_about_Swedish_Army_CV90_Infantry_Fighting_Vehicle_in_Sweden_during_BALTOPS_24_%288480809%29.jpg",
+      "width": 4480,
+      "height": 6720,
+      "title": "2nd ANGLICO Marines learn more about Swedish Army CV90 Infantry Fighting Vehicle in Sweden during BALTOPS 24 (8480809).jpg",
+      "description": "Swedish Army Soldiers with 181st Armored Battalion, Gotland Regiment explains the capabilities of the CV90 Infantry Fighting Vehicle to U.S. Marine with 2nd Air-Naval Gunfire Liaison Company, II Marin",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/2nd_ANGLICO_Marines_learn_more_about_Swedish_Army_CV90_Infantry_Fighting_Vehicle_in_Sweden_during_BALTOPS_24_%288480812%29.jpg/1280px-2nd_ANGLICO_Marines_learn_more_about_Swedish_Army_CV90_Infantry_Fighting_Vehicle_in_Sweden_during_BALTOPS_24_%288480812%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/22/2nd_ANGLICO_Marines_learn_more_about_Swedish_Army_CV90_Infantry_Fighting_Vehicle_in_Sweden_during_BALTOPS_24_%288480812%29.jpg",
+      "width": 4480,
+      "height": 6720,
+      "title": "2nd ANGLICO Marines learn more about Swedish Army CV90 Infantry Fighting Vehicle in Sweden during BALTOPS 24 (8480812).jpg",
+      "description": "Swedish Army Soldiers with 181st Armored Battalion, Gotland Regiment explains the capabilities of the CV90 Infantry Fighting Vehicle to U.S. Marine with 2nd Air-Naval Gunfire Liaison Company, II Marin",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/CV90%2C_Stridsfordon_90%2C_Mechanised_Infantry_Light_Combat_Vehicle.png/1280px-CV90%2C_Stridsfordon_90%2C_Mechanised_Infantry_Light_Combat_Vehicle.png",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/0f/CV90%2C_Stridsfordon_90%2C_Mechanised_Infantry_Light_Combat_Vehicle.png",
+      "width": 5100,
+      "height": 7014,
+      "title": "CV90, Stridsfordon 90, Mechanised Infantry Light Combat Vehicle.png",
+      "description": "CV90, Stridsfordon 90, Mechanised Infantry Light Combat Vehicle",
+      "license": "CC BY 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/4b/CV90_Mk_IIIb_Infantry_Fighting_Vehicle_Norway.png",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/4b/CV90_Mk_IIIb_Infantry_Fighting_Vehicle_Norway.png",
+      "width": 254,
+      "height": 232,
+      "title": "CV90 Mk IIIb Infantry Fighting Vehicle Norway.png",
+      "description": "CV90 Mk IIIb Infantry Fighting Vehicle Norway",
+      "license": "CC0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/CV90_Mk_IIIb_Infantry_Fighting_Vehicle_Norway_2.png",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/CV90_Mk_IIIb_Infantry_Fighting_Vehicle_Norway_2.png",
+      "width": 620,
+      "height": 366,
+      "title": "CV90 Mk IIIb Infantry Fighting Vehicle Norway 2.png",
+      "description": "CV90 Mk IIIb Infantry Fighting Vehicle Norway",
+      "license": "CC0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/75/CV_90_Mk_IV_SIAF-2022.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/75/CV_90_Mk_IV_SIAF-2022.jpg",
+      "width": 1024,
+      "height": 768,
+      "title": "CV 90 Mk IV SIAF-2022.jpg",
+      "description": "CV 90 Mk IV on static display at Slovak International Air Fest 2022 at Malacky Air Base, August 2022",
+      "license": "CC BY-SA 3.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Combat_Vehicle_90_at_Estonian_parade-902243.jpeg/1280px-Combat_Vehicle_90_at_Estonian_parade-902243.jpeg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Combat_Vehicle_90_at_Estonian_parade-902243.jpeg",
+      "width": 4246,
+      "height": 3266,
+      "title": "Combat Vehicle 90 at Estonian parade-902243.jpeg",
+      "description": "A Combat Vehicle 9035 of the Estonian Army seen at a parade in February 2018",
+      "license": "CC0",
+      "source": "wikimedia"
+    }
+  ]
+}

@@ -1,0 +1,271 @@
+{
+  "combat_history": [
+    {
+      "date": "2008-08",
+      "operation": "Russo-Georgian War",
+      "event": "Moskva operated in the Black Sea during the conflict, providing naval support and establishing sea control. No direct combat engagement reported.",
+      "significance": "First major deployment since Cold War, demonstrated continued operational capability"
+    },
+    {
+      "date": "2015-2016",
+      "operation": "Syrian Civil War intervention",
+      "event": "Moskva and Varyag rotated through Mediterranean deployments supporting Russian operations in Syria, providing air defense umbrella for naval task force.",
+      "significance": "Showed ability to project power and provide area air defense in contested environment"
+    },
+    {
+      "date": "2022-04-14",
+      "operation": "Russian invasion of Ukraine",
+      "event": "Moskva was struck by two Ukrainian Neptune anti-ship missiles while operating south of Odesa. Ship suffered catastrophic damage and sank while under tow, with significant crew casualties.",
+      "significance": "First combat loss of a major Russian warship since WWII, demonstrated vulnerability to modern anti-ship missiles and poor damage control capabilities"
+    }
+  ],
+  "modernization": [
+    {
+      "program": "Marshal Ustinov modernization",
+      "status": "completed",
+      "timeline": "2011-2016",
+      "description": "Comprehensive upgrade including new combat systems, improved radar and electronics, Kalibr cruise missile capability via P-1000 tubes",
+      "impact": "Added land-attack capability and improved sensors, extending service life"
+    },
+    {
+      "program": "Varyag modernization",
+      "status": "cancelled",
+      "timeline": "2019-planned",
+      "description": "Similar upgrade to Marshal Ustinov planned but cancelled due to budget constraints and Ukraine conflict",
+      "impact": "Varyag remains in original 1980s configuration with limited modernization"
+    }
+  ],
+  "vulnerabilities": [
+    {
+      "area": "Damage control systems",
+      "description": "Soviet-era damage control philosophy and systems proved inadequate during Moskva sinking. Limited compartmentalization and firefighting capability.",
+      "context": "Modern anti-ship missiles can cause catastrophic fires that Soviet-era systems cannot contain",
+      "mitigation": "Some improvements made during modernizations but fundamental design limitations remain"
+    },
+    {
+      "area": "Electronic warfare vulnerability",
+      "description": "Aging radar and electronic systems vulnerable to modern jamming and electronic attack. Limited ECCM capability on non-modernized hulls.",
+      "context": "NATO electronic warfare capabilities have advanced significantly since 1980s design",
+      "mitigation": "Modernized ships receive improved EW suites but coverage is limited"
+    },
+    {
+      "area": "Limited multi-mission capability",
+      "description": "Design optimized for anti-ship warfare with limited flexibility for other missions. Poor ASW capability and limited land-attack options (except modernized hulls).",
+      "context": "Modern naval warfare requires multi-mission platforms",
+      "mitigation": "Kalibr integration provides some land-attack capability but fundamental limitations remain"
+    },
+    {
+      "area": "Maintenance and logistics",
+      "description": "Complex propulsion system requires extensive maintenance. Ukrainian shipyard closure eliminated major refit capability.",
+      "context": "Russian naval maintenance capabilities are stretched and lacking advanced facilities",
+      "mitigation": "Limited options for major overhauls, likely to impact long-term availability"
+    }
+  ],
+  "operational_patterns": {
+    "typical_deployment": "Flagship of surface action groups, Mediterranean rotational deployments, fleet exercises",
+    "deployment_length_months": 6,
+    "key_operating_areas": [
+      "Black Sea",
+      "Mediterranean",
+      "North Atlantic",
+      "Pacific (Varyag only)"
+    ],
+    "typical_task_group": "Operates with destroyer and frigate escorts, submarine support, auxiliary vessels",
+    "readiness_notes": "Availability limited by maintenance requirements and crew training levels. Only 1-2 ships typically operationally available."
+  },
+  "peer_comparisons": [
+    {
+      "platform": "Ticonderoga-class cruiser",
+      "country": "United States",
+      "relationship": "direct rival",
+      "key_differences": "Ticonderoga emphasizes air defense and multi-mission capability with Aegis system and VLS flexibility, while Slava focuses on pure anti-ship firepower with massive P-1000 missiles. Ticonderoga has superior electronics and damage control but less anti-ship punch.",
+      "video_angle": "Cold War philosophy clash - concentrated firepower vs. multi-mission flexibility"
+    },
+    {
+      "platform": "Type 055 Renhai-class destroyer",
+      "country": "China",
+      "relationship": "modern successor concept",
+      "key_differences": "Type 055 represents evolution of Soviet heavy destroyer concept with modern sensors and VLS flexibility. Similar displacement but vastly superior electronics and multi-mission capability. Shows how Soviet concepts evolved with modern technology.",
+      "video_angle": "How China perfected the Soviet heavy warship concept"
+    },
+    {
+      "platform": "Kirov-class battlecruiser",
+      "country": "Russia",
+      "relationship": "fleet mate",
+      "key_differences": "Kirov is larger and more heavily armed but shares similar Soviet design philosophy. Nuclear propulsion gives unlimited range. Both designed for same mission but Kirov represents 'maximum' approach while Slava is more economical.",
+      "video_angle": "Soviet naval gigantism - when bigger was always better"
+    },
+    {
+      "platform": "Type 45 Daring-class destroyer",
+      "country": "United Kingdom",
+      "relationship": "western contemporary",
+      "key_differences": "Type 45 represents modern European approach - sophisticated air defense with SAMPSON radar but limited anti-ship capability. Roughly half the displacement but arguably more capable in modern threat environment.",
+      "video_angle": "Specialization vs. brute force - modern destroyer design philosophy"
+    }
+  ],
+  "search_keywords": [
+    "slava class",
+    "project 1164",
+    "atlant class",
+    "moskva cruiser",
+    "marshal ustinov",
+    "varyag cruiser",
+    "slava cruiser",
+    "soviet cruiser",
+    "russian cruiser",
+    "ss-n-12",
+    "p-1000 vulkan"
+  ],
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Project_1164_Moskva_2009_G1.jpg/1280px-Project_1164_Moskva_2009_G1.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Project_1164_Moskva_2009_G1.jpg",
+      "width": 2950,
+      "height": 1600,
+      "title": "Project 1164 Moskva 2009 G1.jpg",
+      "description": "\"<a href=\"https://en.wikipedia.org/wiki/Russian_cruiser_Moskva\" class=\"extiw\" title=\"w:Russian cruiser Moskva\">Moskva</a>\" (\"Moscow\") (ex-\"Slava\", which means \"Glory\") is the <a href=\"https://en.wikip",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Project_1164_Moskva_2009_G2.jpg/1280px-Project_1164_Moskva_2009_G2.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/22/Project_1164_Moskva_2009_G2.jpg",
+      "width": 3200,
+      "height": 1600,
+      "title": "Project 1164 Moskva 2009 G2.jpg",
+      "description": "\"Moskva\" (\"Moscow\") (ex-\"Slava\", which means \"Glory\") is the lead ship of the <b>Project 1164 Atlant class</b> of guided missile cruisers in the Russian Navy. The Project 1164 Atlant class was develop",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Project_1164_Moskva_2012_G1.jpg/1280px-Project_1164_Moskva_2012_G1.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Project_1164_Moskva_2012_G1.jpg",
+      "width": 5100,
+      "height": 2400,
+      "title": "Project 1164 Moskva 2012 G1.jpg",
+      "description": "\"Moskva\" (\"Moscow\") (ex-\"Slava\", which means \"Glory\") is the lead ship of the <b>Project 1164 Atlant class</b> of guided missile cruisers in the Russian Navy. The Project 1164 Atlant class was develop",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Project_1164_Moskva_2012_G2.jpg/1280px-Project_1164_Moskva_2012_G2.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Project_1164_Moskva_2012_G2.jpg",
+      "width": 5100,
+      "height": 3200,
+      "title": "Project 1164 Moskva 2012 G2.jpg",
+      "description": "\"Moskva\" (\"Moscow\") (ex-\"Slava\", which means \"Glory\") was the lead ship of the <b>Project 1164 Atlant class</b> of guided missile cruisers in the Russian Navy. This warship was used in the 2008 Russia",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Project_1164_Moskva_2012_G4.jpg/1280px-Project_1164_Moskva_2012_G4.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/af/Project_1164_Moskva_2012_G4.jpg",
+      "width": 4500,
+      "height": 3000,
+      "title": "Project 1164 Moskva 2012 G4.jpg",
+      "description": "\"Moskva\" (\"Moscow\") (ex-\"Slava\", which means \"Glory\") is the lead ship of the <b>Project 1164 Atlant class</b> of guided missile cruisers in the Russian Navy. This warship was used in the 2008 Russia-",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Project_1164_Moskva_2012_G5.jpg/1280px-Project_1164_Moskva_2012_G5.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Project_1164_Moskva_2012_G5.jpg",
+      "width": 5100,
+      "height": 3400,
+      "title": "Project 1164 Moskva 2012 G5.jpg",
+      "description": "\"Moskva\" (\"Moscow\") (ex-\"Slava\", which means \"Glory\") is the lead ship of the <b>Project 1164 Atlant class</b> of guided missile cruisers in the Russian Navy. This warship was used in the 2008 Russia-",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Project_1164_Moskva_2012_G6.jpg/1280px-Project_1164_Moskva_2012_G6.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Project_1164_Moskva_2012_G6.jpg",
+      "width": 5180,
+      "height": 2700,
+      "title": "Project 1164 Moskva 2012 G6.jpg",
+      "description": "\"Moskva\" (\"Moscow\") (ex-\"Slava\", which means \"Glory\") is the lead ship of the <b>Project 1164 Atlant class</b> of guided missile cruisers in the Russian Navy. The Project 1164 Atlant class was develop",
+      "license": "CC BY 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Project_1164_Moskva_2012_G7.jpg/1280px-Project_1164_Moskva_2012_G7.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/07/Project_1164_Moskva_2012_G7.jpg",
+      "width": 4800,
+      "height": 2700,
+      "title": "Project 1164 Moskva 2012 G7.jpg",
+      "description": "\"Moskva\" (\"Moscow\") (ex-\"Slava\", which means \"Glory\") is the lead ship of the <b>Project 1164 Atlant class</b> of guided missile cruisers in the Russian Navy. The Project 1164 Atlant class was develop",
+      "license": "CC BY 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/22/16_SS-N-12_missiles_%28Slava_Class%29_-_zoom.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/22/16_SS-N-12_missiles_%28Slava_Class%29_-_zoom.jpg",
+      "width": 735,
+      "height": 604,
+      "title": "16 SS-N-12 missiles (Slava Class) - zoom.jpg",
+      "description": "An aerial starboard view of the bow section of a Soviet Slava class guided missile cruiser showing 16 SS-N-12 missiles, a twin 130 mm dual purpose gun, and two 30 mm gatling guns.",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/16_SS-N-12_missiles_%28Slava_class%29.JPEG/1280px-16_SS-N-12_missiles_%28Slava_class%29.JPEG",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/02/16_SS-N-12_missiles_%28Slava_class%29.JPEG",
+      "width": 3000,
+      "height": 2215,
+      "title": "16 SS-N-12 missiles (Slava class).JPEG",
+      "description": "An aerial starboard view of the bow section of a Soviet Slava class guided missile cruiser showing 16 SS-N-12 missiles, a twin 130 mm dual purpose gun, and two 30 mm gatling guns.",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/A_port_view_of_the_Soviet_cruiser_SLAVA%2C_the_first_of_its_class%2C_underway_-_DPLA_-_729c76036986e126952c25f9a099b078.jpeg/1280px-A_port_view_of_the_Soviet_cruiser_SLAVA%2C_the_first_of_its_class%2C_underway_-_DPLA_-_729c76036986e126952c25f9a099b078.jpeg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/A_port_view_of_the_Soviet_cruiser_SLAVA%2C_the_first_of_its_class%2C_underway_-_DPLA_-_729c76036986e126952c25f9a099b078.jpeg",
+      "width": 3000,
+      "height": 1986,
+      "title": "A port view of the Soviet cruiser SLAVA, the first of its class, underway - DPLA - 729c76036986e126952c25f9a099b078.jpeg",
+      "description": "<div class=\"description\">\nThe original finding aid described this photograph as: Country: Mediterranean Sea (MED) Scene Camera Operator: Unknown Release Status: Released to Public</div>",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/A_starboard_beam_view_of_the_Soviet_Slava_class_guided_missile_cruiser_CHERVONA_UKRAINA_underway_-_DPLA_-_079a53d1f5bc1b502687835871002ec6.jpeg/1280px-A_starboard_beam_view_of_the_Soviet_Slava_class_guided_missile_cruiser_CHERVONA_UKRAINA_underway_-_DPLA_-_079a53d1f5bc1b502687835871002ec6.jpeg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/2d/A_starboard_beam_view_of_the_Soviet_Slava_class_guided_missile_cruiser_CHERVONA_UKRAINA_underway_-_DPLA_-_079a53d1f5bc1b502687835871002ec6.jpeg",
+      "width": 3000,
+      "height": 2399,
+      "title": "A starboard beam view of the Soviet Slava class guided missile cruiser CHERVONA UKRAINA underway - DPLA - 079a53d1f5bc1b502687835871002ec6.jpeg",
+      "description": "<div class=\"description\">\nThe original finding aid described this photograph as: Country: Unknown Scene Camera Operator: Unknown Release Status: Released to Public</div>",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Cruiser_Slava_elevated_port_view_1984.jpg/1280px-Cruiser_Slava_elevated_port_view_1984.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/92/Cruiser_Slava_elevated_port_view_1984.jpg",
+      "width": 2984,
+      "height": 2108,
+      "title": "Cruiser Slava elevated port view 1984.jpg",
+      "description": "An elevated port beam view of a Soviet Slava class guided missile cruiser.",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Slava-Cruiser-DN-SC-86-03642.JPEG/1280px-Slava-Cruiser-DN-SC-86-03642.JPEG",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Slava-Cruiser-DN-SC-86-03642.JPEG",
+      "width": 2528,
+      "height": 1598,
+      "title": "Slava-Cruiser-DN-SC-86-03642.JPEG",
+      "description": "A port beam view of the Soviet guided missile cruiser SLAVA underway.",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Slava_class_cruiser_profile_1986.png",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Slava_class_cruiser_profile_1986.png",
+      "width": 828,
+      "height": 235,
+      "title": "Slava class cruiser profile 1986.png",
+      "description": "Profile of a Soviet <i>Slava</i>-class (Project 1164 <i>Atlant</i>) guided missile cruiser.",
+      "license": "Public domain",
+      "source": "wikimedia"
+    }
+  ]
+}

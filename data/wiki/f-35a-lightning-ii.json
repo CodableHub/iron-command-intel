@@ -1,0 +1,435 @@
+{
+  "id": 72,
+  "slug": "f-35a-lightning-ii",
+  "name": "F-35A Lightning II Multirole Fighter",
+  "designation": "F-35A",
+  "type": "fighter",
+  "country": "United States",
+  "operator": "United States Air Force",
+  "overview_md": "The F-35A Lightning II represents the conventional takeoff and landing variant of the Joint Strike Fighter program, designed as a fifth-generation multirole stealth fighter to replace aging F-16s and A-10s in USAF service. Built around stealth, sensor fusion, and networked warfare capabilities, the F-35A prioritizes information dominance and precision strike over traditional air superiority metrics like speed or maneuverability.\n\nStrategically, the F-35A serves as the cornerstone of NATO and allied air power projection, with its distributed aperture system, AN/APG-81 AESA radar, and advanced electronic warfare suite designed to penetrate advanced integrated air defense systems. The aircraft's ability to share targeting data in real-time across joint and coalition forces represents a fundamental shift toward network-centric warfare, making it as much an intelligence platform as a strike fighter.\n\nIn the current threat environment, the F-35A's stealth and sensor capabilities provide critical advantages against peer adversaries operating S-400, S-500, and similar long-range SAM systems. However, its single-engine design, limited internal weapons bay capacity, and software complexity have generated ongoing debates about cost-effectiveness and operational readiness rates compared to legacy platforms.\n\nCompared to contemporaries like the Eurofighter Typhoon or F/A-18E/F Super Hornet, the F-35A sacrifices kinematic performance for stealth and sensor fusion. Against near-peer competitors like the J-20 or Su-57, it represents a fundamentally different design philosophy\u2014emphasizing network warfare and strike capabilities over traditional air-to-air combat metrics.",
+  "specs_json": {
+    "displacement_tonnes": null,
+    "length_m": 15.67,
+    "beam_m": 10.7,
+    "draft_m": null,
+    "speed_knots": null,
+    "range_nm": 1200,
+    "crew": 1,
+    "propulsion": "Pratt & Whitney F135-PW-100 turbofan, 43,000 lbf thrust",
+    "radar": "AN/APG-81 AESA radar",
+    "sonar": null,
+    "combat_system": "Mission Systems Suite with sensor fusion",
+    "vls_cells": null,
+    "additional": {
+      "max_speed_mach": 1.6,
+      "service_ceiling_ft": 50000,
+      "g_limits": 9.0,
+      "internal_fuel_lbs": 18500,
+      "rcs_m2": 0.001,
+      "avionics": "Distributed Aperture System (DAS), Electro-Optical Targeting System (EOTS)"
+    }
+  },
+  "armament_json": [
+    {
+      "category": "Air-to-Air Missiles",
+      "name": "AIM-120C AMRAAM",
+      "type": "beyond visual range AAM",
+      "quantity": "4 internal, 6 external",
+      "range_km": 120,
+      "notes": "Primary BVR weapon"
+    },
+    {
+      "category": "Air-to-Air Missiles",
+      "name": "AIM-9X Sidewinder",
+      "type": "infrared AAM",
+      "quantity": "2 internal, 4 external",
+      "range_km": 35,
+      "notes": "Short-range dogfight missile"
+    },
+    {
+      "category": "Air-to-Surface Missiles",
+      "name": "AGM-158 JASSM",
+      "type": "cruise missile",
+      "quantity": "2 internal, 8 external",
+      "range_km": 370,
+      "notes": "Stealth cruise missile"
+    },
+    {
+      "category": "Bombs",
+      "name": "GBU-31 JDAM",
+      "type": "GPS-guided bomb",
+      "quantity": "2x 2000lb internal",
+      "range_km": 28,
+      "notes": "Primary precision munition"
+    },
+    {
+      "category": "Bombs",
+      "name": "GBU-39 SDB",
+      "type": "small diameter bomb",
+      "quantity": "8 internal",
+      "range_km": 110,
+      "notes": "Allows multiple target engagement"
+    },
+    {
+      "category": "Gun",
+      "name": "GAU-22/A",
+      "type": "25mm cannon",
+      "quantity": "1x 180 rounds",
+      "range_km": 2,
+      "notes": "Internal mount, limited ammunition"
+    }
+  ],
+  "variants_json": [
+    {
+      "name": "F-35A Block 3F",
+      "designation_range": "AF-1 to AF-175",
+      "years": "2016-2019",
+      "count": 175,
+      "key_changes": "Initial operational capability software, basic weapons integration, limited mission systems functionality",
+      "status": "active"
+    },
+    {
+      "name": "F-35A Block 4",
+      "designation_range": "AF-176 onwards",
+      "years": "2019-present",
+      "count": 275,
+      "key_changes": "Enhanced mission systems, additional weapons integration (JASSM, JSOW), improved electronic warfare capabilities, Technology Refresh 3 hardware",
+      "status": "building"
+    }
+  ],
+  "fleet_status_json": [
+    {
+      "hull_number": "Various",
+      "name": "USAF F-35A Fleet",
+      "variant": "Block 3F/4",
+      "commissioned": "2016-present",
+      "home_port": "Multiple bases worldwide",
+      "status": "Note: Individual F-35A tracking by tail number exceeds practical scope - 450+ aircraft across 15+ bases"
+    }
+  ],
+  "cost_usd": 82000000.0,
+  "unit_count": 450,
+  "first_commissioned": "2016-08-02",
+  "builder": "Lockheed Martin",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/61/F-35A_flight_%28cropped%29.jpg",
+  "wiki_url": "https://en.wikipedia.org/wiki/Lockheed_Martin_F-35_Lightning_II",
+  "sources_json": [
+    "https://en.wikipedia.org/wiki/Lockheed_Martin_F-35_Lightning_II",
+    "https://www.af.mil/News/",
+    "https://www.gao.gov/products/gao-24-106990",
+    "https://www.lockheedmartin.com/en-us/products/f-35.html",
+    "https://www.jpo.mil/",
+    "https://breakingdefense.com/",
+    "https://www.flightglobal.com/"
+  ],
+  "comparison_tags": [
+    "stealth",
+    "multirole",
+    "fifth-generation",
+    "usaf",
+    "nato",
+    "sensor-fusion"
+  ],
+  "created_at": "2026-04-11 10:01:49",
+  "updated_at": "2026-04-11T10:01:49.614895",
+  "news": [],
+  "events": [],
+  "ic_coverage": [],
+  "combat_history": [
+    {
+      "date": "2018-09-27",
+      "operation": "Operation Inherent Resolve",
+      "event": "First F-35A combat sortie flown by 388th Fighter Wing against ISIS targets in Iraq. Strike missions using precision-guided munitions.",
+      "significance": "Marked operational debut of the platform in combat, validating basic strike capabilities"
+    },
+    {
+      "date": "2019-04",
+      "operation": "Northern Syria Operations",
+      "event": "F-35As from Al Dhafra Air Base conducted multiple strikes against ISIS remnants, demonstrating sensor fusion and targeting pod integration.",
+      "significance": "Showed maturation of combat systems and pilot training pipeline"
+    },
+    {
+      "date": "2024-01",
+      "operation": "Red Sea Operations",
+      "event": "F-35As participated in strikes against Houthi targets in Yemen, operating alongside legacy fighters and naval assets.",
+      "significance": "First operations against near-peer air defense systems, validating stealth capabilities"
+    }
+  ],
+  "modernization": [
+    {
+      "program": "Block 4 Modernization",
+      "status": "in-progress",
+      "timeline": "2019-2029",
+      "description": "Technology Refresh 3 hardware upgrade, enhanced mission systems processor, additional weapons integration including SiAW, LRASM, JSM. Improved electronic warfare and cyber capabilities.",
+      "impact": "Significantly expands weapons compatibility and enhances survivability against advanced threats"
+    },
+    {
+      "program": "Continuous Capability Development and Delivery (C2D2)",
+      "status": "ongoing",
+      "timeline": "2023-2040",
+      "description": "Agile software development model replacing traditional block upgrades. Rapid integration of new threats, weapons, and capabilities through over-the-air updates.",
+      "impact": "Enables faster response to evolving threat environment and technology insertion"
+    },
+    {
+      "program": "Engine Core Upgrade (ECU)",
+      "status": "planned",
+      "timeline": "2029-2035",
+      "description": "Pratt & Whitney F135 engine upgrade providing 10% more thrust and improved thermal management for Block 4 power requirements.",
+      "impact": "Addresses power and thermal limitations constraining advanced mission systems"
+    }
+  ],
+  "vulnerabilities": [
+    {
+      "area": "Maintenance Complexity",
+      "description": "Mission capable rates consistently below 70%, with lengthy depot maintenance cycles and complex supply chain for stealth coatings and specialized components.",
+      "context": "Impacts sortie generation rates in sustained operations, critical for deterrence scenarios in Pacific theater",
+      "mitigation": "Autonomic Logistics Information System (ALIS) replacement with ODIN, improved contractor logistics support"
+    },
+    {
+      "area": "Single Engine Vulnerability",
+      "description": "F135 engine represents single point of failure over long-range Pacific missions with limited divert options. Engine fire or failure results in total aircraft loss.",
+      "context": "Particularly concerning for penetrating strikes against Chinese mainland targets where recovery options are limited",
+      "mitigation": "Enhanced engine monitoring systems, but fundamental design limitation remains"
+    },
+    {
+      "area": "Limited Internal Weapons Capacity",
+      "description": "Only four internal weapons stations severely limits simultaneous target engagement or mixed air-to-air/air-to-surface loadouts while maintaining stealth profile.",
+      "context": "Against Chinese IADS with multiple target sets, may require multiple sorties or stealth compromise with external weapons",
+      "mitigation": "SDB integration maximizes target engagement, but fundamental capacity remains limited"
+    },
+    {
+      "area": "Electronic Warfare Dependence",
+      "description": "Heavy reliance on electronic systems and data links creates vulnerability to advanced jamming and cyber attacks. Loss of sensor fusion significantly degrades capability.",
+      "context": "Chinese and Russian EW capabilities specifically target F-35 mission systems architecture",
+      "mitigation": "Enhanced EW hardening in Block 4, but represents ongoing cat-and-mouse technological competition"
+    }
+  ],
+  "operational_patterns": {
+    "typical_deployment": "Forward presence deployments, theater air defense, precision strike missions, integrated with coalition forces",
+    "deployment_length_months": 6,
+    "key_operating_areas": [
+      "Indo-Pacific",
+      "Europe",
+      "Middle East",
+      "CONUS training ranges"
+    ],
+    "typical_task_group": "Operates in 12-24 aircraft squadrons, integrated with AWACS, tanker support, and coalition fighters",
+    "readiness_notes": "Mission capable rates averaging 65-70%, below program objectives. Parts availability and maintenance complexity remain persistent challenges."
+  },
+  "peer_comparisons": [
+    {
+      "platform": "Chengdu J-20 Mighty Dragon",
+      "country": "China",
+      "relationship": "direct rival",
+      "key_differences": "J-20 emphasizes air superiority with longer range and larger weapons bay, while F-35A prioritizes multirole capability and sensor fusion. Different stealth design philosophies with J-20 optimized for frontal RCS reduction.",
+      "video_angle": "Stealth vs stealth: how two different approaches to fifth-generation design would perform in air-to-air combat"
+    },
+    {
+      "platform": "Sukhoi Su-57 Felon",
+      "country": "Russia",
+      "relationship": "direct rival",
+      "key_differences": "Su-57 emphasizes supermaneuverability and kinematic performance over stealth, with questionable low-observable characteristics. F-35A sacrifices dogfighting capability for stealth and sensors.",
+      "video_angle": "Traditional air superiority philosophy vs network-centric warfare: which approach wins in modern air combat"
+    },
+    {
+      "platform": "Eurofighter Typhoon",
+      "country": "Multiple European",
+      "relationship": "allied equivalent",
+      "key_differences": "Typhoon superior in air-to-air combat with better kinematics and twin-engine reliability, but lacks stealth and advanced sensor fusion. Complementary rather than competing roles in NATO.",
+      "video_angle": "Why NATO needs both: stealth penetrator vs air superiority specialist in integrated air operations"
+    },
+    {
+      "platform": "Dassault Rafale",
+      "country": "France",
+      "relationship": "allied competitor",
+      "key_differences": "Rafale offers similar multirole capability without stealth but with proven combat record and lower operating costs. Better naval integration and nuclear delivery capability.",
+      "video_angle": "Stealth vs proven: examining France's decision to skip fifth-generation for evolved fourth-generation design"
+    },
+    {
+      "platform": "F-16 Fighting Falcon",
+      "country": "United States",
+      "relationship": "predecessor",
+      "key_differences": "F-16 vastly superior in cost-effectiveness and maintainability with proven reliability, but completely outmatched against modern IADS. F-35A designed specifically for high-threat environments where F-16 cannot survive.",
+      "video_angle": "The $80 million question: when does advanced capability justify 4x the cost of proven legacy platforms"
+    }
+  ],
+  "search_keywords": [
+    "f-35a",
+    "f35a",
+    "lightning ii",
+    "jsf",
+    "joint strike fighter",
+    "stealth fighter",
+    "fifth generation",
+    "f-35",
+    "lockheed martin",
+    "f135 engine",
+    "block 4",
+    "das",
+    "eots"
+  ],
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/An_F-35A_Lightning_II_aircraft_launches_an_AIM-120_advanced_medium-range_air-to-air_missile_over_a_military_test_range_off_the_California_coast_Oct._31%2C_2013_131031-N-ZZ999-110.jpg/1280px-thumbnail.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/55/An_F-35A_Lightning_II_aircraft_launches_an_AIM-120_advanced_medium-range_air-to-air_missile_over_a_military_test_range_off_the_California_coast_Oct._31%2C_2013_131031-N-ZZ999-110.jpg",
+      "width": 3072,
+      "height": 1284,
+      "title": "An F-35A Lightning II aircraft launches an AIM-120 advanced medium-range air-to-air missile over a military test range off the California coast Oct. 31, 2013 131031-N-ZZ999-110.jpg",
+      "description": "An F-35 Lightning II launches an AIM-120 advanced medium range air-to-air missile (AMRAAM) over a military test range off the California coast. The AMRAAM was fired from an F-35A (AF-6) conventional t",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/An_F-35A_launches_a_missile._%289034663832%29.jpg/1280px-An_F-35A_launches_a_missile._%289034663832%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/An_F-35A_launches_a_missile._%289034663832%29.jpg",
+      "width": 4453,
+      "height": 2969,
+      "title": "An F-35A launches a missile. (9034663832).jpg",
+      "description": "An F-35A conventional takeoff and landing (CTOL) aircraft conducts the first in-flight launch of an AIM-120 C5 missile. The aircraft, known as AF-1, launched the missile over the Point Mugu Sea Test R",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/F-35A_Lightning_II_Joint_Strike_%2811595594196%29.jpg/1280px-F-35A_Lightning_II_Joint_Strike_%2811595594196%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/F-35A_Lightning_II_Joint_Strike_%2811595594196%29.jpg",
+      "width": 4256,
+      "height": 2832,
+      "title": "F-35A Lightning II Joint Strike (11595594196).jpg",
+      "description": "F-35A Lightning II Joint Strike Fighters from the 58th Fighter Squadron, 33rd Fighter Wing, Eglin AFB, Fla. perform an aerial refueling mission May 14, 2013, off the coast of Northwest Florida with a ",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/F-35A_Lightning_IIs_arrive_at_Misawa_Air_Base_%289589372%29.jpg/1280px-F-35A_Lightning_IIs_arrive_at_Misawa_Air_Base_%289589372%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/dc/F-35A_Lightning_IIs_arrive_at_Misawa_Air_Base_%289589372%29.jpg",
+      "width": 8256,
+      "height": 5504,
+      "title": "F-35A Lightning IIs arrive at Misawa Air Base (9589372).jpg",
+      "description": "Four U.S. Air Force F-35A Lightning II aircraft taxi on the flightline during the F-35 first aircraft arrival at Misawa Air Base, Japan, March 28, 2026. The arrival of the fifth-generation aircraft ma",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/F-35A_Lightning_IIs_arrive_at_Misawa_Air_Base_%289589376%29.jpg/1280px-F-35A_Lightning_IIs_arrive_at_Misawa_Air_Base_%289589376%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/60/F-35A_Lightning_IIs_arrive_at_Misawa_Air_Base_%289589376%29.jpg",
+      "width": 8256,
+      "height": 5504,
+      "title": "F-35A Lightning IIs arrive at Misawa Air Base (9589376).jpg",
+      "description": "Four U.S. Air Force F-35A Lightning II aircraft taxi on the flightline during the F-35 first aircraft arrival at Misawa Air Base, Japan, March 28, 2026. The arrival of the fifth-generation aircraft ma",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/F-35A_flight.jpg/1280px-F-35A_flight.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/F-35A_flight.jpg",
+      "width": 4256,
+      "height": 2832,
+      "title": "F-35A flight.jpg",
+      "description": "U.S. Air Force F-35A Lightning II Joint Strike Fighters from the 58th Fighter Squadron, 33rd Fighter Wing, Eglin AFB, Fla. perform an aerial refueling mission with a KC-135 Stratotanker from the 336th",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/F-35A_flight_%28cropped%29.jpg/1280px-F-35A_flight_%28cropped%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/61/F-35A_flight_%28cropped%29.jpg",
+      "width": 1772,
+      "height": 1271,
+      "title": "F-35A flight (cropped).jpg",
+      "description": "A U.S. Air Force F-35A Lightning II Joint Strike Fighter from the 58th Fighter Squadron, 33rd Fighter Wing, Eglin AFB, Fla. performs an aerial refueling mission with a KC-135 Stratotanker from the 336",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/HMS_Prince_of_Wales_and_Royal_Navy_F-35B%2C_JASDF_F-35A_and_F-15_fighter_jets.jpg/1280px-HMS_Prince_of_Wales_and_Royal_Navy_F-35B%2C_JASDF_F-35A_and_F-15_fighter_jets.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/dd/HMS_Prince_of_Wales_and_Royal_Navy_F-35B%2C_JASDF_F-35A_and_F-15_fighter_jets.jpg",
+      "width": 2048,
+      "height": 1370,
+      "title": "HMS Prince of Wales and Royal Navy F-35B, JASDF F-35A and F-15 fighter jets.jpg",
+      "description": "\u82f1\u7a7a\u6bcd\u300c\u30d7\u30ea\u30f3\u30b9\u30aa\u30d6\u30a6\u30a7\u30fc\u30eb\u30ba\u300d\u3068\u82f1\u6d77\u8ecdF-35B\u3001\u822a\u7a7a\u81ea\u885b\u968aF-35A\u3001F-15\u6226\u95d8\u6a5f",
+      "license": "CC BY 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/134th_Fighter_Squadron_%E2%80%93_Lockheed_Martin_F-35A_Z-FV499-2086.jpg/1280px-134th_Fighter_Squadron_%E2%80%93_Lockheed_Martin_F-35A_Z-FV499-2086.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/de/134th_Fighter_Squadron_%E2%80%93_Lockheed_Martin_F-35A_Z-FV499-2086.jpg",
+      "width": 5568,
+      "height": 3712,
+      "title": "134th Fighter Squadron \u2013 Lockheed Martin F-35A Z-FV499-2086.jpg",
+      "description": "Col. Nathan \"Wiz\" Graber, previous commander of the 158th Operations Group, 158th Fighter Wing, flies by in an F-35A Lightning II during his final flight as a fighter pilot in the U.S. Air Force, at t",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Enduring_Lightning_II_200802-F-BT522-0460.jpg/1280px-Enduring_Lightning_II_200802-F-BT522-0460.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Enduring_Lightning_II_200802-F-BT522-0460.jpg",
+      "width": 8256,
+      "height": 5504,
+      "title": "Enduring Lightning II 200802-F-BT522-0460.jpg",
+      "description": "AL DHAFRA AIR BASE, United Arab Emirates \u2013 Israeli Air Force F-35I Lightning II \u201cAldir\u201d and U.S. Air Force 421st Fighter Squadron F-35A Lightning II approaches a 908th Expeditionary Refueling Squadron",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/F-35A_Lightning_II_at_the_Wings_Over_Houston_Airshow.jpg/1280px-F-35A_Lightning_II_at_the_Wings_Over_Houston_Airshow.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/b1/F-35A_Lightning_II_at_the_Wings_Over_Houston_Airshow.jpg",
+      "width": 2274,
+      "height": 1516,
+      "title": "F-35A Lightning II at the Wings Over Houston Airshow.jpg",
+      "description": "Maj. Kristin Wolfe, F-35A Lightning II Demonstration Team pilot and commander, flies an F-35 assigned to the 421st Fighter Generation Squadron at the Wings Over Houston Airshow, Texas, Oct. 15, 2023. ",
+      "license": "CC0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/F-35A_Lightning_II_from_the_388th_Fighter_Wing%27s_421st_Fighter_Squadron_-_8859366.jpg/1280px-F-35A_Lightning_II_from_the_388th_Fighter_Wing%27s_421st_Fighter_Squadron_-_8859366.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/57/F-35A_Lightning_II_from_the_388th_Fighter_Wing%27s_421st_Fighter_Squadron_-_8859366.jpg",
+      "width": 2787,
+      "height": 1854,
+      "title": "F-35A Lightning II from the 388th Fighter Wing's 421st Fighter Squadron - 8859366.jpg",
+      "description": "An F-35A Lightning II from the 388th Fighter Wing's 421st Fighter Squadron departs for a training sortie during Red Flag 25-1 at Nellis Air Force Base, Nev., Feb. 5, 2025. This iteration of Red Flag m",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/F-35A_Lightning_II_from_the_388th_Fighter_Wing%27s_421st_Fighter_Squadron_-_8859371.jpg/1280px-F-35A_Lightning_II_from_the_388th_Fighter_Wing%27s_421st_Fighter_Squadron_-_8859371.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/6c/F-35A_Lightning_II_from_the_388th_Fighter_Wing%27s_421st_Fighter_Squadron_-_8859371.jpg",
+      "width": 4036,
+      "height": 2685,
+      "title": "F-35A Lightning II from the 388th Fighter Wing's 421st Fighter Squadron - 8859371.jpg",
+      "description": "An F-35A Lightning II from the 388th Fighter Wing's 421st Fighter Squadron departs for a training sortie during Red Flag 25-1 at Nellis Air Force Base, Nev., Feb. 5, 2025. This iteration of Red Flag m",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/F-35A_Lightning_II_from_the_388th_Fighter_Wing%27s_421st_Fighter_Squadron_-_8859376.jpg/1280px-F-35A_Lightning_II_from_the_388th_Fighter_Wing%27s_421st_Fighter_Squadron_-_8859376.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/31/F-35A_Lightning_II_from_the_388th_Fighter_Wing%27s_421st_Fighter_Squadron_-_8859376.jpg",
+      "width": 6048,
+      "height": 4024,
+      "title": "F-35A Lightning II from the 388th Fighter Wing's 421st Fighter Squadron - 8859376.jpg",
+      "description": "An F-35A Lightning II from the 388th Fighter Wing's 421st Fighter Squadron departs for a training sortie during Red Flag 25-1 at Nellis Air Force Base, Nev., Feb. 5, 2025. This iteration of Red Flag m",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/F-35A_Lightning_II_takeoff_at_NAS_North_Island_250211-F-BN045-5634.jpeg/1280px-F-35A_Lightning_II_takeoff_at_NAS_North_Island_250211-F-BN045-5634.jpeg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/46/F-35A_Lightning_II_takeoff_at_NAS_North_Island_250211-F-BN045-5634.jpeg",
+      "width": 3502,
+      "height": 2330,
+      "title": "F-35A Lightning II takeoff at NAS North Island 250211-F-BN045-5634.jpeg",
+      "description": "F-35A Lightning II fighter aircraft takes off from Naval Air Station North Island, Calif., for a mission Feb.\u00a011, 2025. The Airmen, from the 388th\u00a0Fighter Wing's 421st\u00a0Fighter Squadron at Hill Air For",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/F-35_Heritage_Flight_Team_performs_in_Bell_Fort_Worth_Alliance_AirShow.jpg/1280px-F-35_Heritage_Flight_Team_performs_in_Bell_Fort_Worth_Alliance_AirShow.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/6d/F-35_Heritage_Flight_Team_performs_in_Bell_Fort_Worth_Alliance_AirShow.jpg",
+      "width": 3384,
+      "height": 2615,
+      "title": "F-35 Heritage Flight Team performs in Bell Fort Worth Alliance AirShow.jpg",
+      "description": "Capt. Andrew \u201cDojo\u201d Olson, F-35 Heritage Flight Team pilot and commander performs a vertical climb in an F-35A Lightning II during the Bell Fort Worth Alliance Air Show Oct. 14, 2018, in Fort Worth, T",
+      "license": "Public domain",
+      "source": "wikimedia"
+    }
+  ],
+  "doctrine": null,
+  "curated_sources": []
+}

@@ -1,0 +1,155 @@
+{
+  "combat_history": [
+    {
+      "date": "2015-11",
+      "operation": "Operation in Syria",
+      "event": "Tu-160s conducted first combat missions, launching Kh-101 cruise missiles against ISIS targets in Syria from Russian airspace",
+      "significance": "First operational use of the platform, demonstrated long-range precision strike capability"
+    },
+    {
+      "date": "2022-02",
+      "operation": "Ukraine invasion",
+      "event": "Tu-160M aircraft launched Kh-101/555 missiles against Ukrainian infrastructure targets, including power grid and military facilities",
+      "significance": "Showed platform's role in strategic bombardment campaigns and infrastructure warfare"
+    },
+    {
+      "date": "2022-12",
+      "operation": "Engels Air Base attack",
+      "event": "Ukrainian drones struck Engels Air Base, damaging at least two Tu-160M aircraft on the ground",
+      "significance": "Revealed vulnerability of strategic bomber bases to long-range drone attacks"
+    },
+    {
+      "date": "2023-ongoing",
+      "operation": "Ukraine conflict",
+      "event": "Regular cruise missile strikes using Kh-101/555 missiles launched from Tu-160M platforms operating from Russian airspace",
+      "significance": "Demonstrates sustained operational tempo and standoff strike doctrine"
+    }
+  ],
+  "modernization": [
+    {
+      "program": "Tu-160M upgrade program",
+      "status": "in-progress",
+      "timeline": "2014-2030",
+      "description": "Comprehensive modernization including NK-32-02 engines, digital avionics, new radar systems, expanded weapons compatibility",
+      "impact": "Extends service life by 30+ years, doubles reliability, adds new weapon systems"
+    },
+    {
+      "program": "Tu-160M2 new production",
+      "status": "in-progress",
+      "timeline": "2020-2035",
+      "description": "New-build aircraft with enhanced capabilities, improved manufacturing techniques, reduced radar signature",
+      "impact": "Restores strategic bomber production capacity, adds 50+ aircraft to fleet"
+    },
+    {
+      "program": "Kinzhal integration",
+      "status": "planned",
+      "timeline": "2024-2026",
+      "description": "Integration of Kinzhal hypersonic missiles as primary armament option",
+      "impact": "Adds hypersonic strike capability, complicates enemy missile defense"
+    }
+  ],
+  "vulnerabilities": [
+    {
+      "area": "Base vulnerability",
+      "description": "Limited basing options with only Engels and Ukrainka air bases capable of supporting operations",
+      "context": "Ukrainian drone attacks on Engels demonstrated vulnerability of strategic aviation infrastructure",
+      "mitigation": "Hardening facilities, improving air defenses, developing dispersal capabilities"
+    },
+    {
+      "area": "Radar signature",
+      "description": "Large radar cross-section makes detection at long range inevitable despite some signature reduction measures",
+      "context": "Modern integrated air defense systems can track and engage from hundreds of kilometers away",
+      "mitigation": "Relies on standoff weapons, supersonic dash capability, and electronic warfare"
+    },
+    {
+      "area": "Maintenance complexity",
+      "description": "Complex variable-sweep wing mechanism and high-performance engines require extensive maintenance support",
+      "context": "Sanctions limit access to Western components and materials for some systems",
+      "mitigation": "Domestic component substitution, simplified maintenance procedures in M variant"
+    },
+    {
+      "area": "Limited numbers",
+      "description": "Small fleet size limits surge capacity and makes each aircraft loss strategically significant",
+      "context": "Cannot sustain high operational tempo without degrading readiness rates",
+      "mitigation": "New production program aims to expand fleet size substantially"
+    }
+  ],
+  "operational_patterns": {
+    "typical_deployment": "Nuclear deterrence patrols, strategic strike missions from Russian territory",
+    "deployment_length_months": 0,
+    "key_operating_areas": [
+      "Russian Arctic",
+      "North Atlantic",
+      "Pacific Ocean",
+      "Black Sea region"
+    ],
+    "typical_task_group": "Usually operates alone or in pairs with fighter escort over friendly territory",
+    "readiness_notes": "Availability rates improved with Tu-160M upgrade but remain limited by small fleet size and complexity"
+  },
+  "peer_comparisons": [
+    {
+      "platform": "B-2 Spirit",
+      "country": "United States",
+      "relationship": "direct rival",
+      "key_differences": "B-2 emphasizes stealth over speed/payload; Tu-160M has greater range and weapons capacity but much larger radar signature. Different penetration philosophies - stealth vs speed.",
+      "video_angle": "Stealth vs Speed: Comparing nuclear bomber design philosophies and survivability concepts"
+    },
+    {
+      "platform": "B-21 Raider",
+      "country": "United States",
+      "relationship": "next-generation rival",
+      "key_differences": "B-21 represents next-gen stealth with modern manufacturing; Tu-160M is upgraded Cold War design with raw performance advantages but technological disadvantages in survivability.",
+      "video_angle": "Old vs New: How legacy platforms compete with next-generation designs"
+    },
+    {
+      "platform": "B-1B Lancer",
+      "country": "United States",
+      "relationship": "closest equivalent",
+      "key_differences": "Similar variable-sweep supersonic bomber concept; B-1B has larger payload bay but Tu-160M retains nuclear role and has better high-altitude performance.",
+      "video_angle": "Supersonic Bombers: Comparing the last of the fast attack aircraft"
+    },
+    {
+      "platform": "H-20",
+      "country": "China",
+      "relationship": "emerging rival",
+      "key_differences": "H-20 follows B-2 stealth approach while Tu-160M maintains speed-based penetration; represents different strategic bombing philosophies within potential adversary nations.",
+      "video_angle": "Allied bombers: How Russian and Chinese strategic aviation complement each other"
+    }
+  ],
+  "search_keywords": [
+    "tu-160",
+    "tu 160",
+    "blackjack",
+    "tupolev",
+    "russian bomber",
+    "strategic bomber",
+    "supersonic bomber",
+    "white swan",
+    "variable sweep",
+    "kh-101",
+    "nuclear bomber",
+    "engels air base"
+  ],
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Ilyushin_Il-78%2C_Tupolev_Tu-160%2C_Micoyan%26Gurevich_MiG-31_%284259290788%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Ilyushin_Il-78%2C_Tupolev_Tu-160%2C_Micoyan%26Gurevich_MiG-31_%284259290788%29.jpg",
+      "width": 1024,
+      "height": 723,
+      "title": "Ilyushin Il-78, Tupolev Tu-160, Micoyan&Gurevich MiG-31 (4259290788).jpg",
+      "description": "<p>The Tupolev Tu-160 (Russian: \u0422\u0443\u043f\u043e\u043b\u0435\u0432 \u0422\u0443-160, NATO reporting name: Blackjack) is a supersonic, variable-geometry heavy bomber designed by the Soviet Union. It is similar in appearance to the America",
+      "license": "CC BY-SA 2.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Tupolev_Tu-160_%284322160956%29.jpg/1280px-Tupolev_Tu-160_%284322160956%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/89/Tupolev_Tu-160_%284322160956%29.jpg",
+      "width": 3264,
+      "height": 2448,
+      "title": "Tupolev Tu-160 (4322160956).jpg",
+      "description": "<p>The Tupolev Tu-160 (Russian: \u0422\u0443\u043f\u043e\u043b\u0435\u0432 \u0422\u0443-160, NATO reporting name: Blackjack) is a supersonic, variable-geometry heavy bomber designed by the Soviet Union. It is similar in appearance to the America",
+      "license": "CC BY-SA 2.0",
+      "source": "wikimedia"
+    }
+  ]
+}

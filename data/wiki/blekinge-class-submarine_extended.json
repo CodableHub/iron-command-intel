@@ -1,0 +1,167 @@
+{
+  "combat_history": [
+    {
+      "date": "2024",
+      "operation": "Baltic Sea Patrol",
+      "event": "HMS Blekinge conducted initial operational patrols in Baltic Sea following commissioning, participating in NATO maritime surveillance operations.",
+      "significance": "First operational deployment demonstrated the submarine's advanced stealth capabilities in the challenging Baltic acoustic environment"
+    }
+  ],
+  "modernization": [
+    {
+      "program": "Vertical Launch System Integration",
+      "status": "planned",
+      "timeline": "2026-2030",
+      "description": "Integration of vertical launch capability for land-attack and anti-ship missiles in modular payload bay",
+      "impact": "Would significantly expand strike capabilities beyond current torpedo-only armament"
+    },
+    {
+      "program": "Enhanced AIP System",
+      "status": "in-progress",
+      "timeline": "2025-2027",
+      "description": "Continuous improvements to Stirling AIP efficiency and battery management systems",
+      "impact": "Extended submerged endurance and reduced acoustic signature during AIP operations"
+    }
+  ],
+  "vulnerabilities": [
+    {
+      "area": "Limited armament diversity",
+      "description": "Currently limited to torpedoes and mines, lacking vertical launch missile capability",
+      "context": "In multi-domain operations, lacks ability to strike land targets or engage surface vessels at extended range",
+      "mitigation": "VLS integration planned for future upgrade"
+    },
+    {
+      "area": "Small crew size operational limits",
+      "description": "26-person crew limits sustained operations and damage control capabilities",
+      "context": "Smaller crew than comparable submarines may impact operational flexibility during extended missions",
+      "mitigation": "Advanced automation compensates but creates single points of failure"
+    },
+    {
+      "area": "Baltic Sea geographic constraint",
+      "description": "Optimized for shallow Baltic operations, may be less effective in deep ocean environments",
+      "context": "Design choices for Baltic operations could limit effectiveness in other theaters",
+      "mitigation": "Not intended for global operations, focused on regional mission set"
+    }
+  ],
+  "operational_patterns": {
+    "typical_deployment": "Baltic Sea patrol and surveillance, NATO integrated maritime operations",
+    "deployment_length_months": 2,
+    "key_operating_areas": [
+      "Baltic Sea",
+      "Swedish territorial waters",
+      "NATO northern flank"
+    ],
+    "typical_task_group": "Independent operations or with Swedish surface vessels and maritime patrol aircraft",
+    "readiness_notes": "New class still establishing maintenance patterns; AIP system requires specialized shore support"
+  },
+  "peer_comparisons": [
+    {
+      "platform": "Type 212A submarine",
+      "country": "Germany",
+      "relationship": "direct rival",
+      "key_differences": "Blekinge is larger with longer range but Type 212A has more operational experience. Both use advanced AIP but different battery technologies.",
+      "video_angle": "Modern European AIP submarine comparison - Swedish innovation vs German engineering maturity"
+    },
+    {
+      "platform": "Gotland-class submarine",
+      "country": "Sweden",
+      "relationship": "predecessor",
+      "key_differences": "Blekinge significantly larger with lithium-ion batteries vs lead-acid, improved sonar, and modular payload capability. Major generational leap.",
+      "video_angle": "Swedish submarine evolution - how Blekinge builds on Gotland's legendary stealth capabilities"
+    },
+    {
+      "platform": "Kilo-class submarine",
+      "country": "Russia",
+      "relationship": "direct rival",
+      "key_differences": "Blekinge has AIP advantage for extended submerged operations and superior quieting, but Kilo has larger armament and proven combat record.",
+      "video_angle": "Baltic submarine warfare - Swedish stealth technology vs Russian conventional power"
+    },
+    {
+      "platform": "Scorpene-class submarine",
+      "country": "France",
+      "relationship": "allied equivalent",
+      "key_differences": "Scorpene larger and designed for global operations, Blekinge optimized for littoral warfare with superior AIP endurance.",
+      "video_angle": "Export success vs specialized design - different approaches to modern submarine warfare"
+    },
+    {
+      "platform": "Taigei-class submarine",
+      "country": "Japan",
+      "relationship": "peer competitor",
+      "key_differences": "Both use lithium-ion batteries, but Taigei is larger with more torpedo tubes. Blekinge has modular payload advantage.",
+      "video_angle": "Lithium-ion submarine revolution - how Japan and Sweden are leading battery submarine technology"
+    }
+  ],
+  "search_keywords": [
+    "blekinge class",
+    "A26 submarine",
+    "swedish submarine",
+    "saab kockums",
+    "stirling AIP",
+    "blekinge submarine",
+    "HMS Blekinge",
+    "baltic submarine",
+    "lithium ion submarine"
+  ],
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/130218-N-PO203-027_%288486818415%29.jpg/1280px-130218-N-PO203-027_%288486818415%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/50/130218-N-PO203-027_%288486818415%29.jpg",
+      "width": 4076,
+      "height": 2728,
+      "title": "130218-N-PO203-027 (8486818415).jpg",
+      "description": "Rear Adm. Matthew Klunder, chief of naval research at the Office of Naval Research, addresses cadets at the Virginia Military Institute as part of the H.B. Johnson Jr. \u00e226 Distinguished Lecture Series",
+      "license": "CC BY 2.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/130218-N-PO203-061_%288486817725%29.jpg/1280px-130218-N-PO203-061_%288486817725%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/49/130218-N-PO203-061_%288486817725%29.jpg",
+      "width": 3976,
+      "height": 2628,
+      "title": "130218-N-PO203-061 (8486817725).jpg",
+      "description": "Rear Adm. Matthew Klunder, chief of naval research at the Office of Naval Research, answers questions from cadets as part of the H.B. Johnson Jr. \u00e226 Distinguished Lecture Series at the Virginia Milit",
+      "license": "CC BY 2.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/130218-N-PO203-090_%288487907408%29.jpg/1280px-130218-N-PO203-090_%288487907408%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/130218-N-PO203-090_%288487907408%29.jpg",
+      "width": 3740,
+      "height": 2636,
+      "title": "130218-N-PO203-090 (8487907408).jpg",
+      "description": "Rear Adm. Matthew Klunder, chief of naval research at the Office of Naval Research, listens to cadet Fritz Dawson '13, talk about his research while visiting the Virginia Military Institute. Klunder, ",
+      "license": "CC BY 2.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/130218-N-PO203-095_%288486816807%29.jpg/1280px-130218-N-PO203-095_%288486816807%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/130218-N-PO203-095_%288486816807%29.jpg",
+      "width": 4032,
+      "height": 2724,
+      "title": "130218-N-PO203-095 (8486816807).jpg",
+      "description": "During a visit to the Virginia Military Institute, Rear Adm. Matthew Klunder, chief of naval research at the Office of Naval Research, listens to cadet Phil Kroke '14, right, a psychology major, as he",
+      "license": "CC BY 2.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/130218-N-PO203-105_%288486816385%29.jpg/1280px-130218-N-PO203-105_%288486816385%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/29/130218-N-PO203-105_%288486816385%29.jpg",
+      "width": 3972,
+      "height": 2760,
+      "title": "130218-N-PO203-105 (8486816385).jpg",
+      "description": "Rear Adm. Matthew Klunder, chief of naval research at the Office of Naval Research, addresses cadets at the Virginia Military Institute as part of the H.B. Johnson Jr. \u00e226 Distinguished Lecture Series",
+      "license": "CC BY 2.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/6c/SS_Empress_of_Russia_1914-1916.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/6c/SS_Empress_of_Russia_1914-1916.jpg",
+      "width": 450,
+      "height": 337,
+      "title": "SS Empress of Russia 1914-1916.jpg",
+      "description": "AWM caption:The ancillary Cruiser HMS Empress of Russia cruising in Red Sea. Perry Raymond Button (b 1893 - d 1977) a member of the British Merchant Navy crew aboard the troop transport HMAT Armadale ",
+      "license": "Public domain",
+      "source": "wikimedia"
+    }
+  ]
+}

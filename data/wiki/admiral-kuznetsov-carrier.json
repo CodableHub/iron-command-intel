@@ -129,20 +129,7 @@
   ],
   "created_at": "2026-04-10 19:54:48",
   "updated_at": "2026-04-10T19:54:48.163612",
-  "news": [
-    {
-      "id": 457,
-      "platform_id": 29,
-      "article_hash": "93eb7140d30e58ef",
-      "title": "Damen launches \u2018Drone Carrier\u2019 for the Portuguese Navy",
-      "url": "https://www.navalnews.com/naval-news/2026/04/damen-launches-drone-carrier-for-the-portuguese-navy/",
-      "source": "Naval News",
-      "published_at": "2026-04-07T20:47:26",
-      "relevance_score": 0.2,
-      "snippet": "Damen Shipyards Group has launched the NRP\u00a0D. Jo\u00e3o II a\u00a0Multi-Purpose Vessel\u00a0(MPV) 10720 for the Portuguese Navy. The vessel entered the water at\u00a0Damen Shipyards Galati\u00a0in Romania on April 7. Damen press release The launch event took place in the presence of Vice Admiral Pires on behalf of the Portu",
-      "created_at": "2026-04-10 21:05:29"
-    }
-  ],
+  "news": [],
   "events": [],
   "ic_coverage": [],
   "combat_history": [

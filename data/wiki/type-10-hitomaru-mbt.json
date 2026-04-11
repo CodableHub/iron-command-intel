@@ -1,0 +1,291 @@
+{
+  "id": 93,
+  "slug": "type-10-hitomaru-mbt",
+  "name": "Type 10 Main Battle Tank (Hitomaru)",
+  "designation": "Type 10",
+  "type": "tank",
+  "country": "Japan",
+  "operator": "Japan Ground Self-Defense Force",
+  "overview_md": "The Type 10 (Hitomaru) represents Japan's most advanced main battle tank, designed specifically for the unique geographic and strategic requirements of Japanese defense. Entering service in 2010, this 44-ton MBT was engineered to be lighter than previous Japanese tanks while maintaining firepower comparable to Western third-generation MBTs, enabling deployment across Japan's numerous bridges and varied terrain that cannot support heavier platforms like the M1A2 Abrams.\n\nThe Type 10's design philosophy centers on networked warfare capabilities and rapid deployment within Japan's island geography. Its advanced fire control system, C4I integration, and modular armor approach reflect lessons learned from modern conflicts and the need for situational awareness in urban and littoral environments. The tank features an indigenous 120mm smoothbore gun and sophisticated armor package optimized for the most likely threat vectors Japan faces.\n\nStrategically, the Type 10 addresses Japan's shift toward a more mobile defense posture, moving away from the static defensive concepts that dominated Cold War planning. Its relatively light weight allows rapid inter-island deployment via Japan's transport infrastructure, while its advanced sensors and networking capabilities make it suitable for the information-centric warfare environment anticipated in potential Pacific conflicts.\n\nCompared to peers like the German Leopard 2A7 or American M1A2 SEPv3, the Type 10 trades some armor protection for mobility and deployability. While it may be outgunned by heavier contemporaries in direct engagement, its design reflects Japan's specific operational requirements where bridge weight limits and rapid deployment often matter more than maximum armor thickness. This makes direct comparisons with Western MBTs somewhat misleading, as the Type 10 optimizes for different tactical scenarios than tanks designed for European plains warfare.",
+  "specs_json": {
+    "displacement_tonnes": 44,
+    "length_m": 9.42,
+    "beam_m": 3.24,
+    "draft_m": 0,
+    "speed_knots": 0,
+    "range_nm": 0,
+    "crew": 3,
+    "propulsion": "Mitsubishi 8-cylinder diesel, 1200hp",
+    "radar": "Integrated fire control radar",
+    "sonar": null,
+    "combat_system": "Indigenous C4I system with battlefield management",
+    "vls_cells": 0,
+    "additional": {
+      "speed_kmh": 70,
+      "range_km": 500,
+      "main_gun": "120mm L/44 smoothbore",
+      "armor": "Modular composite with applique packages",
+      "weight_class": "Medium MBT (optimized for Japanese infrastructure)",
+      "transmission": "Continuously Variable Transmission (CVT)",
+      "suspension": "Hydropneumatic active suspension"
+    }
+  },
+  "armament_json": [
+    {
+      "category": "Main Gun",
+      "name": "120mm L/44 smoothbore cannon",
+      "type": "tank gun",
+      "quantity": "1",
+      "range_km": 4,
+      "notes": "Fires Japanese Type 10 APFSDS and multipurpose rounds"
+    },
+    {
+      "category": "Secondary",
+      "name": "Type 74 machine gun",
+      "type": "coaxial machine gun",
+      "quantity": "1x 7.62mm",
+      "range_km": 1,
+      "notes": "Coaxially mounted"
+    },
+    {
+      "category": "Secondary",
+      "name": "M2HB Browning",
+      "type": "heavy machine gun",
+      "quantity": "1x 12.7mm",
+      "range_km": 2,
+      "notes": "Commander's weapon station"
+    },
+    {
+      "category": "Defensive",
+      "name": "Smoke grenade launchers",
+      "type": "countermeasures",
+      "quantity": "12 launchers",
+      "range_km": 0,
+      "notes": "Multispectral smoke screening"
+    }
+  ],
+  "variants_json": [
+    {
+      "name": "Type 10 Standard",
+      "designation_range": "Production tanks 2010-present",
+      "years": "2010-present",
+      "count": 112,
+      "key_changes": "Initial production standard with modular armor, CVT transmission, and integrated C4I systems",
+      "status": "active"
+    }
+  ],
+  "fleet_status_json": [
+    {
+      "hull_number": "Various",
+      "name": "JGSDF Type 10 Fleet",
+      "variant": "Standard",
+      "commissioned": "2010-present",
+      "home_port": "Multiple JGSDF bases",
+      "status": "active"
+    }
+  ],
+  "cost_usd": 9500000.0,
+  "unit_count": 112,
+  "first_commissioned": "2010",
+  "builder": "Mitsubishi Heavy Industries",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/76/Type10MBT.jpg",
+  "wiki_url": "https://en.wikipedia.org/wiki/Type_10",
+  "sources_json": [
+    "https://en.wikipedia.org/wiki/Type_10",
+    "https://www.mod.go.jp/gsdf/equipment/",
+    "Jane's Armour and Artillery",
+    "Military Balance 2023 - IISS"
+  ],
+  "comparison_tags": [
+    "mbt",
+    "japanese",
+    "light-tank",
+    "modern",
+    "indigenous",
+    "pacific-theater"
+  ],
+  "created_at": "2026-04-11 10:14:27",
+  "updated_at": "2026-04-11T10:14:27.557057",
+  "news": [],
+  "events": [],
+  "ic_coverage": [],
+  "combat_history": [
+    {
+      "date": "2011",
+      "operation": "Tohoku Earthquake Response",
+      "event": "Type 10 tanks deployed for disaster relief operations, demonstrating mobility and bridge-crossing capabilities during emergency response",
+      "significance": "Validated the tank's design philosophy of reduced weight for infrastructure compatibility during real-world deployment"
+    }
+  ],
+  "modernization": [
+    {
+      "program": "Type 10 Capability Enhancement",
+      "status": "in-progress",
+      "timeline": "2020-2030",
+      "description": "Ongoing upgrades to fire control systems, armor packages, and C4I integration to maintain technological edge",
+      "impact": "Maintains competitiveness against regional threats while preserving weight and mobility advantages"
+    },
+    {
+      "program": "Advanced Armor Package",
+      "status": "planned",
+      "timeline": "2025-2030",
+      "description": "Development of next-generation modular armor systems to counter evolving anti-tank threats",
+      "impact": "Improved survivability while maintaining weight constraints for Japanese infrastructure"
+    }
+  ],
+  "vulnerabilities": [
+    {
+      "area": "Armor Protection",
+      "description": "Lighter weight results in potentially less armor protection compared to 60+ ton Western MBTs like M1A2 or Leopard 2A7",
+      "context": "Trade-off was deliberate for Japanese operational requirements, but creates vulnerability against modern APFSDS and tandem-charge ATGMs",
+      "mitigation": "Modular armor allows upgrades, emphasis on mobility and situational awareness over passive protection"
+    },
+    {
+      "area": "Limited Production Numbers",
+      "description": "Only 112 units produced limits operational flexibility and increases per-unit sustainment costs",
+      "context": "Small fleet size reduces ability to sustain prolonged operations or absorb combat losses",
+      "mitigation": "JGSDF maintains mixed tank fleet with Type 90s, focuses on quality over quantity approach"
+    },
+    {
+      "area": "Unique Logistics Chain",
+      "description": "Indigenous systems require Japan-specific parts, training, and maintenance procedures",
+      "context": "Reduces interoperability with allied forces and creates single-source dependencies for critical components",
+      "mitigation": "Allows optimization for Japanese requirements but limits coalition operation effectiveness"
+    }
+  ],
+  "operational_patterns": {
+    "typical_deployment": "Stationed at key JGSDF bases for rapid response to potential landing threats and territorial defense",
+    "deployment_length_months": 0,
+    "key_operating_areas": [
+      "Honshu",
+      "Kyushu",
+      "Hokkaido"
+    ],
+    "typical_task_group": "Operates with Type 90 tanks, Type 89 IFVs, and support elements in combined arms formations",
+    "readiness_notes": "High readiness maintained but limited by small fleet size and specialized maintenance requirements"
+  },
+  "peer_comparisons": [
+    {
+      "platform": "K2 Black Panther",
+      "country": "South Korea",
+      "relationship": "regional peer",
+      "key_differences": "K2 is heavier (55 tons) with more armor but less optimized for weight-restricted deployment. Both feature advanced fire control and indigenous design.",
+      "video_angle": "Asian MBT philosophy comparison - weight vs protection trade-offs in Pacific theater"
+    },
+    {
+      "platform": "Type 99A",
+      "country": "China",
+      "relationship": "potential adversary",
+      "key_differences": "Type 99A is significantly heavier (54+ tons) with different armor philosophy. Type 10's networking and mobility vs Type 99A's firepower focus.",
+      "video_angle": "Japan vs China tank development - how geography shapes design philosophy"
+    },
+    {
+      "platform": "Leopard 2A7",
+      "country": "Germany",
+      "relationship": "allied equivalent",
+      "key_differences": "Leopard 2A7 much heavier (65+ tons) with maximum armor protection. Type 10 optimized for different operational environment and infrastructure.",
+      "video_angle": "European vs Japanese MBT design - different solutions for different theaters"
+    },
+    {
+      "platform": "Merkava Mk 4",
+      "country": "Israel",
+      "relationship": "comparable design philosophy",
+      "key_differences": "Both designed for specific national requirements. Merkava optimized for crew survivability, Type 10 for mobility and C4I integration.",
+      "video_angle": "Custom-built MBTs - how small nations optimize tanks for their unique requirements"
+    }
+  ],
+  "search_keywords": [
+    "type 10",
+    "type 10 tank",
+    "hitomaru",
+    "japanese mbt",
+    "type 10 main battle tank",
+    "jgsdf tank",
+    "mitsubishi tank",
+    "japanese tank"
+  ],
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/13/Indian_Navy-03.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/13/Indian_Navy-03.jpg",
+      "width": 1236,
+      "height": 818,
+      "title": "Indian Navy-03.jpg",
+      "description": "Indian Navy personnel issued with NWU Type-1 camo firing INSAS rifle during training",
+      "license": "GODL-India",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Mitsubishi_1MT%2C_01.png/1280px-Mitsubishi_1MT%2C_01.png",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/72/Mitsubishi_1MT%2C_01.png",
+      "width": 3420,
+      "height": 1887,
+      "title": "Mitsubishi 1MT, 01.png",
+      "description": "\u5341\u5e74\u5f0f\u8266\u4e0a\u96f7\u6483\u6a5f\uff08\u4e09\u83f1\u5185\u71c3\u6a5f\uff09",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Mitsubishi_1MT%2C_02.png/1280px-Mitsubishi_1MT%2C_02.png",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Mitsubishi_1MT%2C_02.png",
+      "width": 1767,
+      "height": 1181,
+      "title": "Mitsubishi 1MT, 02.png",
+      "description": "\u5341\u5e74\u5f0f\u8266\u4e0a\u96f7\u6483\u6a5f\uff08\u4e09\u83f1\u5185\u71c3\u6a5f\uff09\u3001\u971e\u30b1\u6d66\u822a\u7a7a\u968a\u3001\u65e5\u672c\u56fd\u7523\u306e\u552f\u4e00\u306e\u4e09\u8449\u6a5f\u3002",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Mitsubishi_1MT.jpg/1280px-Mitsubishi_1MT.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Mitsubishi_1MT.jpg",
+      "width": 2001,
+      "height": 1016,
+      "title": "Mitsubishi 1MT.jpg",
+      "description": "Mitsubishi_1MT",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Mitsubishi_1MT_%28Type_10%29_with_torpedo.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Mitsubishi_1MT_%28Type_10%29_with_torpedo.jpg",
+      "width": 439,
+      "height": 227,
+      "title": "Mitsubishi 1MT (Type 10) with torpedo.jpg",
+      "description": "A Mitsubishi 1MT torpedo fitted (dummy?) - note the light colouring.\nModel Photographs Mike Hawkins via Reg Heath \u00a9 2010 Modelflight and Gary Wenko; Marusan and UPC box art courtesy of Gary Wenko; Cat",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/3f/PLA_Navy_Liaoning_with_Type_901_fast_combat_support_ship_2024-10-02.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/3f/PLA_Navy_Liaoning_with_Type_901_fast_combat_support_ship_2024-10-02.jpg",
+      "width": 960,
+      "height": 270,
+      "title": "PLA Navy Liaoning with Type 901 fast combat support ship 2024-10-02.jpg",
+      "description": "Liaoning (left) and Type 901 fast combat support ship (right)",
+      "license": "CC BY 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/People%27s_Liberation_Army_Navy_sailor_with_type_56_assault_rifle.jpeg/1280px-People%27s_Liberation_Army_Navy_sailor_with_type_56_assault_rifle.jpeg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/14/People%27s_Liberation_Army_Navy_sailor_with_type_56_assault_rifle.jpeg",
+      "width": 1920,
+      "height": 2850,
+      "title": "People's Liberation Army Navy sailor with type 56 assault rifle.jpeg",
+      "description": "<p>A Chinese sailor, armed with a Type 56 assault rifle, stands watch at a welcoming ceremony given in honor of the first visit by US Navy (USN) ships to visit China in 40 years. (Released to Public) ",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Types_of_epaulette_of_the_Russian_Empire_%281855%29.png/1280px-Types_of_epaulette_of_the_Russian_Empire_%281855%29.png",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Types_of_epaulette_of_the_Russian_Empire_%281855%29.png",
+      "width": 2530,
+      "height": 4030,
+      "title": "Types of epaulette of the Russian Empire (1855).png",
+      "description": "Russian Empire; rank insignia of the armed forces. \n<ul><li><b>Types of epaulette of the Russian Empire</b> (classification not earlier than 1855; examples after 1904, for the cavalry after 1908):</li",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    }
+  ],
+  "doctrine": null,
+  "curated_sources": []
+}

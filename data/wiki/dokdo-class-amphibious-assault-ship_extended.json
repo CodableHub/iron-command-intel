@@ -1,0 +1,229 @@
+{
+  "combat_history": [
+    {
+      "date": "2010-03-26",
+      "operation": "Cheonan Incident Response",
+      "event": "ROKS Dokdo deployed to provide command and control support following the sinking of ROKS Cheonan by North Korean torpedo, serving as mobile headquarters for search and rescue operations.",
+      "significance": "First major operational deployment demonstrating the platform's value as a command ship during crisis response"
+    },
+    {
+      "date": "2014-04-16",
+      "operation": "Sewol Ferry Disaster Response",
+      "event": "ROKS Dokdo served as primary command platform and medical facility during the Sewol ferry disaster response, coordinating rescue operations and treating survivors.",
+      "significance": "Highlighted the ship's humanitarian assistance and disaster relief capabilities beyond military operations"
+    },
+    {
+      "date": "2019-07-23",
+      "operation": "Dokdo Territorial Dispute",
+      "event": "Russian Tu-95 and A-50 aircraft violated South Korean airspace over Dokdo island. ROKS Dokdo was conducting exercises in the area, leading to diplomatic tensions with Russia and Japan.",
+      "significance": "Demonstrated the political sensitivity of the platform's operations and its role in territorial sovereignty assertions"
+    },
+    {
+      "date": "2021-12",
+      "operation": "COVID-19 Response",
+      "event": "Both Dokdo-class ships provided medical support and quarantine facilities during COVID-19 outbreaks, utilizing their extensive medical facilities.",
+      "significance": "Showcased adaptability of the platform for non-traditional security challenges"
+    }
+  ],
+  "modernization": [
+    {
+      "program": "KDX-III Integration",
+      "status": "completed",
+      "timeline": "2015-2018",
+      "description": "Integration with KDX-III destroyer data links and improved radar systems for enhanced fleet coordination.",
+      "impact": "Significantly improved situational awareness and ability to coordinate with other ROKN vessels"
+    },
+    {
+      "program": "Medical Facility Upgrade",
+      "status": "completed",
+      "timeline": "2018-2020",
+      "description": "Enhanced medical facilities on both ships with modern surgical equipment and expanded ICU capacity.",
+      "impact": "Improved humanitarian assistance capabilities and medical support for extended deployments"
+    },
+    {
+      "program": "F-35B Compatibility Study",
+      "status": "planned",
+      "timeline": "2024-2026",
+      "description": "Feasibility study for deck strengthening and modifications to support F-35B Lightning II operations.",
+      "impact": "Could transform ships into light aircraft carriers, significantly enhancing air power projection"
+    },
+    {
+      "program": "Electronic Warfare Suite Upgrade",
+      "status": "in-progress",
+      "timeline": "2023-2025",
+      "description": "Installation of advanced electronic warfare systems and improved communications security equipment.",
+      "impact": "Enhanced survivability in contested electromagnetic environments"
+    }
+  ],
+  "vulnerabilities": [
+    {
+      "area": "Air Defense",
+      "description": "Limited air defense capabilities with only point defense systems (RAM and Phalanx) and no area air defense missiles",
+      "context": "Vulnerable to coordinated air attacks or anti-ship missile saturation, particularly relevant given North Korean missile capabilities",
+      "mitigation": "Relies on escort vessels and shore-based air cover; F-35B modification could provide limited air defense"
+    },
+    {
+      "area": "Anti-Submarine Warfare",
+      "description": "Minimal ASW capabilities with no organic sonar suite or anti-submarine weapons",
+      "context": "North Korea operates approximately 70 submarines, making ASW a critical vulnerability in Korean waters",
+      "mitigation": "Requires dedicated ASW escorts; shallow operating areas somewhat limit submarine threat"
+    },
+    {
+      "area": "Damage Control",
+      "description": "Relatively small crew size may limit damage control capabilities during combat operations",
+      "context": "330 crew members for a 14,000-ton vessel is lean compared to similar platforms",
+      "mitigation": "Advanced automation systems partially compensate, but remains a limiting factor in sustained combat"
+    },
+    {
+      "area": "Logistics Support",
+      "description": "Limited fuel and ammunition storage restricts extended independent operations without replenishment",
+      "context": "Designed for regional operations within range of South Korean bases rather than extended blue-water deployments",
+      "mitigation": "Focus on regional operations and alliance partnerships for extended missions"
+    }
+  ],
+  "operational_patterns": {
+    "typical_deployment": "Regional patrol and exercise operations, primarily in Yellow Sea and East China Sea with periodic deployments to Southeast Asia",
+    "deployment_length_months": 3,
+    "key_operating_areas": [
+      "Yellow Sea",
+      "East China Sea",
+      "Korea Strait",
+      "South China Sea"
+    ],
+    "typical_task_group": "Operates with KDX-III destroyers, FFX frigates, and support vessels in amphibious ready groups",
+    "readiness_notes": "Generally high readiness with 70-80% availability rate; maintenance performed at Busan Naval Base"
+  },
+  "peer_comparisons": [
+    {
+      "platform": "Hyuga-class helicopter destroyer",
+      "country": "Japan",
+      "relationship": "regional competitor",
+      "key_differences": "Hyuga-class is larger (19,000 tons) with better air defense but limited amphibious capability. Dokdo-class optimized for troop transport and landing operations while Hyuga focuses on ASW and air operations.",
+      "video_angle": "Korea vs Japan: Competing amphibious strategies in Northeast Asia"
+    },
+    {
+      "platform": "Type 075 Yushen-class",
+      "country": "China",
+      "relationship": "direct rival",
+      "key_differences": "Type 075 is significantly larger (40,000 tons) with greater aircraft capacity and well deck for landing craft. Dokdo-class represents a more modest regional capability versus China's blue-water ambitions.",
+      "video_angle": "David vs Goliath: South Korea's amphibious answer to Chinese naval expansion"
+    },
+    {
+      "platform": "Mistral-class",
+      "country": "France",
+      "relationship": "allied equivalent",
+      "key_differences": "Similar size and mission but Mistral has larger well deck and better command facilities. Dokdo-class has stronger point defenses and is optimized for high-threat regional environment.",
+      "video_angle": "NATO vs Pacific: Different approaches to amphibious warfare design"
+    },
+    {
+      "platform": "Juan Carlos I-class",
+      "country": "Spain/Australia",
+      "relationship": "allied equivalent",
+      "key_differences": "Juan Carlos I is larger with ski-jump for fixed-wing aircraft operations. Dokdo-class is more focused on helicopter operations and has better defensive armament for contested environments.",
+      "video_angle": "Regional powers: How middle-tier navies approach amphibious capabilities"
+    },
+    {
+      "platform": "Izumo-class",
+      "country": "Japan",
+      "relationship": "regional competitor",
+      "key_differences": "Izumo-class being modified for F-35B operations while Dokdo-class remains helicopter-focused. Izumo lacks amphibious capability but superior in air operations and ASW.",
+      "video_angle": "Aircraft carrier race: Japan's F-35B modification vs Korea's amphibious focus"
+    }
+  ],
+  "search_keywords": [
+    "dokdo class",
+    "dokdo-class",
+    "LPH-6111",
+    "LPH-6112",
+    "ROKS Dokdo",
+    "ROKS Marado",
+    "korean amphibious",
+    "south korea navy",
+    "republic of korea navy",
+    "ROKN",
+    "korean marines",
+    "amphibious assault ship"
+  ],
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Dokdo_LCAC.jpg/1280px-Dokdo_LCAC.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/89/Dokdo_LCAC.jpg",
+      "width": 1750,
+      "height": 1171,
+      "title": "Dokdo LCAC.jpg",
+      "description": "071115-N-0237L-103 SEA OF JAPAN (Nov. 11, 2007) Republic of Korea (ROK) amphibious assault ship ROKS Dokdo (LPH 6111) conducts well deck operations with a U.S. landing craft air cushion, from the \"Dra",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d3/ROKS_Dokdo_%28LPH_6111%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/d3/ROKS_Dokdo_%28LPH_6111%29.jpg",
+      "width": 451,
+      "height": 322,
+      "title": "ROKS Dokdo (LPH 6111).jpg",
+      "description": "090828-N-5086M-055 REPUBLIC OF KOREA (Aug. 28, 2009)\n<p>Republic of Korea Ship Dokdo (LPH 6111) moored at Busan. Blue Ridge is in Korea for exercise Ulchi Freedom Guardian 2009.\n</p>\n(Crop of U.S. Nav",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/ROKS_Dokdo_%28LPH_6111%29_-_Invincible_Spirit.jpg/1280px-ROKS_Dokdo_%28LPH_6111%29_-_Invincible_Spirit.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/ROKS_Dokdo_%28LPH_6111%29_-_Invincible_Spirit.jpg",
+      "width": 1452,
+      "height": 1083,
+      "title": "ROKS Dokdo (LPH 6111) - Invincible Spirit.jpg",
+      "description": "Republic of Korea Ship (ROKS) Dokdo (LPH 6111) steams in the Sea of Japan during operation \u201cInvincible Spirit.\u201d.",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/ROKS_Dokdo_%28LPH_6111%29_and_USS_Bonhomme_Richard_%28LHD-6%29_underway_in_March_2014.JPG/1280px-ROKS_Dokdo_%28LPH_6111%29_and_USS_Bonhomme_Richard_%28LHD-6%29_underway_in_March_2014.JPG",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/0f/ROKS_Dokdo_%28LPH_6111%29_and_USS_Bonhomme_Richard_%28LHD-6%29_underway_in_March_2014.JPG",
+      "width": 7500,
+      "height": 5100,
+      "title": "ROKS Dokdo (LPH 6111) and USS Bonhomme Richard (LHD-6) underway in March 2014.JPG",
+      "description": "The Republic of Korea amphibious assault ship ROKS <i>Dokdo</i> (LPH 6111), assigned to Commander, Flotilla (COMFLOT) 5, transits alongside the U.S. Navy amphibious assault ship USS <i>Bonhomme Richar",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/ROKS_Dokdo_%28LPH_6111%29_underway_in_March_2014.JPG/1280px-ROKS_Dokdo_%28LPH_6111%29_underway_in_March_2014.JPG",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/2a/ROKS_Dokdo_%28LPH_6111%29_underway_in_March_2014.JPG",
+      "width": 7500,
+      "height": 5100,
+      "title": "ROKS Dokdo (LPH 6111) underway in March 2014.JPG",
+      "description": "The Republic of Korea amphibious assault ship ROKS <i>Dokdo</i> (LPH 6111), assigned to Commander, Flotilla (COMFLOT) 5, transits the East China Sea during a photo exercise as part of \"Exercise Ssang ",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/ROKS_Marado_%28LPH-6112%29_in_Busan.jpg/1280px-ROKS_Marado_%28LPH-6112%29_in_Busan.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/af/ROKS_Marado_%28LPH-6112%29_in_Busan.jpg",
+      "width": 2820,
+      "height": 1160,
+      "title": "ROKS Marado (LPH-6112) in Busan.jpg",
+      "description": "The South Korean Dokdo-class amphibious assault ship <i>ROKS Marado</i> in Busan.",
+      "license": "CC BY 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/ROKS_Marado_exercising_with_US_helicopters_in_June_2022.jpg/1280px-ROKS_Marado_exercising_with_US_helicopters_in_June_2022.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/ROKS_Marado_exercising_with_US_helicopters_in_June_2022.jpg",
+      "width": 7360,
+      "height": 4912,
+      "title": "ROKS Marado exercising with US helicopters in June 2022.jpg",
+      "description": "220602-N-WU964-1133 PHILIPPINE SEA (June 2, 2022) Republic of Korea Navy landing platform-helicopter ROKS Marado (LPH 6112) conducts joint helicopter operations with the Golden Falcons of Helicopter S",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/US_Navy_100727-N-2013O-128_An_SH-60F_Sea_Hawk_helicopter_flies_by_Dokdo_%28LPH_6111%29.jpg/1280px-US_Navy_100727-N-2013O-128_An_SH-60F_Sea_Hawk_helicopter_flies_by_Dokdo_%28LPH_6111%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/1e/US_Navy_100727-N-2013O-128_An_SH-60F_Sea_Hawk_helicopter_flies_by_Dokdo_%28LPH_6111%29.jpg",
+      "width": 2100,
+      "height": 1500,
+      "title": "US Navy 100727-N-2013O-128 An SH-60F Sea Hawk helicopter flies by Dokdo (LPH 6111).jpg",
+      "description": "EAST SEA (July 27, 2010) An SH-60F Sea Hawk helicopter assigned to the Chargers of Helicopter Anti-Submarine Squadron (HS) 14 flies by the Republic of Korea Dokdo-class amphibious assault ship Dokdo (",
+      "license": "Public domain",
+      "source": "wikimedia"
+    }
+  ]
+}

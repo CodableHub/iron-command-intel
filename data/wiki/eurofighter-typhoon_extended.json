@@ -1,0 +1,285 @@
+{
+  "combat_history": [
+    {
+      "date": "2011-03",
+      "operation": "Operation Odyssey Dawn/Unified Protector",
+      "event": "RAF and Italian Typhoons conducted air-to-ground missions over Libya, marking first combat use. Primarily Storm Shadow cruise missile strikes and reconnaissance missions.",
+      "significance": "Demonstrated multirole capability and integration with coalition forces, validating precision strike capability"
+    },
+    {
+      "date": "2014-2020",
+      "operation": "Operation Shader",
+      "event": "RAF Typhoons conducted hundreds of strikes against ISIS targets in Iraq and Syria from Cyprus, using Paveway IV bombs and Brimstone missiles.",
+      "significance": "Proved sustained combat effectiveness and precision in complex COIN environment"
+    },
+    {
+      "date": "2018-04-14",
+      "operation": "Syria Strike Response",
+      "event": "RAF Typhoons fired Storm Shadow cruise missiles at Syrian chemical weapons facilities following Douma chemical attack.",
+      "significance": "Demonstrated precision deep strike capability and integration with U.S. and French forces"
+    },
+    {
+      "date": "2019-2024",
+      "operation": "Baltic Air Policing",
+      "event": "Multiple NATO Typhoon deployments intercepted Russian aircraft over Baltic Sea, including armed Bears and Flankers approaching NATO airspace.",
+      "significance": "Regular demonstration of air superiority capability against peer threats in contested environment"
+    },
+    {
+      "date": "2022-2024",
+      "operation": "Ukraine Support",
+      "event": "Enhanced NATO air policing missions and training with Ukrainian pilots, though no direct combat involvement.",
+      "significance": "Maintained deterrent presence while supporting allied training and readiness"
+    }
+  ],
+  "modernization": [
+    {
+      "program": "Project Centurion",
+      "status": "completed",
+      "timeline": "2015-2019",
+      "description": "Integration of Meteor BVRAAM and Storm Shadow Block IV for RAF Typhoons, enhanced DASS capabilities.",
+      "impact": "Dramatically increased beyond visual range engagement capability and survivability"
+    },
+    {
+      "program": "CAPTOR-E AESA Retrofit",
+      "status": "in-progress",
+      "timeline": "2020-2030",
+      "description": "Replacement of mechanically scanned CAPTOR-M with CAPTOR-E AESA radar across fleet.",
+      "impact": "Enhanced detection range, multi-target engagement, and electronic attack resistance"
+    },
+    {
+      "program": "Long Term Evolution (LTE)",
+      "status": "in-progress",
+      "timeline": "2023-2035",
+      "description": "Major avionics upgrade including new mission computer, enhanced EW suite, SPEAR Cap 3 integration, and improved human-machine interface.",
+      "impact": "Maintains relevance against 5th generation threats and improves multirole capability"
+    },
+    {
+      "program": "ECRS Mk2 Radar",
+      "status": "planned",
+      "timeline": "2027-2035",
+      "description": "Next-generation AESA radar with integrated electronic attack capability and enhanced air-to-surface modes.",
+      "impact": "Provides electronic attack capability and improved ground target engagement"
+    }
+  ],
+  "vulnerabilities": [
+    {
+      "area": "Logistics Complexity",
+      "description": "Four-nation consortium creates complex spare parts chain, with availability rates often below 60% for some operators.",
+      "context": "Impacts sortie generation rates during high-intensity operations compared to U.S. counterparts",
+      "mitigation": "Consolidated logistics hubs and increased spare parts pooling between nations"
+    },
+    {
+      "area": "Stealth Limitations",
+      "description": "Large radar cross section compared to 5th generation fighters, estimated 0.5-1.0 m\u00b2 frontal RCS.",
+      "context": "Vulnerable to detection by advanced integrated air defense systems at longer ranges than F-22/F-35",
+      "mitigation": "Enhanced electronic warfare capabilities and standoff weapons integration"
+    },
+    {
+      "area": "Sensor Fusion",
+      "description": "Less advanced sensor fusion and data links compared to F-35's distributed aperture system and advanced networking.",
+      "context": "Reduced situational awareness in heavily contested electromagnetic environments",
+      "mitigation": "PIRATE IRST improvements and enhanced data link integration in LTE program"
+    },
+    {
+      "area": "Ground Attack Payload",
+      "description": "Limited internal fuel capacity restricts payload-range performance compared to larger aircraft like F-15E.",
+      "context": "Requires more tanker support for long-range precision strike missions",
+      "mitigation": "Conformal fuel tanks under development, enhanced external tank configurations"
+    }
+  ],
+  "operational_patterns": {
+    "typical_deployment": "Quick Reaction Alert (QRA) intercept, NATO air policing rotations, expeditionary strike operations",
+    "deployment_length_months": 4,
+    "key_operating_areas": [
+      "North Sea",
+      "Baltic Sea",
+      "Mediterranean",
+      "Middle East",
+      "Falkland Islands"
+    ],
+    "typical_task_group": "4-6 aircraft deployments, integrated with tanker and AEW&C support",
+    "readiness_notes": "Availability rates vary by operator (UK ~60%, Germany ~40-50%), complex maintenance requirements limit surge capacity"
+  },
+  "peer_comparisons": [
+    {
+      "platform": "Dassault Rafale",
+      "country": "France",
+      "relationship": "direct rival",
+      "key_differences": "Typhoon superior in air-to-air kinematic performance and BVR capability, Rafale better multirole integration and carrier ops. Both AESA equipped.",
+      "video_angle": "European air superiority showdown - which design philosophy works better?"
+    },
+    {
+      "platform": "F-35A Lightning II",
+      "country": "United States",
+      "relationship": "complementary competitor",
+      "key_differences": "F-35 has stealth and sensor fusion advantages, Typhoon superior in kinematic performance and air-to-air engagement. Cost per flight hour heavily favors Typhoon.",
+      "video_angle": "4.5 vs 5th gen: When does kinematic performance beat stealth?"
+    },
+    {
+      "platform": "Su-35 Flanker-E",
+      "country": "Russia",
+      "relationship": "direct rival",
+      "key_differences": "Su-35 has thrust vectoring and longer range, Typhoon has superior radar, electronic warfare, and weapons. Typhoon significantly more reliable and maintainable.",
+      "video_angle": "NATO vs Russian air superiority over Eastern Europe"
+    },
+    {
+      "platform": "F-16E/F Block 60+",
+      "country": "United States",
+      "relationship": "allied equivalent",
+      "key_differences": "Typhoon significantly more expensive but superior in air-to-air performance. F-16 better availability rates and lower operating costs.",
+      "video_angle": "High-end capability vs practical affordability in NATO air forces"
+    },
+    {
+      "platform": "Gripen E/F",
+      "country": "Sweden",
+      "relationship": "European alternative",
+      "key_differences": "Gripen much lower cost and better availability, Typhoon superior performance and payload. Both designed for European operating environment.",
+      "video_angle": "Nordic efficiency vs multinational ambition in European fighter design"
+    }
+  ],
+  "search_keywords": [
+    "eurofighter typhoon",
+    "EF-2000",
+    "typhoon fighter",
+    "raf typhoon",
+    "luftwaffe eurofighter",
+    "captor radar",
+    "meteor missile",
+    "storm shadow",
+    "brimstone missile",
+    "tranche 3",
+    "centurion project"
+  ],
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/8%2C6_TKIV_2000_Helsinki_2012.JPG/1280px-8%2C6_TKIV_2000_Helsinki_2012.JPG",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/96/8%2C6_TKIV_2000_Helsinki_2012.JPG",
+      "width": 4235,
+      "height": 1778,
+      "title": "8,6 TKIV 2000 Helsinki 2012.JPG",
+      "description": "8.6 TKIV 2000 (Sako TRG-42) sniper rifle used by the Finnish Defence Forces (FDF) on display during the Finnish Navy 2012 anniversary.<br>\n<p>The Finnish Defence Forces (FDF) 8.6 TKIV 2000 rifles have",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/8%2C6_TKIV_2000_Kotka_2013.JPG/1280px-8%2C6_TKIV_2000_Kotka_2013.JPG",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/8%2C6_TKIV_2000_Kotka_2013.JPG",
+      "width": 5184,
+      "height": 3456,
+      "title": "8,6 TKIV 2000 Kotka 2013.JPG",
+      "description": "8.6 TKIV 2000 (Sako TRG-42) sniper rifle used by the Finnish Defence Forces on display during the Finnish Navy 2013 anniversary.",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/MP5_9_KP_2000.JPG/1280px-MP5_9_KP_2000.JPG",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/MP5_9_KP_2000.JPG",
+      "width": 5184,
+      "height": 3456,
+      "title": "MP5 9 KP 2000.JPG",
+      "description": "H&amp;K MP5 submachine gun, Finnish designation 9,00 KP 2000. Photographed during Finnish Navy 2011 anniversary in Turku Forum Marinum.",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Randwick_and_South_Coogee_from_the_air.jpg/1280px-Randwick_and_South_Coogee_from_the_air.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/98/Randwick_and_South_Coogee_from_the_air.jpg",
+      "width": 2000,
+      "height": 1333,
+      "title": "Randwick and South Coogee from the air.jpg",
+      "description": "<a href=\"https://en.wikipedia.org/wiki/Randwick,_New_South_Wales\" class=\"extiw\" title=\"w:Randwick, New South Wales\">Randwick</a> and <a href=\"https://en.wikipedia.org/wiki/South_Coogee,_New_South_Wale",
+      "license": "CC BY-SA 3.0 au",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Samum_corvette_2012_G1.jpg/1280px-Samum_corvette_2012_G1.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/17/Samum_corvette_2012_G1.jpg",
+      "width": 2650,
+      "height": 1600,
+      "title": "Samum corvette 2012 G1.jpg",
+      "description": "Samum (former MRK-17) is a Bora-class corvette in the Russian Navy. Joint celebration of the Day of the Navy in Russia and Ukraine. Sevastopol bay. Dress rehearsal.",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/30%2B68_German_Air_Force_Eurofighter_Typhoon_EF2000_ILA_Berlin_2016_06.jpg/1280px-30%2B68_German_Air_Force_Eurofighter_Typhoon_EF2000_ILA_Berlin_2016_06.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/8b/30%2B68_German_Air_Force_Eurofighter_Typhoon_EF2000_ILA_Berlin_2016_06.jpg",
+      "width": 4096,
+      "height": 2304,
+      "title": "30+68 German Air Force Eurofighter Typhoon EF2000 ILA Berlin 2016 06.jpg",
+      "description": "Eurofighter Typhoon EF2000 (reg. 30+68) of the German Air Force (Deutsche Luftwaffe, Taktisches Luftwaffengeschwader 74) at ILA Berlin Air Show 2016.",
+      "license": "CC BY 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/A_Royal_Air_Force_Typhoon_F2_fighter_aircraft_of_29_Squadron_MOD_45147968.jpg/1280px-A_Royal_Air_Force_Typhoon_F2_fighter_aircraft_of_29_Squadron_MOD_45147968.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/d8/A_Royal_Air_Force_Typhoon_F2_fighter_aircraft_of_29_Squadron_MOD_45147968.jpg",
+      "width": 3300,
+      "height": 2400,
+      "title": "A Royal Air Force Typhoon F2 fighter aircraft of 29 Squadron MOD 45147968.jpg",
+      "description": "A Royal Air Force Typhoon F2 fighter aircraft of 29 Squadron soars through the skies above its home base of RAF Coningsby.\n<ul><li>Organization: RAF</li>\n<li>Object Name: Con_07_623_Out_Unclass_040(E)",
+      "license": "OGL v1.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Eurofighter_Typhoon_-_Cartagena%2C_Spain_2024-02-05.jpg/1280px-Eurofighter_Typhoon_-_Cartagena%2C_Spain_2024-02-05.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/76/Eurofighter_Typhoon_-_Cartagena%2C_Spain_2024-02-05.jpg",
+      "width": 3443,
+      "height": 3443,
+      "title": "Eurofighter Typhoon - Cartagena, Spain 2024-02-05.jpg",
+      "description": "Eurofighter Typhoon in Cartagena, Spain.",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/F-16_and_Eurofighter_Typhoon_flying_in_Formation.jpg/1280px-F-16_and_Eurofighter_Typhoon_flying_in_Formation.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/99/F-16_and_Eurofighter_Typhoon_flying_in_Formation.jpg",
+      "width": 3544,
+      "height": 2363,
+      "title": "F-16 and Eurofighter Typhoon flying in Formation.jpg",
+      "description": "A U.S. Air Force F-16 from the 480th Expeditionary Fighter Squadron flies in formation alongside a Romanian air force F-16 Fighting Falcon, an Italian Air Force Typhoon and a Royal Air Force Typhoon o",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Germany_Eurofighter_Typhoon_on_Gdynia_Aerobaltic_2021.jpg/1280px-Germany_Eurofighter_Typhoon_on_Gdynia_Aerobaltic_2021.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/39/Germany_Eurofighter_Typhoon_on_Gdynia_Aerobaltic_2021.jpg",
+      "width": 4160,
+      "height": 3120,
+      "title": "Germany Eurofighter Typhoon on Gdynia Aerobaltic 2021.jpg",
+      "description": "The German Eurofighter Typhoon fighter as a static exhibition during the Lotos Gdynia Aerobaltic 2021 air show",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/RAF_Typhoon_Painted_in_Day_Fighter_scheme_for_2024_season.jpg/1280px-RAF_Typhoon_Painted_in_Day_Fighter_scheme_for_2024_season.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/85/RAF_Typhoon_Painted_in_Day_Fighter_scheme_for_2024_season.jpg",
+      "width": 4976,
+      "height": 3317,
+      "title": "RAF Typhoon Painted in Day Fighter scheme for 2024 season.jpg",
+      "description": "RAF Typhoon performing a display at RAF Cosford airshow in 2024.",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/RAF_Typhoon_inflight.jpg/1280px-RAF_Typhoon_inflight.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/53/RAF_Typhoon_inflight.jpg",
+      "width": 3600,
+      "height": 2400,
+      "title": "RAF Typhoon inflight.jpg",
+      "description": "\u2018Shark Attack\u2019 by Squadron Leader John Eklund, an RAF Reservist with 7644(VR) Squadron.<br>\n<p>A <a href=\"https://en.wikipedia.org/wiki/Royal_Air_Force\" class=\"extiw\" title=\"w:Royal Air Force\">Royal A",
+      "license": "OGL 2",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Russian_SU-27_Flanker_with_RAF_Typhoon_MOD_45157730.jpg/1280px-Russian_SU-27_Flanker_with_RAF_Typhoon_MOD_45157730.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Russian_SU-27_Flanker_with_RAF_Typhoon_MOD_45157730.jpg",
+      "width": 3600,
+      "height": 2544,
+      "title": "Russian SU-27 Flanker with RAF Typhoon MOD 45157730.jpg",
+      "description": "A <a href=\"https://en.wikipedia.org/wiki/Russian_Air_Force\" class=\"extiw\" title=\"w:Russian Air Force\">Russian Air Force</a> SU-27 Flanker aircraft banks away with a <a href=\"https://en.wikipedia.org/w",
+      "license": "OGL 2",
+      "source": "wikimedia"
+    }
+  ]
+}

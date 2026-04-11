@@ -1,0 +1,294 @@
+{
+  "combat_history": [
+    {
+      "date": "2013",
+      "operation": "Typhoon Haiyan relief",
+      "event": "Juan Carlos I deployed to the Philippines for humanitarian assistance following Typhoon Haiyan, demonstrating long-range deployment capability and disaster relief role.",
+      "significance": "First major overseas deployment, proved the ship's strategic mobility and humanitarian mission capability"
+    },
+    {
+      "date": "2018-2019",
+      "operation": "NATO Sea Guardian",
+      "event": "Multiple deployments to Eastern Mediterranean as part of NATO's maritime security operation, conducting surveillance and maritime situational awareness missions.",
+      "significance": "Demonstrated integration with NATO operations and sustained deployment capability"
+    },
+    {
+      "date": "2020-2021",
+      "operation": "COVID-19 response",
+      "event": "Used as floating hospital and logistics base during Spanish COVID-19 response, utilizing medical facilities and large internal spaces.",
+      "significance": "Showed versatility in non-traditional roles and value of large deck ships for national emergencies"
+    }
+  ],
+  "modernization": [
+    {
+      "program": "F-35B Integration Study",
+      "status": "planned",
+      "timeline": "2024-2030",
+      "description": "Spanish Navy studying potential integration of F-35B Lightning II to replace aging AV-8B Harrier fleet. Would require modifications to flight deck and support systems.",
+      "impact": "Would significantly enhance strike capability and interoperability with NATO F-35 operators"
+    },
+    {
+      "program": "Combat System Upgrade",
+      "status": "in-progress",
+      "timeline": "2023-2025",
+      "description": "Upgrading SCOMBA combat management system and INDRA radar systems for improved air defense and situational awareness.",
+      "impact": "Enhanced self-defense capability and command and control for amphibious operations"
+    },
+    {
+      "program": "Communication Systems Modernization",
+      "status": "completed",
+      "timeline": "2020-2022",
+      "description": "Installation of new SATCOM systems and Link 16 capability for improved NATO interoperability.",
+      "impact": "Better integration with allied forces and enhanced command capabilities"
+    }
+  ],
+  "vulnerabilities": [
+    {
+      "area": "Air Defense",
+      "description": "Limited to point defense systems with no medium or long-range SAM capability. Relies entirely on escort vessels or friendly air cover for area air defense.",
+      "context": "In contested environments against near-peer threats, the ship would be vulnerable to coordinated air or missile attacks",
+      "mitigation": "Spanish Navy typically operates with F-100 frigates providing area air defense, but this limits operational flexibility"
+    },
+    {
+      "area": "Single Point of Failure",
+      "description": "As Spain's only large deck amphibious vessel, any major damage or maintenance issues eliminate the entire capability. No backup platform exists.",
+      "context": "Critical vulnerability for Spanish power projection and NATO commitments",
+      "mitigation": "Spanish Navy is considering second LHD but budget constraints remain significant"
+    },
+    {
+      "area": "Aviation Limitations",
+      "description": "Current AV-8B Harrier fleet is aging with no immediate replacement confirmed. Limited hangar space constrains mixed aviation operations.",
+      "context": "Reduces strike capability and operational effectiveness compared to modern F-35B equipped platforms",
+      "mitigation": "F-35B procurement under consideration but not confirmed due to cost and political factors"
+    },
+    {
+      "area": "Operational Tempo",
+      "description": "High deployment rate for single platform leads to maintenance stress and crew fatigue. Ship has operated at high tempo since commissioning.",
+      "context": "May impact long-term material condition and crew readiness for high-intensity operations",
+      "mitigation": "Limited by lack of sister ship; Spanish Navy managing through extended maintenance periods"
+    }
+  ],
+  "operational_patterns": {
+    "typical_deployment": "Flagship for Spanish amphibious task groups, NATO exercises, humanitarian operations, and sovereignty missions in Spanish territories",
+    "deployment_length_months": 4,
+    "key_operating_areas": [
+      "Western Mediterranean",
+      "Atlantic Morocco",
+      "Canary Islands",
+      "West Africa",
+      "Caribbean"
+    ],
+    "typical_task_group": "Usually operates with F-100 class frigate, replenishment ship, and submarine escort for major deployments",
+    "readiness_notes": "High operational tempo with frequent deployments limits availability for maintenance. Single platform creates scheduling pressures."
+  },
+  "peer_comparisons": [
+    {
+      "platform": "Mistral-class",
+      "country": "France",
+      "relationship": "direct rival",
+      "key_differences": "Mistral has larger well deck and troop capacity but smaller flight deck and no ski-jump for fixed-wing operations. Juan Carlos I prioritizes aviation over amphibious capacity.",
+      "video_angle": "European LHD face-off: Aviation vs amphibious capacity trade-offs in medium navy power projection"
+    },
+    {
+      "platform": "Trieste",
+      "country": "Italy",
+      "relationship": "allied equivalent",
+      "key_differences": "Trieste is newer with more advanced systems and F-35B integration from the start. Juan Carlos I larger but older design with upgrade limitations.",
+      "video_angle": "Old vs new European carriers: First vs second generation LHD design philosophy"
+    },
+    {
+      "platform": "Canberra-class",
+      "country": "Australia",
+      "relationship": "successor",
+      "key_differences": "Based on Juan Carlos I but modified for Australian requirements. No ski-jump initially, different radar and combat systems, enhanced command facilities.",
+      "video_angle": "Design evolution: How Australia improved the Spanish LHD design for Pacific operations"
+    },
+    {
+      "platform": "Izumo-class",
+      "country": "Japan",
+      "relationship": "peer competitor",
+      "key_differences": "Similar size and role but Izumo designed around helicopter operations initially, now converting for F-35B. Juan Carlos I built for fixed-wing from start.",
+      "video_angle": "East vs West LHD concepts: Spanish multi-role vs Japanese helicopter destroyer evolution"
+    },
+    {
+      "platform": "Type 075",
+      "country": "China",
+      "relationship": "strategic competitor",
+      "key_differences": "Type 075 larger with greater amphibious capacity but no fixed-wing capability. Represents different operational concept focused purely on amphibious assault.",
+      "video_angle": "LHD philosophy clash: Chinese amphibious focus vs European multi-role flexibility"
+    }
+  ],
+  "search_keywords": [
+    "juan carlos i",
+    "l-61",
+    "l61",
+    "spanish aircraft carrier",
+    "spanish navy lhd",
+    "navantia lhd",
+    "harrier carrier spain",
+    "spanish amphibious ship",
+    "armada espa\u00f1ola"
+  ],
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/El_garaje_del_LHD_%22Juan_Carlos_I%22_L-61_%2848171160141%29.jpg/1280px-El_garaje_del_LHD_%22Juan_Carlos_I%22_L-61_%2848171160141%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/d7/El_garaje_del_LHD_%22Juan_Carlos_I%22_L-61_%2848171160141%29.jpg",
+      "width": 3000,
+      "height": 2000,
+      "title": "El garaje del LHD \"Juan Carlos I\" L-61 (48171160141).jpg",
+      "description": "El garaje del LHD \"Juan Carlos I\" L-61",
+      "license": "CC BY-SA 2.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/El_garaje_del_LHD_%22Juan_Carlos_I%22_L-61_%2848171243962%29.jpg/1280px-El_garaje_del_LHD_%22Juan_Carlos_I%22_L-61_%2848171243962%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/04/El_garaje_del_LHD_%22Juan_Carlos_I%22_L-61_%2848171243962%29.jpg",
+      "width": 3000,
+      "height": 2000,
+      "title": "El garaje del LHD \"Juan Carlos I\" L-61 (48171243962).jpg",
+      "description": "El garaje del LHD \"Juan Carlos I\" L-61",
+      "license": "CC BY-SA 2.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/95/Juan_Carlos_I_%28L-61%29_Spanish_Navy_%286784576853%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/95/Juan_Carlos_I_%28L-61%29_Spanish_Navy_%286784576853%29.jpg",
+      "width": 1024,
+      "height": 683,
+      "title": "Juan Carlos I (L-61) Spanish Navy (6784576853).jpg",
+      "description": "Juan Carlos I (L-61) Spanish Navy",
+      "license": "CC BY 2.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Juan_Carlos_I_L-61.JPG/1280px-Juan_Carlos_I_L-61.JPG",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Juan_Carlos_I_L-61.JPG",
+      "width": 3458,
+      "height": 1392,
+      "title": "Juan Carlos I L-61.JPG",
+      "description": "Spanish Navy LHD ship \"Juan Carlos I\" (L-61) on afloat completion stage.",
+      "license": "CC BY-SA 3.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/L-61_%2834292845673%29.jpg/1280px-L-61_%2834292845673%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/d3/L-61_%2834292845673%29.jpg",
+      "width": 2000,
+      "height": 1333,
+      "title": "L-61 (34292845673).jpg",
+      "description": "<p><b>El portaaeronaves \"Juan Carlos I\" L-61 en Vigo</b>\nEl portaaeronaves \"Juan Carlos I\" L-61, buque insignia de la Armada Espa\u00f1ola, en su visita a Vigo el 3 de junio de 2017, con ocasi\u00f3n del tercer",
+      "license": "CC BY-SA 2.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/L-61_%2834717221100%29.jpg/1280px-L-61_%2834717221100%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/21/L-61_%2834717221100%29.jpg",
+      "width": 2000,
+      "height": 1333,
+      "title": "L-61 (34717221100).jpg",
+      "description": "<p><b>El portaaeronaves \"Juan Carlos I\" L-61 zarpando de Vigo</b>\nEl portaaeronaves \"Juan Carlos I\" L-61, buque insignia de la Armada Espa\u00f1ola, zarpando de Vigo el 4 de junio de 2017.\n</p><p><b>\"Juan ",
+      "license": "CC BY-SA 2.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/6c/LZ61_%28L21%29.png",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/6c/LZ61_%28L21%29.png",
+      "width": 778,
+      "height": 1062,
+      "title": "LZ61 (L21).png",
+      "description": "L21 (LZ61) berthed inside the Normann double shed at Nordholz, 1916",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/POETIC_JUSTICE_-_FRIGHTFUL_END_OF_EMISSARIES_OF_%22FRIGHTFULNESS.%22.png/1280px-POETIC_JUSTICE_-_FRIGHTFUL_END_OF_EMISSARIES_OF_%22FRIGHTFULNESS.%22.png",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/0b/POETIC_JUSTICE_-_FRIGHTFUL_END_OF_EMISSARIES_OF_%22FRIGHTFULNESS.%22.png",
+      "width": 1516,
+      "height": 1964,
+      "title": "POETIC JUSTICE - FRIGHTFUL END OF EMISSARIES OF \"FRIGHTFULNESS.\".png",
+      "description": "At daybreak of November 28th, 1916, a Zeppelin was detected over the coast of Norfolk. Four aeroplanes of the R.N.A.S. engaged her, three hitting her repeatedly till she plunged flaming into the sea",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/BALTOPS_19_-_JUAN_CARLOS_I_%285450294%29.jpg/1280px-BALTOPS_19_-_JUAN_CARLOS_I_%285450294%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/46/BALTOPS_19_-_JUAN_CARLOS_I_%285450294%29.jpg",
+      "width": 5184,
+      "height": 3456,
+      "title": "BALTOPS 19 - JUAN CARLOS I (5450294).jpg",
+      "description": "Spanish Navy multi-purpose amphibious assault ship Juan Carlos I (L61), prepares to moor at Naval Base Kiel-Tirpitzhafen, Germany in preparation of exercise Baltic Operations (BALTOPS) 2019, June 5, 2",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/BALTOPS_19_-_JUAN_CARLOS_I_%285450304%29.jpg/1280px-BALTOPS_19_-_JUAN_CARLOS_I_%285450304%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/00/BALTOPS_19_-_JUAN_CARLOS_I_%285450304%29.jpg",
+      "width": 5184,
+      "height": 3456,
+      "title": "BALTOPS 19 - JUAN CARLOS I (5450304).jpg",
+      "description": "Spanish Navy multi-purpose amphibious assault ship Juan Carlos I (L61) sits pierside at Naval base Kiel-tirpitzhafen, Germany in preparation of exercise Baltic Operations 19 (BALTOPS), June 5, 2019. B",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Juan_Carlos_I_%28L-61%29_in_Malaga_01.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Juan_Carlos_I_%28L-61%29_in_Malaga_01.jpg",
+      "width": 1024,
+      "height": 768,
+      "title": "Juan Carlos I (L-61) in Malaga 01.jpg",
+      "description": "Multi-purpose amphibious assault ship-aircraft carrier <a href=\"https://en.wikipedia.org/wiki/en:Juan_Carlos_I_(L-61)\" class=\"extiw\" title=\"w:en:Juan Carlos I (L-61)\">Juan Carlos I (L-61)</a> in Malag",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Juan_Carlos_I_%28L-61%29_in_Malaga_02.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Juan_Carlos_I_%28L-61%29_in_Malaga_02.jpg",
+      "width": 1024,
+      "height": 768,
+      "title": "Juan Carlos I (L-61) in Malaga 02.jpg",
+      "description": "Multi-purpose amphibious assault ship-aircraft carrier <a href=\"https://en.wikipedia.org/wiki/en:Juan_Carlos_I_(L-61)\" class=\"extiw\" title=\"w:en:Juan Carlos I (L-61)\">Juan Carlos I (L-61)</a> in Malag",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Spanish_amphibious_assault_ship_Juan_Carlos_I_%28L-61%29_underway_in_the_Adriatic_Sea%2C_22_February_2023_%28230222-N-MW880-1248%29.JPG/1280px-Spanish_amphibious_assault_ship_Juan_Carlos_I_%28L-61%29_underway_in_the_Adriatic_Sea%2C_22_February_2023_%28230222-N-MW880-1248%29.JPG",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Spanish_amphibious_assault_ship_Juan_Carlos_I_%28L-61%29_underway_in_the_Adriatic_Sea%2C_22_February_2023_%28230222-N-MW880-1248%29.JPG",
+      "width": 6419,
+      "height": 4279,
+      "title": "Spanish amphibious assault ship Juan Carlos I (L-61) underway in the Adriatic Sea, 22 February 2023 (230222-N-MW880-1248).JPG",
+      "description": "A U.S. Navy Sikorsky MH-60S <i>Sea Hawk</i> of Helicopter Sea Combat Squadron 5 (HSC-5) and two Spanish Navy SH-60B fly near the Spanish amphibious assault ship <i>Juan Carlos I</i> (L-61) during inte",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Spanish_amphibious_assault_ship_Juan_Carlos_I_%28L-61%29_underway_in_the_Adriatic_Sea%2C_22_February_2023_%28230222-N-MW880-1248%29_%28cropped%29.JPG/1280px-Spanish_amphibious_assault_ship_Juan_Carlos_I_%28L-61%29_underway_in_the_Adriatic_Sea%2C_22_February_2023_%28230222-N-MW880-1248%29_%28cropped%29.JPG",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/11/Spanish_amphibious_assault_ship_Juan_Carlos_I_%28L-61%29_underway_in_the_Adriatic_Sea%2C_22_February_2023_%28230222-N-MW880-1248%29_%28cropped%29.JPG",
+      "width": 5100,
+      "height": 2600,
+      "title": "Spanish amphibious assault ship Juan Carlos I (L-61) underway in the Adriatic Sea, 22 February 2023 (230222-N-MW880-1248) (cropped).JPG",
+      "description": "A U.S. Navy Sikorsky MH-60S <i>Sea Hawk</i> of Helicopter Sea Combat Squadron 5 (HSC-5) and two Spanish Navy SH-60B fly near the Spanish amphibious assault ship <i>Juan Carlos I</i> (L-61) during inte",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Spanish_ship_Juan_Carlos_I_entering_Ferrol.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Spanish_ship_Juan_Carlos_I_entering_Ferrol.jpg",
+      "width": 1024,
+      "height": 685,
+      "title": "Spanish ship Juan Carlos I entering Ferrol.jpg",
+      "description": "<a href=\"https://en.wikipedia.org/wiki/Spanish_ship_Juan_Carlos_I_(L61)\" class=\"extiw\" title=\"en:Spanish ship Juan Carlos I (L61)\"><i>Juan Carlos I</i></a> on the Ria of <a href=\"https://en.wikipedia.",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/USMC_V-22s_on_board_the_Spanish_ship_Juan_Carlos_I_in_2015.jpg/1280px-USMC_V-22s_on_board_the_Spanish_ship_Juan_Carlos_I_in_2015.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/11/USMC_V-22s_on_board_the_Spanish_ship_Juan_Carlos_I_in_2015.jpg",
+      "width": 4827,
+      "height": 3218,
+      "title": "USMC V-22s on board the Spanish ship Juan Carlos I in 2015.jpg",
+      "description": "Three MV-22B Ospreys with Special-Purpose Marine Air-Ground Task Force Crisis Response-Africa participate in deck landing qualifications aboard a Spanish amphibious assault ship Juan Carlos I (L61) on",
+      "license": "Public domain",
+      "source": "wikimedia"
+    }
+  ]
+}
