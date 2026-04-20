@@ -5,7 +5,7 @@ import { PlatformFilters } from "./PlatformFilters";
 
 export const metadata: Metadata = {
   title: "Military Equipment Database",
-  description: "Browse 69+ military platforms with detailed specs, armament, doctrine, and combat history. Destroyers, submarines, carriers, frigates, and more.",
+  description: "Browse 115+ military platforms with detailed specs, armament, doctrine, and combat history. Destroyers, submarines, carriers, frigates, fighters, tanks, and more.",
 };
 
 export default async function PlatformsPage() {
