@@ -1,0 +1,204 @@
+{
+  "combat_history": [
+    {
+      "date": "2018-10",
+      "event": "India signed a ~US$5.4B deal for five S-400 regiments despite U.S. CAATSA sanctions warnings; deliveries from 2021.",
+      "significance": "A landmark of Indian strategic autonomy and a Western interoperability headache."
+    },
+    {
+      "date": "2022\u20132024",
+      "event": "S-400 systems saw mixed results and some losses during the war in Ukraine.",
+      "significance": "Raised real questions about claimed performance against modern strikes."
+    }
+  ],
+  "modernization": [
+    {
+      "program": "Networking & S-500 layering",
+      "status": "in-progress",
+      "timeline": "2020s",
+      "description": "Integration with longer-range S-500 and improved battle management.",
+      "impact": "Extends the high-altitude/ballistic defence layer."
+    }
+  ],
+  "vulnerabilities": [
+    {
+      "area": "SEAD & saturation",
+      "description": "Finite radars and interceptors are vulnerable to suppression and saturation.",
+      "context": "Combat in Ukraine exposed losses to strikes and decoys.",
+      "mitigation": "Mobility, emission control, layering."
+    },
+    {
+      "area": "Low-observable threats",
+      "description": "Performance against modern stealth aircraft is unproven.",
+      "context": "5th-gen penetrators may defeat engagement radars.",
+      "mitigation": "Networked low-band sensors."
+    }
+  ],
+  "operational_patterns": {
+    "typical_deployment": "Mobile batteries protecting strategic areas and creating anti-access bubbles; operated by Russia, China and India.",
+    "key_operating_areas": [
+      "Chinese mainland (PLA)",
+      "India (northern/western sectors)",
+      "Russian Far East"
+    ],
+    "typical_task_group": "Networked into national IADS with acquisition radars and layered SAMs.",
+    "readiness_notes": "Widely fielded; combat record mixed."
+  },
+  "peer_comparisons": [
+    {
+      "platform": "HQ-9",
+      "country": "China",
+      "relationship": "indigenous parallel",
+      "key_differences": "China operates both the S-400 and its own HQ-9; the HQ-9 is the home-grown analogue.",
+      "video_angle": "Why China bought the S-400 and built the HQ-9."
+    },
+    {
+      "platform": "MIM-104 Patriot (PAC-3)",
+      "country": "United States",
+      "relationship": "Western rival",
+      "key_differences": "Patriot emphasises hit-to-kill ballistic defence; the S-400 emphasises very-long-range aircraft engagement.",
+      "video_angle": "S-400 vs Patriot \u2014 the export-market rivalry."
+    },
+    {
+      "platform": "THAAD",
+      "country": "United States",
+      "relationship": "different tier",
+      "key_differences": "THAAD is a dedicated high-altitude ballistic interceptor, not a multi-role SAM.",
+      "video_angle": "The layers of modern air and missile defence."
+    }
+  ],
+  "search_keywords": [
+    "S-400",
+    "S-400 Triumf",
+    "SA-21 Growler",
+    "40N6",
+    "Russian air defense",
+    "India S-400",
+    "China S-400"
+  ],
+  "doctrine": {
+    "role": "Long-range, multi-layer air- and missile-defence system and anti-access tool.",
+    "employment": "Mobile batteries engage aircraft, cruise and ballistic missiles across nested range bands under a single battle-management network.",
+    "design_philosophy": "Layered interceptors and powerful radars in one mobile, exportable system.",
+    "threat_context": "Chinese and Indian S-400s reshape Indo-Pacific air-defence and complicate Western air operations.",
+    "comparison_frame": "Read against China's HQ-9, the U.S. Patriot and THAAD."
+  },
+  "curated_sources": [
+    {
+      "title": "S-400 missile system \u2014 Wikipedia",
+      "type": "reference",
+      "url": "https://en.wikipedia.org/wiki/S-400_missile_system",
+      "relevance": "Interceptors and operators",
+      "priority": "reference"
+    },
+    {
+      "title": "CSIS Missile Threat \u2014 S-400",
+      "type": "research",
+      "url": "https://missilethreat.csis.org/defsys/s-400/",
+      "relevance": "Authoritative profile",
+      "priority": "essential"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/May_2011_Parade_-_S-400.jpeg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/May_2011_Parade_-_S-400.jpeg",
+      "width": 650,
+      "height": 434,
+      "title": "May 2011 Parade - S-400.jpeg",
+      "description": "Die Milit\u00e4rparade zum 66-j\u00e4hrigen Jubil\u00e4um des Sieges in Moskau im Jahr 2011.",
+      "license": "CC BY 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Moscow_2012_Victory_Day_Parade_Rehearsal%2C_S-400%2C_Russia.jpg/1280px-Moscow_2012_Victory_Day_Parade_Rehearsal%2C_S-400%2C_Russia.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/48/Moscow_2012_Victory_Day_Parade_Rehearsal%2C_S-400%2C_Russia.jpg",
+      "width": 4912,
+      "height": 3264,
+      "title": "Moscow 2012 Victory Day Parade Rehearsal, S-400, Russia.jpg",
+      "description": "S-400 missile system launch vehicle. Police force and military personnel units are gathering for a rehearsal of Moscow Military Parade to celebrate Victory Day on May 9 in Moscow, Russia.",
+      "license": "CC BY 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Moscow_2012_Victory_Day_Parade_Rehearsal%2C_S-400_launchers%2C_Russia.jpg/1280px-Moscow_2012_Victory_Day_Parade_Rehearsal%2C_S-400_launchers%2C_Russia.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/35/Moscow_2012_Victory_Day_Parade_Rehearsal%2C_S-400_launchers%2C_Russia.jpg",
+      "width": 4912,
+      "height": 3264,
+      "title": "Moscow 2012 Victory Day Parade Rehearsal, S-400 launchers, Russia.jpg",
+      "description": "S-400 missile system launch vehicles. Police force and military personnel units are gathering for a rehearsal of Moscow Military Parade to celebrate Victory Day on May 9 in Moscow, Russia.",
+      "license": "CC BY 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e5/S-400_5P85T2_Moscow_2015.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/e5/S-400_5P85T2_Moscow_2015.jpg",
+      "width": 1200,
+      "height": 800,
+      "title": "S-400 5P85T2 Moscow 2015.jpg",
+      "description": "Russian S-400 TEL 5P85T2, Victory Day Parade Moscow 2015",
+      "license": "CC BY-SA 3.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/S-400_Operators.png/1280px-S-400_Operators.png",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/S-400_Operators.png",
+      "width": 2753,
+      "height": 1400,
+      "title": "S-400 Operators.png",
+      "description": "S-400 Operators",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/0f/S-400_SAM_during_the_Victory_parade_2010.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/0f/S-400_SAM_during_the_Victory_parade_2010.jpg",
+      "width": 900,
+      "height": 573,
+      "title": "S-400 SAM during the Victory parade 2010.jpg",
+      "description": "A Russian S-400 SAM during the Victory parade 2010.",
+      "license": "CC BY-SA 3.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/S-400_missile_operators.png/1280px-S-400_missile_operators.png",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/77/S-400_missile_operators.png",
+      "width": 2753,
+      "height": 1400,
+      "title": "S-400 missile operators.png",
+      "description": "This map shows the operators that Officially have the C-400 \u0422\u0440\u0438\u0443\u043c\u0444",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/S-400_missile_operators_%28fix%29.png/1280px-S-400_missile_operators_%28fix%29.png",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/S-400_missile_operators_%28fix%29.png",
+      "width": 2753,
+      "height": 1400,
+      "title": "S-400 missile operators (fix).png",
+      "description": "This map show the current operators of the S-400 missile system",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/S-400_operators.png/1280px-S-400_operators.png",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/1e/S-400_operators.png",
+      "width": 2753,
+      "height": 1400,
+      "title": "S-400 operators.png",
+      "description": "Map with S-400 operators in blue",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/%D0%97%D0%BE%D0%BD%D1%8B_%D0%BF%D0%BE%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F_%D1%80%D0%B0%D0%BA%D0%B5%D1%82_%D0%97%D0%A0%D0%9A_%D0%A1-400.png/1280px-%D0%97%D0%BE%D0%BD%D1%8B_%D0%BF%D0%BE%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F_%D1%80%D0%B0%D0%BA%D0%B5%D1%82_%D0%97%D0%A0%D0%9A_%D0%A1-400.png",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/d1/%D0%97%D0%BE%D0%BD%D1%8B_%D0%BF%D0%BE%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F_%D1%80%D0%B0%D0%BA%D0%B5%D1%82_%D0%97%D0%A0%D0%9A_%D0%A1-400.png",
+      "width": 1308,
+      "height": 452,
+      "title": "\u0417\u043e\u043d\u044b \u043f\u043e\u0440\u0430\u0436\u0435\u043d\u0438\u044f \u0440\u0430\u043a\u0435\u0442 \u0417\u0420\u041a \u0421-400.png",
+      "description": "\u0417\u043e\u043d\u044b \u043f\u043e\u0440\u0430\u0436\u0435\u043d\u0438\u044f \u0440\u0430\u043a\u0435\u0442 \u0417\u0420\u041a \u0421-400",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    }
+  ]
+}

@@ -1,0 +1,293 @@
+{
+  "id": 160,
+  "slug": "df-17-hypersonic-missile",
+  "name": "DF-17 hypersonic glide missile",
+  "designation": "DF-17 (with DF-ZF HGV)",
+  "type": "ballistic-missile",
+  "country": "China",
+  "operator": "PLA Rocket Force (PLARF)",
+  "overview_md": "The DF-17 is the world's first operationally fielded hypersonic glide-vehicle missile \u2014 a medium-range ballistic booster topped not with a conventional re-entry warhead but with the DF-ZF hypersonic glide vehicle (HGV). Unveiled at the 2019 Beijing parade and assessed operational from around 2020, it represents a genuinely new class of threat that complicates Western missile defence.\n\nThe distinction matters. A traditional ballistic warhead follows a predictable arcing trajectory after burnout, which is what missile-defence systems are built to track and intercept. The DF-ZF instead releases at high altitude and then glides and manoeuvres within the atmosphere at hypersonic speed (Mach 5\u201310), flying a flatter, unpredictable path that is far harder to track, predict and engage. Estimated range is on the order of 1,800\u20132,500 km.\n\nFor an analyst, the DF-17 is significant less for raw range than for the defensive problem it poses. Its manoeuvring glide degrades the effectiveness of terminal interceptors like THAAD and Patriot and erodes the value of fixed early-warning geometry. It is widely assessed as conventional and precision-capable, and is reported to have an anti-ship application \u2014 making it another tool in China's effort to hold both bases and ships at risk inside the Western Pacific.",
+  "specs_json": {
+    "length_m": 11.0,
+    "additional": {
+      "range": "~1,800\u20132,500 km",
+      "glide_speed": "~Mach 5\u201310 (hypersonic glide)",
+      "warhead": "Conventional precision (DF-ZF glide vehicle)",
+      "guidance": "Inertial + satellite; manoeuvring terminal glide",
+      "trajectory": "Boost-glide \u2014 flatter and manoeuvring, not pure ballistic",
+      "basing": "Road-mobile TEL"
+    }
+  },
+  "armament_json": [],
+  "variants_json": [
+    {
+      "name": "DF-17 / DF-ZF",
+      "years": "2020\u2013",
+      "key_changes": "Boost-glide MRBM with hypersonic glide vehicle",
+      "status": "active"
+    }
+  ],
+  "fleet_status_json": [],
+  "cost_usd": 0.0,
+  "unit_count": 0,
+  "first_commissioned": "2020",
+  "builder": "China Aerospace Science and Technology Corp. (CASC)",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/72/DF-17_Missile_20221020.jpg",
+  "wiki_url": "https://en.wikipedia.org/wiki/DF-17",
+  "sources_json": [
+    "https://en.wikipedia.org/wiki/DF-17",
+    "https://missilethreat.csis.org/missile/df-17/"
+  ],
+  "comparison_tags": [
+    "missile",
+    "ballistic-missile",
+    "hypersonic",
+    "glide-vehicle",
+    "a2ad",
+    "china",
+    "plarf"
+  ],
+  "created_at": "2026-05-20 07:36:03",
+  "updated_at": "2026-05-20T07:36:03.596557",
+  "news": [],
+  "events": [],
+  "ic_coverage": [],
+  "combat_history": [
+    {
+      "date": "2019-10",
+      "event": "Publicly unveiled at the 70th-anniversary Beijing parade, the first time a hypersonic glide missile was paraded as operational.",
+      "significance": "Signalled China's lead in fielding hypersonic glide weapons."
+    }
+  ],
+  "modernization": [
+    {
+      "program": "Production scaling & anti-ship development",
+      "status": "in-progress",
+      "timeline": "ongoing",
+      "description": "Expanding PLARF inventory and reported maritime-strike applications.",
+      "impact": "Broadens the hypersonic threat to both land and sea targets."
+    }
+  ],
+  "vulnerabilities": [
+    {
+      "area": "Technical maturity",
+      "description": "Hypersonic glide is demanding \u2014 thermal protection, seeker performance and accuracy at glide speed are hard.",
+      "context": "Real-world precision and reliability are not publicly verified.",
+      "mitigation": "Continued flight testing."
+    },
+    {
+      "area": "Boost phase",
+      "description": "The ballistic boost phase remains detectable and potentially interceptable before glide.",
+      "context": "Boost-phase or left-of-launch defences could blunt it.",
+      "mitigation": "Mobility and dispersal."
+    }
+  ],
+  "operational_patterns": {
+    "typical_deployment": "Mobile launchers striking high-value fixed targets (and possibly ships) on a manoeuvring hypersonic glide path.",
+    "key_operating_areas": [
+      "Taiwan Strait",
+      "Western Pacific",
+      "East China Sea",
+      "South China Sea"
+    ],
+    "typical_task_group": "Part of the layered PLARF strike force with DF-21D and DF-26.",
+    "readiness_notes": "Operational and expanding since ~2020."
+  },
+  "peer_comparisons": [
+    {
+      "platform": "3M22 Zircon",
+      "country": "Russia",
+      "relationship": "hypersonic peer",
+      "key_differences": "Zircon is a hypersonic cruise missile (air-breathing, powered throughout); the DF-17 is a boost-glide weapon.",
+      "video_angle": "Glide vs cruise \u2014 the two roads to hypersonic strike."
+    },
+    {
+      "platform": "AGM-183 ARRW / LRHW Dark Eagle",
+      "country": "United States",
+      "relationship": "Western counterpart",
+      "key_differences": "U.S. boost-glide programs lagged the DF-17 into service.",
+      "video_angle": "Why China fielded hypersonics first."
+    },
+    {
+      "platform": "DF-26",
+      "country": "China",
+      "relationship": "complementary system",
+      "key_differences": "DF-26 offers far greater range with a conventional/nuclear ballistic RV; DF-17 offers an unpredictable hypersonic glide.",
+      "video_angle": "Inside the PLARF's mixed missile force."
+    }
+  ],
+  "search_keywords": [
+    "DF-17",
+    "DF-ZF",
+    "hypersonic glide vehicle",
+    "HGV",
+    "boost-glide",
+    "China hypersonic",
+    "PLARF"
+  ],
+  "doctrine": {
+    "role": "Conventional hypersonic glide missile to defeat missile defences and strike high-value fixed (and possibly maritime) targets.",
+    "employment": "Boosts ballistically, then releases a manoeuvring glide vehicle that flies a flat, unpredictable hypersonic path.",
+    "design_philosophy": "Defeat the defence \u2014 trade pure range for a trajectory that current interceptors struggle to engage.",
+    "threat_context": "Erodes the value of THAAD/Patriot-class terminal defence and fixed early-warning geometry in the Western Pacific.",
+    "comparison_frame": "The glide answer to the hypersonic question \u2014 read against Russia's Zircon and U.S. ARRW/LRHW."
+  },
+  "curated_sources": [
+    {
+      "title": "DF-17 \u2014 Wikipedia",
+      "type": "reference",
+      "url": "https://en.wikipedia.org/wiki/DF-17",
+      "relevance": "HGV concept and range",
+      "priority": "reference"
+    },
+    {
+      "title": "CSIS Missile Threat \u2014 DF-17",
+      "type": "research",
+      "url": "https://missilethreat.csis.org/missile/df-17/",
+      "relevance": "Authoritative profile",
+      "priority": "essential"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Campus_WU-14.jpg/1280px-Campus_WU-14.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/17/Campus_WU-14.jpg",
+      "width": 2000,
+      "height": 1500,
+      "title": "Campus WU-14.jpg",
+      "description": "die Baustelle des Campus WU der <a href=\"https://de.wikipedia.org/wiki/Wirtschaftsuniversit%C3%A4t_Wien\" class=\"extiw\" title=\"de:Wirtschaftsuniversit\u00e4t Wien\">Wirtschaftsuniversit\u00e4t Wien</a> in Wien Le",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/49/Chinese_Hypersonic_Gliding_Vehicle.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/49/Chinese_Hypersonic_Gliding_Vehicle.jpg",
+      "width": 720,
+      "height": 667,
+      "title": "Chinese Hypersonic Gliding Vehicle.jpg",
+      "description": "One of the Chinese hypersonic gliding vehicle projects. Its configration was first exposed by Military Report on <a href=\"https://en.wikipedia.org/wiki/CCTV-7\" class=\"extiw\" title=\"en:CCTV-7\">CCTV-7</",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/DF-17_Missile_20221020.jpg/1280px-DF-17_Missile_20221020.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/72/DF-17_Missile_20221020.jpg",
+      "width": 2700,
+      "height": 1600,
+      "title": "DF-17 Missile 20221020.jpg",
+      "description": "\u200b\u5317\u4eac\u5c55\u89c8\u9986\u201c\u594b\u8fdb\u65b0\u65f6\u4ee3\u201d\u4e3b\u9898\u6210\u5c31\u5c55\u5c55\u51fa\u7684\u4e1c\u98ce-17\u5bfc\u5f39\u53d1\u5c04\u8f66\u3002",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/DF-5B%2C_first_stage.jpg/1280px-DF-5B%2C_first_stage.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/DF-5B%2C_first_stage.jpg",
+      "width": 4608,
+      "height": 3456,
+      "title": "DF-5B, first stage.jpg",
+      "description": "First stage of the the newly upgraded DF-5B Chinese intercontinental ballistic missile, as seen after the military parade held in Beijing on September 3, 2015 to commemorate 70 years since the end of ",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/DF-ST-91-10891_BGM-109G_ground_launched_cruise_missile_is_readied_for_a_simulated_launch.jpeg/1280px-DF-ST-91-10891_BGM-109G_ground_launched_cruise_missile_is_readied_for_a_simulated_launch.jpeg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/f4/DF-ST-91-10891_BGM-109G_ground_launched_cruise_missile_is_readied_for_a_simulated_launch.jpeg",
+      "width": 2870,
+      "height": 1920,
+      "title": "DF-ST-91-10891 BGM-109G ground launched cruise missile is readied for a simulated launch.jpeg",
+      "description": "An airman wearing an M-17 gas mask maintains his security position as a transporter-erector-launcher (TEL) for the <a href=\"https://en.wikipedia.org/wiki/Ground_Launched_Cruise_Missile\" class=\"extiw\" ",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/DF-ST-91-10893_BGM-109G_ground_launched_cruise_missile_in_Belgium.jpeg/1280px-DF-ST-91-10893_BGM-109G_ground_launched_cruise_missile_in_Belgium.jpeg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/66/DF-ST-91-10893_BGM-109G_ground_launched_cruise_missile_in_Belgium.jpeg",
+      "width": 2850,
+      "height": 1890,
+      "title": "DF-ST-91-10893 BGM-109G ground launched cruise missile in Belgium.jpeg",
+      "description": "An airman wearing an M-17 gas mask maintains his security position as a transporter-erector-launcher (TEL) for the <a href=\"https://en.wikipedia.org/wiki/Ground_Launched_Cruise_Missile\" class=\"extiw\" ",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Dongfeng-2_Missile_%289871266053%29.jpg/1280px-Dongfeng-2_Missile_%289871266053%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/db/Dongfeng-2_Missile_%289871266053%29.jpg",
+      "width": 3888,
+      "height": 2592,
+      "title": "Dongfeng-2 Missile (9871266053).jpg",
+      "description": "c. 1964. Military Museum: Modern Weapons. Complete indexed photo collection at WorldHistoryPics.com.",
+      "license": "CC0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/M%C3%ADsseis_da_China.png",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/M%C3%ADsseis_da_China.png",
+      "width": 1208,
+      "height": 705,
+      "title": "M\u00edsseis da China.png",
+      "description": "Desenho comparando a trajet\u00f3ria dos m\u00edsseis hipers\u00f4nicos e bal\u00edsticos da China",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Pistola-10m-masculino-felipe-wu_14_28191142774_o.jpg/1280px-Pistola-10m-masculino-felipe-wu_14_28191142774_o.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Pistola-10m-masculino-felipe-wu_14_28191142774_o.jpg",
+      "width": 4897,
+      "height": 4083,
+      "title": "Pistola-10m-masculino-felipe-wu 14 28191142774 o.jpg",
+      "description": "Felipe Wu conquista a medalha de prata - Pistola de ar 10m",
+      "license": "CC BY-SA 3.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/WU-14_HGV.jpg/1280px-WU-14_HGV.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/53/WU-14_HGV.jpg",
+      "width": 1920,
+      "height": 1080,
+      "title": "WU-14 HGV.jpg",
+      "description": "Selbsterstellte Concept-Grafik, basierend auf einem Artikel welcher eine chinesischen akademischen Arbeit \u00fcber HGV's als Quelle angibt. Dies ist ein fiktionales Werk. Ich habe das 3D-Mesh und die Text",
+      "license": "CC0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/2022_EK_Namur_WU_14.jpg/1280px-2022_EK_Namur_WU_14.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/df/2022_EK_Namur_WU_14.jpg",
+      "width": 1297,
+      "height": 975,
+      "title": "2022 EK Namur WU 14.jpg",
+      "description": "Europees kampioenschap veldrijden bij de vrouwen beloften, op de Citadel van Namen, op zondag 6 november 2022.",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Ruas_de_Santa_Maria_-_DF_17.jpg/1280px-Ruas_de_Santa_Maria_-_DF_17.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/32/Ruas_de_Santa_Maria_-_DF_17.jpg",
+      "width": 4000,
+      "height": 3000,
+      "title": "Ruas de Santa Maria - DF 17.jpg",
+      "description": "Imagens a n\u00edvel de rua da rodovia DF-290 em Santa Maria - Distrito Federal",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/32/Scenery_-_panoramio_-_stone_wu_%2814%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/32/Scenery_-_panoramio_-_stone_wu_%2814%29.jpg",
+      "width": 800,
+      "height": 600,
+      "title": "Scenery - panoramio - stone wu (14).jpg",
+      "description": "scenery",
+      "license": "CC BY-SA 3.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Wikimania_2007%2C_taken_by_Gimi_Wu_%2814%29.JPG/1280px-Wikimania_2007%2C_taken_by_Gimi_Wu_%2814%29.JPG",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Wikimania_2007%2C_taken_by_Gimi_Wu_%2814%29.JPG",
+      "width": 2304,
+      "height": 1728,
+      "title": "Wikimania 2007, taken by Gimi Wu (14).JPG",
+      "description": "wikimania 2007",
+      "license": "CC BY-SA 2.5",
+      "source": "wikimedia"
+    }
+  ]
+}

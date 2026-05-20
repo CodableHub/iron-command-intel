@@ -1,0 +1,319 @@
+{
+  "id": 182,
+  "slug": "spearfish-torpedo",
+  "name": "Spearfish heavyweight torpedo",
+  "designation": "Spearfish (Mod 0 / Mod 1)",
+  "type": "torpedo",
+  "country": "United Kingdom",
+  "operator": "Royal Navy",
+  "overview_md": "The Spearfish is the Royal Navy's heavyweight submarine-launched torpedo and one of the fastest in the world \u2014 the weapon of Britain's Astute- and Trafalgar-class attack submarines and Vanguard-class ballistic-missile boats. Its inclusion in an Indo-Pacific reference reflects the AUKUS partnership and Britain's \"tilt\" to the region: UK submarines now deploy east of Suez, and Australia's future SSN-AUKUS boats draw on a shared Anglo-American undersea ecosystem.\n\nSpearfish's distinguishing trait is raw speed. Powered by a Sundstrand 21TP04 gas-turbine engine running on Otto fuel and HAP-Othol oxidiser, it can reach speeds reported above 80 knots \u2014 significantly faster than most heavyweight torpedoes \u2014 letting it run down fast nuclear submarines and high-speed surface ships. It is wire-guided with active and passive sonar homing and a directed-energy warhead designed to defeat double-hulled submarines.\n\nThe definitive Spearfish Mod 1 upgrade, now in service, adds a fibre-optic guidance link (replacing copper wire) for far higher-bandwidth two-way communication, an insensitive-munition warhead for safer handling, and improved processing for cluttered littoral waters. For an analyst, Spearfish rounds out the picture of allied undersea firepower in the Pacific \u2014 alongside the U.S. Mk 48 and Japan's Type 89 \u2014 as the West leans on its submarine advantage to offset China's surface and missile mass.",
+  "specs_json": {
+    "length_m": 6.0,
+    "additional": {
+      "diameter": "533 mm (21 in)",
+      "range": "~30+ km",
+      "speed": ">80 knots (among the fastest heavyweight torpedoes)",
+      "warhead": "~300 kg directed-energy (anti-submarine)",
+      "guidance": "Wire-guided (Mod 1: fibre-optic) + active/passive sonar",
+      "propulsion": "Sundstrand 21TP04 gas turbine (Otto fuel + HAP-Othol)",
+      "platforms": "Astute, Trafalgar, Vanguard-class submarines"
+    }
+  },
+  "armament_json": [],
+  "variants_json": [
+    {
+      "name": "Spearfish Mod 0",
+      "years": "1992\u2013",
+      "key_changes": "High-speed wire-guided heavyweight torpedo",
+      "status": "active"
+    },
+    {
+      "name": "Spearfish Mod 1",
+      "years": "2021\u2013",
+      "key_changes": "Fibre-optic link, insensitive-munition warhead, improved processing",
+      "status": "active"
+    }
+  ],
+  "fleet_status_json": [],
+  "cost_usd": 0.0,
+  "unit_count": 0,
+  "first_commissioned": "1992",
+  "builder": "BAE Systems",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/23/Bundesarchiv_Bild_101II-MN-1038-06%2C_Kiel%2C_Schwerer_Kreuzer_%22L%C3%BCtzow%22.jpg",
+  "wiki_url": "https://en.wikipedia.org/wiki/Spearfish_torpedo",
+  "sources_json": [
+    "https://en.wikipedia.org/wiki/Spearfish_torpedo"
+  ],
+  "comparison_tags": [
+    "torpedo",
+    "heavyweight",
+    "high-speed",
+    "anti-submarine",
+    "united-kingdom",
+    "aukus",
+    "undersea"
+  ],
+  "created_at": "2026-05-20 07:47:17",
+  "updated_at": "2026-05-20T07:47:17.413039",
+  "news": [],
+  "events": [],
+  "ic_coverage": [],
+  "combat_history": [
+    {
+      "date": "ongoing",
+      "event": "No combat employment; the Royal Navy's standard submarine heavyweight torpedo, demonstrated in SINKEX.",
+      "significance": "Unproven in war but technically among the fastest torpedoes fielded."
+    }
+  ],
+  "modernization": [
+    {
+      "program": "Spearfish Mod 1 rollout",
+      "status": "completed",
+      "timeline": "2021\u2013",
+      "description": "Fibre-optic guidance and insensitive-munition warhead across the fleet.",
+      "impact": "Higher-bandwidth control and safer handling."
+    }
+  ],
+  "vulnerabilities": [
+    {
+      "area": "Range vs speed",
+      "description": "Very high speed comes at some cost to range and noise.",
+      "context": "Fast runs are louder and shorter than economical settings.",
+      "mitigation": "Variable speed/range profiles."
+    },
+    {
+      "area": "Countermeasures",
+      "description": "Must defeat modern decoys and jammers in terminal homing.",
+      "context": "Quiet peer submarines stress the seeker.",
+      "mitigation": "Mod 1 processing improvements."
+    }
+  ],
+  "operational_patterns": {
+    "typical_deployment": "Anti-submarine and anti-surface engagements from Royal Navy submarines, increasingly deploying to the Indo-Pacific.",
+    "key_operating_areas": [
+      "North Atlantic",
+      "Indian Ocean",
+      "Western Pacific",
+      "South China Sea (AUKUS deployments)"
+    ],
+    "typical_task_group": "Astute/Trafalgar SSNs; Vanguard SSBNs for self-defence.",
+    "readiness_notes": "Mod 1 in service; AUKUS commonality growing."
+  },
+  "peer_comparisons": [
+    {
+      "platform": "Mark 48 ADCAP",
+      "country": "United States",
+      "relationship": "AUKUS counterpart",
+      "key_differences": "The Mk 48 is more widely fielded with broadband CBASS sonar; Spearfish is notably faster.",
+      "video_angle": "AUKUS torpedoes \u2014 Spearfish vs Mk 48."
+    },
+    {
+      "platform": "Type 89 torpedo",
+      "country": "Japan",
+      "relationship": "allied peer",
+      "key_differences": "Comparable heavyweight role in the allied undersea force.",
+      "video_angle": "Allied submarine firepower."
+    },
+    {
+      "platform": "Yu-6",
+      "country": "China",
+      "relationship": "adversary counterpart",
+      "key_differences": "China's heavyweight torpedo, the undersea threat AUKUS boats would face.",
+      "video_angle": "The West's undersea edge vs China."
+    }
+  ],
+  "search_keywords": [
+    "Spearfish",
+    "Spearfish torpedo",
+    "Spearfish Mod 1",
+    "Royal Navy torpedo",
+    "Astute torpedo",
+    "heavyweight torpedo UK",
+    "AUKUS"
+  ],
+  "doctrine": {
+    "role": "Royal Navy submarine-launched heavyweight torpedo emphasising very high speed.",
+    "employment": "Wire/fibre-optic guided with sonar terminal homing; runs down fast submarines and surface ships.",
+    "design_philosophy": "Speed above all \u2014 outrun and overtake high-performance targets.",
+    "threat_context": "Part of allied undersea firepower projecting into the Pacific under AUKUS.",
+    "comparison_frame": "Read against the Mk 48 (US), Type 89 (Japan) and China's Yu-6."
+  },
+  "curated_sources": [
+    {
+      "title": "Spearfish torpedo \u2014 Wikipedia",
+      "type": "reference",
+      "url": "https://en.wikipedia.org/wiki/Spearfish_torpedo",
+      "relevance": "Speed, Mod 1, platforms",
+      "priority": "reference"
+    },
+    {
+      "title": "Royal Navy / UK MoD",
+      "type": "official",
+      "url": "https://www.royalnavy.mod.uk/",
+      "relevance": "Fleet context",
+      "priority": "recommended"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/23/Bundesarchiv_Bild_101II-MN-1038-06%2C_Kiel%2C_Schwerer_Kreuzer_%22L%C3%BCtzow%22.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/23/Bundesarchiv_Bild_101II-MN-1038-06%2C_Kiel%2C_Schwerer_Kreuzer_%22L%C3%BCtzow%22.jpg",
+      "width": 799,
+      "height": 540,
+      "title": "Bundesarchiv Bild 101II-MN-1038-06, Kiel, Schwerer Kreuzer \"L\u00fctzow\".jpg",
+      "description": "Pocket battleship <i>L\u00fctzow</i> with a snapped off stern in Kiel harbor sometime after April the 13th. Damage was caused by a torpedo hit from the submarine HMS <i>Spearfish</i> on April the 11th.",
+      "license": "CC BY-SA 3.0 de",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/HMS_Astute_Arrives_at_Faslane_for_the_First_Time_MOD_45150805.jpg/1280px-HMS_Astute_Arrives_at_Faslane_for_the_First_Time_MOD_45150805.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/07/HMS_Astute_Arrives_at_Faslane_for_the_First_Time_MOD_45150805.jpg",
+      "width": 3000,
+      "height": 2000,
+      "title": "HMS Astute Arrives at Faslane for the First Time MOD 45150805.jpg",
+      "description": "Royal Navy submarine HMS Astute sails up the Clyde estuary into her home port of Faslane, Scotland for the first time following the journey from Barrow-in-Furness shipyard.\n<p>The Astute submarine has",
+      "license": "OGL v1.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/HMS_Astute_Arrives_at_Faslane_for_the_First_Time_MOD_45150807.jpg/1280px-HMS_Astute_Arrives_at_Faslane_for_the_First_Time_MOD_45150807.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/14/HMS_Astute_Arrives_at_Faslane_for_the_First_Time_MOD_45150807.jpg",
+      "width": 3000,
+      "height": 2400,
+      "title": "HMS Astute Arrives at Faslane for the First Time MOD 45150807.jpg",
+      "description": "Royal Navy submarine HMS Astute sails up the Clyde estuary into her home port of Faslane, Scotland for the first time following the journey from Barrow-in-Furness shipyard.\n<p>The Astute submarine has",
+      "license": "OGL v1.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/HMS_Astute_Arrives_at_Faslane_for_the_First_Time_MOD_45150808.jpg/1280px-HMS_Astute_Arrives_at_Faslane_for_the_First_Time_MOD_45150808.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/HMS_Astute_Arrives_at_Faslane_for_the_First_Time_MOD_45150808.jpg",
+      "width": 3968,
+      "height": 2552,
+      "title": "HMS Astute Arrives at Faslane for the First Time MOD 45150808.jpg",
+      "description": "Royal Navy submarine HMS Astute sails up the Clyde estuary into her home port of Faslane, Scotland for the first time following the journey from Barrow-in-Furness shipyard.\n<p>The Astute submarine has",
+      "license": "OGL v1.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/HMS_Astute_Arrives_at_Faslane_for_the_First_Time_MOD_45150809.jpg/1280px-HMS_Astute_Arrives_at_Faslane_for_the_First_Time_MOD_45150809.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/0a/HMS_Astute_Arrives_at_Faslane_for_the_First_Time_MOD_45150809.jpg",
+      "width": 2400,
+      "height": 3000,
+      "title": "HMS Astute Arrives at Faslane for the First Time MOD 45150809.jpg",
+      "description": "Royal Navy submarine HMS Astute sails up the Clyde estuary into her home port of Faslane, Scotland for the first time following the journey from Barrow-in-Furness shipyard.\n<p>The Astute submarine has",
+      "license": "OGL v1.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/HMS_Astute_Arrives_at_Faslane_for_the_First_Time_MOD_45150820.jpg/1280px-HMS_Astute_Arrives_at_Faslane_for_the_First_Time_MOD_45150820.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/0f/HMS_Astute_Arrives_at_Faslane_for_the_First_Time_MOD_45150820.jpg",
+      "width": 2121,
+      "height": 3000,
+      "title": "HMS Astute Arrives at Faslane for the First Time MOD 45150820.jpg",
+      "description": "Royal Navy submarine HMS Astute sails up the Clyde estuary into her home port of Faslane, Scotland for the first time following the journey from Barrow-in-Furness shipyard.\n<p>The Astute submarine has",
+      "license": "OGL v1.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/HMS_Astute_Arrives_at_Faslane_for_the_First_Time_MOD_45150827.jpg/1280px-HMS_Astute_Arrives_at_Faslane_for_the_First_Time_MOD_45150827.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/62/HMS_Astute_Arrives_at_Faslane_for_the_First_Time_MOD_45150827.jpg",
+      "width": 3000,
+      "height": 2400,
+      "title": "HMS Astute Arrives at Faslane for the First Time MOD 45150827.jpg",
+      "description": "Royal Navy submarine HMS Astute sails up the Clyde estuary into her home port of Faslane, Scotland for the first time following the journey from Barrow-in-Furness shipyard.\n<p>The Astute submarine has",
+      "license": "OGL v1.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/HMS_Astute_Arrives_at_Faslane_for_the_First_Time_MOD_45150828.jpg/1280px-HMS_Astute_Arrives_at_Faslane_for_the_First_Time_MOD_45150828.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/10/HMS_Astute_Arrives_at_Faslane_for_the_First_Time_MOD_45150828.jpg",
+      "width": 2400,
+      "height": 3000,
+      "title": "HMS Astute Arrives at Faslane for the First Time MOD 45150828.jpg",
+      "description": "Royal Navy submarine HMS Astute sails up the Clyde estuary into her home port of Faslane, Scotland for the first time following the journey from Barrow-in-Furness shipyard.\n<p>She is flying the Blue G",
+      "license": "OGL v1.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/HMS_Astute_Arrives_at_Faslane_for_the_First_Time_MOD_45150830.jpg/1280px-HMS_Astute_Arrives_at_Faslane_for_the_First_Time_MOD_45150830.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/be/HMS_Astute_Arrives_at_Faslane_for_the_First_Time_MOD_45150830.jpg",
+      "width": 2400,
+      "height": 3000,
+      "title": "HMS Astute Arrives at Faslane for the First Time MOD 45150830.jpg",
+      "description": "Royal Navy submarine HMS Astute sails up the Clyde estuary into her home port of Faslane, Scotland for the first time following the journey from Barrow-in-Furness shipyard.\n<p>She is flying a Blue Gov",
+      "license": "OGL v1.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/24/Astute_class_SSN_silhouette.png",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/24/Astute_class_SSN_silhouette.png",
+      "width": 799,
+      "height": 200,
+      "title": "Astute class SSN silhouette.png",
+      "description": "Astute class SSN silhouette",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Future_of_the_Royal_Navy_2025.png/1280px-Future_of_the_Royal_Navy_2025.png",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/87/Future_of_the_Royal_Navy_2025.png",
+      "width": 4400,
+      "height": 4104,
+      "title": "Future of the Royal Navy 2025.png",
+      "description": "Silhouettes of all planned future ships of the Royal Navy from the end of 2024",
+      "license": "CC BY 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/HMS_Ambush.jpg/1280px-HMS_Ambush.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/HMS_Ambush.jpg",
+      "width": 1979,
+      "height": 2473,
+      "title": "HMS Ambush.jpg",
+      "description": "Astute class submarine HMS Ambush is pictured during sea trials near Scotland. Ambush, second of the nuclear powered attack submarines, was named in Barrow on 16 December 2010 and launched on 5 Januar",
+      "license": "OGL v1.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Royal_Navy_Submarine_HMS_Astute_Fires_a_Tomahawk_Cruise_Missile_%28TLAM%29_During_Testing_Near_the_USA_MOD_45153387.jpg/1280px-Royal_Navy_Submarine_HMS_Astute_Fires_a_Tomahawk_Cruise_Missile_%28TLAM%29_During_Testing_Near_the_USA_MOD_45153387.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Royal_Navy_Submarine_HMS_Astute_Fires_a_Tomahawk_Cruise_Missile_%28TLAM%29_During_Testing_Near_the_USA_MOD_45153387.jpg",
+      "width": 2400,
+      "height": 3000,
+      "title": "Royal Navy Submarine HMS Astute Fires a Tomahawk Cruise Missile (TLAM) During Testing Near the USA MOD 45153387.jpg",
+      "description": "Royal Navy Attack submarine HMS Astute fires a Tomahawk cruise missile during a testing mission near the USA.  \n<p>The Royal Navy\u2019s newest submarine has blasted Tomahawk missiles far across the North ",
+      "license": "OGL v1.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Royal_Navy_Submarine_HMS_Astute_Returns_to_HMNB_Clyde_MOD_45153733.jpg/1280px-Royal_Navy_Submarine_HMS_Astute_Returns_to_HMNB_Clyde_MOD_45153733.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/84/Royal_Navy_Submarine_HMS_Astute_Returns_to_HMNB_Clyde_MOD_45153733.jpg",
+      "width": 2712,
+      "height": 1804,
+      "title": "Royal Navy Submarine HMS Astute Returns to HMNB Clyde MOD 45153733.jpg",
+      "description": "HMS Astute returned home on Thursday, March 1 after a 142 day deployment to America.\n<p>It was also a voyage of discovery.  HMS Astute was tried and tested as never before \u00f1 and she came through with ",
+      "license": "OGL v1.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Royal_Navy_Submarine_HMS_Astute_Returns_to_HMNB_Clyde_MOD_45153734.jpg/1280px-Royal_Navy_Submarine_HMS_Astute_Returns_to_HMNB_Clyde_MOD_45153734.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/91/Royal_Navy_Submarine_HMS_Astute_Returns_to_HMNB_Clyde_MOD_45153734.jpg",
+      "width": 1979,
+      "height": 2473,
+      "title": "Royal Navy Submarine HMS Astute Returns to HMNB Clyde MOD 45153734.jpg",
+      "description": "HMS Astute returned home on Thursday, March 1 after a 142 day deployment to America.\n<p>It was also a voyage of discovery.  HMS Astute was tried and tested as never before \u00f1 and she came through with ",
+      "license": "OGL v1.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Royal_Navy_Submarine_HMS_Astute_Returns_to_HMNB_Clyde_MOD_45153735.jpg/1280px-Royal_Navy_Submarine_HMS_Astute_Returns_to_HMNB_Clyde_MOD_45153735.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Royal_Navy_Submarine_HMS_Astute_Returns_to_HMNB_Clyde_MOD_45153735.jpg",
+      "width": 2473,
+      "height": 1979,
+      "title": "Royal Navy Submarine HMS Astute Returns to HMNB Clyde MOD 45153735.jpg",
+      "description": "HMS Astute returned home on Thursday, March 1 after a 142 day deployment to America.\n<p>It was also a voyage of discovery.  HMS Astute was tried and tested as never before \u00f1 and she came through with ",
+      "license": "OGL v1.0",
+      "source": "wikimedia"
+    }
+  ]
+}

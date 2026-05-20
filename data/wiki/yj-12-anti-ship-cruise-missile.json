@@ -1,0 +1,246 @@
+{
+  "id": 161,
+  "slug": "yj-12-anti-ship-cruise-missile",
+  "name": "YJ-12 supersonic anti-ship cruise missile",
+  "designation": "YJ-12 (CH-SS-NX-13)",
+  "type": "cruise-missile",
+  "country": "China",
+  "operator": "PLA Air Force, PLA Navy, PLA Ground Force (coastal)",
+  "overview_md": "The YJ-12 (\"Eagle Strike 12\") is China's premier supersonic anti-ship cruise missile and one of the most dangerous threats to surface warships in the Western Pacific. Where most cruise missiles fly subsonic, the YJ-12 sprints at Mach 3\u20134, sea-skimming toward its target, compressing the defender's reaction time to seconds and stressing even the best fleet air-defence systems.\n\nIt is fielded in several flavours to maximise launch geometry: the air-launched baseline carried by H-6 bombers (giving a stand-off reach reported up to ~400 km), the YJ-12A for surface ships, and the YJ-12B coastal-defence variant deployed on militarised South China Sea features. This multi-domain basing lets China threaten a carrier strike group from the air, the sea and the shore simultaneously.\n\nFor an analyst, the YJ-12 is the high-speed half of China's anti-ship one-two punch \u2014 paired with ballistic weapons like the DF-21D, it forces defenders to cope with both diving hypersonic ballistic threats and low, fast cruise missiles at once. Its speed is its strength and its limit: terminal velocity gives little warning, but the missile is detectable on launch and vulnerable to layered, networked defences if they can react fast enough.",
+  "specs_json": {
+    "length_m": 7.0,
+    "additional": {
+      "range": "~250\u2013400 km (air-launched); less from ship/coast",
+      "speed": "~Mach 3\u20134 (supersonic, sea-skimming)",
+      "warhead": "~200\u2013500 kg",
+      "guidance": "Inertial + active-radar terminal homing",
+      "launch_platforms": "H-6 bombers, surface ships (YJ-12A), coastal TEL (YJ-12B)",
+      "flight_profile": "High-altitude cruise then low supersonic terminal sprint"
+    }
+  },
+  "armament_json": [],
+  "variants_json": [
+    {
+      "name": "YJ-12 (air-launched)",
+      "years": "2015\u2013",
+      "key_changes": "Baseline carried by H-6 bombers",
+      "status": "active"
+    },
+    {
+      "name": "YJ-12A / YJ-12B",
+      "years": "2016\u2013",
+      "key_changes": "Ship-launched and coastal-defence variants",
+      "status": "active"
+    }
+  ],
+  "fleet_status_json": [],
+  "cost_usd": 0.0,
+  "unit_count": 0,
+  "first_commissioned": "2015",
+  "builder": "China Aerospace Science and Industry Corp. (CASIC)",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f3/PNS_Saif_-_C-802_4-cell_Cannister_Front_View.jpg",
+  "wiki_url": "https://en.wikipedia.org/wiki/YJ-12",
+  "sources_json": [
+    "https://en.wikipedia.org/wiki/YJ-12"
+  ],
+  "comparison_tags": [
+    "missile",
+    "cruise-missile",
+    "anti-ship",
+    "supersonic",
+    "a2ad",
+    "china"
+  ],
+  "created_at": "2026-05-20 07:36:21",
+  "updated_at": "2026-05-20T07:36:21.300117",
+  "news": [],
+  "events": [],
+  "ic_coverage": [],
+  "combat_history": [
+    {
+      "date": "2016",
+      "event": "YJ-12B coastal batteries assessed as deployed to South China Sea features.",
+      "significance": "Extended a supersonic anti-ship threat over contested sea lanes."
+    }
+  ],
+  "modernization": [
+    {
+      "program": "Multi-domain proliferation",
+      "status": "completed",
+      "timeline": "2015\u2013",
+      "description": "Air, ship and coastal variants fielded across PLA services.",
+      "impact": "Saturates a target area with simultaneous supersonic threats."
+    }
+  ],
+  "vulnerabilities": [
+    {
+      "area": "Detectability",
+      "description": "High-altitude cruise and launch are detectable before the terminal sprint.",
+      "context": "Networked air defence with early warning can cue interceptors.",
+      "mitigation": "Sea-skimming terminal phase and saturation salvos."
+    },
+    {
+      "area": "Range trade-off",
+      "description": "Supersonic flight burns energy, limiting range versus subsonic missiles.",
+      "context": "Shorter reach than the subsonic YJ-18/Tomahawk class.",
+      "mitigation": "Air-launch from H-6 extends stand-off range."
+    }
+  ],
+  "operational_patterns": {
+    "typical_deployment": "Saturation anti-ship strikes from bombers, ships and coastal batteries against surface task groups.",
+    "key_operating_areas": [
+      "South China Sea",
+      "East China Sea",
+      "Taiwan Strait",
+      "Western Pacific"
+    ],
+    "typical_task_group": "Air-launched from H-6 under fighter and AEW&C cover; coastal and ship batteries layered.",
+    "readiness_notes": "Widely fielded across PLA services."
+  },
+  "peer_comparisons": [
+    {
+      "platform": "YJ-18",
+      "country": "China",
+      "relationship": "complementary ASCM",
+      "key_differences": "YJ-18 cruises subsonic for range then sprints supersonic in the terminal phase; YJ-12 is supersonic throughout but shorter-ranged.",
+      "video_angle": "China's two anti-ship cruise missiles compared."
+    },
+    {
+      "platform": "P-800 Oniks / 3M22 Zircon",
+      "country": "Russia",
+      "relationship": "design influence/peer",
+      "key_differences": "Russian supersonic/hypersonic ASCMs with similar high-speed terminal philosophy.",
+      "video_angle": "Supersonic anti-ship missiles East vs West."
+    },
+    {
+      "platform": "AGM-158C LRASM",
+      "country": "United States",
+      "relationship": "rival concept",
+      "key_differences": "LRASM is subsonic and stealthy with autonomous targeting \u2014 survivability over speed.",
+      "video_angle": "Speed vs stealth in killing ships."
+    }
+  ],
+  "search_keywords": [
+    "YJ-12",
+    "Eagle Strike 12",
+    "supersonic anti-ship missile",
+    "YJ-12B",
+    "China ASCM",
+    "CH-SS-NX-13"
+  ],
+  "doctrine": {
+    "role": "Supersonic anti-ship cruise missile to overwhelm fleet defences with speed from air, sea and shore.",
+    "employment": "Sea-skimming Mach 3\u20134 terminal sprint, launched in saturation salvos from multiple domains.",
+    "design_philosophy": "Speed to compress the defender's reaction window to seconds.",
+    "threat_context": "The high-speed cruise half of China's anti-ship complex alongside ballistic ASBMs.",
+    "comparison_frame": "Read against the subsonic-but-longer YJ-18 and the stealthy LRASM."
+  },
+  "curated_sources": [
+    {
+      "title": "YJ-12 \u2014 Wikipedia",
+      "type": "reference",
+      "url": "https://en.wikipedia.org/wiki/YJ-12",
+      "relevance": "Variants and performance",
+      "priority": "reference"
+    },
+    {
+      "title": "CSIS Missile Threat \u2014 YJ-12",
+      "type": "research",
+      "url": "https://missilethreat.csis.org/missile/yj-12/",
+      "relevance": "Authoritative profile",
+      "priority": "recommended"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/PNS_Saif_-_C-802_4-cell_Cannister_Front_View.jpg/1280px-PNS_Saif_-_C-802_4-cell_Cannister_Front_View.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/f3/PNS_Saif_-_C-802_4-cell_Cannister_Front_View.jpg",
+      "width": 4000,
+      "height": 2248,
+      "title": "PNS Saif - C-802 4-cell Cannister Front View.jpg",
+      "description": "A front view of a four cell Cannister Launcher for the C-802 (upgraded expore version of the YJ-8) Anti-Ship Missile of the PNS Saif (253), an F-22P Zulfiquar (Sword) class Frigate of the Pakistan Nav",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/PNS_Saif_-_C-802_4-cell_Cannister_Rear_View.jpg/1280px-PNS_Saif_-_C-802_4-cell_Cannister_Rear_View.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/fe/PNS_Saif_-_C-802_4-cell_Cannister_Rear_View.jpg",
+      "width": 4000,
+      "height": 2248,
+      "title": "PNS Saif - C-802 4-cell Cannister Rear View.jpg",
+      "description": "A rear view of a four cell Cannister Launcher for the C-802 (upgraded expore version of the YJ-8) Anti-Ship Missile of the PNS Saif (253), an F-22P Zulfiquar (Sword) class Frigate of the Pakistan Navy",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/PNS_Saif_-_C-802_8-cell_Cannister.jpg/1280px-PNS_Saif_-_C-802_8-cell_Cannister.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/03/PNS_Saif_-_C-802_8-cell_Cannister.jpg",
+      "width": 4000,
+      "height": 2248,
+      "title": "PNS Saif - C-802 8-cell Cannister.jpg",
+      "description": "All eight Cannister Launchers for the C-802 (upgraded expore version of the YJ-8) Anti-Ship Missile of the PNS Saif (253), an F-22P Zulfiquar (Sword) class Frigate of the Pakistan Navy. Photo taken at",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YJ-62_Anti-ship_missiles_20170716.jpg/1280px-YJ-62_Anti-ship_missiles_20170716.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/09/YJ-62_Anti-ship_missiles_20170716.jpg",
+      "width": 2400,
+      "height": 1800,
+      "title": "YJ-62 Anti-ship missiles 20170716.jpg",
+      "description": "\u200b\u9e70\u51fb-62A\u5cb8\u8230\u5bfc\u5f39\u53d1\u5c04\u8f66\uff0c\u62cd\u6444\u4e8e\u4e2d\u56fd\u4eba\u6c11\u9769\u547d\u519b\u4e8b\u535a\u7269\u9986\u3002",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f0/PLANAF_H-6J_20220518_-_1.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/f0/PLANAF_H-6J_20220518_-_1.jpg",
+      "width": 960,
+      "height": 720,
+      "title": "PLANAF H-6J 20220518 - 1.jpg",
+      "description": "\u4ee4\u548c\uff14\u5e74\uff15\u6708\uff11\uff18\u65e5\uff08\u6c34\uff09\u5348\u524d\u3001\u4e2d\u56fd\u8ecd\u7528\u6a5f\uff28\uff0d\uff16\u7206\u6483\u6a5f\uff12\u6a5f\u304c\u6771\u30b7\u30ca\u6d77\u65b9\u9762\u304b\u3089\u98db\u6765\u3057\u3001\u6c96\u7e04\u672c\u5cf6\u3068\u5bae\u53e4\u5cf6\u3068\u306e\u9593\u3092\u901a\u904e\u3057\u3066\u592a\u5e73\u6d0b\u306b\u81f3\u308a\u3001\u592a\u5e73\u6d0b\u4e0a\u3067\u65cb\u56de\u5f8c\u3001\u53cd\u8ee2\u3057\u3001\u518d\u3073\u6c96\u7e04\u672c\u5cf6\u3068\u5bae\u53e4\u5cf6\u3068\u306e\u9593\u3092\u901a\u904e\u3057\u3001\u6771\u30b7\u30ca\u6d77\u306b\u81f3\u3063\u305f\u3053\u3068\u3092\u78ba\u8a8d\u3057\u305f\u3002\n\u3053\u308c\u306b\u5bfe\u3057\u3001\u822a\u7a7a\u81ea\u885b\u968a\u306e\u5357\u897f\u822a\u7a7a\u65b9\u9762\u968a\u306e\u6226\u95d8\u6a5f\u3092\u7dca\u6025\u767a\u9032\u3055\u305b\u308b\u306a\u3069\u3001\u7d99\u7d9a\u7684\u306b\u76e3\u8996\u3092\u884c\u3063\u305f\u3002",
+      "license": "CC BY 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/PLANAF_H-6J_20220623_-_1.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/PLANAF_H-6J_20220623_-_1.jpg",
+      "width": 754,
+      "height": 565,
+      "title": "PLANAF H-6J 20220623 - 1.jpg",
+      "description": "\u4ee4\u548c\uff14\u5e74\uff16\u6708\uff12\uff13\u65e5\uff08\u6728\uff09\u5348\u5f8c\u3001\u4e2d\u56fd\u8ecd\u7528\u6a5f\uff28\uff0d\uff16\u7206\u6483\u6a5f\uff13\u6a5f\u304c\u6771\u30b7\u30ca\u6d77\u65b9\u9762\u304b\u3089\u98db\u6765\u3057\u3001\u6c96\u7e04\u672c\u5cf6\u3068\u5bae\u53e4\u5cf6\u3068\u306e\u9593\u3092\u901a\u904e\u3057\u3066\u592a\u5e73\u6d0b\u306b\u81f3\u308a\u3001\u592a\u5e73\u6d0b\u4e0a\u3067\u65cb\u56de\u5f8c\u3001\u53cd\u8ee2\u3057\u3001\u518d\u3073\u6c96\u7e04\u5cf6\u3068\u5bae\u53e4\u5cf6\u3068\u306e\u9593\u3092\u901a\u904e\u3057\u3001\u6771\u30b7\u30ca\u6d77\u306b\u81f3\u3063\u305f\u3053\u3068\u3092\u78ba\u8a8d\u3057\u305f\u3002\n\u3053\u308c\u306b\u5bfe\u3057\u3001\u822a\u7a7a\u81ea\u885b\u968a\u306e\u5357\u897f\u822a\u7a7a\u65b9\u9762\u968a\u306e\u6226\u95d8\u6a5f\u3092\u7dca\u6025\u767a\u9032\u3055\u305b\u308b\u306a\u3069\u3001\u7d99\u7d9a\u7684\u306b\u76e3\u8996\u3092\u884c\u3063\u305f\u3002",
+      "license": "CC BY 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/PLANAF_H-6J_20220623_-_2.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/PLANAF_H-6J_20220623_-_2.jpg",
+      "width": 757,
+      "height": 567,
+      "title": "PLANAF H-6J 20220623 - 2.jpg",
+      "description": "\u4ee4\u548c\uff14\u5e74\uff16\u6708\uff12\uff13\u65e5\uff08\u6728\uff09\u5348\u5f8c\u3001\u4e2d\u56fd\u8ecd\u7528\u6a5f\uff28\uff0d\uff16\u7206\u6483\u6a5f\uff13\u6a5f\u304c\u6771\u30b7\u30ca\u6d77\u65b9\u9762\u304b\u3089\u98db\u6765\u3057\u3001\u6c96\u7e04\u672c\u5cf6\u3068\u5bae\u53e4\u5cf6\u3068\u306e\u9593\u3092\u901a\u904e\u3057\u3066\u592a\u5e73\u6d0b\u306b\u81f3\u308a\u3001\u592a\u5e73\u6d0b\u4e0a\u3067\u65cb\u56de\u5f8c\u3001\u53cd\u8ee2\u3057\u3001\u518d\u3073\u6c96\u7e04\u5cf6\u3068\u5bae\u53e4\u5cf6\u3068\u306e\u9593\u3092\u901a\u904e\u3057\u3001\u6771\u30b7\u30ca\u6d77\u306b\u81f3\u3063\u305f\u3053\u3068\u3092\u78ba\u8a8d\u3057\u305f\u3002\n\u3053\u308c\u306b\u5bfe\u3057\u3001\u822a\u7a7a\u81ea\u885b\u968a\u306e\u5357\u897f\u822a\u7a7a\u65b9\u9762\u968a\u306e\u6226\u95d8\u6a5f\u3092\u7dca\u6025\u767a\u9032\u3055\u305b\u308b\u306a\u3069\u3001\u7d99\u7d9a\u7684\u306b\u76e3\u8996\u3092\u884c\u3063\u305f\u3002",
+      "license": "CC BY 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/%E4%B8%AD%E5%9B%BD%E5%9B%BD%E9%9A%9B%E8%88%AA%E7%A9%BA%E5%AE%87%E5%AE%99%E5%8D%9A%E8%A6%A7%E4%BC%9AYJ-12E.png/1280px-%E4%B8%AD%E5%9B%BD%E5%9B%BD%E9%9A%9B%E8%88%AA%E7%A9%BA%E5%AE%87%E5%AE%99%E5%8D%9A%E8%A6%A7%E4%BC%9AYJ-12E.png",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/79/%E4%B8%AD%E5%9B%BD%E5%9B%BD%E9%9A%9B%E8%88%AA%E7%A9%BA%E5%AE%87%E5%AE%99%E5%8D%9A%E8%A6%A7%E4%BC%9AYJ-12E.png",
+      "width": 1360,
+      "height": 768,
+      "title": "\u4e2d\u56fd\u56fd\u969b\u822a\u7a7a\u5b87\u5b99\u535a\u89a7\u4f1aYJ-12E.png",
+      "description": "\u5c55\u793a\u4e2d\u306eYJ-12E",
+      "license": "CC BY 3.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/%E4%BE%B5%E7%8A%AF%E4%B8%AD%E8%8F%AF%E6%B0%91%E5%9C%8B%E8%88%AA%E7%A9%BA%E8%AD%98%E5%88%A5%E5%8D%80%E7%9A%84%E8%BD%9F-6.jpg/1280px-%E4%BE%B5%E7%8A%AF%E4%B8%AD%E8%8F%AF%E6%B0%91%E5%9C%8B%E8%88%AA%E7%A9%BA%E8%AD%98%E5%88%A5%E5%8D%80%E7%9A%84%E8%BD%9F-6.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/44/%E4%BE%B5%E7%8A%AF%E4%B8%AD%E8%8F%AF%E6%B0%91%E5%9C%8B%E8%88%AA%E7%A9%BA%E8%AD%98%E5%88%A5%E5%8D%80%E7%9A%84%E8%BD%9F-6.jpg",
+      "width": 2272,
+      "height": 1704,
+      "title": "\u4fb5\u72af\u4e2d\u83ef\u6c11\u570b\u822a\u7a7a\u8b58\u5225\u5340\u7684\u8f5f-6.jpg",
+      "description": "\u200b\u4fb5\u72af\u4e2d\u83ef\u6c11\u570b\u822a\u7a7a\u8b58\u5225\u5340\u7684\u8f5f-6",
+      "license": "Attribution",
+      "source": "wikimedia"
+    }
+  ]
+}

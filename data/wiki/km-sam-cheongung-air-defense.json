@@ -1,0 +1,263 @@
+{
+  "id": 171,
+  "slug": "km-sam-cheongung-air-defense",
+  "name": "KM-SAM Cheongung air-defense system",
+  "designation": "KM-SAM (Cheongung / Cheongung-II)",
+  "type": "air-defense",
+  "country": "South Korea",
+  "operator": "Republic of Korea Air Force; UAE, Saudi Arabia, Iraq (export)",
+  "overview_md": "The KM-SAM Cheongung (\"Iron Hawk\") is South Korea's indigenous medium-range surface-to-air missile system and a rising star of the global air-defence export market. Developed by LIG Nex1 and the Agency for Defense Development with technical heritage from Russia's Almaz-Antey, it began as an air-defence system and evolved into the Cheongung-II (M-SAM Block II), which adds a hit-to-kill ballistic-missile-defence capability.\n\nCheongung-II forms the mid-tier of South Korea's Korea Air and Missile Defense (KAMD) architecture, sitting beneath Patriot and the in-development long-range L-SAM and defending against both aircraft and the short-range ballistic missiles that North Korea fields in large numbers. It uses a vertically-launched, cold-launched interceptor with an active-radar seeker and an AESA multifunction radar, engaging targets to around 40 km in range and 20 km in altitude.\n\nFor an analyst, the Cheongung is a case study in how a U.S. ally has become a serious defence exporter: multibillion-dollar deals with the UAE, Saudi Arabia and Iraq have made it one of South Korea's flagship arms exports. In the Indo-Pacific, it gives Seoul a sovereign, mass-producible interceptor against the North Korean missile threat \u2014 reducing dependence on imported systems and reflecting the broader regional drive toward indigenous missile defence.",
+  "specs_json": {
+    "additional": {
+      "range": "~40 km",
+      "engagement_altitude": "~20 km (BMD intercept ~15\u201320 km)",
+      "kill_mechanism": "Cheongung-II: hit-to-kill for ballistic targets",
+      "guidance": "Inertial + datalink; active-radar terminal seeker",
+      "radar": "AESA multifunction radar (360\u00b0)",
+      "launch_platform": "Vertical cold-launch TEL (8 per launcher)"
+    }
+  },
+  "armament_json": [
+    {
+      "category": "Interceptor",
+      "name": "Cheongung-II interceptor",
+      "type": "hit-to-kill medium-range SAM",
+      "range_km": 40,
+      "notes": "Aircraft and short-range ballistic-missile defence"
+    }
+  ],
+  "variants_json": [
+    {
+      "name": "Cheongung (KM-SAM Block I)",
+      "years": "2017\u2013",
+      "key_changes": "Medium-range air-defence SAM",
+      "status": "active"
+    },
+    {
+      "name": "Cheongung-II (M-SAM Block II)",
+      "years": "2020\u2013",
+      "key_changes": "Added hit-to-kill ballistic-missile defence",
+      "status": "active"
+    }
+  ],
+  "fleet_status_json": [],
+  "cost_usd": 0.0,
+  "unit_count": 0,
+  "first_commissioned": "2017",
+  "builder": "LIG Nex1 / Agency for Defense Development (with Almaz-Antey heritage)",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/6a/A_scale_model_of_the_KM-SAM_Block_2_missile.jpg",
+  "wiki_url": "https://en.wikipedia.org/wiki/Cheongung",
+  "sources_json": [
+    "https://en.wikipedia.org/wiki/Cheongung"
+  ],
+  "comparison_tags": [
+    "air-defense",
+    "sam",
+    "bmd",
+    "hit-to-kill",
+    "south-korea",
+    "export"
+  ],
+  "created_at": "2026-05-20 07:40:40",
+  "updated_at": "2026-05-20T07:40:40.364760",
+  "news": [],
+  "events": [],
+  "ic_coverage": [],
+  "combat_history": [
+    {
+      "date": "2022",
+      "event": "Major export contracts signed with the UAE and later Saudi Arabia and Iraq.",
+      "significance": "Established Cheongung as a flagship South Korean defence export."
+    }
+  ],
+  "modernization": [
+    {
+      "program": "Cheongung-III / L-SAM layering",
+      "status": "in-progress",
+      "timeline": "2020s",
+      "description": "Higher-performance interceptors and integration with the long-range L-SAM upper tier.",
+      "impact": "Deepens Korea's indigenous layered missile defence."
+    }
+  ],
+  "vulnerabilities": [
+    {
+      "area": "Medium-tier reach",
+      "description": "Limited range/altitude versus high-tier systems.",
+      "context": "Needs L-SAM and Patriot above it for full coverage.",
+      "mitigation": "KAMD layering."
+    },
+    {
+      "area": "Saturation",
+      "description": "Vulnerable to mass short-range ballistic-missile salvos.",
+      "context": "North Korea fields very large numbers of SRBMs.",
+      "mitigation": "Mass production and layering."
+    }
+  ],
+  "operational_patterns": {
+    "typical_deployment": "Mid-tier defence of South Korean airspace and forces against aircraft and short-range ballistic missiles.",
+    "key_operating_areas": [
+      "Korean Peninsula",
+      "Yellow Sea",
+      "Sea of Japan"
+    ],
+    "typical_task_group": "Layered within KAMD beneath Patriot and L-SAM.",
+    "readiness_notes": "Fielded and exported; production scaling."
+  },
+  "peer_comparisons": [
+    {
+      "platform": "MIM-104 Patriot (PAC-3)",
+      "country": "United States",
+      "relationship": "complementary/competing tier",
+      "key_differences": "Patriot is the imported higher-capability layer; Cheongung is the indigenous mid-tier reducing import dependence.",
+      "video_angle": "Korea's home-grown answer to Patriot."
+    },
+    {
+      "platform": "HQ-16",
+      "country": "China",
+      "relationship": "regional peer",
+      "key_differences": "Comparable medium-range SAM in China's layered IADS.",
+      "video_angle": "East Asia's medium-range SAMs."
+    },
+    {
+      "platform": "Aster 30 / SAMP-T",
+      "country": "France/Italy",
+      "relationship": "Western analogue",
+      "key_differences": "A European medium-to-long-range SAM with similar BMD ambitions.",
+      "video_angle": "The global medium-range air-defence market."
+    }
+  ],
+  "search_keywords": [
+    "KM-SAM",
+    "Cheongung",
+    "Cheongung-II",
+    "M-SAM",
+    "South Korea air defense",
+    "Iron Hawk",
+    "Korea missile defense"
+  ],
+  "doctrine": {
+    "role": "Indigenous medium-range air- and missile-defence system; the mid-tier of Korea's KAMD.",
+    "employment": "Hit-to-kill interception of aircraft and short-range ballistic missiles under Patriot and L-SAM.",
+    "design_philosophy": "Sovereign, mass-producible interception against a missile-heavy adversary.",
+    "threat_context": "Defends South Korea against the large North Korean SRBM force and anchors a growing export business.",
+    "comparison_frame": "Read with Patriot (above) and against China's HQ-16 and Europe's Aster 30."
+  },
+  "curated_sources": [
+    {
+      "title": "Cheongung \u2014 Wikipedia",
+      "type": "reference",
+      "url": "https://en.wikipedia.org/wiki/Cheongung",
+      "relevance": "Variants and exports",
+      "priority": "reference"
+    },
+    {
+      "title": "Korea MND / DAPA releases",
+      "type": "official",
+      "url": "https://www.dapa.go.kr/",
+      "relevance": "Program and export context",
+      "priority": "recommended"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/A_scale_model_of_the_KM-SAM_Block_2_missile.jpg/1280px-A_scale_model_of_the_KM-SAM_Block_2_missile.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/6a/A_scale_model_of_the_KM-SAM_Block_2_missile.jpg",
+      "width": 1458,
+      "height": 2160,
+      "title": "A scale model of the KM-SAM Block 2 missile.jpg",
+      "description": "A scale model of the KM-SAM Block 2 missile",
+      "license": "CC BY 3.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Anas_carolinensis_m_Sam_Smith_Toronto.jpg/1280px-Anas_carolinensis_m_Sam_Smith_Toronto.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Anas_carolinensis_m_Sam_Smith_Toronto.jpg",
+      "width": 2997,
+      "height": 2668,
+      "title": "Anas carolinensis m Sam Smith Toronto.jpg",
+      "description": "\u0427\u0438\u0440\u044f\u043d\u043a\u0430 \u0430\u043c\u0435\u0440\u0438\u043a\u0430\u043d\u0441\u044c\u043a\u0430 (Anas carolinensis) \u0443 \u043f\u0430\u0440\u043a\u0443 \u043f\u043e\u043b\u043a\u043e\u0432\u043d\u0438\u043a\u0430 \u0421\u0435\u043c\u044e\u0435\u043b\u0430 \u0421\u043c\u0456\u0442\u0430 \u0432 \u0422\u043e\u0440\u043e\u043d\u0442\u043e",
+      "license": "CC BY-SA 3.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Dendroica_striata_m_Sam_Smith_Park2.jpg/1280px-Dendroica_striata_m_Sam_Smith_Park2.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/98/Dendroica_striata_m_Sam_Smith_Park2.jpg",
+      "width": 1552,
+      "height": 1547,
+      "title": "Dendroica striata m Sam Smith Park2.jpg",
+      "description": "\u0421\u0430\u043c\u0435\u0446\u044c \u043f\u0456\u0441\u043d\u044f\u0440\u0430-\u043b\u0456\u0441\u043e\u0432\u0438\u043a\u0430 \u0431\u0456\u043b\u043e\u0449\u043e\u043a\u043e\u0433\u043e (Dendroica striata) \u0432 \u043f\u0430\u0440\u043a\u0443 \u043f\u043e\u043b\u043a\u043e\u0432\u043d\u0438\u043a\u0430 \u0421\u0435\u043c\u044e\u0435\u043b\u0430 \u0421\u043c\u0456\u0442\u0430 \u0432 \u0422\u043e\u0440\u043e\u043d\u0442\u043e",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/KM-SAM_Operators_2025.png/1280px-KM-SAM_Operators_2025.png",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/43/KM-SAM_Operators_2025.png",
+      "width": 2754,
+      "height": 1398,
+      "title": "KM-SAM Operators 2025.png",
+      "description": "KM-SAM (Korean Medium-range Surface-to-Air Missile) Operators and Future Operators",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Lophodytes_cucullatus_m_Sam_Smith_Park.jpg/1280px-Lophodytes_cucullatus_m_Sam_Smith_Park.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Lophodytes_cucullatus_m_Sam_Smith_Park.jpg",
+      "width": 1527,
+      "height": 1355,
+      "title": "Lophodytes cucullatus m Sam Smith Park.jpg",
+      "description": "Male Hooded merganser (Lophodytes cucullatus) in Colonel Samuel Smith Park",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/M-SAM_Block-2_battery.jpg/1280px-M-SAM_Block-2_battery.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/d1/M-SAM_Block-2_battery.jpg",
+      "width": 1362,
+      "height": 910,
+      "title": "M-SAM Block-2 battery.jpg",
+      "description": "M-SAM's multifunction radar, vertical launcher, and control center vehicles.",
+      "license": "KOGL Type 1",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Polioptila_caerulea_m_Sam_Smith_Park.jpg/1280px-Polioptila_caerulea_m_Sam_Smith_Park.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Polioptila_caerulea_m_Sam_Smith_Park.jpg",
+      "width": 1641,
+      "height": 2153,
+      "title": "Polioptila caerulea m Sam Smith Park.jpg",
+      "description": "\u0421\u0430\u043c\u0435\u0446\u044c \u043a\u043e\u043c\u0430\u0440\u043e\u043b\u043e\u0432\u043a\u0438 \u0441\u0438\u0437\u043e\u0457 (Polioptila caerulea) \u0432 \u043f\u0430\u0440\u043a\u0443 \u041f\u043e\u043b\u043a\u043e\u0432\u043d\u0438\u043a\u0430 \u0421\u0435\u043c\u044e\u0435\u043b\u0430 \u0421\u043c\u0456\u0442\u0430 \u0432 \u0422\u043e\u0440\u043e\u043d\u0442\u043e",
+      "license": "CC BY-SA 3.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Setophaga_tigrina_m_Sam_Smith_Park.jpg/1280px-Setophaga_tigrina_m_Sam_Smith_Park.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/56/Setophaga_tigrina_m_Sam_Smith_Park.jpg",
+      "width": 2003,
+      "height": 1546,
+      "title": "Setophaga tigrina m Sam Smith Park.jpg",
+      "description": "Male Cape May Warbler (Setophaga tigrina) in the Colonel Samuel Smith Park, Toronto",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Spinus_tristis_m_Sam_Smith_Park1.jpg/1280px-Spinus_tristis_m_Sam_Smith_Park1.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Spinus_tristis_m_Sam_Smith_Park1.jpg",
+      "width": 1395,
+      "height": 1373,
+      "title": "Spinus tristis m Sam Smith Park1.jpg",
+      "description": "Male American goldfinch (Spinus tristis) in Colonel Samuel Smith Park, Toronto",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Spinus_tristis_m_Sam_Smith_Park3.jpg/1280px-Spinus_tristis_m_Sam_Smith_Park3.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Spinus_tristis_m_Sam_Smith_Park3.jpg",
+      "width": 2705,
+      "height": 2805,
+      "title": "Spinus tristis m Sam Smith Park3.jpg",
+      "description": "Male American goldfinch (Spinus tristis) in Colonel Samuel Smith Park, Toronto",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    }
+  ]
+}

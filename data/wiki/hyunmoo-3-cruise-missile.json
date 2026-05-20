@@ -1,0 +1,294 @@
+{
+  "id": 167,
+  "slug": "hyunmoo-3-cruise-missile",
+  "name": "Hyunmoo-3 land-attack cruise missile",
+  "designation": "Hyunmoo-3 (A/B/C/D)",
+  "type": "cruise-missile",
+  "country": "South Korea",
+  "operator": "Republic of Korea Armed Forces",
+  "overview_md": "The Hyunmoo-3 is South Korea's long-range land-attack cruise missile \u2014 the Tomahawk-class backbone of Seoul's deep-strike capability against North Korea. Named for a mythical guardian, it is a subsonic, terrain-following missile fielded in progressively longer-ranged variants (Hyunmoo-3A/B/C/D) with reach reportedly extending from around 500 km up to 1,500 km, covering the entire North Korean landmass from launchers in the South.\n\nIt forms the cruise-missile element of South Korea's three-pillar deterrent: the \"Kill Chain\" pre-emptive strike system, Korea Air and Missile Defense, and the Korea Massive Punishment and Retaliation concept. Guided by inertial navigation with GPS and terrain-contour matching, the Hyunmoo-3 is designed to strike hardened command bunkers, missile sites and leadership targets with precision.\n\nFor an analyst, the Hyunmoo family illustrates how a U.S. ally has built a sophisticated indigenous strike arsenal under the shadow of a nuclear-armed neighbour. The cruise-missile Hyunmoo-3 is now complemented by the very large Hyunmoo-5 ballistic \"bunker-buster,\" giving South Korea one of the most capable conventional strike forces in Asia \u2014 a hedge that shapes deterrence on the peninsula and signals growing regional missile competition.",
+  "specs_json": {
+    "length_m": 6.0,
+    "additional": {
+      "range": "~500 km (3A) to ~1,500 km (3D, reported)",
+      "speed": "Subsonic, terrain-following",
+      "warhead": "~500 kg conventional",
+      "guidance": "Inertial + GPS + terrain-contour matching",
+      "launch_platforms": "Ground TEL; ship- and submarine-launched variants",
+      "flight_profile": "Low-altitude terrain-following"
+    }
+  },
+  "armament_json": [],
+  "variants_json": [
+    {
+      "name": "Hyunmoo-3A/B/C",
+      "years": "2008\u2013",
+      "key_changes": "Progressive range growth (~500 to ~1,500 km)",
+      "status": "active"
+    },
+    {
+      "name": "Hyunmoo-3D / submarine-launched",
+      "years": "2020s",
+      "key_changes": "Extended range and SLCM development",
+      "status": "building"
+    }
+  ],
+  "fleet_status_json": [],
+  "cost_usd": 0.0,
+  "unit_count": 0,
+  "first_commissioned": "2008",
+  "builder": "LIG Nex1 / Agency for Defense Development (ADD)",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Hyunmoo-3_missile_carrier.jpg",
+  "wiki_url": "https://en.wikipedia.org/wiki/Hyunmoo-3",
+  "sources_json": [
+    "https://en.wikipedia.org/wiki/Hyunmoo-3"
+  ],
+  "comparison_tags": [
+    "missile",
+    "cruise-missile",
+    "land-attack",
+    "deep-strike",
+    "south-korea"
+  ],
+  "created_at": "2026-05-20 07:39:08",
+  "updated_at": "2026-05-20T07:39:08.812388",
+  "news": [],
+  "events": [],
+  "ic_coverage": [],
+  "combat_history": [
+    {
+      "date": "ongoing",
+      "event": "No combat use; central to South Korea's 'Kill Chain' and KMPR deterrent concepts.",
+      "significance": "Capability assessed from policy and testing."
+    }
+  ],
+  "modernization": [
+    {
+      "program": "Range extension & sea-basing",
+      "status": "in-progress",
+      "timeline": "2020s",
+      "description": "Longer-range and submarine-launched variants alongside the new Hyunmoo-5 ballistic missile.",
+      "impact": "Deepens South Korea's conventional deep-strike options."
+    }
+  ],
+  "vulnerabilities": [
+    {
+      "area": "Subsonic speed",
+      "description": "Vulnerable to layered air defence.",
+      "context": "Effectiveness depends on saturation and routing.",
+      "mitigation": "Terrain masking and salvo tactics."
+    },
+    {
+      "area": "Hardened-target limits",
+      "description": "Cruise-missile warheads have limited penetration against deep bunkers.",
+      "context": "Drove the heavy Hyunmoo-5 ballistic program.",
+      "mitigation": "Pairing with ballistic bunker-busters."
+    }
+  ],
+  "operational_patterns": {
+    "typical_deployment": "Precision strikes on North Korean command, missile and leadership targets across the peninsula.",
+    "key_operating_areas": [
+      "Korean Peninsula",
+      "Sea of Japan",
+      "Yellow Sea"
+    ],
+    "typical_task_group": "ROK strike units within the Kill Chain / KMPR framework.",
+    "readiness_notes": "Mature and fielded; range-extended variants in development."
+  },
+  "peer_comparisons": [
+    {
+      "platform": "Tomahawk cruise missile",
+      "country": "United States",
+      "relationship": "class peer",
+      "key_differences": "Hyunmoo-3 is South Korea's indigenous Tomahawk-class land-attack missile.",
+      "video_angle": "Korea's home-grown Tomahawk."
+    },
+    {
+      "platform": "CJ-10",
+      "country": "China",
+      "relationship": "regional peer",
+      "key_differences": "Comparable subsonic land-attack cruise missile in China's arsenal.",
+      "video_angle": "East Asia's cruise-missile arsenals compared."
+    },
+    {
+      "platform": "Hwasong / KN-series",
+      "country": "North Korea",
+      "relationship": "adversary context",
+      "key_differences": "The North Korean missile threat the Hyunmoo force is built to deter and pre-empt.",
+      "video_angle": "The missile race on the Korean Peninsula."
+    }
+  ],
+  "search_keywords": [
+    "Hyunmoo-3",
+    "Hyunmoo cruise missile",
+    "South Korea cruise missile",
+    "Kill Chain",
+    "KMPR",
+    "Hyunmoo-5"
+  ],
+  "doctrine": {
+    "role": "Long-range land-attack cruise missile for precision deep strike against North Korean targets.",
+    "employment": "Terrain-following precision strikes on command, missile and leadership sites within Kill Chain/KMPR.",
+    "design_philosophy": "Indigenous Tomahawk-class reach to cover the entire peninsula.",
+    "threat_context": "Core of South Korea's conventional deterrent against a nuclear-armed North.",
+    "comparison_frame": "Read against the Tomahawk, China's CJ-10 and North Korea's ballistic missiles."
+  },
+  "curated_sources": [
+    {
+      "title": "Hyunmoo-3 \u2014 Wikipedia",
+      "type": "reference",
+      "url": "https://en.wikipedia.org/wiki/Hyunmoo-3",
+      "relevance": "Variants and range",
+      "priority": "reference"
+    },
+    {
+      "title": "CSIS Missile Threat \u2014 South Korea",
+      "type": "research",
+      "url": "https://missilethreat.csis.org/country/south-korea/",
+      "relevance": "Arsenal overview",
+      "priority": "recommended"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/2013.10.1_%EA%B1%B4%EA%B5%B0_%EC%A0%9C65%EC%A3%BC%EB%85%84_%EA%B5%AD%EA%B5%B0%EC%9D%98_%EB%82%A0_%ED%96%89%EC%82%AC_The_celebration_ceremony_for_the_65th_Anniversary_of_ROK_Armed_Forces_%2810078377893%29.jpg/1280px-2013.10.1_%EA%B1%B4%EA%B5%B0_%EC%A0%9C65%EC%A3%BC%EB%85%84_%EA%B5%AD%EA%B5%B0%EC%9D%98_%EB%82%A0_%ED%96%89%EC%82%AC_The_celebration_ceremony_for_the_65th_Anniversary_of_ROK_Armed_Forces_%2810078377893%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/2013.10.1_%EA%B1%B4%EA%B5%B0_%EC%A0%9C65%EC%A3%BC%EB%85%84_%EA%B5%AD%EA%B5%B0%EC%9D%98_%EB%82%A0_%ED%96%89%EC%82%AC_The_celebration_ceremony_for_the_65th_Anniversary_of_ROK_Armed_Forces_%2810078377893%29.jpg",
+      "width": 2953,
+      "height": 1425,
+      "title": "2013.10.1 \uac74\uad70 \uc81c65\uc8fc\ub144 \uad6d\uad70\uc758 \ub0a0 \ud589\uc0ac The celebration ceremony for the 65th Anniversary of ROK Armed Forces (10078377893).jpg",
+      "description": "\ucd2c\uc601 - \ubc15\ud765\ubc30 \uae30\uc790",
+      "license": "CC BY-SA 2.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Hyunmoo-3_missile_carrier.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Hyunmoo-3_missile_carrier.jpg",
+      "width": 870,
+      "height": 579,
+      "title": "Hyunmoo-3 missile carrier.jpg",
+      "description": "Hyunmoo-3 cruise missile on display during south korea's 65th military anniversary parade",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/ROK-US_Alliance_Demonstrates_Precision_Firing_Capability_02.jpg/1280px-ROK-US_Alliance_Demonstrates_Precision_Firing_Capability_02.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/82/ROK-US_Alliance_Demonstrates_Precision_Firing_Capability_02.jpg",
+      "width": 4288,
+      "height": 2848,
+      "title": "ROK-US Alliance Demonstrates Precision Firing Capability 02.jpg",
+      "description": "An M270 Multiple Launch Rocket System from A Battery, 6th Battalion, 37th Field Artillery\n<p>Regiment, 210th Field Artillery Brigade, 2nd Republic of Korea/United States Combined\nDivision, fires an MG",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/%EC%A0%9C65%EC%A3%BC%EB%85%84_%EA%B5%AD%EA%B5%B0%EC%9D%98%EB%82%A0_%ED%96%89%EC%82%AC_The_celebration_ceremony_for_the_65th_Anniversary_of_ROK_Armed_Forces.jpg/1280px-%EC%A0%9C65%EC%A3%BC%EB%85%84_%EA%B5%AD%EA%B5%B0%EC%9D%98%EB%82%A0_%ED%96%89%EC%82%AC_The_celebration_ceremony_for_the_65th_Anniversary_of_ROK_Armed_Forces.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/%EC%A0%9C65%EC%A3%BC%EB%85%84_%EA%B5%AD%EA%B5%B0%EC%9D%98%EB%82%A0_%ED%96%89%EC%82%AC_The_celebration_ceremony_for_the_65th_Anniversary_of_ROK_Armed_Forces.jpg",
+      "width": 2953,
+      "height": 1607,
+      "title": "\uc81c65\uc8fc\ub144 \uad6d\uad70\uc758\ub0a0 \ud589\uc0ac The celebration ceremony for the 65th Anniversary of ROK Armed Forces.jpg",
+      "description": "The celebration ceremony for the 65th Anniversary of ROK Armed Forces",
+      "license": "CC BY-SA 2.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/%ED%99%94%EB%A0%A5_%EC%9C%A0%EB%8F%84%ED%83%84-%ED%98%84%EB%AC%B4_%287445968002%29.jpg/1280px-%ED%99%94%EB%A0%A5_%EC%9C%A0%EB%8F%84%ED%83%84-%ED%98%84%EB%AC%B4_%287445968002%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/30/%ED%99%94%EB%A0%A5_%EC%9C%A0%EB%8F%84%ED%83%84-%ED%98%84%EB%AC%B4_%287445968002%29.jpg",
+      "width": 2953,
+      "height": 3481,
+      "title": "\ud654\ub825 \uc720\ub3c4\ud0c4-\ud604\ubb34 (7445968002).jpg",
+      "description": "<p>2010 \uad6d\ubc29\ud654\ubcf4 Rep. of Korea, Defense Photo Magazine\n</p><p>\uc21c\ud56d \ubbf8\uc0ac\uc77c \ud604\ubb34\n</p>\nCruise missile Hyunmu",
+      "license": "CC BY-SA 2.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/KALCM_demonstrative_prototype.png/1280px-KALCM_demonstrative_prototype.png",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/6a/KALCM_demonstrative_prototype.png",
+      "width": 3192,
+      "height": 1701,
+      "title": "KALCM demonstrative prototype.png",
+      "description": "KALCM Cheonryong demonstrative prototype developed by Agency for Defense Development (ADD)",
+      "license": "KOGL Type 1",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/31/Operational_concept_of_Cheonryong_air-launched_cruise_missile.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/31/Operational_concept_of_Cheonryong_air-launched_cruise_missile.jpg",
+      "width": 925,
+      "height": 558,
+      "title": "Operational concept of Cheonryong air-launched cruise missile.jpg",
+      "description": "The concept of operations of the Korean air-launched cruise missile (KALCM)",
+      "license": "KOGL Type 1",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Operational_concept_of_Cheonryong_air-launched_cruise_missile_%28Animated%29.png",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Operational_concept_of_Cheonryong_air-launched_cruise_missile_%28Animated%29.png",
+      "width": 925,
+      "height": 558,
+      "title": "Operational concept of Cheonryong air-launched cruise missile (Animated).png",
+      "description": "Operational concept of Cheonryong air-launched cruise missile",
+      "license": "KOGL Type 1",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Operational_concept_of_Cheonryong_air-launched_cruise_missile_%28crop_animated%29.png",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Operational_concept_of_Cheonryong_air-launched_cruise_missile_%28crop_animated%29.png",
+      "width": 915,
+      "height": 355,
+      "title": "Operational concept of Cheonryong air-launched cruise missile (crop animated).png",
+      "description": "Operational concept of Cheonryong air-launched cruise missile",
+      "license": "KOGL Type 1",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/ROKN_destroyer_Dae_Jo_Yeong_%28DDG-977%29.jpg/1280px-ROKN_destroyer_Dae_Jo_Yeong_%28DDG-977%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/6c/ROKN_destroyer_Dae_Jo_Yeong_%28DDG-977%29.jpg",
+      "width": 2100,
+      "height": 1355,
+      "title": "ROKN destroyer Dae Jo Yeong (DDG-977).jpg",
+      "description": "PACIFIC OCEAN (Jan. 13, 2010) The Republic of Korea Navy destroyer <i>Dae Jo Yeong</i> (DDH-977) cruises alongside US Navy guided-missile cruiser USS <i>Lake Erie</i> (CG-70) . <i>Lake Erie</i> and <i",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/ROKS_Sejong_the_Great_%28DDG-991%29%2C_broadside_view_in_July_2010.jpg/1280px-ROKS_Sejong_the_Great_%28DDG-991%29%2C_broadside_view_in_July_2010.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/1b/ROKS_Sejong_the_Great_%28DDG-991%29%2C_broadside_view_in_July_2010.jpg",
+      "width": 1933,
+      "height": 845,
+      "title": "ROKS Sejong the Great (DDG-991), broadside view in July 2010.jpg",
+      "description": "PEARL HARBOR (July 7, 2010) The Republic of Korea guided-missile destroyer ROKS Sejong the Great (DDG 991) and the submarine ROKS Lee Eokgi (SS 071) cruise in formation off the coast of Hawaii during ",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/01/USS_Missouri_%285888293523%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/01/USS_Missouri_%285888293523%29.jpg",
+      "width": 1063,
+      "height": 1600,
+      "title": "USS Missouri (5888293523).jpg",
+      "description": "<p>A look at the cannons of the Missouri, which could conduct shore bombardments from 20 miles out in the sea.\n</p><p>The Missouri was one of many US Navy battleships, all of which had been named afte",
+      "license": "CC BY-SA 2.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/US_Navy_040714-N-0841E-097_The_guided_missile_destroyer_USS_Howard_%28DDG_83%29_cruises_off_the_port_side%2C_while_the_crew_aboard_the_USS_John_C._Stennis_%28CVN_74%29_assembles_on_the_flight_for_an_%22All_Hands%22_call_by_Commander_Pacific_Fleet.jpg/1280px-thumbnail.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/35/US_Navy_040714-N-0841E-097_The_guided_missile_destroyer_USS_Howard_%28DDG_83%29_cruises_off_the_port_side%2C_while_the_crew_aboard_the_USS_John_C._Stennis_%28CVN_74%29_assembles_on_the_flight_for_an_%22All_Hands%22_call_by_Commander_Pacific_Fleet.jpg",
+      "width": 2762,
+      "height": 1800,
+      "title": "US Navy 040714-N-0841E-097 The guided missile destroyer USS Howard (DDG 83) cruises off the port side, while the crew aboard the USS John C. Stennis (CVN 74) assembles on the flight for an \"All Hands\" call by Commander Pacific Fleet.jpg",
+      "description": "Pacific Ocean (July 14, 2004) - The guided missile destroyer USS Howard (DDG 83) cruises off the port side, while the crew aboard the USS John C. Stennis (CVN 74) assembles on the flight for an \u201cAll H",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/US_Navy_040714-N-6213R-005_With_the_guided_missile_destroyer_USS_Howard_%28DDG_83%29_cruising_alongside%2C_an_HH-60H_Seahawk_carrying_Commander_Pacific_Fleet%2C_Adm._Walter_F._Doran%2C_lands_on_the_flight_deck_aboard_USS_John_C._Stennis.jpg/1280px-thumbnail.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/39/US_Navy_040714-N-6213R-005_With_the_guided_missile_destroyer_USS_Howard_%28DDG_83%29_cruising_alongside%2C_an_HH-60H_Seahawk_carrying_Commander_Pacific_Fleet%2C_Adm._Walter_F._Doran%2C_lands_on_the_flight_deck_aboard_USS_John_C._Stennis.jpg",
+      "width": 2464,
+      "height": 1632,
+      "title": "US Navy 040714-N-6213R-005 With the guided missile destroyer USS Howard (DDG 83) cruising alongside, an HH-60H Seahawk carrying Commander Pacific Fleet, Adm. Walter F. Doran, lands on the flight deck aboard USS John C. Stennis.jpg",
+      "description": "Pacific Ocean (July 14, 2004) - With the guided missile destroyer USS Howard (DDG 83) cruising alongside, an HH-60H Seahawk from the \"Black Knights\" of Helicopter Anti-Submarine Squadron Four (HS-4) c",
+      "license": "Public domain",
+      "source": "wikimedia"
+    }
+  ]
+}

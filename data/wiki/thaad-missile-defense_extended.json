@@ -1,0 +1,174 @@
+{
+  "combat_history": [
+    {
+      "date": "2017-04",
+      "event": "THAAD deployed to Seongju, South Korea, prompting severe Chinese economic retaliation over the AN/TPY-2 radar.",
+      "significance": "A defensive system that became a major Indo-Pacific diplomatic flashpoint."
+    },
+    {
+      "date": "2022-01",
+      "event": "A THAAD battery in the UAE intercepted a Houthi ballistic missile \u2014 its first reported operational interception.",
+      "significance": "Combat-proved the hit-to-kill concept."
+    }
+  ],
+  "modernization": [
+    {
+      "program": "IBCS / Patriot integration",
+      "status": "in-progress",
+      "timeline": "2020s",
+      "description": "Networking THAAD with Patriot and the wider air-defence command system.",
+      "impact": "Tighter layered defence and radar sharing."
+    }
+  ],
+  "vulnerabilities": [
+    {
+      "area": "Saturation & decoys",
+      "description": "Limited interceptors per battery; vulnerable to salvos and penetration aids.",
+      "context": "Mass missile attacks can overwhelm a battery.",
+      "mitigation": "Layering with Patriot and Aegis."
+    },
+    {
+      "area": "Manoeuvring/hypersonic threats",
+      "description": "Designed for ballistic trajectories; hypersonic glide vehicles complicate intercept.",
+      "context": "DF-17-class threats fly unpredictable paths.",
+      "mitigation": "Glide-phase interceptor development."
+    }
+  ],
+  "operational_patterns": {
+    "typical_deployment": "Defends fixed high-value areas (bases, cities) against ballistic missiles; forward radar cues other defences.",
+    "key_operating_areas": [
+      "South Korea (Seongju)",
+      "Guam",
+      "Western Pacific"
+    ],
+    "typical_task_group": "Layered with Patriot (lower tier) and Aegis BMD (upper tier).",
+    "readiness_notes": "Fielded; combat-proven in the Gulf."
+  },
+  "peer_comparisons": [
+    {
+      "platform": "Aegis BMD / SM-3",
+      "country": "United States",
+      "relationship": "complementary upper tier",
+      "key_differences": "SM-3 intercepts exo-atmospherically at longer range from ships; THAAD covers the high terminal layer ashore.",
+      "video_angle": "The tiers of U.S. missile defence."
+    },
+    {
+      "platform": "MIM-104 Patriot (PAC-3)",
+      "country": "United States",
+      "relationship": "lower tier",
+      "key_differences": "Patriot defends a smaller footprint at lower altitude; THAAD provides high-altitude area coverage.",
+      "video_angle": "Patriot vs THAAD \u2014 how they layer."
+    },
+    {
+      "platform": "HQ-19",
+      "country": "China",
+      "relationship": "rival concept",
+      "key_differences": "China's higher-tier interceptor developed for comparable ballistic-missile defence.",
+      "video_angle": "America's and China's high-tier interceptors."
+    }
+  ],
+  "search_keywords": [
+    "THAAD",
+    "Terminal High Altitude Area Defense",
+    "AN/TPY-2",
+    "missile defense",
+    "Seongju",
+    "hit-to-kill",
+    "ballistic missile defense"
+  ],
+  "doctrine": {
+    "role": "High-tier terminal ballistic-missile interceptor providing high-altitude area defence.",
+    "employment": "Hit-to-kill interception of ballistic warheads in the terminal phase; AN/TPY-2 radar also cues other defences.",
+    "design_philosophy": "Kinetic precision over blast \u2014 and area coverage between Patriot and Aegis.",
+    "threat_context": "Defends Korea and Guam against ballistic missiles; its radar makes it a recurring China flashpoint.",
+    "comparison_frame": "Read with Patriot (lower) and Aegis/SM-3 (upper) as a layered shield."
+  },
+  "curated_sources": [
+    {
+      "title": "THAAD \u2014 Wikipedia",
+      "type": "reference",
+      "url": "https://en.wikipedia.org/wiki/Terminal_High_Altitude_Area_Defense",
+      "relevance": "System and deployments",
+      "priority": "reference"
+    },
+    {
+      "title": "Missile Defense Agency \u2014 THAAD",
+      "type": "official",
+      "url": "https://www.mda.mil/",
+      "relevance": "Official program data",
+      "priority": "essential"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Global_protection_against_limited_strikes_%28GPALS%29.tif/lossless-page1-960px-Global_protection_against_limited_strikes_%28GPALS%29.tif.png",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Global_protection_against_limited_strikes_%28GPALS%29.tif",
+      "width": 961,
+      "height": 669,
+      "title": "Global protection against limited strikes (GPALS).tif",
+      "description": "GPALS short for Global Protection Against Limited Strikes, as illustrated on the chart, consists of three complementary system elements that will operate under the overall supervision of an internette",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/THAAD-USArmy-MovedthrughC-17.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/THAAD-USArmy-MovedthrughC-17.jpg",
+      "width": 1231,
+      "height": 818,
+      "title": "THAAD-USArmy-MovedthrughC-17.jpg",
+      "description": "A U.S. Army Terminal High Altitude Area Defense being transported through the C-17 Globemaster III",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/THAAD_Interceptor_-_USSRC_Military_exhibit_north.jpg/1280px-THAAD_Interceptor_-_USSRC_Military_exhibit_north.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/b7/THAAD_Interceptor_-_USSRC_Military_exhibit_north.jpg",
+      "width": 2137,
+      "height": 584,
+      "title": "THAAD Interceptor - USSRC Military exhibit north.jpg",
+      "description": "Terminal High Altitude Area Defense (THAAD) interceptor missile from an exhibit at the USSRC Military exhibit north",
+      "license": "CC BY 1.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/THAAD_operators_2025.png/1280px-THAAD_operators_2025.png",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/d5/THAAD_operators_2025.png",
+      "width": 2754,
+      "height": 1398,
+      "title": "THAAD operators 2025.png",
+      "description": "USA's Terminal High Altitude Area Defense (THAAD) operator countries 2025",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/The_first_of_two_Terminal_High_Altitude_Area_Defense_%28THAAD%29_interceptors_is_launched_during_a_successful_intercept_test_-_US_Army.jpg/1280px-The_first_of_two_Terminal_High_Altitude_Area_Defense_%28THAAD%29_interceptors_is_launched_during_a_successful_intercept_test_-_US_Army.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/45/The_first_of_two_Terminal_High_Altitude_Area_Defense_%28THAAD%29_interceptors_is_launched_during_a_successful_intercept_test_-_US_Army.jpg",
+      "width": 1920,
+      "height": 1080,
+      "title": "The first of two Terminal High Altitude Area Defense (THAAD) interceptors is launched during a successful intercept test - US Army.jpg",
+      "description": "The first of two Terminal High Altitude Area Defense (THAAD) interceptors is launched during a successful intercept test. The test, conducted by Missile Defense Agency (MDA), Ballistic Missile Defense",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/48/The_first_of_two_Terminal_High_Altitude_Area_Defense_%28THAAD%29_interceptors_is_launched_during_a_successful_intercept_test_-_US_Army_%28cropped%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/48/The_first_of_two_Terminal_High_Altitude_Area_Defense_%28THAAD%29_interceptors_is_launched_during_a_successful_intercept_test_-_US_Army_%28cropped%29.jpg",
+      "width": 1216,
+      "height": 912,
+      "title": "The first of two Terminal High Altitude Area Defense (THAAD) interceptors is launched during a successful intercept test - US Army (cropped).jpg",
+      "description": "The first of two Terminal High Altitude Area Defense (THAAD) interceptors is launched during a successful intercept test. The test, conducted by Missile Defense Agency (MDA), Ballistic Missile Defense",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/USSRC_Military_exhibit_north.jpg/1280px-USSRC_Military_exhibit_north.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/USSRC_Military_exhibit_north.jpg",
+      "width": 5034,
+      "height": 2191,
+      "title": "USSRC Military exhibit north.jpg",
+      "description": "Roving robots, missiles, and unmanned aircraft on display in the military section of the U.S. Space &amp; Rocket Center",
+      "license": "CC BY 1.0",
+      "source": "wikimedia"
+    }
+  ]
+}

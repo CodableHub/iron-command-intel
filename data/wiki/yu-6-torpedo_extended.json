@@ -1,0 +1,258 @@
+{
+  "combat_history": [
+    {
+      "date": "ongoing",
+      "event": "No combat use; standard armament of PLAN submarines, exercised regularly.",
+      "significance": "Capability assessed from fielding, not war."
+    }
+  ],
+  "modernization": [
+    {
+      "program": "Acoustic & quieting upgrades",
+      "status": "in-progress",
+      "timeline": "ongoing",
+      "description": "Improved seekers and successors (Yu-9 class) for the expanding submarine fleet.",
+      "impact": "Closes the gap with Western heavyweight torpedoes."
+    }
+  ],
+  "vulnerabilities": [
+    {
+      "area": "Unproven seeker performance",
+      "description": "Acoustic discrimination against modern countermeasures is untested in combat.",
+      "context": "Western boats deploy capable decoys and jammers.",
+      "mitigation": "Continued development and successors."
+    },
+    {
+      "area": "Wire-guidance constraint",
+      "description": "Best performance depends on the guidance wire, limiting host-submarine manoeuvre.",
+      "context": "Wire can break, dropping to autonomous homing.",
+      "mitigation": "Autonomous seeker fallback."
+    }
+  ],
+  "operational_patterns": {
+    "typical_deployment": "Anti-submarine and anti-surface engagements from PLAN attack and conventional submarines.",
+    "key_operating_areas": [
+      "South China Sea",
+      "East China Sea",
+      "Western Pacific",
+      "Philippine Sea"
+    ],
+    "typical_task_group": "Type 093 SSNs and Yuan/Song/Kilo SSKs.",
+    "readiness_notes": "Standard fleet torpedo; successors emerging."
+  },
+  "peer_comparisons": [
+    {
+      "platform": "Mark 48 ADCAP",
+      "country": "United States",
+      "relationship": "benchmark rival",
+      "key_differences": "The Mk 48 is combat-mature with the CBASS broadband sonar; the Yu-6 is China's analogue, narrowing a long-standing U.S. undersea edge.",
+      "video_angle": "US vs Chinese submarine torpedoes."
+    },
+    {
+      "platform": "Type 89 torpedo",
+      "country": "Japan",
+      "relationship": "regional peer",
+      "key_differences": "Japan's domestic heavyweight torpedo of similar class.",
+      "video_angle": "East Asia's submarine torpedoes."
+    },
+    {
+      "platform": "Spearfish",
+      "country": "United Kingdom",
+      "relationship": "Western counterpart",
+      "key_differences": "The Royal Navy's faster heavyweight torpedo.",
+      "video_angle": "The world's heavyweight torpedoes ranked."
+    }
+  ],
+  "search_keywords": [
+    "Yu-6",
+    "Yu-6 torpedo",
+    "Chinese torpedo",
+    "PLAN torpedo",
+    "heavyweight torpedo China"
+  ],
+  "doctrine": {
+    "role": "Standard PLAN submarine-launched heavyweight torpedo for anti-submarine and anti-ship attack.",
+    "employment": "Wire-guided from the launching submarine, then acoustic/wake terminal homing.",
+    "design_philosophy": "Match Western undersea lethality with an indigenous heavyweight weapon.",
+    "threat_context": "Narrows the U.S./allied advantage in undersea warfare in the Pacific.",
+    "comparison_frame": "Read against the Mk 48 ADCAP, Japan's Type 89 and Britain's Spearfish."
+  },
+  "curated_sources": [
+    {
+      "title": "Yu-6 torpedo \u2014 Wikipedia",
+      "type": "reference",
+      "url": "https://en.wikipedia.org/wiki/Yu-6_torpedo",
+      "relevance": "Class and platforms",
+      "priority": "reference"
+    },
+    {
+      "title": "Naval analysis (H.I. Sutton / Covert Shores)",
+      "type": "research",
+      "url": "http://www.hisutton.com/",
+      "relevance": "Open-source undersea-weapon analysis",
+      "priority": "recommended"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Michelin_810x90_053.JPG/1280px-Michelin_810x90_053.JPG",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Michelin_810x90_053.JPG",
+      "width": 3072,
+      "height": 2304,
+      "title": "Michelin 810x90 053.JPG",
+      "description": "<a href=\"https://de.wikipedia.org/wiki/Michelin\" class=\"extiw\" title=\"de:Michelin\">de:Michelin</a>-Reifendetails an einem <a href=\"https://de.wikipedia.org/wiki/Hurtu\" class=\"extiw\" title=\"de:Hurtu\">d",
+      "license": "CC BY-SA 3.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Chinese_Torpedo_Boat_Hu_Oah.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Chinese_Torpedo_Boat_Hu_Oah.jpg",
+      "width": 1029,
+      "height": 430,
+      "title": "Chinese Torpedo Boat Hu Oah.jpg",
+      "description": "Hu Peng class torpedo boat Hu Oah",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Chinese_Yu-1_Steam_Gas_Torpedo_%289884837134%29.jpg/1280px-Chinese_Yu-1_Steam_Gas_Torpedo_%289884837134%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Chinese_Yu-1_Steam_Gas_Torpedo_%289884837134%29.jpg",
+      "width": 4752,
+      "height": 3168,
+      "title": "Chinese Yu-1 Steam Gas Torpedo (9884837134).jpg",
+      "description": "Military Museum: Modern Weapons, Small Arms Gallery. Complete indexed photo collection at WorldHistoryPics.com.",
+      "license": "CC0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Chinese_Yu-1_Steam_Gas_Torpedo_%289884928983%29.jpg/1280px-Chinese_Yu-1_Steam_Gas_Torpedo_%289884928983%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Chinese_Yu-1_Steam_Gas_Torpedo_%289884928983%29.jpg",
+      "width": 4752,
+      "height": 3168,
+      "title": "Chinese Yu-1 Steam Gas Torpedo (9884928983).jpg",
+      "description": "Military Museum: Modern Weapons, Small Arms Gallery. Complete indexed photo collection at WorldHistoryPics.com.",
+      "license": "CC0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Chinese_Yu-2_Air_Jet_Torpedo_%289884828745%29.jpg/1280px-Chinese_Yu-2_Air_Jet_Torpedo_%289884828745%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Chinese_Yu-2_Air_Jet_Torpedo_%289884828745%29.jpg",
+      "width": 4752,
+      "height": 3168,
+      "title": "Chinese Yu-2 Air Jet Torpedo (9884828745).jpg",
+      "description": "Military Museum: Modern Weapons, Small Arms Gallery. Complete indexed photo collection at WorldHistoryPics.com.",
+      "license": "CC0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Germany-made_Torpedo_20180616.jpg/1280px-Germany-made_Torpedo_20180616.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/99/Germany-made_Torpedo_20180616.jpg",
+      "width": 4000,
+      "height": 3000,
+      "title": "Germany-made Torpedo 20180616.jpg",
+      "description": "\u200b\u570b\u8ecd\u6b77\u53f2\u6587\u7269\u9928\u5927\u9580\u524d\u5c55\u793a\u76841897\u5e74\u5fb7\u88fd\u9b5a\u96f7\u3002",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/81/Japanese_torpedo_boat_No27.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/81/Japanese_torpedo_boat_No27.jpg",
+      "width": 600,
+      "height": 300,
+      "title": "Japanese torpedo boat No27.jpg",
+      "description": "Torpedo boat No.27 of the Imperial Japanese Navy at Kure Naval Base.(ex-Chinese torpedo boat)",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Torpedo_and_emitter.JPG/1280px-Torpedo_and_emitter.JPG",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/11/Torpedo_and_emitter.JPG",
+      "width": 2592,
+      "height": 1944,
+      "title": "Torpedo and emitter.JPG",
+      "description": "torpedo and emitter",
+      "license": "CC BY-SA 3.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Yu-1_Torpedo_-_3_merged_photographs.jpg/1280px-Yu-1_Torpedo_-_3_merged_photographs.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/26/Yu-1_Torpedo_-_3_merged_photographs.jpg",
+      "width": 1822,
+      "height": 624,
+      "title": "Yu-1 Torpedo - 3 merged photographs.jpg",
+      "description": "A Yu-1 Torpedo, three merged photographs taken at the Beijing Military Museum",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Yu-1_torpedo_propulsion_section.jpg/1280px-Yu-1_torpedo_propulsion_section.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Yu-1_torpedo_propulsion_section.jpg",
+      "width": 1500,
+      "height": 802,
+      "title": "Yu-1 torpedo propulsion section.jpg",
+      "description": "A Yu-1 Torpedoes contra-rotating propeller section, taken at the Beijing Military Museum",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Yu-2_Torpedo_nose.jpg/1280px-Yu-2_Torpedo_nose.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/00/Yu-2_Torpedo_nose.jpg",
+      "width": 1977,
+      "height": 1134,
+      "title": "Yu-2 Torpedo nose.jpg",
+      "description": "A Yu-2 Torpedo, taken at the Beijing Military Museum",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/American_Mosquitoes_%28submarine_hunters_with_torpedo_armament%29.png/1280px-American_Mosquitoes_%28submarine_hunters_with_torpedo_armament%29.png",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/a9/American_Mosquitoes_%28submarine_hunters_with_torpedo_armament%29.png",
+      "width": 1676,
+      "height": 755,
+      "title": "American Mosquitoes (submarine hunters with torpedo armament).png",
+      "description": "American Mosquitoes (submarine hunters with torpedo armament)",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/EB1911_Ship_Fig._127_-_Goubet_Submarine_Torpedo-boat.png",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/EB1911_Ship_Fig._127_-_Goubet_Submarine_Torpedo-boat.png",
+      "width": 718,
+      "height": 434,
+      "title": "EB1911 Ship Fig. 127 - Goubet Submarine Torpedo-boat.png",
+      "description": "Section of Goubet Submarine Torpedo-boat",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Electric_Boat_Company_-_Holland_Torpedo_Boat_Company_facility%2C_New_Suffolk%2C_Long_Island%2C_New_York_-_NH_45937.jpeg/1280px-Electric_Boat_Company_-_Holland_Torpedo_Boat_Company_facility%2C_New_Suffolk%2C_Long_Island%2C_New_York_-_NH_45937.jpeg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/da/Electric_Boat_Company_-_Holland_Torpedo_Boat_Company_facility%2C_New_Suffolk%2C_Long_Island%2C_New_York_-_NH_45937.jpeg",
+      "width": 4571,
+      "height": 3576,
+      "title": "Electric Boat Company - Holland Torpedo Boat Company facility, New Suffolk, Long Island, New York - NH 45937.jpeg",
+      "description": "Submarines in the facility basin, circa 1903. Boats in the front group are (from left to right): USS Plunger (Submarine # 2); USS Porpoise (Submarine # 7); and USS Adder (Submarine # 3). In the backgr",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Electric_Boat_Company_-_Holland_Torpedo_Boat_Company_facility%2C_New_Suffolk%2C_Long_Island%2C_New_York_-_NH_45937.tiff/lossy-page1-1280px-Electric_Boat_Company_-_Holland_Torpedo_Boat_Company_facility%2C_New_Suffolk%2C_Long_Island%2C_New_York_-_NH_45937.tiff.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Electric_Boat_Company_-_Holland_Torpedo_Boat_Company_facility%2C_New_Suffolk%2C_Long_Island%2C_New_York_-_NH_45937.tiff",
+      "width": 4778,
+      "height": 3732,
+      "title": "Electric Boat Company - Holland Torpedo Boat Company facility, New Suffolk, Long Island, New York - NH 45937.tiff",
+      "description": "Submarines in the facility basin, circa 1903. Boats in the front group are (from left to right): USS Plunger (Submarine # 2); USS Porpoise (Submarine # 7); and USS Adder (Submarine # 3). In the backgr",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Loading_a_SUT_Torpedo_into_KRI_Cakra_401.jpg/1280px-Loading_a_SUT_Torpedo_into_KRI_Cakra_401.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Loading_a_SUT_Torpedo_into_KRI_Cakra_401.jpg",
+      "width": 2500,
+      "height": 1665,
+      "title": "Loading a SUT Torpedo into KRI Cakra 401.jpg",
+      "description": "KRI Cakra (401) loading a SUT torpedo in preparation of the following Indonesian navy torpedo firing exercise on October 2023.",
+      "license": "Public domain",
+      "source": "wikimedia"
+    }
+  ]
+}

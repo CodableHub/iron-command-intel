@@ -1,0 +1,209 @@
+{
+  "combat_history": [
+    {
+      "date": "2019\u20132020",
+      "event": "Wing Loong drones operated by foreign customers saw combat in Libya and Yemen.",
+      "significance": "Gave Chinese armed-drone designs real combat exposure via exports."
+    }
+  ],
+  "modernization": [
+    {
+      "program": "Family expansion",
+      "status": "in-progress",
+      "timeline": "2020s",
+      "description": "Higher-performance and jet-powered Wing Loong derivatives broaden the export range.",
+      "impact": "Sustains China's lead in the armed-drone export market."
+    }
+  ],
+  "vulnerabilities": [
+    {
+      "area": "Survivability",
+      "description": "Slow, non-stealthy MALE drone vulnerable to modern air defences and fighters.",
+      "context": "Restricted to permissive or lightly-defended airspace.",
+      "mitigation": "Used for ISR/strike where air defence is weak."
+    },
+    {
+      "area": "Datalink dependence",
+      "description": "Relies on a jam-able satellite control link.",
+      "context": "Capable EW threatens beyond-line-of-sight control.",
+      "mitigation": "Redundant links."
+    }
+  ],
+  "operational_patterns": {
+    "typical_deployment": "Persistent ISR and precision strike in permissive airspace; widely operated by export customers.",
+    "key_operating_areas": [
+      "South China Sea",
+      "Middle East (exports)",
+      "Africa (exports)",
+      "Central Asia"
+    ],
+    "typical_task_group": "Operated via satellite control; networked into customer C2.",
+    "readiness_notes": "Mature and widely exported."
+  },
+  "peer_comparisons": [
+    {
+      "platform": "General Atomics MQ-9 Reaper",
+      "country": "United States",
+      "relationship": "direct rival",
+      "key_differences": "The Reaper has greater endurance, payload and a more mature sensor suite; the Wing Loong undercuts it on price and export availability.",
+      "video_angle": "Reaper vs Wing Loong \u2014 the armed-drone export war."
+    },
+    {
+      "platform": "Bayraktar TB2",
+      "country": "Turkey",
+      "relationship": "competitor",
+      "key_differences": "TB2 is smaller and cheaper still; the Wing Loong sits between TB2 and Reaper.",
+      "video_angle": "The global armed-drone market tiers."
+    },
+    {
+      "platform": "GJ-11 Sharp Sword",
+      "country": "China",
+      "relationship": "higher-end stablemate",
+      "key_differences": "GJ-11 is a stealthy UCAV for contested airspace; Wing Loong is a permissive-airspace workhorse.",
+      "video_angle": "China's two faces of unmanned strike."
+    }
+  ],
+  "search_keywords": [
+    "Wing Loong II",
+    "Wing Loong 2",
+    "Pterodactyl II",
+    "Chinese armed drone",
+    "MALE UAV China",
+    "Wing Loong export"
+  ],
+  "doctrine": {
+    "role": "Medium-altitude long-endurance armed ISR drone for persistent surveillance and strike \u2014 and a flagship export.",
+    "employment": "Satellite-controlled day-long sorties for reconnaissance and precision strike in permissive airspace.",
+    "design_philosophy": "Reaper-class capability at a fraction of the price, available for export.",
+    "threat_context": "Drives armed-drone proliferation and Chinese defence diplomacy across the Indo-Pacific and beyond.",
+    "comparison_frame": "Read against the MQ-9, Turkey's TB2 and China's own stealthy GJ-11."
+  },
+  "curated_sources": [
+    {
+      "title": "CAIG Wing Loong II \u2014 Wikipedia",
+      "type": "reference",
+      "url": "https://en.wikipedia.org/wiki/CAIG_Wing_Loong_II",
+      "relevance": "Specs and operators",
+      "priority": "reference"
+    },
+    {
+      "title": "Bulletin of the Atomic Scientists \u2014 Chinese drone exports",
+      "type": "research",
+      "url": "https://thebulletin.org/",
+      "relevance": "Proliferation context",
+      "priority": "recommended"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/2025-02-26_PLA_GJ-2_%28Chengdu_Wing_Loong_2%29.jpg/1280px-2025-02-26_PLA_GJ-2_%28Chengdu_Wing_Loong_2%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/50/2025-02-26_PLA_GJ-2_%28Chengdu_Wing_Loong_2%29.jpg",
+      "width": 2631,
+      "height": 1461,
+      "title": "2025-02-26 PLA GJ-2 (Chengdu Wing Loong 2).jpg",
+      "description": "PLA GJ-2 drone",
+      "license": "CC BY 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Drone_%2840203028111%29.jpg/1280px-Drone_%2840203028111%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Drone_%2840203028111%29.jpg",
+      "width": 6000,
+      "height": 4000,
+      "title": "Drone (40203028111).jpg",
+      "description": "Drone",
+      "license": "CC BY 2.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Wing_Loong.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Wing_Loong.jpg",
+      "width": 600,
+      "height": 200,
+      "title": "Wing Loong.jpg",
+      "description": "Side view of Chinese multi-role UAV Wing Loong.",
+      "license": "CC BY-SA 3.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Wing_Loong_%281%29.jpg/1280px-Wing_Loong_%281%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Wing_Loong_%281%29.jpg",
+      "width": 4000,
+      "height": 3000,
+      "title": "Wing Loong (1).jpg",
+      "description": "\u0411\u041f\u041b\u0410 Wing Loong \u043d\u0430 \u0432\u043e\u0435\u043d\u043d\u043e\u043c \u043f\u0430\u0440\u0430\u0434\u0435 \u0432 \u0410\u0441\u0442\u0430\u043d\u0435. 7.05.2017",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Wing_Loong_%283%29.jpg/1280px-Wing_Loong_%283%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Wing_Loong_%283%29.jpg",
+      "width": 2868,
+      "height": 2151,
+      "title": "Wing Loong (3).jpg",
+      "description": "\u0411\u041f\u041b\u0410 Wing Loong \u043d\u0430 \u0432\u043e\u0435\u043d\u043d\u043e\u043c \u043f\u0430\u0440\u0430\u0434\u0435 \u0432 \u0410\u0441\u0442\u0430\u043d\u0435. 7.05.2017",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Wing_Loong_II_fron_view.jpg/1280px-Wing_Loong_II_fron_view.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/48/Wing_Loong_II_fron_view.jpg",
+      "width": 1600,
+      "height": 1200,
+      "title": "Wing Loong II fron view.jpg",
+      "description": "Wing Loong II front view, Dubai Air Show 2017",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Wing_Loong_II_side_view.jpg/1280px-Wing_Loong_II_side_view.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Wing_Loong_II_side_view.jpg",
+      "width": 1600,
+      "height": 1200,
+      "title": "Wing Loong II side view.jpg",
+      "description": "Wing Loong II side view, Dubai Air Show 2017",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Wing_Loong_I_at_Dubai_Airshow_2017.jpg/1280px-Wing_Loong_I_at_Dubai_Airshow_2017.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Wing_Loong_I_at_Dubai_Airshow_2017.jpg",
+      "width": 1600,
+      "height": 1200,
+      "title": "Wing Loong I at Dubai Airshow 2017.jpg",
+      "description": "Wing Loong I at Dubai Airshow 2017",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Wing_loong_MAKS2017.jpg/1280px-Wing_loong_MAKS2017.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/99/Wing_loong_MAKS2017.jpg",
+      "width": 3264,
+      "height": 2448,
+      "title": "Wing loong MAKS2017.jpg",
+      "description": "Wing loong MAKS2017",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Wing_loong_MAKS2017_%28cropped%29.jpg/1280px-Wing_loong_MAKS2017_%28cropped%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Wing_loong_MAKS2017_%28cropped%29.jpg",
+      "width": 3101,
+      "height": 1755,
+      "title": "Wing loong MAKS2017 (cropped).jpg",
+      "description": "Wing loong MAKS2017",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/%D0%A3%D0%B4%D0%B0%D1%80%D0%BD%D1%8B%D0%B9_%D0%BA%D0%B8%D1%82%D0%B0%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D0%91%D0%9F%D0%9B%D0%90_Wing_Loong_II_-_%D0%9C%D0%90%D0%9A%D0%A1-2017_02.jpg/1280px-%D0%A3%D0%B4%D0%B0%D1%80%D0%BD%D1%8B%D0%B9_%D0%BA%D0%B8%D1%82%D0%B0%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D0%91%D0%9F%D0%9B%D0%90_Wing_Loong_II_-_%D0%9C%D0%90%D0%9A%D0%A1-2017_02.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/61/%D0%A3%D0%B4%D0%B0%D1%80%D0%BD%D1%8B%D0%B9_%D0%BA%D0%B8%D1%82%D0%B0%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D0%91%D0%9F%D0%9B%D0%90_Wing_Loong_II_-_%D0%9C%D0%90%D0%9A%D0%A1-2017_02.jpg",
+      "width": 2250,
+      "height": 1500,
+      "title": "\u0423\u0434\u0430\u0440\u043d\u044b\u0439 \u043a\u0438\u0442\u0430\u0439\u0441\u043a\u0438\u0439 \u0411\u041f\u041b\u0410 Wing Loong II - \u041c\u0410\u041a\u0421-2017 02.jpg",
+      "description": "Chinese UAV Wing Loong II - MAKS-2017",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    }
+  ]
+}

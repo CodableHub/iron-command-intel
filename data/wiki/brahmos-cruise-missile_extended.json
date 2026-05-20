@@ -1,0 +1,205 @@
+{
+  "combat_history": [
+    {
+      "date": "2022-01",
+      "event": "India signed a ~US$375M deal to export shore-based BrahMos to the Philippines; deliveries began in 2024.",
+      "significance": "India's first major missile export and a marker of Indo-Pacific arms diplomacy."
+    },
+    {
+      "date": "2022-03",
+      "event": "An Indian BrahMos was accidentally fired and landed in Pakistan, causing no casualties.",
+      "significance": "Highlighted the missile's range and the risks of handling supersonic weapons."
+    }
+  ],
+  "modernization": [
+    {
+      "program": "Extended range & BrahMos-NG",
+      "status": "in-progress",
+      "timeline": "2020s",
+      "description": "Longer-range variants and a lighter next-generation missile for wider platform carriage.",
+      "impact": "Broadens reach and the number of launch platforms."
+    }
+  ],
+  "vulnerabilities": [
+    {
+      "area": "Cost and size",
+      "description": "Large, expensive missile limits magazine depth versus cheaper subsonic weapons.",
+      "context": "Fewer rounds per platform.",
+      "mitigation": "BrahMos-NG aims to shrink size and cost."
+    },
+    {
+      "area": "Detectability",
+      "description": "Supersonic cruise is detectable before the sea-skimming terminal phase.",
+      "context": "Networked defences may engage if they react fast.",
+      "mitigation": "Low terminal altitude and high speed."
+    }
+  ],
+  "operational_patterns": {
+    "typical_deployment": "Anti-ship and land-attack strikes from land batteries, ships, submarines and Su-30MKI aircraft.",
+    "key_operating_areas": [
+      "Indian Ocean",
+      "Arabian Sea",
+      "Bay of Bengal",
+      "Himalayan front",
+      "South China Sea (Philippine export)"
+    ],
+    "typical_task_group": "Indian Navy destroyers/frigates, Army coastal regiments, IAF Su-30MKI.",
+    "readiness_notes": "Mature, in service across all three Indian services and exported."
+  },
+  "peer_comparisons": [
+    {
+      "platform": "YJ-12",
+      "country": "China",
+      "relationship": "regional rival",
+      "key_differences": "Both are supersonic anti-ship missiles; BrahMos is multi-platform and exported, the YJ-12 is China's air/coastal supersonic ASCM.",
+      "video_angle": "India vs China's supersonic anti-ship missiles."
+    },
+    {
+      "platform": "P-800 Oniks",
+      "country": "Russia",
+      "relationship": "design parent",
+      "key_differences": "BrahMos derives from the Russian Oniks/Yakhont; India added guidance and variants.",
+      "video_angle": "From Oniks to BrahMos."
+    },
+    {
+      "platform": "Tomahawk cruise missile",
+      "country": "United States",
+      "relationship": "different philosophy",
+      "key_differences": "Tomahawk is subsonic, longer-ranged and land-attack-focused; BrahMos trades range for supersonic speed.",
+      "video_angle": "Speed vs reach in cruise missiles."
+    }
+  ],
+  "search_keywords": [
+    "BrahMos",
+    "PJ-10",
+    "supersonic cruise missile",
+    "India missile",
+    "BrahMos-A",
+    "Philippines BrahMos"
+  ],
+  "doctrine": {
+    "role": "Multi-platform supersonic cruise missile for anti-ship and land-attack strike across all three Indian services.",
+    "employment": "Fire-and-forget Mach-3 attack from land, sea, sub and air; steep-dive and mountain-strike profiles.",
+    "design_philosophy": "Supersonic speed and versatility \u2014 one missile family for every domain.",
+    "threat_context": "Anchors India's precision strike in the Indian Ocean and Himalayas; exports project Indian influence into Southeast Asia.",
+    "comparison_frame": "Read against China's YJ-12 and the subsonic Tomahawk."
+  },
+  "curated_sources": [
+    {
+      "title": "BrahMos \u2014 Wikipedia",
+      "type": "reference",
+      "url": "https://en.wikipedia.org/wiki/BrahMos",
+      "relevance": "Variants, range, exports",
+      "priority": "reference"
+    },
+    {
+      "title": "CSIS Missile Threat \u2014 BrahMos",
+      "type": "research",
+      "url": "https://missilethreat.csis.org/missile/brahmos/",
+      "relevance": "Authoritative profile",
+      "priority": "recommended"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2024-09-25_PMC_BrahMos_001.jpg/1280px-2024-09-25_PMC_BrahMos_001.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/20/2024-09-25_PMC_BrahMos_001.jpg",
+      "width": 2557,
+      "height": 1438,
+      "title": "2024-09-25 PMC BrahMos 001.jpg",
+      "description": "A Scale Model of the Missile Launcher for the BrahMos of the Philippine Marine Corps (PMC) at the Asian Defense and Security Event (ADAS) 2024 in Pasay",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/2024-09-25_PMC_BrahMos_002.jpg/1280px-2024-09-25_PMC_BrahMos_002.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/3c/2024-09-25_PMC_BrahMos_002.jpg",
+      "width": 2601,
+      "height": 1463,
+      "title": "2024-09-25 PMC BrahMos 002.jpg",
+      "description": "A Scale Model of the Missile Launcher for the BrahMos of the Philippine Marine Corps (PMC) at the Asian Defense and Security Event (ADAS) 2024 in Pasay",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/A_Su-30_MKI_fighter_releases_BrahMos_missile.jpg/1280px-A_Su-30_MKI_fighter_releases_BrahMos_missile.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/A_Su-30_MKI_fighter_releases_BrahMos_missile.jpg",
+      "width": 11769,
+      "height": 5491,
+      "title": "A Su-30 MKI fighter releases BrahMos missile.jpg",
+      "description": "Today, IAF successfully fired the BrahMos air version missile from its frontline Su-30 MKI fighter aircraft. The launch from the aircraft was smooth and the missile followed the desired trajectory bef",
+      "license": "GODL-India",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/48/BrahMos-ER_fired_from_INS_Chennai_on_5_March_2022_-_1.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/48/BrahMos-ER_fired_from_INS_Chennai_on_5_March_2022_-_1.jpg",
+      "width": 1280,
+      "height": 695,
+      "title": "BrahMos-ER fired from INS Chennai on 5 March 2022 - 1.jpg",
+      "description": "The Indian Navy successfully demonstrated the accuracy of an extended-range land attack Brahmos supersonic cruise missile from the stealth destroyer INS Chennai, on 5th March, 2022. The missile hit it",
+      "license": "GODL-India",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/eb/BrahMos-ER_fired_from_INS_Chennai_on_5_March_2022_-_2.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/eb/BrahMos-ER_fired_from_INS_Chennai_on_5_March_2022_-_2.jpg",
+      "width": 1280,
+      "height": 719,
+      "title": "BrahMos-ER fired from INS Chennai on 5 March 2022 - 2.jpg",
+      "description": "The Indian Navy successfully demonstrated the accuracy of an extended-range land attack Brahmos supersonic cruise missile from the stealth destroyer INS Chennai, on 5th March, 2022. The missile hit it",
+      "license": "GODL-India",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/DRDO%2C_the_Indian_Air_Force_and_BrahMos_jointly_launched_two_BrahMos_missiles_on_December_17%2C_2019.jpg/1280px-DRDO%2C_the_Indian_Air_Force_and_BrahMos_jointly_launched_two_BrahMos_missiles_on_December_17%2C_2019.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/DRDO%2C_the_Indian_Air_Force_and_BrahMos_jointly_launched_two_BrahMos_missiles_on_December_17%2C_2019.jpg",
+      "width": 3712,
+      "height": 5568,
+      "title": "DRDO, the Indian Air Force and BrahMos jointly launched two BrahMos missiles on December 17, 2019.jpg",
+      "description": "The Defence Research &amp; Development Organisation (DRDO), the Indian Air Force (IAF) and BrahMos jointly successfully launched two BrahMos supersonic cruise missiles tests, one each from land and ai",
+      "license": "GODL-India",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/INS_Rajput_firing_a_BrahMos_missile.jpg/1280px-INS_Rajput_firing_a_BrahMos_missile.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/ed/INS_Rajput_firing_a_BrahMos_missile.jpg",
+      "width": 1600,
+      "height": 1200,
+      "title": "INS Rajput firing a BrahMos missile.jpg",
+      "description": "INS Rajput firing a BrahMos missile",
+      "license": "GODL-India",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Indian_Navy_launhing_BrahMos-Operation_Sindoor.jpg/1280px-Indian_Navy_launhing_BrahMos-Operation_Sindoor.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Indian_Navy_launhing_BrahMos-Operation_Sindoor.jpg",
+      "width": 2080,
+      "height": 1136,
+      "title": "Indian Navy launhing BrahMos-Operation Sindoor.jpg",
+      "description": "Indian Navy deployment at sea during Operation Sindoor",
+      "license": "GODL-India",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/25/The_BrahMos_missile_fired_from_an_upgraded_modular_launcher_on_INS_Delhi_on_20_April_2022_-_1.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/25/The_BrahMos_missile_fired_from_an_upgraded_modular_launcher_on_INS_Delhi_on_20_April_2022_-_1.jpg",
+      "width": 1024,
+      "height": 683,
+      "title": "The BrahMos missile fired from an upgraded modular launcher on INS Delhi on 20 April 2022 - 1.jpg",
+      "description": "Successful maiden BrahMos firing by INS Delhi from an upgraded modular launcher once again demonstrated long range strike capability of BrahMos alongwith validation of integrated Network Centric Opera",
+      "license": "GODL-India",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/The_BrahMos_missile_fired_from_an_upgraded_modular_launcher_on_INS_Delhi_on_20_April_2022_-_3.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/The_BrahMos_missile_fired_from_an_upgraded_modular_launcher_on_INS_Delhi_on_20_April_2022_-_3.jpg",
+      "width": 1024,
+      "height": 683,
+      "title": "The BrahMos missile fired from an upgraded modular launcher on INS Delhi on 20 April 2022 - 3.jpg",
+      "description": "Successful maiden BrahMos firing by INS Delhi from an upgraded modular launcher once again demonstrated long range strike capability of BrahMos alongwith validation of integrated Network Centric Opera",
+      "license": "GODL-India",
+      "source": "wikimedia"
+    }
+  ]
+}

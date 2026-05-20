@@ -1,0 +1,267 @@
+{
+  "combat_history": [
+    {
+      "date": "1991",
+      "operation": "Desert Storm",
+      "event": "Patriot famously (if controversially) engaged Iraqi Scud missiles.",
+      "significance": "The system's combat debut and an early lesson in BMD limits."
+    },
+    {
+      "date": "2023-05",
+      "event": "A Ukrainian Patriot battery intercepted a Russian Kh-47M2 Kinzhal air-launched 'hypersonic' missile.",
+      "significance": "Demonstrated PAC-3 against a very high-speed threat."
+    }
+  ],
+  "modernization": [
+    {
+      "program": "LTAMDS radar & IBCS",
+      "status": "in-progress",
+      "timeline": "2020s",
+      "description": "New 360-degree radar and integrated battle-command network.",
+      "impact": "Improves coverage and lets Patriot fire on tracks from other sensors."
+    }
+  ],
+  "vulnerabilities": [
+    {
+      "area": "Saturation",
+      "description": "Limited interceptors per battery are vulnerable to mass salvos.",
+      "context": "Missile-heavy adversaries can overwhelm point defences.",
+      "mitigation": "Layering and magazine depth."
+    },
+    {
+      "area": "Cost exchange",
+      "description": "Expensive interceptors used against cheap threats create an unfavourable cost ratio.",
+      "context": "Drones/cruise missiles can be cheaper than the interceptor.",
+      "mitigation": "Mixing cheaper effectors."
+    }
+  ],
+  "operational_patterns": {
+    "typical_deployment": "Point and area defence of bases, cities and forces; the common allied air-defence layer in the Indo-Pacific.",
+    "key_operating_areas": [
+      "Japan",
+      "South Korea",
+      "Taiwan",
+      "Guam",
+      "Western Pacific"
+    ],
+    "typical_task_group": "Layered beneath THAAD and Aegis BMD; networked via IBCS.",
+    "readiness_notes": "Ubiquitous and combat-proven; high global demand."
+  },
+  "peer_comparisons": [
+    {
+      "platform": "THAAD",
+      "country": "United States",
+      "relationship": "higher tier",
+      "key_differences": "THAAD covers high-altitude area defence; Patriot defends a smaller footprint at lower altitude.",
+      "video_angle": "How Patriot and THAAD layer."
+    },
+    {
+      "platform": "S-400 Triumf",
+      "country": "Russia",
+      "relationship": "export rival",
+      "key_differences": "S-400 offers far longer reach against aircraft; Patriot emphasises hit-to-kill ballistic defence and is combat-proven.",
+      "video_angle": "Patriot vs S-400 in the export market."
+    },
+    {
+      "platform": "HQ-9",
+      "country": "China",
+      "relationship": "rival concept",
+      "key_differences": "China's long-range SAM is more an area air defender than a hit-to-kill BMD system.",
+      "video_angle": "Western vs Chinese air defence philosophy."
+    }
+  ],
+  "search_keywords": [
+    "Patriot",
+    "MIM-104",
+    "PAC-3",
+    "PAC-3 MSE",
+    "Patriot missile",
+    "air defense",
+    "Kinzhal intercept"
+  ],
+  "doctrine": {
+    "role": "Mainstay U.S./allied air- and missile-defence system covering aircraft, cruise and ballistic missiles.",
+    "employment": "PAC-3 hit-to-kill for ballistic threats and GEM-T for aircraft/cruise missiles, layered under THAAD/Aegis.",
+    "design_philosophy": "A flexible, upgradeable, widely-exported lower-to-mid defence tier.",
+    "threat_context": "The common air-defence backbone of Indo-Pacific allies in any Taiwan/Korea contingency.",
+    "comparison_frame": "Read with THAAD (higher) and against the S-400 and HQ-9."
+  },
+  "curated_sources": [
+    {
+      "title": "MIM-104 Patriot \u2014 Wikipedia",
+      "type": "reference",
+      "url": "https://en.wikipedia.org/wiki/MIM-104_Patriot",
+      "relevance": "Variants and operators",
+      "priority": "reference"
+    },
+    {
+      "title": "CSIS Missile Threat \u2014 Patriot",
+      "type": "research",
+      "url": "https://missilethreat.csis.org/defsys/patriot/",
+      "relevance": "Authoritative profile",
+      "priority": "recommended"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/210716-M-VR873-1132_-_MIM-104_Patriot_at_exercise_Talisman_Sabre_21_%28Image_1_of_2%29.jpg/1280px-210716-M-VR873-1132_-_MIM-104_Patriot_at_exercise_Talisman_Sabre_21_%28Image_1_of_2%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/fa/210716-M-VR873-1132_-_MIM-104_Patriot_at_exercise_Talisman_Sabre_21_%28Image_1_of_2%29.jpg",
+      "width": 5175,
+      "height": 3450,
+      "title": "210716-M-VR873-1132 - MIM-104 Patriot at exercise Talisman Sabre 21 (Image 1 of 2).jpg",
+      "description": "Soldiers with 1st Battalion, 1st Air Defense Artillery Regiment, fire the MIM-104 Patriot to destroy a drone target Jul. 16, 2021, at Camp Growl in Queensland, Australia, during Exercise Talisman Sabr",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/210716-M-VR873-1135_-_MIM-104_Patriot_at_exercise_Talisman_Sabre_21_%28Image_2_of_2%29.jpg/1280px-210716-M-VR873-1135_-_MIM-104_Patriot_at_exercise_Talisman_Sabre_21_%28Image_2_of_2%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/9e/210716-M-VR873-1135_-_MIM-104_Patriot_at_exercise_Talisman_Sabre_21_%28Image_2_of_2%29.jpg",
+      "width": 5136,
+      "height": 3424,
+      "title": "210716-M-VR873-1135 - MIM-104 Patriot at exercise Talisman Sabre 21 (Image 2 of 2).jpg",
+      "description": "Soldiers with 1st Battalion, 1st Air Defense Artillery Regiment, fire the MIM-104 Patriot to destroy a drone target Jul. 16, 2021, at Camp Growl in Queensland, Australia, during Exercise Talisman Sabr",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Flickr_-_Government_Press_Office_%28GPO%29_-_Patriot_missiles_being_launched_to_intercept_an_Iraqi_Scud_missile.jpg/1280px-Flickr_-_Government_Press_Office_%28GPO%29_-_Patriot_missiles_being_launched_to_intercept_an_Iraqi_Scud_missile.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Flickr_-_Government_Press_Office_%28GPO%29_-_Patriot_missiles_being_launched_to_intercept_an_Iraqi_Scud_missile.jpg",
+      "width": 3072,
+      "height": 2048,
+      "title": "Flickr - Government Press Office (GPO) - Patriot missiles being launched to intercept an Iraqi Scud missile.jpg",
+      "description": "<p>Patriot missiles being launched to intercept an Iraqi Scud missile over the city of Tel Aviv. \n\u05de\u05dc\u05d7\u05de\u05ea \u05d4\u05de\u05e4\u05e8\u05e5. \u05d1\u05e6\u05d9\u05dc\u05d5\u05dd, \u05e9\u05d9\u05d2\u05d5\u05e8 \u05d8\u05d9\u05dc\u05d9 \u05e4\u05d8\u05e8\u05d9\u05d5\u05d8 \u05d1\u05de\u05d8\u05e8\u05d4 \u05dc\u05d9\u05d9\u05e8\u05d8 \u05d8\u05d9\u05dc\u05d9 \u05e1\u05e7\u05d0\u05d3, \u05e9\u05e9\u05d5\u05d2\u05e8\u05d5 \u05de\u05e2\u05d9\u05e8\u05d0\u05e7, \u05de\u05e2\u05dc \u05e9\u05de\u05d9 \u05ea\u05dc \u05d0\u05d1\u05d9\u05d1.\n</p>\nPho",
+      "license": "CC BY-SA 3.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/INERT_MIM-104_Patriot_training_equipment_for_the_Dutch_Army_at_Rescue_Zeeland.jpg/1280px-INERT_MIM-104_Patriot_training_equipment_for_the_Dutch_Army_at_Rescue_Zeeland.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/0a/INERT_MIM-104_Patriot_training_equipment_for_the_Dutch_Army_at_Rescue_Zeeland.jpg",
+      "width": 3190,
+      "height": 3072,
+      "title": "INERT MIM-104 Patriot training equipment for the Dutch Army at Rescue Zeeland.jpg",
+      "description": "INERT MIM-104 Patriot training equipment for the Dutch Army at Rescue Zeeland\u00a0<span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"//commons.wikimedia.org/wiki/File:INERT_MIM-1",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/MIM-104_Patriot_LS_Access_Panel_Pwr_Sply.jpg/1280px-MIM-104_Patriot_LS_Access_Panel_Pwr_Sply.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/d1/MIM-104_Patriot_LS_Access_Panel_Pwr_Sply.jpg",
+      "width": 3600,
+      "height": 2400,
+      "title": "MIM-104 Patriot LS Access Panel Pwr Sply.jpg",
+      "description": "View on the Access Panel Logic and Ordnance Power Supply of a German Air Force MIM-104 Patriot Launching Station, ILA Berlin Air Show 2022",
+      "license": "CC BY-SA 3.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/31/MIM-104_Patriot_LS_Fassberg-2019.JPG",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/31/MIM-104_Patriot_LS_Fassberg-2019.JPG",
+      "width": 1024,
+      "height": 768,
+      "title": "MIM-104 Patriot LS Fassberg-2019.JPG",
+      "description": "German Air Force M901 launching station of MIM-104 <i>Patriot</i> SAM system. The launcher is assigned to FlaRakGrp 24 Bad S\u00fclze and  equipped with four PAC-2 canisters, German Forces Day Fassberg 201",
+      "license": "CC BY-SA 3.0 de",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/36/MIM-104_Patriot_LS_front_Rostock_2025.JPG",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/36/MIM-104_Patriot_LS_front_Rostock_2025.JPG",
+      "width": 1280,
+      "height": 960,
+      "title": "MIM-104 Patriot LS front Rostock 2025.JPG",
+      "description": "Launching station LS M901 of MIM-104 <i>Patriot</i> SAM system with 4 PAC-2 canisters, assigned to German Luftwaffe FlaRakGrp 21 Sanitz, on display at Open Day at Naval base Rostock Hohe D\u00fcne 2025",
+      "license": "CC BY-SA 3.0 de",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/80/MIM-104_Patriot_LS_prepared_to_move_Rostock_2016.JPG",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/80/MIM-104_Patriot_LS_prepared_to_move_Rostock_2016.JPG",
+      "width": 1024,
+      "height": 768,
+      "title": "MIM-104 Patriot LS prepared to move Rostock 2016.JPG",
+      "description": "Launching station of MIM-104 <i>Patriot</i> SAM system assigned to German Luftwaffe FlaRakGrp 21 Sanitz on display at Open Day at Naval base Rostock Hohe D\u00fcne 2016",
+      "license": "CC BY-SA 3.0 de",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/91/MIM-104_Patriot_TP_Rostock_2016.JPG",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/91/MIM-104_Patriot_TP_Rostock_2016.JPG",
+      "width": 1024,
+      "height": 768,
+      "title": "MIM-104 Patriot TP Rostock 2016.JPG",
+      "description": "Transporter of MIM-104 <i>Patriot</i> SAM system assigned to German Luftwaffe FlaRakGrp 21 Sanitz on display at Open Day at Naval base Rostock Hohe D\u00fcne 2016",
+      "license": "CC BY-SA 3.0 de",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/74th_Patriot_Regiment_missile_launch.jpg/1280px-74th_Patriot_Regiment_missile_launch.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/18/74th_Patriot_Regiment_missile_launch.jpg",
+      "width": 5472,
+      "height": 3648,
+      "title": "74th Patriot Regiment missile launch.jpg",
+      "description": "The Romanian Army's 74th Patriot Regiment conducted the country's first PATRIOT missile system live-fire exercise at the Capu Midia test firing range in Romania Nov. 14-15, 2023. Romania received the ",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/90/Dutch_Patriot_missile_in_Poland_3.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/90/Dutch_Patriot_missile_in_Poland_3.jpg",
+      "width": 1250,
+      "height": 833,
+      "title": "Dutch Patriot missile in Poland 3.jpg",
+      "description": "Dutch Patriot missile in Poland",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/German_Patriot_missile_launcher.jpg/1280px-German_Patriot_missile_launcher.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/8a/German_Patriot_missile_launcher.jpg",
+      "width": 2832,
+      "height": 1888,
+      "title": "German Patriot missile launcher.jpg",
+      "description": "A missile launcher of a german PATRIOT surface to air missile system displayed at Fort Bliss.",
+      "license": "CC BY 2.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/German_Patriot_missile_launcher_%28cropped%29.jpg/1280px-German_Patriot_missile_launcher_%28cropped%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/18/German_Patriot_missile_launcher_%28cropped%29.jpg",
+      "width": 2250,
+      "height": 1800,
+      "title": "German Patriot missile launcher (cropped).jpg",
+      "description": "A missile launcher of a german PATRIOT surface to air missile system displayed at Fort Bliss.",
+      "license": "CC BY 2.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Patriot_missile_firing_during_Balikatan_2023.jpg/1280px-Patriot_missile_firing_during_Balikatan_2023.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/19/Patriot_missile_firing_during_Balikatan_2023.jpg",
+      "width": 4026,
+      "height": 2685,
+      "title": "Patriot missile firing during Balikatan 2023.jpg",
+      "description": "A U.S. Army MIM-104 Patriot surface-to-air missile system is fired for a coastal air defense event during Balikatan 23 at the Naval Education, Training and Doctrine Command, Philippines, April 25, 202",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Patriot_missile_is_launched.jpg/1280px-Patriot_missile_is_launched.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Patriot_missile_is_launched.jpg",
+      "width": 1470,
+      "height": 1120,
+      "title": "Patriot missile is launched.jpg",
+      "description": "A Patriot missile is launched by soldiers of the 11th Brigade, 43rd Air Defense Artillery, at McGregor Range near El Paso, Texas, on April 30, 1997. More than 20,000 service members from all branches ",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Sun_rises_over_Patriot_missile_launcher_in_Slovakia_%287337597%29.jpg/1280px-Sun_rises_over_Patriot_missile_launcher_in_Slovakia_%287337597%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/57/Sun_rises_over_Patriot_missile_launcher_in_Slovakia_%287337597%29.jpg",
+      "width": 4032,
+      "height": 3024,
+      "title": "Sun rises over Patriot missile launcher in Slovakia (7337597).jpg",
+      "description": "The sun rises over a 10th AAMDC Patriot missile launcher in Slovakia on July 27. Bravo Battery, 5-7 Air Defense Artillery is preparing for crew qualification tables and NATO readiness evaluations in t",
+      "license": "Public domain",
+      "source": "wikimedia"
+    }
+  ]
+}

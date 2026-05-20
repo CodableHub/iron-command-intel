@@ -1,0 +1,283 @@
+{
+  "id": 165,
+  "slug": "cj-10-land-attack-cruise-missile",
+  "name": "CJ-10 land-attack cruise missile",
+  "designation": "CJ-10 / DH-10 (Changjian-10)",
+  "type": "cruise-missile",
+  "country": "China",
+  "operator": "PLA Rocket Force; PLA Air Force (KD-20 air-launched)",
+  "overview_md": "The CJ-10 (\"Changjian-10\", Long Sword 10) is China's principal long-range land-attack cruise missile \u2014 the rough equivalent of the U.S. Tomahawk in the PLA's arsenal. Developed from the earlier DH-10 program, it is a subsonic, terrain-following missile designed to deliver a precision conventional warhead against fixed high-value targets out to roughly 1,500\u20132,000 km.\n\nIt is fielded primarily by the PLA Rocket Force on road-mobile launchers, with the air-launched KD-20 derivative carried by H-6K bombers extending its reach far beyond Chinese airspace. Guidance combines inertial navigation with satellite updates and likely terrain-contour and scene-matching, giving the precision needed to strike command nodes, airfields and infrastructure.\n\nFor an analyst, the CJ-10 is the conventional land-attack backbone of China's stand-off strike. Mounted on mobile launchers and bombers, it lets the PLA hold regional bases and infrastructure at risk without committing aircraft to defended airspace \u2014 the cruise-missile complement to the ballistic DF-series in China's reconnaissance-strike system.",
+  "specs_json": {
+    "length_m": 7.0,
+    "additional": {
+      "range": "~1,500\u20132,000 km",
+      "speed": "~Mach 0.75 (subsonic)",
+      "warhead": "~500 kg conventional",
+      "guidance": "Inertial + satellite + terrain/scene matching",
+      "launch_platforms": "Road-mobile TEL (PLARF); H-6K bombers (KD-20)",
+      "flight_profile": "Low-altitude terrain-following"
+    }
+  },
+  "armament_json": [],
+  "variants_json": [
+    {
+      "name": "CJ-10 / DH-10 (ground)",
+      "years": "2009\u2013",
+      "key_changes": "Road-mobile land-attack cruise missile",
+      "status": "active"
+    },
+    {
+      "name": "KD-20 / CJ-10K (air-launched)",
+      "years": "2009\u2013",
+      "key_changes": "H-6K-carried variant for extended reach",
+      "status": "active"
+    },
+    {
+      "name": "CJ-100 / CJ-20",
+      "years": "2019\u2013",
+      "key_changes": "Higher-performance follow-on cruise missiles",
+      "status": "active"
+    }
+  ],
+  "fleet_status_json": [],
+  "cost_usd": 0.0,
+  "unit_count": 0,
+  "first_commissioned": "2009",
+  "builder": "China Aerospace Science and Industry Corp. (CASIC)",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/92/0_Genesis_G80_%28DH%29_10.jpg",
+  "wiki_url": "https://en.wikipedia.org/wiki/CJ-10",
+  "sources_json": [
+    "https://en.wikipedia.org/wiki/CJ-10"
+  ],
+  "comparison_tags": [
+    "missile",
+    "cruise-missile",
+    "land-attack",
+    "a2ad",
+    "china",
+    "plarf"
+  ],
+  "created_at": "2026-05-20 07:38:22",
+  "updated_at": "2026-05-20T07:38:22.408908",
+  "news": [],
+  "events": [],
+  "ic_coverage": [],
+  "combat_history": [
+    {
+      "date": "2009-10",
+      "event": "Paraded in Beijing, confirming China's long-range land-attack cruise missile capability.",
+      "significance": "Marked China's entry into Tomahawk-class stand-off strike."
+    }
+  ],
+  "modernization": [
+    {
+      "program": "CJ-100 / CJ-20 follow-ons",
+      "status": "in-progress",
+      "timeline": "2019\u2013",
+      "description": "Higher-speed and longer-range successors broaden the cruise-missile force.",
+      "impact": "Increases reach and survivability of stand-off strike."
+    }
+  ],
+  "vulnerabilities": [
+    {
+      "area": "Subsonic speed",
+      "description": "Like all subsonic cruise missiles, vulnerable to modern integrated air defence.",
+      "context": "Dense IADS can attrite a raid.",
+      "mitigation": "Terrain masking and saturation."
+    },
+    {
+      "area": "GPS reliance",
+      "description": "Satellite-aided navigation can be jammed.",
+      "context": "Peer EW threatens accuracy.",
+      "mitigation": "Terrain/scene-matching backup."
+    }
+  ],
+  "operational_patterns": {
+    "typical_deployment": "Stand-off precision strikes on fixed targets from mobile launchers and bombers.",
+    "key_operating_areas": [
+      "Taiwan Strait",
+      "Western Pacific",
+      "East China Sea",
+      "South China Sea"
+    ],
+    "typical_task_group": "PLARF launcher brigades; H-6K raids under fighter cover.",
+    "readiness_notes": "Mature; complemented by CJ-100/CJ-20."
+  },
+  "peer_comparisons": [
+    {
+      "platform": "Tomahawk cruise missile",
+      "country": "United States",
+      "relationship": "direct counterpart",
+      "key_differences": "Both are subsonic precision land-attack missiles; the CJ-10 is China's Tomahawk equivalent, ground- and air-launched.",
+      "video_angle": "China's Tomahawk."
+    },
+    {
+      "platform": "3M14 Kalibr",
+      "country": "Russia",
+      "relationship": "peer",
+      "key_differences": "Russia's land-attack cruise missile, used heavily against Ukraine.",
+      "video_angle": "The great-power land-attack cruise missiles."
+    },
+    {
+      "platform": "Hyunmoo-3",
+      "country": "South Korea",
+      "relationship": "regional peer",
+      "key_differences": "South Korea's comparable long-range land-attack cruise missile.",
+      "video_angle": "East Asia's cruise-missile arsenals."
+    }
+  ],
+  "search_keywords": [
+    "CJ-10",
+    "DH-10",
+    "Changjian-10",
+    "Long Sword 10",
+    "KD-20",
+    "China land-attack cruise missile",
+    "CJ-100"
+  ],
+  "doctrine": {
+    "role": "Long-range conventional land-attack cruise missile \u2014 the PLA's Tomahawk-class stand-off weapon.",
+    "employment": "Mobile launchers and H-6K bombers strike fixed high-value targets without entering defended airspace.",
+    "design_philosophy": "Precision reach over speed \u2014 hold regional infrastructure at risk cheaply.",
+    "threat_context": "The cruise-missile complement to the DF-series in China's reconnaissance-strike complex.",
+    "comparison_frame": "Read against the Tomahawk, Kalibr and Hyunmoo-3."
+  },
+  "curated_sources": [
+    {
+      "title": "CJ-10 \u2014 Wikipedia",
+      "type": "reference",
+      "url": "https://en.wikipedia.org/wiki/CJ-10",
+      "relevance": "Range and basing",
+      "priority": "reference"
+    },
+    {
+      "title": "CSIS Missile Threat \u2014 CJ-10",
+      "type": "research",
+      "url": "https://missilethreat.csis.org/",
+      "relevance": "Profile",
+      "priority": "recommended"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/0_Genesis_G80_%28DH%29_10.jpg/1280px-0_Genesis_G80_%28DH%29_10.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/92/0_Genesis_G80_%28DH%29_10.jpg",
+      "width": 2036,
+      "height": 1311,
+      "title": "0 Genesis G80 (DH) 10.jpg",
+      "description": "Genesis G80 (DH)",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/7d/150110_LOL_Champions_Korea_Spring_SKT_vs_CJ_%2810%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/7d/150110_LOL_Champions_Korea_Spring_SKT_vs_CJ_%2810%29.jpg",
+      "width": 1200,
+      "height": 1000,
+      "title": "150110 LOL Champions Korea Spring SKT vs CJ (10).jpg",
+      "description": "150110 LOL Champions Korea Spring SKT vs CJ",
+      "license": "CC BY 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Airco_DH_10_ExCC.jpg/1280px-Airco_DH_10_ExCC.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/99/Airco_DH_10_ExCC.jpg",
+      "width": 2005,
+      "height": 926,
+      "title": "Airco DH 10 ExCC.jpg",
+      "description": "",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Biserica_ortodox%C4%83_nou%C4%83%2C_RO_CJ_Iara_10.jpg/1280px-Biserica_ortodox%C4%83_nou%C4%83%2C_RO_CJ_Iara_10.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/de/Biserica_ortodox%C4%83_nou%C4%83%2C_RO_CJ_Iara_10.jpg",
+      "width": 3264,
+      "height": 2448,
+      "title": "Biserica ortodox\u0103 nou\u0103, RO CJ Iara 10.jpg",
+      "description": "Biserica nou\u0103 din Iera, jude\u021bul Cluj",
+      "license": "CC BY-SA 2.5",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Bovendijk_141_DH_%2810%29.jpg/1280px-Bovendijk_141_DH_%2810%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Bovendijk_141_DH_%2810%29.jpg",
+      "width": 11109,
+      "height": 4711,
+      "title": "Bovendijk 141 DH (10).jpg",
+      "description": "This is an image of a municipal monument in Den Haag with number",
+      "license": "CC BY-SA 3.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/CJ-10_Cruise_missile_20170919.jpg/1280px-CJ-10_Cruise_missile_20170919.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/ef/CJ-10_Cruise_missile_20170919.jpg",
+      "width": 2700,
+      "height": 1800,
+      "title": "CJ-10 Cruise missile 20170919.jpg",
+      "description": "\u200b\u4e2d\u56fd\u4eba\u6c11\u9769\u547d\u519b\u4e8b\u535a\u7269\u9986\u7eaa\u5ff5\u4e2d\u56fd\u4eba\u6c11\u89e3\u653e\u519b\u5efa\u519b90\u5468\u5e74\u4e3b\u9898\u5c55\u89c8\u5c55\u51fa\u7684\u957f\u5251-10\u5de1\u822a\u5bfc\u5f39\u53d1\u5c04\u8f66\u3002",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Forstgrenzstein-DH-10.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Forstgrenzstein-DH-10.jpg",
+      "width": 800,
+      "height": 533,
+      "title": "Forstgrenzstein-DH-10.jpg",
+      "description": "Forstgrenzstein in der D\u00fcbener Heide",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Heracleum_mantegazzianum_Riesen-B%C3%A4renklau_im_Landkreis_DH-10.jpg/1280px-Heracleum_mantegazzianum_Riesen-B%C3%A4renklau_im_Landkreis_DH-10.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Heracleum_mantegazzianum_Riesen-B%C3%A4renklau_im_Landkreis_DH-10.jpg",
+      "width": 3744,
+      "height": 5616,
+      "title": "Heracleum mantegazzianum Riesen-B\u00e4renklau im Landkreis DH-10.jpg",
+      "description": "Riesen-B\u00e4renklau; Heracleum mantegazzianum (non-native)",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/17/Kreisgrenzstein_dh_%2810%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/17/Kreisgrenzstein_dh_%2810%29.jpg",
+      "width": 1000,
+      "height": 750,
+      "title": "Kreisgrenzstein dh (10).jpg",
+      "description": "Grenzstein in der D\u00fcbener Heide",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Les_Gets_Worlds_04_DH_10-09-2004_10-55-39.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Les_Gets_Worlds_04_DH_10-09-2004_10-55-39.jpg",
+      "width": 1280,
+      "height": 960,
+      "title": "Les Gets Worlds 04 DH 10-09-2004 10-55-39.jpg",
+      "description": "2004 UCI Mountain Bike and Trials World Championships",
+      "license": "CC BY-SA 2.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/09/Les_Gets_Worlds_04_DH_10-09-2004_12-47-11.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/09/Les_Gets_Worlds_04_DH_10-09-2004_12-47-11.jpg",
+      "width": 1280,
+      "height": 960,
+      "title": "Les Gets Worlds 04 DH 10-09-2004 12-47-11.jpg",
+      "description": "2004 UCI Mountain Bike and Trials World Championships",
+      "license": "CC BY-SA 2.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Unic_L61_%281926%29%2C_Dutch_licence_registration_DH-10-94_pic.JPG/1280px-Unic_L61_%281926%29%2C_Dutch_licence_registration_DH-10-94_pic.JPG",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/24/Unic_L61_%281926%29%2C_Dutch_licence_registration_DH-10-94_pic.JPG",
+      "width": 1376,
+      "height": 1038,
+      "title": "Unic L61 (1926), Dutch licence registration DH-10-94 pic.JPG",
+      "description": "<p>Photographed at Den Helder, The Netherlands.\n</p>\nOLYMPUS DIGITAL CAMERA",
+      "license": "CC0",
+      "source": "wikimedia"
+    }
+  ]
+}

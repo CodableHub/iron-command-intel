@@ -1,0 +1,326 @@
+{
+  "id": 159,
+  "slug": "df-26-ballistic-missile",
+  "name": "DF-26 intermediate-range ballistic missile",
+  "designation": "DF-26 (CSS-18)",
+  "type": "ballistic-missile",
+  "country": "China",
+  "operator": "PLA Rocket Force (PLARF)",
+  "overview_md": "The DF-26 is China's intermediate-range ballistic missile and the longer-ranged sibling of the DF-21D \u2014 nicknamed the \"Guam killer\" because its roughly 4,000 km reach lets it threaten the U.S. territory and its bases from the Chinese mainland. First publicly revealed in the 2015 Beijing parade and fielded from around 2016, it is one of the most flexible weapons in the PLA Rocket Force inventory.\n\nIts defining feature is dual capability in two senses. It can carry either a conventional or a nuclear warhead, and reportedly supports rapid \"hot-swapping\" of warhead packages in the field \u2014 a flexibility that complicates an adversary's calculus about whether an incoming DF-26 is a nuclear or conventional strike. It is also dual-role against targets: a precision land-attack weapon and, like the DF-21D, an anti-ship ballistic missile able to manoeuvre against ships at sea with a terminal seeker.\n\nFor an analyst, the DF-26 extends China's reconnaissance-strike complex from the first island chain out to the second. It pushes the threat envelope to Guam, forces dispersal and hardening of U.S. Pacific basing, and \u2014 paired with the DF-21D and DF-17 \u2014 creates a layered, mobile, hard-to-counter land-based missile threat that anchors China's anti-access strategy.",
+  "specs_json": {
+    "length_m": 14.0,
+    "additional": {
+      "range": "~4,000 km",
+      "warhead": "Conventional or nuclear; maneuverable RV (anti-ship variant)",
+      "terminal_speed": "~Mach 10+",
+      "guidance": "Inertial + satellite; radar/optical terminal seeker (ASBM mode)",
+      "roles": "Land-attack and anti-ship; dual conventional/nuclear",
+      "propulsion": "Two-stage solid-fuel",
+      "basing": "Road-mobile TEL"
+    }
+  },
+  "armament_json": [],
+  "variants_json": [
+    {
+      "name": "DF-26 (land-attack)",
+      "years": "2016\u2013",
+      "key_changes": "Conventional/nuclear precision strike to ~4,000 km",
+      "status": "active"
+    },
+    {
+      "name": "DF-26 (anti-ship)",
+      "years": "2018\u2013",
+      "key_changes": "Maneuverable RV with terminal seeker for striking ships",
+      "status": "active"
+    }
+  ],
+  "fleet_status_json": [],
+  "cost_usd": 20000000.0,
+  "unit_count": 0,
+  "first_commissioned": "2016",
+  "builder": "China Aerospace Science and Technology Corp. (CASC)",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Dong-Feng_26.JPG",
+  "wiki_url": "https://en.wikipedia.org/wiki/DF-26",
+  "sources_json": [
+    "https://en.wikipedia.org/wiki/DF-26",
+    "https://missilethreat.csis.org/missile/df-26/"
+  ],
+  "comparison_tags": [
+    "missile",
+    "ballistic-missile",
+    "irbm",
+    "anti-ship",
+    "a2ad",
+    "china",
+    "plarf",
+    "nuclear"
+  ],
+  "created_at": "2026-05-20 07:35:55",
+  "updated_at": "2026-05-20T07:35:55.334551",
+  "news": [],
+  "events": [],
+  "ic_coverage": [],
+  "combat_history": [
+    {
+      "date": "2020-08",
+      "event": "Fired alongside the DF-21D into the South China Sea during PLA exercises, reportedly striking near a moving target ship.",
+      "significance": "Demonstrated the long-range anti-ship ballistic missile concept at IRBM range."
+    },
+    {
+      "date": "2015-09",
+      "event": "Publicly unveiled at the Beijing V-Day parade as the 'Guam killer'.",
+      "significance": "Confirmed an IRBM able to range U.S. bases in the second island chain."
+    }
+  ],
+  "modernization": [
+    {
+      "program": "Warhead flexibility & ISR integration",
+      "status": "in-progress",
+      "timeline": "ongoing",
+      "description": "Improved hot-swap warhead handling and tighter satellite/OTH cueing for the anti-ship role.",
+      "impact": "Sharpens both deterrent ambiguity and maritime-strike timeliness."
+    }
+  ],
+  "vulnerabilities": [
+    {
+      "area": "Kill-chain dependency (ASBM mode)",
+      "description": "Anti-ship use depends on detecting and continuously tracking a distant moving ship.",
+      "context": "Sever the ISR/datalink chain and the maritime threat collapses.",
+      "mitigation": "Layered satellite, OTH radar and air/sub sensors."
+    },
+    {
+      "area": "Warhead ambiguity risk",
+      "description": "Conventional/nuclear commonality risks dangerous misinterpretation of a launch.",
+      "context": "An adversary may assume the worst, raising escalation risk.",
+      "mitigation": "(Strategic management, not technical.)"
+    }
+  ],
+  "operational_patterns": {
+    "typical_deployment": "Dispersed road-mobile launchers in interior China; salvo strike on cueing during a regional crisis.",
+    "key_operating_areas": [
+      "Western Pacific",
+      "Philippine Sea",
+      "South China Sea",
+      "Second Island Chain (Guam)"
+    ],
+    "typical_task_group": "Networked with Yaogan ISR satellites and OTH radar; complements DF-21D and DF-17.",
+    "readiness_notes": "Fielded in growing numbers across PLARF brigades."
+  },
+  "peer_comparisons": [
+    {
+      "platform": "DF-21D",
+      "country": "China",
+      "relationship": "shorter-range sibling",
+      "key_differences": "DF-21D is the ~1,500 km 'carrier killer'; DF-26 roughly doubles range to threaten Guam and adds nuclear flexibility.",
+      "video_angle": "Carrier killer vs Guam killer \u2014 China's reconnaissance-strike ladder."
+    },
+    {
+      "platform": "Tomahawk cruise missile",
+      "country": "United States",
+      "relationship": "asymmetric counterpart",
+      "key_differences": "Tomahawk is a subsonic precision cruise missile; the DF-26 is a hypersonic-terminal ballistic weapon with far greater reach and a nuclear option.",
+      "video_angle": "Ballistic mass vs cruise precision in the Pacific."
+    },
+    {
+      "platform": "DF-17 hypersonic missile",
+      "country": "China",
+      "relationship": "complementary system",
+      "key_differences": "DF-17 trades range for an unpredictable hypersonic glide path; DF-26 trades manoeuvre for reach and payload flexibility.",
+      "video_angle": "Inside China's layered land-based missile force."
+    }
+  ],
+  "search_keywords": [
+    "DF-26",
+    "Dong Feng 26",
+    "CSS-18",
+    "Guam killer",
+    "IRBM China",
+    "anti-ship ballistic missile",
+    "PLARF"
+  ],
+  "doctrine": {
+    "role": "Dual conventional/nuclear intermediate-range ballistic missile for land-attack and anti-ship strike out to the second island chain.",
+    "employment": "Dispersed mobile launchers strike fixed targets or manoeuvring ships on satellite/OTH cueing.",
+    "design_philosophy": "Reach plus flexibility \u2014 range to Guam and swappable conventional/nuclear payloads.",
+    "threat_context": "Extends China's A2/AD threat to the second island chain and forces dispersal of U.S. Pacific basing.",
+    "comparison_frame": "Read with DF-21D and DF-17 as a layered land-based reconnaissance-strike complex."
+  },
+  "curated_sources": [
+    {
+      "title": "DF-26 \u2014 Wikipedia",
+      "type": "reference",
+      "url": "https://en.wikipedia.org/wiki/DF-26",
+      "relevance": "Range, roles, dual-capability",
+      "priority": "reference"
+    },
+    {
+      "title": "CSIS Missile Threat \u2014 DF-26",
+      "type": "research",
+      "url": "https://missilethreat.csis.org/missile/df-26/",
+      "relevance": "Authoritative profile",
+      "priority": "essential"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/20190709_PROGRAMA_NACIONAL_INCENTIVO_VOLUNTARIADO_BRASILIA_DF_%2826%29_%2848253832576%29.jpg/1280px-20190709_PROGRAMA_NACIONAL_INCENTIVO_VOLUNTARIADO_BRASILIA_DF_%2826%29_%2848253832576%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/20190709_PROGRAMA_NACIONAL_INCENTIVO_VOLUNTARIADO_BRASILIA_DF_%2826%29_%2848253832576%29.jpg",
+      "width": 1649,
+      "height": 1116,
+      "title": "20190709 PROGRAMA NACIONAL INCENTIVO VOLUNTARIADO BRASILIA DF (26) (48253832576).jpg",
+      "description": "20190709_PROGRAMA_NACIONAL_INCENTIVO_VOLUNTARIADO_BRASILIA_DF (26)",
+      "license": "CC BY 2.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/20230105_POSSE_TEBET_BSB_DF_%2826%29_%2852608806561%29.jpg/1280px-20230105_POSSE_TEBET_BSB_DF_%2826%29_%2852608806561%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/8f/20230105_POSSE_TEBET_BSB_DF_%2826%29_%2852608806561%29.jpg",
+      "width": 4464,
+      "height": 2976,
+      "title": "20230105 POSSE TEBET BSB DF (26) (52608806561).jpg",
+      "description": "<p>Evento: Cerim\u00f4nia de Posse da Simone Tebet - Minist\u00e9rio do Planejamento e Or\u00e7amento - MPO\nData: 05 de janeiro de 2023\nLocal: Pal\u00e1cio do Planalto\nCidade - UF: Bras\u00edlia/DF \nRealiza\u00e7\u00e3o: Minist\u00e9rio do ",
+      "license": "CC BY 2.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/DEP_JULIO_CESAR_RIBEIRO_REPUBLICANOS_DF_%2826%29_%2849498981057%29.jpg/1280px-DEP_JULIO_CESAR_RIBEIRO_REPUBLICANOS_DF_%2826%29_%2849498981057%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/ba/DEP_JULIO_CESAR_RIBEIRO_REPUBLICANOS_DF_%2826%29_%2849498981057%29.jpg",
+      "width": 1649,
+      "height": 1116,
+      "title": "DEP JULIO CESAR RIBEIRO REPUBLICANOS DF (26) (49498981057).jpg",
+      "description": "DEP_JULIO_CESAR_RIBEIRO_REPUBLICANOS_DF (26)",
+      "license": "CC BY 2.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/DF-4_Missile_%28Horizontal%29.png/1280px-DF-4_Missile_%28Horizontal%29.png",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/f3/DF-4_Missile_%28Horizontal%29.png",
+      "width": 4076,
+      "height": 1000,
+      "title": "DF-4 Missile (Horizontal).png",
+      "description": "Diagram of the Chinese DF-4 ICBM",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Dong-Feng_26.JPG/1280px-Dong-Feng_26.JPG",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Dong-Feng_26.JPG",
+      "width": 2592,
+      "height": 1936,
+      "title": "Dong-Feng 26.JPG",
+      "description": "The newly developed DF-26 medium-range ballistic missile as seen after the military parade held in Beijing to commemorate the 70th anniversary of the end of WWII.",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Imagens_de_rua_Gama-DF_26.jpg/1280px-Imagens_de_rua_Gama-DF_26.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Imagens_de_rua_Gama-DF_26.jpg",
+      "width": 4000,
+      "height": 3000,
+      "title": "Imagens de rua Gama-DF 26.jpg",
+      "description": "Imagens a n\u00edvel de rua em Gama no Distrito Federal",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Santu%C3%A1rio_Dom_Bosco_Bras%C3%ADlia-DF_26.jpg/1280px-Santu%C3%A1rio_Dom_Bosco_Bras%C3%ADlia-DF_26.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/41/Santu%C3%A1rio_Dom_Bosco_Bras%C3%ADlia-DF_26.jpg",
+      "width": 4000,
+      "height": 3000,
+      "title": "Santu\u00e1rio Dom Bosco Bras\u00edlia-DF 26.jpg",
+      "description": "Santu\u00e1rio Dom Bosco, situado em Bras\u00edlia, Distrito Federal, Brasil",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Sobradinho%2C_DF_26_11_2019_Premia%C3%A7%C3%B5es_dos_Projetos_Socioeducativos_2019_-_Instituto_Santo_Elias_%2849141788812%29.jpg/1280px-Sobradinho%2C_DF_26_11_2019_Premia%C3%A7%C3%B5es_dos_Projetos_Socioeducativos_2019_-_Instituto_Santo_Elias_%2849141788812%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Sobradinho%2C_DF_26_11_2019_Premia%C3%A7%C3%B5es_dos_Projetos_Socioeducativos_2019_-_Instituto_Santo_Elias_%2849141788812%29.jpg",
+      "width": 3500,
+      "height": 2333,
+      "title": "Sobradinho, DF 26 11 2019 Premia\u00e7\u00f5es dos Projetos Socioeducativos 2019 - Instituto Santo Elias (49141788812).jpg",
+      "description": "Foto: Lucas Pricken. #VisibleWikiWomen",
+      "license": "CC BY 2.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Sobradinho%2C_DF_26_11_2019_Premia%C3%A7%C3%B5es_dos_Projetos_Socioeducativos_2019_-_Instituto_Santo_Elias_%2849141789177%29.jpg/1280px-Sobradinho%2C_DF_26_11_2019_Premia%C3%A7%C3%B5es_dos_Projetos_Socioeducativos_2019_-_Instituto_Santo_Elias_%2849141789177%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/76/Sobradinho%2C_DF_26_11_2019_Premia%C3%A7%C3%B5es_dos_Projetos_Socioeducativos_2019_-_Instituto_Santo_Elias_%2849141789177%29.jpg",
+      "width": 3500,
+      "height": 2333,
+      "title": "Sobradinho, DF 26 11 2019 Premia\u00e7\u00f5es dos Projetos Socioeducativos 2019 - Instituto Santo Elias (49141789177).jpg",
+      "description": "Foto: Lucas Pricken. #VisibleWikiWomen",
+      "license": "CC BY 2.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/2021-02-12_Pedro_Cesar_Sousa%2C_Ministro-Chefe_da_Secretaria-Geral_da_Presid%C3%AAncia_da_Rep%C3%BAblica_interino_e_Policiais_Militares_do_DF_26.jpg/1280px-2021-02-12_Pedro_Cesar_Sousa%2C_Ministro-Chefe_da_Secretaria-Geral_da_Presid%C3%AAncia_da_Rep%C3%BAblica_interino_e_Policiais_Militares_do_DF_26.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/f0/2021-02-12_Pedro_Cesar_Sousa%2C_Ministro-Chefe_da_Secretaria-Geral_da_Presid%C3%AAncia_da_Rep%C3%BAblica_interino_e_Policiais_Militares_do_DF_26.jpg",
+      "width": 3506,
+      "height": 2337,
+      "title": "2021-02-12 Pedro Cesar Sousa, Ministro-Chefe da Secretaria-Geral da Presid\u00eancia da Rep\u00fablica interino e Policiais Militares do DF 26.jpg",
+      "description": "(Bras\u00edlia, 12/02/2021) Encontro com Pedro Cesar Sousa, Ministro-Chefe da Secretaria-Geral da Presid\u00eancia da Rep\u00fablica interino e Policiais Militares do DF.\nFoto: Isac N\u00f3brega",
+      "license": "CC BY 2.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Sobradinho%2C_DF_26_11_2019_Premia%C3%A7%C3%B5es_dos_Projetos_Socioeducativos_2019_-_Instituto_Santo_Elias_%2849141094188%29.jpg/1280px-Sobradinho%2C_DF_26_11_2019_Premia%C3%A7%C3%B5es_dos_Projetos_Socioeducativos_2019_-_Instituto_Santo_Elias_%2849141094188%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/38/Sobradinho%2C_DF_26_11_2019_Premia%C3%A7%C3%B5es_dos_Projetos_Socioeducativos_2019_-_Instituto_Santo_Elias_%2849141094188%29.jpg",
+      "width": 3499,
+      "height": 2333,
+      "title": "Sobradinho, DF 26 11 2019 Premia\u00e7\u00f5es dos Projetos Socioeducativos 2019 - Instituto Santo Elias (49141094188).jpg",
+      "description": "Foto: Lucas Pricken. #VisibleWikiWomen",
+      "license": "CC BY 2.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/2023_DongFeng_Shine_Max_white_front.jpg/1280px-2023_DongFeng_Shine_Max_white_front.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/39/2023_DongFeng_Shine_Max_white_front.jpg",
+      "width": 1440,
+      "height": 1080,
+      "title": "2023 DongFeng Shine Max white front.jpg",
+      "description": "Front view of a white DongFeng Shine Max",
+      "license": "CC BY 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Dong_Feng_1_%28DF-1%29_at_Beijing_Military_Museum.jpg/1280px-Dong_Feng_1_%28DF-1%29_at_Beijing_Military_Museum.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Dong_Feng_1_%28DF-1%29_at_Beijing_Military_Museum.jpg",
+      "width": 1952,
+      "height": 3608,
+      "title": "Dong Feng 1 (DF-1) at Beijing Military Museum.jpg",
+      "description": "The DF-1 seen from opposite the Entrance.",
+      "license": "CC BY-SA 2.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/GD_%E5%BB%A3%E6%9D%B1%E7%9C%81_Guangdong_DG_%E6%9D%B1%E8%8E%9E%E5%B8%82_DongGuan_%E5%8E%9A%E8%A1%97_Houjie_%E6%96%B0%E5%9C%B0_%E9%B3%B3%E5%87%B0%E8%B7%AF_Xindi_FengHuang_Road_night_December_2025_N13P_107.jpg/1280px-GD_%E5%BB%A3%E6%9D%B1%E7%9C%81_Guangdong_DG_%E6%9D%B1%E8%8E%9E%E5%B8%82_DongGuan_%E5%8E%9A%E8%A1%97_Houjie_%E6%96%B0%E5%9C%B0_%E9%B3%B3%E5%87%B0%E8%B7%AF_Xindi_FengHuang_Road_night_December_2025_N13P_107.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/cf/GD_%E5%BB%A3%E6%9D%B1%E7%9C%81_Guangdong_DG_%E6%9D%B1%E8%8E%9E%E5%B8%82_DongGuan_%E5%8E%9A%E8%A1%97_Houjie_%E6%96%B0%E5%9C%B0_%E9%B3%B3%E5%87%B0%E8%B7%AF_Xindi_FengHuang_Road_night_December_2025_N13P_107.jpg",
+      "width": 4080,
+      "height": 3060,
+      "title": "GD \u5ee3\u6771\u7701 Guangdong DG \u6771\u839e\u5e02 DongGuan \u539a\u8857 Houjie \u65b0\u5730 \u9cf3\u51f0\u8def Xindi FengHuang Road night December 2025 N13P 107.jpg",
+      "description": "GD \u5ee3\u6771\u7701 Guangdong DG \u6771\u839e\u5e02 DongGuan \u539a\u8857 Houjie \u65b0\u5730 \u9cf3\u51f0\u8def Xindi FengHuang Road night in December 2025",
+      "license": "CC0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/GD_%E5%BB%A3%E6%9D%B1%E7%9C%81_Guangdong_DG_%E6%9D%B1%E8%8E%9E%E5%B8%82_DongGuan_%E5%8E%9A%E8%A1%97_Houjie_%E6%96%B0%E5%9C%B0_%E9%B3%B3%E5%87%B0%E8%B7%AF_Xindi_FengHuang_Road_night_December_2025_N13P_109.jpg/1280px-GD_%E5%BB%A3%E6%9D%B1%E7%9C%81_Guangdong_DG_%E6%9D%B1%E8%8E%9E%E5%B8%82_DongGuan_%E5%8E%9A%E8%A1%97_Houjie_%E6%96%B0%E5%9C%B0_%E9%B3%B3%E5%87%B0%E8%B7%AF_Xindi_FengHuang_Road_night_December_2025_N13P_109.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/0b/GD_%E5%BB%A3%E6%9D%B1%E7%9C%81_Guangdong_DG_%E6%9D%B1%E8%8E%9E%E5%B8%82_DongGuan_%E5%8E%9A%E8%A1%97_Houjie_%E6%96%B0%E5%9C%B0_%E9%B3%B3%E5%87%B0%E8%B7%AF_Xindi_FengHuang_Road_night_December_2025_N13P_109.jpg",
+      "width": 3060,
+      "height": 4080,
+      "title": "GD \u5ee3\u6771\u7701 Guangdong DG \u6771\u839e\u5e02 DongGuan \u539a\u8857 Houjie \u65b0\u5730 \u9cf3\u51f0\u8def Xindi FengHuang Road night December 2025 N13P 109.jpg",
+      "description": "GD \u5ee3\u6771\u7701 Guangdong DG \u6771\u839e\u5e02 DongGuan \u539a\u8857 Houjie \u65b0\u5730 \u9cf3\u51f0\u8def Xindi FengHuang Road night in December 2025",
+      "license": "CC0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/GD_%E5%BB%A3%E6%9D%B1%E7%9C%81_Guangdong_DG_%E6%9D%B1%E8%8E%9E%E5%B8%82_DongGuan_%E5%8E%9A%E8%A1%97_Houjie_%E6%96%B0%E5%9C%B0_%E9%B3%B3%E5%87%B0%E8%B7%AF_Xindi_FengHuang_Road_night_December_2025_N13P_114.jpg/1280px-GD_%E5%BB%A3%E6%9D%B1%E7%9C%81_Guangdong_DG_%E6%9D%B1%E8%8E%9E%E5%B8%82_DongGuan_%E5%8E%9A%E8%A1%97_Houjie_%E6%96%B0%E5%9C%B0_%E9%B3%B3%E5%87%B0%E8%B7%AF_Xindi_FengHuang_Road_night_December_2025_N13P_114.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/4b/GD_%E5%BB%A3%E6%9D%B1%E7%9C%81_Guangdong_DG_%E6%9D%B1%E8%8E%9E%E5%B8%82_DongGuan_%E5%8E%9A%E8%A1%97_Houjie_%E6%96%B0%E5%9C%B0_%E9%B3%B3%E5%87%B0%E8%B7%AF_Xindi_FengHuang_Road_night_December_2025_N13P_114.jpg",
+      "width": 4080,
+      "height": 3060,
+      "title": "GD \u5ee3\u6771\u7701 Guangdong DG \u6771\u839e\u5e02 DongGuan \u539a\u8857 Houjie \u65b0\u5730 \u9cf3\u51f0\u8def Xindi FengHuang Road night December 2025 N13P 114.jpg",
+      "description": "GD \u5ee3\u6771\u7701 Guangdong DG \u6771\u839e\u5e02 DongGuan \u539a\u8857 Houjie \u65b0\u5730 \u9cf3\u51f0\u8def Xindi FengHuang Road night in December 2025",
+      "license": "CC0",
+      "source": "wikimedia"
+    }
+  ]
+}

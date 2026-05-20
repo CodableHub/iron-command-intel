@@ -1,0 +1,259 @@
+{
+  "combat_history": [
+    {
+      "date": "2022-12",
+      "event": "Japan's National Security Strategy committed to a counterstrike capability built around the Type 12 ER and other stand-off weapons.",
+      "significance": "Marked Japan's historic shift toward long-range strike."
+    }
+  ],
+  "modernization": [
+    {
+      "program": "Type 12 ER & mass procurement",
+      "status": "in-progress",
+      "timeline": "2024\u20132027",
+      "description": "Extended-range, multi-domain variants procured in quantity and distributed across the Nansei Islands.",
+      "impact": "Turns a coastal weapon into a first-island-chain stand-off strike force."
+    }
+  ],
+  "vulnerabilities": [
+    {
+      "area": "Subsonic speed",
+      "description": "Vulnerable to modern shipboard and area air defence.",
+      "context": "Needs saturation and stand-off range to be effective.",
+      "mitigation": "ER range and terrain-following profile."
+    },
+    {
+      "area": "Targeting reach",
+      "description": "Long-range shots require off-board ISR and targeting.",
+      "context": "Depends on networked surveillance.",
+      "mitigation": "Integration with allied ISR."
+    }
+  ],
+  "operational_patterns": {
+    "typical_deployment": "Distributed coastal batteries across Japan's island chain for anti-ship denial; ER variants for stand-off strike.",
+    "key_operating_areas": [
+      "East China Sea",
+      "Nansei (Ryukyu) Islands",
+      "Taiwan Strait approaches",
+      "Sea of Japan"
+    ],
+    "typical_task_group": "JGSDF surface-to-ship missile regiments; future ship and air carriage.",
+    "readiness_notes": "Baseline fielded; ER entering production."
+  },
+  "peer_comparisons": [
+    {
+      "platform": "YJ-12B",
+      "country": "China",
+      "relationship": "rival coastal ASCM",
+      "key_differences": "China's coastal anti-ship missile is supersonic; the Type 12 trades speed for range and is being extended for counterstrike.",
+      "video_angle": "The coastal missile duel across the first island chain."
+    },
+    {
+      "platform": "Tomahawk cruise missile",
+      "country": "United States",
+      "relationship": "complementary allied weapon",
+      "key_differences": "Japan is also buying Tomahawks for counterstrike; the Type 12 ER is the indigenous parallel.",
+      "video_angle": "How Japan is building a counterstrike force."
+    },
+    {
+      "platform": "NSM (Naval Strike Missile)",
+      "country": "Norway",
+      "relationship": "Western analogue",
+      "key_differences": "A comparable stealthy subsonic anti-ship missile widely adopted by U.S. allies.",
+      "video_angle": "The new generation of Western anti-ship missiles."
+    }
+  ],
+  "search_keywords": [
+    "Type 12 SSM",
+    "Type 12 ER",
+    "Japan surface-to-ship missile",
+    "JGSDF missile",
+    "Japan counterstrike",
+    "Nansei Islands missile"
+  ],
+  "doctrine": {
+    "role": "Coastal anti-ship missile evolving into a long-range stand-off and counterstrike weapon.",
+    "employment": "Distributed island batteries deny sea lanes; extended-range variants strike ships and land targets at distance.",
+    "design_philosophy": "From coastal denial to active counterstrike \u2014 range growth on a proven airframe.",
+    "threat_context": "Helps close the first island chain to hostile shipping and embodies Japan's shift to active deterrence.",
+    "comparison_frame": "Read against China's YJ-12B, allied Tomahawk buys and the Norwegian NSM."
+  },
+  "curated_sources": [
+    {
+      "title": "Type 12 SSM \u2014 Wikipedia",
+      "type": "reference",
+      "url": "https://en.wikipedia.org/wiki/Type_12_surface-to-ship_missile",
+      "relevance": "Baseline and ER program",
+      "priority": "reference"
+    },
+    {
+      "title": "Japan MoD Defense Buildup Program",
+      "type": "official",
+      "url": "https://www.mod.go.jp/en/",
+      "relevance": "Counterstrike policy context",
+      "priority": "essential"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/JGSDF_5th_Surface-to-Surface_Missile_Regiment.jpg/1280px-JGSDF_5th_Surface-to-Surface_Missile_Regiment.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/d3/JGSDF_5th_Surface-to-Surface_Missile_Regiment.jpg",
+      "width": 6000,
+      "height": 4000,
+      "title": "JGSDF 5th Surface-to-Surface Missile Regiment.jpg",
+      "description": "\u6e6f\u5e03\u9662\u99d0\u5c6f\u5730\u8a18\u5ff5\u5f0f\u5178\u3067\u306e\u89b3\u95b2\u884c\u9032\uff0812\u5f0f\u5730\u5bfe\u8266\u8a98\u5c0e\u5f3e\uff09",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/JGSDF_Type_12_Surface-to-Ship_Missile_2024_WEC_Fuji.jpg/1280px-JGSDF_Type_12_Surface-to-Ship_Missile_2024_WEC_Fuji.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/d3/JGSDF_Type_12_Surface-to-Ship_Missile_2024_WEC_Fuji.jpg",
+      "width": 2560,
+      "height": 1707,
+      "title": "JGSDF Type 12 Surface-to-Ship Missile 2024 WEC Fuji.jpg",
+      "description": "<b><a href=\"//commons.wikimedia.org/w/index.php?title=FIA_World_Endurance_Championship&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"FIA World Endurance Championship (page does not exist)\">FIA Wor",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/1d/JGSDF_fire_Type_12_Surface_to_Ship_Missiles_%28SSM-12%29_as_part_of_the_RIMPAC_24_sinking_exercise_%28SINKEX%29_on_12_July_2024-01.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/1d/JGSDF_fire_Type_12_Surface_to_Ship_Missiles_%28SSM-12%29_as_part_of_the_RIMPAC_24_sinking_exercise_%28SINKEX%29_on_12_July_2024-01.jpg",
+      "width": 1000,
+      "height": 667,
+      "title": "JGSDF fire Type 12 Surface to Ship Missiles (SSM-12) as part of the RIMPAC 24 sinking exercise (SINKEX) on 12 July 2024-01.jpg",
+      "description": "\u9678\u4e0a\u81ea\u885b\u968a\u306f\u30012024\u5e747\u670812\u65e5\u306b\u884c\u308f\u308c\u305fRIMPAC 24\u306e\u6f14\u7fd2\uff08SINKEX\uff09\u306e\u4e00\u74b0\u3068\u3057\u3066\u300112\u5f0f\u5730\u5bfe\u8266\u30df\u30b5\u30a4\u30eb\uff08Type 12 SSM\uff09\u3092\u767a\u5c04\u3057\u305f\u3002",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/JGSDF_fire_Type_12_Surface_to_Ship_Missiles_%28SSM-12%29_as_part_of_the_RIMPAC_24_sinking_exercise_%28SINKEX%29_on_12_July_2024-01_%28cropped%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/JGSDF_fire_Type_12_Surface_to_Ship_Missiles_%28SSM-12%29_as_part_of_the_RIMPAC_24_sinking_exercise_%28SINKEX%29_on_12_July_2024-01_%28cropped%29.jpg",
+      "width": 678,
+      "height": 657,
+      "title": "JGSDF fire Type 12 Surface to Ship Missiles (SSM-12) as part of the RIMPAC 24 sinking exercise (SINKEX) on 12 July 2024-01 (cropped).jpg",
+      "description": "\u9678\u4e0a\u81ea\u885b\u968a\u306f\u30012024\u5e747\u670812\u65e5\u306b\u884c\u308f\u308c\u305fRIMPAC 24\u306e\u6f14\u7fd2\uff08SINKEX\uff09\u306e\u4e00\u74b0\u3068\u3057\u3066\u300112\u5f0f\u5730\u5bfe\u8266\u30df\u30b5\u30a4\u30eb\uff08Type 12 SSM\uff09\u3092\u767a\u5c04\u3057\u305f\u3002",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/16/JGSDF_fire_Type_12_Surface_to_Ship_Missiles_%28SSM-12%29_as_part_of_the_RIMPAC_24_sinking_exercise_%28SINKEX%29_on_12_July_2024-02.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/16/JGSDF_fire_Type_12_Surface_to_Ship_Missiles_%28SSM-12%29_as_part_of_the_RIMPAC_24_sinking_exercise_%28SINKEX%29_on_12_July_2024-02.jpg",
+      "width": 1000,
+      "height": 641,
+      "title": "JGSDF fire Type 12 Surface to Ship Missiles (SSM-12) as part of the RIMPAC 24 sinking exercise (SINKEX) on 12 July 2024-02.jpg",
+      "description": "\u9678\u4e0a\u81ea\u885b\u968a\u306f\u30012024\u5e747\u670812\u65e5\u306b\u884c\u308f\u308c\u305fRIMPAC 24\u306e\u6f14\u7fd2\uff08SINKEX\uff09\u306e\u4e00\u74b0\u3068\u3057\u3066\u300112\u5f0f\u5730\u5bfe\u8266\u30df\u30b5\u30a4\u30eb\uff08Type 12 SSM\uff09\u3092\u767a\u5c04\u3057\u305f\u3002",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/52/Type_12_Surface-to-Ship_Missile.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/52/Type_12_Surface-to-Ship_Missile.jpg",
+      "width": 992,
+      "height": 665,
+      "title": "Type 12 Surface-to-Ship Missile.jpg",
+      "description": "\uff11\uff12\u5f0f\u5730\u5bfe\u8266\u8a98\u5c0e\u5f3e\n<p>\u25cb\u8af8\u5143\u7b49\uff08\u8a98\u5c0e\u5f3e\uff09\n[\u5168\u9577]5.00m\n[\u5168\u5e45]0.35m\n[\u91cd\u91cf]700kg\n[\u6709\u52b9\u5c04\u7a0b]\u767e\u6570\u5341\uff4b\uff4d\n</p><p>[\u88fd\u4f5c]\u4e09\u83f1\u91cd\u5de5\u696d\n</p><p>88\u5f0f\u5730\u5bfe\u8266\u8a98\u5c0e\u5f3e\u306e\u5f8c\u7d99\u3068\u3057\u3066\u3001\u65b9\u9762\u7279\u79d1\u90e8\u968a\u306b\u88c5\u5099\u3057\u3001\u5bfe\u4e0a\u9678\u6226\u95d8\u306b\u969b\u3057\u3066\u4fb5\u653b\u90e8\u968a\u306e\u63da\u9678\u306b\u5148\u7acb\u3061\u6d0b\u4e0a\u306e\u8266\u8239\u3092\u6483\u7834\u3059\u308b\u305f\u3081\u306b\u4f7f\u7528\u3059\u308b\u300288\u5f0f\u5730 \u5bfe\u8266\u8a98\u5c0e\u5f3e\u306b\u6bd4\u3079\u3001\u5c04\u7a0b\u304c\u5ef6\u4f38\u3057\u3066\u3044\u308b\u307b\u304b\u5c04\u6483\u52b9\u7387\u53ca\u3073\u6b8b\u5b58\u6027\u304c\u5411\u4e0a\u3057\u3066\u3044\u308b\u3002\n</p",
+      "license": "CC BY 2.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/%EF%BC%91%EF%BC%92%E5%BC%8F%E5%9C%B0%E5%AF%BE%E8%89%A6%E8%AA%98%E5%B0%8E%E5%BC%BE.jpg/1280px-%EF%BC%91%EF%BC%92%E5%BC%8F%E5%9C%B0%E5%AF%BE%E8%89%A6%E8%AA%98%E5%B0%8E%E5%BC%BE.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/d2/%EF%BC%91%EF%BC%92%E5%BC%8F%E5%9C%B0%E5%AF%BE%E8%89%A6%E8%AA%98%E5%B0%8E%E5%BC%BE.jpg",
+      "width": 2048,
+      "height": 1124,
+      "title": "\uff11\uff12\u5f0f\u5730\u5bfe\u8266\u8a98\u5c0e\u5f3e.jpg",
+      "description": "\uff11\uff12\u5f0f\u5730\u5bfe\u8266\u8a98\u5c0e\u5f3e",
+      "license": "CC BY 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/4th_Surface-to-Ship_Missile_Regiment_-_211210-M-QU139-1020.jpg/1280px-4th_Surface-to-Ship_Missile_Regiment_-_211210-M-QU139-1020.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/6c/4th_Surface-to-Ship_Missile_Regiment_-_211210-M-QU139-1020.jpg",
+      "width": 5184,
+      "height": 3456,
+      "title": "4th Surface-to-Ship Missile Regiment - 211210-M-QU139-1020.jpg",
+      "description": "Japanese soldiers with the 4th Surface-to-Ship Missile Regiment, Japan Ground Self-Defense Force set up a Launching Unit as part of bi-lateral fire mission drills during Resolute Dragon in Camp Hachin",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/4th_Surface-to-Ship_Missile_Regiment_-_211210-M-QU139-1022.jpg/1280px-4th_Surface-to-Ship_Missile_Regiment_-_211210-M-QU139-1022.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/4th_Surface-to-Ship_Missile_Regiment_-_211210-M-QU139-1022.jpg",
+      "width": 5031,
+      "height": 3354,
+      "title": "4th Surface-to-Ship Missile Regiment - 211210-M-QU139-1022.jpg",
+      "description": "Japanese soldiers with the 4th Surface-to-Ship Missile Regiment, Japan Ground Self-Defense Force prepare to reload a Launching Unit as part of bi-lateral fire mission drills during Resolute Dragon in ",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/4th_Surface-to-Ship_Missile_Regiment_-_211210-M-QU139-1023.jpg/1280px-4th_Surface-to-Ship_Missile_Regiment_-_211210-M-QU139-1023.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/2a/4th_Surface-to-Ship_Missile_Regiment_-_211210-M-QU139-1023.jpg",
+      "width": 5027,
+      "height": 3351,
+      "title": "4th Surface-to-Ship Missile Regiment - 211210-M-QU139-1023.jpg",
+      "description": "A Launching Unit with the 4th Surface-to-Ship Missile Regiment, Japan Ground Self-Defense Force is set to be reloaded as part of bi-lateral fire mission drills during Resolute Dragon in Camp Hachinohe",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/4th_Surface-to-Ship_Missile_Regiment_-_211210-M-QU139-1024.jpg/1280px-4th_Surface-to-Ship_Missile_Regiment_-_211210-M-QU139-1024.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/4th_Surface-to-Ship_Missile_Regiment_-_211210-M-QU139-1024.jpg",
+      "width": 5142,
+      "height": 3428,
+      "title": "4th Surface-to-Ship Missile Regiment - 211210-M-QU139-1024.jpg",
+      "description": "Japanese soldiers with the 4th Surface-to-Ship Missile Regiment, Japan Ground Self-Defense Force reload a Launching Unit as part of bi-lateral fire mission drills during Resolute Dragon in Camp Hachin",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/4th_Surface-to-Ship_Missile_Regiment_-_211210-M-QU139-1025.jpg/1280px-4th_Surface-to-Ship_Missile_Regiment_-_211210-M-QU139-1025.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/18/4th_Surface-to-Ship_Missile_Regiment_-_211210-M-QU139-1025.jpg",
+      "width": 5184,
+      "height": 3456,
+      "title": "4th Surface-to-Ship Missile Regiment - 211210-M-QU139-1025.jpg",
+      "description": "Japanese soldiers with the 4th Surface-to-Ship Missile Regiment, Japan Ground Self-Defense Force reload a Launching Unit as part of bi-lateral fire mission drills during Resolute Dragon in Camp Hachin",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/88%E5%BC%8F%E5%9C%B0%E5%AF%BE%E8%89%A6%E8%AA%98%E5%B0%8E%E5%BC%BE_SSM-1_%28Type_88_surface_to_ship_missile%29_-_Japan_Ground_Self-Defense_Force._%2853825470281%29.jpg/1280px-88%E5%BC%8F%E5%9C%B0%E5%AF%BE%E8%89%A6%E8%AA%98%E5%B0%8E%E5%BC%BE_SSM-1_%28Type_88_surface_to_ship_missile%29_-_Japan_Ground_Self-Defense_Force._%2853825470281%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/cf/88%E5%BC%8F%E5%9C%B0%E5%AF%BE%E8%89%A6%E8%AA%98%E5%B0%8E%E5%BC%BE_SSM-1_%28Type_88_surface_to_ship_missile%29_-_Japan_Ground_Self-Defense_Force._%2853825470281%29.jpg",
+      "width": 6720,
+      "height": 4480,
+      "title": "88\u5f0f\u5730\u5bfe\u8266\u8a98\u5c0e\u5f3e SSM-1 (Type 88 surface to ship missile) - Japan Ground Self-Defense Force. (53825470281).jpg",
+      "description": "<p>88\u5f0f\u5730\u5bfe\u8266\u8a98\u5c0e\u5f3e SSM-1\n</p>\n<pre>(Type 88 surface to ship missile) Japan Ground Self-Defense Force. \n</pre>\n<p>\u9678\u4e0a\u81ea\u885b\u968a \u5317\u5343\u6b73\u99d0\u5c6f\u5730 \n</p>\n\u5317\u90e8\u65b9\u9762\u968a \u7b2c\uff11\u7279\u79d1\u56e3",
+      "license": "CC BY 2.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/88%E5%BC%8F%E5%9C%B0%E5%AF%BE%E8%89%A6%E8%AA%98%E5%B0%8E%E5%BC%BE_SSM-1_%28Type_88_surface_to_ship_missile%29_-_Japan_Ground_Self-Defense_Force._%2853825705813%29.jpg/1280px-88%E5%BC%8F%E5%9C%B0%E5%AF%BE%E8%89%A6%E8%AA%98%E5%B0%8E%E5%BC%BE_SSM-1_%28Type_88_surface_to_ship_missile%29_-_Japan_Ground_Self-Defense_Force._%2853825705813%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/f8/88%E5%BC%8F%E5%9C%B0%E5%AF%BE%E8%89%A6%E8%AA%98%E5%B0%8E%E5%BC%BE_SSM-1_%28Type_88_surface_to_ship_missile%29_-_Japan_Ground_Self-Defense_Force._%2853825705813%29.jpg",
+      "width": 5520,
+      "height": 3680,
+      "title": "88\u5f0f\u5730\u5bfe\u8266\u8a98\u5c0e\u5f3e SSM-1 (Type 88 surface to ship missile) - Japan Ground Self-Defense Force. (53825705813).jpg",
+      "description": "<p>88\u5f0f\u5730\u5bfe\u8266\u8a98\u5c0e\u5f3e SSM-1\n</p>\n<pre>(Type 88 surface to ship missile) Japan Ground Self-Defense Force. \n</pre>\n<p>\u9678\u4e0a\u81ea\u885b\u968a \u5317\u5343\u6b73\u99d0\u5c6f\u5730 \n</p>\n\u5317\u90e8\u65b9\u9762\u968a \u7b2c\uff11\u7279\u79d1\u56e3",
+      "license": "CC BY 2.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/88%E5%BC%8F%E5%9C%B0%E5%AF%BE%E8%89%A6%E8%AA%98%E5%B0%8E%E5%BC%BE_SSM-1_%28Type_88_surface_to_ship_missile%29_-_Japan_Ground_Self-Defense_Force._%2853825791594%29.jpg/1280px-88%E5%BC%8F%E5%9C%B0%E5%AF%BE%E8%89%A6%E8%AA%98%E5%B0%8E%E5%BC%BE_SSM-1_%28Type_88_surface_to_ship_missile%29_-_Japan_Ground_Self-Defense_Force._%2853825791594%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/88%E5%BC%8F%E5%9C%B0%E5%AF%BE%E8%89%A6%E8%AA%98%E5%B0%8E%E5%BC%BE_SSM-1_%28Type_88_surface_to_ship_missile%29_-_Japan_Ground_Self-Defense_Force._%2853825791594%29.jpg",
+      "width": 6000,
+      "height": 3375,
+      "title": "88\u5f0f\u5730\u5bfe\u8266\u8a98\u5c0e\u5f3e SSM-1 (Type 88 surface to ship missile) - Japan Ground Self-Defense Force. (53825791594).jpg",
+      "description": "<p>88\u5f0f\u5730\u5bfe\u8266\u8a98\u5c0e\u5f3e SSM-1\n</p>\n<pre>(Type 88 surface to ship missile) Japan Ground Self-Defense Force. \n</pre>\n<p>\u9678\u4e0a\u81ea\u885b\u968a \u5317\u5343\u6b73\u99d0\u5c6f\u5730 \n</p>\n\u5317\u90e8\u65b9\u9762\u968a \u7b2c\uff11\u7279\u79d1\u56e3",
+      "license": "CC BY 2.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Type_88_Surface-to-Ship_Missile_of_the_JGSDF_3rd_Surface-to-Ship_Missile_Regiment.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Type_88_Surface-to-Ship_Missile_of_the_JGSDF_3rd_Surface-to-Ship_Missile_Regiment.jpg",
+      "width": 1024,
+      "height": 682,
+      "title": "Type 88 Surface-to-Ship Missile of the JGSDF 3rd Surface-to-Ship Missile Regiment.jpg",
+      "description": "\u9678\u4e0a\u81ea\u885b\u968a\u7b2c3\u5730\u5bfe\u8266\u30df\u30b5\u30a4\u30eb\u9023\u968a\u306e88\u5f0f\u5730\u5bfe\u8266\u30df\u30b5\u30a4\u30eb\u767a\u5c04\u6a5f",
+      "license": "CC BY 4.0",
+      "source": "wikimedia"
+    }
+  ]
+}

@@ -1,0 +1,267 @@
+{
+  "combat_history": [
+    {
+      "date": "2020",
+      "operation": "Nagorno-Karabakh War",
+      "event": "TB2s destroyed large numbers of Armenian tanks, vehicles and air-defence systems, helping decide the war.",
+      "significance": "Showcased how cheap drones could defeat conventional ground forces."
+    },
+    {
+      "date": "2022",
+      "event": "TB2s struck advancing Russian columns in the opening weeks of the invasion of Ukraine.",
+      "significance": "Cemented the TB2's reputation and inspired a wave of drone procurement."
+    }
+  ],
+  "modernization": [
+    {
+      "program": "Satellite control & Ak\u0131nc\u0131 family",
+      "status": "completed",
+      "timeline": "2021\u2013",
+      "description": "Beyond-line-of-sight TB2S and the much larger, more capable Ak\u0131nc\u0131 UCAV.",
+      "impact": "Extends Baykar's reach into higher-end unmanned strike."
+    }
+  ],
+  "vulnerabilities": [
+    {
+      "area": "Survivability",
+      "description": "Slow, low-flying and lightly built; highly vulnerable once an enemy fields functional air defence.",
+      "context": "TB2 losses rose sharply once Russia restored its air-defence net in Ukraine.",
+      "mitigation": "Best against degraded or absent air defence."
+    },
+    {
+      "area": "Light payload",
+      "description": "Small munitions limit it to soft and lightly-armoured targets.",
+      "context": "Not a heavy-strike platform.",
+      "mitigation": "Volume and precision over payload."
+    }
+  ],
+  "operational_patterns": {
+    "typical_deployment": "Cheap, persistent armed ISR against ground forces and air defences in permissive or degraded-air-defence environments.",
+    "key_operating_areas": [
+      "Caucasus",
+      "Eastern Europe",
+      "Middle East",
+      "North Africa",
+      "(limited Indo-Pacific operators)"
+    ],
+    "typical_task_group": "Operated by a wide range of national militaries; networked into local C2.",
+    "readiness_notes": "Mature and exported to dozens of countries."
+  },
+  "peer_comparisons": [
+    {
+      "platform": "General Atomics MQ-9 Reaper",
+      "country": "United States",
+      "relationship": "higher-end contrast",
+      "key_differences": "The Reaper has far greater endurance, payload and sensors; the TB2 wins decisively on cost and availability.",
+      "video_angle": "Cheap mass vs high capability."
+    },
+    {
+      "platform": "Wing Loong II",
+      "country": "China",
+      "relationship": "export competitor",
+      "key_differences": "The Wing Loong is larger and heavier-armed; the TB2 is cheaper and more combat-celebrated.",
+      "video_angle": "The armed-drone export market's price tiers."
+    },
+    {
+      "platform": "Shahed-136 (loitering munition)",
+      "country": "Iran",
+      "relationship": "different unmanned concept",
+      "key_differences": "The Shahed is a one-way attack drone; the TB2 is a reusable armed ISR platform.",
+      "video_angle": "Reusable drones vs one-way attack drones."
+    }
+  ],
+  "search_keywords": [
+    "Bayraktar TB2",
+    "TB2 drone",
+    "Baykar",
+    "MAM-L",
+    "Turkish drone",
+    "combat drone",
+    "Nagorno-Karabakh drones"
+  ],
+  "doctrine": {
+    "role": "Low-cost combat-proven armed ISR drone for precision strike against ground forces and air defences.",
+    "employment": "Persistent surveillance then precision micro-munition strikes, most effective where enemy air defence is weak or degraded.",
+    "design_philosophy": "Affordable, exportable precision airpower \u2014 cheap mass over high-end capability.",
+    "threat_context": "The benchmark for the 'cheap drone' revolution; globally influential even where its Indo-Pacific footprint is modest.",
+    "comparison_frame": "Read against the MQ-9 and Wing Loong (capability) and the Shahed (reusable vs one-way)."
+  },
+  "curated_sources": [
+    {
+      "title": "Baykar Bayraktar TB2 \u2014 Wikipedia",
+      "type": "reference",
+      "url": "https://en.wikipedia.org/wiki/Baykar_Bayraktar_TB2",
+      "relevance": "Specs, combat record, operators",
+      "priority": "reference"
+    },
+    {
+      "title": "RUSI / IISS drone-warfare analysis",
+      "type": "research",
+      "url": "https://www.rusi.org/",
+      "relevance": "Lessons of drone warfare",
+      "priority": "recommended"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Bayraktar_TB2_Ground.jpg/1280px-Bayraktar_TB2_Ground.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Bayraktar_TB2_Ground.jpg",
+      "width": 5312,
+      "height": 2988,
+      "title": "Bayraktar TB2 Ground.jpg",
+      "description": "Bayraktar TB2 Ground",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Bayraktar_TB2_Kullan%C4%B1c%C4%B1lar%C4%B1.png/1280px-Bayraktar_TB2_Kullan%C4%B1c%C4%B1lar%C4%B1.png",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/22/Bayraktar_TB2_Kullan%C4%B1c%C4%B1lar%C4%B1.png",
+      "width": 1500,
+      "height": 740,
+      "title": "Bayraktar TB2 Kullan\u0131c\u0131lar\u0131.png",
+      "description": "T\u00fcrkiye, Azerbaycan, Katar, Libya ve Ukrayna Bayraktar TB2 insans\u0131z hava arac\u0131n\u0131n ana kullan\u0131c\u0131lar\u0131d\u0131r.",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Bayraktar_TB2_Runway.jpg/1280px-Bayraktar_TB2_Runway.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Bayraktar_TB2_Runway.jpg",
+      "width": 3129,
+      "height": 1305,
+      "title": "Bayraktar TB2 Runway.jpg",
+      "description": "Bayraktar TB2 Runway",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Bayraktar_TB2_S-IHA_TurkishArmy_Teknofest2021_%282%29.jpg/1280px-Bayraktar_TB2_S-IHA_TurkishArmy_Teknofest2021_%282%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/62/Bayraktar_TB2_S-IHA_TurkishArmy_Teknofest2021_%282%29.jpg",
+      "width": 2749,
+      "height": 4378,
+      "title": "Bayraktar TB2 S-IHA TurkishArmy Teknofest2021 (2).jpg",
+      "description": "Information board of the Bayraktar TB2 S-IHA of the Turkish Army in Teknofest2021at Istanbul Atat\u00fcrk Airport, Turkey.",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Bayraktar_TB2_users.png/1280px-Bayraktar_TB2_users.png",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Bayraktar_TB2_users.png",
+      "width": 1425,
+      "height": 625,
+      "title": "Bayraktar TB2 users.png",
+      "description": "map world",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Carte_des_utilisateurs_du_Bayraktar_TB2..png/1280px-Carte_des_utilisateurs_du_Bayraktar_TB2..png",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/68/Carte_des_utilisateurs_du_Bayraktar_TB2..png",
+      "width": 1557,
+      "height": 739,
+      "title": "Carte des utilisateurs du Bayraktar TB2..png",
+      "description": "En bleu, utilisateurs potentiels en violet.",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Carte_desutilisateurs_du_Bayraktar_TB2_en_bleu.png/1280px-Carte_desutilisateurs_du_Bayraktar_TB2_en_bleu.png",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/89/Carte_desutilisateurs_du_Bayraktar_TB2_en_bleu.png",
+      "width": 1557,
+      "height": 739,
+      "title": "Carte desutilisateurs du Bayraktar TB2 en bleu.png",
+      "description": "Carte des op\u00e9rateurs du Bayraktar TB2 en bleu, op\u00e9rateurs potentiels en violet",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/ed/PAF_Bayraktar_TB2_at_NATO_Days_2023.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/ed/PAF_Bayraktar_TB2_at_NATO_Days_2023.jpg",
+      "width": 1024,
+      "height": 768,
+      "title": "PAF Bayraktar TB2 at NATO Days 2023.jpg",
+      "description": "Polish Air Force Bayraktar TB2 UAV, registration 2809, on static display at NATO Days Ostrava 2023",
+      "license": "CC BY-SA 3.0 de",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/eb/PAF_Bayraktar_TB2_at_Radom-2023.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/eb/PAF_Bayraktar_TB2_at_Radom-2023.jpg",
+      "width": 1200,
+      "height": 800,
+      "title": "PAF Bayraktar TB2 at Radom-2023.jpg",
+      "description": "Polish Air Force Bayraktar TB2 UAV, registration 2809, on static display at Radom Air Show 2023",
+      "license": "CC BY-SA 3.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Utilisateurs_du_Bayraktar_TB2.png/1280px-Utilisateurs_du_Bayraktar_TB2.png",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Utilisateurs_du_Bayraktar_TB2.png",
+      "width": 1425,
+      "height": 625,
+      "title": "Utilisateurs du Bayraktar TB2.png",
+      "description": "Pays utilisateurs du drone Bayraktar TB2",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Bayraktar_TB2_S-%C4%B0HA%2C_Teknofest_2019.jpg/1280px-Bayraktar_TB2_S-%C4%B0HA%2C_Teknofest_2019.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Bayraktar_TB2_S-%C4%B0HA%2C_Teknofest_2019.jpg",
+      "width": 4128,
+      "height": 3096,
+      "title": "Bayraktar TB2 S-\u0130HA, Teknofest 2019.jpg",
+      "description": "Bayraktar Taktik \u0130nsans\u0131z Hava Arac\u0131 (\u0130HA) Teknofest 2019'da.",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/64/Bayraktar_TB2_drones_before_the_Victory_Parade_in_Baku.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/64/Bayraktar_TB2_drones_before_the_Victory_Parade_in_Baku.jpg",
+      "width": 1280,
+      "height": 634,
+      "title": "Bayraktar TB2 drones before the Victory Parade in Baku.jpg",
+      "description": "<a href=\"https://en.wikipedia.org/wiki/Bayraktar_TB2\" class=\"extiw\" title=\"en:Bayraktar TB2\">Bayraktar TB2</a> drones in Azerbaijan's arsenal before the 10 December Victory Parade in Baku.",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Bayraktar_drone_2022_stamp_of_Lithuania.jpg/1280px-Bayraktar_drone_2022_stamp_of_Lithuania.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Bayraktar_drone_2022_stamp_of_Lithuania.jpg",
+      "width": 2010,
+      "height": 1582,
+      "title": "Bayraktar drone 2022 stamp of Lithuania.jpg",
+      "description": "Crowd-Funded Drone Bayraktar For Ukraine",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/PAF_Bayraktar_TB2.jpg/1280px-PAF_Bayraktar_TB2.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/PAF_Bayraktar_TB2.jpg",
+      "width": 2000,
+      "height": 1125,
+      "title": "PAF Bayraktar TB2.jpg",
+      "description": "Unmanned combat drone Bayraktar TB2 of Polish Air Force at NATO Days 2023 in Mo\u0161nov",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/TB_2_attack_drone_of_Bangladesh_army.jpg/1280px-TB_2_attack_drone_of_Bangladesh_army.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/48/TB_2_attack_drone_of_Bangladesh_army.jpg",
+      "width": 2369,
+      "height": 1202,
+      "title": "TB 2 attack drone of Bangladesh army.jpg",
+      "description": "6 Bayrakter TB-2 UCAVs  procured from Turkey for Bangladesh Army have been officially inducted into the fleet on 4th December 2023.Bangladesh Army has signed a contract to purchase a total of 12 TB2 a",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Baykar_Bayraktar_TB2_TEKNOFEST_2022.jpg/1280px-Baykar_Bayraktar_TB2_TEKNOFEST_2022.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/44/Baykar_Bayraktar_TB2_TEKNOFEST_2022.jpg",
+      "width": 4208,
+      "height": 1942,
+      "title": "Baykar Bayraktar TB2 TEKNOFEST 2022.jpg",
+      "description": "EFES 2022 Tatbikat\u0131'nda kullan\u0131lan ve 9 Haziran 2022 tarihinde Cumhurba\u015fkan\u0131 Recep Tayyip Erdo\u011fan taraf\u0131ndan imzalanan Baykar Bayraktar TB2.",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    }
+  ]
+}

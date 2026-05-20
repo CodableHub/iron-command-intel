@@ -1,0 +1,317 @@
+{
+  "id": 173,
+  "slug": "type-89-torpedo",
+  "name": "Type 89 heavyweight torpedo",
+  "designation": "Type 89 (G-RX2)",
+  "type": "torpedo",
+  "country": "Japan",
+  "operator": "Japan Maritime Self-Defense Force (JMSDF)",
+  "overview_md": "The Type 89 is the Japan Maritime Self-Defense Force's heavyweight submarine-launched torpedo \u2014 Japan's domestic equivalent of the U.S. Mark 48, and the principal undersea weapon of its highly capable conventional submarine force. In service since 1989, it equips the Oyashio, S\u014dry\u016b and Taigei-class boats that form one of the most respected non-nuclear submarine fleets in the world.\n\nA 533 mm wire-guided weapon, the Type 89 combines guidance commands from the launching submarine with active and passive sonar terminal homing, and is propelled by a swashplate piston engine on Otto fuel to ranges of roughly 38\u201350 km at speeds exceeding 55 knots \u2014 figures broadly comparable to the Mk 48. It is optimised for the demanding acoustic conditions around the Japanese archipelago and the chokepoints of the first island chain.\n\nFor an analyst, the Type 89 reflects Japan's quiet excellence in undersea warfare \u2014 a domain where the JMSDF is a genuine peer of the U.S. Navy and a critical contributor to allied anti-submarine efforts against a growing Chinese submarine force. A successor, the Type 18, is now entering service with improved processing and countermeasure resistance, continuing Japan's tradition of indigenous, high-quality undersea weapons.",
+  "specs_json": {
+    "length_m": 5.7,
+    "additional": {
+      "diameter": "533 mm (21 in)",
+      "range": "~38\u201350 km",
+      "speed": ">55 knots",
+      "warhead": "~270 kg high-explosive",
+      "guidance": "Wire-guided + active/passive sonar homing",
+      "propulsion": "Otto-fuel swashplate piston engine",
+      "platforms": "Oyashio, S\u014dry\u016b, Taigei-class submarines"
+    }
+  },
+  "armament_json": [],
+  "variants_json": [
+    {
+      "name": "Type 89",
+      "years": "1989\u2013",
+      "key_changes": "Standard JMSDF heavyweight torpedo",
+      "status": "active"
+    },
+    {
+      "name": "Type 18 (successor)",
+      "years": "2021\u2013",
+      "key_changes": "Improved processing, sonar and counter-countermeasures",
+      "status": "building"
+    }
+  ],
+  "fleet_status_json": [],
+  "cost_usd": 0.0,
+  "unit_count": 0,
+  "first_commissioned": "1989",
+  "builder": "Mitsubishi Heavy Industries",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Type89.jpg",
+  "wiki_url": "https://en.wikipedia.org/wiki/Type_89_torpedo",
+  "sources_json": [
+    "https://en.wikipedia.org/wiki/Type_89_torpedo"
+  ],
+  "comparison_tags": [
+    "torpedo",
+    "heavyweight",
+    "anti-submarine",
+    "japan",
+    "jmsdf",
+    "undersea"
+  ],
+  "created_at": "2026-05-20 07:41:09",
+  "updated_at": "2026-05-20T07:41:09.552027",
+  "news": [],
+  "events": [],
+  "ic_coverage": [],
+  "combat_history": [
+    {
+      "date": "ongoing",
+      "event": "No combat use; standard armament of JMSDF submarines, exercised intensively in allied ASW.",
+      "significance": "Reflects Japan's first-rank undersea-warfare capability."
+    }
+  ],
+  "modernization": [
+    {
+      "program": "Type 18 introduction",
+      "status": "in-progress",
+      "timeline": "2021\u2013",
+      "description": "New-generation heavyweight torpedo replacing the Type 89 on newer boats.",
+      "impact": "Sustains Japan's undersea edge against quieter targets."
+    }
+  ],
+  "vulnerabilities": [
+    {
+      "area": "Countermeasures",
+      "description": "Modern submarines deploy decoys and jammers against homing torpedoes.",
+      "context": "Quieter peer submarines stress acoustic discrimination.",
+      "mitigation": "Type 18 improves CCM resistance."
+    },
+    {
+      "area": "Wire-guidance constraint",
+      "description": "Optimal performance ties the launching boat to the guidance wire.",
+      "context": "Limits evasive manoeuvre during engagement.",
+      "mitigation": "Autonomous homing fallback."
+    }
+  ],
+  "operational_patterns": {
+    "typical_deployment": "Anti-submarine and anti-surface engagements from JMSDF conventional submarines along the first island chain.",
+    "key_operating_areas": [
+      "East China Sea",
+      "Sea of Japan",
+      "Western Pacific",
+      "Nansei Islands chokepoints"
+    ],
+    "typical_task_group": "Oyashio/S\u014dry\u016b/Taigei-class boats in allied ASW operations.",
+    "readiness_notes": "Mature; being succeeded by the Type 18."
+  },
+  "peer_comparisons": [
+    {
+      "platform": "Mark 48 ADCAP",
+      "country": "United States",
+      "relationship": "class peer/ally",
+      "key_differences": "Comparable heavyweight performance; both are leading allied submarine torpedoes operating against the same adversaries.",
+      "video_angle": "Allied undersea firepower \u2014 Mk 48 and Type 89."
+    },
+    {
+      "platform": "Yu-6",
+      "country": "China",
+      "relationship": "adversary counterpart",
+      "key_differences": "China's heavyweight torpedo the JMSDF would face in a conflict.",
+      "video_angle": "Japan vs China beneath the waves."
+    },
+    {
+      "platform": "DM2A4 SeaHake",
+      "country": "Germany",
+      "relationship": "Western analogue",
+      "key_differences": "A widely-exported European heavyweight torpedo of similar class.",
+      "video_angle": "The world's heavyweight torpedoes."
+    }
+  ],
+  "search_keywords": [
+    "Type 89 torpedo",
+    "G-RX2",
+    "JMSDF torpedo",
+    "Japan torpedo",
+    "Type 18 torpedo",
+    "heavyweight torpedo Japan"
+  ],
+  "doctrine": {
+    "role": "JMSDF submarine-launched heavyweight torpedo for anti-submarine and anti-ship warfare.",
+    "employment": "Wire-guided from the boat, then active/passive sonar terminal homing in demanding littoral acoustics.",
+    "design_philosophy": "Indigenous, high-quality undersea lethality matched to Japan's geography.",
+    "threat_context": "Backs one of the world's best conventional submarine fleets against China's growing undersea force.",
+    "comparison_frame": "Read alongside the allied Mk 48 and against China's Yu-6."
+  },
+  "curated_sources": [
+    {
+      "title": "Type 89 torpedo \u2014 Wikipedia",
+      "type": "reference",
+      "url": "https://en.wikipedia.org/wiki/Type_89_torpedo",
+      "relevance": "Class and platforms",
+      "priority": "reference"
+    },
+    {
+      "title": "JMSDF / Japan MoD",
+      "type": "official",
+      "url": "https://www.mod.go.jp/msdf/en/",
+      "relevance": "Fleet context",
+      "priority": "recommended"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Lancia_Torpedo_Type_Epsilon_%281912%29_jm64114.jpg/1280px-Lancia_Torpedo_Type_Epsilon_%281912%29_jm64114.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/25/Lancia_Torpedo_Type_Epsilon_%281912%29_jm64114.jpg",
+      "width": 5488,
+      "height": 4912,
+      "title": "Lancia Torpedo Type Epsilon (1912) jm64114.jpg",
+      "description": "pictures from the <i>Cit\u00e9 de l\u2019Automobile \u2013 Mus\u00e9e National \u2013 Collection Schlump</i> in Mulhouse, France<br>\nptictures from the 10. may 2018",
+      "license": "CC BY-SA 3.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Stahls_Automotive_Collection_December_2021_118_%281924_Delage_GL_Skiff-Torpedo%29.jpg/1280px-Stahls_Automotive_Collection_December_2021_118_%281924_Delage_GL_Skiff-Torpedo%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Stahls_Automotive_Collection_December_2021_118_%281924_Delage_GL_Skiff-Torpedo%29.jpg",
+      "width": 6000,
+      "height": 4000,
+      "title": "Stahls Automotive Collection December 2021 118 (1924 Delage GL Skiff-Torpedo).jpg",
+      "description": "A 1924 <a href=\"https://en.wikipedia.org/wiki/Delage\" class=\"extiw\" title=\"en:Delage\">Delage GL Skiff-Torpedo</a> at <a href=\"https://en.wikipedia.org/wiki/Stahls_Automotive_Collection\" class=\"extiw\" ",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Type89-Torpedo-01%28Japan%29.png",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Type89-Torpedo-01%28Japan%29.png",
+      "width": 927,
+      "height": 335,
+      "title": "Type89-Torpedo-01(Japan).png",
+      "description": "89\u5f0f\u9b5a\u96f7\uff08\u6d77\u4e0a\u81ea\u885b\u968a\uff09",
+      "license": "CC BY 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Type89.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Type89.jpg",
+      "width": 640,
+      "height": 425,
+      "title": "Type89.jpg",
+      "description": "ng\u01b0 l\u00f4i Type 89",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Villemanoche-FR-89-Rassemblement_2018_des_v%C3%A9hicules_anciens-la_Torp%C3%A9do-01.jpg/1280px-Villemanoche-FR-89-Rassemblement_2018_des_v%C3%A9hicules_anciens-la_Torp%C3%A9do-01.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/db/Villemanoche-FR-89-Rassemblement_2018_des_v%C3%A9hicules_anciens-la_Torp%C3%A9do-01.jpg",
+      "width": 3200,
+      "height": 2400,
+      "title": "Villemanoche-FR-89-Rassemblement 2018 des v\u00e9hicules anciens-la Torp\u00e9do-01.jpg",
+      "description": "Rassemblement 2018 des v\u00e9hicules anciens \u00e0 Villemanoche (Yonne, France)",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Villemanoche-FR-89-Rassemblement_2018_des_v%C3%A9hicules_anciens-la_Torp%C3%A9do-02.jpg/1280px-Villemanoche-FR-89-Rassemblement_2018_des_v%C3%A9hicules_anciens-la_Torp%C3%A9do-02.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/70/Villemanoche-FR-89-Rassemblement_2018_des_v%C3%A9hicules_anciens-la_Torp%C3%A9do-02.jpg",
+      "width": 2400,
+      "height": 3200,
+      "title": "Villemanoche-FR-89-Rassemblement 2018 des v\u00e9hicules anciens-la Torp\u00e9do-02.jpg",
+      "description": "Rassemblement 2018 des v\u00e9hicules anciens \u00e0 Villemanoche (Yonne, France)",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Villemanoche-FR-89-Rassemblement_2018_des_v%C3%A9hicules_anciens-la_Torp%C3%A9do-03.jpg/1280px-Villemanoche-FR-89-Rassemblement_2018_des_v%C3%A9hicules_anciens-la_Torp%C3%A9do-03.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Villemanoche-FR-89-Rassemblement_2018_des_v%C3%A9hicules_anciens-la_Torp%C3%A9do-03.jpg",
+      "width": 3200,
+      "height": 2400,
+      "title": "Villemanoche-FR-89-Rassemblement 2018 des v\u00e9hicules anciens-la Torp\u00e9do-03.jpg",
+      "description": "Rassemblement 2018 des v\u00e9hicules anciens \u00e0 Villemanoche (Yonne, France)",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Villemanoche-FR-89-Rassemblement_2018_des_v%C3%A9hicules_anciens-la_Torp%C3%A9do-04.jpg/1280px-Villemanoche-FR-89-Rassemblement_2018_des_v%C3%A9hicules_anciens-la_Torp%C3%A9do-04.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Villemanoche-FR-89-Rassemblement_2018_des_v%C3%A9hicules_anciens-la_Torp%C3%A9do-04.jpg",
+      "width": 3200,
+      "height": 2400,
+      "title": "Villemanoche-FR-89-Rassemblement 2018 des v\u00e9hicules anciens-la Torp\u00e9do-04.jpg",
+      "description": "Rassemblement 2018 des v\u00e9hicules anciens \u00e0 Villemanoche (Yonne, France)",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Villemanoche-FR-89-Rassemblement_2018_des_v%C3%A9hicules_anciens-la_Torp%C3%A9do-05.jpg/1280px-Villemanoche-FR-89-Rassemblement_2018_des_v%C3%A9hicules_anciens-la_Torp%C3%A9do-05.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Villemanoche-FR-89-Rassemblement_2018_des_v%C3%A9hicules_anciens-la_Torp%C3%A9do-05.jpg",
+      "width": 2400,
+      "height": 3200,
+      "title": "Villemanoche-FR-89-Rassemblement 2018 des v\u00e9hicules anciens-la Torp\u00e9do-05.jpg",
+      "description": "Rassemblement 2018 des v\u00e9hicules anciens \u00e0 Villemanoche (Yonne, France)",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/JMSDF_Mark_46_torpedo%28Dummy%29_at_Maizuru_Air_Station_20150726.JPG/1280px-JMSDF_Mark_46_torpedo%28Dummy%29_at_Maizuru_Air_Station_20150726.JPG",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/13/JMSDF_Mark_46_torpedo%28Dummy%29_at_Maizuru_Air_Station_20150726.JPG",
+      "width": 6000,
+      "height": 3376,
+      "title": "JMSDF Mark 46 torpedo(Dummy) at Maizuru Air Station 20150726.JPG",
+      "description": "\u6d77\u4e0a\u81ea\u885b\u968a\u3000Mk.46\u30c0\u30df\u30fc\u9b5a\u96f7\uff08B\uff09\u3002\n2015\u5e747\u670826\u65e5\u3000\u821e\u9db4\u822a\u7a7a\u57fa\u5730\u306b\u3066\u3002",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/JMSDF_Type_54_torpedo_in_JMSDF_Kure_Museum_20140915.JPG/1280px-JMSDF_Type_54_torpedo_in_JMSDF_Kure_Museum_20140915.JPG",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/c6/JMSDF_Type_54_torpedo_in_JMSDF_Kure_Museum_20140915.JPG",
+      "width": 4240,
+      "height": 2400,
+      "title": "JMSDF Type 54 torpedo in JMSDF Kure Museum 20140915.JPG",
+      "description": "\u6d77\u4e0a\u81ea\u885b\u968a\u300054\u5f0f\u9b5a\u96f73\u578b\u65391\u3002\n14\u5e749\u670815\u65e5\u3000\u6d77\u4e0a\u81ea\u885b\u968a\u5449\u53f2\u6599\u9928\u5185\u306b\u3066\u3002",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/JMSDF_Type_72_torpedo_in_JMSDF_Kure_Museum_20140915.JPG/1280px-JMSDF_Type_72_torpedo_in_JMSDF_Kure_Museum_20140915.JPG",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/65/JMSDF_Type_72_torpedo_in_JMSDF_Kure_Museum_20140915.JPG",
+      "width": 4240,
+      "height": 2400,
+      "title": "JMSDF Type 72 torpedo in JMSDF Kure Museum 20140915.JPG",
+      "description": "\u6d77\u4e0a\u81ea\u885b\u968a\u300072\u5f0f\u9b5a\u96f7\u3002\n14\u5e749\u670815\u65e5\u3000\u6d77\u4e0a\u81ea\u885b\u968a\u5449\u53f2\u6599\u9928\u5185\u306b\u3066\u3002",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/JMSDF_Type_73_Light_Weight_torpedo_in_JMSDF_Kure_Museum_20140915-01.JPG/1280px-JMSDF_Type_73_Light_Weight_torpedo_in_JMSDF_Kure_Museum_20140915-01.JPG",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/28/JMSDF_Type_73_Light_Weight_torpedo_in_JMSDF_Kure_Museum_20140915-01.JPG",
+      "width": 4240,
+      "height": 2400,
+      "title": "JMSDF Type 73 Light Weight torpedo in JMSDF Kure Museum 20140915-01.JPG",
+      "description": "\u6d77\u4e0a\u81ea\u885b\u968a\u300073\u5f0f\u77ed\u9b5a\u96f7\u3002\n14\u5e749\u670815\u65e5\u3000\u6d77\u4e0a\u81ea\u885b\u968a\u5449\u53f2\u6599\u9928\u5185\u306b\u3066\u3002",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/JMSDF_Type_73_Light_Weight_torpedo_in_JMSDF_Kure_Museum_20140915-02.JPG/1280px-JMSDF_Type_73_Light_Weight_torpedo_in_JMSDF_Kure_Museum_20140915-02.JPG",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/0c/JMSDF_Type_73_Light_Weight_torpedo_in_JMSDF_Kure_Museum_20140915-02.JPG",
+      "width": 4240,
+      "height": 2400,
+      "title": "JMSDF Type 73 Light Weight torpedo in JMSDF Kure Museum 20140915-02.JPG",
+      "description": "\u6d77\u4e0a\u81ea\u885b\u968a\u300073\u5f0f\u77ed\u9b5a\u96f7\u3002\n14\u5e749\u670815\u65e5\u3000\u6d77\u4e0a\u81ea\u885b\u968a\u5449\u53f2\u6599\u9928\u5185\u306b\u3066\u3002",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/JMSDF_Type_73_Light_Weight_torpedo_propellers_in_JMSDF_Kure_Museum_20140915.JPG/1280px-JMSDF_Type_73_Light_Weight_torpedo_propellers_in_JMSDF_Kure_Museum_20140915.JPG",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/12/JMSDF_Type_73_Light_Weight_torpedo_propellers_in_JMSDF_Kure_Museum_20140915.JPG",
+      "width": 4240,
+      "height": 2400,
+      "title": "JMSDF Type 73 Light Weight torpedo propellers in JMSDF Kure Museum 20140915.JPG",
+      "description": "\u6d77\u4e0a\u81ea\u885b\u968a\u300073\u5f0f\u77ed\u9b5a\u96f7\u3000\u30b9\u30af\u30ea\u30e5\u30fc\u30d7\u30ed\u30da\u30e9\u3002\n14\u5e749\u670815\u65e5\u3000\u6d77\u4e0a\u81ea\u885b\u968a\u5449\u53f2\u6599\u9928\u5185\u306b\u3066\u3002",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/JMSDF_Type_80_torpedo_in_JMSDF_Kure_Museum_20140915.JPG/1280px-JMSDF_Type_80_torpedo_in_JMSDF_Kure_Museum_20140915.JPG",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/c2/JMSDF_Type_80_torpedo_in_JMSDF_Kure_Museum_20140915.JPG",
+      "width": 4240,
+      "height": 2400,
+      "title": "JMSDF Type 80 torpedo in JMSDF Kure Museum 20140915.JPG",
+      "description": "\u6d77\u4e0a\u81ea\u885b\u968a\u300080\u5f0f\u9b5a\u96f7\u3002\n14\u5e749\u670815\u65e5\u3000\u6d77\u4e0a\u81ea\u885b\u968a\u5449\u53f2\u6599\u9928\u5185\u306b\u3066\u3002",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    }
+  ]
+}

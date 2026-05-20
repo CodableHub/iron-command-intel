@@ -1,0 +1,258 @@
+{
+  "combat_history": [
+    {
+      "date": "2022-04",
+      "event": "PLA Navy released footage of a YJ-21 launched from a Type 055-class destroyer.",
+      "significance": "Public confirmation of a ship-launched hypersonic anti-ship weapon."
+    }
+  ],
+  "modernization": [
+    {
+      "program": "Fleet integration",
+      "status": "in-progress",
+      "timeline": "2022\u2013",
+      "description": "Integration across Type 055 destroyers and the bomber force.",
+      "impact": "Puts mobile hypersonic anti-ship strike on survivable platforms."
+    }
+  ],
+  "vulnerabilities": [
+    {
+      "area": "Unverified performance",
+      "description": "Range, accuracy and terminal seeker performance are not independently confirmed.",
+      "context": "Open-source figures vary widely; treat as estimates.",
+      "mitigation": "(N/A \u2014 assessment caveat.)"
+    },
+    {
+      "area": "Kill-chain dependency",
+      "description": "Long-range anti-ship use still relies on detecting and cueing a moving target.",
+      "context": "ISR disruption degrades the threat.",
+      "mitigation": "Networked sensors and platform mobility."
+    }
+  ],
+  "operational_patterns": {
+    "typical_deployment": "Hypersonic anti-ship strike from Type 055 destroyers and H-6 bombers against high-value naval targets.",
+    "key_operating_areas": [
+      "Western Pacific",
+      "Philippine Sea",
+      "South China Sea",
+      "East China Sea"
+    ],
+    "typical_task_group": "Type 055 surface action groups; bomber raids under fighter cover.",
+    "readiness_notes": "Recently fielded; expanding integration."
+  },
+  "peer_comparisons": [
+    {
+      "platform": "DF-21D",
+      "country": "China",
+      "relationship": "land-based counterpart",
+      "key_differences": "DF-21D is land-launched; the YJ-21 puts a comparable anti-ship hypersonic capability on mobile ships and bombers.",
+      "video_angle": "China takes the carrier-killer to sea."
+    },
+    {
+      "platform": "3M22 Zircon",
+      "country": "Russia",
+      "relationship": "hypersonic peer",
+      "key_differences": "Zircon is a ship/sub-launched hypersonic cruise missile; the YJ-21 is a boosted manoeuvring anti-ship weapon.",
+      "video_angle": "Russian and Chinese ship-launched hypersonics."
+    },
+    {
+      "platform": "SM-6 / Maritime Strike Tomahawk",
+      "country": "United States",
+      "relationship": "asymmetric counter",
+      "key_differences": "The U.S. relies on subsonic stealthy and dual-role weapons rather than ship-launched hypersonic ASBMs.",
+      "video_angle": "How the US Navy answers the hypersonic anti-ship threat."
+    }
+  ],
+  "search_keywords": [
+    "YJ-21",
+    "Eagle Strike 21",
+    "hypersonic anti-ship missile",
+    "Type 055 missile",
+    "China hypersonic anti-ship"
+  ],
+  "doctrine": {
+    "role": "Ship- and air-launched hypersonic anti-ship missile for striking high-value naval targets such as carriers.",
+    "employment": "Fired from Type 055 VLS or H-6 bombers; manoeuvring hypersonic terminal attack to defeat fleet defences.",
+    "design_philosophy": "Put the carrier-killer threat on mobile, survivable platforms.",
+    "threat_context": "Extends China's anti-ship hypersonic threat beyond fixed land launchers, complicating U.S. carrier operations.",
+    "comparison_frame": "Read against the land-based DF-21D and Russia's ship-launched Zircon."
+  },
+  "curated_sources": [
+    {
+      "title": "YJ-21 \u2014 Wikipedia",
+      "type": "reference",
+      "url": "https://en.wikipedia.org/wiki/YJ-21",
+      "relevance": "Basing and reported performance",
+      "priority": "reference"
+    },
+    {
+      "title": "USNI News \u2014 YJ-21 coverage",
+      "type": "research",
+      "url": "https://news.usni.org/",
+      "relevance": "Open-source naval analysis",
+      "priority": "recommended"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/49/Chinese_Hypersonic_Gliding_Vehicle.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/49/Chinese_Hypersonic_Gliding_Vehicle.jpg",
+      "width": 720,
+      "height": 667,
+      "title": "Chinese Hypersonic Gliding Vehicle.jpg",
+      "description": "One of the Chinese hypersonic gliding vehicle projects. Its configration was first exposed by Military Report on <a href=\"https://en.wikipedia.org/wiki/CCTV-7\" class=\"extiw\" title=\"en:CCTV-7\">CCTV-7</",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/PLANS_Nanchang_%28DDG-101%29_20210427.jpg/1280px-PLANS_Nanchang_%28DDG-101%29_20210427.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/7e/PLANS_Nanchang_%28DDG-101%29_20210427.jpg",
+      "width": 1489,
+      "height": 454,
+      "title": "PLANS Nanchang (DDG-101) 20210427.jpg",
+      "description": "\uff14\u6708\uff12\uff16\u65e5\uff08\u6708\uff09\u5348\u5f8c\uff17\u6642\u9803\u3001\u6d77\u4e0a\u81ea\u885b\u968a\u306f\u3001\u5bae\u53e4\u5cf6\u306e\u5357\u7d04\uff11\uff16\uff10\uff4b\uff4d\u306e\u6d77\u57df\u306b\u304a\u3044\u3066\u3001\u540c\u6d77\u57df\u3092\u5317\u6771\u9032\u3059\u308b\u4e2d\u56fd\u6d77\u8ecd\u30af\u30ba\u30cd\u30c4\u30a9\u30d5\u7d1a\u7a7a\u6bcd\u300c\u907c\u5be7\u300d\uff11\u96bb\u3001\u30ec\u30f3\u30cf\u30a4\u7d1a\u30df\u30b5\u30a4\u30eb\u99c6\u9010\u8266\uff11\u96bb\u3001\u30eb\u30fc\u30e4\u30f3\u2162\u7d1a\u30df\u30b5\u30a4\u30eb\u99c6\u9010\u8266\uff12\u96bb\u3001\u30b8\u30e3\u30f3\u30ab\u30a4\u2161\u7d1a\u30d5\u30ea\u30b2\u30fc\u30c8\uff11\u96bb\u53ca\u3073\u30d5\u30e6\u7d1a\u9ad8\u901f\u6226\u95d8\u652f\u63f4\u8266\uff11\u96bb\u306e\u8a08\uff16\u96bb\u3092\u78ba\u8a8d\u3057\u305f\u3002\n<p>\u305d\u306e\u5f8c\u3001\u3053\u308c\u3089\u306e\u8266\u8247\u304c\u6c96\u7e04\u672c\u5cf6\u3068\u5bae\u53e4\u5cf6\u306e\u9593\u306e\u6d77\u57df\u3092\u5317\u4e0a\u3057\u3001\u6771\u30b7\u30ca\u6d77\u3078\u5411\u3051\u3066\u822a\u884c\u3057\u305f\u3053\u3068\u3092\u78ba\u8a8d\u3057\u305f\u3002\n</p><p>\u306a",
+      "license": "CC BY 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/21/PLANS_Nanchang_%28DDG-101%29_20211021.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/21/PLANS_Nanchang_%28DDG-101%29_20211021.jpg",
+      "width": 1196,
+      "height": 405,
+      "title": "PLANS Nanchang (DDG-101) 20211021.jpg",
+      "description": "\uff11\uff10\u6708\uff11\uff18\u65e5\uff08\u6708\uff09\u5348\u5f8c\uff16\u6642\u9803\u3001\u6d77\u4e0a\u81ea\u885b\u968a\u306f\u3001\u6d25\u8efd\u6d77\u5ce1\u3092\u901a\u904e\u3057\u305f\u4e2d\u56fd\u6d77\u8ecd\u30ec\u30f3\u30cf\u30a4\u7d1a\u30df\u30b5\u30a4\u30eb\u99c6\u9010\u8266\uff11\u96bb\u3001\u30eb\u30fc\u30e4\u30f3\u2162\u7d1a\u30df\u30b5\u30a4\u30eb\u99c6\u9010\u8266\uff11\u96bb\u3001\u30b8\u30e3\u30f3\u30ab\u30a4\u2161\u7d1a\u30d5\u30ea\u30b2\u30fc\u30c8\uff12\u96bb\u53ca\u3073\u30d5\u30c1\u7d1a\u88dc\u7d66\u8266\uff11\u96bb\u4e26\u3073\u306b\u30ed\u30b7\u30a2\u6d77\u8ecd\u30a6\u30c0\u30ed\u30a4\u2160\u7d1a\u99c6\u9010\u8266\uff12\u96bb\u3001\u30b9\u30c6\u30ec\u30b0\u30b7\u30c1\u30fc\u7d1a\u30d5\u30ea\u30b2\u30fc\u30c8\uff12\u96bb\u53ca\u3073\u30de\u30eb\u30b7\u30e3\u30eb\u30fb\u30cd\u30c7\u30ea\u30f3\u7d1a\u30df\u30b5\u30a4\u30eb\u89b3\u6e2c\u652f\u63f4\u8266\uff11\u96bb\u304c\u9752\u68ee\u770c\u5c3b\u5c4b\u5d0e\u306e\u6771\u5357\u6771\u7d04\uff14\uff10\uff4b\uff4d\u306e\u6d77\u57df\u306b\u304a\u3044\u3066\u3001\u5357\u6771\u9032\u3057\u305f\u3053\u3068\u3092\u78ba\u8a8d\u3057\u305f\u3002\n<p>\uff11\uff10\u6708\uff12\uff10\u65e5\uff08\u6c34\uff09\u5348",
+      "license": "CC BY 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Type_055_destroyer.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Type_055_destroyer.jpg",
+      "width": 1280,
+      "height": 612,
+      "title": "Type 055 destroyer.jpg",
+      "description": "Artist's impression of type 055 destroyer.",
+      "license": "CC BY-SA 3.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Hyundai_Equus_Limousine_YJ_PE_Black_Gray_%281%29.jpg/1280px-Hyundai_Equus_Limousine_YJ_PE_Black_Gray_%281%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Hyundai_Equus_Limousine_YJ_PE_Black_Gray_%281%29.jpg",
+      "width": 3816,
+      "height": 2862,
+      "title": "Hyundai Equus Limousine YJ PE Black Gray (1).jpg",
+      "description": "Black/Gray Two-tone Hyundai Equus YJ PE Limousine.",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Hyundai_Equus_Limousine_YJ_PE_Black_Gray_%2810%29.jpg/1280px-Hyundai_Equus_Limousine_YJ_PE_Black_Gray_%2810%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/73/Hyundai_Equus_Limousine_YJ_PE_Black_Gray_%2810%29.jpg",
+      "width": 3911,
+      "height": 2933,
+      "title": "Hyundai Equus Limousine YJ PE Black Gray (10).jpg",
+      "description": "Black Gray Duotone Hyundai Equus Limousine YJ PE Limousine.",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Hyundai_Equus_Limousine_YJ_PE_Black_Gray_%2811%29.jpg/1280px-Hyundai_Equus_Limousine_YJ_PE_Black_Gray_%2811%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Hyundai_Equus_Limousine_YJ_PE_Black_Gray_%2811%29.jpg",
+      "width": 3840,
+      "height": 2880,
+      "title": "Hyundai Equus Limousine YJ PE Black Gray (11).jpg",
+      "description": "Black Gray Duotone Hyundai Equus Limousine YJ PE Limousine.",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Hyundai_Equus_Limousine_YJ_PE_Black_Gray_%2812%29.jpg/1280px-Hyundai_Equus_Limousine_YJ_PE_Black_Gray_%2812%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Hyundai_Equus_Limousine_YJ_PE_Black_Gray_%2812%29.jpg",
+      "width": 3853,
+      "height": 2889,
+      "title": "Hyundai Equus Limousine YJ PE Black Gray (12).jpg",
+      "description": "Black Gray Duotone Hyundai Equus Limousine YJ PE Limousine.",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Hyundai_Equus_Limousine_YJ_PE_Black_Gray_%2814%29.jpg/1280px-Hyundai_Equus_Limousine_YJ_PE_Black_Gray_%2814%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/60/Hyundai_Equus_Limousine_YJ_PE_Black_Gray_%2814%29.jpg",
+      "width": 3481,
+      "height": 2610,
+      "title": "Hyundai Equus Limousine YJ PE Black Gray (14).jpg",
+      "description": "Black Gray Duotone Hyundai Equus Limousine YJ PE Limousine.",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Hyundai_Equus_Limousine_YJ_PE_Black_Gray_%2815%29.jpg/1280px-Hyundai_Equus_Limousine_YJ_PE_Black_Gray_%2815%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Hyundai_Equus_Limousine_YJ_PE_Black_Gray_%2815%29.jpg",
+      "width": 3622,
+      "height": 2717,
+      "title": "Hyundai Equus Limousine YJ PE Black Gray (15).jpg",
+      "description": "Black Gray Duotone Hyundai Equus Limousine YJ PE Limousine.",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Jeep_Wrangler_%28YJ%29_base_model_at_night_finished_in_green_1of2.jpg/1280px-Jeep_Wrangler_%28YJ%29_base_model_at_night_finished_in_green_1of2.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/94/Jeep_Wrangler_%28YJ%29_base_model_at_night_finished_in_green_1of2.jpg",
+      "width": 3264,
+      "height": 2448,
+      "title": "Jeep Wrangler (YJ) base model at night finished in green 1of2.jpg",
+      "description": "Front left side view of Jeep Wrangler (YJ) base model finished in green. Factory condition and equipment. Photographed at night in Willmington, North Carolina.",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Jeep_Wrangler_%28YJ%29_base_model_at_night_finished_in_green_2of2.jpg/1280px-Jeep_Wrangler_%28YJ%29_base_model_at_night_finished_in_green_2of2.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/15/Jeep_Wrangler_%28YJ%29_base_model_at_night_finished_in_green_2of2.jpg",
+      "width": 3264,
+      "height": 2448,
+      "title": "Jeep Wrangler (YJ) base model at night finished in green 2of2.jpg",
+      "description": "Rear right side view of Jeep Wrangler (YJ) base model finished in green. Factory condition and equipment. Photographed at night in Willmington, North Carolina.",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Jeep_Wrangler_YJ_%281992%29._%2855063849246%29.jpg/1280px-Jeep_Wrangler_YJ_%281992%29._%2855063849246%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/12/Jeep_Wrangler_YJ_%281992%29._%2855063849246%29.jpg",
+      "width": 2500,
+      "height": 1667,
+      "title": "Jeep Wrangler YJ (1992). (55063849246).jpg",
+      "description": "&lt;a href=\"<a class=\"external free\" href=\"https://en.wikipedia.org/wiki/Jeep_Wrangler_\">https://en.wikipedia.org/wiki/Jeep_Wrangler_</a>\" rel=\"noreferrer nofollow\"&gt;en.wikipedia.org/wiki/Jeep_Wrang",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Jeep_YJ_Wrangler_Convertible.JPG/1280px-Jeep_YJ_Wrangler_Convertible.JPG",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/54/Jeep_YJ_Wrangler_Convertible.JPG",
+      "width": 2148,
+      "height": 1417,
+      "title": "Jeep YJ Wrangler Convertible.JPG",
+      "description": "Jeep YJ Wrangler photographed in Montreal, Quebec, Canada.",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/An_inert_Phoenix_missile_nestled_under_the_fuselage_of_NASA_Dryden%27s_F-15B_aircraft_is_being_studied_as_a_possible_test_vehicle_to_obtain_hypersonic_data_%28ED06-0217-37%29.jpg/1280px-thumbnail.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/7d/An_inert_Phoenix_missile_nestled_under_the_fuselage_of_NASA_Dryden%27s_F-15B_aircraft_is_being_studied_as_a_possible_test_vehicle_to_obtain_hypersonic_data_%28ED06-0217-37%29.jpg",
+      "width": 3000,
+      "height": 1993,
+      "title": "An inert Phoenix missile nestled under the fuselage of NASA Dryden's F-15B aircraft is being studied as a possible test vehicle to obtain hypersonic data (ED06-0217-37).jpg",
+      "description": "An inert AIM-54 Phoenix missile nestled under the fuselage of NASA Dryden's F-15B aircraft is being studied as a possible test vehicle to obtain hypersonic data.",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Atlas_de_zoologie_%28Pl._16%29_BHL40296593.jpg/1280px-Atlas_de_zoologie_%28Pl._16%29_BHL40296593.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/09/Atlas_de_zoologie_%28Pl._16%29_BHL40296593.jpg",
+      "width": 3425,
+      "height": 5787,
+      "title": "Atlas de zoologie (Pl. 16) BHL40296593.jpg",
+      "description": "Atlas de zoologie\u00a0: ou collection de 100 planches /",
+      "license": "Public domain",
+      "source": "wikimedia"
+    }
+  ]
+}
