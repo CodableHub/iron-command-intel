@@ -89,6 +89,28 @@ export default async function PlatformPage({
       ? "Unlimited (nuclear)"
       : null;
 
+  // Domain-agnostic spec cards — surface specs.additional.* for air/land/missile
+  // platforms (combat radius, Mach, warhead, CEP, guidance, armour, etc.).
+  // Keys consumed explicitly elsewhere are skipped to avoid duplication.
+  const ADDITIONAL_RENDERED_ELSEWHERE = new Set([
+    "diving_depth_m", "torpedo_tubes", "torpedo_room_capacity",
+    "reactor_life_years", "special_features",
+  ]);
+  const humanizeKey = (k: string) =>
+    k.replace(/_(m|km|nm|kg|kn|hp|mm|kmh|mph)$/i, "")
+      .replace(/_/g, " ")
+      .replace(/\b\w/g, (c) => c.toUpperCase())
+      .trim();
+  const additionalSpecs: { label: string; value: string }[] = Object.entries(
+    (specs.additional || {}) as Record<string, unknown>
+  )
+    .filter(([k, v]) =>
+      !ADDITIONAL_RENDERED_ELSEWHERE.has(k) &&
+      (typeof v === "string" || typeof v === "number") &&
+      String(v).trim() !== "" && String(v) !== "0"
+    )
+    .map(([k, v]) => ({ label: humanizeKey(k), value: String(v) }));
+
   // FAQ data for JSON-LD + rendered section
   const faq: { q: string; a: string }[] = [];
   if (activeCount > 0 || p.unit_count) {
@@ -285,6 +307,7 @@ export default async function PlatformPage({
             { label: "Torpedo Tubes", value: specs.additional?.torpedo_tubes?.toString() || null },
             { label: "Torpedo Room", value: specs.additional?.torpedo_room_capacity || null },
             { label: "Reactor Life", value: specs.additional?.reactor_life_years ? `${specs.additional.reactor_life_years} yrs` : null },
+            ...additionalSpecs,
           ].filter(s => s.value).map((s) => (
             <div key={s.label} className="bg-[#0a0f1a] rounded-lg p-3 text-center">
               <div className="text-[#eac054] font-bold text-lg">{s.value}</div>

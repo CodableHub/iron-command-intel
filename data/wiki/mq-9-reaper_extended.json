@@ -1,0 +1,214 @@
+{
+  "combat_history": [
+    {
+      "date": "2020-01-03",
+      "operation": "Baghdad strike",
+      "event": "An MQ-9 Reaper killed Iranian IRGC-Quds Force commander Qasem Soleimani near Baghdad airport.",
+      "significance": "Among the most strategically significant drone strikes ever conducted."
+    },
+    {
+      "date": "2023-03-14",
+      "event": "A Russian Su-27 collided with a U.S. MQ-9 over the Black Sea, forcing the crew to ditch it.",
+      "significance": "Demonstrated the Reaper's vulnerability in contested airspace near a peer adversary."
+    },
+    {
+      "date": "2022",
+      "event": "MQ-9B SeaGuardian deployed to Kanoya Air Base, Japan, for maritime surveillance.",
+      "significance": "Showcased the type's Indo-Pacific maritime domain-awareness role."
+    }
+  ],
+  "modernization": [
+    {
+      "program": "MQ-9B maritime & teaming",
+      "status": "in-progress",
+      "timeline": "2020s",
+      "description": "Maritime ISR/ASW fits and integration as a sensor node for crewed-uncrewed teaming.",
+      "impact": "Repositions the Reaper from permissive-airspace strike toward Pacific maritime surveillance."
+    }
+  ],
+  "vulnerabilities": [
+    {
+      "area": "Survivability in contested airspace",
+      "description": "Slow, non-stealthy and unable to defend itself against fighters or modern SAMs.",
+      "context": "Vivid in the 2023 Black Sea loss to a Russian fighter.",
+      "mitigation": "Restricted to permissive airspace or standoff maritime ISR."
+    },
+    {
+      "area": "Datalink dependence",
+      "description": "Relies on a satellite datalink that can be jammed or interdicted.",
+      "context": "Peer EW threatens beyond-line-of-sight control.",
+      "mitigation": "Hardened/redundant links and autonomy upgrades."
+    }
+  ],
+  "operational_patterns": {
+    "typical_deployment": "Persistent ISR and precision strike in permissive airspace; long-endurance maritime patrol (SeaGuardian) over open ocean.",
+    "key_operating_areas": [
+      "Western Pacific",
+      "South China Sea",
+      "Indian Ocean",
+      "Middle East",
+      "Sahel"
+    ],
+    "typical_task_group": "Remote-split operations via satellite; integrated with intelligence and joint fires networks.",
+    "readiness_notes": "Mature, widely fielded; maritime and allied variants expanding."
+  },
+  "peer_comparisons": [
+    {
+      "platform": "Wing Loong II",
+      "country": "China",
+      "relationship": "direct rival",
+      "key_differences": "China's MALE strike drone, widely exported as a cheaper Reaper analogue.",
+      "video_angle": "Reaper vs Wing Loong \u2014 the global armed-drone competition."
+    },
+    {
+      "platform": "Bayraktar TB2",
+      "country": "Turkey",
+      "relationship": "lighter competitor",
+      "key_differences": "Smaller, far cheaper combat drone that proved devastating in recent wars; less endurance and payload than the Reaper.",
+      "video_angle": "Cheap mass vs capability in armed drones."
+    },
+    {
+      "platform": "Boeing MQ-25 Stingray",
+      "country": "United States",
+      "relationship": "naval contrast",
+      "key_differences": "MQ-25 is a carrier-based unmanned tanker, reflecting the Navy's different unmanned priorities.",
+      "video_angle": "How the US Navy is going unmanned differently."
+    }
+  ],
+  "search_keywords": [
+    "MQ-9",
+    "MQ-9 Reaper",
+    "Reaper drone",
+    "MQ-9B",
+    "SeaGuardian",
+    "Predator B",
+    "General Atomics",
+    "armed drone",
+    "UCAV"
+  ],
+  "doctrine": {
+    "role": "Medium-altitude long-endurance armed ISR drone; in the Pacific, a long-range maritime surveillance platform.",
+    "employment": "Remote crews fly day-long sorties via satellite for persistent surveillance and precision strike; SeaGuardian patrols vast ocean areas.",
+    "design_philosophy": "Persistence and payload over speed or stealth \u2014 own the time domain in permissive airspace.",
+    "threat_context": "Force multiplier for maritime domain awareness across the Indo-Pacific's distances; vulnerable in contested airspace, pushing it toward ISR and teaming roles.",
+    "comparison_frame": "The Western benchmark MALE drone \u2014 read against China's Wing Loong, Turkey's TB2 and the Navy's MQ-25."
+  },
+  "curated_sources": [
+    {
+      "title": "General Atomics MQ-9 Reaper \u2014 Wikipedia",
+      "type": "reference",
+      "url": "https://en.wikipedia.org/wiki/General_Atomics_MQ-9_Reaper",
+      "relevance": "Specs, variants, operators",
+      "priority": "reference"
+    },
+    {
+      "title": "U.S. Air Force fact sheet \u2014 MQ-9 Reaper",
+      "type": "official",
+      "url": "https://www.af.mil/About-Us/Fact-Sheets/",
+      "relevance": "Official characteristics and role",
+      "priority": "essential"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/174th_ATKW_MQ-9_Reaper.jpg/1280px-174th_ATKW_MQ-9_Reaper.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/54/174th_ATKW_MQ-9_Reaper.jpg",
+      "width": 3216,
+      "height": 2136,
+      "title": "174th ATKW MQ-9 Reaper.jpg",
+      "description": "A Syracuse Air National Guard MQ-9 taxis around the upper ramp at Hancock Field Air National Guard Base.",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/An_MQ-9_Reaper_sits_in_front_of_a_hanger_at_Ebbing_Air_National_Guard_Base%2C_Arkansas%2C_June_23%2C_2021.jpg/1280px-An_MQ-9_Reaper_sits_in_front_of_a_hanger_at_Ebbing_Air_National_Guard_Base%2C_Arkansas%2C_June_23%2C_2021.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/94/An_MQ-9_Reaper_sits_in_front_of_a_hanger_at_Ebbing_Air_National_Guard_Base%2C_Arkansas%2C_June_23%2C_2021.jpg",
+      "width": 4032,
+      "height": 2688,
+      "title": "An MQ-9 Reaper sits in front of a hanger at Ebbing Air National Guard Base, Arkansas, June 23, 2021.jpg",
+      "description": "An MQ-9 Reaper from the 147th Attack Wing sits in front of a hanger on the 188th Wing flightline after landing at Fort Smith, Ark., June 23, 2021.",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a9/MQ-9_Reaper.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/a9/MQ-9_Reaper.jpg",
+      "width": 1173,
+      "height": 1173,
+      "title": "MQ-9 Reaper.jpg",
+      "description": "MQ-9 Reaper flying over Larisa, Greece",
+      "license": "CC BY 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/MQ-9_Reaper_-_090609-F-0000M-777.JPG/1280px-MQ-9_Reaper_-_090609-F-0000M-777.JPG",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/33/MQ-9_Reaper_-_090609-F-0000M-777.JPG",
+      "width": 2100,
+      "height": 1485,
+      "title": "MQ-9 Reaper - 090609-F-0000M-777.JPG",
+      "description": "CREECH AFB, Nev. -- A MQ-9 Reaper flies above Creech AFB during a local training mission here. The 42nd Attack Squadron currently operates the MQ-9.",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/95/MQ-9_Reaper_FARP_%28forward_area_refuelling_point%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/95/MQ-9_Reaper_FARP_%28forward_area_refuelling_point%29.jpg",
+      "width": 1024,
+      "height": 681,
+      "title": "MQ-9 Reaper FARP (forward area refuelling point).jpg",
+      "description": "",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/MQ-9_Reaper_UAV.jpg/1280px-MQ-9_Reaper_UAV.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/89/MQ-9_Reaper_UAV.jpg",
+      "width": 4288,
+      "height": 2848,
+      "title": "MQ-9 Reaper UAV.jpg",
+      "description": "An MQ-9 Reaper unmanned aerial vehicle flies a combat mission over southern Afghanistan.",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/MQ-9_Reaper_UAV_%28cropped%29.jpg/1280px-MQ-9_Reaper_UAV_%28cropped%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/12/MQ-9_Reaper_UAV_%28cropped%29.jpg",
+      "width": 3022,
+      "height": 1986,
+      "title": "MQ-9 Reaper UAV (cropped).jpg",
+      "description": "An MQ-9 Reaper unmanned aerial vehicle flies a combat mission over southern Afghanistan",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/MQ-9_Reaper_display_-_Aviation_Nation_2019.jpg/1280px-MQ-9_Reaper_display_-_Aviation_Nation_2019.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/10/MQ-9_Reaper_display_-_Aviation_Nation_2019.jpg",
+      "width": 4272,
+      "height": 2848,
+      "title": "MQ-9 Reaper display - Aviation Nation 2019.jpg",
+      "description": "A General Atomics MQ-9 Reaper on static display at Aviation Nation 2019. Aviation Nation is an airshow at Nellis Air Force Base, Nevada.",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/MQ-9_Reaper_during_Exercise_Northern_Strike_2019.png/1280px-MQ-9_Reaper_during_Exercise_Northern_Strike_2019.png",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/a1/MQ-9_Reaper_during_Exercise_Northern_Strike_2019.png",
+      "width": 1800,
+      "height": 1200,
+      "title": "MQ-9 Reaper during Exercise Northern Strike 2019.png",
+      "description": "MQ-9 Reaper during Exercise Northern Strike 2019",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/MQ-9_Reaper_in_flight_%282007%29.jpg/1280px-MQ-9_Reaper_in_flight_%282007%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/b0/MQ-9_Reaper_in_flight_%282007%29.jpg",
+      "width": 2100,
+      "height": 1500,
+      "title": "MQ-9 Reaper in flight (2007).jpg",
+      "description": "A <a href=\"https://en.wikipedia.org/wiki/MQ-9_Reaper\" class=\"extiw\" title=\"w:MQ-9 Reaper\">MQ-9 Reaper</a> US military <a href=\"https://en.wikipedia.org/wiki/unmanned_aerial_vehicle\" class=\"extiw\" titl",
+      "license": "Public domain",
+      "source": "wikimedia"
+    }
+  ]
+}

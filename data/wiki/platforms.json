@@ -2685,5 +2685,122 @@
       "blue-water",
       "land-attack"
     ]
+  },
+  {
+    "slug": "df-21d-anti-ship-ballistic-missile",
+    "name": "DF-21D anti-ship ballistic missile",
+    "designation": "DF-21D (CSS-5 Mod 5)",
+    "type": "ballistic-missile",
+    "country": "China",
+    "operator": "PLA Rocket Force (PLARF)",
+    "unit_count": 0,
+    "cost_usd": 11000000.0,
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/DF-21A_TEL_-_Chinese_Military_Museum_Beijing.jpg/3840px-DF-21A_TEL_-_Chinese_Military_Museum_Beijing.jpg",
+    "first_commissioned": "2010",
+    "displacement_tonnes": null,
+    "vls_cells": null,
+    "updated_at": "2026-05-20T06:34:07.197881",
+    "comparison_tags": [
+      "missile",
+      "ballistic-missile",
+      "anti-ship",
+      "a2ad",
+      "china",
+      "plarf",
+      "carrier-killer"
+    ]
+  },
+  {
+    "slug": "tomahawk-cruise-missile",
+    "name": "Tomahawk cruise missile (BGM-109)",
+    "designation": "BGM-109 Tomahawk (Block V)",
+    "type": "cruise-missile",
+    "country": "United States",
+    "operator": "U.S. Navy; Royal Navy; Australia, Japan, Netherlands (acquiring)",
+    "unit_count": 4000,
+    "cost_usd": 2000000.0,
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d5/23_0046181_Convair_Negative_Image_-_Tomahawk_missile_test_launch_from_aircraft_%2853806545579%29.jpg",
+    "first_commissioned": "1983",
+    "displacement_tonnes": null,
+    "vls_cells": null,
+    "updated_at": "2026-05-20T06:34:35.981399",
+    "comparison_tags": [
+      "missile",
+      "cruise-missile",
+      "land-attack",
+      "anti-ship",
+      "us-navy",
+      "standoff"
+    ]
+  },
+  {
+    "slug": "mark-48-adcap-torpedo",
+    "name": "Mark 48 ADCAP heavyweight torpedo",
+    "designation": "Mk 48 Mod 7 CBASS",
+    "type": "torpedo",
+    "country": "United States",
+    "operator": "U.S. Navy; Royal Australian Navy; Canada, Netherlands, Brazil (variants)",
+    "unit_count": 0,
+    "cost_usd": 3500000.0,
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/80/Mk_48_torpedo_maintenance_1982.JPEG",
+    "first_commissioned": "1972",
+    "displacement_tonnes": null,
+    "vls_cells": null,
+    "updated_at": "2026-05-20T06:35:05.570636",
+    "comparison_tags": [
+      "torpedo",
+      "heavyweight",
+      "anti-submarine",
+      "anti-ship",
+      "us-navy",
+      "undersea",
+      "aukus"
+    ]
+  },
+  {
+    "slug": "hq-9-surface-to-air-missile",
+    "name": "HQ-9 long-range surface-to-air missile",
+    "designation": "HQ-9 / HQ-9B (export FD-2000)",
+    "type": "air-defense",
+    "country": "China",
+    "operator": "PLA Air Force & Ground Force; PLA Navy (naval HHQ-9); Pakistan, others (export)",
+    "unit_count": 0,
+    "cost_usd": 0.0,
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Chinese_HQ-9_launcher.jpg",
+    "first_commissioned": "2001",
+    "displacement_tonnes": null,
+    "vls_cells": null,
+    "updated_at": "2026-05-20T06:35:09.374624",
+    "comparison_tags": [
+      "air-defense",
+      "sam",
+      "iads",
+      "a2ad",
+      "china",
+      "long-range"
+    ]
+  },
+  {
+    "slug": "mq-9-reaper",
+    "name": "General Atomics MQ-9 Reaper",
+    "designation": "MQ-9A Reaper / MQ-9B SeaGuardian",
+    "type": "drone",
+    "country": "United States",
+    "operator": "U.S. Air Force; U.S. Navy (trials); UK (Protector), Italy, France, others",
+    "unit_count": 300,
+    "cost_usd": 32000000.0,
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/54/174th_ATKW_MQ-9_Reaper.jpg",
+    "first_commissioned": "2007",
+    "displacement_tonnes": null,
+    "vls_cells": null,
+    "updated_at": "2026-05-20T06:35:38.604059",
+    "comparison_tags": [
+      "drone",
+      "uav",
+      "ucav",
+      "isr",
+      "maritime-patrol",
+      "us-air-force"
+    ]
   }
 ]

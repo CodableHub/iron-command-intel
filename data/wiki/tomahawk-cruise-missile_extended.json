@@ -1,0 +1,228 @@
+{
+  "combat_history": [
+    {
+      "date": "1991-01",
+      "operation": "Desert Storm",
+      "event": "Tomahawks opened the air campaign against Iraq, striking heavily defended Baghdad targets without risking aircrew.",
+      "significance": "Established the cruise missile as the standard opening move of U.S. campaigns."
+    },
+    {
+      "date": "2017-04",
+      "operation": "Shayrat strike",
+      "event": "59 Tomahawks struck a Syrian airbase in response to a chemical attack.",
+      "significance": "Demonstrated rapid, large-salvo precision strike from destroyers."
+    },
+    {
+      "date": "2018-04",
+      "event": "Roughly 66 Tomahawks fired (with allied weapons) against Syrian chemical-weapons sites.",
+      "significance": "Continued reliance on Tomahawk for standoff punishment strikes."
+    }
+  ],
+  "modernization": [
+    {
+      "program": "Maritime Strike Tomahawk (Block Va)",
+      "status": "in-progress",
+      "timeline": "2023\u2013",
+      "description": "Adds an anti-ship seeker, giving the fleet a long-range surface-strike weapon.",
+      "impact": "Closes a long-range anti-ship gap against peer navies."
+    },
+    {
+      "program": "Typhon / Mid-Range Capability (ground launch)",
+      "status": "in-progress",
+      "timeline": "2023\u2013",
+      "description": "Army/USMC ground launchers firing Tomahawk and SM-6.",
+      "impact": "Puts mobile land-based long-range strike on Indo-Pacific islands."
+    }
+  ],
+  "vulnerabilities": [
+    {
+      "area": "Subsonic speed",
+      "description": "At ~880 km/h the missile gives modern IADS time to detect and engage it.",
+      "context": "Against a dense peer air-defence network, attrition can be significant.",
+      "mitigation": "Low-altitude flight, salvo saturation, terrain masking and decoys."
+    },
+    {
+      "area": "GPS dependence",
+      "description": "Navigation accuracy can be degraded by jamming/spoofing.",
+      "context": "Peer adversaries field capable GPS denial.",
+      "mitigation": "TERCOM/DSMAC and anti-jam upgrades in Block V."
+    }
+  ],
+  "operational_patterns": {
+    "typical_deployment": "Salvo land-attack from destroyers, cruisers and submarines at campaign opening; emerging anti-ship and ground-launched roles.",
+    "key_operating_areas": [
+      "Western Pacific",
+      "South China Sea",
+      "Mediterranean Sea",
+      "Red Sea",
+      "Persian Gulf"
+    ],
+    "typical_task_group": "Carrier strike groups, surface action groups, SSGNs/SSNs; allied surface combatants.",
+    "readiness_notes": "Mass-produced and widely stocked; recapitalised via Block V buys."
+  },
+  "peer_comparisons": [
+    {
+      "platform": "3M14 Kalibr",
+      "country": "Russia",
+      "relationship": "direct counterpart",
+      "key_differences": "Kalibr is Russia's equivalent ship/sub-launched land-attack cruise missile, used extensively against Ukraine.",
+      "video_angle": "Tomahawk vs Kalibr \u2014 the two great-power cruise missiles compared."
+    },
+    {
+      "platform": "CJ-10 / CJ-100",
+      "country": "China",
+      "relationship": "regional counterpart",
+      "key_differences": "China's land-attack cruise missiles, air- and ground-launched, central to its own standoff strike.",
+      "video_angle": "How the US and China each built their cruise-missile arsenals."
+    },
+    {
+      "platform": "AGM-158C LRASM",
+      "country": "United States",
+      "relationship": "complementary US weapon",
+      "key_differences": "LRASM is a stealthy air-launched anti-ship missile; Maritime Strike Tomahawk gives ships a longer-ranged surface option.",
+      "video_angle": "America's two answers to the anti-ship problem."
+    }
+  ],
+  "search_keywords": [
+    "Tomahawk",
+    "BGM-109",
+    "TLAM",
+    "cruise missile",
+    "Maritime Strike Tomahawk",
+    "Block Va",
+    "Typhon",
+    "Mid-Range Capability"
+  ],
+  "doctrine": {
+    "role": "Long-range precision land-attack (and now anti-ship) cruise missile launched from ships, submarines and ground platforms.",
+    "employment": "Opens campaigns and conducts standoff strikes from beyond defended airspace; ground-launched and allied variants extend conventional deterrence in the Indo-Pacific.",
+    "design_philosophy": "Accuracy, range and mass-producibility over speed \u2014 kept decisive by continuous guidance, networking and warhead upgrades.",
+    "threat_context": "Allied proliferation (Japan, Australia, USMC/Army Typhon) is giving the first island chain a conventional counterstrike capability against China.",
+    "comparison_frame": "The Western benchmark cruise missile \u2014 read against Russia's Kalibr and China's CJ-10."
+  },
+  "curated_sources": [
+    {
+      "title": "Tomahawk (missile) \u2014 Wikipedia",
+      "type": "reference",
+      "url": "https://en.wikipedia.org/wiki/Tomahawk_(missile)",
+      "relevance": "Variants and combat history",
+      "priority": "reference"
+    },
+    {
+      "title": "CSIS Missile Threat \u2014 Tomahawk",
+      "type": "research",
+      "url": "https://missilethreat.csis.org/missile/tomahawk/",
+      "relevance": "Authoritative capability profile",
+      "priority": "essential"
+    },
+    {
+      "title": "U.S. Navy fact file \u2014 Tomahawk",
+      "type": "official",
+      "url": "https://www.navy.mil/",
+      "relevance": "Official specifications",
+      "priority": "recommended"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/23_0046181_Convair_Negative_Image_-_Tomahawk_missile_test_launch_from_aircraft_%2853806545579%29.jpg/1280px-23_0046181_Convair_Negative_Image_-_Tomahawk_missile_test_launch_from_aircraft_%2853806545579%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/d5/23_0046181_Convair_Negative_Image_-_Tomahawk_missile_test_launch_from_aircraft_%2853806545579%29.jpg",
+      "width": 1600,
+      "height": 966,
+      "title": "23 0046181 Convair Negative Image - Tomahawk missile test launch from aircraft (53806545579).jpg",
+      "description": "87654893 :Piction ID--Tomahawk missile test launch from aircraft",
+      "license": "No restrictions",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/23_0047790_Convair_Negative_Image_-_Tomahawk_missile_prepared_for_transport_%2853821991043%29.jpg/1280px-23_0047790_Convair_Negative_Image_-_Tomahawk_missile_prepared_for_transport_%2853821991043%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/f3/23_0047790_Convair_Negative_Image_-_Tomahawk_missile_prepared_for_transport_%2853821991043%29.jpg",
+      "width": 1600,
+      "height": 973,
+      "title": "23 0047790 Convair Negative Image - Tomahawk missile prepared for transport (53821991043).jpg",
+      "description": "87686128 :Piction ID--Tomahawk missile prepared for transport",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/23_0056876_Convair_Negative_Image_-_Tomahawk_missile_launch_vehicle_construction_%2853959052010%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/23_0056876_Convair_Negative_Image_-_Tomahawk_missile_launch_vehicle_construction_%2853959052010%29.jpg",
+      "width": 800,
+      "height": 610,
+      "title": "23 0056876 Convair Negative Image - Tomahawk missile launch vehicle construction (53959052010).jpg",
+      "description": "88148854 :Piction ID--Tomahawk missile launch vehicle construction",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/23_0072051_Convair_Negative_Image_-_Tomahawk_missile_model_testing_%2854254793360%29.jpg/1280px-23_0072051_Convair_Negative_Image_-_Tomahawk_missile_model_testing_%2854254793360%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/40/23_0072051_Convair_Negative_Image_-_Tomahawk_missile_model_testing_%2854254793360%29.jpg",
+      "width": 1600,
+      "height": 1260,
+      "title": "23 0072051 Convair Negative Image - Tomahawk missile model testing (54254793360).jpg",
+      "description": "88733962 :Piction ID--Tomahawk missile model testing",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/23_0072116_Convair_Negative_Image_-_Tomahawk_missile_model_testing_%2854254370601%29.jpg/1280px-23_0072116_Convair_Negative_Image_-_Tomahawk_missile_model_testing_%2854254370601%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/c0/23_0072116_Convair_Negative_Image_-_Tomahawk_missile_model_testing_%2854254370601%29.jpg",
+      "width": 1600,
+      "height": 1207,
+      "title": "23 0072116 Convair Negative Image - Tomahawk missile model testing (54254370601).jpg",
+      "description": "88734822 :Piction ID--Tomahawk missile model testing",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/HNLMS_De_Ruyter_launches_Tomahawk_missile_%28March_11%2C_2025%29.jpg/1280px-HNLMS_De_Ruyter_launches_Tomahawk_missile_%28March_11%2C_2025%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/30/HNLMS_De_Ruyter_launches_Tomahawk_missile_%28March_11%2C_2025%29.jpg",
+      "width": 5647,
+      "height": 3765,
+      "title": "HNLMS De Ruyter launches Tomahawk missile (March 11, 2025).jpg",
+      "description": "HNLMS De Ruyter launches a Tomahawk missile off the coast of Norfolk, VA (11 March 2025)",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/96/Moments_after_Tomahawk_missile_strikes_building_adjacent_to_IRGC_compound_in_Minab.png",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/96/Moments_after_Tomahawk_missile_strikes_building_adjacent_to_IRGC_compound_in_Minab.png",
+      "width": 897,
+      "height": 501,
+      "title": "Moments after Tomahawk missile strikes building adjacent to IRGC compound in Minab.png",
+      "description": "Tomahawk missile moments after striking a building within the IRGC compound adjacent to the Shajareh Tayyebeh Primary School in Minab, Iran",
+      "license": "CC BY 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Moments_before_Tomahawk_missile_strikes_building_adjacent_to_IRGC_compound_in_Minab.png",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Moments_before_Tomahawk_missile_strikes_building_adjacent_to_IRGC_compound_in_Minab.png",
+      "width": 895,
+      "height": 501,
+      "title": "Moments before Tomahawk missile strikes building adjacent to IRGC compound in Minab.png",
+      "description": "Tomahawk missile moments before striking a building within the IRGC compound adjacent to the Shajareh Tayyebeh Primary School in Minab, Iran",
+      "license": "CC BY 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Tomahawk_Land_Attack_Missile_%28_Cruise_Missile%29_%28TLAM%29_flying_through_the_air._12-04-2000_MOD_45138116.jpg/1280px-Tomahawk_Land_Attack_Missile_%28_Cruise_Missile%29_%28TLAM%29_flying_through_the_air._12-04-2000_MOD_45138116.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/27/Tomahawk_Land_Attack_Missile_%28_Cruise_Missile%29_%28TLAM%29_flying_through_the_air._12-04-2000_MOD_45138116.jpg",
+      "width": 3600,
+      "height": 2797,
+      "title": "Tomahawk Land Attack Missile ( Cruise Missile) (TLAM) flying through the air. 12-04-2000 MOD 45138116.jpg",
+      "description": "Tomahawk Land Attack Missile (TLAM) ( Cruise Missile)  flying through the air.\n<p>A conventionally armed Land Attack Missile with a range in excess of 1000NM. Turbojet powered it is submarine launched",
+      "license": "OGL v1.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/USS_Bunker_Hill_launches_the_first_tomahawk_missile_to_be_fired_in_Iraq.jpg/1280px-USS_Bunker_Hill_launches_the_first_tomahawk_missile_to_be_fired_in_Iraq.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/78/USS_Bunker_Hill_launches_the_first_tomahawk_missile_to_be_fired_in_Iraq.jpg",
+      "width": 1312,
+      "height": 2000,
+      "title": "USS Bunker Hill launches the first tomahawk missile to be fired in Iraq.jpg",
+      "description": "The US Navy (USN) Ticonderoga Class: Guided Missile Cruiser, USS Bunker Hill (CG 52) launches the first tomahawk missile to be fired in Iraq, in support of Operation Iraqi Freedom.",
+      "license": "Public domain",
+      "source": "wikimedia"
+    }
+  ]
+}

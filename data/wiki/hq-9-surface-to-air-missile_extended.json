@@ -1,0 +1,267 @@
+{
+  "combat_history": [
+    {
+      "date": "2016",
+      "event": "HQ-9 batteries deployed to Woody Island in the Paracels, the first confirmed long-range SAM emplacement on a South China Sea feature.",
+      "significance": "Extended a defended-airspace bubble over contested waters."
+    },
+    {
+      "date": "ongoing",
+      "event": "No confirmed combat interceptions; widely exercised in PLA air-defence drills.",
+      "significance": "Capability assessed from exercises and deployments, not combat."
+    }
+  ],
+  "modernization": [
+    {
+      "program": "HQ-9B / HQ-19 layering",
+      "status": "in-progress",
+      "timeline": "ongoing",
+      "description": "Extended-range HQ-9B and the higher-tier HQ-19 build a layered air- and missile-defence shield.",
+      "impact": "Broadens China's IADS toward credible ballistic-missile defence."
+    }
+  ],
+  "vulnerabilities": [
+    {
+      "area": "Low-observable threats",
+      "description": "Untested against modern stealth aircraft and standoff missiles.",
+      "context": "5th-gen penetrators and decoys may degrade engagement.",
+      "mitigation": "Networked low-band acquisition radars and layered batteries."
+    },
+    {
+      "area": "Saturation & SEAD",
+      "description": "Finite interceptors per battery are vulnerable to saturation and anti-radiation/SEAD attack.",
+      "context": "A determined air campaign can attrite emitters.",
+      "mitigation": "Mobility, emission control and decoys."
+    }
+  ],
+  "operational_patterns": {
+    "typical_deployment": "Mobile batteries protecting key bases, the mainland coast and South China Sea features; naval HHQ-9 providing fleet area defence.",
+    "key_operating_areas": [
+      "South China Sea",
+      "East China Sea",
+      "Taiwan Strait",
+      "Chinese mainland",
+      "Hainan"
+    ],
+    "typical_task_group": "Networked into the national IADS with acquisition radars, fighters and shorter-range SAMs (HQ-16, HQ-7).",
+    "readiness_notes": "Widely fielded land and naval variants; actively exported."
+  },
+  "peer_comparisons": [
+    {
+      "platform": "S-400 Triumf",
+      "country": "Russia",
+      "relationship": "design influence / rival",
+      "key_differences": "S-400 offers longer-range missiles and a broader interceptor mix; HQ-9 is the indigenous Chinese answer, also operated alongside imported S-300/S-400.",
+      "video_angle": "China's home-grown SAM vs the Russian system that inspired it."
+    },
+    {
+      "platform": "MIM-104 Patriot (PAC-3)",
+      "country": "United States",
+      "relationship": "Western counterpart",
+      "key_differences": "Patriot PAC-3 emphasises hit-to-kill ballistic-missile defence; HQ-9 is primarily an aircraft/cruise-missile area defender with growing ABM reach.",
+      "video_angle": "HQ-9 vs Patriot \u2014 competing air-defence philosophies."
+    },
+    {
+      "platform": "THAAD",
+      "country": "United States",
+      "relationship": "regional context",
+      "key_differences": "THAAD is a dedicated high-altitude ballistic-missile interceptor; its deployment to South Korea provoked strong Chinese objection.",
+      "video_angle": "Why China fears THAAD in Korea."
+    }
+  ],
+  "search_keywords": [
+    "HQ-9",
+    "HQ-9B",
+    "HongQi-9",
+    "FD-2000",
+    "HHQ-9",
+    "Chinese SAM",
+    "Chinese air defense",
+    "HT-233"
+  ],
+  "doctrine": {
+    "role": "Long-range area air-defence missile system and backbone of China's integrated air-defence network, with a navalised fleet-defence variant.",
+    "employment": "Mobile batteries and naval VLS engage aircraft, cruise missiles and UAVs at long range, layered with shorter-range SAMs and fighters.",
+    "design_philosophy": "Indigenise and navalise S-300-class capability into an exportable, mobile, networked family.",
+    "threat_context": "Extends China's anti-access bubble over the near seas and South China Sea features; the long-range layer of PLAN destroyer defences.",
+    "comparison_frame": "China's S-300/Patriot-class system \u2014 read against the S-400, Patriot and THAAD."
+  },
+  "curated_sources": [
+    {
+      "title": "HQ-9 \u2014 Wikipedia",
+      "type": "reference",
+      "url": "https://en.wikipedia.org/wiki/HQ-9",
+      "relevance": "Variants, radar and missile data",
+      "priority": "reference"
+    },
+    {
+      "title": "CSIS Missile Threat \u2014 HQ-9",
+      "type": "research",
+      "url": "https://missilethreat.csis.org/defsys/hq-9/",
+      "relevance": "Authoritative system profile",
+      "priority": "essential"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Chinese_HQ-9_air_defence_operator_2025.png/1280px-Chinese_HQ-9_air_defence_operator_2025.png",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/24/Chinese_HQ-9_air_defence_operator_2025.png",
+      "width": 2754,
+      "height": 1398,
+      "title": "Chinese HQ-9 air defence operator 2025.png",
+      "description": "Chinese HQ-9 air defence operator 2025",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Chinese_HQ-9_launcher.jpg/1280px-Chinese_HQ-9_launcher.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Chinese_HQ-9_launcher.jpg",
+      "width": 1600,
+      "height": 1155,
+      "title": "Chinese HQ-9 launcher.jpg",
+      "description": "Chinese HongQi 9 [HQ-9] launcher during China's 60th anniversary parade, 2009.",
+      "license": "CC BY 3.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/HQ-9B_20250921.jpg/1280px-HQ-9B_20250921.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/44/HQ-9B_20250921.jpg",
+      "width": 2880,
+      "height": 1920,
+      "title": "HQ-9B 20250921.jpg",
+      "description": "\u200b\u7ea2\u65d7-9B\u5730\u7a7a\u5bfc\u5f39",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/HQ-9B_Surface-to-air_missiles_20250921.jpg/1280px-HQ-9B_Surface-to-air_missiles_20250921.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/65/HQ-9B_Surface-to-air_missiles_20250921.jpg",
+      "width": 1920,
+      "height": 2880,
+      "title": "HQ-9B Surface-to-air missiles 20250921.jpg",
+      "description": "\u200b\u7ea2\u65d7-9B\u5730\u7a7a\u5bfc\u5f39",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/HQ-9B_surface-to-air_missile_20250921.jpg/1280px-HQ-9B_surface-to-air_missile_20250921.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/HQ-9B_surface-to-air_missile_20250921.jpg",
+      "width": 1920,
+      "height": 2880,
+      "title": "HQ-9B surface-to-air missile 20250921.jpg",
+      "description": "\u200b\u7ea2\u65d7-9B\u5730\u7a7a\u5bfc\u5f39",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/HQ-9_September_3.JPG/1280px-HQ-9_September_3.JPG",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/fa/HQ-9_September_3.JPG",
+      "width": 2592,
+      "height": 1936,
+      "title": "HQ-9 September 3.JPG",
+      "description": "The HQ-9 active radar homing surface-to-air missile of the Chinese military, as seen after the military parade held in Beijing on September 3, 2015 to commemorate 70 years since the end of WWII.",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/HQ-9_Surface-to-air_missiles_20170919.jpg/1280px-HQ-9_Surface-to-air_missiles_20170919.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/a0/HQ-9_Surface-to-air_missiles_20170919.jpg",
+      "width": 2560,
+      "height": 1920,
+      "title": "HQ-9 Surface-to-air missiles 20170919.jpg",
+      "description": "\u200b\u7ea2\u65d7-9\u5730\u7a7a\u5bfc\u5f39",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/26/HQ-9_at_the_China%27s_60th_anniversary_parade.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/26/HQ-9_at_the_China%27s_60th_anniversary_parade.jpg",
+      "width": 1024,
+      "height": 661,
+      "title": "HQ-9 at the China's 60th anniversary parade.jpg",
+      "description": "HQ-9 at the China's 60th anniversary parade.",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/63/PLANS_Changchun_%28150%29%2C_Penang_Strait%2C_Penang.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/63/PLANS_Changchun_%28150%29%2C_Penang_Strait%2C_Penang.jpg",
+      "width": 960,
+      "height": 640,
+      "title": "PLANS Changchun (150), Penang Strait, Penang.jpg",
+      "description": "Frigate PLANS Changchun (150) in the Penang Strait, Penang, Malaysia. Visible far left is George Town; to the far right is Butterworth",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/00/%E4%B8%AD%E5%9B%BD%E8%88%AA%E7%A9%BA%E5%8D%9A%E7%89%A9%E9%A6%86_-_panoramio_%2815%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/00/%E4%B8%AD%E5%9B%BD%E8%88%AA%E7%A9%BA%E5%8D%9A%E7%89%A9%E9%A6%86_-_panoramio_%2815%29.jpg",
+      "width": 925,
+      "height": 825,
+      "title": "\u4e2d\u56fd\u822a\u7a7a\u535a\u7269\u9986 - panoramio (15).jpg",
+      "description": "\u4e2d\u56fd\u822a\u7a7a\u535a\u7269\u9986",
+      "license": "CC BY-SA 3.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Erect_human_penis_HQ_SAM_E.jpg/1280px-Erect_human_penis_HQ_SAM_E.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Erect_human_penis_HQ_SAM_E.jpg",
+      "width": 2608,
+      "height": 2280,
+      "title": "Erect human penis HQ SAM E.jpg",
+      "description": "Genitalia of a Southern-European male, 30 years. Erect penis with foreskin.\n<p>Penis length: flaccid approx. 9.5 cm = 3.7 in, erect approx. 16.3 cm = 6.4 in, measured upside\n</p><p>Penis width: flacci",
+      "license": "CC BY-SA 3.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/HQ_SAM_CFE.jpg/1280px-HQ_SAM_CFE.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/15/HQ_SAM_CFE.jpg",
+      "width": 4961,
+      "height": 2231,
+      "title": "HQ SAM CFE.jpg",
+      "description": "Comparison of flaccid and erect penis with foreskin. Genitalia of a Southern-European male, 30 years.\n<p>Penis length: flaccid approx. 9.5 cm = 3.7 in, erect approx. 16.3 cm = 6.4 in, measured upside\n",
+      "license": "CC BY-SA 3.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/HQ_SAM_E2.jpg/1280px-HQ_SAM_E2.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/d4/HQ_SAM_E2.jpg",
+      "width": 3108,
+      "height": 2608,
+      "title": "HQ SAM E2.jpg",
+      "description": "Erect penis with foreskin. Shaved genitalia of a Southern-European male, 30 years. \n<p>Penis length: flaccid approx. 9.5 cm = 3.7 in, erect approx. 16.3 cm = 6.4 in, measured upside\n</p><p>Penis width",
+      "license": "CC BY-SA 3.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/HQ_SAM_F.jpg/1280px-HQ_SAM_F.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/24/HQ_SAM_F.jpg",
+      "width": 1776,
+      "height": 2072,
+      "title": "HQ SAM F.jpg",
+      "description": "Genitalia of a Southern-European male, 30 years. Flaccid penis with foreskin.\n<p>Penis length: flaccid approx. 9.5 cm = 3.7 in, erect approx. 16.3 cm = 6.4 in, measured upside\n</p><p>Penis width: flac",
+      "license": "CC BY-SA 3.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/HQ_SAM_FS.jpg/1280px-HQ_SAM_FS.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/6e/HQ_SAM_FS.jpg",
+      "width": 2608,
+      "height": 3928,
+      "title": "HQ SAM FS.jpg",
+      "description": "Penis with foreskin of a Southern-European male, 30 years.\n<p>The foreskin usually covers a flaccid penis and its glans (fully or partially). When the penis starts erecting the foreskin retreats, in m",
+      "license": "CC BY-SA 3.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/HQ_SAM_SA.jpg/1280px-HQ_SAM_SA.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/b8/HQ_SAM_SA.jpg",
+      "width": 2861,
+      "height": 4592,
+      "title": "HQ SAM SA.jpg",
+      "description": "Comparison of flaccid and erect penis, with foreskin. Genitalia of a Southern-European male, 30 years.\n<p>Penis length: flaccid approx. 9.5 cm = 3.7 in, erect approx. 16.3 cm = 6.4 in, measured upside",
+      "license": "CC BY-SA 3.0",
+      "source": "wikimedia"
+    }
+  ]
+}

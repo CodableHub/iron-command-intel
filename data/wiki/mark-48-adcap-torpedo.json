@@ -1,0 +1,264 @@
+{
+  "id": 156,
+  "slug": "mark-48-adcap-torpedo",
+  "name": "Mark 48 ADCAP heavyweight torpedo",
+  "designation": "Mk 48 Mod 7 CBASS",
+  "type": "torpedo",
+  "country": "United States",
+  "operator": "U.S. Navy; Royal Australian Navy; Canada, Netherlands, Brazil (variants)",
+  "overview_md": "The Mark 48 is the U.S. Navy's heavyweight submarine-launched torpedo and the benchmark undersea weapon of the Western world. Designed to kill both fast, deep-diving nuclear submarines and large surface ships, it is the primary armament of every American attack and ballistic-missile submarine, and equips the boats of close allies including Australia, Canada and the Netherlands. More than half a century after its introduction, continuous upgrades have kept it at the leading edge of undersea warfare.\n\nThe weapon's lethality comes from a combination of speed, range, intelligence and a large warhead. Propelled by a swashplate piston engine burning Otto fuel II and driving a quiet pump-jet, the Mk 48 can run at well over 55 knots to ranges measured in tens of kilometres. It is wire-guided from the launching submarine for most of its run \u2014 letting the boat's superior sonar and computers steer the weapon and update the target picture \u2014 before its own active/passive sonar seeker takes over for terminal homing. Rather than relying on contact, it detonates its roughly 290 kg warhead beneath a ship's keel, where the gas bubble can break a hull in two.\n\nThe definitive Mod 7 CBASS (Common Broadband Advanced Sonar System) variant, co-developed with Australia, broadens the sonar's frequency range and sharpens performance in noisy, cluttered littoral waters where future conflicts are likely to be fought. Ongoing guidance-and-control upgrades and a restart of U.S. production reflect renewed great-power competition undersea.\n\nFor an analyst, the Mk 48 matters because the submarine remains the West's decisive asymmetric advantage in the Pacific, and the torpedo is what makes that advantage lethal. Under AUKUS, Australia's future nuclear-powered submarines will carry it \u2014 extending the reach of this weapon deep into the Indo-Pacific and tying allied undersea forces to a common heavyweight torpedo.",
+  "specs_json": {
+    "length_m": 5.8,
+    "additional": {
+      "diameter": "533 mm (21 in)",
+      "weight": "~1,676 kg",
+      "range": "~38 km at 55 kn (greater at lower speed)",
+      "speed": ">55 knots",
+      "warhead": "~292 kg PBXN high-explosive (under-keel detonation)",
+      "guidance": "Wire-guided + active/passive sonar homing (CBASS)",
+      "propulsion": "Otto fuel II swashplate piston engine, pump-jet",
+      "depth": ">800 m"
+    }
+  },
+  "armament_json": [],
+  "variants_json": [
+    {
+      "name": "Mk 48 (baseline)",
+      "years": "1972\u2013",
+      "key_changes": "Original anti-submarine/anti-surface heavyweight torpedo",
+      "status": "upgraded"
+    },
+    {
+      "name": "Mk 48 ADCAP (Mod 4/5)",
+      "years": "1988\u2013",
+      "key_changes": "Advanced Capability: new guidance, sonar and propulsion for fast deep-diving subs",
+      "status": "active"
+    },
+    {
+      "name": "Mk 48 Mod 6 CBASS / Mod 7",
+      "years": "2006\u2013",
+      "key_changes": "Common Broadband Advanced Sonar (US-Australia); improved littoral and ECCM performance",
+      "status": "active"
+    }
+  ],
+  "fleet_status_json": [],
+  "cost_usd": 3500000.0,
+  "unit_count": 0,
+  "first_commissioned": "1972",
+  "builder": "Lockheed Martin",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/80/Mk_48_torpedo_maintenance_1982.JPEG",
+  "wiki_url": "https://en.wikipedia.org/wiki/Mark_48_torpedo",
+  "sources_json": [
+    "https://en.wikipedia.org/wiki/Mark_48_torpedo"
+  ],
+  "comparison_tags": [
+    "torpedo",
+    "heavyweight",
+    "anti-submarine",
+    "anti-ship",
+    "us-navy",
+    "undersea",
+    "aukus"
+  ],
+  "created_at": "2026-05-20 06:35:05",
+  "updated_at": "2026-05-20T06:35:05.570636",
+  "news": [],
+  "events": [],
+  "ic_coverage": [],
+  "combat_history": [
+    {
+      "date": "Test / SINKEX",
+      "event": "No wartime employment by the U.S. Navy; routinely demonstrated against decommissioned ships in sinking exercises, reliably breaking hulls with under-keel detonation.",
+      "significance": "Remains the unproven-in-combat but technically dominant Western heavyweight torpedo."
+    }
+  ],
+  "modernization": [
+    {
+      "program": "Guidance & Control / production restart",
+      "status": "in-progress",
+      "timeline": "2020s",
+      "description": "Modernised electronics and a restart of new-build Mk 48 production after years of refurbishment-only.",
+      "impact": "Replenishes stockpiles for great-power undersea competition."
+    },
+    {
+      "program": "AUKUS commonality",
+      "status": "planned",
+      "timeline": "2030s",
+      "description": "Arming Australia's future SSN-AUKUS / Virginia-class boats with the Mk 48.",
+      "impact": "Standardises allied heavyweight torpedoes across the Indo-Pacific."
+    }
+  ],
+  "vulnerabilities": [
+    {
+      "area": "Countermeasures",
+      "description": "Modern submarines deploy decoys, mobile jammers and evasion tactics against homing torpedoes.",
+      "context": "Terminal homing must defeat sophisticated acoustic countermeasures.",
+      "mitigation": "CBASS broadband sonar and wire-guided updates improve discrimination."
+    },
+    {
+      "area": "Wire-guidance constraint",
+      "description": "Best performance depends on maintaining the guidance wire, limiting the launching submarine's manoeuvres.",
+      "context": "Wire can break, dropping the weapon to autonomous homing earlier.",
+      "mitigation": "Capable autonomous seeker as fallback."
+    }
+  ],
+  "operational_patterns": {
+    "typical_deployment": "Carried by SSNs and SSBNs for anti-submarine and anti-surface engagements; fired from 21-inch tubes.",
+    "key_operating_areas": [
+      "Western Pacific",
+      "South China Sea",
+      "Philippine Sea",
+      "Indian Ocean",
+      "North Atlantic"
+    ],
+    "typical_task_group": "Virginia-, Los Angeles-, Seawolf-class (US) and allied attack submarines.",
+    "readiness_notes": "Production restarted; CBASS now the fleet standard."
+  },
+  "peer_comparisons": [
+    {
+      "platform": "DM2A4 SeaHake mod 4",
+      "country": "Germany",
+      "relationship": "Western alternative",
+      "key_differences": "Fibre-optic guided heavyweight torpedo widely exported with German submarines; comparable role.",
+      "video_angle": "The two great Western heavyweight torpedoes."
+    },
+    {
+      "platform": "Yu-6",
+      "country": "China",
+      "relationship": "rival",
+      "key_differences": "China's wire-guided heavyweight torpedo for its SSN/SSK fleet, reverse-engineered from Western and Russian lineages.",
+      "video_angle": "US vs Chinese submarine torpedoes \u2014 the undersea duel."
+    },
+    {
+      "platform": "Spearfish",
+      "country": "United Kingdom",
+      "relationship": "allied counterpart",
+      "key_differences": "Royal Navy heavyweight torpedo with very high speed; upgraded Mod 1 adds insensitive munition and fibre-optic link.",
+      "video_angle": "AUKUS torpedoes compared."
+    }
+  ],
+  "search_keywords": [
+    "Mark 48",
+    "Mk 48",
+    "Mk-48 ADCAP",
+    "CBASS",
+    "heavyweight torpedo",
+    "submarine torpedo",
+    "Mod 7"
+  ],
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/MK_48_Torpedo_2363.jpg/1280px-MK_48_Torpedo_2363.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/db/MK_48_Torpedo_2363.jpg",
+      "width": 6000,
+      "height": 4000,
+      "title": "MK 48 Torpedo 2363.jpg",
+      "description": "Mark 48 torpedo",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/MK_48_Torpedo_2364.jpg/1280px-MK_48_Torpedo_2364.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/1b/MK_48_Torpedo_2364.jpg",
+      "width": 4000,
+      "height": 6000,
+      "title": "MK 48 Torpedo 2364.jpg",
+      "description": "Mark 48 torpedo",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Mark_48_operators.png/1280px-Mark_48_operators.png",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Mark_48_operators.png",
+      "width": 2753,
+      "height": 1400,
+      "title": "Mark 48 operators.png",
+      "description": "Map with Mark 48 operators in blue",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Mark_48_torpedo_operators.png/1280px-Mark_48_torpedo_operators.png",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/86/Mark_48_torpedo_operators.png",
+      "width": 2753,
+      "height": 1400,
+      "title": "Mark 48 torpedo operators.png",
+      "description": "Map with Mark 48 torpedo operators in blue",
+      "license": "CC BY 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Mk_48_torpedo_maintenance_1982.JPEG/1280px-Mk_48_torpedo_maintenance_1982.JPEG",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/80/Mk_48_torpedo_maintenance_1982.JPEG",
+      "width": 3000,
+      "height": 2805,
+      "title": "Mk 48 torpedo maintenance 1982.JPEG",
+      "description": "Technicians perform maintenance on a Mark 48 advanced capabilities torpedo at Keyport, Washington in 1982.",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Mk_48_torpedo_on_hoist_1982.JPEG/1280px-Mk_48_torpedo_on_hoist_1982.JPEG",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/13/Mk_48_torpedo_on_hoist_1982.JPEG",
+      "width": 2632,
+      "height": 3000,
+      "title": "Mk 48 torpedo on hoist 1982.JPEG",
+      "description": "U.S. Navy crewmen aboard a Mk 2 72-foot torpedo retriever boat hoist a Mk 48 advanced capabilities torpedo from the deck after retrieving it from the water.",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Mk_48_torpedo_on_retriever_boat_1982.JPEG/1280px-Mk_48_torpedo_on_retriever_boat_1982.JPEG",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Mk_48_torpedo_on_retriever_boat_1982.JPEG",
+      "width": 2934,
+      "height": 3000,
+      "title": "Mk 48 torpedo on retriever boat 1982.JPEG",
+      "description": "U.S. Navy crewmen aboard a Mk 2 72-foot torpedo retriever boat secure a Mk 48 advanced capabilities torpedo to the deck after retrieving it from the water.",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/da/Torpedo_Mark_48_Evolution.gif",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/da/Torpedo_Mark_48_Evolution.gif",
+      "width": 776,
+      "height": 514,
+      "title": "Torpedo Mark 48 Evolution.gif",
+      "description": "\u00c9volution des mod\u00e8les de la torpille Mark 48.",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/US_Navy_090115-N-8467N-003_A_MK_48_ADCAP_torpedo_is_unloaded_from_the_fast-attack_submarine_USS_Annapolis_%28SSN_760%29.jpg/1280px-US_Navy_090115-N-8467N-003_A_MK_48_ADCAP_torpedo_is_unloaded_from_the_fast-attack_submarine_USS_Annapolis_%28SSN_760%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/83/US_Navy_090115-N-8467N-003_A_MK_48_ADCAP_torpedo_is_unloaded_from_the_fast-attack_submarine_USS_Annapolis_%28SSN_760%29.jpg",
+      "width": 3000,
+      "height": 1980,
+      "title": "US Navy 090115-N-8467N-003 A MK 48 ADCAP torpedo is unloaded from the fast-attack submarine USS Annapolis (SSN 760).jpg",
+      "description": "GROTON, Conn. (Jan 15, 2009) A MK 48 ADCAP torpedo is unloaded from the fast-attack submarine USS Annapolis (SSN 760) by Sailors from the Submarine Base New London weapons department during a snowstor",
+      "license": "Public domain",
+      "source": "wikimedia"
+    }
+  ],
+  "doctrine": {
+    "role": "Submarine-launched heavyweight torpedo for killing enemy submarines and large surface ships.",
+    "employment": "Wire-guided from the launching submarine using its superior sensors, then terminal sonar homing and under-keel detonation.",
+    "design_philosophy": "Maximise the lethality of the West's decisive undersea advantage through speed, range and continuous sensor upgrades.",
+    "threat_context": "Central to allied undersea dominance in the Pacific; standardised across AUKUS submarine forces.",
+    "comparison_frame": "The Western benchmark \u2014 read against Germany's DM2A4, Britain's Spearfish and China's Yu-6."
+  },
+  "curated_sources": [
+    {
+      "title": "Mark 48 torpedo \u2014 Wikipedia",
+      "type": "reference",
+      "url": "https://en.wikipedia.org/wiki/Mark_48_torpedo",
+      "relevance": "Specs, variants, CBASS",
+      "priority": "reference"
+    },
+    {
+      "title": "U.S. Navy fact file \u2014 Heavyweight Torpedo",
+      "type": "official",
+      "url": "https://www.navy.mil/",
+      "relevance": "Official role and characteristics",
+      "priority": "recommended"
+    }
+  ]
+}

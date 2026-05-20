@@ -174,6 +174,13 @@ export function getTypeColor(type: string | null): string {
     apc: "text-lime-400 bg-lime-500/10 border-lime-500/20",
     artillery: "text-rose-400 bg-rose-500/10 border-rose-500/20",
     helicopter: "text-violet-400 bg-violet-500/10 border-violet-500/20",
+    drone: "text-fuchsia-400 bg-fuchsia-500/10 border-fuchsia-500/20",
+    torpedo: "text-teal-400 bg-teal-500/10 border-teal-500/20",
+    missile: "text-red-400 bg-red-500/10 border-red-500/20",
+    "ballistic-missile": "text-red-400 bg-red-500/10 border-red-500/20",
+    "cruise-missile": "text-pink-400 bg-pink-500/10 border-pink-500/20",
+    "air-defense": "text-sky-400 bg-sky-500/10 border-sky-500/20",
+    aircraft: "text-amber-400 bg-amber-500/10 border-amber-500/20",
   };
   return colors[type || ""] || "text-gray-400 bg-gray-500/10 border-gray-500/20";
 }

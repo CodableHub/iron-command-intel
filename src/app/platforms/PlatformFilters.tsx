@@ -53,7 +53,7 @@ export function PlatformFilters({
           <option value="all">All Types</option>
           {types.map((t) => (
             <option key={t} value={t}>
-              {t.charAt(0).toUpperCase() + t.slice(1)}
+              {t.split(/[-_]/).map((w) => w.charAt(0).toUpperCase() + w.slice(1)).join(" ")}
             </option>
           ))}
         </select>

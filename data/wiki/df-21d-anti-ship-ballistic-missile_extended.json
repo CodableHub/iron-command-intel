@@ -1,0 +1,272 @@
+{
+  "combat_history": [
+    {
+      "date": "2020-08",
+      "event": "PLA fired DF-21D and DF-26 missiles into the South China Sea during exercises; U.S. officials reported a missile struck near or on a moving target ship.",
+      "significance": "First public indication the ASBM concept had been demonstrated against a manoeuvring maritime target."
+    },
+    {
+      "date": "2015-09",
+      "event": "DF-21D publicly paraded in Beijing, officially confirming the anti-ship variant.",
+      "significance": "Open acknowledgement of a capability long assessed by Western analysts."
+    }
+  ],
+  "modernization": [
+    {
+      "program": "Reconnaissance-strike integration",
+      "status": "in-progress",
+      "timeline": "ongoing",
+      "description": "Tighter fusion of OTH radar, Yaogan satellites and UAVs to shorten the targeting cycle.",
+      "impact": "Kill-chain timeliness, not the missile itself, is the decisive variable."
+    }
+  ],
+  "vulnerabilities": [
+    {
+      "area": "Kill-chain dependency",
+      "description": "Effectiveness hinges on detecting, tracking and continuously cueing a distant moving ship.",
+      "context": "Severing ISR or datalinks neutralises the weapon without intercepting it.",
+      "mitigation": "Redundant satellite, radar, sub and air sensors."
+    },
+    {
+      "area": "Terminal seeker vs countermeasures",
+      "description": "The MaRV must reacquire the target against decoys, chaff, jamming and manoeuvre.",
+      "context": "Carrier groups can spoof or evade in the missile's final seconds.",
+      "mitigation": "Improved multi-mode seekers."
+    },
+    {
+      "area": "Unproven against a defended target",
+      "description": "Never tested against a carrier with full Aegis/SM-3/SM-6 defences and EW.",
+      "context": "Real-world Pk is genuinely uncertain.",
+      "mitigation": "Saturation salvos with DF-26 and cruise missiles."
+    }
+  ],
+  "operational_patterns": {
+    "typical_deployment": "Road-mobile TEL units dispersed and concealed inland; salvo launch on satellite/OTH cueing during a maritime crisis.",
+    "key_operating_areas": [
+      "South China Sea",
+      "East China Sea",
+      "Western Pacific",
+      "Philippine Sea"
+    ],
+    "typical_task_group": "Networked with Yaogan ISR satellites, OTH-B radar, submarines and maritime patrol aircraft.",
+    "readiness_notes": "Fielded since ~2010; complemented by DF-26 and DF-17."
+  },
+  "peer_comparisons": [
+    {
+      "platform": "DF-26",
+      "country": "China",
+      "relationship": "successor / heavier sibling",
+      "key_differences": "DF-26 roughly doubles range to ~4,000 km ('Guam killer') with both land-attack and anti-ship roles.",
+      "video_angle": "Carrier killer vs Guam killer \u2014 the reach of China's ASBMs."
+    },
+    {
+      "platform": "3M22 Zircon",
+      "country": "Russia",
+      "relationship": "alternative anti-ship concept",
+      "key_differences": "Zircon is a sea/air-launched hypersonic cruise missile, not a land-based ballistic weapon.",
+      "video_angle": "Ballistic vs hypersonic-cruise paths to killing ships."
+    },
+    {
+      "platform": "AGM-158C LRASM",
+      "country": "United States",
+      "relationship": "Western counterpart",
+      "key_differences": "LRASM is a stealthy subsonic air/ship-launched cruise missile with autonomous targeting \u2014 a very different anti-ship philosophy.",
+      "video_angle": "Mass-and-speed vs stealth-and-autonomy in anti-ship warfare."
+    }
+  ],
+  "search_keywords": [
+    "DF-21D",
+    "DF-21",
+    "CSS-5",
+    "carrier killer",
+    "anti-ship ballistic missile",
+    "ASBM",
+    "Dong Feng 21",
+    "PLARF"
+  ],
+  "doctrine": {
+    "role": "Land-based anti-ship ballistic missile to threaten and deter hostile carrier strike groups approaching China's near seas.",
+    "employment": "Dispersed mobile launchers fire on satellite/OTH cueing; the MaRV manoeuvres to strike a moving ship in its terminal phase.",
+    "design_philosophy": "Impose cost and risk on naval power projection cheaply, exploiting the asymmetry between a missile and a multi-billion-dollar carrier.",
+    "threat_context": "The signature weapon of China's A2/AD strategy and the reason U.S. carrier operations inside the first island chain are now contested.",
+    "comparison_frame": "Read alongside the DF-26 and DF-17 as a layered, land-based reconnaissance-strike complex aimed at the sea."
+  },
+  "curated_sources": [
+    {
+      "title": "DF-21 \u2014 Wikipedia",
+      "type": "reference",
+      "url": "https://en.wikipedia.org/wiki/DF-21",
+      "relevance": "Variants and the ASBM concept",
+      "priority": "reference"
+    },
+    {
+      "title": "CSIS Missile Threat \u2014 DF-21D",
+      "type": "research",
+      "url": "https://missilethreat.csis.org/missile/df-21/",
+      "relevance": "Authoritative range, basing and capability profile",
+      "priority": "essential"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/20190709_PROGRAMA_NACIONAL_INCENTIVO_VOLUNTARIADO_BRASILIA_DF_%2821%29_%2848253837701%29.jpg/1280px-20190709_PROGRAMA_NACIONAL_INCENTIVO_VOLUNTARIADO_BRASILIA_DF_%2821%29_%2848253837701%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/20190709_PROGRAMA_NACIONAL_INCENTIVO_VOLUNTARIADO_BRASILIA_DF_%2821%29_%2848253837701%29.jpg",
+      "width": 1649,
+      "height": 1116,
+      "title": "20190709 PROGRAMA NACIONAL INCENTIVO VOLUNTARIADO BRASILIA DF (21) (48253837701).jpg",
+      "description": "20190709_PROGRAMA_NACIONAL_INCENTIVO_VOLUNTARIADO_BRASILIA_DF (21)",
+      "license": "CC BY 2.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/41st_FAB_integrates_fires_with_NATO_Allies_during_DF_21_%286653611%29.jpg/1280px-41st_FAB_integrates_fires_with_NATO_Allies_during_DF_21_%286653611%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/df/41st_FAB_integrates_fires_with_NATO_Allies_during_DF_21_%286653611%29.jpg",
+      "width": 4288,
+      "height": 2848,
+      "title": "41st FAB integrates fires with NATO Allies during DF 21 (6653611).jpg",
+      "description": "Capt. John Kenny, the fire direction officer for 1st Battalion, 6th Field Artillery Regiment, sits on the tailgate of the fire direction center while processing and coordinating fire mission on May 18",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/41st_FAB_integrates_fires_with_NATO_Allies_during_DF_21_%286653620%29.jpg/1280px-41st_FAB_integrates_fires_with_NATO_Allies_during_DF_21_%286653620%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/c1/41st_FAB_integrates_fires_with_NATO_Allies_during_DF_21_%286653620%29.jpg",
+      "width": 4288,
+      "height": 2848,
+      "title": "41st FAB integrates fires with NATO Allies during DF 21 (6653620).jpg",
+      "description": "Capt. John Kenny, the fire direction officer for 1st Battalion, 6th Field Artillery Regiment, and British Army Capt. Bryn Pugh, the Liaison and fire direction officer for the 26th Regiment Royal Artil",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/DF-21A_TEL_-_Chinese_Military_Museum_Beijing.jpg/1280px-DF-21A_TEL_-_Chinese_Military_Museum_Beijing.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/8f/DF-21A_TEL_-_Chinese_Military_Museum_Beijing.jpg",
+      "width": 4368,
+      "height": 2912,
+      "title": "DF-21A TEL - Chinese Military Museum Beijing.jpg",
+      "description": "A Chinese DF-21A transporter errector vehicle on display at the \"Our troops towards the sky\" exhibition at the Beijing Military Museum.",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/DF-ST-92-07675_%285375900890%29.jpg/1280px-DF-ST-92-07675_%285375900890%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/c4/DF-ST-92-07675_%285375900890%29.jpg",
+      "width": 1890,
+      "height": 2810,
+      "title": "DF-ST-92-07675 (5375900890).jpg",
+      "description": "U.S. Air Force munitions specialists from the 23rd Tactical Fighter Wing, England Air Force Base, La., load an AGM-65 Maverick air-to-surface missile onto a U.S. Air Force A-10A Thunderbolt II attack ",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Imagens_de_rua_Gama-DF_21.jpg/1280px-Imagens_de_rua_Gama-DF_21.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Imagens_de_rua_Gama-DF_21.jpg",
+      "width": 4000,
+      "height": 3000,
+      "title": "Imagens de rua Gama-DF 21.jpg",
+      "description": "Imagens a n\u00edvel de rua em Gama no Distrito Federal",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Santu%C3%A1rio_Dom_Bosco_Bras%C3%ADlia-DF_21.jpg/1280px-Santu%C3%A1rio_Dom_Bosco_Bras%C3%ADlia-DF_21.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/32/Santu%C3%A1rio_Dom_Bosco_Bras%C3%ADlia-DF_21.jpg",
+      "width": 4000,
+      "height": 3000,
+      "title": "Santu\u00e1rio Dom Bosco Bras\u00edlia-DF 21.jpg",
+      "description": "Santu\u00e1rio Dom Bosco, situado em Bras\u00edlia, Distrito Federal, Brasil",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/69/StratCom_CSS_5.png",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/69/StratCom_CSS_5.png",
+      "width": 870,
+      "height": 156,
+      "title": "StratCom CSS 5.png",
+      "description": "css7 email",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Wikiman%C3%ADa_2015_-_Day_3_-_Opening_Ceremony_-_LMM_-_M%C3%A9xico_DF_21.jpg/1280px-Wikiman%C3%ADa_2015_-_Day_3_-_Opening_Ceremony_-_LMM_-_M%C3%A9xico_DF_21.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Wikiman%C3%ADa_2015_-_Day_3_-_Opening_Ceremony_-_LMM_-_M%C3%A9xico_DF_21.jpg",
+      "width": 4608,
+      "height": 3456,
+      "title": "Wikiman\u00eda 2015 - Day 3 - Opening Ceremony - LMM - M\u00e9xico DF 21.jpg",
+      "description": "Day 3 of Wikiman\u00eda 2015",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f9/China_Announces_Troop_Cuts_at_WWII_Parade_%28screenshot%29_2015918027.JPG",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/f9/China_Announces_Troop_Cuts_at_WWII_Parade_%28screenshot%29_2015918027.JPG",
+      "width": 1280,
+      "height": 720,
+      "title": "China Announces Troop Cuts at WWII Parade (screenshot) 2015918027.JPG",
+      "description": "2015 China WWII Parade (screenshot)",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b1/China_Announces_Troop_Cuts_at_WWII_Parade_%28screenshot%29_20159180736.JPG",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/b1/China_Announces_Troop_Cuts_at_WWII_Parade_%28screenshot%29_20159180736.JPG",
+      "width": 1280,
+      "height": 640,
+      "title": "China Announces Troop Cuts at WWII Parade (screenshot) 20159180736.JPG",
+      "description": "2015 China WWII Parade (screenshot)",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Dongfeng-21D.JPG/1280px-Dongfeng-21D.JPG",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Dongfeng-21D.JPG",
+      "width": 2592,
+      "height": 1936,
+      "title": "Dongfeng-21D.JPG",
+      "description": "The newly developed anti-ship ballistic missile DF-21D as seen after the military parade held in Beijing to commemorate the 70th anniversary of the end of WWII.",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Kopernikusstra%C3%9Fe_15%E2%80%9321_%26_Wilder-Mann-Stra%C3%9Fe_21d_01.jpg/1280px-Kopernikusstra%C3%9Fe_15%E2%80%9321_%26_Wilder-Mann-Stra%C3%9Fe_21d_01.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Kopernikusstra%C3%9Fe_15%E2%80%9321_%26_Wilder-Mann-Stra%C3%9Fe_21d_01.jpg",
+      "width": 1600,
+      "height": 1157,
+      "title": "Kopernikusstra\u00dfe 15\u201321 & Wilder-Mann-Stra\u00dfe 21d 01.jpg",
+      "description": "Dresden-Trachau. Wohnsiedlung des Bauvereins Kleinwohnungsbau (1919/1921; O. Schubert). Wohnanlage mit Torbogen, Wilder-Mann-Stra\u00dfe 21 d/Kopernikusstra\u00dfe 15/21. Eckansicht mit Einfriedung\n<p>Foto: Sta",
+      "license": "CC0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Kopernikusstra%C3%9Fe_15%E2%80%9321_%26_Wilder-Mann-Stra%C3%9Fe_21d_02.jpg/1280px-Kopernikusstra%C3%9Fe_15%E2%80%9321_%26_Wilder-Mann-Stra%C3%9Fe_21d_02.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Kopernikusstra%C3%9Fe_15%E2%80%9321_%26_Wilder-Mann-Stra%C3%9Fe_21d_02.jpg",
+      "width": 1600,
+      "height": 1627,
+      "title": "Kopernikusstra\u00dfe 15\u201321 & Wilder-Mann-Stra\u00dfe 21d 02.jpg",
+      "description": "Dresden-Trachau. Wohnsiedlung des Bauvereins Kleinwohnungsbau (1919/1921; O. Schubert). Wohnanlage mit Torbogen, Wilder-Mann-Stra\u00dfe 21 d/Kopernikusstra\u00dfe 15. Stra\u00dfenansicht mit Einfriedung\n<p>Foto: St",
+      "license": "CC0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Kopernikusstra%C3%9Fe_15%E2%80%9321_%26_Wilder-Mann-Stra%C3%9Fe_21d_05.jpg/1280px-Kopernikusstra%C3%9Fe_15%E2%80%9321_%26_Wilder-Mann-Stra%C3%9Fe_21d_05.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/02/Kopernikusstra%C3%9Fe_15%E2%80%9321_%26_Wilder-Mann-Stra%C3%9Fe_21d_05.jpg",
+      "width": 1600,
+      "height": 1647,
+      "title": "Kopernikusstra\u00dfe 15\u201321 & Wilder-Mann-Stra\u00dfe 21d 05.jpg",
+      "description": "Dresden-Trachau. Wohnsiedlung des Bauvereins Kleinwohnungsbau (1919/1921; O. Schubert). Wohnh\u00e4user, Stephanstra\u00dfe 22/Kopernikusstra\u00dfe 21. Hofansicht mit Torbogen\n<p>Foto: Starke, Werner, 1996.08.31 \nF",
+      "license": "CC0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Kopernikusstra%C3%9Fe_15%E2%80%9321_%26_Wilder-Mann-Stra%C3%9Fe_21d_06.jpg/1280px-Kopernikusstra%C3%9Fe_15%E2%80%9321_%26_Wilder-Mann-Stra%C3%9Fe_21d_06.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Kopernikusstra%C3%9Fe_15%E2%80%9321_%26_Wilder-Mann-Stra%C3%9Fe_21d_06.jpg",
+      "width": 1600,
+      "height": 2174,
+      "title": "Kopernikusstra\u00dfe 15\u201321 & Wilder-Mann-Stra\u00dfe 21d 06.jpg",
+      "description": "Dresden-Trachau. Wohnsiedlung des Bauvereins Kleinwohnungsbau (1919/1921; O. Schubert). Wohnhaus, Kopernikusstra\u00dfe 21. Haust\u00fcr\n<p>Foto: Starke, Werner, 1996.08.31\nFotothek-Aufn.-Nr.: df_hauptkatalog_0",
+      "license": "CC0",
+      "source": "wikimedia"
+    }
+  ]
+}
