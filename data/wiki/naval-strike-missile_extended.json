@@ -1,0 +1,130 @@
+{
+  "combat_history": [
+    {
+      "date": "2023\u2013",
+      "event": "Fielded on U.S. Navy LCS/Constellation frigates and the USMC NMESIS ground launcher for island sea-denial.",
+      "significance": "Became the U.S./allied common anti-ship missile and a pillar of first-island-chain strategy."
+    }
+  ],
+  "modernization": [
+    {
+      "program": "JSM & NMESIS expansion",
+      "status": "in-progress",
+      "timeline": "2020s",
+      "description": "F-35-internal JSM variant and expanding Marine Corps ground-launcher batteries.",
+      "impact": "Adds stealth-aircraft and mobile island launch options."
+    }
+  ],
+  "vulnerabilities": [
+    {
+      "area": "Range",
+      "description": "Shorter-ranged than heavy missiles like LRASM or BrahMos.",
+      "context": "Best for littoral sea-denial, not deep blue-water strike.",
+      "mitigation": "Distributed island basing extends coverage."
+    },
+    {
+      "area": "Subsonic speed",
+      "description": "Slower than supersonic rivals.",
+      "context": "Relies on stealth and manoeuvre, not speed.",
+      "mitigation": "Sea-skimming, passive seeker, evasive terminal."
+    }
+  ],
+  "operational_patterns": {
+    "typical_deployment": "Littoral sea-denial from ships and mobile island-based ground launchers (NMESIS) against surface ships.",
+    "key_operating_areas": [
+      "First Island Chain",
+      "South China Sea",
+      "Western Pacific",
+      "Baltic (allied)"
+    ],
+    "typical_task_group": "USN LCS/Constellation frigates; USMC littoral regiments; allied navies.",
+    "readiness_notes": "Widely adopted and proliferating."
+  },
+  "peer_comparisons": [
+    {
+      "platform": "AGM-158C LRASM",
+      "country": "United States",
+      "relationship": "heavier stablemate",
+      "key_differences": "LRASM is the long-range air/ship-launched heavy option; NSM is the smaller, widely-fielded littoral weapon.",
+      "video_angle": "The West's new anti-ship missile family."
+    },
+    {
+      "platform": "YJ-12 supersonic anti-ship cruise missile",
+      "country": "China",
+      "relationship": "rival coastal ASCM",
+      "key_differences": "China's coastal anti-ship missile is supersonic and longer-ranged; NSM counters with stealth and proliferation.",
+      "video_angle": "Coastal missile duel across the first island chain."
+    },
+    {
+      "platform": "Type 12 surface-to-ship missile",
+      "country": "Japan",
+      "relationship": "allied analogue",
+      "key_differences": "Japan's truck-launched anti-ship missile fills the same island-denial role.",
+      "video_angle": "How allies are mining the first island chain with missiles."
+    }
+  ],
+  "search_keywords": [
+    "Naval Strike Missile",
+    "NSM",
+    "Kongsberg NSM",
+    "NMESIS",
+    "JSM",
+    "stealth anti-ship missile",
+    "Marine Corps anti-ship"
+  ],
+  "doctrine": {
+    "role": "Stealthy littoral anti-ship missile for ship- and island-based sea denial.",
+    "employment": "Sea-skimming passive-IR attack from ships and mobile NMESIS ground launchers; F-35-internal JSM variant.",
+    "design_philosophy": "Stealth, a non-emitting seeker and proliferation over range and speed.",
+    "threat_context": "The common allied anti-ship missile and a pillar of U.S. Marine first-island-chain sea-denial against China.",
+    "comparison_frame": "Read against LRASM (heavy), China's YJ-12 and Japan's Type 12 SSM."
+  },
+  "curated_sources": [
+    {
+      "title": "Naval Strike Missile \u2014 Wikipedia",
+      "type": "reference",
+      "url": "https://en.wikipedia.org/wiki/Naval_Strike_Missile",
+      "relevance": "Specs, seeker, operators",
+      "priority": "reference"
+    },
+    {
+      "title": "USNI / CSIS \u2014 NMESIS and EABO",
+      "type": "research",
+      "url": "https://news.usni.org/",
+      "relevance": "Marine Corps sea-denial concept",
+      "priority": "recommended"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/1.12th_Marine_operates_NMESIS.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/1.12th_Marine_operates_NMESIS.jpg",
+      "width": 1000,
+      "height": 714,
+      "title": "1.12th Marine operates NMESIS.jpg",
+      "description": "An artillery Marine from 1st Battalion, 12th Marines maneuvers a Navy Marine Expeditionary Ship Interdiction System launcher across the beach aboard Pacific Missile Range Facility Barking Sands, Hawai",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/A_U.S._Navy_LCAC_transports_equipment_to_USS_San_Diego_%28LPD_22%29_off_the_coast_of_Hawaii_during_Large_Scale_Exercise_%28LSE%29_2021._%2851385784207%29.jpg/1280px-A_U.S._Navy_LCAC_transports_equipment_to_USS_San_Diego_%28LPD_22%29_off_the_coast_of_Hawaii_during_Large_Scale_Exercise_%28LSE%29_2021._%2851385784207%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/55/A_U.S._Navy_LCAC_transports_equipment_to_USS_San_Diego_%28LPD_22%29_off_the_coast_of_Hawaii_during_Large_Scale_Exercise_%28LSE%29_2021._%2851385784207%29.jpg",
+      "width": 5184,
+      "height": 3456,
+      "title": "A U.S. Navy LCAC transports equipment to USS San Diego (LPD 22) off the coast of Hawaii during Large Scale Exercise (LSE) 2021. (51385784207).jpg",
+      "description": "KAUAI, Hawaii (Aug. 15, 2021) A Navy Marine Expeditionary Ship Interdiction System launcher, a command and control vehicle and a joint light tactical vehicle are transported by a U.S. Navy landing cra",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/NMESIS_launcher.jpg/1280px-NMESIS_launcher.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/bf/NMESIS_launcher.jpg",
+      "width": 3932,
+      "height": 2809,
+      "title": "NMESIS launcher.jpg",
+      "description": "KEKAHA, Hawaii (Aug. 16, 2021) A Navy Marine Expeditionary Ship Interdiction System (NMESIS) launcher deploys into position onboard Pacific Missile Range Facility Barking Sands. The NMESIS and its Nav",
+      "license": "Public domain",
+      "source": "wikimedia"
+    }
+  ]
+}

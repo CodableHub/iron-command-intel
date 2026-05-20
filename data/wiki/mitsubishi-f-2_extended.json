@@ -1,0 +1,259 @@
+{
+  "combat_history": [
+    {
+      "date": "2011",
+      "event": "Several F-2s were damaged or destroyed by the tsunami at Matsushima Air Base; many were repaired.",
+      "significance": "Notable fleet event; underscored basing vulnerability."
+    }
+  ],
+  "modernization": [
+    {
+      "program": "GCAP / F-X replacement",
+      "status": "in-progress",
+      "timeline": "2035",
+      "description": "Japan, UK and Italy co-developing a sixth-generation fighter to replace the F-2.",
+      "impact": "Will eventually retire the F-2 in favour of a far more capable aircraft."
+    }
+  ],
+  "vulnerabilities": [
+    {
+      "area": "Single-engine, ageing",
+      "description": "A 4th-gen single-engine design now decades old.",
+      "context": "Outclassed by modern stealth fighters in air combat.",
+      "mitigation": "AESA and missile upgrades; GCAP successor."
+    },
+    {
+      "area": "Small fleet",
+      "description": "Only ~90 built, limiting mass.",
+      "context": "Constrains sortie generation in a large conflict.",
+      "mitigation": "Complemented by F-35 and F-15J fleets."
+    }
+  ],
+  "operational_patterns": {
+    "typical_deployment": "Maritime strike and air defence around the Japanese islands and approaches.",
+    "key_operating_areas": [
+      "East China Sea",
+      "Sea of Japan",
+      "Nansei Islands",
+      "Western Pacific"
+    ],
+    "typical_task_group": "Operates with F-15J and F-35A in the JASDF.",
+    "readiness_notes": "Mature; replacement under development."
+  },
+  "peer_comparisons": [
+    {
+      "platform": "F-16 Fighting Falcon",
+      "country": "United States",
+      "relationship": "design parent",
+      "key_differences": "The F-2 enlarges the F-16 with a bigger composite wing and AESA radar for maritime strike.",
+      "video_angle": "How Japan rebuilt the F-16."
+    },
+    {
+      "platform": "KAI KF-21 Boramae",
+      "country": "South Korea",
+      "relationship": "regional peer",
+      "key_differences": "Korea's newer twin-engine indigenous fighter contrasts with Japan's older F-16 derivative.",
+      "video_angle": "Japan and Korea's home-grown fighters."
+    },
+    {
+      "platform": "Chengdu J-16",
+      "country": "China",
+      "relationship": "adversary multirole",
+      "key_differences": "China's heavy multirole strike fighter the F-2 might face.",
+      "video_angle": "Japan's maritime striker vs China's J-16."
+    }
+  ],
+  "search_keywords": [
+    "Mitsubishi F-2",
+    "F-2 fighter",
+    "Viper Zero",
+    "JASDF F-2",
+    "ASM-3",
+    "Japan maritime strike fighter"
+  ],
+  "doctrine": {
+    "role": "Maritime-strike and air-defence fighter holding hostile shipping at risk around Japan.",
+    "employment": "Carries multiple anti-ship missiles for sea denial; AESA radar for air combat.",
+    "design_philosophy": "An enlarged, composite-winged F-16 tailored to island-nation maritime defence.",
+    "threat_context": "Dedicated anti-ship capability relevant to a first-island-chain fight against China.",
+    "comparison_frame": "Read against the F-16 (parent), KF-21 (peer) and China's J-16."
+  },
+  "curated_sources": [
+    {
+      "title": "Mitsubishi F-2 \u2014 Wikipedia",
+      "type": "reference",
+      "url": "https://en.wikipedia.org/wiki/Mitsubishi_F-2",
+      "relevance": "Specs, variants, role",
+      "priority": "reference"
+    },
+    {
+      "title": "JASDF / Japan MoD",
+      "type": "official",
+      "url": "https://www.mod.go.jp/asdf/en/",
+      "relevance": "Fleet context",
+      "priority": "recommended"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/20181208_Mitsubishi_F-2_Naha_Air_Show_2018-1.jpg/1280px-20181208_Mitsubishi_F-2_Naha_Air_Show_2018-1.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/eb/20181208_Mitsubishi_F-2_Naha_Air_Show_2018-1.jpg",
+      "width": 5183,
+      "height": 2314,
+      "title": "20181208 Mitsubishi F-2 Naha Air Show 2018-1.jpg",
+      "description": "A JASDF Mitsubishi F-2 at the Naha Air Show in 2018 in Naha, Okinawa, Japan.",
+      "license": "CC0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/20181208_Mitsubishi_F-2_Naha_Air_Show_2018-2.jpg/1280px-20181208_Mitsubishi_F-2_Naha_Air_Show_2018-2.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/68/20181208_Mitsubishi_F-2_Naha_Air_Show_2018-2.jpg",
+      "width": 5184,
+      "height": 2128,
+      "title": "20181208 Mitsubishi F-2 Naha Air Show 2018-2.jpg",
+      "description": "A JASDF Mitsubishi F-2 at the Naha Air Show in 2018 in Naha, Okinawa, Japan.",
+      "license": "CC0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/20181208_Mitsubishi_F-2_Naha_Air_Show_2018-3.jpg/1280px-20181208_Mitsubishi_F-2_Naha_Air_Show_2018-3.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/20181208_Mitsubishi_F-2_Naha_Air_Show_2018-3.jpg",
+      "width": 5184,
+      "height": 2584,
+      "title": "20181208 Mitsubishi F-2 Naha Air Show 2018-3.jpg",
+      "description": "A JASDF Mitsubishi F-2 at the Naha Air Show in 2018 in Naha, Okinawa, Japan.",
+      "license": "CC0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/20181208_Mitsubishi_F-2_Naha_Air_Show_2018-4.jpg/1280px-20181208_Mitsubishi_F-2_Naha_Air_Show_2018-4.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/b7/20181208_Mitsubishi_F-2_Naha_Air_Show_2018-4.jpg",
+      "width": 5184,
+      "height": 3456,
+      "title": "20181208 Mitsubishi F-2 Naha Air Show 2018-4.jpg",
+      "description": "A JASDF Mitsubishi F-2 at the Naha Air Show in 2018 in Naha, Okinawa, Japan.",
+      "license": "CC0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/20181208_Mitsubishi_F-2_Naha_Air_Show_2018-5.jpg/1280px-20181208_Mitsubishi_F-2_Naha_Air_Show_2018-5.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/11/20181208_Mitsubishi_F-2_Naha_Air_Show_2018-5.jpg",
+      "width": 5184,
+      "height": 3456,
+      "title": "20181208 Mitsubishi F-2 Naha Air Show 2018-5.jpg",
+      "description": "A JASDF Mitsubishi F-2 at the Naha Air Show in 2018 in Naha, Okinawa, Japan.",
+      "license": "CC0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/20181208_Mitsubishi_F-2_Naha_Air_Show_2018-7.jpg/1280px-20181208_Mitsubishi_F-2_Naha_Air_Show_2018-7.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/99/20181208_Mitsubishi_F-2_Naha_Air_Show_2018-7.jpg",
+      "width": 5184,
+      "height": 2906,
+      "title": "20181208 Mitsubishi F-2 Naha Air Show 2018-7.jpg",
+      "description": "A JASDF Mitsubishi F-2 at the Naha Air Show in 2018 in Naha, Okinawa, Japan.",
+      "license": "CC0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/JASDF_Mitsubishi_F-2_Tsuiki_AB_Photo_1.jpg/1280px-JASDF_Mitsubishi_F-2_Tsuiki_AB_Photo_1.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/03/JASDF_Mitsubishi_F-2_Tsuiki_AB_Photo_1.jpg",
+      "width": 2967,
+      "height": 2158,
+      "title": "JASDF Mitsubishi F-2 Tsuiki AB Photo 1.jpg",
+      "description": "\u822a\u7a7a\u81ea\u885b\u968a\u7bc9\u57ce\u57fa\u5730\u5e83\u5831\u5199\u771f\u3002",
+      "license": "CC BY 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/JASDF_Mitsubishi_F-2_Tsuiki_AB_Photo_2.jpg/1280px-JASDF_Mitsubishi_F-2_Tsuiki_AB_Photo_2.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/a9/JASDF_Mitsubishi_F-2_Tsuiki_AB_Photo_2.jpg",
+      "width": 4269,
+      "height": 3105,
+      "title": "JASDF Mitsubishi F-2 Tsuiki AB Photo 2.jpg",
+      "description": "\u822a\u7a7a\u81ea\u885b\u968a\u7bc9\u57ce\u57fa\u5730\u5e83\u5831\u5199\u771f\u3002",
+      "license": "CC BY 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Mitsubishi_F-2_at_Guam_%28Cropped%29.jpg/1280px-Mitsubishi_F-2_at_Guam_%28Cropped%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Mitsubishi_F-2_at_Guam_%28Cropped%29.jpg",
+      "width": 2031,
+      "height": 1110,
+      "title": "Mitsubishi F-2 at Guam (Cropped).jpg",
+      "description": "A Mitsubishi <a href=\"//commons.wikimedia.org/wiki/Category:Mitsubishi_F-2\" title=\"Category:Mitsubishi F-2\">F-2A</a> (515) support fighter from the Japan Air Self Defense Force takes off from the runw",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Mitsubishi_F-2_fighter_01.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Mitsubishi_F-2_fighter_01.jpg",
+      "width": 625,
+      "height": 443,
+      "title": "Mitsubishi F-2 fighter 01.jpg",
+      "description": "F-2\u6226\u95d8\u6a5f",
+      "license": "CC BY 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/231022-F-DU706-9435.jpg/1280px-231022-F-DU706-9435.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/75/231022-F-DU706-9435.jpg",
+      "width": 6048,
+      "height": 4024,
+      "title": "231022-F-DU706-9435.jpg",
+      "description": "Fighter aircraft from the United States, Japan and South Korea conduct a trilateral escort flight of a U.S. Air Force B-52H Stratofortress over international waters near South Korea Oct. 22, 2023. U.S",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/JASDF_Mitsubishi_F-2_%2812%29.jpg/1280px-JASDF_Mitsubishi_F-2_%2812%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/JASDF_Mitsubishi_F-2_%2812%29.jpg",
+      "width": 1920,
+      "height": 1280,
+      "title": "JASDF Mitsubishi F-2 (12).jpg",
+      "description": "F-2\u306f\u3001\u7c73\u56fd\u306eF-16\u3092\u3001\u65e5\u672c\u306e\u904b\u7528\u306e\u8003\u3048\u65b9\u3084\u5730\u7406\u7684\u306a\u7279\u6027\u306b\u5408\u308f\u305b\u3001\u65e5\u7c73\u306e\u512a\u308c\u305f\u6280\u8853\u3092\u7d50\u96c6\u3057\u65e5\u7c73\u5171\u540c\u3067\u6539\u9020\u958b\u767a\u3057\u305f\u6226\u95d8\u6a5f\u3067\u3059\u3002\u662d\u548c63\u5e74\u306bFS-X\u3068\u3057\u3066\u958b\u767a\u306b\u7740\u624b\u3057\u3001\u5e73\u62107\u5e74\u306b\u521d\u98db\u884c\u300112\u5e74\u5ea6\u306b\u958b\u767a\u306f\u5b8c\u4e86\u3057\u307e\u3057\u305f\u3002F-16\u304b\u3089\u306e\u4e3b\u306a\u6539\u9020\u70b9\u306f\u3001\u65cb\u56de\u6027\u80fd\u306e\u5411\u4e0a\u306e\u305f\u3081\u4e3b\u7ffc\u9762\u7a4d\u3092\u5897\u3084\u3057\u3001\u8efd\u91cf\u5316\u306e\u305f\u3081\u5148\u9032\u6750\u6599\u3084\u5148\u9032\u69cb\u9020\u3092\u53d6\u308a\u5165\u308c\u305f\u3053\u3068\u3002\u307e\u305f\u96e2\u9678\u6027\u3092\u9ad8\u3081\u308b\u305f\u3081\u30a8\u30f3\u30b8\u30f3\u3092\u63a8\u529b\u5411\u4e0a\u578b\u306b\u5909\u3048\u3001\u3055\u3089\u306b\u6700\u65b0\u30ec\u30fc\u30c0\u30fc\u306a",
+      "license": "CC BY 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Mitsubishi_F-2_fighter_02.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Mitsubishi_F-2_fighter_02.jpg",
+      "width": 625,
+      "height": 406,
+      "title": "Mitsubishi F-2 fighter 02.jpg",
+      "description": "F-2\u6226\u95d8\u6a5f",
+      "license": "CC BY 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Mitsubishi_F-2_fighter_03.jpg/1280px-Mitsubishi_F-2_fighter_03.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Mitsubishi_F-2_fighter_03.jpg",
+      "width": 1426,
+      "height": 803,
+      "title": "Mitsubishi F-2 fighter 03.jpg",
+      "description": "Mitsubishi F-2 fighter",
+      "license": "CC BY 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Mitsubishi_F-2_fighter_04.jpg/1280px-Mitsubishi_F-2_fighter_04.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Mitsubishi_F-2_fighter_04.jpg",
+      "width": 1920,
+      "height": 1088,
+      "title": "Mitsubishi F-2 fighter 04.jpg",
+      "description": "Mitsubishi F-2 fighter",
+      "license": "CC BY 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Mitsubishi_F-2_fighter_05.jpg/1280px-Mitsubishi_F-2_fighter_05.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Mitsubishi_F-2_fighter_05.jpg",
+      "width": 1920,
+      "height": 1088,
+      "title": "Mitsubishi F-2 fighter 05.jpg",
+      "description": "\u822a\u7a7a\u81ea\u885b\u968a F-2\u6226\u95d8\u6a5f",
+      "license": "CC BY 4.0",
+      "source": "wikimedia"
+    }
+  ]
+}

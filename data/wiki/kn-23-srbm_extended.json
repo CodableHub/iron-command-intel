@@ -1,0 +1,263 @@
+{
+  "combat_history": [
+    {
+      "date": "2024",
+      "event": "KN-23 missiles supplied by North Korea were used by Russia against Ukraine.",
+      "significance": "Provided a real combat record and feedback, and deepened the Russia\u2013DPRK arms relationship."
+    },
+    {
+      "date": "2019\u20132022",
+      "event": "Repeatedly flight-tested, including manoeuvring and low-apogee profiles.",
+      "significance": "Demonstrated a missile designed to defeat regional missile defences."
+    }
+  ],
+  "modernization": [
+    {
+      "program": "Range/warhead variants & basing",
+      "status": "in-progress",
+      "timeline": "ongoing",
+      "description": "Longer-range and larger-warhead variants; diversified launch modes.",
+      "impact": "Broadens the theatre threat and improves survivability."
+    }
+  ],
+  "vulnerabilities": [
+    {
+      "area": "Accuracy claims",
+      "description": "Real-world precision is debated; combat use in Ukraine showed mixed results.",
+      "context": "Claimed precision not always borne out.",
+      "mitigation": "Iterative improvement with combat feedback."
+    },
+    {
+      "area": "Defendability",
+      "description": "Manoeuvring is hard but not impossible to intercept for modern hit-to-kill SAMs.",
+      "context": "Patriot/Cheongung-II contest it.",
+      "mitigation": "Salvos to saturate defences."
+    }
+  ],
+  "operational_patterns": {
+    "typical_deployment": "Road-mobile theatre strikes against South Korean and U.S. bases, ports and command nodes; exported to Russia.",
+    "key_operating_areas": [
+      "Korean Peninsula",
+      "Sea of Japan",
+      "(combat use) Ukraine"
+    ],
+    "typical_task_group": "KPA missile units; mobile dispersed launchers.",
+    "readiness_notes": "Heavily fielded and combat-employed (via Russia)."
+  },
+  "peer_comparisons": [
+    {
+      "platform": "9K720 Iskander",
+      "country": "Russia",
+      "relationship": "design analogue",
+      "key_differences": "The KN-23 closely resembles the Russian Iskander in its manoeuvring quasi-ballistic profile.",
+      "video_angle": "North Korea's Iskander."
+    },
+    {
+      "platform": "Hyunmoo-3 cruise missile",
+      "country": "South Korea",
+      "relationship": "adversary counterpart",
+      "key_differences": "South Korean precision missiles built to strike back at North Korean launchers.",
+      "video_angle": "The missile duel on the Korean Peninsula."
+    },
+    {
+      "platform": "Hwasong-17 intercontinental ballistic missile",
+      "country": "North Korea",
+      "relationship": "strategic stablemate",
+      "key_differences": "The Hwasong-17 is the intercontinental tier; the KN-23 is the manoeuvring theatre weapon.",
+      "video_angle": "Inside North Korea's missile force."
+    }
+  ],
+  "search_keywords": [
+    "KN-23",
+    "Hwasong-11",
+    "North Korea SRBM",
+    "Iskander North Korea",
+    "DPRK missile",
+    "manoeuvring missile"
+  ],
+  "doctrine": {
+    "role": "Solid-fuel manoeuvring short-range ballistic missile for precision theatre strikes that defeat missile defences.",
+    "employment": "Rapid road-mobile launch on a depressed, manoeuvring trajectory against bases and command nodes.",
+    "design_philosophy": "Manoeuvre and quick launch to defeat defences and minimise warning.",
+    "threat_context": "Threatens South Korea and Japan and, supplied to Russia, has a real combat record against Ukraine.",
+    "comparison_frame": "Read against the Russian Iskander, South Korea's Hyunmoo and the Hwasong-17."
+  },
+  "curated_sources": [
+    {
+      "title": "KN-23 \u2014 Wikipedia",
+      "type": "reference",
+      "url": "https://en.wikipedia.org/wiki/KN-23",
+      "relevance": "Trajectory, range, basing",
+      "priority": "reference"
+    },
+    {
+      "title": "CSIS Missile Threat \u2014 North Korea",
+      "type": "research",
+      "url": "https://missilethreat.csis.org/country/dprk/",
+      "relevance": "Authoritative profile",
+      "priority": "essential"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/428-GX-KN-19855_Box_875_%2823299459153%29.jpg/1280px-428-GX-KN-19855_Box_875_%2823299459153%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/ce/428-GX-KN-19855_Box_875_%2823299459153%29.jpg",
+      "width": 2248,
+      "height": 1536,
+      "title": "428-GX-KN-19855 Box 875 (23299459153).jpg",
+      "description": "428-GX-KN-19855_Box 875:   A High Altitude Supersonic Target (HAST) Vehicle installed on an A-3 \u201cSkywarrior\u201d Attack Aircraft at Naval Missile Center, Point Mugu, California.  Photographed by PH2 Curti",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Destructions_in_Selydove_after_missile_attack%2C_2024-02-08_%2806%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Destructions_in_Selydove_after_missile_attack%2C_2024-02-08_%2806%29.jpg",
+      "width": 1200,
+      "height": 824,
+      "title": "Destructions in Selydove after missile attack, 2024-02-08 (06).jpg",
+      "description": "Residential building in <a href=\"https://en.wikipedia.org/wiki/Selydove\" class=\"extiw\" title=\"en:Selydove\">Selydove</a> city (Donetsk region of Ukraine) after Russian missile strike in the night on 8\u00a0",
+      "license": "CC BY 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Destructions_in_Selydove_after_missile_attack%2C_2024-02-08_%2808%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Destructions_in_Selydove_after_missile_attack%2C_2024-02-08_%2808%29.jpg",
+      "width": 1200,
+      "height": 863,
+      "title": "Destructions in Selydove after missile attack, 2024-02-08 (08).jpg",
+      "description": "Destructions in <a href=\"https://en.wikipedia.org/wiki/Selydove\" class=\"extiw\" title=\"en:Selydove\">Selydove</a> city (Donetsk region of Ukraine) after Russian missile strike in the night on 8\u00a0February",
+      "license": "CC BY 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Destructions_in_Selydove_after_missile_attack%2C_2024-02-08_%2809%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Destructions_in_Selydove_after_missile_attack%2C_2024-02-08_%2809%29.jpg",
+      "width": 1200,
+      "height": 885,
+      "title": "Destructions in Selydove after missile attack, 2024-02-08 (09).jpg",
+      "description": "Residential building in <a href=\"https://en.wikipedia.org/wiki/Selydove\" class=\"extiw\" title=\"en:Selydove\">Selydove</a> city (Donetsk region of Ukraine) after Russian missile strike in the night on 8\u00a0",
+      "license": "CC BY 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/50/Destructions_in_Selydove_after_missile_attack%2C_2024-02-08_%2810%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/50/Destructions_in_Selydove_after_missile_attack%2C_2024-02-08_%2810%29.jpg",
+      "width": 1200,
+      "height": 800,
+      "title": "Destructions in Selydove after missile attack, 2024-02-08 (10).jpg",
+      "description": "Residential building in <a href=\"https://en.wikipedia.org/wiki/Selydove\" class=\"extiw\" title=\"en:Selydove\">Selydove</a> city (Donetsk region of Ukraine) after Russian missile strike in the night on 8\u00a0",
+      "license": "CC BY 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Destructions_in_Selydove_after_missile_attack%2C_2024-02-08_%2821%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Destructions_in_Selydove_after_missile_attack%2C_2024-02-08_%2821%29.jpg",
+      "width": 820,
+      "height": 461,
+      "title": "Destructions in Selydove after missile attack, 2024-02-08 (21).jpg",
+      "description": "Destructions in <a href=\"https://en.wikipedia.org/wiki/Selydove\" class=\"extiw\" title=\"en:Selydove\">Selydove</a> city (Donetsk region of Ukraine) after Russian missile strike in the night on 8\u00a0February",
+      "license": "CC BY 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/22/Destructions_in_Selydove_after_missile_attack%2C_2024-02-08_%2822%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/22/Destructions_in_Selydove_after_missile_attack%2C_2024-02-08_%2822%29.jpg",
+      "width": 820,
+      "height": 461,
+      "title": "Destructions in Selydove after missile attack, 2024-02-08 (22).jpg",
+      "description": "Destructions in <a href=\"https://en.wikipedia.org/wiki/Selydove\" class=\"extiw\" title=\"en:Selydove\">Selydove</a> city (Donetsk region of Ukraine) after Russian missile strike in the night on 8\u00a0February",
+      "license": "CC BY 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/95/Destructions_in_Selydove_after_missile_attack%2C_2024-02-08_%2823%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/95/Destructions_in_Selydove_after_missile_attack%2C_2024-02-08_%2823%29.jpg",
+      "width": 820,
+      "height": 461,
+      "title": "Destructions in Selydove after missile attack, 2024-02-08 (23).jpg",
+      "description": "Destructions in <a href=\"https://en.wikipedia.org/wiki/Selydove\" class=\"extiw\" title=\"en:Selydove\">Selydove</a> city (Donetsk region of Ukraine) after Russian missile strike in the night on 8\u00a0February",
+      "license": "CC BY 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/95/Destructions_in_Selydove_after_missile_attack%2C_2024-02-08_%2824%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/95/Destructions_in_Selydove_after_missile_attack%2C_2024-02-08_%2824%29.jpg",
+      "width": 820,
+      "height": 461,
+      "title": "Destructions in Selydove after missile attack, 2024-02-08 (24).jpg",
+      "description": "Destructions in <a href=\"https://en.wikipedia.org/wiki/Selydove\" class=\"extiw\" title=\"en:Selydove\">Selydove</a> city (Donetsk region of Ukraine) after Russian missile strike in the night on 8\u00a0February",
+      "license": "CC BY 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/be/USS_Halsey_%28DLG-23%29_insignia%2C_in_1963_%28NH_68362-KN%29.png",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/be/USS_Halsey_%28DLG-23%29_insignia%2C_in_1963_%28NH_68362-KN%29.png",
+      "width": 617,
+      "height": 618,
+      "title": "USS Halsey (DLG-23) insignia, in 1963 (NH 68362-KN).png",
+      "description": "Insignia of the U.S. Navy guided missile cruiser USS <i>Halsey</i> (DLG-23), in 1963.",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/2._Fu%C3%9Fg%C3%A4nger-Rallye_der_Kieler_Nachrichten_%28KN%29_%28Kiel_69.564%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/2._Fu%C3%9Fg%C3%A4nger-Rallye_der_Kieler_Nachrichten_%28KN%29_%28Kiel_69.564%29.jpg",
+      "width": 1024,
+      "height": 684,
+      "title": "2. Fu\u00dfg\u00e4nger-Rallye der Kieler Nachrichten (KN) (Kiel 69.564).jpg",
+      "description": "Viele Tausend Teilnehmer wanderten durch das Projensdorfer Geh\u00f6lz. Im Bild die \"Anton's Jazz &amp; Skiffle Band\" spielt zur Unterhaltung der Wanderer.",
+      "license": "CC BY-SA 3.0 de",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/52/2._Fu%C3%9Fg%C3%A4nger-Rallye_der_Kieler_Nachrichten_%28KN%29_%28Kiel_69.565%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/52/2._Fu%C3%9Fg%C3%A4nger-Rallye_der_Kieler_Nachrichten_%28KN%29_%28Kiel_69.565%29.jpg",
+      "width": 1024,
+      "height": 683,
+      "title": "2. Fu\u00dfg\u00e4nger-Rallye der Kieler Nachrichten (KN) (Kiel 69.565).jpg",
+      "description": "Viele Tausend Teilnehmer wanderten durch das Projensdorfer Geh\u00f6lz. Im Bild die Ausgabe der M\u00fctzen f\u00fcr die Wanderer.",
+      "license": "CC BY-SA 3.0 de",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/2e/2._Fu%C3%9Fg%C3%A4nger-Rallye_der_Kieler_Nachrichten_%28KN%29_%28Kiel_69.566%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/2e/2._Fu%C3%9Fg%C3%A4nger-Rallye_der_Kieler_Nachrichten_%28KN%29_%28Kiel_69.566%29.jpg",
+      "width": 1024,
+      "height": 1530,
+      "title": "2. Fu\u00dfg\u00e4nger-Rallye der Kieler Nachrichten (KN) (Kiel 69.566).jpg",
+      "description": "Viele Tausend Teilnehmer wanderten durch das Projensdorfer Geh\u00f6lz.",
+      "license": "CC BY-SA 3.0 de",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/6d/2._Fu%C3%9Fg%C3%A4nger-Rallye_der_Kieler_Nachrichten_%28KN%29_%28Kiel_69.567%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/6d/2._Fu%C3%9Fg%C3%A4nger-Rallye_der_Kieler_Nachrichten_%28KN%29_%28Kiel_69.567%29.jpg",
+      "width": 1024,
+      "height": 679,
+      "title": "2. Fu\u00dfg\u00e4nger-Rallye der Kieler Nachrichten (KN) (Kiel 69.567).jpg",
+      "description": "Viele Tausend Teilnehmer wanderten durch das Projensdorfer Geh\u00f6lz.",
+      "license": "CC BY-SA 3.0 de",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/fd/2._Fu%C3%9Fg%C3%A4nger-Rallye_der_Kieler_Nachrichten_%28KN%29_%28Kiel_69.568%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/fd/2._Fu%C3%9Fg%C3%A4nger-Rallye_der_Kieler_Nachrichten_%28KN%29_%28Kiel_69.568%29.jpg",
+      "width": 1024,
+      "height": 685,
+      "title": "2. Fu\u00dfg\u00e4nger-Rallye der Kieler Nachrichten (KN) (Kiel 69.568).jpg",
+      "description": "Viele Tausend Teilnehmer wanderten durch das Projensdorfer Geh\u00f6lz.",
+      "license": "CC BY-SA 3.0 de",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/43/2._Fu%C3%9Fg%C3%A4nger-Rallye_der_Kieler_Nachrichten_%28KN%29_%28Kiel_69.570%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/43/2._Fu%C3%9Fg%C3%A4nger-Rallye_der_Kieler_Nachrichten_%28KN%29_%28Kiel_69.570%29.jpg",
+      "width": 1024,
+      "height": 682,
+      "title": "2. Fu\u00dfg\u00e4nger-Rallye der Kieler Nachrichten (KN) (Kiel 69.570).jpg",
+      "description": "Viele Tausend Teilnehmer wanderten durch das Projensdorfer Geh\u00f6lz und entlang des Nord-Ostsee-Kanals. Im Hintergrund die Holtenauer Hochbr\u00fccken.",
+      "license": "CC BY-SA 3.0 de",
+      "source": "wikimedia"
+    }
+  ]
+}

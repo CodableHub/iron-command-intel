@@ -1,0 +1,271 @@
+{
+  "id": 190,
+  "slug": "type-15-light-tank",
+  "name": "Type 15 light tank (ZTQ-15)",
+  "designation": "ZTQ-15",
+  "type": "tank",
+  "country": "China",
+  "operator": "People's Liberation Army Ground Force",
+  "overview_md": "The Type 15 (ZTQ-15) is China's modern light tank \u2014 a roughly 33\u201336 tonne vehicle designed for terrain where the heavy Type 99A cannot easily go: the high plateaus of Tibet along the disputed Indian border, the soft ground and rivers of southern China, and amphibious operations. It is the PLA's answer to the problem that its best armour is too heavy for some of the very places it most needs to fight.\n\nDespite being a \"light\" tank, the Type 15 is well armed and equipped. Its 105 mm rifled gun fires advanced ammunition and gun-launched anti-tank missiles, it carries a modern fire-control system and explosive-reactive armour, and a powerful diesel engine with hydropneumatic suspension gives it strong mobility and high-altitude performance where thinner air saps engine power. This makes it far more capable than the Cold-War light tanks it conceptually succeeds.\n\nFor an analyst, the Type 15 is a pointed capability. Its deployment to the Tibetan plateau during the 2020\u20132021 standoff with India put a credible, mobile armoured punch where heavier tanks struggle, and its amphibious utility is relevant to operations across China's southern waterways. It illustrates how the PLA tailors its ground forces to specific theatres rather than fielding a single one-size-fits-all tank.",
+  "specs_json": {
+    "length_m": 9.2,
+    "crew": 3,
+    "propulsion": "~1,000 hp diesel with hydropneumatic suspension",
+    "additional": {
+      "weight": "~33\u201336 tonnes",
+      "main_gun": "105 mm rifled (ATGM-capable)",
+      "road_speed": "~70 km/h",
+      "armour": "Composite + modular ERA",
+      "specialisation": "High-altitude (Tibet) and amphibious/soft-ground terrain",
+      "fire_control": "Modern hunter-killer with thermal sights"
+    }
+  },
+  "armament_json": [
+    {
+      "category": "Main gun",
+      "name": "105 mm rifled gun",
+      "type": "tank gun (ATGM-capable)",
+      "range_km": 5,
+      "notes": "Fires APFSDS, HEAT and gun-launched ATGM"
+    },
+    {
+      "category": "Secondary",
+      "name": "12.7 mm + 7.62 mm machine guns",
+      "type": "machine guns",
+      "notes": "Anti-infantry/air"
+    }
+  ],
+  "variants_json": [
+    {
+      "name": "Type 15 (ZTQ-15)",
+      "years": "2018\u2013",
+      "key_changes": "Modern light tank for plateau/amphibious terrain",
+      "status": "active"
+    },
+    {
+      "name": "VT5 (export)",
+      "years": "2018\u2013",
+      "key_changes": "Export version offered to foreign buyers",
+      "status": "active"
+    }
+  ],
+  "fleet_status_json": [],
+  "cost_usd": 0.0,
+  "unit_count": 0,
+  "first_commissioned": "2018",
+  "builder": "NORINCO",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/54/15%E5%BC%8F%E8%BB%BD%E6%88%A6%E8%BB%8A.png",
+  "wiki_url": "https://en.wikipedia.org/wiki/Type_15_tank",
+  "sources_json": [
+    "https://en.wikipedia.org/wiki/Type_15_tank"
+  ],
+  "comparison_tags": [
+    "tank",
+    "light-tank",
+    "high-altitude",
+    "amphibious",
+    "china",
+    "plagf"
+  ],
+  "created_at": "2026-05-20 11:07:39",
+  "updated_at": "2026-05-20T11:07:39.056511",
+  "news": [],
+  "events": [],
+  "ic_coverage": [],
+  "combat_history": [
+    {
+      "date": "2020\u20132021",
+      "event": "Deployed to the Tibetan plateau during the China\u2013India border standoff.",
+      "significance": "Put mobile armour where heavy MBTs struggle at altitude."
+    }
+  ],
+  "modernization": [
+    {
+      "program": "Fielding & export (VT5)",
+      "status": "in-progress",
+      "timeline": "ongoing",
+      "description": "Continued PLA fielding and export marketing of the VT5 variant.",
+      "impact": "Spreads a capable light tank to specific theatres and buyers."
+    }
+  ],
+  "vulnerabilities": [
+    {
+      "area": "Lighter protection",
+      "description": "Light weight means less armour than an MBT.",
+      "context": "More vulnerable to heavy anti-tank fire.",
+      "mitigation": "ERA and mobility/avoidance."
+    },
+    {
+      "area": "105 mm gun limits",
+      "description": "The 105 mm is less potent than the 125 mm on heavy tanks against modern MBTs.",
+      "context": "Designed for terrain access, not tank duels.",
+      "mitigation": "ATGM ammunition."
+    }
+  ],
+  "operational_patterns": {
+    "typical_deployment": "Mobile armoured support in high-altitude, riverine and amphibious terrain.",
+    "key_operating_areas": [
+      "Tibetan plateau / China\u2013India border",
+      "Southern China",
+      "amphibious approaches"
+    ],
+    "typical_task_group": "Light combined-arms brigades; rapid-reaction and plateau forces.",
+    "readiness_notes": "Fielded since 2018; exported as VT5."
+  },
+  "peer_comparisons": [
+    {
+      "platform": "Type 99A main battle tank",
+      "country": "China",
+      "relationship": "heavy stablemate",
+      "key_differences": "The Type 99A is a 55t MBT for plains; the Type 15 trades protection/firepower for altitude and terrain access.",
+      "video_angle": "China's heavy and light tanks \u2014 different jobs."
+    },
+    {
+      "platform": "T-90M Proryv",
+      "country": "Russia",
+      "relationship": "adversary-class context",
+      "key_differences": "Heavy MBTs the Type 15 is not meant to slug it out with head-on.",
+      "video_angle": "Why China fields a light tank at altitude."
+    },
+    {
+      "platform": "M10 Booker",
+      "country": "United States",
+      "relationship": "concept analogue",
+      "key_differences": "The U.S. Army's new light protected-firepower vehicle addresses a similar need for deployable armour.",
+      "video_angle": "The return of the light tank."
+    }
+  ],
+  "search_keywords": [
+    "Type 15",
+    "ZTQ-15",
+    "Chinese light tank",
+    "VT5",
+    "plateau tank",
+    "PLA light tank"
+  ],
+  "doctrine": {
+    "role": "Light tank providing mobile armoured firepower where heavy MBTs cannot easily operate.",
+    "employment": "Plateau, riverine and amphibious manoeuvre with a 105 mm gun and strong mobility.",
+    "design_philosophy": "Tailor armour to terrain \u2014 accept lighter protection for altitude and soft-ground access.",
+    "threat_context": "Deployed on the Tibetan plateau against India and relevant to southern amphibious operations.",
+    "comparison_frame": "Read against the heavy Type 99A and the wider revival of light tanks (M10 Booker)."
+  },
+  "curated_sources": [
+    {
+      "title": "Type 15 tank \u2014 Wikipedia",
+      "type": "reference",
+      "url": "https://en.wikipedia.org/wiki/Type_15_tank",
+      "relevance": "Specs and role",
+      "priority": "reference"
+    },
+    {
+      "title": "IISS Military Balance \u2014 China land forces",
+      "type": "research",
+      "url": "https://www.iiss.org/publications/the-military-balance",
+      "relevance": "Inventory and deployment",
+      "priority": "recommended"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/15%E5%BC%8F%E8%BB%BD%E6%88%A6%E8%BB%8A.png/1280px-15%E5%BC%8F%E8%BB%BD%E6%88%A6%E8%BB%8A.png",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/54/15%E5%BC%8F%E8%BB%BD%E6%88%A6%E8%BB%8A.png",
+      "width": 1360,
+      "height": 768,
+      "title": "15\u5f0f\u8efd\u6226\u8eca.png",
+      "description": "\u6f14\u7fd2\u4e2d\u306e15\u5f0f\u8efd\u6226\u8eca",
+      "license": "CC BY 3.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Ex-Iraqi_Type_69_tank_on_display_in_Kuwait.jpg/1280px-Ex-Iraqi_Type_69_tank_on_display_in_Kuwait.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Ex-Iraqi_Type_69_tank_on_display_in_Kuwait.jpg",
+      "width": 3805,
+      "height": 2547,
+      "title": "Ex-Iraqi Type 69 tank on display in Kuwait.jpg",
+      "description": "An Iraqi tank on display at the site of the <a href=\"https://en.wikipedia.org/wiki/Al-Qurain\" class=\"extiw\" title=\"en:Al-Qurain\">Al-Qurain Martyrdom</a>, Kuwait.",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Light_Tank_Type_95_Ha-Go.jpg/1280px-Light_Tank_Type_95_Ha-Go.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Light_Tank_Type_95_Ha-Go.jpg",
+      "width": 3264,
+      "height": 2448,
+      "title": "Light Tank Type 95 Ha-Go.jpg",
+      "description": "Taken in Bovington Tank Museum",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Type_15_tank_20221020.jpg/1280px-Type_15_tank_20221020.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/75/Type_15_tank_20221020.jpg",
+      "width": 2400,
+      "height": 1800,
+      "title": "Type 15 tank 20221020.jpg",
+      "description": "\u200b\u5317\u4eac\u5c55\u89c8\u9986\u201c\u594b\u8fdb\u65b0\u65f6\u4ee3\u201d\u4e3b\u9898\u6210\u5c31\u5c55\u516c\u5f00\u5c55\u51fa\u768415\u5f0f\u8f7b\u578b\u5766\u514b\u3002",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Type_59_tank_-_front_right.jpg/1280px-Type_59_tank_-_front_right.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Type_59_tank_-_front_right.jpg",
+      "width": 2000,
+      "height": 1580,
+      "title": "Type 59 tank - front right.jpg",
+      "description": "A Chinese Type 59 tank at the Beijing Military Museum",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Type_62_tank_at_Jianchuan_Museum.jpg/1280px-Type_62_tank_at_Jianchuan_Museum.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Type_62_tank_at_Jianchuan_Museum.jpg",
+      "width": 2560,
+      "height": 1600,
+      "title": "Type 62 tank at Jianchuan Museum.jpg",
+      "description": "\u200b62\u5f0f\u8f7b\u578b\u5766\u514b\uff0c\u6536\u85cf\u5728\u5efa\u5ddd\u535a\u7269\u9986\u3002",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Type_63_Amphibious_Tank_-_panoramio_%285%29.jpg/1280px-Type_63_Amphibious_Tank_-_panoramio_%285%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Type_63_Amphibious_Tank_-_panoramio_%285%29.jpg",
+      "width": 6000,
+      "height": 4000,
+      "title": "Type 63 Amphibious Tank - panoramio (5).jpg",
+      "description": "Type 63 Amphibious Tank",
+      "license": "CC BY 3.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Type_69_tank_at_Jianchuan_Museum.jpg/1280px-Type_69_tank_at_Jianchuan_Museum.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/85/Type_69_tank_at_Jianchuan_Museum.jpg",
+      "width": 2560,
+      "height": 1920,
+      "title": "Type 69 tank at Jianchuan Museum.jpg",
+      "description": "\u200b69\u5f0f\u5766\u514b\uff0c\u6536\u85cf\u5728\u5efa\u5ddd\u535a\u7269\u9986\u3002",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Type_74_tank_of_the_JGSDF_3rd_Tank_Battalion_conducting_performing_a_viewing_march.jpg/1280px-Type_74_tank_of_the_JGSDF_3rd_Tank_Battalion_conducting_performing_a_viewing_march.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/68/Type_74_tank_of_the_JGSDF_3rd_Tank_Battalion_conducting_performing_a_viewing_march.jpg",
+      "width": 2248,
+      "height": 1500,
+      "title": "Type 74 tank of the JGSDF 3rd Tank Battalion conducting performing a viewing march.jpg",
+      "description": "\u89b3\u95b2\u884c\u9032\u3092\u884c\u3046\u9678\u4e0a\u81ea\u885b\u968a\u7b2c3\u6226\u8eca\u5927\u968a\u306e74\u5f0f\u6226\u8eca",
+      "license": "CC BY 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Type_95_Ha-Go_Tank_at_the_Tank_Museum.JPG/1280px-Type_95_Ha-Go_Tank_at_the_Tank_Museum.JPG",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/59/Type_95_Ha-Go_Tank_at_the_Tank_Museum.JPG",
+      "width": 3456,
+      "height": 2304,
+      "title": "Type 95 Ha-Go Tank at the Tank Museum.JPG",
+      "description": "Type 95 Ha-Go Tank at the Tank Museum",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    }
+  ]
+}

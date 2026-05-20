@@ -1,0 +1,320 @@
+{
+  "id": 187,
+  "slug": "kj-500-aewc",
+  "name": "KJ-500 airborne early warning aircraft",
+  "designation": "KJ-500 (Kongjing-500)",
+  "type": "aircraft",
+  "country": "China",
+  "operator": "PLA Air Force and PLA Navy",
+  "overview_md": "The KJ-500 (Kongjing-500) is China's modern airborne early warning and control (AEW&C) aircraft \u2014 the flying radar and command node that ties together the PLA's reconnaissance-strike complex. Based on the Y-9 transport airframe, it carries a fixed, three-sided active electronically scanned array (AESA) radar inside a circular dorsal dome, giving 360-degree coverage without the rotating radome of older designs.\n\nIts importance is out of all proportion to its modest profile. An AEW&C aircraft detects and tracks aircraft and missiles far beyond the horizon of ground or ship radars, and directs friendly fighters and weapons onto targets. The KJ-500 is the airborne brain that cues J-20 stealth fighters to fire their long-range PL-15 missiles, hands targeting data to anti-ship missiles, and extends the PLA's situational awareness deep over the Western Pacific. This makes it a high-value \"enabler\" \u2014 and precisely the kind of target that very-long-range missiles like the PL-17 are designed to kill.\n\nFor an analyst, the KJ-500 is a reminder that modern airpower is a system, not a collection of fighters. China has built a substantial fleet across the PLA Air Force and Navy, and a carrier-capable AEW aircraft (the KJ-600) is following for the Fujian. Degrading these enablers is a central objective for the United States and its allies, just as protecting them is for China.",
+  "specs_json": {
+    "length_m": 34.0,
+    "crew": 10,
+    "propulsion": "4 \u00d7 WJ-6C turboprops",
+    "radar": "Fixed three-sided AESA in dorsal dome (360\u00b0)",
+    "additional": {
+      "wingspan": "~38 m",
+      "role": "Airborne early warning & control (AEW&C)",
+      "endurance": "~12 hours",
+      "platform_base": "Y-9 transport airframe",
+      "naval_followon": "KJ-600 (carrier-capable)",
+      "function": "Detects/tracks air & missile targets; cues fighters and weapons"
+    }
+  },
+  "armament_json": [],
+  "variants_json": [
+    {
+      "name": "KJ-500",
+      "years": "2015\u2013",
+      "key_changes": "Y-9-based AEW&C with fixed AESA",
+      "status": "active"
+    },
+    {
+      "name": "KJ-500A",
+      "years": "2019\u2013",
+      "key_changes": "Aerial-refuelling probe for extended endurance",
+      "status": "active"
+    }
+  ],
+  "fleet_status_json": [],
+  "cost_usd": 0.0,
+  "unit_count": 0,
+  "first_commissioned": "2015",
+  "builder": "Shaanxi Aircraft Corporation (AVIC)",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/37/Formation_of_KJ-500_and_4_J-20%27s_at_CCAS2025_%2820250922110822%29.jpg",
+  "wiki_url": "https://en.wikipedia.org/wiki/KJ-500",
+  "sources_json": [
+    "https://en.wikipedia.org/wiki/KJ-500"
+  ],
+  "comparison_tags": [
+    "aircraft",
+    "aew",
+    "c2",
+    "enabler",
+    "china",
+    "plaaf",
+    "plan"
+  ],
+  "created_at": "2026-05-20 11:06:34",
+  "updated_at": "2026-05-20T11:06:34.921764",
+  "news": [],
+  "events": [],
+  "ic_coverage": [],
+  "combat_history": [
+    {
+      "date": "2020\u20132024",
+      "event": "Routinely operated on patrols over the East and South China Seas and around Taiwan, often coordinating fighter incursions.",
+      "significance": "Demonstrates its role as the airborne C2 node of PLA operations."
+    }
+  ],
+  "modernization": [
+    {
+      "program": "KJ-600 carrier AEW",
+      "status": "in-progress",
+      "timeline": "2020s",
+      "description": "Carrier-capable AEW aircraft for the Fujian, analogous to the U.S. E-2 Hawkeye.",
+      "impact": "Extends AEW coverage to PLAN carrier groups."
+    }
+  ],
+  "vulnerabilities": [
+    {
+      "area": "High-value target",
+      "description": "Large, non-stealthy, vital enabler \u2014 a priority target for long-range AAMs.",
+      "context": "Weapons like the PL-17 and AIM-174 are built to kill such aircraft.",
+      "mitigation": "Operated behind fighter screens and IADS."
+    },
+    {
+      "area": "Limited numbers per orbit",
+      "description": "Few aircraft can sustain continuous coverage of a large area.",
+      "context": "Attrition or maintenance gaps create blind spots.",
+      "mitigation": "Fleet expansion."
+    }
+  ],
+  "operational_patterns": {
+    "typical_deployment": "Stand-off orbits providing radar coverage and command of fighters/weapons over contested seas.",
+    "key_operating_areas": [
+      "East China Sea",
+      "South China Sea",
+      "Taiwan Strait",
+      "Western Pacific"
+    ],
+    "typical_task_group": "Cues J-20/J-16 fighters and anti-ship missiles; behind IADS protection.",
+    "readiness_notes": "Substantial fleet across PLAAF and PLAN."
+  },
+  "peer_comparisons": [
+    {
+      "platform": "Boeing E-7 Wedgetail",
+      "country": "Australia/United States",
+      "relationship": "Western counterpart",
+      "key_differences": "The E-7 is the modern Western AEW&C standard; the KJ-500 is China's fixed-AESA equivalent.",
+      "video_angle": "The flying radars that run the air war."
+    },
+    {
+      "platform": "E-2 Hawkeye",
+      "country": "United States",
+      "relationship": "carrier-AEW analogue",
+      "key_differences": "The carrier KJ-600 is China's answer to the venerable E-2.",
+      "video_angle": "Carrier early-warning aircraft compared."
+    },
+    {
+      "platform": "Chengdu J-20",
+      "country": "China",
+      "relationship": "supported asset",
+      "key_differences": "The KJ-500 cues the J-20's long-range missile shots \u2014 the two operate as a team.",
+      "video_angle": "How China's stealth kill chain works."
+    }
+  ],
+  "search_keywords": [
+    "KJ-500",
+    "Kongjing-500",
+    "Chinese AEW",
+    "AEW&C China",
+    "KJ-600",
+    "PLA early warning aircraft"
+  ],
+  "doctrine": {
+    "role": "Airborne early-warning and control aircraft \u2014 the radar and command node of the PLA kill chain.",
+    "employment": "Stand-off orbits detect and track targets and direct fighters and missiles onto them.",
+    "design_philosophy": "Fixed-AESA 360-degree coverage on a reliable transport airframe.",
+    "threat_context": "Cues J-20 and anti-ship missile shots; a top enabler target for both sides.",
+    "comparison_frame": "Read against the E-7 Wedgetail and E-2 Hawkeye, and as the J-20's teammate."
+  },
+  "curated_sources": [
+    {
+      "title": "KJ-500 \u2014 Wikipedia",
+      "type": "reference",
+      "url": "https://en.wikipedia.org/wiki/KJ-500",
+      "relevance": "Radar and role",
+      "priority": "reference"
+    },
+    {
+      "title": "China Aerospace Studies Institute (CASI)",
+      "type": "research",
+      "url": "https://www.airuniversity.af.edu/CASI/",
+      "relevance": "PLA AEW analysis",
+      "priority": "recommended"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Formation_of_KJ-500_and_4_J-20%27s_at_CCAS2025_%2820250922110822%29.jpg/1280px-Formation_of_KJ-500_and_4_J-20%27s_at_CCAS2025_%2820250922110822%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/37/Formation_of_KJ-500_and_4_J-20%27s_at_CCAS2025_%2820250922110822%29.jpg",
+      "width": 5694,
+      "height": 3796,
+      "title": "Formation of KJ-500 and 4 J-20's at CCAS2025 (20250922110822).jpg",
+      "description": "This time the KJ-500 leads J-20's.",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/KJ-500.jpg/1280px-KJ-500.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/KJ-500.jpg",
+      "width": 2000,
+      "height": 1334,
+      "title": "KJ-500.jpg",
+      "description": "KJ-500 at Zhuhai Jinwan Airport prior to Airshow China 2016",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/KJ-500_%28cropped%29.jpg/1280px-KJ-500_%28cropped%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/KJ-500_%28cropped%29.jpg",
+      "width": 1540,
+      "height": 996,
+      "title": "KJ-500 (cropped).jpg",
+      "description": "KJ-500",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/KJ-500_and_J-11B_at_PRC70_Parade_%2820191001112437%29.jpg/1280px-KJ-500_and_J-11B_at_PRC70_Parade_%2820191001112437%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/KJ-500_and_J-11B_at_PRC70_Parade_%2820191001112437%29.jpg",
+      "width": 5445,
+      "height": 3630,
+      "title": "KJ-500 and J-11B at PRC70 Parade (20191001112437).jpg",
+      "description": "A KJ-500 and 4 J-11Bs.",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/KJ-500_and_J-20_formation_at_China%27s_Air_Force_Aviation_Open_Day_20250921.jpg/1280px-KJ-500_and_J-20_formation_at_China%27s_Air_Force_Aviation_Open_Day_20250921.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/KJ-500_and_J-20_formation_at_China%27s_Air_Force_Aviation_Open_Day_20250921.jpg",
+      "width": 3000,
+      "height": 2000,
+      "title": "KJ-500 and J-20 formation at China's Air Force Aviation Open Day 20250921.jpg",
+      "description": "\u200b\u7a7a\u8b66-500\u4e0e\u6b7c-20\u7f16\u961f\u57282025\u7a7a\u519b\u822a\u7a7a\u5f00\u653e\u65e5\uff08\u957f\u6625\u822a\u7a7a\u5c55\uff09\u8fdb\u884c\u98de\u884c\u5c55\u793a",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/KJ-500_at_Changchun_%E2%80%8CAirshow_20250921.jpg/1280px-KJ-500_at_Changchun_%E2%80%8CAirshow_20250921.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/04/KJ-500_at_Changchun_%E2%80%8CAirshow_20250921.jpg",
+      "width": 3840,
+      "height": 2560,
+      "title": "KJ-500 at Changchun \u200cAirshow 20250921.jpg",
+      "description": "\u200b\u7a7a\u8b66-500\u57282025\u7a7a\u519b\u822a\u7a7a\u5f00\u653e\u65e5\uff08\u957f\u6625\u822a\u7a7a\u5c55\uff09\u8fdb\u884c\u98de\u884c\u5c55\u793a",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/KJ-500_at_China%27s_Air_Force_Aviation_Open_Day_20250921%E2%80%8C.jpg/1280px-KJ-500_at_China%27s_Air_Force_Aviation_Open_Day_20250921%E2%80%8C.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/22/KJ-500_at_China%27s_Air_Force_Aviation_Open_Day_20250921%E2%80%8C.jpg",
+      "width": 3840,
+      "height": 2560,
+      "title": "KJ-500 at China's Air Force Aviation Open Day 20250921\u200c.jpg",
+      "description": "\u200b\u7a7a\u8b66-500\u57282025\u7a7a\u519b\u822a\u7a7a\u5f00\u653e\u65e5\uff08\u957f\u6625\u822a\u7a7a\u5c55\uff09\u8fdb\u884c\u98de\u884c\u5c55\u793a",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/KJ-500_at_PLAAF_Aviation_Open_Day_20250921.jpg/1280px-KJ-500_at_PLAAF_Aviation_Open_Day_20250921.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/8d/KJ-500_at_PLAAF_Aviation_Open_Day_20250921.jpg",
+      "width": 2880,
+      "height": 1920,
+      "title": "KJ-500 at PLAAF Aviation Open Day 20250921.jpg",
+      "description": "\u200b\u7a7a\u8b66-500\u57282025\u7a7a\u519b\u822a\u7a7a\u5f00\u653e\u65e5\uff08\u957f\u6625\u822a\u7a7a\u5c55\uff09\u8fdb\u884c\u98de\u884c\u5c55\u793a",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/PLANAF_KJ-500_-_1.jpg/1280px-PLANAF_KJ-500_-_1.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/fe/PLANAF_KJ-500_-_1.jpg",
+      "width": 5184,
+      "height": 3888,
+      "title": "PLANAF KJ-500 - 1.jpg",
+      "description": "\u200b\u7a7a\u8b66500\u6a5f\uff08\u540c\u578b\u6a5f\uff09",
+      "license": "Attribution",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/PLANAF_KJ-500_-_2.jpg/1280px-PLANAF_KJ-500_-_2.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/cd/PLANAF_KJ-500_-_2.jpg",
+      "width": 5184,
+      "height": 3888,
+      "title": "PLANAF KJ-500 - 2.jpg",
+      "description": "\u200b\u7a7a\u8b66500\u6a5f\uff08\u540c\u578b\u6a5f\uff09",
+      "license": "Attribution",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Beriev_A-50%2C_Sukhoi_Su-27_%284259290512%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Beriev_A-50%2C_Sukhoi_Su-27_%284259290512%29.jpg",
+      "width": 1024,
+      "height": 712,
+      "title": "Beriev A-50, Sukhoi Su-27 (4259290512).jpg",
+      "description": "<p>The Beriev A-50 Shmel (Russian: \u0428\u043c\u0435\u043b\u044c 'bumble bee'), (NATO reporting name: Mainstay) is a Russian airborne early warning (AEW) aircraft based on the Ilyushin Il-76 transport. Developed to replace t",
+      "license": "CC BY-SA 2.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Beriev_A-50_%284322158996%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Beriev_A-50_%284322158996%29.jpg",
+      "width": 1024,
+      "height": 768,
+      "title": "Beriev A-50 (4322158996).jpg",
+      "description": "<p>The Beriev A-50 Shmel (Russian: \u0428\u043c\u0435\u043b\u044c 'bumble bee'), (NATO reporting name: Mainstay) is a Russian airborne early warning (AEW) aircraft based on the Ilyushin Il-76 transport. Developed to replace t",
+      "license": "CC BY-SA 2.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Beriev_A-50_%284322163242%29.jpg/1280px-Beriev_A-50_%284322163242%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Beriev_A-50_%284322163242%29.jpg",
+      "width": 3264,
+      "height": 2448,
+      "title": "Beriev A-50 (4322163242).jpg",
+      "description": "<p>The Beriev A-50 Shmel (Russian: \u0428\u043c\u0435\u043b\u044c 'bumble bee'), (NATO reporting name: Mainstay) is a Russian airborne early warning (AEW) aircraft based on the Ilyushin Il-76 transport. Developed to replace t",
+      "license": "CC BY-SA 2.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Lockheed_EC-121T-LO_Warning_Star_%28FAA_Reg._Number_N4257U%29_-_51167480691.jpg/1280px-Lockheed_EC-121T-LO_Warning_Star_%28FAA_Reg._Number_N4257U%29_-_51167480691.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Lockheed_EC-121T-LO_Warning_Star_%28FAA_Reg._Number_N4257U%29_-_51167480691.jpg",
+      "width": 4128,
+      "height": 2322,
+      "title": "Lockheed EC-121T-LO Warning Star (FAA Reg. Number N4257U) - 51167480691.jpg",
+      "description": "From the museum website:\n<p>The US Air Force RC-121 and EC-121 series of airborne early warning (AEW) aircraft were modifications of the Lockheed models 1049A and 1049B Super Constellation passenger a",
+      "license": "CC BY 2.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Lockheed_EC-121T-LO_Warning_Star_%28FAA_Reg._Number_N4257U%29_-_51167481811.jpg/1280px-Lockheed_EC-121T-LO_Warning_Star_%28FAA_Reg._Number_N4257U%29_-_51167481811.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/38/Lockheed_EC-121T-LO_Warning_Star_%28FAA_Reg._Number_N4257U%29_-_51167481811.jpg",
+      "width": 4128,
+      "height": 2322,
+      "title": "Lockheed EC-121T-LO Warning Star (FAA Reg. Number N4257U) - 51167481811.jpg",
+      "description": "From the museum website:\n<p>The US Air Force RC-121 and EC-121 series of airborne early warning (AEW) aircraft were modifications of the Lockheed models 1049A and 1049B Super Constellation passenger a",
+      "license": "CC BY 2.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Lockheed_EC-121T-LO_Warning_Star_%28FAA_Reg._Number_N4257U%29_-_51167482041.jpg/1280px-Lockheed_EC-121T-LO_Warning_Star_%28FAA_Reg._Number_N4257U%29_-_51167482041.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Lockheed_EC-121T-LO_Warning_Star_%28FAA_Reg._Number_N4257U%29_-_51167482041.jpg",
+      "width": 3336,
+      "height": 2322,
+      "title": "Lockheed EC-121T-LO Warning Star (FAA Reg. Number N4257U) - 51167482041.jpg",
+      "description": "From the museum website:\n<p>The US Air Force RC-121 and EC-121 series of airborne early warning (AEW) aircraft were modifications of the Lockheed models 1049A and 1049B Super Constellation passenger a",
+      "license": "CC BY 2.0",
+      "source": "wikimedia"
+    }
+  ]
+}

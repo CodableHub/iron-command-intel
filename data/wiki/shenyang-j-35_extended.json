@@ -1,0 +1,259 @@
+{
+  "combat_history": [
+    {
+      "date": "2024-11",
+      "event": "J-35A publicly debuted at the Zhuhai Airshow.",
+      "significance": "Confirmed China is fielding a second stealth fighter type."
+    }
+  ],
+  "modernization": [
+    {
+      "program": "Carrier integration & engines",
+      "status": "in-progress",
+      "timeline": "2024\u2013",
+      "description": "Integration with the Fujian carrier and maturation of domestic engines.",
+      "impact": "Gives China stealth carrier airpower."
+    }
+  ],
+  "vulnerabilities": [
+    {
+      "area": "Engine/maturity",
+      "description": "Domestic engines and systems still maturing; combat record nil.",
+      "context": "Capability claims unverified.",
+      "mitigation": "Iterative development."
+    },
+    {
+      "area": "Carrier ops experience",
+      "description": "PLAN lacks decades of stealth-carrier-aviation experience.",
+      "context": "Carrier stealth ops are demanding.",
+      "mitigation": "Fujian work-ups."
+    }
+  ],
+  "operational_patterns": {
+    "typical_deployment": "Carrier-based stealth strike from Fujian (J-35) and land-based air superiority (J-35A).",
+    "key_operating_areas": [
+      "South China Sea",
+      "Western Pacific",
+      "East China Sea",
+      "Taiwan Strait"
+    ],
+    "typical_task_group": "PLAN carrier air wing; PLAAF stealth force alongside J-20.",
+    "readiness_notes": "Entering service; maturing."
+  },
+  "peer_comparisons": [
+    {
+      "platform": "Lockheed Martin F-35 Lightning II",
+      "country": "United States",
+      "relationship": "direct analogue",
+      "key_differences": "The J-35 is China's medium stealth fighter answer to the F-35, including a carrier variant.",
+      "video_angle": "China's F-35 \u2014 how close is the J-35?"
+    },
+    {
+      "platform": "Chengdu J-20",
+      "country": "China",
+      "relationship": "high-end stablemate",
+      "key_differences": "The J-20 is the premium long-range interceptor; the J-35 is the more numerous medium fighter and the carrier option.",
+      "video_angle": "China's high-low stealth fighter mix."
+    },
+    {
+      "platform": "F/A-18E/F Super Hornet",
+      "country": "United States",
+      "relationship": "carrier rival",
+      "key_differences": "The carrier J-35 challenges the non-stealthy Super Hornet aboard U.S. carriers.",
+      "video_angle": "Stealth comes to China's carriers."
+    }
+  ],
+  "search_keywords": [
+    "J-35",
+    "J-35A",
+    "FC-31",
+    "Shenyang J-35",
+    "Chinese carrier stealth fighter",
+    "Zhuhai 2024"
+  ],
+  "doctrine": {
+    "role": "Medium-weight fifth-generation stealth fighter \u2014 carrier strike (PLAN) and mass air superiority (PLAAF).",
+    "employment": "Internal-carriage stealth penetration; carrier J-35 extends PLAN reach from Fujian.",
+    "design_philosophy": "A more affordable, numerous stealth fighter to pair with the premium J-20 \u2014 China's F-35 to the J-20's F-22.",
+    "threat_context": "Brings stealth to Chinese carriers and mass to the PLAAF, compressing a long-standing U.S. advantage.",
+    "comparison_frame": "Read against the F-35, the J-20 (high-low mix) and the Super Hornet."
+  },
+  "curated_sources": [
+    {
+      "title": "Shenyang J-35 \u2014 Wikipedia",
+      "type": "reference",
+      "url": "https://en.wikipedia.org/wiki/Shenyang_J-35",
+      "relevance": "Variants and development",
+      "priority": "reference"
+    },
+    {
+      "title": "The War Zone \u2014 J-35 coverage",
+      "type": "research",
+      "url": "https://www.twz.com/",
+      "relevance": "Open-source analysis",
+      "priority": "recommended"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/J-31-2.jpg/1280px-J-31-2.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/2d/J-31-2.jpg",
+      "width": 1879,
+      "height": 974,
+      "title": "J-31-2.jpg",
+      "description": "J-31 at Zhuhai .",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/J-31.jpg/1280px-J-31.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/7b/J-31.jpg",
+      "width": 1860,
+      "height": 944,
+      "title": "J-31.jpg",
+      "description": "J-31 at Zhuhai .",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/J-35%27s_belly.jpg/1280px-J-35%27s_belly.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/73/J-35%27s_belly.jpg",
+      "width": 2397,
+      "height": 2397,
+      "title": "J-35's belly.jpg",
+      "description": "J-35's belly",
+      "license": "CC0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/J-35_J-15T_J-15DT_formation_CNS.png/1280px-J-35_J-15T_J-15DT_formation_CNS.png",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/5c/J-35_J-15T_J-15DT_formation_CNS.png",
+      "width": 1701,
+      "height": 952,
+      "title": "J-35 J-15T J-15DT formation CNS.png",
+      "description": "Shenyang J-35, Shenyang J-15T, and Shenyang J-15DT in formation flight",
+      "license": "CC BY 3.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/PLAN_J-35_on_Type_003_Fujian.png/1280px-PLAN_J-35_on_Type_003_Fujian.png",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/fb/PLAN_J-35_on_Type_003_Fujian.png",
+      "width": 1964,
+      "height": 1044,
+      "title": "PLAN J-35 on Type 003 Fujian.png",
+      "description": "PLA Navy J-35 launched on the Type 003 Fujian aircraft carrier (unclear)",
+      "license": "CC BY 3.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PLA_Navy_J-35_Arresting_Gear_2.png/1280px-PLA_Navy_J-35_Arresting_Gear_2.png",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/1d/PLA_Navy_J-35_Arresting_Gear_2.png",
+      "width": 2559,
+      "height": 1437,
+      "title": "PLA Navy J-35 Arresting Gear 2.png",
+      "description": "PLA Navy J-35 after landing",
+      "license": "CC BY 3.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/PLA_Navy_J-35_deck.png/1280px-PLA_Navy_J-35_deck.png",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/PLA_Navy_J-35_deck.png",
+      "width": 2559,
+      "height": 996,
+      "title": "PLA Navy J-35 deck.png",
+      "description": "Shenyang J-35 on the aircraft carrier Fujian",
+      "license": "CC BY 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/PLA_Navy_J-35_deck_3.png/1280px-PLA_Navy_J-35_deck_3.png",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/d6/PLA_Navy_J-35_deck_3.png",
+      "width": 2559,
+      "height": 1435,
+      "title": "PLA Navy J-35 deck 3.png",
+      "description": "PLA Navy J-35 on Fujian deck",
+      "license": "CC BY 3.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Shenyang_J-31_%28F60%29_at_2014_Zhuhai_Air_Show.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Shenyang_J-31_%28F60%29_at_2014_Zhuhai_Air_Show.jpg",
+      "width": 1200,
+      "height": 800,
+      "title": "Shenyang J-31 (F60) at 2014 Zhuhai Air Show.jpg",
+      "description": "Shenyang FC-31 (F60) at 2014 Zhuhai Air Show",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/88/Shenyang_J-31_%28F60%29_at_the_2014_Zhuhai_Air_Show.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/88/Shenyang_J-31_%28F60%29_at_the_2014_Zhuhai_Air_Show.jpg",
+      "width": 1200,
+      "height": 800,
+      "title": "Shenyang J-31 (F60) at the 2014 Zhuhai Air Show.jpg",
+      "description": "Shenyang J-31 (F60) at the 2014 Zhuhai Air Show",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/30/Esteghlal_FC_vs_Zob_Ahan_FC%2C_31_March_2023_-_15.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/30/Esteghlal_FC_vs_Zob_Ahan_FC%2C_31_March_2023_-_15.jpg",
+      "width": 1280,
+      "height": 853,
+      "title": "Esteghlal FC vs Zob Ahan FC, 31 March 2023 - 15.jpg",
+      "description": "\u062f\u06cc\u062f\u0627\u0631 \u062a\u06cc\u0645\u200c\u0647\u0627\u06cc \u0641\u0648\u062a\u0628\u0627\u0644 \u0627\u0633\u062a\u0642\u0644\u0627\u0644 \u062a\u0647\u0631\u0627\u0646 \u0648 \u0630\u0648\u0628 \u0622\u0647\u0646 \u0627\u0635\u0641\u0647\u0627\u0646 \u062f\u0631 \u0647\u0641\u062a\u0647 \u0628\u06cc\u0633\u062a \u0648 \u0686\u0647\u0627\u0631\u0645 \u0644\u06cc\u06af \u0628\u0631\u062a\u0631 \u0628\u0627\u0634\u06af\u0627\u0647\u0647\u0627\u06cc \u06a9\u0634\u0648\u0631 \u0628\u0627 \u0646\u062a\u06cc\u062c\u0647 \u062f\u0648 \u0628\u0631 \u0635\u0641\u0631 \u0628\u0647 \u0633\u0648\u062f \u062a\u06cc\u0645 \u0641\u0648\u062a\u0628\u0627\u0644 \u0627\u0633\u062a\u0642\u0644\u0627\u0644 \u062a\u0647\u0631\u0627\u0646 \u062f\u0631 \u0648\u0631\u0632\u0634\u06af\u0627\u0647 \u0622\u0632\u0627\u062f\u06cc \u0628\u0647 \u067e\u0627\u06cc\u0627\u0646 \u0631\u0633\u06cc\u062f.",
+      "license": "CC BY 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Martyrs%27_Cemetery%2C_Zhengzhou_14_Chinese_F-5_%28Shenyang_J-5%29_Jet_Fighter_%28MiG-17%29.jpg/1280px-Martyrs%27_Cemetery%2C_Zhengzhou_14_Chinese_F-5_%28Shenyang_J-5%29_Jet_Fighter_%28MiG-17%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Martyrs%27_Cemetery%2C_Zhengzhou_14_Chinese_F-5_%28Shenyang_J-5%29_Jet_Fighter_%28MiG-17%29.jpg",
+      "width": 5184,
+      "height": 3456,
+      "title": "Martyrs' Cemetery, Zhengzhou 14 Chinese F-5 (Shenyang J-5) Jet Fighter (MiG-17).jpg",
+      "description": "Zhengzhou Martyrs' Cemetery, Zhengzhou, Henan, China. Complete indexed photo collection at WorldHistoryPics.com.",
+      "license": "CC0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Shenyang_J-15_in_the_2nd_China_%28Mianyang%29_Science_%26_Technology_City_International_Hi-Tech_Expo_38.jpg/1280px-Shenyang_J-15_in_the_2nd_China_%28Mianyang%29_Science_%26_Technology_City_International_Hi-Tech_Expo_38.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Shenyang_J-15_in_the_2nd_China_%28Mianyang%29_Science_%26_Technology_City_International_Hi-Tech_Expo_38.jpg",
+      "width": 3264,
+      "height": 2448,
+      "title": "Shenyang J-15 in the 2nd China (Mianyang) Science & Technology City International Hi-Tech Expo 38.jpg",
+      "description": "Shenyang J-15 in the 2nd China (Mianyang) Science &amp; Technology City International Hi-Tech Expo. Mianyang, Sichuan, China.",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Shenyang_J-15_in_the_2nd_China_%28Mianyang%29_Science_%26_Technology_City_International_Hi-Tech_Expo_39.jpg/1280px-Shenyang_J-15_in_the_2nd_China_%28Mianyang%29_Science_%26_Technology_City_International_Hi-Tech_Expo_39.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Shenyang_J-15_in_the_2nd_China_%28Mianyang%29_Science_%26_Technology_City_International_Hi-Tech_Expo_39.jpg",
+      "width": 3264,
+      "height": 2448,
+      "title": "Shenyang J-15 in the 2nd China (Mianyang) Science & Technology City International Hi-Tech Expo 39.jpg",
+      "description": "Shenyang J-15 in the 2nd China (Mianyang) Science &amp; Technology City International Hi-Tech Expo. Mianyang, Sichuan, China.",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Shenyang_J-6A_Farmer_%2833524214808%29.jpg/1280px-Shenyang_J-6A_Farmer_%2833524214808%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Shenyang_J-6A_Farmer_%2833524214808%29.jpg",
+      "width": 5472,
+      "height": 3648,
+      "title": "Shenyang J-6A Farmer (33524214808).jpg",
+      "description": "Shenyang J-6A Farmer",
+      "license": "CC BY 2.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/PLA_Navy_J-35_Arresting_Gear.png/1280px-PLA_Navy_J-35_Arresting_Gear.png",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/57/PLA_Navy_J-35_Arresting_Gear.png",
+      "width": 1881,
+      "height": 945,
+      "title": "PLA Navy J-35 Arresting Gear.png",
+      "description": "Shenyang J-35 landing on the aircraft carrier Fujian",
+      "license": "CC BY 3.0",
+      "source": "wikimedia"
+    }
+  ]
+}

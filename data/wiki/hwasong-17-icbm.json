@@ -1,0 +1,319 @@
+{
+  "id": 193,
+  "slug": "hwasong-17-icbm",
+  "name": "Hwasong-17 intercontinental ballistic missile",
+  "designation": "Hwasong-17 (KN-28)",
+  "type": "ballistic-missile",
+  "country": "North Korea",
+  "operator": "Korean People's Army Strategic Force",
+  "overview_md": "The Hwasong-17 is North Korea's largest intercontinental ballistic missile \u2014 the so-called \"monster missile\" \u2014 and the centrepiece of Pyongyang's drive to hold the entire continental United States at risk with nuclear weapons. First revealed at a 2020 parade and flight-tested through 2022\u20132023, it is a road-mobile, liquid-fuelled, two-stage missile of exceptional size, carried on an eleven-axle transporter-erector-launcher.\n\nIts estimated range \u2014 well over 13,000 km on a standard trajectory \u2014 is sufficient to reach anywhere in the United States, and its large throw-weight has fuelled assessments that it is designed to carry multiple warheads (MIRVs) or penetration aids to defeat U.S. missile defences. North Korea has tested it on lofted, near-vertical trajectories that demonstrate the range without overflying other countries.\n\nFor an analyst, the Hwasong-17 represents the maturation of North Korea's strategic deterrent and a direct complication for U.S. extended deterrence in the Indo-Pacific. Whether every claimed capability \u2014 re-entry vehicle survival, MIRV, accuracy \u2014 is fully proven remains debated, but the missile's existence changes the strategic equation: it underwrites Pyongyang's regime survival, stresses U.S. homeland missile defence, and shadows every alliance decision in Northeast Asia. It has since been joined by the solid-fuelled Hwasong-18, which is harder to detect and faster to launch.",
+  "specs_json": {
+    "length_m": 24.0,
+    "additional": {
+      "range": "~13,000\u201315,000 km (intercontinental)",
+      "warhead": "Nuclear; possible MIRV / penetration aids",
+      "propulsion": "Two-stage liquid-fuel",
+      "basing": "Road-mobile 11-axle TEL",
+      "class": "ICBM ('monster missile')",
+      "note": "Tested on lofted trajectories"
+    }
+  },
+  "armament_json": [],
+  "variants_json": [
+    {
+      "name": "Hwasong-17",
+      "years": "2023\u2013",
+      "key_changes": "Largest liquid-fuel road-mobile ICBM",
+      "status": "active"
+    },
+    {
+      "name": "Hwasong-18 (related)",
+      "years": "2023\u2013",
+      "key_changes": "Solid-fuel ICBM \u2014 faster launch, harder to pre-empt",
+      "status": "active"
+    }
+  ],
+  "fleet_status_json": [],
+  "cost_usd": 0.0,
+  "unit_count": 0,
+  "first_commissioned": "2023",
+  "builder": "North Korean state industry",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/49/Fensterausstellung_%22Museen%22_der_Kieler_Nachrichten_%28KN%29_%28Kiel_54.560%29.jpg",
+  "wiki_url": "https://en.wikipedia.org/wiki/Hwasong-17",
+  "sources_json": [
+    "https://en.wikipedia.org/wiki/Hwasong-17"
+  ],
+  "comparison_tags": [
+    "missile",
+    "ballistic-missile",
+    "icbm",
+    "nuclear",
+    "north-korea",
+    "strategic"
+  ],
+  "created_at": "2026-05-20 11:08:56",
+  "updated_at": "2026-05-20T11:08:56.460701",
+  "news": [],
+  "events": [],
+  "ic_coverage": [],
+  "combat_history": [
+    {
+      "date": "2022-11",
+      "event": "Flight-tested on a lofted trajectory demonstrating intercontinental range.",
+      "significance": "Showed the ability to reach the continental United States."
+    },
+    {
+      "date": "2023-02",
+      "event": "Paraded in large numbers, signalling production at scale.",
+      "significance": "Indicated a maturing, expanding ICBM force."
+    }
+  ],
+  "modernization": [
+    {
+      "program": "Solid-fuel transition (Hwasong-18)",
+      "status": "in-progress",
+      "timeline": "2023\u2013",
+      "description": "Shift toward solid-fuel ICBMs that launch faster and are harder to detect.",
+      "impact": "Improves survivability and complicates pre-emption."
+    }
+  ],
+  "vulnerabilities": [
+    {
+      "area": "Liquid-fuel handling",
+      "description": "Liquid fuelling takes time and is detectable, creating a pre-launch window.",
+      "context": "Solid-fuel successors address this.",
+      "mitigation": "Hwasong-18 transition."
+    },
+    {
+      "area": "Unproven RV/MIRV",
+      "description": "Re-entry vehicle survival and MIRV capability are not independently confirmed.",
+      "context": "Claims rest on tests and parades.",
+      "mitigation": "(Assessment caveat.)"
+    }
+  ],
+  "operational_patterns": {
+    "typical_deployment": "Road-mobile, concealed and dispersed; lofted-trajectory tests demonstrate range.",
+    "key_operating_areas": [
+      "North Korea (mobile)",
+      "targets: continental United States"
+    ],
+    "typical_task_group": "KPA Strategic Force ICBM units.",
+    "readiness_notes": "Fielded; complemented by the solid-fuel Hwasong-18."
+  },
+  "peer_comparisons": [
+    {
+      "platform": "DF-41",
+      "country": "China",
+      "relationship": "class context",
+      "key_differences": "China's road-mobile ICBM is more mature and solid-fuelled; the Hwasong-17 is North Korea's liquid-fuel equivalent.",
+      "video_angle": "The road-mobile ICBMs aimed at America."
+    },
+    {
+      "platform": "Minuteman III / Sentinel",
+      "country": "United States",
+      "relationship": "adversary context",
+      "key_differences": "The U.S. silo-based deterrent the Hwasong force is meant to deter and complicate.",
+      "video_angle": "North Korea's bid for a credible US-range deterrent."
+    },
+    {
+      "platform": "KN-23",
+      "country": "North Korea",
+      "relationship": "shorter-range stablemate",
+      "key_differences": "The KN-23 is a manoeuvring SRBM for the peninsula; the Hwasong-17 is the strategic intercontinental tier.",
+      "video_angle": "Inside North Korea's missile force."
+    }
+  ],
+  "search_keywords": [
+    "Hwasong-17",
+    "KN-28",
+    "monster missile",
+    "North Korea ICBM",
+    "Hwasong-18",
+    "DPRK ballistic missile"
+  ],
+  "doctrine": {
+    "role": "Road-mobile intercontinental ballistic missile to hold the continental United States at nuclear risk.",
+    "employment": "Concealed mobile launchers; lofted-trajectory testing; possible MIRV/penetration aids against missile defence.",
+    "design_philosophy": "Maximum range and throw-weight to guarantee a US-range strategic deterrent.",
+    "threat_context": "Underwrites regime survival and complicates U.S. extended deterrence across Northeast Asia.",
+    "comparison_frame": "Read against China's DF-41, the U.S. Minuteman/Sentinel and North Korea's own KN-23."
+  },
+  "curated_sources": [
+    {
+      "title": "Hwasong-17 \u2014 Wikipedia",
+      "type": "reference",
+      "url": "https://en.wikipedia.org/wiki/Hwasong-17",
+      "relevance": "Range, testing, basing",
+      "priority": "reference"
+    },
+    {
+      "title": "CSIS Missile Threat \u2014 North Korea",
+      "type": "research",
+      "url": "https://missilethreat.csis.org/country/dprk/",
+      "relevance": "Authoritative arsenal overview",
+      "priority": "essential"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/49/Fensterausstellung_%22Museen%22_der_Kieler_Nachrichten_%28KN%29_%28Kiel_54.560%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/49/Fensterausstellung_%22Museen%22_der_Kieler_Nachrichten_%28KN%29_%28Kiel_54.560%29.jpg",
+      "width": 1024,
+      "height": 678,
+      "title": "Fensterausstellung \"Museen\" der Kieler Nachrichten (KN) (Kiel 54.560).jpg",
+      "description": "Kieler Museen stellen sich vor, hier das Stadtmuseum Warleberger Hof mit dem \u00d6lgem\u00e4lde \"Kiel vom Ostufer gesehen\" aus dem 19. Jahrhundert und dem Schiffsmodell KARL GRAMMERSTORF. Text: \"Erster Neubau ",
+      "license": "CC BY-SA 3.0 de",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/85/Fensterausstellung_%22Museen%22_der_Kieler_Nachrichten_%28KN%29_%28Kiel_54.561%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/85/Fensterausstellung_%22Museen%22_der_Kieler_Nachrichten_%28KN%29_%28Kiel_54.561%29.jpg",
+      "width": 1024,
+      "height": 1529,
+      "title": "Fensterausstellung \"Museen\" der Kieler Nachrichten (KN) (Kiel 54.561).jpg",
+      "description": "Kieler Museen stellen sich vor, hier vermutlich auch das Stadtmuseum Warleberger Hof mit dem Tafelaufsatz \"Schale mit Rathausturm\". Text: \"Ein Geschenk im Zusammenhang mit der Einweihung des neuen Rat",
+      "license": "CC BY-SA 3.0 de",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Neue_Busse_f%C3%BCr_die_Fernfahrten_der_Kieler_Nachrichten_%28KN%29_%28Kiel_30.163%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Neue_Busse_f%C3%BCr_die_Fernfahrten_der_Kieler_Nachrichten_%28KN%29_%28Kiel_30.163%29.jpg",
+      "width": 962,
+      "height": 647,
+      "title": "Neue Busse f\u00fcr die Fernfahrten der Kieler Nachrichten (KN) (Kiel 30.163).jpg",
+      "description": "Neue Busse f\u00fcr die Fernfahrten der Kieler Nachrichten (KN)",
+      "license": "CC BY-SA 3.0 de",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/af/Neue_Busse_f%C3%BCr_die_Fernfahrten_der_Kieler_Nachrichten_%28KN%29_%28Kiel_30.164%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/af/Neue_Busse_f%C3%BCr_die_Fernfahrten_der_Kieler_Nachrichten_%28KN%29_%28Kiel_30.164%29.jpg",
+      "width": 964,
+      "height": 647,
+      "title": "Neue Busse f\u00fcr die Fernfahrten der Kieler Nachrichten (KN) (Kiel 30.164).jpg",
+      "description": "Neue Busse f\u00fcr die Fernfahrten der Kieler Nachrichten (KN)",
+      "license": "CC BY-SA 3.0 de",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Neue_Busse_f%C3%BCr_die_Fernfahrten_der_Kieler_Nachrichten_%28KN%29_%28Kiel_30.165%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Neue_Busse_f%C3%BCr_die_Fernfahrten_der_Kieler_Nachrichten_%28KN%29_%28Kiel_30.165%29.jpg",
+      "width": 964,
+      "height": 631,
+      "title": "Neue Busse f\u00fcr die Fernfahrten der Kieler Nachrichten (KN) (Kiel 30.165).jpg",
+      "description": "Neue Busse f\u00fcr die Fernfahrten der Kieler Nachrichten (KN)",
+      "license": "CC BY-SA 3.0 de",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Stele_memorial_of_Hwasong_ICBM%2C_near_Pyongsong_-_01.jpg/1280px-Stele_memorial_of_Hwasong_ICBM%2C_near_Pyongsong_-_01.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/13/Stele_memorial_of_Hwasong_ICBM%2C_near_Pyongsong_-_01.jpg",
+      "width": 5504,
+      "height": 3096,
+      "title": "Stele memorial of Hwasong ICBM, near Pyongsong - 01.jpg",
+      "description": "Stele memorial of Hwasong ICBM along the road near Pyongsong",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Tag_der_offenen_T%C3%BCr_bei_den_Kieler_Nachrichten_%28KN%29_%28Kiel_52.867%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Tag_der_offenen_T%C3%BCr_bei_den_Kieler_Nachrichten_%28KN%29_%28Kiel_52.867%29.jpg",
+      "width": 1024,
+      "height": 697,
+      "title": "Tag der offenen T\u00fcr bei den Kieler Nachrichten (KN) (Kiel 52.867).jpg",
+      "description": "Mitarbeiterin Inge Zuther (links) stellt das Zeitungsarchiv vor.",
+      "license": "CC BY-SA 3.0 de",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/63/Tag_der_offenen_T%C3%BCr_bei_den_Kieler_Nachrichten_%28KN%29_%28Kiel_52.870%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/63/Tag_der_offenen_T%C3%BCr_bei_den_Kieler_Nachrichten_%28KN%29_%28Kiel_52.870%29.jpg",
+      "width": 1024,
+      "height": 673,
+      "title": "Tag der offenen T\u00fcr bei den Kieler Nachrichten (KN) (Kiel 52.870).jpg",
+      "description": "Setzer G\u00fcnter Grothkopp (vorn) erl\u00e4utert die Setzmaschine.",
+      "license": "CC BY-SA 3.0 de",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/KN-14-CW-JJ1.jpg/1280px-KN-14-CW-JJ1.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/KN-14-CW-JJ1.jpg",
+      "width": 6016,
+      "height": 4016,
+      "title": "KN-14-CW-JJ1.jpg",
+      "description": "\uad6d\ub3c4 \uc81c14\ud638\uc120/\uad6d\ub3c4 \uc81c2\ud638\uc120 \ubd84\uae30, \ucc3d\uc6d0\uc2dc \ub9c8\uc0b0\ud569\ud3ec\uad6c \uc9c4\uc804\uba74 (\uac70\uc81c\ubc29\ud5a5)",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/KN-14-CW-JJ2.jpg/1280px-KN-14-CW-JJ2.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/dd/KN-14-CW-JJ2.jpg",
+      "width": 6016,
+      "height": 4016,
+      "title": "KN-14-CW-JJ2.jpg",
+      "description": "\uad6d\ub3c4 \uc81c14\ud638\uc120, \ucc3d\uc6d0\uc2dc \ub9c8\uc0b0\ud569\ud3ec\uad6c \uc9c4\uc804\uba74 \uace0\uc131\ud130\ub110 \uad6c\uac04 (\uac70\uc81c\ubc29\ud5a5)",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/KN-14-GJ-AJ.jpg/1280px-KN-14-GJ-AJ.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/e6/KN-14-GJ-AJ.jpg",
+      "width": 6016,
+      "height": 4016,
+      "title": "KN-14-GJ-AJ.jpg",
+      "description": "\uad6d\ub3c4 \uc81c14\ud638\uc120, \uac70\uc81c\uc2dc \uc544\uc8fc\ub3d9 21\ubc88\uad50\ucc28\ub85c",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/KN-14-GJ-SD-Cl1.jpg/1280px-KN-14-GJ-SD-Cl1.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/82/KN-14-GJ-SD-Cl1.jpg",
+      "width": 6016,
+      "height": 4016,
+      "title": "KN-14-GJ-SD-Cl1.jpg",
+      "description": "\uad6d\ub3c4 \uc81c14\ud638\uc120, \uac70\uc81c\uc2dc \uc0ac\ub4f1\uba74 \uc0ac\ub4f1\ub9ac (\ud1b5\uc601\ubc29\ud5a5)",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/KN-14-GJ-SD-Cl2.jpg/1280px-KN-14-GJ-SD-Cl2.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/KN-14-GJ-SD-Cl2.jpg",
+      "width": 6016,
+      "height": 4016,
+      "title": "KN-14-GJ-SD-Cl2.jpg",
+      "description": "\uad6d\ub3c4 \uc81c14\ud638\uc120, \uac70\uc81c\uc2dc \uc0ac\ub4f1\uba74 \uc0ac\ub4f1\ub9ac (\ud1b5\uc601\ubc29\ud5a5)",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/KN-14-GS-HH-Cl1.jpg/1280px-KN-14-GS-HH-Cl1.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/85/KN-14-GS-HH-Cl1.jpg",
+      "width": 6016,
+      "height": 4016,
+      "title": "KN-14-GS-HH-Cl1.jpg",
+      "description": "\uad6d\ub3c4 \uc81c14\ud638\uc120 \uc624\ub974\ub9c9\ucc28\ub85c, \uacbd\ub0a8 \uace0\uc131\uad70 \ud68c\ud654\uba74 \uc2e0\uace0\uc131\ud130\ub110 \uad6c\uac04 (\ucc3d\uc6d0\ubc29\ud5a5)",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/KN-14-NGeojeBr.jpg/1280px-KN-14-NGeojeBr.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/58/KN-14-NGeojeBr.jpg",
+      "width": 6016,
+      "height": 4016,
+      "title": "KN-14-NGeojeBr.jpg",
+      "description": "\uad6d\ub3c4 \uc81c14\ud638\uc120, \uac70\uc81c\uc2dc \uc2e0\uac70\uc81c\ub300\uad50 (\ud1b5\uc601\ubc29\ud5a5)",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/North_Korea_Sohae_ICBM_missile-_Satellite_Launching_Station_map.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/North_Korea_Sohae_ICBM_missile-_Satellite_Launching_Station_map.jpg",
+      "width": 800,
+      "height": 805,
+      "title": "North Korea Sohae ICBM missile- Satellite Launching Station map.jpg",
+      "description": "North Korea Sohae ICBM missile &amp;  Satellite Launching Station map",
+      "license": "Public domain",
+      "source": "wikimedia"
+    }
+  ]
+}

@@ -1,0 +1,343 @@
+{
+  "id": 189,
+  "slug": "p-8-poseidon",
+  "name": "Boeing P-8 Poseidon",
+  "designation": "P-8A Poseidon / P-8I",
+  "type": "aircraft",
+  "country": "United States",
+  "operator": "U.S. Navy; India, Australia, UK, South Korea, New Zealand, Norway",
+  "overview_md": "The Boeing P-8 Poseidon is the West's premier maritime patrol and anti-submarine warfare (ASW) aircraft \u2014 a militarised 737 that hunts submarines, tracks surface ships and gathers intelligence across vast ocean areas. Replacing the venerable P-3 Orion, it has become the connective tissue of allied maritime awareness across the Indo-Pacific, operated not only by the U.S. Navy but by India, Australia, the UK, South Korea, New Zealand and Norway.\n\nThe P-8 combines a long-range, high-altitude jet airframe with a powerful sensor suite: acoustic processors for sonobuoys, a maritime surveillance radar, electro-optical sensors and electronic-intelligence gear. It can drop dozens of sonobuoys to localise a submarine, then attack it with Mk 54 lightweight torpedoes, and it carries the AGM-84 Harpoon (with longer-range anti-ship weapons being integrated) against surface ships. Increasingly it teams with the unmanned MQ-4C Triton for persistent wide-area coverage.\n\nFor an analyst, the P-8 is central to the allied response to China's expanding submarine fleet and grey-zone maritime activity. The undersea domain is where the United States and its partners hold their clearest advantage, and the P-8 is the airborne instrument that finds and fixes adversary submarines across the South China Sea, the first island chain and the Indian Ocean \u2014 which is why so many regional partners have bought it, knitting together a shared maritime-patrol picture.",
+  "specs_json": {
+    "length_m": 39.5,
+    "crew": 9,
+    "propulsion": "2 \u00d7 CFM56-7B turbofans",
+    "radar": "AN/APY-10 maritime surveillance radar",
+    "additional": {
+      "wingspan": "37.6 m",
+      "max_speed": "~907 km/h",
+      "range": "~2,200+ nm (with time on station)",
+      "service_ceiling": "~12,500 m",
+      "platform_base": "Boeing 737-800ERX",
+      "role": "Maritime patrol / ASW / ISR",
+      "teaming": "MQ-4C Triton unmanned"
+    }
+  },
+  "armament_json": [
+    {
+      "category": "ASW",
+      "name": "Mk 54 lightweight torpedo",
+      "type": "anti-submarine torpedo",
+      "range_km": 9,
+      "notes": "Primary submarine-kill weapon"
+    },
+    {
+      "category": "Anti-ship",
+      "name": "AGM-84 Harpoon",
+      "type": "anti-ship missile",
+      "range_km": 124,
+      "notes": "Surface-strike (longer-range weapons being integrated)"
+    },
+    {
+      "category": "Sensors",
+      "name": "Sonobuoys",
+      "type": "acoustic sensors",
+      "notes": "Dozens dropped to localise submarines"
+    }
+  ],
+  "variants_json": [
+    {
+      "name": "P-8A Poseidon",
+      "years": "2013\u2013",
+      "key_changes": "U.S. Navy baseline MPA/ASW aircraft",
+      "status": "active"
+    },
+    {
+      "name": "P-8I Neptune",
+      "years": "2013\u2013",
+      "key_changes": "Indian variant with additional indigenous systems",
+      "status": "active"
+    }
+  ],
+  "fleet_status_json": [],
+  "cost_usd": 150000000.0,
+  "unit_count": 0,
+  "first_commissioned": "2013",
+  "builder": "Boeing",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3f/US_Navy_P-8_Poseidon_taking_off_at_Perth_Airport.jpg",
+  "wiki_url": "https://en.wikipedia.org/wiki/Boeing_P-8_Poseidon",
+  "sources_json": [
+    "https://en.wikipedia.org/wiki/Boeing_P-8_Poseidon"
+  ],
+  "comparison_tags": [
+    "aircraft",
+    "maritime-patrol",
+    "asw",
+    "isr",
+    "us-navy",
+    "allied"
+  ],
+  "created_at": "2026-05-20 11:07:08",
+  "updated_at": "2026-05-20T11:07:08.395714",
+  "news": [],
+  "events": [],
+  "ic_coverage": [],
+  "combat_history": [
+    {
+      "date": "2014\u2013",
+      "event": "Routinely tracks Chinese submarines and surface forces, and has been intercepted by PLA fighters over the South China Sea.",
+      "significance": "Front-line instrument of the undersea and maritime-surveillance contest."
+    }
+  ],
+  "modernization": [
+    {
+      "program": "Increment 3 / weapons integration",
+      "status": "in-progress",
+      "timeline": "2020s",
+      "description": "Sensor upgrades and integration of longer-range anti-ship weapons; Triton teaming.",
+      "impact": "Extends reach against surface ships and persistent coverage."
+    }
+  ],
+  "vulnerabilities": [
+    {
+      "area": "Survivability",
+      "description": "A large airliner-based aircraft vulnerable to fighters and long-range SAMs.",
+      "context": "Must operate away from heavy air defences.",
+      "mitigation": "Stand-off sensors and weapons; escort."
+    },
+    {
+      "area": "High demand, finite fleet",
+      "description": "Ocean areas are vast and aircraft few.",
+      "context": "Coverage gaps over huge maritime spaces.",
+      "mitigation": "Allied fleets + Triton teaming."
+    }
+  ],
+  "operational_patterns": {
+    "typical_deployment": "Long-endurance maritime patrol, ASW and ISR across the Indo-Pacific and Indian Ocean.",
+    "key_operating_areas": [
+      "South China Sea",
+      "Western Pacific",
+      "Indian Ocean",
+      "Sea of Japan",
+      "Bay of Bengal"
+    ],
+    "typical_task_group": "Operates with allied MPAs and the MQ-4C Triton; supports surface and submarine forces.",
+    "readiness_notes": "Widely fielded across the U.S. and allies."
+  },
+  "peer_comparisons": [
+    {
+      "platform": "Kawasaki P-1",
+      "country": "Japan",
+      "relationship": "allied counterpart",
+      "key_differences": "Japan's indigenous four-jet MPA fills the same role; together they blanket the first island chain.",
+      "video_angle": "The allied submarine hunters of the Pacific."
+    },
+    {
+      "platform": "Yu-6 / Chinese submarines",
+      "country": "China",
+      "relationship": "target set",
+      "key_differences": "The P-8 exists to find and kill the expanding PLAN submarine fleet.",
+      "video_angle": "How the West hunts China's submarines."
+    },
+    {
+      "platform": "P-3 Orion",
+      "country": "United States",
+      "relationship": "predecessor",
+      "key_differences": "The P-8 replaced the turboprop P-3 with a faster, higher-flying jet.",
+      "video_angle": "From Orion to Poseidon."
+    }
+  ],
+  "search_keywords": [
+    "P-8 Poseidon",
+    "P-8A",
+    "P-8I Neptune",
+    "maritime patrol aircraft",
+    "ASW aircraft",
+    "submarine hunter",
+    "Boeing P-8"
+  ],
+  "doctrine": {
+    "role": "Maritime patrol and anti-submarine warfare aircraft \u2014 the allied submarine hunter and ocean-surveillance node.",
+    "employment": "Drops sonobuoys to localise submarines and attacks with torpedoes; tracks surface ships and gathers intelligence.",
+    "design_philosophy": "A long-range jet with a deep sensor suite, shared across allies for a common maritime picture.",
+    "threat_context": "Central to countering China's growing submarine fleet across the Indo-Pacific.",
+    "comparison_frame": "Read with Japan's P-1 (ally) and against China's submarines (target)."
+  },
+  "curated_sources": [
+    {
+      "title": "Boeing P-8 Poseidon \u2014 Wikipedia",
+      "type": "reference",
+      "url": "https://en.wikipedia.org/wiki/Boeing_P-8_Poseidon",
+      "relevance": "Specs, operators, weapons",
+      "priority": "reference"
+    },
+    {
+      "title": "U.S. Navy fact file \u2014 P-8A Poseidon",
+      "type": "official",
+      "url": "https://www.navy.mil/",
+      "relevance": "Official characteristics",
+      "priority": "recommended"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/20150415_P-8_Poseidon_Tinker_AFB-7.jpg/1280px-20150415_P-8_Poseidon_Tinker_AFB-7.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/ed/20150415_P-8_Poseidon_Tinker_AFB-7.jpg",
+      "width": 5184,
+      "height": 3456,
+      "title": "20150415 P-8 Poseidon Tinker AFB-7.jpg",
+      "description": "A US Navy P-8 Poseidon, tail number 431, on approach at Tinker AFB in Oklahoma City, Oklahoma on April 15, 2015.",
+      "license": "CC0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/20190206_P-8_Poseidon_Kadena_AB-12.jpg/1280px-20190206_P-8_Poseidon_Kadena_AB-12.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/20190206_P-8_Poseidon_Kadena_AB-12.jpg",
+      "width": 5224,
+      "height": 3483,
+      "title": "20190206 P-8 Poseidon Kadena AB-12.jpg",
+      "description": "A US Navy P-8 Poseidon on final approach to Kadena Air Base in Okinawa, Japan.",
+      "license": "CC0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/20190206_P-8_Poseidon_Kadena_AB-124.jpg/1280px-20190206_P-8_Poseidon_Kadena_AB-124.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/e4/20190206_P-8_Poseidon_Kadena_AB-124.jpg",
+      "width": 4861,
+      "height": 3241,
+      "title": "20190206 P-8 Poseidon Kadena AB-124.jpg",
+      "description": "A US Navy P-8 Poseidon on final approach to Kadena Air Base in Okinawa, Japan.",
+      "license": "CC0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/20190206_P-8_Poseidon_Kadena_AB-84.jpg/1280px-20190206_P-8_Poseidon_Kadena_AB-84.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/67/20190206_P-8_Poseidon_Kadena_AB-84.jpg",
+      "width": 4618,
+      "height": 3079,
+      "title": "20190206 P-8 Poseidon Kadena AB-84.jpg",
+      "description": "A US Navy P-8 Poseidon on final approach to Kadena Air Base in Okinawa, Japan.",
+      "license": "CC0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/20190206_P-8_Poseidon_Kadena_AB-89.jpg/1280px-20190206_P-8_Poseidon_Kadena_AB-89.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/05/20190206_P-8_Poseidon_Kadena_AB-89.jpg",
+      "width": 5449,
+      "height": 3633,
+      "title": "20190206 P-8 Poseidon Kadena AB-89.jpg",
+      "description": "A US Navy P-8 Poseidon on final approach to Kadena Air Base in Okinawa, Japan.",
+      "license": "CC0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/20190206_P-8_Poseidon_Kadena_AB-96.jpg/1280px-20190206_P-8_Poseidon_Kadena_AB-96.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/20190206_P-8_Poseidon_Kadena_AB-96.jpg",
+      "width": 3996,
+      "height": 2664,
+      "title": "20190206 P-8 Poseidon Kadena AB-96.jpg",
+      "description": "A US Navy P-8 Poseidon on final approach to Kadena Air Base in Okinawa, Japan.",
+      "license": "CC0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Boeing_P-8_Poseidon.jpg/1280px-Boeing_P-8_Poseidon.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Boeing_P-8_Poseidon.jpg",
+      "width": 5472,
+      "height": 3648,
+      "title": "Boeing P-8 Poseidon.jpg",
+      "description": "Boeing P-8 Poseidon on Dubai Airshow 2021",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Boeing_P-8_Poseidon_-_Knoxville%2C_TN.jpg/1280px-Boeing_P-8_Poseidon_-_Knoxville%2C_TN.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/69/Boeing_P-8_Poseidon_-_Knoxville%2C_TN.jpg",
+      "width": 4952,
+      "height": 3301,
+      "title": "Boeing P-8 Poseidon - Knoxville, TN.jpg",
+      "description": "Boeing P-8 Poseidon - Knoxville, TN - McGhee Tyson Airport",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/P-8_Poseidon%2C_ILA_2024%2C_Schoenefeld_%28ILA44622%29.jpg/1280px-P-8_Poseidon%2C_ILA_2024%2C_Schoenefeld_%28ILA44622%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/48/P-8_Poseidon%2C_ILA_2024%2C_Schoenefeld_%28ILA44622%29.jpg",
+      "width": 6720,
+      "height": 4480,
+      "title": "P-8 Poseidon, ILA 2024, Schoenefeld (ILA44622).jpg",
+      "description": "US Navy P-8 Poseidon on static display at ILA Berlin Air Show 2024\u00a0<span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"//commons.wikimedia.org/wiki/File:P-8_Poseidon,_ILA_2024",
+      "license": "CC BY-SA",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Royal_Air_Force_Boeing_Poseidon_MRA1_P-8A_ZP803_Royal_International_Air_Tattoo_2025_01.jpg/1280px-Royal_Air_Force_Boeing_Poseidon_MRA1_P-8A_ZP803_Royal_International_Air_Tattoo_2025_01.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Royal_Air_Force_Boeing_Poseidon_MRA1_P-8A_ZP803_Royal_International_Air_Tattoo_2025_01.jpg",
+      "width": 5793,
+      "height": 3259,
+      "title": "Royal Air Force Boeing Poseidon MRA1 P-8A ZP803 Royal International Air Tattoo 2025 01.jpg",
+      "description": "Royal Air Force (RAF) Boeing Poseidon MRA1 (P-8A) 'Sqn Ldr Terence Bulloch DSO DFC' (reg. ZP803) at the Royal International Air Tattoo 2025.",
+      "license": "CC BY 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Boeing_P-8A_Poseidon_%2836294545625%29.jpg/1280px-Boeing_P-8A_Poseidon_%2836294545625%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Boeing_P-8A_Poseidon_%2836294545625%29.jpg",
+      "width": 4770,
+      "height": 3185,
+      "title": "Boeing P-8A Poseidon (36294545625).jpg",
+      "description": "Boeing P-8A Poseidon",
+      "license": "CC BY 2.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Boeing_P-8_Poseidon_RAAF_-_49671346853.jpg/1280px-Boeing_P-8_Poseidon_RAAF_-_49671346853.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Boeing_P-8_Poseidon_RAAF_-_49671346853.jpg",
+      "width": 5184,
+      "height": 3888,
+      "title": "Boeing P-8 Poseidon RAAF - 49671346853.jpg",
+      "description": "A Boeing P-8 maritime patrol aircraft of the Royal Australian Air Force seen at the Hunter Valley Airshow in 2019.",
+      "license": "CC BY 2.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Boeing_P-8_Poseidon_RAAF_-_49671347343.jpg/1280px-Boeing_P-8_Poseidon_RAAF_-_49671347343.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Boeing_P-8_Poseidon_RAAF_-_49671347343.jpg",
+      "width": 5184,
+      "height": 3888,
+      "title": "Boeing P-8 Poseidon RAAF - 49671347343.jpg",
+      "description": "A Boeing P-8 maritime patrol aircraft of the Royal Australian Air Force seen at the Hunter Valley Airshow in 2019.",
+      "license": "CC BY 2.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Boeing_P-8_Poseidon_RAAF_-_49671887086.jpg/1280px-Boeing_P-8_Poseidon_RAAF_-_49671887086.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Boeing_P-8_Poseidon_RAAF_-_49671887086.jpg",
+      "width": 5184,
+      "height": 3888,
+      "title": "Boeing P-8 Poseidon RAAF - 49671887086.jpg",
+      "description": "A Boeing P-8 maritime patrol aircraft of the Royal Australian Air Force seen at the Hunter Valley Airshow in 2019.",
+      "license": "CC BY 2.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Boeing_P-8_Poseidon_RAAF_-_49672172267.jpg/1280px-Boeing_P-8_Poseidon_RAAF_-_49672172267.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Boeing_P-8_Poseidon_RAAF_-_49672172267.jpg",
+      "width": 5184,
+      "height": 3888,
+      "title": "Boeing P-8 Poseidon RAAF - 49672172267.jpg",
+      "description": "A Boeing P-8 maritime patrol aircraft of the Royal Australian Air Force seen at the Hunter Valley Airshow in 2019.",
+      "license": "CC BY 2.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/P-8A_Poseidon_VX-20_Squadron.jpg/1280px-P-8A_Poseidon_VX-20_Squadron.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/e4/P-8A_Poseidon_VX-20_Squadron.jpg",
+      "width": 3952,
+      "height": 2328,
+      "title": "P-8A Poseidon VX-20 Squadron.jpg",
+      "description": "A P-8A Poseidon assigned to the Bureau of Air Test and Evaluation Squadron (VX) 20 flies over the Chesapeake Bay. VX-20 is part of Naval Test Wing Atlantic.",
+      "license": "Public domain",
+      "source": "wikimedia"
+    }
+  ]
+}

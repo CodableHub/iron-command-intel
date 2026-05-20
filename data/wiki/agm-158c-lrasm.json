@@ -1,0 +1,245 @@
+{
+  "id": 195,
+  "slug": "agm-158c-lrasm",
+  "name": "AGM-158C LRASM",
+  "designation": "AGM-158C LRASM",
+  "type": "cruise-missile",
+  "country": "United States",
+  "operator": "U.S. Navy & Air Force; Australia",
+  "overview_md": "The AGM-158C LRASM (Long-Range Anti-Ship Missile) is the United States' modern answer to a problem it long neglected: how to sink ships at long range when the enemy can shoot back. Derived from the stealthy JASSM-ER land-attack cruise missile, it gives American aircraft and ships a precision anti-ship weapon with the range, survivability and autonomy to penetrate the layered defences of a peer navy like China's.\n\nWhat sets LRASM apart is its survivability and autonomy rather than its speed. It is subsonic but low-observable, and it is designed to operate in GPS-denied, heavily jammed environments: it can navigate, identify the correct target among many, and route itself to attack using onboard sensors and threat awareness, with minimal reliance on external cueing. This addresses the reality that in a war with China, the satellite and datalink networks that normally feed targeting data may be degraded.\n\nFor an analyst, LRASM closes a genuine gap. For decades the U.S. relied on the short-ranged Harpoon while rivals fielded long-range supersonic missiles; LRASM restores a credible long-range anti-ship punch, launched from B-1B bombers, F/A-18E/F Super Hornets and (planned) F-35s and surface ships. Alongside the Maritime Strike Tomahawk and SM-6, it is a key piece of the U.S. and allied effort to hold the Chinese fleet at risk across the Western Pacific.",
+  "specs_json": {
+    "length_m": 4.27,
+    "additional": {
+      "range": "~560+ km (estimates vary)",
+      "speed": "Subsonic (~Mach 0.8), low-observable",
+      "warhead": "~450 kg penetrating/blast-fragmentation",
+      "guidance": "Autonomous: INS/GPS + passive RF + imaging-IR; threat-aware routing",
+      "launch_platforms": "B-1B, F/A-18E/F, (F-35 planned), surface ships",
+      "design_base": "Derived from JASSM-ER (AGM-158B)"
+    }
+  },
+  "armament_json": [],
+  "variants_json": [
+    {
+      "name": "AGM-158C LRASM",
+      "years": "2018\u2013",
+      "key_changes": "Stealthy autonomous anti-ship missile from JASSM-ER",
+      "status": "active"
+    },
+    {
+      "name": "LRASM (surface-launched) / increments",
+      "years": "2020s",
+      "key_changes": "Ship-launch and capability-growth increments",
+      "status": "building"
+    }
+  ],
+  "fleet_status_json": [],
+  "cost_usd": 3500000.0,
+  "unit_count": 0,
+  "first_commissioned": "2018",
+  "builder": "Lockheed Martin",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/93/9th_EBS_participates_in_Arctic_Bone_%286536865%29.jpg",
+  "wiki_url": "https://en.wikipedia.org/wiki/AGM-158C_LRASM",
+  "sources_json": [
+    "https://en.wikipedia.org/wiki/AGM-158C_LRASM"
+  ],
+  "comparison_tags": [
+    "missile",
+    "cruise-missile",
+    "anti-ship",
+    "stealth",
+    "autonomous",
+    "united-states"
+  ],
+  "created_at": "2026-05-20 11:09:27",
+  "updated_at": "2026-05-20T11:09:27.095812",
+  "news": [],
+  "events": [],
+  "ic_coverage": [],
+  "combat_history": [
+    {
+      "date": "2018",
+      "event": "Achieved early operational capability on the B-1B Lancer, later the F/A-18E/F.",
+      "significance": "Restored a long-range U.S. anti-ship capability after decades of reliance on Harpoon."
+    }
+  ],
+  "modernization": [
+    {
+      "program": "Platform & range growth",
+      "status": "in-progress",
+      "timeline": "2020s",
+      "description": "Integration onto more platforms (incl. F-35) and capability/range increments.",
+      "impact": "Multiplies the launch options and reach against ships."
+    }
+  ],
+  "vulnerabilities": [
+    {
+      "area": "Subsonic speed",
+      "description": "Slower than supersonic/hypersonic rivals, giving defences more reaction time.",
+      "context": "Relies on stealth and autonomy, not speed.",
+      "mitigation": "Low observability and saturation."
+    },
+    {
+      "area": "Cost/magazine depth",
+      "description": "Expensive precision weapon limits numbers.",
+      "context": "Fewer shots per platform.",
+      "mitigation": "Mix with cheaper weapons."
+    }
+  ],
+  "operational_patterns": {
+    "typical_deployment": "Long-range anti-ship strikes from bombers, fighters and ships against defended naval targets.",
+    "key_operating_areas": [
+      "Western Pacific",
+      "South China Sea",
+      "Philippine Sea"
+    ],
+    "typical_task_group": "B-1B raids, carrier-air-wing Super Hornets, surface combatants.",
+    "readiness_notes": "Fielded and expanding to more platforms."
+  },
+  "peer_comparisons": [
+    {
+      "platform": "YJ-18 anti-ship cruise missile",
+      "country": "China",
+      "relationship": "rival concept",
+      "key_differences": "The YJ-18 uses a supersonic terminal sprint; LRASM uses stealth and autonomy instead of speed.",
+      "video_angle": "Stealth vs speed in anti-ship missiles."
+    },
+    {
+      "platform": "Tomahawk cruise missile",
+      "country": "United States",
+      "relationship": "complementary weapon",
+      "key_differences": "Tomahawk offers longer range from ships; LRASM offers stealthy autonomous targeting from aircraft.",
+      "video_angle": "America's two long-range anti-ship answers."
+    },
+    {
+      "platform": "Naval Strike Missile (NSM)",
+      "country": "Norway",
+      "relationship": "Western stablemate",
+      "key_differences": "NSM is a smaller, shorter-ranged stealthy anti-ship missile; LRASM is the heavy long-range option.",
+      "video_angle": "The West's new anti-ship missile family."
+    }
+  ],
+  "search_keywords": [
+    "LRASM",
+    "AGM-158C",
+    "Long Range Anti-Ship Missile",
+    "stealth anti-ship missile",
+    "JASSM anti-ship",
+    "US anti-ship missile"
+  ],
+  "doctrine": {
+    "role": "Stealthy, autonomous long-range anti-ship cruise missile to defeat peer naval defences.",
+    "employment": "Low-observable subsonic flight with autonomous target ID and routing in GPS-denied, jammed environments.",
+    "design_philosophy": "Survivability and autonomy over speed \u2014 penetrate and pick the right ship without external cueing.",
+    "threat_context": "Closes the U.S. long-range anti-ship gap and helps hold the Chinese fleet at risk in the Western Pacific.",
+    "comparison_frame": "Read against China's YJ-18 (speed) and alongside Maritime Strike Tomahawk and NSM."
+  },
+  "curated_sources": [
+    {
+      "title": "AGM-158C LRASM \u2014 Wikipedia",
+      "type": "reference",
+      "url": "https://en.wikipedia.org/wiki/AGM-158C_LRASM",
+      "relevance": "Specs, platforms, autonomy",
+      "priority": "reference"
+    },
+    {
+      "title": "CSIS Missile Threat \u2014 LRASM",
+      "type": "research",
+      "url": "https://missilethreat.csis.org/missile/lrasm/",
+      "relevance": "Authoritative profile",
+      "priority": "recommended"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/9th_EBS_participates_in_Arctic_Bone_%286536865%29.jpg/1280px-9th_EBS_participates_in_Arctic_Bone_%286536865%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/93/9th_EBS_participates_in_Arctic_Bone_%286536865%29.jpg",
+      "width": 4611,
+      "height": 3074,
+      "title": "9th EBS participates in Arctic Bone (6536865).jpg",
+      "description": "A B-1B Lancer assigned to the 9th Expeditionary Bomb Squadron flies over southwest Norway, Feb. 26, 2021. Two B-1\u2019s participated in Arctic Bone, a local training mission during which the aircrew condu",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/AGM-158C_flight_testing_begins_on_F-35C.jpg/1280px-AGM-158C_flight_testing_begins_on_F-35C.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/c9/AGM-158C_flight_testing_begins_on_F-35C.jpg",
+      "width": 3600,
+      "height": 2400,
+      "title": "AGM-158C flight testing begins on F-35C.jpg",
+      "description": "NAS PATUXENT RIVER, Md. -- An F-35 Lightning II test pilot conducts flight test Sept. 10 to certify the carrier variant of the fighter aircraft for carrying the AGM-158C Long-Range Anti-Ship Missile (",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/A_LRASM_at_NAS_Patuxent_River_2015_Aug._12%2C_2015.jpg/1280px-A_LRASM_at_NAS_Patuxent_River_2015_Aug._12%2C_2015.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/fb/A_LRASM_at_NAS_Patuxent_River_2015_Aug._12%2C_2015.jpg",
+      "width": 2700,
+      "height": 1800,
+      "title": "A LRASM at NAS Patuxent River 2015 Aug. 12, 2015.jpg",
+      "description": "A Long Range Anti-Ship Missile (LRASM) integrated on F/A-18E/F Super Hornet 12 August 2015 at NAS Patuxent River, Md.",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/F-35C_with_AGM-158Cs_at_NAS_Patuxent_River.jpg/1280px-F-35C_with_AGM-158Cs_at_NAS_Patuxent_River.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/F-35C_with_AGM-158Cs_at_NAS_Patuxent_River.jpg",
+      "width": 3600,
+      "height": 2400,
+      "title": "F-35C with AGM-158Cs at NAS Patuxent River.jpg",
+      "description": "An F-35 Lightning II test pilot conducts flight test Sept. 9 to certify the carrier variant of the fighter aircraft for carrying the AGM-158C Long-Range Anti-Ship Missile (LRASM). As part of ongoing i",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/F-35_LRASM_Testing_VX-23.png/1280px-F-35_LRASM_Testing_VX-23.png",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/35/F-35_LRASM_Testing_VX-23.png",
+      "width": 2092,
+      "height": 1388,
+      "title": "F-35 LRASM Testing VX-23.png",
+      "description": "F-35 Carrying LRASMS",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/LRASM_Target_Practice_2013-08-27.jpg/1280px-LRASM_Target_Practice_2013-08-27.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/LRASM_Target_Practice_2013-08-27.jpg",
+      "width": 3766,
+      "height": 1935,
+      "title": "LRASM Target Practice 2013-08-27.jpg",
+      "description": "MST 9301 U.S. Navy, 1994, 260 x 26 x 7 feet/79.25 x 7.92 x 2.13 meters target craft (25MM series) used for live-fire exercises as remote-controlled target ship. The Defense Advanced Research Projects ",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/LRASM_accroch%C3%A9_%C3%A0_un_Super-Hornet_du_VX-23_le_12_aout_2015.jpg/1280px-LRASM_accroch%C3%A9_%C3%A0_un_Super-Hornet_du_VX-23_le_12_aout_2015.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/34/LRASM_accroch%C3%A9_%C3%A0_un_Super-Hornet_du_VX-23_le_12_aout_2015.jpg",
+      "width": 2700,
+      "height": 1800,
+      "title": "LRASM accroch\u00e9 \u00e0 un Super-Hornet du VX-23 le 12 aout 2015.jpg",
+      "description": "LRASM mont\u00e9 sur un F/A-18 Super Hornet du VX-23 le 12 aout 2015.",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Long_Range_Anti-Ship_Missile_%28LR-AShM%29_DRDO.jpg/1280px-Long_Range_Anti-Ship_Missile_%28LR-AShM%29_DRDO.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/23/Long_Range_Anti-Ship_Missile_%28LR-AShM%29_DRDO.jpg",
+      "width": 2200,
+      "height": 1390,
+      "title": "Long Range Anti-Ship Missile (LR-AShM) DRDO.jpg",
+      "description": "Glimpses of 77th Republic Day Parade at Kartavya Path, in New Delhi on January 26, 2026.",
+      "license": "CC0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/34/Long_Range_Anti-Ship_Missile_%28LRASM%29_launches_from_an_Air_Force_B-1B_Lancer.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/34/Long_Range_Anti-Ship_Missile_%28LRASM%29_launches_from_an_Air_Force_B-1B_Lancer.jpg",
+      "width": 1024,
+      "height": 768,
+      "title": "Long Range Anti-Ship Missile (LRASM) launches from an Air Force B-1B Lancer.jpg",
+      "description": "A Long Range Anti-Ship Missile (LRASM) launches from an Air Force B-1B Lancer during flight testing in August 2013. DARPA designed the free-flight transition test (FFTT) demonstration to verify the pr",
+      "license": "Public domain",
+      "source": "wikimedia"
+    }
+  ]
+}

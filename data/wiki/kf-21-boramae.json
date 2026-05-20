@@ -1,0 +1,340 @@
+{
+  "id": 184,
+  "slug": "kf-21-boramae",
+  "name": "KAI KF-21 Boramae",
+  "designation": "KF-21",
+  "type": "fighter",
+  "country": "South Korea",
+  "operator": "Republic of Korea Air Force (and Indonesia, partner)",
+  "overview_md": "The KF-21 Boramae (\"Fighting Hawk\") is South Korea's indigenous 4.5-generation fighter \u2014 a twin-engine, semi-stealthy aircraft that vaults the Republic of Korea into the small club of nations able to design and build advanced combat jets. First flown in 2022 and entering production for the ROK Air Force from the mid-2020s, it is intended to replace ageing F-4s and F-5s and to reduce Seoul's dependence on imported airpower.\n\nThe KF-21 deliberately sits between generations. It has a low-observable planform, an indigenous active electronically scanned array (AESA) radar, and modern sensor fusion, but it carries weapons externally at entry into service rather than in an internal bay \u2014 the hallmark that separates it from a true fifth-generation fighter. Internal carriage and further stealth features are planned for later blocks, giving a clear growth path. Powered by two General Electric F414 engines, it pairs European Meteor beyond-visual-range missiles with a domestic weapons suite.\n\nFor an analyst, the KF-21 matters as both capability and statement. It gives South Korea a sovereign, exportable fighter line and an industrial base to sustain it, with Indonesia as a development partner. In a region where China fields the J-20 and Japan pursues a sixth-generation fighter with the UK and Italy, the KF-21 is Seoul's bid to stay in the front rank of Indo-Pacific airpower on its own terms.",
+  "specs_json": {
+    "length_m": 16.9,
+    "crew": 1,
+    "propulsion": "2 \u00d7 General Electric F414-GE-400K turbofans",
+    "radar": "Indigenous AESA radar (Hanwha Systems)",
+    "additional": {
+      "wingspan": "11.2 m",
+      "max_speed": "~Mach 1.81",
+      "combat_radius": "~1,000 km",
+      "service_ceiling": "~16,700 m",
+      "hardpoints": "10 (external at IOC; internal bay planned)",
+      "first_flight": "19 Jul 2022",
+      "generation": "4.5 (5th-gen growth path)"
+    }
+  },
+  "armament_json": [
+    {
+      "category": "Air-to-air (BVR)",
+      "name": "Meteor",
+      "type": "ramjet BVR AAM",
+      "range_km": 200,
+      "notes": "Primary long-range missile"
+    },
+    {
+      "category": "Air-to-air (WVR)",
+      "name": "IRIS-T / AIM-9",
+      "type": "short-range IR AAM",
+      "range_km": 25,
+      "notes": "Within-visual-range"
+    },
+    {
+      "category": "Air-to-ground",
+      "name": "Precision-guided munitions",
+      "type": "guided bombs/missiles",
+      "notes": "Domestic and Western stores"
+    }
+  ],
+  "variants_json": [
+    {
+      "name": "KF-21 Block I",
+      "years": "2026\u2013",
+      "key_changes": "Air-to-air focus, external carriage",
+      "status": "building"
+    },
+    {
+      "name": "KF-21 Block II / EX",
+      "years": "2028\u2013",
+      "key_changes": "Air-to-ground, internal weapons bay, deeper stealth",
+      "status": "planned"
+    }
+  ],
+  "fleet_status_json": [],
+  "cost_usd": 80000000.0,
+  "unit_count": 0,
+  "first_commissioned": "2026",
+  "builder": "Korea Aerospace Industries (KAI)",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/KF-21_Boramae_First_Production.jpg/3840px-KF-21_Boramae_First_Production.jpg",
+  "wiki_url": "https://en.wikipedia.org/wiki/KAI_KF-21_Boramae",
+  "sources_json": [
+    "https://en.wikipedia.org/wiki/KAI_KF-21_Boramae"
+  ],
+  "comparison_tags": [
+    "fighter",
+    "4.5-generation",
+    "semi-stealth",
+    "south-korea",
+    "indigenous"
+  ],
+  "created_at": "2026-05-20 11:05:30",
+  "updated_at": "2026-05-20T11:05:30.624191",
+  "news": [],
+  "events": [],
+  "ic_coverage": [],
+  "combat_history": [
+    {
+      "date": "2022-07",
+      "event": "Maiden flight of the first KF-21 prototype.",
+      "significance": "Made South Korea one of few nations to develop an advanced indigenous fighter."
+    }
+  ],
+  "modernization": [
+    {
+      "program": "Block II / internal carriage",
+      "status": "planned",
+      "timeline": "2028+",
+      "description": "Adds air-to-ground capability and an internal weapons bay for greater stealth.",
+      "impact": "Moves the KF-21 toward true fifth-generation performance."
+    }
+  ],
+  "vulnerabilities": [
+    {
+      "area": "Partial stealth",
+      "description": "External weapons carriage at IOC raises radar signature.",
+      "context": "Not a full 5th-gen aircraft until later blocks.",
+      "mitigation": "Planned internal bay."
+    },
+    {
+      "area": "Programme maturity",
+      "description": "Still entering production; combat systems unproven.",
+      "context": "Early-life teething likely.",
+      "mitigation": "Phased block development."
+    }
+  ],
+  "operational_patterns": {
+    "typical_deployment": "Air superiority and, in later blocks, strike for the ROK Air Force across the peninsula and approaches.",
+    "key_operating_areas": [
+      "Korean Peninsula",
+      "Yellow Sea",
+      "Sea of Japan",
+      "East China Sea"
+    ],
+    "typical_task_group": "Operates alongside F-35A and F-15K in the ROKAF.",
+    "readiness_notes": "Entering low-rate production."
+  },
+  "peer_comparisons": [
+    {
+      "platform": "Chengdu J-20",
+      "country": "China",
+      "relationship": "regional rival",
+      "key_differences": "The J-20 is a full 5th-gen long-range stealth fighter; the KF-21 is a semi-stealthy 4.5-gen with a growth path.",
+      "video_angle": "Korea's home-grown fighter vs China's stealth flagship."
+    },
+    {
+      "platform": "Mitsubishi F-2",
+      "country": "Japan",
+      "relationship": "regional peer",
+      "key_differences": "Japan's F-2 is an older F-16-derived maritime-strike fighter; the KF-21 is a clean-sheet twin-engine design.",
+      "video_angle": "Asia's indigenous fighters compared."
+    },
+    {
+      "platform": "Dassault Rafale",
+      "country": "France",
+      "relationship": "class peer",
+      "key_differences": "A mature multirole 4.5-gen fighter the KF-21 broadly competes with on capability.",
+      "video_angle": "The 4.5-generation fighter field."
+    }
+  ],
+  "search_keywords": [
+    "KF-21",
+    "KF-21 Boramae",
+    "KF-X",
+    "Korean fighter",
+    "KAI KF-21",
+    "Boramae"
+  ],
+  "doctrine": {
+    "role": "Indigenous 4.5-generation multirole fighter providing sovereign air superiority and (later) strike.",
+    "employment": "Sensor-fused BVR air combat with Meteor; growth toward stealthier strike in later blocks.",
+    "design_philosophy": "A sovereign, exportable fighter with a clear path to fifth-generation capability.",
+    "threat_context": "Keeps South Korea in the front rank of Indo-Pacific airpower amid the J-20 and Japan's GCAP.",
+    "comparison_frame": "Read against the J-20 (full 5th-gen), Japan's F-2/GCAP and the Rafale."
+  },
+  "curated_sources": [
+    {
+      "title": "KAI KF-21 Boramae \u2014 Wikipedia",
+      "type": "reference",
+      "url": "https://en.wikipedia.org/wiki/KAI_KF-21_Boramae",
+      "relevance": "Specs and development",
+      "priority": "reference"
+    },
+    {
+      "title": "DAPA (Korea) program releases",
+      "type": "official",
+      "url": "https://www.dapa.go.kr/",
+      "relevance": "Program status",
+      "priority": "recommended"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/23/Full-scale_airframe_environmental_testing_of_KF-21_Boramae.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/23/Full-scale_airframe_environmental_testing_of_KF-21_Boramae.jpg",
+      "width": 960,
+      "height": 540,
+      "title": "Full-scale airframe environmental testing of KF-21 Boramae.jpg",
+      "description": "A full-scale airframe environmental testing of KF-21 prototype 004",
+      "license": "KOGL Type 1",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/KAI_KF-21_model_in_Indo_Defence_2024.jpg/1280px-KAI_KF-21_model_in_Indo_Defence_2024.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/a4/KAI_KF-21_model_in_Indo_Defence_2024.jpg",
+      "width": 5674,
+      "height": 3190,
+      "title": "KAI KF-21 model in Indo Defence 2024.jpg",
+      "description": "KAI KF-21 Boramae scale model in Indonesian Air Force markings at Korea Aerospace Industries' pavilion in Indo Defence 2024",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Korea_Aerospace_Industries_KF-21_Boramae_%28scale_model%29_front_low-angle_view_in_KAI_booth_of_JA2024_at_Tokyo_Big_Sight_October_19%2C_2024.jpg/1280px-Korea_Aerospace_Industries_KF-21_Boramae_%28scale_model%29_front_low-angle_view_in_KAI_booth_of_JA2024_at_Tokyo_Big_Sight_October_19%2C_2024.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Korea_Aerospace_Industries_KF-21_Boramae_%28scale_model%29_front_low-angle_view_in_KAI_booth_of_JA2024_at_Tokyo_Big_Sight_October_19%2C_2024.jpg",
+      "width": 5408,
+      "height": 3600,
+      "title": "Korea Aerospace Industries KF-21 Boramae (scale model) front low-angle view in KAI booth of JA2024 at Tokyo Big Sight October 19, 2024.jpg",
+      "description": "\u97d3\u56fd\u822a\u7a7a\u5b87\u5b99\u7523\u696d\uff08KAI\uff09\u3000KF-21\u30dd\u30e9\u30e1\uff081/10\u30b9\u30b1\u30fc\u30eb\u6a21\u578b\uff09\u3000\u6b63\u9762\u30ed\u30fc\u30a2\u30f3\u30b0\u30eb\u30022024\u5e7410\u670819\u65e5\u3000\u6771\u4eac\u30d3\u30c3\u30b0\u30b5\u30a4\u30c8\u3067\u958b\u50ac\u3055\u308c\u305f2024\u56fd\u969b\u822a\u7a7a\u5b87\u5b99\u5c55\uff08JA2024\uff09\u3000KAI\u30d6\u30fc\u30b9\u5185\u306b\u3066\u3002",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Korea_Aerospace_Industries_KF-21_Boramae_%28scale_model%29_front_top_view_in_KAI_booth_of_JA2024_at_Tokyo_Big_Sight_October_19%2C_2024.jpg/1280px-Korea_Aerospace_Industries_KF-21_Boramae_%28scale_model%29_front_top_view_in_KAI_booth_of_JA2024_at_Tokyo_Big_Sight_October_19%2C_2024.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Korea_Aerospace_Industries_KF-21_Boramae_%28scale_model%29_front_top_view_in_KAI_booth_of_JA2024_at_Tokyo_Big_Sight_October_19%2C_2024.jpg",
+      "width": 3649,
+      "height": 2919,
+      "title": "Korea Aerospace Industries KF-21 Boramae (scale model) front top view in KAI booth of JA2024 at Tokyo Big Sight October 19, 2024.jpg",
+      "description": "\u97d3\u56fd\u822a\u7a7a\u5b87\u5b99\u7523\u696d\uff08KAI\uff09\u3000KF-21\u30dd\u30e9\u30e1\uff081/10\u30b9\u30b1\u30fc\u30eb\u6a21\u578b\uff09\u3000\u6b63\u9762\u4e0a\u90e8\u30022024\u5e7410\u670819\u65e5\u3000\u6771\u4eac\u30d3\u30c3\u30b0\u30b5\u30a4\u30c8\u3067\u958b\u50ac\u3055\u308c\u305f2024\u56fd\u969b\u822a\u7a7a\u5b87\u5b99\u5c55\uff08JA2024\uff09\u3000KAI\u30d6\u30fc\u30b9\u5185\u306b\u3066\u3002",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Korea_Aerospace_Industries_KF-21_Boramae_%28scale_model%29_front_view_in_KAI_booth_of_JA2024_at_Tokyo_Big_Sight_October_19%2C_2024.jpg/1280px-Korea_Aerospace_Industries_KF-21_Boramae_%28scale_model%29_front_view_in_KAI_booth_of_JA2024_at_Tokyo_Big_Sight_October_19%2C_2024.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Korea_Aerospace_Industries_KF-21_Boramae_%28scale_model%29_front_view_in_KAI_booth_of_JA2024_at_Tokyo_Big_Sight_October_19%2C_2024.jpg",
+      "width": 4584,
+      "height": 2578,
+      "title": "Korea Aerospace Industries KF-21 Boramae (scale model) front view in KAI booth of JA2024 at Tokyo Big Sight October 19, 2024.jpg",
+      "description": "\u97d3\u56fd\u822a\u7a7a\u5b87\u5b99\u7523\u696d\uff08KAI\uff09\u3000KF-21\u30dd\u30e9\u30e1\uff081/10\u30b9\u30b1\u30fc\u30eb\u6a21\u578b\uff09\u3000\u6b63\u9762\u30022024\u5e7410\u670819\u65e5\u3000\u6771\u4eac\u30d3\u30c3\u30b0\u30b5\u30a4\u30c8\u3067\u958b\u50ac\u3055\u308c\u305f2024\u56fd\u969b\u822a\u7a7a\u5b87\u5b99\u5c55\uff08JA2024\uff09\u3000KAI\u30d6\u30fc\u30b9\u5185\u306b\u3066\u3002",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Korea_Aerospace_Industries_KF-21_Boramae_%28scale_model%29_left_front_view_in_KAI_booth_of_JA2024_at_Tokyo_Big_Sight_October_19%2C_2024_01.jpg/1280px-Korea_Aerospace_Industries_KF-21_Boramae_%28scale_model%29_left_front_view_in_KAI_booth_of_JA2024_at_Tokyo_Big_Sight_October_19%2C_2024_01.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Korea_Aerospace_Industries_KF-21_Boramae_%28scale_model%29_left_front_view_in_KAI_booth_of_JA2024_at_Tokyo_Big_Sight_October_19%2C_2024_01.jpg",
+      "width": 5408,
+      "height": 3600,
+      "title": "Korea Aerospace Industries KF-21 Boramae (scale model) left front view in KAI booth of JA2024 at Tokyo Big Sight October 19, 2024 01.jpg",
+      "description": "\u97d3\u56fd\u822a\u7a7a\u5b87\u5b99\u7523\u696d\uff08KAI\uff09\u3000KF-21\u30dd\u30e9\u30e1\uff081/10\u30b9\u30b1\u30fc\u30eb\u6a21\u578b\uff09\u3000\u5de6\u524d\u9762\u30022024\u5e7410\u670819\u65e5\u3000\u6771\u4eac\u30d3\u30c3\u30b0\u30b5\u30a4\u30c8\u3067\u958b\u50ac\u3055\u308c\u305f2024\u56fd\u969b\u822a\u7a7a\u5b87\u5b99\u5c55\uff08JA2024\uff09\u3000KAI\u30d6\u30fc\u30b9\u5185\u306b\u3066\u3002",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Korea_Aerospace_Industries_KF-21_Boramae_%28scale_model%29_left_front_view_in_KAI_booth_of_JA2024_at_Tokyo_Big_Sight_October_19%2C_2024_02.jpg/1280px-Korea_Aerospace_Industries_KF-21_Boramae_%28scale_model%29_left_front_view_in_KAI_booth_of_JA2024_at_Tokyo_Big_Sight_October_19%2C_2024_02.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/25/Korea_Aerospace_Industries_KF-21_Boramae_%28scale_model%29_left_front_view_in_KAI_booth_of_JA2024_at_Tokyo_Big_Sight_October_19%2C_2024_02.jpg",
+      "width": 5408,
+      "height": 3600,
+      "title": "Korea Aerospace Industries KF-21 Boramae (scale model) left front view in KAI booth of JA2024 at Tokyo Big Sight October 19, 2024 02.jpg",
+      "description": "\u97d3\u56fd\u822a\u7a7a\u5b87\u5b99\u7523\u696d\uff08KAI\uff09\u3000KF-21\u30dd\u30e9\u30e1\uff081/10\u30b9\u30b1\u30fc\u30eb\u6a21\u578b\uff09\u3000\u5de6\u524d\u9762\u30022024\u5e7410\u670819\u65e5\u3000\u6771\u4eac\u30d3\u30c3\u30b0\u30b5\u30a4\u30c8\u3067\u958b\u50ac\u3055\u308c\u305f2024\u56fd\u969b\u822a\u7a7a\u5b87\u5b99\u5c55\uff08JA2024\uff09\u3000KAI\u30d6\u30fc\u30b9\u5185\u306b\u3066\u3002",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Korea_Aerospace_Industries_KF-21_Boramae_%28scale_model%29_left_rear_view_in_KAI_booth_of_JA2024_at_Tokyo_Big_Sight_October_19%2C_2024.jpg/1280px-Korea_Aerospace_Industries_KF-21_Boramae_%28scale_model%29_left_rear_view_in_KAI_booth_of_JA2024_at_Tokyo_Big_Sight_October_19%2C_2024.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Korea_Aerospace_Industries_KF-21_Boramae_%28scale_model%29_left_rear_view_in_KAI_booth_of_JA2024_at_Tokyo_Big_Sight_October_19%2C_2024.jpg",
+      "width": 5106,
+      "height": 2872,
+      "title": "Korea Aerospace Industries KF-21 Boramae (scale model) left rear view in KAI booth of JA2024 at Tokyo Big Sight October 19, 2024.jpg",
+      "description": "\u97d3\u56fd\u822a\u7a7a\u5b87\u5b99\u7523\u696d\uff08KAI\uff09\u3000KF-21\u30dd\u30e9\u30e1\uff081/10\u30b9\u30b1\u30fc\u30eb\u6a21\u578b\uff09\u3000\u5de6\u5f8c\u90e8\u30022024\u5e7410\u670819\u65e5\u3000\u6771\u4eac\u30d3\u30c3\u30b0\u30b5\u30a4\u30c8\u3067\u958b\u50ac\u3055\u308c\u305f2024\u56fd\u969b\u822a\u7a7a\u5b87\u5b99\u5c55\uff08JA2024\uff09\u3000KAI\u30d6\u30fc\u30b9\u5185\u306b\u3066\u3002",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Korea_Aerospace_Industries_KF-21_Boramae_%28scale_model%29_right_front_low-angle_view_in_KAI_booth_of_JA2024_at_Tokyo_Big_Sight_October_19%2C_2024_01.jpg/1280px-Korea_Aerospace_Industries_KF-21_Boramae_%28scale_model%29_right_front_low-angle_view_in_KAI_booth_of_JA2024_at_Tokyo_Big_Sight_October_19%2C_2024_01.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Korea_Aerospace_Industries_KF-21_Boramae_%28scale_model%29_right_front_low-angle_view_in_KAI_booth_of_JA2024_at_Tokyo_Big_Sight_October_19%2C_2024_01.jpg",
+      "width": 5408,
+      "height": 3600,
+      "title": "Korea Aerospace Industries KF-21 Boramae (scale model) right front low-angle view in KAI booth of JA2024 at Tokyo Big Sight October 19, 2024 01.jpg",
+      "description": "\u97d3\u56fd\u822a\u7a7a\u5b87\u5b99\u7523\u696d\uff08KAI\uff09\u3000KF-21\u30dd\u30e9\u30e1\uff081/10\u30b9\u30b1\u30fc\u30eb\u6a21\u578b\uff09\u3000\u53f3\u524d\u9762\u30ed\u30fc\u30a2\u30f3\u30b0\u30eb\u30022024\u5e7410\u670819\u65e5\u3000\u6771\u4eac\u30d3\u30c3\u30b0\u30b5\u30a4\u30c8\u3067\u958b\u50ac\u3055\u308c\u305f2024\u56fd\u969b\u822a\u7a7a\u5b87\u5b99\u5c55\uff08JA2024\uff09\u3000KAI\u30d6\u30fc\u30b9\u5185\u306b\u3066\u3002",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Korea_Aerospace_Industries_KF-21_Boramae_%28scale_model%29_right_front_low-angle_view_in_KAI_booth_of_JA2024_at_Tokyo_Big_Sight_October_19%2C_2024_02.jpg/1280px-Korea_Aerospace_Industries_KF-21_Boramae_%28scale_model%29_right_front_low-angle_view_in_KAI_booth_of_JA2024_at_Tokyo_Big_Sight_October_19%2C_2024_02.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Korea_Aerospace_Industries_KF-21_Boramae_%28scale_model%29_right_front_low-angle_view_in_KAI_booth_of_JA2024_at_Tokyo_Big_Sight_October_19%2C_2024_02.jpg",
+      "width": 5408,
+      "height": 3600,
+      "title": "Korea Aerospace Industries KF-21 Boramae (scale model) right front low-angle view in KAI booth of JA2024 at Tokyo Big Sight October 19, 2024 02.jpg",
+      "description": "\u97d3\u56fd\u822a\u7a7a\u5b87\u5b99\u7523\u696d\uff08KAI\uff09\u3000KF-21\u30dd\u30e9\u30e1\uff081/10\u30b9\u30b1\u30fc\u30eb\u6a21\u578b\uff09\u3000\u53f3\u524d\u9762\u30ed\u30fc\u30a2\u30f3\u30b0\u30eb\u30022024\u5e7410\u670819\u65e5\u3000\u6771\u4eac\u30d3\u30c3\u30b0\u30b5\u30a4\u30c8\u3067\u958b\u50ac\u3055\u308c\u305f2024\u56fd\u969b\u822a\u7a7a\u5b87\u5b99\u5c55\uff08JA2024\uff09\u3000KAI\u30d6\u30fc\u30b9\u5185\u306b\u3066\u3002",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/2024-09-25_KF-21_Boramae_003.jpg/1280px-2024-09-25_KF-21_Boramae_003.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/d5/2024-09-25_KF-21_Boramae_003.jpg",
+      "width": 3685,
+      "height": 1800,
+      "title": "2024-09-25 KF-21 Boramae 003.jpg",
+      "description": "A Scale Model of the KF-21 Boramae Aircraft with Republic of Korea Air Force (ROKAF) Markings and with Manned-Unmanned Teaming (MUM-T) Drones at the Asian Defense and Security Event (ADAS) 2024 in Pas",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/KF-21_Boramae_First_Production.jpg/1280px-KF-21_Boramae_First_Production.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/0c/KF-21_Boramae_First_Production.jpg",
+      "width": 6566,
+      "height": 4377,
+      "title": "KF-21 Boramae First Production.jpg",
+      "description": "KF-21 \ubcf4\ub77c\ub9e4 \ucd5c\ucd08 \uc591\uc0b0",
+      "license": "KOGL Type 1",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/14/KF-21_Boramae_air-to-surface_armament_configuration.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/14/KF-21_Boramae_air-to-surface_armament_configuration.jpg",
+      "width": 601,
+      "height": 796,
+      "title": "KF-21 Boramae air-to-surface armament configuration.jpg",
+      "description": "A variety of air-to-surface munitions configurations of the KF-21 Boramae fighter",
+      "license": "KOGL Type 1",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d6/KF-21_Boramae_prototype_aircraft.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/d6/KF-21_Boramae_prototype_aircraft.jpg",
+      "width": 795,
+      "height": 286,
+      "title": "KF-21 Boramae prototype aircraft.jpg",
+      "description": "KF-21 Boramae prototype aircraft",
+      "license": "KOGL Type 1",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/The_canopy_of_the_KF-21_Boramae.png/1280px-The_canopy_of_the_KF-21_Boramae.png",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/The_canopy_of_the_KF-21_Boramae.png",
+      "width": 3840,
+      "height": 2160,
+      "title": "The canopy of the KF-21 Boramae.png",
+      "description": "KF-21 Boramae's canopy",
+      "license": "CC BY 3.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/The_radome_of_the_KF-21_Boramae.png/1280px-The_radome_of_the_KF-21_Boramae.png",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/f7/The_radome_of_the_KF-21_Boramae.png",
+      "width": 3840,
+      "height": 2160,
+      "title": "The radome of the KF-21 Boramae.png",
+      "description": "The radome of the KF-21 Boramae",
+      "license": "CC BY 3.0",
+      "source": "wikimedia"
+    }
+  ]
+}
