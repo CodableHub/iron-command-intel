@@ -1,0 +1,323 @@
+{
+  "id": 212,
+  "slug": "phl-03-mlrs",
+  "name": "PHL-03 multiple rocket launcher",
+  "designation": "PHL-03 (A100/AR2 export)",
+  "type": "artillery",
+  "country": "China",
+  "operator": "People's Liberation Army Ground Force",
+  "overview_md": "The PHL-03 is the PLA's heavy 300 mm multiple rocket launcher \u2014 a Chinese development closely modelled on Russia's BM-30 Smerch, and for years the long-range area-fire backbone of Chinese group-army artillery. It bridges the gap between divisional tube and rocket artillery and the newer, longer-range guided PHL-191, providing massed firepower at operational depth.\n\nMounted on a heavy 8\u00d78 truck, the PHL-03 carries twelve 300 mm rockets and can saturate a target area at ranges from roughly 70 km out to around 130 km with extended and fire-correction rounds. A single battery delivers a devastating volume of fire against troop concentrations, airfields, logistics hubs and other soft or area targets, and the system has been widely exported (as the A100/AR2 family) to a range of customers.\n\nFor an analyst, the PHL-03 represents the PLA's earlier generation of long-range rocket fires \u2014 proven, numerous and still capable, even as the modular guided PHL-191 takes over the cutting edge with far greater range and precision. Together they give Chinese ground forces a deep, layered rocket-artillery capability, from the saturating area fire of the PHL-03 to the precision long-range strike of the PHL-191.",
+  "specs_json": {
+    "additional": {
+      "calibre": "300 mm rockets",
+      "rockets_per_launcher": "12",
+      "range": "~70\u2013130 km (extended/correction rounds)",
+      "platform": "Heavy 8x8 truck launcher",
+      "lineage": "Modelled on Russia's BM-30 Smerch",
+      "export": "A100 / AR2 family"
+    }
+  },
+  "armament_json": [
+    {
+      "category": "Rocket",
+      "name": "300 mm rocket",
+      "type": "long-range artillery rocket",
+      "range_km": 130,
+      "notes": "12 per launcher; fire-correction variants"
+    }
+  ],
+  "variants_json": [
+    {
+      "name": "PHL-03",
+      "years": "2004\u2013",
+      "key_changes": "300 mm Smerch-class heavy MLRS",
+      "status": "active"
+    },
+    {
+      "name": "A100 / AR2 (export)",
+      "years": "2000s",
+      "key_changes": "Export variants",
+      "status": "active"
+    }
+  ],
+  "fleet_status_json": [],
+  "cost_usd": 0.0,
+  "unit_count": 0,
+  "first_commissioned": "2004",
+  "builder": "NORINCO",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Baggage_Handlers_PHL_%2835035579860%29.jpg",
+  "wiki_url": "https://en.wikipedia.org/wiki/PHL-03",
+  "sources_json": [
+    "https://en.wikipedia.org/wiki/PHL-03"
+  ],
+  "comparison_tags": [
+    "artillery",
+    "mlrs",
+    "rocket-artillery",
+    "long-range",
+    "china",
+    "plagf"
+  ],
+  "created_at": "2026-05-21 10:06:50",
+  "updated_at": "2026-05-21T10:06:50.841157",
+  "news": [],
+  "events": [],
+  "ic_coverage": [],
+  "combat_history": [
+    {
+      "date": "ongoing",
+      "event": "No combat use; long the long-range rocket backbone of PLA group-army artillery and widely exported.",
+      "significance": "Capability assessed from fielding and exports."
+    }
+  ],
+  "modernization": [
+    {
+      "program": "Succession by PHL-191",
+      "status": "in-progress",
+      "timeline": "2020s",
+      "description": "The guided modular PHL-191 takes the cutting edge while the PHL-03 remains in service.",
+      "impact": "Layers proven area fire with new precision long-range fires."
+    }
+  ],
+  "vulnerabilities": [
+    {
+      "area": "Counter-battery exposure",
+      "description": "Large signature on firing; vulnerable if static.",
+      "context": "Located quickly by modern sensors.",
+      "mitigation": "Shoot-and-scoot."
+    },
+    {
+      "area": "Unguided dispersion",
+      "description": "Largely an area weapon with dispersion.",
+      "context": "Less precise than guided systems.",
+      "mitigation": "Fire-correction rounds; PHL-191 for precision."
+    }
+  ],
+  "operational_patterns": {
+    "typical_deployment": "Massed long-range area rocket fire at operational depth for group-army artillery.",
+    "key_operating_areas": [
+      "Chinese mainland",
+      "China\u2013India border",
+      "operational-depth fires"
+    ],
+    "typical_task_group": "Group-army artillery brigades; complemented by the guided PHL-191.",
+    "readiness_notes": "Widely fielded; exported."
+  },
+  "peer_comparisons": [
+    {
+      "platform": "BM-30 Smerch",
+      "country": "Russia",
+      "relationship": "design parent",
+      "key_differences": "The PHL-03 is China's Smerch-class 300 mm MLRS.",
+      "video_angle": "China's Smerch."
+    },
+    {
+      "platform": "PHL-191 multiple rocket launcher",
+      "country": "China",
+      "relationship": "successor",
+      "key_differences": "The PHL-191 offers far greater range, modularity and precision; the PHL-03 is the proven area-fire predecessor.",
+      "video_angle": "China's rocket-artillery generations."
+    },
+    {
+      "platform": "Pinaka multiple rocket launcher",
+      "country": "India",
+      "relationship": "regional context",
+      "key_differences": "India's lighter 214 mm system; the PHL-03 is heavier and longer-ranged.",
+      "video_angle": "Rocket artillery across Asia."
+    }
+  ],
+  "search_keywords": [
+    "PHL-03",
+    "PHL03",
+    "A100 rocket",
+    "AR2 MLRS",
+    "Chinese 300mm rocket",
+    "PLA rocket artillery",
+    "Smerch China"
+  ],
+  "doctrine": {
+    "role": "Heavy 300 mm multiple rocket launcher for massed long-range area fire.",
+    "employment": "Saturating rocket salvos against area and soft targets at operational depth.",
+    "design_philosophy": "Proven Smerch-class area fire \u2014 volume over precision.",
+    "threat_context": "The earlier generation of PLA long-range rocket fires, layered with the guided PHL-191.",
+    "comparison_frame": "Read against Russia's Smerch (parent), China's PHL-191 (successor) and India's Pinaka."
+  },
+  "curated_sources": [
+    {
+      "title": "PHL-03 \u2014 Wikipedia",
+      "type": "reference",
+      "url": "https://en.wikipedia.org/wiki/PHL-03",
+      "relevance": "Specs and lineage",
+      "priority": "reference"
+    },
+    {
+      "title": "IISS Military Balance \u2014 China land forces",
+      "type": "research",
+      "url": "https://www.iiss.org/publications/the-military-balance",
+      "relevance": "Rocket-artillery inventory",
+      "priority": "recommended"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Baggage_Handlers_PHL_%2835035579860%29.jpg/1280px-Baggage_Handlers_PHL_%2835035579860%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Baggage_Handlers_PHL_%2835035579860%29.jpg",
+      "width": 1600,
+      "height": 2400,
+      "title": "Baggage Handlers PHL (35035579860).jpg",
+      "description": "Baggage Handlers PHL",
+      "license": "CC BY-SA 2.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/PHL-03_Multiple_rocket_launchers_20170902.jpg/1280px-PHL-03_Multiple_rocket_launchers_20170902.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/PHL-03_Multiple_rocket_launchers_20170902.jpg",
+      "width": 2560,
+      "height": 1920,
+      "title": "PHL-03 Multiple rocket launchers 20170902.jpg",
+      "description": "\u200b\u5728\u4e2d\u56fd\u4eba\u6c11\u9769\u547d\u519b\u4e8b\u535a\u7269\u9986\u7eaa\u5ff5\u4e2d\u56fd\u4eba\u6c11\u89e3\u653e\u519b\u5efa\u519b90\u5468\u5e74\u4e3b\u9898\u5c55\u89c8\u5c55\u51fa\u7684PHL-03 300\u6beb\u7c73\u8fdc\u7a0b\u591a\u7ba1\u706b\u7bad\u70ae\u3002",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/54/PHL-03_heavy_multiple_rocket_launcher.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/54/PHL-03_heavy_multiple_rocket_launcher.jpg",
+      "width": 1200,
+      "height": 800,
+      "title": "PHL-03 heavy multiple rocket launcher.jpg",
+      "description": "PHL-03 heavy multiple rocket launcher.",
+      "license": "CC BY 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/PHL_final_2014_Sanok_-_Tychy_audience.jpg/1280px-PHL_final_2014_Sanok_-_Tychy_audience.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/74/PHL_final_2014_Sanok_-_Tychy_audience.jpg",
+      "width": 3872,
+      "height": 2592,
+      "title": "PHL final 2014 Sanok - Tychy audience.jpg",
+      "description": "Sz\u00f3sty mecz fina\u0142owy o mistrzostwo Polski w hokeju na lodzie w sezonie PHL 2013/2014: Ciarko PBS Bank KH Sanok \u2013 GKS Tychy (2:0), 3 kwietnia 2014 w Sanoku (Arena Sanok). Z\u0142oty medal dla zespo\u0142u z Sano",
+      "license": "CC BY-SA 3.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/PHL_final_2014_Sanok_-_Tychy_celebration.jpg/1280px-PHL_final_2014_Sanok_-_Tychy_celebration.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/PHL_final_2014_Sanok_-_Tychy_celebration.jpg",
+      "width": 3872,
+      "height": 2592,
+      "title": "PHL final 2014 Sanok - Tychy celebration.jpg",
+      "description": "Sz\u00f3sty mecz fina\u0142owy o mistrzostwo Polski w hokeju na lodzie w sezonie PHL 2013/2014: Ciarko PBS Bank KH Sanok \u2013 GKS Tychy (2:0), 3 kwietnia 2014 w Sanoku (Arena Sanok)",
+      "license": "CC BY-SA 3.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/PHL_final_2014_Sanok_-_Tychy_time_58.jpg/1280px-PHL_final_2014_Sanok_-_Tychy_time_58.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/75/PHL_final_2014_Sanok_-_Tychy_time_58.jpg",
+      "width": 3872,
+      "height": 2592,
+      "title": "PHL final 2014 Sanok - Tychy time 58.jpg",
+      "description": "Sz\u00f3sty mecz fina\u0142owy o mistrzostwo Polski w hokeju na lodzie w sezonie PHL 2013/2014: Ciarko PBS Bank KH Sanok \u2013 GKS Tychy (2:0), 3 kwietnia 2014 w Sanoku (Arena Sanok). Z\u0142oty medal dla zespo\u0142u z Sano",
+      "license": "CC BY-SA 3.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Phl_dgebouw.jpg/1280px-Phl_dgebouw.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/00/Phl_dgebouw.jpg",
+      "width": 3072,
+      "height": 2304,
+      "title": "Phl dgebouw.jpg",
+      "description": "PHL Campus Elfde-Linie",
+      "license": "CC BY-SA 3.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Phl_restaurant.jpg/1280px-Phl_restaurant.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Phl_restaurant.jpg",
+      "width": 3072,
+      "height": 2304,
+      "title": "Phl restaurant.jpg",
+      "description": "PHL Restaurant Campus Elfde-Linie",
+      "license": "CC BY-SA 3.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/STS_Sanok_vs._GKS_Tychy_%28PHL%29_2015-12-22e.jpg/1280px-STS_Sanok_vs._GKS_Tychy_%28PHL%29_2015-12-22e.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/89/STS_Sanok_vs._GKS_Tychy_%28PHL%29_2015-12-22e.jpg",
+      "width": 3872,
+      "height": 2592,
+      "title": "STS Sanok vs. GKS Tychy (PHL) 2015-12-22e.jpg",
+      "description": "Mecz STS Sanok - GKS Tychy (Arena Sanok, 22 grudnia 2015)",
+      "license": "CC BY-SA 3.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Sri_Lanka_army_mrls_phl_81_action_in_civil_war_era.jpg/1280px-Sri_Lanka_army_mrls_phl_81_action_in_civil_war_era.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Sri_Lanka_army_mrls_phl_81_action_in_civil_war_era.jpg",
+      "width": 1600,
+      "height": 720,
+      "title": "Sri Lanka army mrls phl 81 action in civil war era.jpg",
+      "description": "Sri Lanka army mrls phl  81 in action in cvil war",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/A_storm_at_Pors-Loubous.jpg/1280px-A_storm_at_Pors-Loubous.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/88/A_storm_at_Pors-Loubous.jpg",
+      "width": 2654,
+      "height": 1989,
+      "title": "A storm at Pors-Loubous.jpg",
+      "description": "A storm at <i>Pors-Loubous</i>, a small harbour in the municipality of <a href=\"https://en.wikipedia.org/wiki/Plogoff\" class=\"extiw\" title=\"en:Plogoff\">Plogoff</a> (<a href=\"https://en.wikipedia.org/w",
+      "license": "CC BY 1.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Air-to-air_photo_of_a_Sukhoi_Superjet_100_%2897004%29_over_Italy.jpg/1280px-Air-to-air_photo_of_a_Sukhoi_Superjet_100_%2897004%29_over_Italy.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/77/Air-to-air_photo_of_a_Sukhoi_Superjet_100_%2897004%29_over_Italy.jpg",
+      "width": 4000,
+      "height": 2666,
+      "title": "Air-to-air photo of a Sukhoi Superjet 100 (97004) over Italy.jpg",
+      "description": "A SCAC/Alenia Aermacchi <b>Sukhoi Superjet 100</b> (RA-97004) flying off the coast of <a href=\"https://en.wikipedia.org/wiki/Italy\" class=\"extiw\" title=\"en:Italy\">Italy</a> near <a href=\"https://en.wi",
+      "license": "CC BY-SA 2.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Confederate_100_Dollars.jpg/1280px-Confederate_100_Dollars.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Confederate_100_Dollars.jpg",
+      "width": 4476,
+      "height": 1908,
+      "title": "Confederate 100 Dollars.jpg",
+      "description": "A One Hundred Dollar <a href=\"https://en.wikipedia.org/wiki/Confederate_States_of_America\" class=\"extiw\" title=\"en:Confederate States of America\">Confederate States of America</a> banknote dated Decem",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Leichtathletik_WM_2013_Moskau_100_m_Vorlauf.jpg/1280px-Leichtathletik_WM_2013_Moskau_100_m_Vorlauf.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Leichtathletik_WM_2013_Moskau_100_m_Vorlauf.jpg",
+      "width": 2450,
+      "height": 1067,
+      "title": "Leichtathletik WM 2013 Moskau 100 m Vorlauf.jpg",
+      "description": "Usain Bolt (Jamaica) during the 100 m heat of the 14th IAAF World Championships in Athletics in Moscow, Russia",
+      "license": "CC BY-SA 3.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Rainbow_yarn_for_knitting%2C_display_in_front_of_a_needlework_shop_in_Graz%2C_Austria%2C_GW23-100.jpg/1280px-Rainbow_yarn_for_knitting%2C_display_in_front_of_a_needlework_shop_in_Graz%2C_Austria%2C_GW23-100.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/42/Rainbow_yarn_for_knitting%2C_display_in_front_of_a_needlework_shop_in_Graz%2C_Austria%2C_GW23-100.jpg",
+      "width": 5472,
+      "height": 3648,
+      "title": "Rainbow yarn for knitting, display in front of a needlework shop in Graz, Austria, GW23-100.jpg",
+      "description": "Rainbow yarn for knitting, display in front of a needlework shop in Graz, Austria\n<div class=\"description es\" dir=\"ltr\" lang=\"es\"><span class=\"language es\" title=\"Spanish\"><b>Espa\u00f1ol: </b></span> Hilo",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Smaky_100_IMG_4155.jpg/1280px-Smaky_100_IMG_4155.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/df/Smaky_100_IMG_4155.jpg",
+      "width": 6000,
+      "height": 6000,
+      "title": "Smaky 100 IMG 4155.jpg",
+      "description": "<p><a href=\"https://en.wikipedia.org/wiki/Smaky\" class=\"extiw\" title=\"en:Smaky\">Smaky</a>-100 computer.\n</p>\nOn display at the <a rel=\"nofollow\" class=\"external text\" href=\"http://www.bolo.ch\">Mus\u00e9e B",
+      "license": "CC BY-SA 2.0 fr",
+      "source": "wikimedia"
+    }
+  ]
+}

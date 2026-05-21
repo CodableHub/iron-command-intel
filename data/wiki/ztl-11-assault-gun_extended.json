@@ -1,0 +1,258 @@
+{
+  "combat_history": [
+    {
+      "date": "2010s\u2013",
+      "event": "Equips PLA medium wheeled combined-arms brigades and Marine Corps units; featured in parades and exercises.",
+      "significance": "Hardware of China's rapid-reaction wheeled forces."
+    }
+  ],
+  "modernization": [
+    {
+      "program": "Wheeled brigade fielding",
+      "status": "in-progress",
+      "timeline": "ongoing",
+      "description": "Continued fielding across medium brigades and marines.",
+      "impact": "Gives light forces deployable direct fire support."
+    }
+  ],
+  "vulnerabilities": [
+    {
+      "area": "Light protection",
+      "description": "Wheeled chassis limits armour versus a tank.",
+      "context": "Vulnerable to heavy anti-armour fire.",
+      "mitigation": "Speed/mobility and avoidance; not an MBT substitute."
+    },
+    {
+      "area": "105 mm limits",
+      "description": "The 105 mm is weaker than a 125 mm against modern MBTs.",
+      "context": "A fire-support gun, not a tank-killer.",
+      "mitigation": "Gun-launched ATGM."
+    }
+  ],
+  "operational_patterns": {
+    "typical_deployment": "Rapid-reaction direct fire support with wheeled medium brigades and marines.",
+    "key_operating_areas": [
+      "Chinese mainland",
+      "rapid-reaction theatres",
+      "amphibious/marine units"
+    ],
+    "typical_task_group": "Type 08 wheeled combined-arms brigades; complements tracked tanks.",
+    "readiness_notes": "Widely fielded."
+  },
+  "peer_comparisons": [
+    {
+      "platform": "M1128 Stryker MGS",
+      "country": "United States",
+      "relationship": "class analogue",
+      "key_differences": "Both are wheeled 105 mm assault guns for light forces; the ZTL-11 is the PLA's equivalent.",
+      "video_angle": "China's Stryker MGS."
+    },
+    {
+      "platform": "Centauro",
+      "country": "Italy",
+      "relationship": "class peer",
+      "key_differences": "A pioneering wheeled tank-destroyer the ZTL-11 parallels.",
+      "video_angle": "The rise of the wheeled assault gun."
+    },
+    {
+      "platform": "Type 15 light tank",
+      "country": "China",
+      "relationship": "tracked stablemate",
+      "key_differences": "The Type 15 is a tracked light tank; the ZTL-11 trades tracks for wheeled road speed.",
+      "video_angle": "China's light direct-fire vehicles."
+    }
+  ],
+  "search_keywords": [
+    "ZTL-11",
+    "Type 11 assault gun",
+    "ST1",
+    "Chinese wheeled assault gun",
+    "ZBL-08",
+    "105mm wheeled"
+  ],
+  "doctrine": {
+    "role": "Wheeled rapid-reaction assault gun providing deployable direct fire support to light forces.",
+    "employment": "Self-deploys over roads/by air; engages armour, fortifications and infantry with a 105 mm gun.",
+    "design_philosophy": "Trade tracked protection for wheeled mobility and rapid deployability.",
+    "threat_context": "Gives China's light and marine forces a fast direct-fire punch for expeditionary and peripheral operations.",
+    "comparison_frame": "Read against the US Stryker MGS, Italy's Centauro and China's tracked Type 15."
+  },
+  "curated_sources": [
+    {
+      "title": "ZTL-11 \u2014 Wikipedia",
+      "type": "reference",
+      "url": "https://en.wikipedia.org/wiki/ZTL-11",
+      "relevance": "Specs and role",
+      "priority": "reference"
+    },
+    {
+      "title": "IISS Military Balance \u2014 China land forces",
+      "type": "research",
+      "url": "https://www.iiss.org/publications/the-military-balance",
+      "relevance": "Wheeled-brigade inventory",
+      "priority": "recommended"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Chinese_ZTL-11.jpg/1280px-Chinese_ZTL-11.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Chinese_ZTL-11.jpg",
+      "width": 1600,
+      "height": 1200,
+      "title": "Chinese ZTL-11.jpg",
+      "description": "\u200bZTL-11\u8f6e\u5f0f\u88c5\u7532\u7a81\u51fb\u8f66\uff0c\u62cd\u6444\u4e8e\u4e2d\u56fd\u4eba\u6c11\u9769\u547d\u519b\u4e8b\u535a\u7269\u9986",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Vostok-2018_military_manoeuvres_%282018-09-13%29_09.jpg/1280px-Vostok-2018_military_manoeuvres_%282018-09-13%29_09.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Vostok-2018_military_manoeuvres_%282018-09-13%29_09.jpg",
+      "width": 1880,
+      "height": 1160,
+      "title": "Vostok-2018 military manoeuvres (2018-09-13) 09.jpg",
+      "description": "\u041e\u0441\u043d\u043e\u0432\u043d\u043e\u0439 \u044d\u0442\u0430\u043f \u043c\u0430\u043d\u0451\u0432\u0440\u043e\u0432 \u00ab\u0412\u043e\u0441\u0442\u043e\u043a-2018\u00bb \u043d\u0430 \u043f\u043e\u043b\u0438\u0433\u043e\u043d\u0435 \u0426\u0443\u0433\u043e\u043b \u0432 \u0417\u0430\u0431\u0430\u0439\u043a\u0430\u043b\u044c\u0441\u043a\u043e\u043c \u043a\u0440\u0430\u0435.",
+      "license": "CC BY 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Xibu_zbl08_2.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Xibu_zbl08_2.jpg",
+      "width": 1200,
+      "height": 675,
+      "title": "Xibu zbl08 2.jpg",
+      "description": "Russian and Chinese military participating in Sibu/Interaction 2021",
+      "license": "CC BY 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/87/Xibu_ztl11.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/87/Xibu_ztl11.jpg",
+      "width": 1200,
+      "height": 795,
+      "title": "Xibu ztl11.jpg",
+      "description": "Russian and Chinese military participating in Sibu/Interaction 2021",
+      "license": "CC BY 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Xibu_ztl11_2.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Xibu_ztl11_2.jpg",
+      "width": 1200,
+      "height": 795,
+      "title": "Xibu ztl11 2.jpg",
+      "description": "Russian and Chinese military participating in Sibu/Interaction 2021",
+      "license": "CC BY 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Xibu_ztl11_3.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Xibu_ztl11_3.jpg",
+      "width": 1200,
+      "height": 795,
+      "title": "Xibu ztl11 3.jpg",
+      "description": "Russian and Chinese military participating in Sibu/Interaction 2021",
+      "license": "CC BY 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/ba/ZBL-08.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/ba/ZBL-08.jpg",
+      "width": 1200,
+      "height": 800,
+      "title": "ZBL-08.jpg",
+      "description": "ZBL-08 Chinese IFV.",
+      "license": "CC BY 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/ZTL-11_Assault_Vehicle_20170919.jpg/1280px-ZTL-11_Assault_Vehicle_20170919.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/ZTL-11_Assault_Vehicle_20170919.jpg",
+      "width": 2700,
+      "height": 1800,
+      "title": "ZTL-11 Assault Vehicle 20170919.jpg",
+      "description": "\u200bZTL-11 \u8f6e\u5f0f\u88c5\u7532\u7a81\u51fb\u8f66\uff0c\u62cd\u6444\u4e8e\u4e2d\u56fd\u4eba\u6c11\u9769\u547d\u519b\u4e8b\u535a\u7269\u9986\u3002",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Confederate_and_skull_imagery_rally_against_gun_control.jpg/1280px-Confederate_and_skull_imagery_rally_against_gun_control.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/06/Confederate_and_skull_imagery_rally_against_gun_control.jpg",
+      "width": 7360,
+      "height": 4912,
+      "title": "Confederate and skull imagery rally against gun control.jpg",
+      "description": "Confederate and skull imagery at Rally Against Gun Control Minnesota State Capitol<br>\n<p>St. Paul, Minnesota<br>\nApril 28, 2018<br>\nAbout 1500 gun owners gathered at the Minnesota Capitol to protest ",
+      "license": "CC BY 2.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Crowd_at_rally_against_gun_control_at_the_Minnesota_State_Capitol-01.jpg/1280px-Crowd_at_rally_against_gun_control_at_the_Minnesota_State_Capitol-01.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Crowd_at_rally_against_gun_control_at_the_Minnesota_State_Capitol-01.jpg",
+      "width": 7360,
+      "height": 4912,
+      "title": "Crowd at rally against gun control at the Minnesota State Capitol-01.jpg",
+      "description": "Crowd at a rally against gun control at the Minnesota State Capitol<br>\n<p>St. Paul, Minnesota<br>\nApril 28, 2018<br>\nAbout 1500 gun owners gathered at the Minnesota Capitol to protest against any new",
+      "license": "CC BY 2.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Crowd_at_rally_against_gun_control_at_the_Minnesota_State_Capitol-02.jpg/1280px-Crowd_at_rally_against_gun_control_at_the_Minnesota_State_Capitol-02.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/25/Crowd_at_rally_against_gun_control_at_the_Minnesota_State_Capitol-02.jpg",
+      "width": 6152,
+      "height": 4614,
+      "title": "Crowd at rally against gun control at the Minnesota State Capitol-02.jpg",
+      "description": "Rally Against Gun Control at the Minnesota State Capitol<br>\n<p>St. Paul, Minnesota<br>\nApril 28, 2018<br>\nAbout 1500 gun owners gathered at the Minnesota Capitol to protest against any new gun contro",
+      "license": "CC BY 2.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Flags_at_rally_against_gun_control_at_the_Minnesota_State_Capitol.jpg/1280px-Flags_at_rally_against_gun_control_at_the_Minnesota_State_Capitol.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Flags_at_rally_against_gun_control_at_the_Minnesota_State_Capitol.jpg",
+      "width": 6549,
+      "height": 4371,
+      "title": "Flags at rally against gun control at the Minnesota State Capitol.jpg",
+      "description": "Flags at Rally Against Gun Control at the Minnesota State Capitol<br>\n<p>St. Paul, Minnesota<br>\nApril 28, 2018<br>\nAbout 1500 gun owners gathered at the Minnesota Capitol to protest against any new g",
+      "license": "CC BY 2.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Gun_rights_rally_%22come_and_take_it%22_flag_at_the_Minnesota_State_Capitol.jpg/1280px-Gun_rights_rally_%22come_and_take_it%22_flag_at_the_Minnesota_State_Capitol.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/54/Gun_rights_rally_%22come_and_take_it%22_flag_at_the_Minnesota_State_Capitol.jpg",
+      "width": 4362,
+      "height": 4362,
+      "title": "Gun rights rally \"come and take it\" flag at the Minnesota State Capitol.jpg",
+      "description": "Rally Against Gun Control \"Come and Take it\" flag at the Minnesota State Capitol<br>\n<p>St. Paul, Minnesota<br>\nApril 28, 2018<br>\nAbout 1500 gun owners gathered at the Minnesota Capitol to protest ag",
+      "license": "CC BY 2.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/ISU-152_Heavy_Assault_Gun_%2837589244682%29.jpg/1280px-ISU-152_Heavy_Assault_Gun_%2837589244682%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/c1/ISU-152_Heavy_Assault_Gun_%2837589244682%29.jpg",
+      "width": 5270,
+      "height": 3513,
+      "title": "ISU-152 Heavy Assault Gun (37589244682).jpg",
+      "description": "<p>Designer:- Zhozef Kotin / G.N. Moskvin\nDesign No:- Obeikt 241 (Object 241).\nManufacturer:- Chelyabinsk Kirovsk Plant.\nBuilt:- 1943-1947\nTotal production:- 3,242.\nMain armament:- 152.4mm gun-howitze",
+      "license": "CC BY-SA 2.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Man_with_with_fire_arms_at_Gun_rights_rally_at_the_Minnesota_State_Capitol.jpg/1280px-Man_with_with_fire_arms_at_Gun_rights_rally_at_the_Minnesota_State_Capitol.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Man_with_with_fire_arms_at_Gun_rights_rally_at_the_Minnesota_State_Capitol.jpg",
+      "width": 4912,
+      "height": 7360,
+      "title": "Man with with fire arms at Gun rights rally at the Minnesota State Capitol.jpg",
+      "description": "Man with firearms at Gun rights rally at the Minnesota State Capitol<br>\n<p>St. Paul, Minnesota<br>\nApril 28, 2018<br>\nAbout 1500 gun owners gathered at the Minnesota Capitol to protest against any ne",
+      "license": "CC BY 2.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/SU-152_Heavy_Assault_Gun_%2837604673881%29.jpg/1280px-SU-152_Heavy_Assault_Gun_%2837604673881%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/SU-152_Heavy_Assault_Gun_%2837604673881%29.jpg",
+      "width": 5387,
+      "height": 3591,
+      "title": "SU-152 Heavy Assault Gun (37604673881).jpg",
+      "description": "<p>Type:- Self-propelled heavy howitzer\nProject No:- Object 236.\nMaufacturer:- Chelyabinsk Kirovsk Plant\nBuilt:- 1943\nIn service:- 1943-1954\nTotal production:- 670-704 (sources vary)\nMain armament:- 1",
+      "license": "CC BY-SA 2.0",
+      "source": "wikimedia"
+    }
+  ]
+}

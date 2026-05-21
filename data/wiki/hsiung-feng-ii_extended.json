@@ -1,0 +1,207 @@
+{
+  "combat_history": [
+    {
+      "date": "ongoing",
+      "event": "No combat use; backbone anti-ship missile of the ROC Navy and coastal defence.",
+      "significance": "Core of Taiwan's sea-denial 'porcupine' strategy."
+    }
+  ],
+  "modernization": [
+    {
+      "program": "Production surge & coastal dispersal",
+      "status": "in-progress",
+      "timeline": "2020s",
+      "description": "Increased production and mobile coastal deployment.",
+      "impact": "Multiplies the anti-ship fires available to contest an invasion."
+    }
+  ],
+  "vulnerabilities": [
+    {
+      "area": "Subsonic speed",
+      "description": "Slower than supersonic missiles, giving defences more reaction time.",
+      "context": "Modern fleet air defence can engage it.",
+      "mitigation": "Sea-skimming, dual seekers, saturation."
+    },
+    {
+      "area": "Targeting under attack",
+      "description": "Coastal targeting infrastructure is itself a target.",
+      "context": "PLA strikes would target sensors.",
+      "mitigation": "Mobile, dispersed, networked launchers."
+    }
+  ],
+  "operational_patterns": {
+    "typical_deployment": "Anti-ship sea denial from frigates, missile boats and concealed coastal batteries in the Taiwan Strait.",
+    "key_operating_areas": [
+      "Taiwan Strait",
+      "waters around Taiwan"
+    ],
+    "typical_task_group": "ROC Navy combatants and coastal-defence missile groups.",
+    "readiness_notes": "Widely fielded; production increasing."
+  },
+  "peer_comparisons": [
+    {
+      "platform": "Hsiung Feng III anti-ship missile",
+      "country": "Taiwan",
+      "relationship": "supersonic sibling",
+      "key_differences": "The HF-3 is the faster supersonic 'carrier killer'; the HF-2 provides cheaper, more numerous subsonic volume.",
+      "video_angle": "Taiwan's anti-ship one-two punch."
+    },
+    {
+      "platform": "RGM-84 Harpoon",
+      "country": "United States",
+      "relationship": "class peer",
+      "key_differences": "Comparable subsonic anti-ship missile; Taiwan operates both Harpoon and the indigenous HF-2.",
+      "video_angle": "Taiwan's anti-ship missiles."
+    },
+    {
+      "platform": "YJ-18 anti-ship cruise missile",
+      "country": "China",
+      "relationship": "adversary counterpart",
+      "key_differences": "The threat fleet's anti-ship missile; the HF-2 is what would strike that fleet.",
+      "video_angle": "The missile duel in the strait."
+    }
+  ],
+  "search_keywords": [
+    "Hsiung Feng II",
+    "HF-2",
+    "Brave Wind",
+    "Taiwan anti-ship missile",
+    "Hsiung Feng IIE",
+    "NCSIST missile"
+  ],
+  "doctrine": {
+    "role": "Indigenous subsonic anti-ship cruise missile \u2014 the workhorse of Taiwan's sea denial.",
+    "employment": "Sea-skimming attack from ships, missile boats and concealed coastal batteries against an invasion fleet.",
+    "design_philosophy": "Numerous, affordable, mobile anti-ship fires \u2014 the 'porcupine' approach.",
+    "threat_context": "Volume fire to make a cross-strait amphibious assault prohibitively costly.",
+    "comparison_frame": "Read with the supersonic HF-3 and against the Harpoon and China's YJ-18."
+  },
+  "curated_sources": [
+    {
+      "title": "Hsiung Feng II \u2014 Wikipedia",
+      "type": "reference",
+      "url": "https://en.wikipedia.org/wiki/Hsiung_Feng_II",
+      "relevance": "Specs and variants",
+      "priority": "reference"
+    },
+    {
+      "title": "CSIS / Taiwan sea-denial analysis",
+      "type": "research",
+      "url": "https://www.csis.org/",
+      "relevance": "Porcupine strategy context",
+      "priority": "recommended"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Covered_ROCN_Hsiung_Feng_II_%26_Hsiung_Feng_III_Anti-Ship_Missile_Launchers_Truck_Display_at_Zuoying_Naval_Base_Ground_20141123a.jpg/1280px-Covered_ROCN_Hsiung_Feng_II_%26_Hsiung_Feng_III_Anti-Ship_Missile_Launchers_Truck_Display_at_Zuoying_Naval_Base_Ground_20141123a.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Covered_ROCN_Hsiung_Feng_II_%26_Hsiung_Feng_III_Anti-Ship_Missile_Launchers_Truck_Display_at_Zuoying_Naval_Base_Ground_20141123a.jpg",
+      "width": 4329,
+      "height": 3247,
+      "title": "Covered ROCN Hsiung Feng II & Hsiung Feng III Anti-Ship Missile Launchers Truck Display at Zuoying Naval Base Ground 20141123a.jpg",
+      "description": "\u200b2014\u5e74\u5de6\u71df\u8ecd\u6e2f\u71df\u5340\u958b\u653e\u6d3b\u52d5\u4e0a\u5348\uff0c\u8266\u968a\u6307\u63ee\u90e8\u64cd\u5834\u4e0a\u8986\u84cb\u507d\u88dd\u7db2\u7684\u6a5f\u52d5\u96c4\u98a8\u4e8c\u578b\u8207\u4e09\u578b\u53cd\u8266\u98db\u5f48\u767c\u5c04\u62d6\u8eca\u3002",
+      "license": "CC0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Hsiung_Feng_II_Anti-Ship_Missile_Display_in_Chengkungling_20111009a.jpg/1280px-Hsiung_Feng_II_Anti-Ship_Missile_Display_in_Chengkungling_20111009a.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Hsiung_Feng_II_Anti-Ship_Missile_Display_in_Chengkungling_20111009a.jpg",
+      "width": 3922,
+      "height": 2938,
+      "title": "Hsiung Feng II Anti-Ship Missile Display in Chengkungling 20111009a.jpg",
+      "description": "\u200b\u9673\u5217\u65bc\u6210\u529f\u5dba\u7684\u96c4\u98a8\u4e8c\u578b\u53cd\u8266\u98db\u5f48\u3002",
+      "license": "CC BY-SA 3.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Hsiung_Feng_II_and_Hsiung_Feng_III_Anti-Ship_Missile_Launchers_aboard_on_Central_Upper_Deck_of_ROCN_Chang_Chien_%28PFG2-1109%29_20170309.jpg/1280px-Hsiung_Feng_II_and_Hsiung_Feng_III_Anti-Ship_Missile_Launchers_aboard_on_Central_Upper_Deck_of_ROCN_Chang_Chien_%28PFG2-1109%29_20170309.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Hsiung_Feng_II_and_Hsiung_Feng_III_Anti-Ship_Missile_Launchers_aboard_on_Central_Upper_Deck_of_ROCN_Chang_Chien_%28PFG2-1109%29_20170309.jpg",
+      "width": 4896,
+      "height": 3264,
+      "title": "Hsiung Feng II and Hsiung Feng III Anti-Ship Missile Launchers aboard on Central Upper Deck of ROCN Chang Chien (PFG2-1109) 20170309.jpg",
+      "description": "\u200b\u98db\u5f48\u5de1\u9632\u8266\u5f35\u9a2b\uff08PFG2-1109\uff09\u4e0a\u7532\u677f\u4e2d\u90e8\u5de6\u5074\u7684\u96c4\u98a8\u4e8c\u578b\u8207\u4e09\u578b\u53cd\u8266\u98db\u5f48\u767c\u5c04\u5668\u3002",
+      "license": "CC0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Hsiung_Feng_II_and_Hsiung_Feng_III_Anti-Ship_Missile_Launchers_aboard_on_Central_Upper_Deck_of_ROCN_Pan_Chao_%28PFG2-1108%29_20150316.jpg/1280px-Hsiung_Feng_II_and_Hsiung_Feng_III_Anti-Ship_Missile_Launchers_aboard_on_Central_Upper_Deck_of_ROCN_Pan_Chao_%28PFG2-1108%29_20150316.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Hsiung_Feng_II_and_Hsiung_Feng_III_Anti-Ship_Missile_Launchers_aboard_on_Central_Upper_Deck_of_ROCN_Pan_Chao_%28PFG2-1108%29_20150316.jpg",
+      "width": 4896,
+      "height": 3264,
+      "title": "Hsiung Feng II and Hsiung Feng III Anti-Ship Missile Launchers aboard on Central Upper Deck of ROCN Pan Chao (PFG2-1108) 20150316.jpg",
+      "description": "\u200b\u98db\u5f48\u5de1\u9632\u8266\u73ed\u8d85\uff08PFG2-1108\uff09\u4e0a\u7532\u677f\u4e2d\u90e8\u7684\u96c4\u98a8\u4e8c\u578b\u8207\u96c4\u98a8\u4e09\u578b\u53cd\u8266\u98db\u5f48\u767c\u5c04\u5668\u3002",
+      "license": "CC0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Hsiung_Feng_II_and_Hsiung_Feng_III_launchers_of_ROCN_PFG2-1110_20190324.jpg/1280px-Hsiung_Feng_II_and_Hsiung_Feng_III_launchers_of_ROCN_PFG2-1110_20190324.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Hsiung_Feng_II_and_Hsiung_Feng_III_launchers_of_ROCN_PFG2-1110_20190324.jpg",
+      "width": 2800,
+      "height": 2100,
+      "title": "Hsiung Feng II and Hsiung Feng III launchers of ROCN PFG2-1110 20190324.jpg",
+      "description": "\u200b\u4e2d\u83ef\u6c11\u570b\u6d77\u8ecd108\u5e74\u6566\u7766\u9060\u822a\u8a13\u7df4\u652f\u968a\u8a2a\u554f\u57fa\u9686\uff0c\u7530\u55ae\u8ecd\u8266\u7532\u677f\u4e2d\u90e8\u7684\u96c4\u98a8\u4e8c\u578b\u8207\u96c4\u98a8\u4e09\u578b\u53cd\u8266\u98db\u5f48\u767c\u5c04\u7bb1\u3002",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/ROCN_Hsiung_Feng_II_%26_Hsiung_Feng_III_Anti-Ship_Missile_Launchers_Trailer_and_Truck_Display_at_Zuoying_Naval_Base_Ground_Left_Front_View_20161112.jpg/1280px-ROCN_Hsiung_Feng_II_%26_Hsiung_Feng_III_Anti-Ship_Missile_Launchers_Trailer_and_Truck_Display_at_Zuoying_Naval_Base_Ground_Left_Front_View_20161112.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/ROCN_Hsiung_Feng_II_%26_Hsiung_Feng_III_Anti-Ship_Missile_Launchers_Trailer_and_Truck_Display_at_Zuoying_Naval_Base_Ground_Left_Front_View_20161112.jpg",
+      "width": 4501,
+      "height": 3001,
+      "title": "ROCN Hsiung Feng II & Hsiung Feng III Anti-Ship Missile Launchers Trailer and Truck Display at Zuoying Naval Base Ground Left Front View 20161112.jpg",
+      "description": "\u200b2016\u5e74\u5de6\u71df\u8ecd\u6e2f\u71df\u5340\u958b\u653e\u6d3b\u52d5\u4e0b\u5348\uff0c\u6d77\u8ecd\u8266\u968a\u6307\u63ee\u90e8\u64cd\u5834\u5c55\u793a\u6a5f\u52d5\u96c4\u98a8\u4e8c\u578b\u8207\u4e09\u578b\u53cd\u8266\u98db\u5f48\u767c\u5c04\u8eca\u8207DAF CF\u5361\u8eca\u5de6\u524d\u65b9\u3002",
+      "license": "CC0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/ROCN_Hsiung_Feng_II_%26_Hsiung_Feng_III_Anti-Ship_Missile_Launchers_Trailer_and_Truck_Display_at_Zuoying_Naval_Base_Ground_Left_Rear_View_20161112.jpg/1280px-ROCN_Hsiung_Feng_II_%26_Hsiung_Feng_III_Anti-Ship_Missile_Launchers_Trailer_and_Truck_Display_at_Zuoying_Naval_Base_Ground_Left_Rear_View_20161112.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/7e/ROCN_Hsiung_Feng_II_%26_Hsiung_Feng_III_Anti-Ship_Missile_Launchers_Trailer_and_Truck_Display_at_Zuoying_Naval_Base_Ground_Left_Rear_View_20161112.jpg",
+      "width": 4600,
+      "height": 3067,
+      "title": "ROCN Hsiung Feng II & Hsiung Feng III Anti-Ship Missile Launchers Trailer and Truck Display at Zuoying Naval Base Ground Left Rear View 20161112.jpg",
+      "description": "\u200b2016\u5e74\u5de6\u71df\u8ecd\u6e2f\u71df\u5340\u958b\u653e\u6d3b\u52d5\u4e0b\u5348\uff0c\u6d77\u8ecd\u8266\u968a\u6307\u63ee\u90e8\u64cd\u5834\u5c55\u793a\u6a5f\u52d5\u96c4\u98a8\u4e8c\u578b\u8207\u4e09\u578b\u53cd\u8266\u98db\u5f48\u767c\u5c04\u8eca\u8207DAF CF\u5361\u8eca\u5de6\u5f8c\u65b9\u3002",
+      "license": "CC0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/ROCN_Hsiung_Feng_II_%26_Hsiung_Feng_III_Anti-Ship_Missile_Launchers_Truck_Display_at_Zuoying_Naval_Base_Ground_20151024.jpg/1280px-ROCN_Hsiung_Feng_II_%26_Hsiung_Feng_III_Anti-Ship_Missile_Launchers_Truck_Display_at_Zuoying_Naval_Base_Ground_20151024.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/91/ROCN_Hsiung_Feng_II_%26_Hsiung_Feng_III_Anti-Ship_Missile_Launchers_Truck_Display_at_Zuoying_Naval_Base_Ground_20151024.jpg",
+      "width": 4896,
+      "height": 3264,
+      "title": "ROCN Hsiung Feng II & Hsiung Feng III Anti-Ship Missile Launchers Truck Display at Zuoying Naval Base Ground 20151024.jpg",
+      "description": "\u200b2015\u5e74\u5de6\u71df\u8ecd\u6e2f\u71df\u5340\u958b\u653e\u6d3b\u52d5\uff0c\u8266\u968a\u6307\u63ee\u90e8\u64cd\u5834\u5c55\u793a\u6a5f\u52d5\u96c4\u98a8\u4e8c\u578b\u8207\u4e09\u578b\u53cd\u8266\u98db\u5f48\u767c\u5c04\u8eca\u3002",
+      "license": "CC0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/ROCN_Hsiung_Feng_II_%26_Hsiung_Feng_III_Anti-Ship_Missile_Launchers_on_Trailer_20151024.jpg/1280px-ROCN_Hsiung_Feng_II_%26_Hsiung_Feng_III_Anti-Ship_Missile_Launchers_on_Trailer_20151024.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/52/ROCN_Hsiung_Feng_II_%26_Hsiung_Feng_III_Anti-Ship_Missile_Launchers_on_Trailer_20151024.jpg",
+      "width": 4896,
+      "height": 3264,
+      "title": "ROCN Hsiung Feng II & Hsiung Feng III Anti-Ship Missile Launchers on Trailer 20151024.jpg",
+      "description": "\u200b\u6a5f\u52d5\u96c4\u98a8\u4e8c\u578b\u8207\u4e09\u578b\u53cd\u8266\u98db\u5f48\u767c\u5c04\u8eca\u4e0a\u7684\u56db\u806f\u88dd\u98db\u5f48\u767c\u5c04\u5668\u5de6\u5074\u7279\u5beb\uff0c\u651d\u65bc2015\u5e74\u5de6\u71df\u8ecd\u6e2f\u71df\u5340\u958b\u653e\u6d3b\u52d5\u3002",
+      "license": "CC BY-SA 3.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Rear_View_of_Covered_ROCN_Hsiung_Feng_II_%26_Hsiung_Feng_III_Anti-Ship_Missile_Launchers_Truck_20141123.jpg/1280px-Rear_View_of_Covered_ROCN_Hsiung_Feng_II_%26_Hsiung_Feng_III_Anti-Ship_Missile_Launchers_Truck_20141123.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Rear_View_of_Covered_ROCN_Hsiung_Feng_II_%26_Hsiung_Feng_III_Anti-Ship_Missile_Launchers_Truck_20141123.jpg",
+      "width": 4928,
+      "height": 3264,
+      "title": "Rear View of Covered ROCN Hsiung Feng II & Hsiung Feng III Anti-Ship Missile Launchers Truck 20141123.jpg",
+      "description": "\u200b\u8986\u84cb\u507d\u88dd\u7db2\u7684\u6a5f\u52d5\u96c4\u98a8\u4e8c\u578b\u8207\u4e09\u578b\u53cd\u8266\u98db\u5f48\u767c\u5c04\u8eca\u8eca\u5c3e\uff0c\u651d\u65bc2014\u5e74\u5de6\u71df\u8ecd\u6e2f\u71df\u5340\u958b\u653e\u6d3b\u52d5\u3002",
+      "license": "CC0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Hsiung_Feng_III_Anti-Ship_Missile_Display_in_Chengkungling_20111009a.jpg/1280px-Hsiung_Feng_III_Anti-Ship_Missile_Display_in_Chengkungling_20111009a.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/25/Hsiung_Feng_III_Anti-Ship_Missile_Display_in_Chengkungling_20111009a.jpg",
+      "width": 3938,
+      "height": 2786,
+      "title": "Hsiung Feng III Anti-Ship Missile Display in Chengkungling 20111009a.jpg",
+      "description": "\u200b\u9673\u5217\u65bc\u6210\u529f\u5dba\u7684\u96c4\u98a8\u4e09\u578b\u53cd\u8266\u98db\u5f48\u3002",
+      "license": "CC BY-SA 3.0",
+      "source": "wikimedia"
+    }
+  ]
+}

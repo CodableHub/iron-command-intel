@@ -1,0 +1,208 @@
+{
+  "combat_history": [
+    {
+      "date": "2021-02",
+      "event": "First flight of the Boeing Airpower Teaming System, later named MQ-28 Ghost Bat.",
+      "significance": "First Australian-designed-and-built combat aircraft in over 50 years."
+    }
+  ],
+  "modernization": [
+    {
+      "program": "Capability maturation & teaming",
+      "status": "in-progress",
+      "timeline": "2020s",
+      "description": "Maturing autonomy, payloads and integration with crewed RAAF aircraft.",
+      "impact": "Moves crewed-uncrewed teaming toward operational capability."
+    }
+  ],
+  "vulnerabilities": [
+    {
+      "area": "Developmental",
+      "description": "Still maturing; not yet an operational combat capability.",
+      "context": "Autonomy and teaming are hard, evolving problems.",
+      "mitigation": "Iterative flight testing."
+    },
+    {
+      "area": "Datalink/autonomy reliance",
+      "description": "Depends on robust links and trustworthy autonomy in contested EW.",
+      "context": "Peer jamming threatens teaming.",
+      "mitigation": "On-board autonomy and resilient comms."
+    }
+  ],
+  "operational_patterns": {
+    "typical_deployment": "Scouting, electronic warfare, surveillance and risk-absorption ahead of crewed fighters across long Indo-Pacific distances.",
+    "key_operating_areas": [
+      "Australia",
+      "Western Pacific",
+      "Indo-Pacific approaches"
+    ],
+    "typical_task_group": "Teamed with F-35A, Super Hornet and E-7 Wedgetail.",
+    "readiness_notes": "Developmental; maturing toward operations."
+  },
+  "peer_comparisons": [
+    {
+      "platform": "Collaborative Combat Aircraft (CCA)",
+      "country": "United States",
+      "relationship": "parallel programme",
+      "key_differences": "The U.S. CCA effort pursues the same loyal-wingman concept at larger scale.",
+      "video_angle": "The loyal-wingman race."
+    },
+    {
+      "platform": "GJ-11 Sharp Sword stealth UCAV",
+      "country": "China",
+      "relationship": "adversary uncrewed concept",
+      "key_differences": "China's stealth UCAV is a penetrating strike drone; the Ghost Bat is a teaming aircraft.",
+      "video_angle": "How the US-aligned and Chinese drones differ."
+    },
+    {
+      "platform": "Boeing MQ-25 Stingray",
+      "country": "United States",
+      "relationship": "Boeing stablemate",
+      "key_differences": "The MQ-25 is a carrier tanker UAV; both reflect Boeing's uncrewed push.",
+      "video_angle": "Boeing's uncrewed aircraft."
+    }
+  ],
+  "search_keywords": [
+    "MQ-28",
+    "Ghost Bat",
+    "Boeing Airpower Teaming System",
+    "Loyal Wingman",
+    "Australian drone",
+    "collaborative combat aircraft"
+  ],
+  "doctrine": {
+    "role": "Loyal-wingman uncrewed combat aircraft teaming with crewed fighters to extend reach and survivability.",
+    "employment": "Several drones per crewed aircraft scout, jam, surveil and absorb risk in contested airspace.",
+    "design_philosophy": "Affordable, modular uncrewed mass to multiply crewed airpower over vast distances.",
+    "threat_context": "Australia's bid for the next phase of air warfare across the Indo-Pacific.",
+    "comparison_frame": "Read against the US CCA programme, China's GJ-11 and Boeing's MQ-25."
+  },
+  "curated_sources": [
+    {
+      "title": "Boeing MQ-28 Ghost Bat \u2014 Wikipedia",
+      "type": "reference",
+      "url": "https://en.wikipedia.org/wiki/Boeing_MQ-28_Ghost_Bat",
+      "relevance": "Concept and development",
+      "priority": "reference"
+    },
+    {
+      "title": "RAAF / Boeing Australia releases",
+      "type": "official",
+      "url": "https://www.airforce.gov.au/",
+      "relevance": "Program status",
+      "priority": "recommended"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/ATS_GT_1X7A7944.jpg/1280px-ATS_GT_1X7A7944.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/55/ATS_GT_1X7A7944.jpg",
+      "width": 4993,
+      "height": 3336,
+      "title": "ATS GT 1X7A7944.jpg",
+      "description": "Automobili Turismo e Sport GT at Retro Classics 2018",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/A_member_of_the_ATS_%28Auxiliary_Territorial_Service%29_serving_with_a_3.7-inch_anti-aircraft_gun_battery%2C_December_1942._TR452.jpg/1280px-A_member_of_the_ATS_%28Auxiliary_Territorial_Service%29_serving_with_a_3.7-inch_anti-aircraft_gun_battery%2C_December_1942._TR452.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/08/A_member_of_the_ATS_%28Auxiliary_Territorial_Service%29_serving_with_a_3.7-inch_anti-aircraft_gun_battery%2C_December_1942._TR452.jpg",
+      "width": 2463,
+      "height": 2480,
+      "title": "A member of the ATS (Auxiliary Territorial Service) serving with a 3.7-inch anti-aircraft gun battery, December 1942. TR452.jpg",
+      "description": "<i>A member of the ATS (Auxiliary Territorial Service) serving with a 3.7-inch anti-aircraft gun battery, December 1942.</i><br>\nAn ATS spotter with binoculars at the anti-aircraft command post. A 3.7",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Boeing_MQ-28_Ghost_Bat_at_2023_Avalon_Airshow_%281%29.jpg/1280px-Boeing_MQ-28_Ghost_Bat_at_2023_Avalon_Airshow_%281%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Boeing_MQ-28_Ghost_Bat_at_2023_Avalon_Airshow_%281%29.jpg",
+      "width": 3024,
+      "height": 4032,
+      "title": "Boeing MQ-28 Ghost Bat at 2023 Avalon Airshow (1).jpg",
+      "description": "Boeing MQ-28 Ghost Bat at the 2023 Avalon Airshow front view",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Boeing_MQ-28_Ghost_Bat_at_2023_Avalon_Airshow_%282%29.jpg/1280px-Boeing_MQ-28_Ghost_Bat_at_2023_Avalon_Airshow_%282%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/44/Boeing_MQ-28_Ghost_Bat_at_2023_Avalon_Airshow_%282%29.jpg",
+      "width": 3024,
+      "height": 4032,
+      "title": "Boeing MQ-28 Ghost Bat at 2023 Avalon Airshow (2).jpg",
+      "description": "Boeing MQ-28 Ghost Bat at the 2023 Avalon Airshow front view",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Boeing_MQ-28_Ghost_Bat_at_2023_Avalon_Airshow_%283%29.jpg/1280px-Boeing_MQ-28_Ghost_Bat_at_2023_Avalon_Airshow_%283%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Boeing_MQ-28_Ghost_Bat_at_2023_Avalon_Airshow_%283%29.jpg",
+      "width": 4032,
+      "height": 3024,
+      "title": "Boeing MQ-28 Ghost Bat at 2023 Avalon Airshow (3).jpg",
+      "description": "Boeing MQ-28 Ghost Bat at the 2023 Avalon Airshow side view",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Boeing_MQ-28_Ghost_Bat_at_2023_Avalon_Airshow_%283%29_cropped.jpg/1280px-Boeing_MQ-28_Ghost_Bat_at_2023_Avalon_Airshow_%283%29_cropped.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Boeing_MQ-28_Ghost_Bat_at_2023_Avalon_Airshow_%283%29_cropped.jpg",
+      "width": 1742,
+      "height": 770,
+      "title": "Boeing MQ-28 Ghost Bat at 2023 Avalon Airshow (3) cropped.jpg",
+      "description": "Boeing MQ-28 Ghost Bat at the 2023 Avalon Airshow side view",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Boeing_MQ-28_Ghost_Bat_at_2023_Avalon_Airshow_%284%29.jpg/1280px-Boeing_MQ-28_Ghost_Bat_at_2023_Avalon_Airshow_%284%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Boeing_MQ-28_Ghost_Bat_at_2023_Avalon_Airshow_%284%29.jpg",
+      "width": 4032,
+      "height": 3024,
+      "title": "Boeing MQ-28 Ghost Bat at 2023 Avalon Airshow (4).jpg",
+      "description": "Boeing MQ-28 Ghost Bat at the 2023 Avalon Airshow side view",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Boeing_MQ-28_Ghost_Bat_operators.png/1280px-Boeing_MQ-28_Ghost_Bat_operators.png",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Boeing_MQ-28_Ghost_Bat_operators.png",
+      "width": 6460,
+      "height": 3403,
+      "title": "Boeing MQ-28 Ghost Bat operators.png",
+      "description": "Boeing MQ-28 Ghost Bat operators",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/ILA_2024%2C_Schoenefeld_%28ILA44483%29.jpg/1280px-ILA_2024%2C_Schoenefeld_%28ILA44483%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/9f/ILA_2024%2C_Schoenefeld_%28ILA44483%29.jpg",
+      "width": 6720,
+      "height": 4480,
+      "title": "ILA 2024, Schoenefeld (ILA44483).jpg",
+      "description": "",
+      "license": "CC BY-SA",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Maquette_de_Boeing_M-28_au_salon_du_Bourget_2023.jpg/1280px-Maquette_de_Boeing_M-28_au_salon_du_Bourget_2023.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Maquette_de_Boeing_M-28_au_salon_du_Bourget_2023.jpg",
+      "width": 2816,
+      "height": 2112,
+      "title": "Maquette de Boeing M-28 au salon du Bourget 2023.jpg",
+      "description": "Model 1:16 of the UAV Boeing M-28 (Paris Air Show 2023).",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/ATS-4202%2CATS-4203.jpg/1280px-ATS-4202%2CATS-4203.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/05/ATS-4202%2CATS-4203.jpg",
+      "width": 4608,
+      "height": 3456,
+      "title": "ATS-4202,ATS-4203.jpg",
+      "description": "\u6a2a\u9808\u8cc0\u6e2f\u306b\u505c\u6cca\u4e2d\u306e\u300c\u3066\u3093\u308a\u3085\u3046\u300d\uff08\u5de6\uff09\u3068\u300c\u304f\u308d\u3079\u300d",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    }
+  ]
+}

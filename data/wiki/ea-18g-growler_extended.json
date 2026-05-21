@@ -1,0 +1,199 @@
+{
+  "combat_history": [
+    {
+      "date": "2011\u2013",
+      "event": "Used in U.S. operations (Libya, Iraq/Syria) for electronic attack and SEAD support.",
+      "significance": "Proven enabler for strike operations against air defences."
+    }
+  ],
+  "modernization": [
+    {
+      "program": "Next Generation Jammer",
+      "status": "in-progress",
+      "timeline": "2020s",
+      "description": "Replacing the legacy ALQ-99 with a far more capable jamming system.",
+      "impact": "Sharply improves electronic-attack reach and effectiveness."
+    }
+  ],
+  "vulnerabilities": [
+    {
+      "area": "Non-stealthy",
+      "description": "A 4.5-gen airframe with a large signature.",
+      "context": "Vulnerable to modern fighters/SAMs if unsupported.",
+      "mitigation": "Stand-off jamming and escort."
+    },
+    {
+      "area": "Finite numbers",
+      "description": "Specialised, expensive aircraft in limited numbers.",
+      "context": "High demand across theatres.",
+      "mitigation": "Allied (RAAF) fleet adds mass."
+    }
+  ],
+  "operational_patterns": {
+    "typical_deployment": "Electronic attack and SEAD escorting strike packages through contested airspace; carrier and land-based.",
+    "key_operating_areas": [
+      "Western Pacific",
+      "South China Sea",
+      "(US) global"
+    ],
+    "typical_task_group": "U.S. carrier air wings; RAAF strike packages with F-35A and Super Hornet.",
+    "readiness_notes": "Fielded; NGJ upgrade underway."
+  },
+  "peer_comparisons": [
+    {
+      "platform": "J-16D",
+      "country": "China",
+      "relationship": "adversary counterpart",
+      "key_differences": "China's electronic-attack Flanker variant performs the same jamming/SEAD role for the PLA.",
+      "video_angle": "The electronic-attack aircraft of the Pacific."
+    },
+    {
+      "platform": "F/A-18E/F Super Hornet",
+      "country": "United States",
+      "relationship": "base airframe",
+      "key_differences": "The Growler is the EW-specialised version of the Super Hornet.",
+      "video_angle": "How the Super Hornet became an EW jet."
+    },
+    {
+      "platform": "KJ-500 airborne early warning aircraft",
+      "country": "China",
+      "relationship": "enabler contrast",
+      "key_differences": "The KJ-500 enables (early warning); the Growler disables (jamming) \u2014 opposite sides of the EW fight.",
+      "video_angle": "The invisible air war."
+    }
+  ],
+  "search_keywords": [
+    "EA-18G Growler",
+    "Growler",
+    "electronic attack aircraft",
+    "RAAF Growler",
+    "Next Generation Jammer",
+    "SEAD aircraft",
+    "HARM"
+  ],
+  "doctrine": {
+    "role": "Airborne electronic-attack aircraft \u2014 jam and destroy enemy air defences and protect strike packages.",
+    "employment": "Stand-off and escort jamming with HARM/AARGM anti-radiation missiles to blind and kill radars.",
+    "design_philosophy": "Make integrated air defences penetrable \u2014 the invisible enabling layer of air combat.",
+    "threat_context": "Allied (US + RAAF) electronic attack against proliferating HQ-9/S-400-class defences in the Pacific.",
+    "comparison_frame": "Read against China's J-16D, the base Super Hornet and (as its opposite) the KJ-500."
+  },
+  "curated_sources": [
+    {
+      "title": "Boeing EA-18G Growler \u2014 Wikipedia",
+      "type": "reference",
+      "url": "https://en.wikipedia.org/wiki/Boeing_EA-18G_Growler",
+      "relevance": "Specs, EW suite, operators",
+      "priority": "reference"
+    },
+    {
+      "title": "U.S. Navy / RAAF fact sheets",
+      "type": "official",
+      "url": "https://www.navy.mil/",
+      "relevance": "Official characteristics",
+      "priority": "recommended"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/20180512_EA-18_Growler_Dyess_AFB_Air_Show_2018_1.jpg/1280px-20180512_EA-18_Growler_Dyess_AFB_Air_Show_2018_1.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/20180512_EA-18_Growler_Dyess_AFB_Air_Show_2018_1.jpg",
+      "width": 4891,
+      "height": 1838,
+      "title": "20180512 EA-18 Growler Dyess AFB Air Show 2018 1.jpg",
+      "description": "An EA-18G Growler at the Dyess AFB air show in 2018.",
+      "license": "CC0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/20180512_EA-18_Growler_Dyess_AFB_Air_Show_2018_2.jpg/1280px-20180512_EA-18_Growler_Dyess_AFB_Air_Show_2018_2.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/86/20180512_EA-18_Growler_Dyess_AFB_Air_Show_2018_2.jpg",
+      "width": 5014,
+      "height": 1831,
+      "title": "20180512 EA-18 Growler Dyess AFB Air Show 2018 2.jpg",
+      "description": "An EA-18G Growler at the Dyess AFB air show in 2018.",
+      "license": "CC0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/An_EA-18G_Growler_in_Misawa%2C_Japan.jpg/1280px-An_EA-18G_Growler_in_Misawa%2C_Japan.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/54/An_EA-18G_Growler_in_Misawa%2C_Japan.jpg",
+      "width": 3000,
+      "height": 2100,
+      "title": "An EA-18G Growler in Misawa, Japan.jpg",
+      "description": "MISAWA AIR FACILITY MISAWA, Japan (Jan. 7, 2013) An EA-18G Growler from Electronic Attack Squadron (VAQ) 132 returns from a mission and taxis on the Naval Air Facility Misawa flight line. VAQ-132 is d",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Boeing_EA-18G_Growler_NL-530_Spangdahlem_2022.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Boeing_EA-18G_Growler_NL-530_Spangdahlem_2022.jpg",
+      "width": 1200,
+      "height": 800,
+      "title": "Boeing EA-18G Growler NL-530 Spangdahlem 2022.jpg",
+      "description": "U.S. Navy EA-18G Growler 168765 \u2018NL-530\u2019 assigned to Electronic Attack Squadron VAQ-134 \"Garudas\" flown by CDR Chad Walker and CAPT Dave Harris on final approach to Spangdahlem AB, April 2022",
+      "license": "CC BY-SA 3.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Boeing_EA-18G_Growler_NL-531_Spangdahlem_2022.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Boeing_EA-18G_Growler_NL-531_Spangdahlem_2022.jpg",
+      "width": 1200,
+      "height": 800,
+      "title": "Boeing EA-18G Growler NL-531 Spangdahlem 2022.jpg",
+      "description": "U.S. Navy EA-18G Growler 168936 \u2018NL-531\u2019 assigned to Electronic Attack Squadron VAQ-134 \"Garudas\" flown by LCDR Sean Noronha and LCDR Andrew Mays on final approach to Spangdahlem Air Base, April 2022",
+      "license": "CC BY-SA 3.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/EA-18G_Growler_at_Dubai_Airshow_2019.jpg/1280px-EA-18G_Growler_at_Dubai_Airshow_2019.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/8f/EA-18G_Growler_at_Dubai_Airshow_2019.jpg",
+      "width": 1600,
+      "height": 1200,
+      "title": "EA-18G Growler at Dubai Airshow 2019.jpg",
+      "description": "EA-18G Growler at Dubai Airshow 2019",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/EA-18G_Growler_on_USS_Nimitz.jpg/1280px-EA-18G_Growler_on_USS_Nimitz.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/37/EA-18G_Growler_on_USS_Nimitz.jpg",
+      "width": 4057,
+      "height": 2898,
+      "title": "EA-18G Growler on USS Nimitz.jpg",
+      "description": "An E/A-18G Growler from the \u00e2Cougars\u00e2 of Electronic Attack Squadron (VAQ) 139 launches from the flight deck of the aircraft carrier USS Nimitz (CVN 68). Nimitz is in U.S. 7th Fleet conducting routine ",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/EA-18G_at_sunrise.jpg/1280px-EA-18G_at_sunrise.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/8a/EA-18G_at_sunrise.jpg",
+      "width": 2377,
+      "height": 1824,
+      "title": "EA-18G at sunrise.jpg",
+      "description": "An E/A-18G attached to the \"Grey Wolves\" of Electronic Attack Squadron (VAQ) 142, sits chocked and chained to the flight deck of the world's largest aircraft carrier USS Gerald R. Ford (CVN 78), July ",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Growler_with_alq-99.jpg/1280px-Growler_with_alq-99.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Growler_with_alq-99.jpg",
+      "width": 2100,
+      "height": 1500,
+      "title": "Growler with alq-99.jpg",
+      "description": "EA-18 Growler with 3 AN/ALQ-99 jammers",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Sailor_directs_an_EA-18G_during_snow_storm_in_Japan_%288367035559%29.jpg/1280px-Sailor_directs_an_EA-18G_during_snow_storm_in_Japan_%288367035559%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Sailor_directs_an_EA-18G_during_snow_storm_in_Japan_%288367035559%29.jpg",
+      "width": 3000,
+      "height": 2400,
+      "title": "Sailor directs an EA-18G during snow storm in Japan (8367035559).jpg",
+      "description": "<p>NAVAL AIR FACILITY MISAWA, Japan (Jan. 10, 2013) A ground crew member from Electronic Attack Squadron (VAQ) 132 signals to an EA-18G Growler as it returns from a flight during heavy snows at Naval ",
+      "license": "Public domain",
+      "source": "wikimedia"
+    }
+  ]
+}

@@ -1,0 +1,258 @@
+{
+  "combat_history": [
+    {
+      "date": "ongoing",
+      "event": "No confirmed combat; fielded with PLA combined-arms brigades and exercised in air-defence drills.",
+      "significance": "Capability assessed from fielding."
+    }
+  ],
+  "modernization": [
+    {
+      "program": "Counter-UAS adaptation",
+      "status": "in-progress",
+      "timeline": "ongoing",
+      "description": "Improved sensors and engagement against small drones and loitering munitions.",
+      "impact": "Keeps manoeuvre forces survivable against proliferating drone threats."
+    }
+  ],
+  "vulnerabilities": [
+    {
+      "area": "Short reach",
+      "description": "Point-defence range only; not an area defender.",
+      "context": "Needs HQ-16/HQ-9 layers above it.",
+      "mitigation": "Layered IADS."
+    },
+    {
+      "area": "Saturation by cheap drones",
+      "description": "Expensive interceptors versus swarms of cheap UAS.",
+      "context": "Unfavourable cost-exchange.",
+      "mitigation": "Pairing with gun systems and EW."
+    }
+  ],
+  "operational_patterns": {
+    "typical_deployment": "Mobile point defence accompanying armoured/mechanised forces and protecting key assets.",
+    "key_operating_areas": [
+      "Chinese mainland",
+      "China\u2013India border",
+      "forward manoeuvre formations"
+    ],
+    "typical_task_group": "Inner layer beneath HQ-16 and HQ-9 in the IADS.",
+    "readiness_notes": "Widely fielded on tracked and wheeled chassis."
+  },
+  "peer_comparisons": [
+    {
+      "platform": "9K332 Tor-M2",
+      "country": "Russia",
+      "relationship": "design parent",
+      "key_differences": "The HQ-17 derives from the Russian Tor and is China's indigenised short-range point-defence SAM.",
+      "video_angle": "From Tor to HQ-17."
+    },
+    {
+      "platform": "HQ-16 medium-range surface-to-air missile",
+      "country": "China",
+      "relationship": "next layer up",
+      "key_differences": "The HQ-16 is the medium tier; the HQ-17 is the close-in point-defence layer.",
+      "video_angle": "The inner layers of Chinese air defence."
+    },
+    {
+      "platform": "Pantsir-S1",
+      "country": "Russia",
+      "relationship": "class peer",
+      "key_differences": "The Pantsir combines guns and missiles for point defence; the HQ-17 is missile-only.",
+      "video_angle": "Short-range air defence systems compared."
+    }
+  ],
+  "search_keywords": [
+    "HQ-17",
+    "HQ-17A",
+    "Chinese short-range SAM",
+    "Tor China",
+    "point defense missile",
+    "PLA air defense"
+  ],
+  "doctrine": {
+    "role": "Short-range point-defence SAM protecting manoeuvre forces and key assets from close-in air threats.",
+    "employment": "Fast-reacting vertical-launch engagement of low, agile threats while accompanying ground columns.",
+    "design_philosophy": "Mobile, quick-reaction close defence \u2014 the inner layer of the IADS.",
+    "threat_context": "Keeps PLA armoured spearheads survivable against PGMs, cruise missiles and drones.",
+    "comparison_frame": "Read against the Russian Tor (parent), the HQ-16 (above) and the Pantsir."
+  },
+  "curated_sources": [
+    {
+      "title": "HQ-17 \u2014 Wikipedia",
+      "type": "reference",
+      "url": "https://en.wikipedia.org/wiki/HQ-17",
+      "relevance": "Variants and role",
+      "priority": "reference"
+    },
+    {
+      "title": "IISS Military Balance \u2014 China land forces",
+      "type": "research",
+      "url": "https://www.iiss.org/publications/the-military-balance",
+      "relevance": "Air-defence inventory",
+      "priority": "recommended"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Aruba_Olympic_Committee_new_HQ_17_37_43_095000.jpeg/1280px-Aruba_Olympic_Committee_new_HQ_17_37_43_095000.jpeg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Aruba_Olympic_Committee_new_HQ_17_37_43_095000.jpeg",
+      "width": 2435,
+      "height": 3322,
+      "title": "Aruba Olympic Committee new HQ 17 37 43 095000.jpeg",
+      "description": "Opening HQ in Vondellaan 27 during visit Thomas Bach, president IOC",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Aruba_Olympic_Committee_new_HQ_17_37_47_886000.jpeg/1280px-Aruba_Olympic_Committee_new_HQ_17_37_47_886000.jpeg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Aruba_Olympic_Committee_new_HQ_17_37_47_886000.jpeg",
+      "width": 2299,
+      "height": 3560,
+      "title": "Aruba Olympic Committee new HQ 17 37 47 886000.jpeg",
+      "description": "Thomas Bach, IOC president, Nicole Hoevertsz, IOC vicepresident and Wanda Broeksema, president of the Aruba Olympic Committee during the opening of the Aruba Olympic Committee's HQ at Vondellaan 27, O",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Aruba_Olympic_Committee_new_HQ_17_37_55_665000.jpeg/1280px-Aruba_Olympic_Committee_new_HQ_17_37_55_665000.jpeg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Aruba_Olympic_Committee_new_HQ_17_37_55_665000.jpeg",
+      "width": 1347,
+      "height": 1796,
+      "title": "Aruba Olympic Committee new HQ 17 37 55 665000.jpeg",
+      "description": "IOC-president, Thomas Bach talking to young atletes during the official opening of the Aruba Olympic Committee's HQ at Vondellaan 27, Oranjestad in Aruba.",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Aruba_Olympic_Committee_new_HQ_17_37_59_462000.jpeg/1280px-Aruba_Olympic_Committee_new_HQ_17_37_59_462000.jpeg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/12/Aruba_Olympic_Committee_new_HQ_17_37_59_462000.jpeg",
+      "width": 3679,
+      "height": 2211,
+      "title": "Aruba Olympic Committee new HQ 17 37 59 462000.jpeg",
+      "description": "Opening HQ in Vondellaan 27 during visit Thomas Bach, president IOC",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/CTA_HQ_17_%286591951559%29.jpg/1280px-CTA_HQ_17_%286591951559%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/01/CTA_HQ_17_%286591951559%29.jpg",
+      "width": 4032,
+      "height": 3024,
+      "title": "CTA HQ 17 (6591951559).jpg",
+      "description": "Lol this is the 3rd near-identical shot of the Sears Tower. I must've really wanted to get this shot.",
+      "license": "CC BY 2.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/HQ-6A_Surface-to-air_missiles_20170902.jpg/1280px-HQ-6A_Surface-to-air_missiles_20170902.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/00/HQ-6A_Surface-to-air_missiles_20170902.jpg",
+      "width": 2560,
+      "height": 1920,
+      "title": "HQ-6A Surface-to-air missiles 20170902.jpg",
+      "description": "\u200b\u7ea2\u65d76A\u578b\uff08HQ-6A\uff09\u5f39\u70ae\u9632\u7a7a\u6b66\u5668\u7cfb\u7edf\u5bfc\u5f39\u53d1\u5c04\u8f66\uff0c\u62cd\u6444\u4e8e\u4e2d\u56fd\u4eba\u6c11\u9769\u547d\u519b\u4e8b\u535a\u7269\u9986\u3002",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/PCF_HQ_17.JPG/1280px-PCF_HQ_17.JPG",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/a6/PCF_HQ_17.JPG",
+      "width": 2048,
+      "height": 1536,
+      "title": "PCF HQ 17.JPG",
+      "description": "Headquarters of the French Communist Party, ground floor",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Zastava_2024_-_HQ-17AE_-_01.jpg/1280px-Zastava_2024_-_HQ-17AE_-_01.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Zastava_2024_-_HQ-17AE_-_01.jpg",
+      "width": 3888,
+      "height": 2880,
+      "title": "Zastava 2024 - HQ-17AE - 01.jpg",
+      "description": "\u041d\u043e\u0432\u0438 \u041f\u0412\u041e \u0441\u0438\u0441\u0442\u0435\u043c \u041a\u0438\u043d\u0435\u0441\u043a\u0435 \u043f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u045a\u0435 HQ-17AE \u0412\u043e\u0458\u0441\u043a\u0435 \u0421\u0440\u0431\u0438\u0458\u0435 \u0438\u0437\u043b\u043e\u0436\u0435\u043d \u043d\u0430 \u0432\u043e\u0458\u043d\u043e\u043c \u0430\u0435\u0440\u043e\u0434\u0440\u043e\u043c\u0443 \"\u041f\u0443\u043a\u043e\u0432\u043d\u0438\u043a-\u043f\u0438\u043b\u043e\u0442 \u041c\u0438\u043b\u0435\u043d\u043a\u043e \u041f\u0430\u0432\u043b\u043e\u0432\u0438\u045b\" \u043f\u043e\u0432\u043e\u0434\u043e\u043c \u043f\u0440\u0438\u043a\u0430\u0437\u0430 \u0441\u043f\u043e\u0441\u043e\u0431\u043d\u043e\u0441\u0442\u0438 \u0412\u043e\u0458\u0441\u043a\u0435 \u0421\u0440\u0431\u0438\u0458\u0435 \"\u0417\u0430\u0441\u0442\u0430\u0432\u0430 2024\".",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Zastava_2024_-_HQ-17AE_-_02.jpg/1280px-Zastava_2024_-_HQ-17AE_-_02.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/02/Zastava_2024_-_HQ-17AE_-_02.jpg",
+      "width": 3744,
+      "height": 2736,
+      "title": "Zastava 2024 - HQ-17AE - 02.jpg",
+      "description": "\u041d\u043e\u0432\u0438 \u041f\u0412\u041e \u0441\u0438\u0441\u0442\u0435\u043c \u041a\u0438\u043d\u0435\u0441\u043a\u0435 \u043f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u045a\u0435 HQ-17AE \u0412\u043e\u0458\u0441\u043a\u0435 \u0421\u0440\u0431\u0438\u0458\u0435 \u0438\u0437\u043b\u043e\u0436\u0435\u043d \u043d\u0430 \u0432\u043e\u0458\u043d\u043e\u043c \u0430\u0435\u0440\u043e\u0434\u0440\u043e\u043c\u0443 \"\u041f\u0443\u043a\u043e\u0432\u043d\u0438\u043a-\u043f\u0438\u043b\u043e\u0442 \u041c\u0438\u043b\u0435\u043d\u043a\u043e \u041f\u0430\u0432\u043b\u043e\u0432\u0438\u045b\" \u043f\u043e\u0432\u043e\u0434\u043e\u043c \u043f\u0440\u0438\u043a\u0430\u0437\u0430 \u0441\u043f\u043e\u0441\u043e\u0431\u043d\u043e\u0441\u0442\u0438 \u0412\u043e\u0458\u0441\u043a\u0435 \u0421\u0440\u0431\u0438\u0458\u0435 \"\u0417\u0430\u0441\u0442\u0430\u0432\u0430 2024\".",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Zastava_2024_-_HQ-17AE_vozilo_za_dotur_-_01.jpg/1280px-Zastava_2024_-_HQ-17AE_vozilo_za_dotur_-_01.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/05/Zastava_2024_-_HQ-17AE_vozilo_za_dotur_-_01.jpg",
+      "width": 3168,
+      "height": 2016,
+      "title": "Zastava 2024 - HQ-17AE vozilo za dotur - 01.jpg",
+      "description": "\u0412\u043e\u0437\u0438\u043b\u043e \u0437\u0430 \u043f\u0440\u0435\u0442\u043e\u0432\u0430\u0440 \u0440\u0430\u043a\u0435\u0442\u0430 \u0438\u0437 \u0441\u0430\u0441\u0442\u0430\u0432\u0430 \u041f\u0412\u041e \u0441\u0438\u0441\u0442\u0435\u043c\u0430 HQ-17AE \u041a\u0438\u043d\u0435\u0441\u043a\u0435 \u043f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u045a\u0435 \u0412\u043e\u0458\u0441\u043a\u0435 \u0421\u0440\u0431\u0438\u0458\u0435 \u0438\u0437\u043b\u043e\u0436\u0435\u043d \u043d\u0430 \u0432\u043e\u0458\u043d\u043e\u043c \u0430\u0435\u0440\u043e\u0434\u0440\u043e\u043c\u0443 \"\u041f\u0443\u043a\u043e\u0432\u043d\u0438\u043a-\u043f\u0438\u043b\u043e\u0442 \u041c\u0438\u043b\u0435\u043d\u043a\u043e \u041f\u0430\u0432\u043b\u043e\u0432\u0438\u045b\" \u043f\u043e\u0432\u043e\u0434\u043e\u043c \u043f\u0440\u0438\u043a\u0430\u0437\u0430 \u0441\u043f\u043e\u0441\u043e\u0431\u043d\u043e\u0441\u0442\u0438 \u0412\u043e\u0458\u0441\u043a\u0435 \u0421\u0440\u0431\u0438\u0458\u0435 \"\u0417\u0430\u0441\u0442\u0430",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/AF_Birthday_%28100917-F-6063W-001%29.jpg/1280px-AF_Birthday_%28100917-F-6063W-001%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/96/AF_Birthday_%28100917-F-6063W-001%29.jpg",
+      "width": 1354,
+      "height": 1592,
+      "title": "AF Birthday (100917-F-6063W-001).jpg",
+      "description": "PETERSON AIR FORCE BASE, Colo. \u2013 Headquarters Air Force Space Command personnel celebrated the Air Force\u2019s 63rd birthday, Sept. 17-a day early- with cake and punch. Maj. Gen. Michael J. Basla, Air For",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Chief_of_the_German_MOD%27s_Infrastructure%2C_Environment_and_Services_Division_visits_USAFE_-_AFAFRICA_HQ_%285573704%29.jpg/1280px-Chief_of_the_German_MOD%27s_Infrastructure%2C_Environment_and_Services_Division_visits_USAFE_-_AFAFRICA_HQ_%285573704%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/40/Chief_of_the_German_MOD%27s_Infrastructure%2C_Environment_and_Services_Division_visits_USAFE_-_AFAFRICA_HQ_%285573704%29.jpg",
+      "width": 4384,
+      "height": 3176,
+      "title": "Chief of the German MOD's Infrastructure, Environment and Services Division visits USAFE - AFAFRICA HQ (5573704).jpg",
+      "description": "Lt. Gen. Steven Basham, U.S. Air Forces in Europe and Air Forces Africa deputy commander, and Mrs. Barbara Wie\u00dfalla, Chief of the German Ministry of Defense's Infrastructure, Environment and Services ",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/49/EUCOM_HQ_Space_Force_5th_Birthday_Celebration_%289187869%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/49/EUCOM_HQ_Space_Force_5th_Birthday_Celebration_%289187869%29.jpg",
+      "width": 640,
+      "height": 427,
+      "title": "EUCOM HQ Space Force 5th Birthday Celebration (9187869).jpg",
+      "description": "Ambassador Byrnes and her husband, retired U.S. Navy Capt. Scott Gage, disembark during her retirement ceremony, following 33 years of government service, at Patch Barracks, Stuttgart, Germany, Jul. 1",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/HQ-6A_Air_defense_artillery_20170902.jpg/1280px-HQ-6A_Air_defense_artillery_20170902.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/7d/HQ-6A_Air_defense_artillery_20170902.jpg",
+      "width": 2560,
+      "height": 1920,
+      "title": "HQ-6A Air defense artillery 20170902.jpg",
+      "description": "\u200b\u7ea2\u65d76A\u578b\uff08HQ-6A\uff09\u5f39\u70ae\u9632\u7a7a\u6b66\u5668\u7cfb\u7edf\u9ad8\u70ae\u8f66\uff0c\u62cd\u6444\u4e8e\u4e2d\u56fd\u4eba\u6c11\u9769\u547d\u519b\u4e8b\u535a\u7269\u9986\u3002",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/HQ.%2C_20TH_AIR_FORCE%2C_OKINAWA_-_As_take-off_time_approaches%2C_Airman_Joseph_Migliardi%2C_274_King_St.%2C_Port_Chester..._-_NARA_-_542360.tif/lossy-page1-1280px-HQ.%2C_20TH_AIR_FORCE%2C_OKINAWA_-_As_take-off_time_approaches%2C_Airman_Joseph_Migliardi%2C_274_King_St.%2C_Port_Chester..._-_NARA_-_542360.tif.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/HQ.%2C_20TH_AIR_FORCE%2C_OKINAWA_-_As_take-off_time_approaches%2C_Airman_Joseph_Migliardi%2C_274_King_St.%2C_Port_Chester..._-_NARA_-_542360.tif",
+      "width": 3000,
+      "height": 2289,
+      "title": "HQ., 20TH AIR FORCE, OKINAWA - As take-off time approaches, Airman Joseph Migliardi, 274 King St., Port Chester... - NARA - 542360.tif",
+      "description": "<div class=\"description\">\n<ul><li><b>Scope and content:</b>  HQ., 20TH AIR FORCE, OKINAWA --- As take-off time approaches, Airman Joseph Migliardi, 274 King St., Port Chester, N.Y., runs a last minute",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/HQ._FEAF%2C_TOKYO-Col._John_K._Arnold_Jr._%28right%29%2C_Montgomery%2C_Ala.%2C_is_escorted_by_Col._Herbert_R._Volin%2C_Tokyo_Air..._-_NARA_-_542291.tif/lossy-page1-1280px-HQ._FEAF%2C_TOKYO-Col._John_K._Arnold_Jr._%28right%29%2C_Montgomery%2C_Ala.%2C_is_escorted_by_Col._Herbert_R._Volin%2C_Tokyo_Air..._-_NARA_-_542291.tif.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/66/HQ._FEAF%2C_TOKYO-Col._John_K._Arnold_Jr._%28right%29%2C_Montgomery%2C_Ala.%2C_is_escorted_by_Col._Herbert_R._Volin%2C_Tokyo_Air..._-_NARA_-_542291.tif",
+      "width": 3000,
+      "height": 2406,
+      "title": "HQ. FEAF, TOKYO-Col. John K. Arnold Jr. (right), Montgomery, Ala., is escorted by Col. Herbert R. Volin, Tokyo Air... - NARA - 542291.tif",
+      "description": "<div class=\"description\">\n<ul><li><b>Scope and content:</b>  HQ. FEAF, TOKYO--Col. John K. Arnold Jr. (right), Montgomery, Ala., is escorted by Col. Herbert R. Volin, Tokyo Air Force Depot Commander F",
+      "license": "Public domain",
+      "source": "wikimedia"
+    }
+  ]
+}
