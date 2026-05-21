@@ -1,0 +1,259 @@
+{
+  "combat_history": [
+    {
+      "date": "ongoing",
+      "event": "No confirmed combat; widely fielded on land and on Type 054A frigates, and exercised regularly.",
+      "significance": "Capability assessed from fielding and exercises."
+    }
+  ],
+  "modernization": [
+    {
+      "program": "HQ-16B range extension",
+      "status": "in-progress",
+      "timeline": "2010s\u2013",
+      "description": "Longer-range and improved-seeker variants.",
+      "impact": "Strengthens the medium tier of the IADS."
+    }
+  ],
+  "vulnerabilities": [
+    {
+      "area": "Medium-tier reach",
+      "description": "Shorter range/altitude than the HQ-9 long-range tier.",
+      "context": "Needs the HQ-9 above and short-range systems below.",
+      "mitigation": "Layered IADS integration."
+    },
+    {
+      "area": "Saturation",
+      "description": "Finite missiles per battery against mass attacks.",
+      "context": "Saturation can overwhelm.",
+      "mitigation": "Layering and numbers."
+    }
+  ],
+  "operational_patterns": {
+    "typical_deployment": "Mobile medium-tier air defence for ground forces and bases; naval area defence on Type 054A frigates.",
+    "key_operating_areas": [
+      "Chinese mainland",
+      "South China Sea (afloat)",
+      "East China Sea",
+      "Pakistan (export)"
+    ],
+    "typical_task_group": "Layered with HQ-9 (above) and HQ-7/HQ-17 (below); HHQ-16 on Type 054A.",
+    "readiness_notes": "Widely fielded on land and afloat; exported."
+  },
+  "peer_comparisons": [
+    {
+      "platform": "HQ-9 long-range surface-to-air missile",
+      "country": "China",
+      "relationship": "long-range stablemate",
+      "key_differences": "The HQ-9 is the long-range tier; the HQ-16 is the cheaper, more numerous medium tier.",
+      "video_angle": "The layers of Chinese air defence."
+    },
+    {
+      "platform": "KM-SAM Cheongung air-defense system",
+      "country": "South Korea",
+      "relationship": "class peer",
+      "key_differences": "Comparable medium-range SAMs; the Cheongung adds hit-to-kill BMD.",
+      "video_angle": "East Asia's medium-range SAMs."
+    },
+    {
+      "platform": "9K37 Buk",
+      "country": "Russia",
+      "relationship": "design lineage",
+      "key_differences": "The HQ-16 draws on Buk technology, developed into a vertically-launched Chinese system.",
+      "video_angle": "From Buk to HQ-16."
+    }
+  ],
+  "search_keywords": [
+    "HQ-16",
+    "HHQ-16",
+    "LY-80",
+    "FK-3",
+    "Chinese medium-range SAM",
+    "Type 054A air defense"
+  ],
+  "doctrine": {
+    "role": "Medium-range surface-to-air missile \u2014 the middle tier of Chinese land and naval air defence.",
+    "employment": "Mobile and ship-borne vertical-launch defence against aircraft and cruise missiles, layered with HQ-9.",
+    "design_philosophy": "Cheaper, numerous medium-tier coverage densifying the IADS.",
+    "threat_context": "Protects PLA forces and bases and makes the Type 054A frigate a credible escort.",
+    "comparison_frame": "Read with the HQ-9 (above), Korea's Cheongung and Russia's Buk lineage."
+  },
+  "curated_sources": [
+    {
+      "title": "HQ-16 \u2014 Wikipedia",
+      "type": "reference",
+      "url": "https://en.wikipedia.org/wiki/HQ-16",
+      "relevance": "Variants and naval use",
+      "priority": "reference"
+    },
+    {
+      "title": "CSIS Missile Threat \u2014 Chinese air defence",
+      "type": "research",
+      "url": "https://missilethreat.csis.org/",
+      "relevance": "IADS context",
+      "priority": "recommended"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/HQ-16_VLS_SAM_Launchers.jpg/1280px-HQ-16_VLS_SAM_Launchers.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/6a/HQ-16_VLS_SAM_Launchers.jpg",
+      "width": 2592,
+      "height": 1853,
+      "title": "HQ-16 VLS SAM Launchers.jpg",
+      "description": "HQ-16 VLS SAM Launchers on Type 054A Frigate Xuzhou",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Letter_from_Uesugi_Kenshin_to_Uesugi_Kagekatsu.jpg/1280px-Letter_from_Uesugi_Kenshin_to_Uesugi_Kagekatsu.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/29/Letter_from_Uesugi_Kenshin_to_Uesugi_Kagekatsu.jpg",
+      "width": 2678,
+      "height": 1168,
+      "title": "Letter from Uesugi Kenshin to Uesugi Kagekatsu.jpg",
+      "description": "Letter from Uesugi Kenshin to Uesugi Kagekatsu, delivering his regard to the latter.",
+      "license": "CC BY-SA 3.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Takeda_Shingen_hata-jirushi%3B_Nagao_%28Uesugi%29_Kenshin_hata-jirushi.png",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Takeda_Shingen_hata-jirushi%3B_Nagao_%28Uesugi%29_Kenshin_hata-jirushi.png",
+      "width": 1243,
+      "height": 872,
+      "title": "Takeda Shingen hata-jirushi; Nagao (Uesugi) Kenshin hata-jirushi.png",
+      "description": "Right to left:\n<p>-Takeda Shingen, hata-jirushi, \"Tenjou tenge yuiga dokuson;\" \"In heaven and earth there is none greater than I\"\n-Hata-jirushi, black ground with gold lettering, \"Sono toki koto kaze ",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/UESUGI_KENSHIN_%26_YOZAN.jpg/1280px-UESUGI_KENSHIN_%26_YOZAN.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/d7/UESUGI_KENSHIN_%26_YOZAN.jpg",
+      "width": 3264,
+      "height": 2448,
+      "title": "UESUGI KENSHIN & YOZAN.jpg",
+      "description": "\u7c73\u6ca2\u5e02\u6587\u5316\u30bb\u30f3\u30bf\u30fc\u306b\u3066\u64ae\u5f71",
+      "license": "Copyrighted free use",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/81/Uesugi_Kenshin_Portrait_Close-up_Rinsenji_Temple.png",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/81/Uesugi_Kenshin_Portrait_Close-up_Rinsenji_Temple.png",
+      "width": 1087,
+      "height": 1622,
+      "title": "Uesugi Kenshin Portrait Close-up Rinsenji Temple.png",
+      "description": "Portrait of Uesugi Kenshin (1530-1578). He was a feudal lord (daimyo) of Echigo Province. It is said that this portrait was originally located at Rinsen-ji Temple (\u6797\u6cc9\u5bfa) in Nakamonzen, Joetsu, Niigata ",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/88/Uesugi_Kenshin_Portrait_from_Uesugi_Shrine.png",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/88/Uesugi_Kenshin_Portrait_from_Uesugi_Shrine.png",
+      "width": 768,
+      "height": 1164,
+      "title": "Uesugi Kenshin Portrait from Uesugi Shrine.png",
+      "description": "Portrait of Uesugi Kenshin (1530-1578). He was a Sengoku daimyo of Echigo province (now Niigata prefecture). From the Uesugi Shrine collection (Uesugi Jinja).",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Uesugi_Kenshin_by_Kuniyoshi.JPG",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Uesugi_Kenshin_by_Kuniyoshi.JPG",
+      "width": 1251,
+      "height": 1721,
+      "title": "Uesugi Kenshin by Kuniyoshi.JPG",
+      "description": "A fierce depiction of Uesugi Kenshin seated, originally printed in the book <i>Stories of 100 Heroes of High Renown</i>",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Uesugi_Kenshin_small.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Uesugi_Kenshin_small.jpg",
+      "width": 1262,
+      "height": 1600,
+      "title": "Uesugi Kenshin small.jpg",
+      "description": "Portrai of Uesugi Kenshin",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/%E4%B8%8A%E8%B6%8A%E5%A6%99%E9%AB%98%E9%A7%85%E3%81%AE%E4%B8%8A%E6%9D%89%E8%AC%99%E4%BF%A1%E5%83%8F20210516-IMG_3041.jpg/1280px-%E4%B8%8A%E8%B6%8A%E5%A6%99%E9%AB%98%E9%A7%85%E3%81%AE%E4%B8%8A%E6%9D%89%E8%AC%99%E4%BF%A1%E5%83%8F20210516-IMG_3041.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/cd/%E4%B8%8A%E8%B6%8A%E5%A6%99%E9%AB%98%E9%A7%85%E3%81%AE%E4%B8%8A%E6%9D%89%E8%AC%99%E4%BF%A1%E5%83%8F20210516-IMG_3041.jpg",
+      "width": 1600,
+      "height": 1067,
+      "title": "\u4e0a\u8d8a\u5999\u9ad8\u99c5\u306e\u4e0a\u6749\u8b19\u4fe1\u50cf20210516-IMG 3041.jpg",
+      "description": "\u4e0a\u8d8a\u5999\u9ad8\u99c5\u306e\u4e0a\u6749\u8b19\u4fe1\u50cf",
+      "license": "CC BY 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/CTA_HQ_16_%286591949319%29.jpg/1280px-CTA_HQ_16_%286591949319%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/16/CTA_HQ_16_%286591949319%29.jpg",
+      "width": 4032,
+      "height": 3024,
+      "title": "CTA HQ 16 (6591949319).jpg",
+      "description": "Green roof greenery on the lower-level green roof.",
+      "license": "CC BY 2.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/HQ-16A_Surface-to-air_missiles_20170919.jpg/1280px-HQ-16A_Surface-to-air_missiles_20170919.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/60/HQ-16A_Surface-to-air_missiles_20170919.jpg",
+      "width": 2560,
+      "height": 1920,
+      "title": "HQ-16A Surface-to-air missiles 20170919.jpg",
+      "description": "\u200b\u7ea2\u65d7-16A\u9632\u7a7a\u5bfc\u5f39",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/HQ-16_Surface-to-air_missiles_20170919.jpg/1280px-HQ-16_Surface-to-air_missiles_20170919.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/54/HQ-16_Surface-to-air_missiles_20170919.jpg",
+      "width": 1600,
+      "height": 2560,
+      "title": "HQ-16 Surface-to-air missiles 20170919.jpg",
+      "description": "\u200b\u7ea2\u65d7-16\u9632\u7a7a\u5bfc\u5f39\uff0c\u62cd\u6444\u4e8e\u4e2d\u56fd\u4eba\u6c11\u9769\u547d\u519b\u4e8b\u535a\u7269\u9986\u3002",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/HQ-16_missile_and_90mm_precision-guided_rocket.jpg/1280px-HQ-16_missile_and_90mm_precision-guided_rocket.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/dd/HQ-16_missile_and_90mm_precision-guided_rocket.jpg",
+      "width": 4000,
+      "height": 6000,
+      "title": "HQ-16 missile and 90mm precision-guided rocket.jpg",
+      "description": "A <a href=\"https://en.wikipedia.org/wiki/HQ-16\" class=\"extiw\" title=\"en:HQ-16\">HQ-16</a> missile (left) beside a 90mm precision-guided rocket (right), at the <a href=\"https://zh.wikipedia.org/wiki/%E4",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/INCLUSION_Min_HQ_16-9.jpg/1280px-INCLUSION_Min_HQ_16-9.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/INCLUSION_Min_HQ_16-9.jpg",
+      "width": 1920,
+      "height": 1080,
+      "title": "INCLUSION Min HQ 16-9.jpg",
+      "description": "Inclus\u00e3o",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/PCF_HQ_16.JPG/1280px-PCF_HQ_16.JPG",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/ed/PCF_HQ_16.JPG",
+      "width": 2048,
+      "height": 1536,
+      "title": "PCF HQ 16.JPG",
+      "description": "Headquarters of the French Communist Party, ground floor",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/39/VNN_frigate_Ly_Thuong_Kiet_%28HQ-16%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/39/VNN_frigate_Ly_Thuong_Kiet_%28HQ-16%29.jpg",
+      "width": 950,
+      "height": 696,
+      "title": "VNN frigate Ly Thuong Kiet (HQ-16).jpg",
+      "description": "VNN frigate Ly Thuong Kiet (HQ-16)",
+      "license": "Public domain",
+      "source": "wikimedia"
+    }
+  ]
+}

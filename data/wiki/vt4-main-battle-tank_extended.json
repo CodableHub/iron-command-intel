@@ -1,0 +1,228 @@
+{
+  "combat_history": [
+    {
+      "date": "2016\u2013",
+      "event": "Thailand ordered the VT4 to replace ageing tanks; later operated by Pakistan and Nigeria.",
+      "significance": "Marked Chinese armour displacing traditional suppliers in Southeast Asia."
+    }
+  ],
+  "modernization": [
+    {
+      "program": "Export upgrades & APS",
+      "status": "in-progress",
+      "timeline": "ongoing",
+      "description": "Active-protection and fire-control options for export customers.",
+      "impact": "Keeps the VT4 competitive in the export market."
+    }
+  ],
+  "vulnerabilities": [
+    {
+      "area": "Combat record",
+      "description": "Limited operational record against a peer.",
+      "context": "Capability assessed mainly from specs and trials.",
+      "mitigation": "Continued export validation."
+    },
+    {
+      "area": "Autoloader/3-man crew",
+      "description": "Shares Soviet-pattern survivability trade-offs.",
+      "context": "Hull ammunition storage.",
+      "mitigation": "ERA and optional APS."
+    }
+  ],
+  "operational_patterns": {
+    "typical_deployment": "Armoured manoeuvre for export customers' armies.",
+    "key_operating_areas": [
+      "Thailand",
+      "Pakistan",
+      "Nigeria"
+    ],
+    "typical_task_group": "Customer armoured formations.",
+    "readiness_notes": "In service with several export operators."
+  },
+  "peer_comparisons": [
+    {
+      "platform": "T-90M Proryv",
+      "country": "Russia",
+      "relationship": "export rival",
+      "key_differences": "The VT4 competes directly with Russian tanks for export business, often with better financing/availability.",
+      "video_angle": "China vs Russia in the tank export market."
+    },
+    {
+      "platform": "Oplot-M",
+      "country": "Ukraine",
+      "relationship": "export competitor",
+      "key_differences": "Thailand initially sought the Ukrainian Oplot before turning to the VT4 amid delivery problems.",
+      "video_angle": "Why Thailand chose the Chinese tank."
+    },
+    {
+      "platform": "Type 99A main battle tank",
+      "country": "China",
+      "relationship": "domestic sibling",
+      "key_differences": "The Type 99A is the PLA's best tank (not exported); the VT4 is the export-tailored equivalent.",
+      "video_angle": "China's domestic vs export tanks."
+    }
+  ],
+  "search_keywords": [
+    "VT4",
+    "VT-4",
+    "MBT-3000",
+    "Chinese export tank",
+    "Thailand VT4",
+    "NORINCO tank"
+  ],
+  "doctrine": {
+    "role": "Premium Chinese export main battle tank for mid-tier armies.",
+    "employment": "Conventional armoured manoeuvre for customer forces with modern fire control and protection.",
+    "design_philosophy": "Capable, reliable, supportable armour for the export market with few political strings.",
+    "threat_context": "A tool of Chinese defence diplomacy displacing traditional suppliers in Southeast Asia and Africa.",
+    "comparison_frame": "Read against Russia's T-90, Ukraine's Oplot and China's own Type 99A."
+  },
+  "curated_sources": [
+    {
+      "title": "VT-4 \u2014 Wikipedia",
+      "type": "reference",
+      "url": "https://en.wikipedia.org/wiki/VT-4",
+      "relevance": "Specs and operators",
+      "priority": "reference"
+    },
+    {
+      "title": "SIPRI arms-transfers database",
+      "type": "research",
+      "url": "https://www.sipri.org/databases/armstransfers",
+      "relevance": "Export flows",
+      "priority": "recommended"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/NORINCO_VT-4_at_IDEX_2017.jpg/1280px-NORINCO_VT-4_at_IDEX_2017.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/0a/NORINCO_VT-4_at_IDEX_2017.jpg",
+      "width": 1600,
+      "height": 1200,
+      "title": "NORINCO VT-4 at IDEX 2017.jpg",
+      "description": "NORINCO VT-4 at IDEX 2017",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Thai_Army_VT4.png/1280px-Thai_Army_VT4.png",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/49/Thai_Army_VT4.png",
+      "width": 2282,
+      "height": 1382,
+      "title": "Thai Army VT4.png",
+      "description": "Thai Army VT4",
+      "license": "CC0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/VT-2_Tank_%2844396585660%29.jpg/1280px-VT-2_Tank_%2844396585660%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/e4/VT-2_Tank_%2844396585660%29.jpg",
+      "width": 5472,
+      "height": 3648,
+      "title": "VT-2 Tank (44396585660).jpg",
+      "description": "NORINCO VT2B Tank",
+      "license": "CC BY-SA 2.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/88/VT4_A2.png",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/88/VT4_A2.png",
+      "width": 745,
+      "height": 420,
+      "title": "VT4 A2.png",
+      "description": "VT4 A2",
+      "license": "CC0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/VT_4_12.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/VT_4_12.jpg",
+      "width": 1156,
+      "height": 768,
+      "title": "VT 4 12.jpg",
+      "description": "VT 4.12.02 w\u00e4hrend der Aufarbeitung im Bw Dresden Altstadt",
+      "license": "CC BY-SA 3.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/VT_4_12_01Vorderansicht_links.jpg/1280px-VT_4_12_01Vorderansicht_links.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/VT_4_12_01Vorderansicht_links.jpg",
+      "width": 2816,
+      "height": 2112,
+      "title": "VT 4 12 01Vorderansicht links.jpg",
+      "description": "Vorderansicht links des VT 4.12.01",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/VT_4_12_01_Fabrikschild.jpg/1280px-VT_4_12_01_Fabrikschild.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/bc/VT_4_12_01_Fabrikschild.jpg",
+      "width": 2816,
+      "height": 2112,
+      "title": "VT 4 12 01 Fabrikschild.jpg",
+      "description": "Fabrikschild des VT 4.12.01 im Bw Hoyerswerda",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/VT_4_12_01_K%C3%BChler.jpg/1280px-VT_4_12_01_K%C3%BChler.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/82/VT_4_12_01_K%C3%BChler.jpg",
+      "width": 2816,
+      "height": 2112,
+      "title": "VT 4 12 01 K\u00fchler.jpg",
+      "description": "Ansicht auf das K\u00fchlaggregat des VT 4.12.01",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/VT_4_12_01_R%C3%BCckansicht.jpg/1280px-VT_4_12_01_R%C3%BCckansicht.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/aa/VT_4_12_01_R%C3%BCckansicht.jpg",
+      "width": 2816,
+      "height": 2112,
+      "title": "VT 4 12 01 R\u00fcckansicht.jpg",
+      "description": "R\u00fcckansicht des VT 4.12.01 im Bw Hoyerswerda",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/VT_4_12_01_Schaku.jpg/1280px-VT_4_12_01_Schaku.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/VT_4_12_01_Schaku.jpg",
+      "width": 2816,
+      "height": 2112,
+      "title": "VT 4 12 01 Schaku.jpg",
+      "description": "Scharfenberg-Kupplung des VT 4.12.01",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/2001_Lamborghini_Diablo_VT_4.jpg/1280px-2001_Lamborghini_Diablo_VT_4.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/2001_Lamborghini_Diablo_VT_4.jpg",
+      "width": 16320,
+      "height": 10282,
+      "title": "2001 Lamborghini Diablo VT 4.jpg",
+      "description": "Lamborghini Diablo",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/VT_4_12_01_Stirnpartie.jpg/1280px-VT_4_12_01_Stirnpartie.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/4b/VT_4_12_01_Stirnpartie.jpg",
+      "width": 2112,
+      "height": 2816,
+      "title": "VT 4 12 01 Stirnpartie.jpg",
+      "description": "Stirnpartie des VT 4.12.01",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/VT_4_12_01_Vorderansicht_rechts.jpg/1280px-VT_4_12_01_Vorderansicht_rechts.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/d2/VT_4_12_01_Vorderansicht_rechts.jpg",
+      "width": 2816,
+      "height": 2112,
+      "title": "VT 4 12 01 Vorderansicht rechts.jpg",
+      "description": "Gesamtansicht des VT 4.12.01",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    }
+  ]
+}

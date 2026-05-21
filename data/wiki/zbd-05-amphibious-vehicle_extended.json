@@ -1,0 +1,198 @@
+{
+  "combat_history": [
+    {
+      "date": "2010s\u2013",
+      "event": "Equips PLA Navy Marine Corps and Army amphibious brigades; central to large amphibious exercises.",
+      "significance": "Hardware signature of China's amphibious-assault capability."
+    }
+  ],
+  "modernization": [
+    {
+      "program": "Amphibious force expansion",
+      "status": "in-progress",
+      "timeline": "ongoing",
+      "description": "Fielded across an expanding marine and amphibious force with Type 075/076 ships.",
+      "impact": "Builds the spearhead for opposed-landing operations."
+    }
+  ],
+  "vulnerabilities": [
+    {
+      "area": "Light armour",
+      "description": "Amphibious requirements limit protection.",
+      "context": "Vulnerable to coastal defences and anti-armour fire.",
+      "mitigation": "High water speed shortens exposure."
+    },
+    {
+      "area": "Sea-state limits",
+      "description": "High-speed planing degrades in rough seas.",
+      "context": "Taiwan Strait weather windows are narrow.",
+      "mitigation": "Launch from closer or in suitable conditions."
+    }
+  ],
+  "operational_patterns": {
+    "typical_deployment": "Ship-launched high-speed assault across water to land marines and provide fire support ashore.",
+    "key_operating_areas": [
+      "Taiwan Strait",
+      "South China Sea",
+      "amphibious approaches"
+    ],
+    "typical_task_group": "Launched from Type 075/076 and amphibious ships; operates with marines and air-cushioned craft.",
+    "readiness_notes": "Core PLA amphibious vehicle; force expanding."
+  },
+  "peer_comparisons": [
+    {
+      "platform": "AAV-7 / ACV",
+      "country": "United States",
+      "relationship": "class analogue",
+      "key_differences": "U.S. Marine amphibious vehicles; the Type 05 emphasises higher water speed for the approach.",
+      "video_angle": "Amphibious assault vehicles compared."
+    },
+    {
+      "platform": "Type 076 Landing Helicopter Dock",
+      "country": "China",
+      "relationship": "carrying ship",
+      "key_differences": "The Type 05 launches from China's amphibious assault ships in a landing.",
+      "video_angle": "How China would mount an amphibious assault."
+    },
+    {
+      "platform": "Type 15 light tank",
+      "country": "China",
+      "relationship": "amphibious stablemate",
+      "key_differences": "Both support landings/soft terrain; the Type 15 is a light tank, the Type 05 a high-speed amphibious carrier.",
+      "video_angle": "China's amphibious armour."
+    }
+  ],
+  "search_keywords": [
+    "ZBD-05",
+    "ZTD-05",
+    "Type 05 amphibious",
+    "Chinese amphibious vehicle",
+    "PLA marine vehicle",
+    "amphibious assault China"
+  ],
+  "doctrine": {
+    "role": "High-speed amphibious fighting vehicle to spearhead an opposed cross-water landing.",
+    "employment": "Launches offshore from amphibious ships and skims to shore at high speed; IFV and 105 mm assault-gun variants.",
+    "design_philosophy": "Solve the opposed-landing approach problem with high water speed.",
+    "threat_context": "A core hardware signature of China's amphibious-assault (Taiwan) capability.",
+    "comparison_frame": "Read with the Type 075/076 ships, the Type 15 light tank and U.S. AAV/ACV."
+  },
+  "curated_sources": [
+    {
+      "title": "ZBD-05 \u2014 Wikipedia",
+      "type": "reference",
+      "url": "https://en.wikipedia.org/wiki/ZBD-05",
+      "relevance": "Variants and amphibious role",
+      "priority": "reference"
+    },
+    {
+      "title": "CSIS China Power \u2014 amphibious capability",
+      "type": "research",
+      "url": "https://chinapower.csis.org/",
+      "relevance": "Cross-strait assault analysis",
+      "priority": "recommended"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/42/Chinese_ZBD-05.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/42/Chinese_ZBD-05.jpg",
+      "width": 900,
+      "height": 600,
+      "title": "Chinese ZBD-05.jpg",
+      "description": "Naval landing operation held within the Russian-Chinese exercise Naval Interaction-2015",
+      "license": "CC BY 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Mapillary_%28aceini%29_2021-07-08_09H45M05S000_%28950202642504017_at_qZbdLEyCkOKQ7xpXwjPInh_with_GoPro_Max%29.jpg/1280px-Mapillary_%28aceini%29_2021-07-08_09H45M05S000_%28950202642504017_at_qZbdLEyCkOKQ7xpXwjPInh_with_GoPro_Max%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/28/Mapillary_%28aceini%29_2021-07-08_09H45M05S000_%28950202642504017_at_qZbdLEyCkOKQ7xpXwjPInh_with_GoPro_Max%29.jpg",
+      "width": 5760,
+      "height": 2880,
+      "title": "Mapillary (aceini) 2021-07-08 09H45M05S000 (950202642504017 at qZbdLEyCkOKQ7xpXwjPInh with GoPro Max).jpg",
+      "description": "Photo from Mapillary\u00a0<span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"//commons.wikimedia.org/wiki/File:Mapillary_(aceini)_2021-07-08_09H45M05S000_(950202642504017_at_qZbdL",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Mapillary_%28aceini%29_2021-07-08_09H47M05S000_%28203285271803130_at_qZbdLEyCkOKQ7xpXwjPInh_with_GoPro_Max%29.jpg/1280px-Mapillary_%28aceini%29_2021-07-08_09H47M05S000_%28203285271803130_at_qZbdLEyCkOKQ7xpXwjPInh_with_GoPro_Max%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/31/Mapillary_%28aceini%29_2021-07-08_09H47M05S000_%28203285271803130_at_qZbdLEyCkOKQ7xpXwjPInh_with_GoPro_Max%29.jpg",
+      "width": 5760,
+      "height": 2880,
+      "title": "Mapillary (aceini) 2021-07-08 09H47M05S000 (203285271803130 at qZbdLEyCkOKQ7xpXwjPInh with GoPro Max).jpg",
+      "description": "Photo from Mapillary\u00a0<span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"//commons.wikimedia.org/wiki/File:Mapillary_(aceini)_2021-07-08_09H47M05S000_(203285271803130_at_qZbdL",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Military_Parade_in_Beijing.jpg/1280px-Military_Parade_in_Beijing.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Military_Parade_in_Beijing.jpg",
+      "width": 3872,
+      "height": 2592,
+      "title": "Military Parade in Beijing.jpg",
+      "description": "Training exercise for the military parade scheduled for October 1 2009, to celebrate China's 60th Anniversary.\nThe tanks rolled down Xidawang Lu in Chaoyang district in the east side of central Beijin",
+      "license": "CC BY 2.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Type_05_Amphibious_Fighting_Vehicle_Users.png/1280px-Type_05_Amphibious_Fighting_Vehicle_Users.png",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Type_05_Amphibious_Fighting_Vehicle_Users.png",
+      "width": 6460,
+      "height": 3403,
+      "title": "Type 05 Amphibious Fighting Vehicle Users.png",
+      "description": "Map of nations who use the Type 05 amphibious fighting vehicle",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/ZBD-05_amphibious_IFV_in_Beijing.jpg/1280px-ZBD-05_amphibious_IFV_in_Beijing.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/8f/ZBD-05_amphibious_IFV_in_Beijing.jpg",
+      "width": 3872,
+      "height": 2592,
+      "title": "ZBD-05 amphibious IFV in Beijing.jpg",
+      "description": "ZBD-05 type amphibious infantry fighting vehicle of the People's Liberation Army Marine Corps and claimed (because of an ability to plane) to be the fastest vehicle of its type when waterborne.",
+      "license": "CC BY 2.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/ZBD05_Countermeasures.png/1280px-ZBD05_Countermeasures.png",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/2d/ZBD05_Countermeasures.png",
+      "width": 1704,
+      "height": 954,
+      "title": "ZBD05 Countermeasures.png",
+      "description": "ZBD05 IFV releasing countermeasures",
+      "license": "CC BY 3.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/ZBD05_at_sea.png/1280px-ZBD05_at_sea.png",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/da/ZBD05_at_sea.png",
+      "width": 1704,
+      "height": 954,
+      "title": "ZBD05 at sea.png",
+      "description": "ZBD-05 at sea",
+      "license": "CC BY 3.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/ZTD-05-1.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/ZTD-05-1.jpg",
+      "width": 900,
+      "height": 600,
+      "title": "ZTD-05-1.jpg",
+      "description": "\u200bZTD-05\u4e24\u6816\u5766\u514b\u53c2\u52a0\u201c\u6d77\u4e0a\u8054\u5408-2016\u201d\u8054\u5408\u519b\u6f14\u3002",
+      "license": "CC BY 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/%E6%B5%B7%E5%86%9B%E5%8D%9A%E7%89%A9%E9%A6%86%E2%80%94%E2%80%94ZLT05%E5%BC%8F%E4%B8%A4%E6%A0%96%E8%A3%85%E7%94%B2%E7%AA%81%E5%87%BB%E8%BD%A6.jpg/1280px-%E6%B5%B7%E5%86%9B%E5%8D%9A%E7%89%A9%E9%A6%86%E2%80%94%E2%80%94ZLT05%E5%BC%8F%E4%B8%A4%E6%A0%96%E8%A3%85%E7%94%B2%E7%AA%81%E5%87%BB%E8%BD%A6.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/91/%E6%B5%B7%E5%86%9B%E5%8D%9A%E7%89%A9%E9%A6%86%E2%80%94%E2%80%94ZLT05%E5%BC%8F%E4%B8%A4%E6%A0%96%E8%A3%85%E7%94%B2%E7%AA%81%E5%87%BB%E8%BD%A6.jpg",
+      "width": 4000,
+      "height": 2992,
+      "title": "\u6d77\u519b\u535a\u7269\u9986\u2014\u2014ZLT05\u5f0f\u4e24\u6816\u88c5\u7532\u7a81\u51fb\u8f66.jpg",
+      "description": "\u200b\u9752\u5c9b\u6d77\u519b\u535a\u7269\u9986\u2014\u2014ZLT05\u5f0f\u4e24\u6816\u88c5\u7532\u7a81\u51fb\u8f66",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    }
+  ]
+}

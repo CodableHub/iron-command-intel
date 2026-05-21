@@ -1,0 +1,344 @@
+{
+  "id": 197,
+  "slug": "su-30mki",
+  "name": "Sukhoi Su-30MKI",
+  "designation": "Su-30MKI",
+  "type": "fighter",
+  "country": "India",
+  "operator": "Indian Air Force",
+  "overview_md": "The Sukhoi Su-30MKI is the heavyweight backbone of the Indian Air Force \u2014 a twin-engine, two-seat air-dominance fighter built in India by HAL under licence, and the most numerous and capable type in the IAF's frontline fleet. A heavily customised development of the Russian Su-30, the \"MKI\" (Modernizirovanniy Kommercheskiy Indiski) blends Russian airframe and engines with Israeli, French and Indian avionics into a uniquely Indian aircraft.\n\nIts defining features are agility and reach. Canards and thrust-vectoring AL-31FP engines give it exceptional manoeuvrability, while two engines and large fuel capacity provide the range to patrol India's vast frontiers with both China and Pakistan. With more than 260 in service, it carries a deep and varied weapons load \u2014 and most significantly, it is the launch platform for the air-launched BrahMos-A supersonic cruise missile, giving India a long-range maritime- and land-strike capability from the air.\n\nFor an analyst, the Su-30MKI is the muscle of Indian airpower and a barometer of India's defence trajectory. An ambitious \"Super Sukhoi\" upgrade \u2014 adding an indigenous AESA radar (Virupaksha), new mission computers and weapons \u2014 aims to keep the fleet relevant into the 2040s. It sits alongside the smaller numbers of French Rafales and the indigenous Tejas, anchoring India's two-front airpower against a modernising PLA Air Force.",
+  "specs_json": {
+    "length_m": 21.9,
+    "crew": 2,
+    "propulsion": "2 \u00d7 Saturn AL-31FP thrust-vectoring turbofans",
+    "radar": "N011M Bars PESA (Virupaksha AESA in 'Super Sukhoi' upgrade)",
+    "additional": {
+      "wingspan": "14.7 m",
+      "max_speed": "~Mach 2.0",
+      "combat_radius": "~1,500 km",
+      "ferry_range": "~3,000 km",
+      "service_ceiling": "~17,300 m",
+      "hardpoints": "12",
+      "signature_weapon": "Air-launched BrahMos-A cruise missile"
+    }
+  },
+  "armament_json": [
+    {
+      "category": "Anti-ship/land-attack",
+      "name": "BrahMos-A",
+      "type": "supersonic cruise missile",
+      "quantity": "1",
+      "range_km": 400,
+      "notes": "Signature long-range strike weapon"
+    },
+    {
+      "category": "Air-to-air (BVR)",
+      "name": "R-77 / Astra",
+      "type": "active-radar BVR AAM",
+      "range_km": 110,
+      "notes": "Indigenous Astra increasingly carried"
+    },
+    {
+      "category": "Air-to-air (WVR)",
+      "name": "R-73",
+      "type": "IR short-range AAM",
+      "range_km": 30,
+      "notes": "High off-boresight"
+    }
+  ],
+  "variants_json": [
+    {
+      "name": "Su-30MKI",
+      "years": "2002\u2013",
+      "key_changes": "Licence-built IAF air-dominance fighter",
+      "status": "active"
+    },
+    {
+      "name": "Super Sukhoi (upgrade)",
+      "years": "2025+",
+      "key_changes": "Indigenous AESA, new avionics and weapons",
+      "status": "planned"
+    }
+  ],
+  "fleet_status_json": [],
+  "cost_usd": 70000000.0,
+  "unit_count": 260,
+  "first_commissioned": "2002",
+  "builder": "Hindustan Aeronautics Limited (HAL), under licence from Sukhoi",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Sukhoi_Su-30MKi.jpg/3840px-Sukhoi_Su-30MKi.jpg",
+  "wiki_url": "https://en.wikipedia.org/wiki/Sukhoi_Su-30MKI",
+  "sources_json": [
+    "https://en.wikipedia.org/wiki/Sukhoi_Su-30MKI"
+  ],
+  "comparison_tags": [
+    "fighter",
+    "air-dominance",
+    "multirole",
+    "india",
+    "iaf",
+    "flanker"
+  ],
+  "created_at": "2026-05-21 08:52:07",
+  "updated_at": "2026-05-21T08:52:07.804427",
+  "news": [],
+  "events": [],
+  "ic_coverage": [],
+  "combat_history": [
+    {
+      "date": "2019",
+      "event": "Su-30MKIs flew air-defence sorties during the India\u2013Pakistan Balakot crisis.",
+      "significance": "Front-line role in a live two-nation military confrontation."
+    }
+  ],
+  "modernization": [
+    {
+      "program": "Super Sukhoi",
+      "status": "planned",
+      "timeline": "2025\u20132040s",
+      "description": "Fleet-wide upgrade with indigenous AESA radar, mission systems and weapons.",
+      "impact": "Keeps the IAF's most numerous fighter relevant for decades."
+    }
+  ],
+  "vulnerabilities": [
+    {
+      "area": "Non-stealthy 4th-gen",
+      "description": "Large radar signature against modern stealth fighters and IADS.",
+      "context": "Outmatched by 5th-gen types like the J-20 in a first-look fight.",
+      "mitigation": "AESA and weapons upgrades; numbers and reach."
+    },
+    {
+      "area": "Maintenance/availability",
+      "description": "The fleet has faced serviceability and Russian-supply-chain challenges.",
+      "context": "Sanctions on Russia complicate spares.",
+      "mitigation": "Indigenisation under Super Sukhoi."
+    }
+  ],
+  "operational_patterns": {
+    "typical_deployment": "Air dominance and long-range strike across India's northern and maritime frontiers.",
+    "key_operating_areas": [
+      "China\u2013India border",
+      "Indian Ocean",
+      "Arabian Sea",
+      "Bay of Bengal"
+    ],
+    "typical_task_group": "Operates with Rafale, MiG-29 and indigenous Tejas in the IAF.",
+    "readiness_notes": "Backbone fleet; major upgrade pending."
+  },
+  "peer_comparisons": [
+    {
+      "platform": "Chengdu J-20",
+      "country": "China",
+      "relationship": "primary adversary",
+      "key_differences": "The J-20 is a 5th-gen stealth fighter; the Su-30MKI is a highly agile 4th-gen with great range and the BrahMos.",
+      "video_angle": "India's Flanker vs China's stealth fighter."
+    },
+    {
+      "platform": "Su-35S Flanker-E",
+      "country": "Russia",
+      "relationship": "design cousin",
+      "key_differences": "Both are advanced Flanker derivatives; the MKI is Indianised with Western avionics and the BrahMos.",
+      "video_angle": "The Flanker family compared."
+    },
+    {
+      "platform": "Dassault Rafale",
+      "country": "France",
+      "relationship": "fleet stablemate",
+      "key_differences": "The Rafale is a smaller, more modern omnirole fighter; the Su-30MKI provides mass and reach.",
+      "video_angle": "India's high-low fighter mix."
+    }
+  ],
+  "search_keywords": [
+    "Su-30MKI",
+    "Su-30 MKI",
+    "Indian Flanker",
+    "Super Sukhoi",
+    "BrahMos-A",
+    "IAF fighter",
+    "HAL Su-30"
+  ],
+  "doctrine": {
+    "role": "Heavyweight air-dominance and long-range strike fighter \u2014 the backbone of the Indian Air Force.",
+    "employment": "Long-range patrols and BVR air combat; air-launched BrahMos for maritime and land strike.",
+    "design_philosophy": "Agility and reach via thrust-vectoring and twin engines, Indianised with multinational avionics.",
+    "threat_context": "Anchors India's two-front airpower against China's modernising PLAAF and Pakistan.",
+    "comparison_frame": "Read against the J-20 (adversary), the Su-35 (cousin) and the Rafale (stablemate)."
+  },
+  "curated_sources": [
+    {
+      "title": "Sukhoi Su-30MKI \u2014 Wikipedia",
+      "type": "reference",
+      "url": "https://en.wikipedia.org/wiki/Sukhoi_Su-30MKI",
+      "relevance": "Specs, variants, weapons",
+      "priority": "reference"
+    },
+    {
+      "title": "IISS Military Balance \u2014 India air forces",
+      "type": "research",
+      "url": "https://www.iiss.org/publications/the-military-balance",
+      "relevance": "Fleet numbers",
+      "priority": "recommended"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Indian_Air_Force_Su-30MKI_and_Dassault_Rafale.jpg/1280px-Indian_Air_Force_Su-30MKI_and_Dassault_Rafale.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/25/Indian_Air_Force_Su-30MKI_and_Dassault_Rafale.jpg",
+      "width": 4096,
+      "height": 2730,
+      "title": "Indian Air Force Su-30MKI and Dassault Rafale.jpg",
+      "description": "Indian Air Force Su-30 MKI and Dassault Rafale flying in formation",
+      "license": "EdictGov-India",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Indian_Air_Force_Sukhoi_Su-30MKI_Lofting-3.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Indian_Air_Force_Sukhoi_Su-30MKI_Lofting-3.jpg",
+      "width": 1280,
+      "height": 851,
+      "title": "Indian Air Force Sukhoi Su-30MKI Lofting-3.jpg",
+      "description": "Indian Air Force Sukhoi Su-30MKI",
+      "license": "GFDL 1.2",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/SU-30MKI_India.jpg/1280px-SU-30MKI_India.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/64/SU-30MKI_India.jpg",
+      "width": 1829,
+      "height": 1200,
+      "title": "SU-30MKI India.jpg",
+      "description": "GWALIOR AIR FORCE STATION -- An Indian air force SU-30K Flanker lands here following a simulated combat mission with U.S. Air Force F-15 Eagles deployed from Elmendorf Air Force Base, Alaska. About 15",
+      "license": "Public domain",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Su-30MKI.jpg/1280px-Su-30MKI.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Su-30MKI.jpg",
+      "width": 7000,
+      "height": 5600,
+      "title": "Su-30MKI.jpg",
+      "description": "Su-30MKI",
+      "license": "CC BY 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Su-30MKI_nosewheel.jpeg/1280px-Su-30MKI_nosewheel.jpeg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Su-30MKI_nosewheel.jpeg",
+      "width": 2272,
+      "height": 1704,
+      "title": "Su-30MKI nosewheel.jpeg",
+      "description": "Nosewheel of the Su-30MKI showing that the diagonal linking strut on the flankers is mounted externally and fixed to the fuselage instead of the gear leg.",
+      "license": "CC BY-SA 2.5 nl",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Sukhoi_Su-30MKI-3_%27SB_138%27_%2819844715383%29.jpg/1280px-Sukhoi_Su-30MKI-3_%27SB_138%27_%2819844715383%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Sukhoi_Su-30MKI-3_%27SB_138%27_%2819844715383%29.jpg",
+      "width": 5152,
+      "height": 3435,
+      "title": "Sukhoi Su-30MKI-3 'SB 138' (19844715383).jpg",
+      "description": "<p>Operated by 2sqn, Indian Air Force, and based at Kalaikunda.\nSeen taxiing out to depart from RAF Coningsby, Lincolnshire, UK, during Operation Indradhanush IV.\n</p>\n29-7-2015",
+      "license": "CC BY-SA 2.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Sukhoi_Su-30MKI_%2852709138917%29.jpg/1280px-Sukhoi_Su-30MKI_%2852709138917%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Sukhoi_Su-30MKI_%2852709138917%29.jpg",
+      "width": 3737,
+      "height": 2520,
+      "title": "Sukhoi Su-30MKI (52709138917).jpg",
+      "description": "performance during Aero India 2023",
+      "license": "CC BY-SA 2.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Sukhoi_Su-30MKI_%2852709920849%29.jpg/1280px-Sukhoi_Su-30MKI_%2852709920849%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/22/Sukhoi_Su-30MKI_%2852709920849%29.jpg",
+      "width": 3026,
+      "height": 1526,
+      "title": "Sukhoi Su-30MKI (52709920849).jpg",
+      "description": "performance during Aero India 2023",
+      "license": "CC BY-SA 2.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Sukhoi_Su-30MKI_%2852710073040%29.jpg/1280px-Sukhoi_Su-30MKI_%2852710073040%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/27/Sukhoi_Su-30MKI_%2852710073040%29.jpg",
+      "width": 3402,
+      "height": 2010,
+      "title": "Sukhoi Su-30MKI (52710073040).jpg",
+      "description": "performance during Aero India 2023",
+      "license": "CC BY-SA 2.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Sukhoi_Su-30MKi.jpg/1280px-Sukhoi_Su-30MKi.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/61/Sukhoi_Su-30MKi.jpg",
+      "width": 4000,
+      "height": 2667,
+      "title": "Sukhoi Su-30MKi.jpg",
+      "description": "Su-30MKI of the IAF touching down with airbrakes deployed.",
+      "license": "CC BY 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Indian_Air_Force_Sukhoi_Su-30MKI_Lofting-1.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Indian_Air_Force_Sukhoi_Su-30MKI_Lofting-1.jpg",
+      "width": 1280,
+      "height": 849,
+      "title": "Indian Air Force Sukhoi Su-30MKI Lofting-1.jpg",
+      "description": "Indian Air Force Sukhoi Su-30MKI",
+      "license": "GFDL 1.2",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/81/Indian_Air_Force_Sukhoi_Su-30MKI_Lofting-2.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/81/Indian_Air_Force_Sukhoi_Su-30MKI_Lofting-2.jpg",
+      "width": 1280,
+      "height": 849,
+      "title": "Indian Air Force Sukhoi Su-30MKI Lofting-2.jpg",
+      "description": "Indian Air Force Sukhoi Su-30MKI",
+      "license": "GFDL 1.2",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Indian_Air_Force_Sukhoi_Su-30MKI_Lofting-4.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Indian_Air_Force_Sukhoi_Su-30MKI_Lofting-4.jpg",
+      "width": 1280,
+      "height": 851,
+      "title": "Indian Air Force Sukhoi Su-30MKI Lofting-4.jpg",
+      "description": "Indian Air Force Sukhoi Su-30MKI",
+      "license": "GFDL 1.2",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/40/Indian_Air_Force_Sukhoi_Su-30MKI_Lofting-5.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/40/Indian_Air_Force_Sukhoi_Su-30MKI_Lofting-5.jpg",
+      "width": 1280,
+      "height": 849,
+      "title": "Indian Air Force Sukhoi Su-30MKI Lofting-5.jpg",
+      "description": "Indian Air Force Sukhoi Su-30MKI",
+      "license": "GFDL 1.2",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/SB036_Sukhoi_SU-30MKI_Indian_Air_Force_%288413514969%29.jpg/1280px-SB036_Sukhoi_SU-30MKI_Indian_Air_Force_%288413514969%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/7d/SB036_Sukhoi_SU-30MKI_Indian_Air_Force_%288413514969%29.jpg",
+      "width": 1536,
+      "height": 1024,
+      "title": "SB036 Sukhoi SU-30MKI Indian Air Force (8413514969).jpg",
+      "description": "At Bangalore Yelahanka Air Force Base",
+      "license": "CC BY-SA 3.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Su-30MKI_SB-042_Indian_Air_Force_%282993377996%29.jpg/1280px-Su-30MKI_SB-042_Indian_Air_Force_%282993377996%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/74/Su-30MKI_SB-042_Indian_Air_Force_%282993377996%29.jpg",
+      "width": 4256,
+      "height": 2848,
+      "title": "Su-30MKI SB-042 Indian Air Force (2993377996).jpg",
+      "description": "Su-30MKI SB-042 from 30Sq Rhinos Indian AF at RAF Waddington, 07-07-07 taking part in Exercise \"Indra Danush\" 2007",
+      "license": "CC BY 2.0",
+      "source": "wikimedia"
+    }
+  ]
+}

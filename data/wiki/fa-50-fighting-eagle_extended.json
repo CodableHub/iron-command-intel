@@ -1,0 +1,261 @@
+{
+  "combat_history": [
+    {
+      "date": "2017",
+      "event": "Philippine FA-50PHs conducted air strikes during the Marawi siege.",
+      "significance": "Combat employment in a Southeast Asian counter-insurgency."
+    }
+  ],
+  "modernization": [
+    {
+      "program": "AESA & BVR upgrade",
+      "status": "in-progress",
+      "timeline": "2024+",
+      "description": "AESA radar, beyond-visual-range missiles and aerial refuelling.",
+      "impact": "Keeps the FA-50 credible as a light fighter, not just a trainer."
+    }
+  ],
+  "vulnerabilities": [
+    {
+      "area": "Light capability",
+      "description": "Limited range, payload and sensors versus true fighters.",
+      "context": "A light/lead-in aircraft, not a frontline fighter.",
+      "mitigation": "AESA/BVR upgrades extend its utility."
+    },
+    {
+      "area": "Single-engine, short-legged",
+      "description": "Modest combat radius.",
+      "context": "Needs basing close to operations.",
+      "mitigation": "Aerial-refuelling upgrade."
+    }
+  ],
+  "operational_patterns": {
+    "typical_deployment": "Light air defence, ground attack and lead-in fighter training for budget-conscious air forces.",
+    "key_operating_areas": [
+      "Philippines",
+      "Thailand",
+      "Malaysia",
+      "Indonesia",
+      "(Europe) Poland"
+    ],
+    "typical_task_group": "Often the high-end of a small air force, or a complement to F-16s.",
+    "readiness_notes": "Widely exported; capability upgrades underway."
+  },
+  "peer_comparisons": [
+    {
+      "platform": "HAL Tejas",
+      "country": "India",
+      "relationship": "export rival",
+      "key_differences": "Both chase Global-South light-fighter orders; the FA-50 is cheaper and trainer-derived, the Tejas a clean-sheet fighter.",
+      "video_angle": "The light-fighter export race."
+    },
+    {
+      "platform": "JF-17 Thunder",
+      "country": "China/Pakistan",
+      "relationship": "export competitor",
+      "key_differences": "The JF-17 is a heavier light fighter; the FA-50 leverages F-16 commonality and trainer roots.",
+      "video_angle": "Budget fighters of the Indo-Pacific."
+    },
+    {
+      "platform": "KAI KF-21 Boramae",
+      "country": "South Korea",
+      "relationship": "high-end stablemate",
+      "key_differences": "The KF-21 is KAI's advanced fighter; the FA-50 is the affordable light end of the same pipeline.",
+      "video_angle": "Korea's light-to-medium fighter ladder."
+    }
+  ],
+  "search_keywords": [
+    "FA-50",
+    "FA-50 Fighting Eagle",
+    "T-50 Golden Eagle",
+    "KAI FA-50",
+    "FA-50PH",
+    "light combat aircraft",
+    "Korean trainer fighter"
+  ],
+  "doctrine": {
+    "role": "Affordable light combat aircraft and lead-in fighter trainer for budget-conscious air forces.",
+    "employment": "Light air defence and ground attack; the high-end of many small Southeast Asian air forces.",
+    "design_philosophy": "Cheap, supersonic, F-16-common capability available for export.",
+    "threat_context": "The connective light-combat aircraft of much of Southeast Asia and a pillar of Korean defence exports.",
+    "comparison_frame": "Read against the Tejas, JF-17 and (high-end) the KF-21."
+  },
+  "curated_sources": [
+    {
+      "title": "KAI T-50/FA-50 \u2014 Wikipedia",
+      "type": "reference",
+      "url": "https://en.wikipedia.org/wiki/KAI_T-50_Golden_Eagle",
+      "relevance": "Variants, operators, combat use",
+      "priority": "reference"
+    },
+    {
+      "title": "KAI / DAPA releases",
+      "type": "official",
+      "url": "https://www.koreaaero.com/",
+      "relevance": "Export and upgrade context",
+      "priority": "recommended"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/2022-04-29_FA-50_001.jpg/1280px-2022-04-29_FA-50_001.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/10/2022-04-29_FA-50_001.jpg",
+      "width": 3547,
+      "height": 1800,
+      "title": "2022-04-29 FA-50 001.jpg",
+      "description": "A Scale Model of an FA-50 Block 15 Aircraft at the 2022 Asia Defense And Security (ADAS) Event at the World Trade Center (WTC) in Pasay",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/2022-04-29_FA-50_002.jpg/1280px-2022-04-29_FA-50_002.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/9d/2022-04-29_FA-50_002.jpg",
+      "width": 3719,
+      "height": 1800,
+      "title": "2022-04-29 FA-50 002.jpg",
+      "description": "A Scale Model of an FA-50 Block 15 Aircraft at the 2022 Asia Defense And Security (ADAS) Event at the World Trade Center (WTC) in Pasay",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/2022-04-29_FA-50_LGB.jpg/1280px-2022-04-29_FA-50_LGB.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/6d/2022-04-29_FA-50_LGB.jpg",
+      "width": 3200,
+      "height": 1800,
+      "title": "2022-04-29 FA-50 LGB.jpg",
+      "description": "A Laser Guided Bomb (LGB) on a Scale Model of an FA-50 Block 15 Aircraft at the 2022 Asia Defense And Security (ADAS) Event at the World Trade Center (WTC) in Pasay",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/2022-04-29_FA-50_Pod.jpg/1280px-2022-04-29_FA-50_Pod.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/3e/2022-04-29_FA-50_Pod.jpg",
+      "width": 3257,
+      "height": 1800,
+      "title": "2022-04-29 FA-50 Pod.jpg",
+      "description": "A Tactical Reconnaissance Pod on a Scale Model of an FA-50 Block 15 Aircraft at the 2022 Asia Defense And Security (ADAS) Event at the World Trade Center (WTC) in Pasay",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/2022-04-29_FA-50_Probe.jpg/1280px-2022-04-29_FA-50_Probe.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/2022-04-29_FA-50_Probe.jpg",
+      "width": 3325,
+      "height": 1800,
+      "title": "2022-04-29 FA-50 Probe.jpg",
+      "description": "The refueling probe on a scale model of an FA-50 Block 15 aircraft at the 2022 Asia Defense And Security (ADAS) event at the World Trade Center (WTC) in Pasay.",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/2024-06-13_FA-50_blk_10_Scale_Model.jpg/1280px-2024-06-13_FA-50_blk_10_Scale_Model.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/b5/2024-06-13_FA-50_blk_10_Scale_Model.jpg",
+      "width": 3920,
+      "height": 1800,
+      "title": "2024-06-13 FA-50 blk 10 Scale Model.jpg",
+      "description": "A Scale Model of an FA-50 block 10 Aircraft shown during the 2024 PAF Symposium at the Marriott Hotel in Pasay",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/FA-50_Fighting_Eagle_First_Delivery_3.jpg/1280px-FA-50_Fighting_Eagle_First_Delivery_3.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/FA-50_Fighting_Eagle_First_Delivery_3.jpg",
+      "width": 2500,
+      "height": 1658,
+      "title": "FA-50 Fighting Eagle First Delivery 3.jpg",
+      "description": "FA-50 Fighting Eagle First Delivery \n<p>Light Combat FA-50 Fighting Eagle\n</p><p>/ Landing for First delivery\n</p><p>/ Photo by ROKAF (2013)\n</p>\n\ud55c\uad6d\ud56d\uacf5\uc6b0\uc8fc\uc0b0\uc5c5",
+      "license": "CC BY 2.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/FA-50_PAF_5001_at_NATO_Days_2023.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/FA-50_PAF_5001_at_NATO_Days_2023.jpg",
+      "width": 1024,
+      "height": 768,
+      "title": "FA-50 PAF 5001 at NATO Days 2023.jpg",
+      "description": "Polish Air Force KAI FA-50GF <i>Fighting Eagle</i>, registration 5001, on display at NATO Days Ostrava 2023",
+      "license": "CC BY-SA 3.0 de",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/FA-50_fighting_Eagle_on_the_Runway.jpg/1280px-FA-50_fighting_Eagle_on_the_Runway.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/FA-50_fighting_Eagle_on_the_Runway.jpg",
+      "width": 2500,
+      "height": 1785,
+      "title": "FA-50 fighting Eagle on the Runway.jpg",
+      "description": "FA-50 fighting Eagle on the Runway \n<p>Light Combat FA-50 Fighting Eagle\n/ Ready to takeoff on the runway\n</p>\n/ Photo by KAI (2013)",
+      "license": "CC BY 2.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/KAI_FA-50_Fighting_Eagle_of_ROK_AirForce_%28cropped%29.jpg/1280px-KAI_FA-50_Fighting_Eagle_of_ROK_AirForce_%28cropped%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/87/KAI_FA-50_Fighting_Eagle_of_ROK_AirForce_%28cropped%29.jpg",
+      "width": 1967,
+      "height": 1256,
+      "title": "KAI FA-50 Fighting Eagle of ROK AirForce (cropped).jpg",
+      "description": "KAI FA-50 Fighting Eagle of ROK Air Force",
+      "license": "CC BY-SA 2.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/001_Wild_Golden_Eagle_and_Majinghorn_Pfyn-Finges_Photo_by_Giles_Laurent.jpg/1280px-001_Wild_Golden_Eagle_and_Majinghorn_Pfyn-Finges_Photo_by_Giles_Laurent.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/09/001_Wild_Golden_Eagle_and_Majinghorn_Pfyn-Finges_Photo_by_Giles_Laurent.jpg",
+      "width": 8640,
+      "height": 4719,
+      "title": "001 Wild Golden Eagle and Majinghorn Pfyn-Finges Photo by Giles Laurent.jpg",
+      "description": "Wild golden eagle and Majinghorn (Pfyn-Finges, Switzerland)",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/17/KAI_T-50_Golden_Eable_by_Ryabtsev.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/17/KAI_T-50_Golden_Eable_by_Ryabtsev.jpg",
+      "width": 1100,
+      "height": 672,
+      "title": "KAI T-50 Golden Eable by Ryabtsev.jpg",
+      "description": "KAI T-50 Golden Eagle",
+      "license": "GFDL 1.2",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/KAI_T-50_Golden_Eagle%2C_South_Korea_-_Air_Force_JP6772728.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/KAI_T-50_Golden_Eagle%2C_South_Korea_-_Air_Force_JP6772728.jpg",
+      "width": 1200,
+      "height": 810,
+      "title": "KAI T-50 Golden Eagle, South Korea - Air Force JP6772728.jpg",
+      "description": "",
+      "license": "GFDL 1.2",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/KAI_T-50_Golden_Eagle_Demo_flight.jpg/1280px-KAI_T-50_Golden_Eagle_Demo_flight.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/0a/KAI_T-50_Golden_Eagle_Demo_flight.jpg",
+      "width": 1353,
+      "height": 866,
+      "title": "KAI T-50 Golden Eagle Demo flight.jpg",
+      "description": "KAI T-50 Golden Eagle Demo flight",
+      "license": "CC BY 2.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Korea_Aerospace_Industries_T-50_Golden_Eagle_%28scale_model%29_front_top_view_in_KAI_booth_of_JA2024_at_Tokyo_Big_Sight_October_19%2C_2024.jpg/1280px-Korea_Aerospace_Industries_T-50_Golden_Eagle_%28scale_model%29_front_top_view_in_KAI_booth_of_JA2024_at_Tokyo_Big_Sight_October_19%2C_2024.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/68/Korea_Aerospace_Industries_T-50_Golden_Eagle_%28scale_model%29_front_top_view_in_KAI_booth_of_JA2024_at_Tokyo_Big_Sight_October_19%2C_2024.jpg",
+      "width": 3024,
+      "height": 3024,
+      "title": "Korea Aerospace Industries T-50 Golden Eagle (scale model) front top view in KAI booth of JA2024 at Tokyo Big Sight October 19, 2024.jpg",
+      "description": "\u97d3\u56fd\u822a\u7a7a\u5b87\u5b99\u7523\u696d\uff08KAI\uff09\u3000T-50\u300c\u30b4\u30fc\u30eb\u30c7\u30f3\u30a4\u30fc\u30b0\u30eb\u300d\u7df4\u7fd2\u6a5f\uff081/7\u30b9\u30b1\u30fc\u30eb\u6a21\u578b\uff09\u3000\u6b63\u9762\u4e0a\u90e8\u30022024\u5e7410\u670819\u65e5\u3000\u6771\u4eac\u30d3\u30c3\u30b0\u30b5\u30a4\u30c8\u3067\u958b\u50ac\u3055\u308c\u305f2024\u56fd\u969b\u822a\u7a7a\u5b87\u5b99\u5c55\uff08JA2024\uff09\u3000KAI\u30d6\u30fc\u30b9\u5185\u306b\u3066\u3002",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Korea_Aerospace_Industries_T-50_Golden_Eagle_%28scale_model%29_left_front_low-angle_view_in_KAI_booth_of_JA2024_at_Tokyo_Big_Sight_October_19%2C_2024.jpg/1280px-Korea_Aerospace_Industries_T-50_Golden_Eagle_%28scale_model%29_left_front_low-angle_view_in_KAI_booth_of_JA2024_at_Tokyo_Big_Sight_October_19%2C_2024.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/75/Korea_Aerospace_Industries_T-50_Golden_Eagle_%28scale_model%29_left_front_low-angle_view_in_KAI_booth_of_JA2024_at_Tokyo_Big_Sight_October_19%2C_2024.jpg",
+      "width": 5408,
+      "height": 3600,
+      "title": "Korea Aerospace Industries T-50 Golden Eagle (scale model) left front low-angle view in KAI booth of JA2024 at Tokyo Big Sight October 19, 2024.jpg",
+      "description": "\u97d3\u56fd\u822a\u7a7a\u5b87\u5b99\u7523\u696d\uff08KAI\uff09\u3000T-50\u300c\u30b4\u30fc\u30eb\u30c7\u30f3\u30a4\u30fc\u30b0\u30eb\u300d\u7df4\u7fd2\u6a5f\uff081/7\u30b9\u30b1\u30fc\u30eb\u6a21\u578b\uff09\u3000\u5de6\u524d\u9762\u30ed\u30fc\u30a2\u30f3\u30b0\u30eb\u30022024\u5e7410\u670819\u65e5\u3000\u6771\u4eac\u30d3\u30c3\u30b0\u30b5\u30a4\u30c8\u3067\u958b\u50ac\u3055\u308c\u305f2024\u56fd\u969b\u822a\u7a7a\u5b87\u5b99\u5c55\uff08JA2024\uff09\u3000KAI\u30d6\u30fc\u30b9\u5185\u306b\u3066\u3002",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    }
+  ]
+}

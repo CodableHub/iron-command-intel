@@ -1,0 +1,344 @@
+{
+  "id": 198,
+  "slug": "hal-tejas",
+  "name": "HAL Tejas",
+  "designation": "Tejas (LCA)",
+  "type": "fighter",
+  "country": "India",
+  "operator": "Indian Air Force (and Indian Navy trials)",
+  "overview_md": "The HAL Tejas is India's indigenous light combat aircraft \u2014 a single-engine, tailless delta-wing fighter that, after a famously long development, has become the symbol of India's drive for self-reliance in defence. Designed to replace the ageing MiG-21, it is a lightweight multirole fighter built largely from composites, with relaxed static stability and fly-by-wire controls.\n\nThe programme's value lies less in any single performance figure than in the industrial capability it represents. The baseline Tejas Mk1 entered IAF service from 2016, and the substantially improved Tejas Mk1A \u2014 with an AESA radar, electronic-warfare suite, beyond-visual-range missiles and easier maintenance \u2014 is now in series production under large IAF orders. A more powerful Tejas Mk2 (Medium Weight Fighter) with a bigger F414 engine and canards is in development to take on heavier roles.\n\nFor an analyst, the Tejas is India's bid to build a sovereign fighter pipeline rather than depend on imports \u2014 and a potential export product for the Global South, with interest from several countries. It will not out-fight a J-20, and the programme has been slow, but a maturing Tejas line gives India numbers, jobs and industrial depth, and underpins the more ambitious AMCA fifth-generation fighter to follow.",
+  "specs_json": {
+    "length_m": 13.2,
+    "crew": 1,
+    "propulsion": "1 \u00d7 GE F404-IN20 turbofan (F414 on Mk2)",
+    "radar": "EL/M-2052 / Uttam AESA (Mk1A)",
+    "additional": {
+      "wingspan": "8.2 m",
+      "max_speed": "~Mach 1.6",
+      "combat_radius": "~500 km",
+      "service_ceiling": "~15,000 m",
+      "hardpoints": "8",
+      "construction": "Composite-heavy, fly-by-wire delta",
+      "successor": "Tejas Mk2 (MWF) in development"
+    }
+  },
+  "armament_json": [
+    {
+      "category": "Air-to-air",
+      "name": "Astra / Derby / R-73",
+      "type": "BVR + WVR AAMs",
+      "range_km": 110,
+      "notes": "Indigenous Astra on Mk1A"
+    },
+    {
+      "category": "Air-to-ground",
+      "name": "Precision-guided bombs / missiles",
+      "type": "guided munitions",
+      "notes": "Multirole strike"
+    },
+    {
+      "category": "Gun",
+      "name": "23 mm GSh-23 cannon",
+      "type": "cannon",
+      "notes": "Internal"
+    }
+  ],
+  "variants_json": [
+    {
+      "name": "Tejas Mk1",
+      "years": "2016\u2013",
+      "key_changes": "Initial operational LCA",
+      "status": "active"
+    },
+    {
+      "name": "Tejas Mk1A",
+      "years": "2024\u2013",
+      "key_changes": "AESA radar, EW suite, BVR, maintainability",
+      "status": "building"
+    },
+    {
+      "name": "Tejas Mk2 (MWF)",
+      "years": "in development",
+      "key_changes": "F414 engine, canards, heavier multirole",
+      "status": "planned"
+    }
+  ],
+  "fleet_status_json": [],
+  "cost_usd": 45000000.0,
+  "unit_count": 40,
+  "first_commissioned": "2016",
+  "builder": "Hindustan Aeronautics Limited (HAL)",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/HAL_Tejas_%28LA-5018%29_of_Squadron_18_Flying_Bullets.jpg/3840px-HAL_Tejas_%28LA-5018%29_of_Squadron_18_Flying_Bullets.jpg",
+  "wiki_url": "https://en.wikipedia.org/wiki/HAL_Tejas",
+  "sources_json": [
+    "https://en.wikipedia.org/wiki/HAL_Tejas"
+  ],
+  "comparison_tags": [
+    "fighter",
+    "light-fighter",
+    "indigenous",
+    "india",
+    "iaf"
+  ],
+  "created_at": "2026-05-21 08:52:13",
+  "updated_at": "2026-05-21T08:52:13.437390",
+  "news": [],
+  "events": [],
+  "ic_coverage": [],
+  "combat_history": [
+    {
+      "date": "ongoing",
+      "event": "No combat use; inducted into IAF squadrons replacing the MiG-21.",
+      "significance": "Milestone for indigenous Indian fighter production."
+    }
+  ],
+  "modernization": [
+    {
+      "program": "Mk1A series production & Mk2",
+      "status": "in-progress",
+      "timeline": "2024\u2013",
+      "description": "Large Mk1A orders and development of the more capable Mk2.",
+      "impact": "Builds a sovereign fighter pipeline and squadron numbers."
+    }
+  ],
+  "vulnerabilities": [
+    {
+      "area": "Light, short-legged",
+      "description": "Limited range and payload versus heavier fighters.",
+      "context": "A point-defence/light-multirole aircraft, not a long-range striker.",
+      "mitigation": "Mk2 adds range and payload."
+    },
+    {
+      "area": "Programme pace & supply",
+      "description": "Slow development and engine-import dependence (GE).",
+      "context": "Production ramp has lagged demand.",
+      "mitigation": "Indigenous content rising; orders placed."
+    }
+  ],
+  "operational_patterns": {
+    "typical_deployment": "Point air defence and light multirole across Indian airspace, replacing the MiG-21.",
+    "key_operating_areas": [
+      "India (national airspace)",
+      "Pakistan border",
+      "western sectors"
+    ],
+    "typical_task_group": "Complements Su-30MKI and Rafale in the IAF.",
+    "readiness_notes": "Mk1A entering production; Mk2 developing."
+  },
+  "peer_comparisons": [
+    {
+      "platform": "JF-17 Thunder",
+      "country": "China/Pakistan",
+      "relationship": "direct rival",
+      "key_differences": "The JF-17 is the Sino-Pakistani light fighter the Tejas competes with on capability and export markets.",
+      "video_angle": "Tejas vs JF-17 \u2014 South Asia's light fighters."
+    },
+    {
+      "platform": "JAS 39 Gripen",
+      "country": "Sweden",
+      "relationship": "class benchmark",
+      "key_differences": "The Gripen is a more mature single-engine light fighter the Tejas aspires to match.",
+      "video_angle": "How the Tejas measures up to the Gripen."
+    },
+    {
+      "platform": "KAI FA-50",
+      "country": "South Korea",
+      "relationship": "export competitor",
+      "key_differences": "Both are light fighters chasing Global-South export orders.",
+      "video_angle": "The light-fighter export race."
+    }
+  ],
+  "search_keywords": [
+    "HAL Tejas",
+    "Tejas LCA",
+    "Tejas Mk1A",
+    "Tejas Mk2",
+    "Indian light combat aircraft",
+    "LCA"
+  ],
+  "doctrine": {
+    "role": "Indigenous light multirole fighter for point air defence and self-reliant fighter production.",
+    "employment": "Fly-by-wire delta for agile air defence and light strike, replacing the MiG-21.",
+    "design_philosophy": "Sovereign capability and industrial depth over peak performance.",
+    "threat_context": "Gives India numbers and a domestic fighter pipeline underpinning the future AMCA.",
+    "comparison_frame": "Read against the JF-17, Gripen and FA-50."
+  },
+  "curated_sources": [
+    {
+      "title": "HAL Tejas \u2014 Wikipedia",
+      "type": "reference",
+      "url": "https://en.wikipedia.org/wiki/HAL_Tejas",
+      "relevance": "Variants and development",
+      "priority": "reference"
+    },
+    {
+      "title": "HAL / Indian MoD releases",
+      "type": "official",
+      "url": "https://hal-india.co.in/",
+      "relevance": "Program and orders",
+      "priority": "recommended"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Air_Marshal_AP_SIngh_posing_with_HAL_Tejas_%28LA5022%29_of_18_squadron_during_Ex_Tarangshakti_2024.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Air_Marshal_AP_SIngh_posing_with_HAL_Tejas_%28LA5022%29_of_18_squadron_during_Ex_Tarangshakti_2024.jpg",
+      "width": 1280,
+      "height": 850,
+      "title": "Air Marshal AP SIngh posing with HAL Tejas (LA5022) of 18 squadron during Ex Tarangshakti 2024.jpg",
+      "description": "Air Marshal AP SIngh posing with HAL Tejas (LA5022) of 18 squadron during Ex Tarangshakti 2024",
+      "license": "GODL-India",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/HAL_Tejas.jpg/1280px-HAL_Tejas.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/78/HAL_Tejas.jpg",
+      "width": 1824,
+      "height": 885,
+      "title": "HAL Tejas.jpg",
+      "description": "HAL Tejas at Aero India 2009",
+      "license": "CC BY 3.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/HAL_Tejas_%28LA-5022%29_and_Tejas_twin_seat_%28LT-5201%29_during_Ex.Tarangshakti24.jpg/1280px-HAL_Tejas_%28LA-5022%29_and_Tejas_twin_seat_%28LT-5201%29_during_Ex.Tarangshakti24.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/b5/HAL_Tejas_%28LA-5022%29_and_Tejas_twin_seat_%28LT-5201%29_during_Ex.Tarangshakti24.jpg",
+      "width": 1600,
+      "height": 1066,
+      "title": "HAL Tejas (LA-5022) and Tejas twin seat (LT-5201) during Ex.Tarangshakti24.jpg",
+      "description": "HAL Tejas (LA-5022) and Tejas twin seat (LT-5201) during Ex.Tarangshakti24",
+      "license": "GODL-India",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/HAL_Tejas_%28LA-5022%29_of_Squadron_No._18_being_flown_by_Vice_chief_AP_Singh_during_Ex_Tarangshakti24.jpg/1280px-HAL_Tejas_%28LA-5022%29_of_Squadron_No._18_being_flown_by_Vice_chief_AP_Singh_during_Ex_Tarangshakti24.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/HAL_Tejas_%28LA-5022%29_of_Squadron_No._18_being_flown_by_Vice_chief_AP_Singh_during_Ex_Tarangshakti24.jpg",
+      "width": 1600,
+      "height": 1066,
+      "title": "HAL Tejas (LA-5022) of Squadron No. 18 being flown by Vice chief AP Singh during Ex Tarangshakti24.jpg",
+      "description": "HAL Tejas (LA-5022) of Squadron No. 18 being flown by Vice chief AP Singh during Ex Tarangshakti24",
+      "license": "GODL-India",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/HAL_Tejas_Mark_1A_3-view_line_drawing.png/1280px-HAL_Tejas_Mark_1A_3-view_line_drawing.png",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/97/HAL_Tejas_Mark_1A_3-view_line_drawing.png",
+      "width": 3840,
+      "height": 2160,
+      "title": "HAL Tejas Mark 1A 3-view line drawing.png",
+      "description": "3-view line drawing of HAL Tejas Mark 1A",
+      "license": "CC BY 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/TEJAS_MK1A_preparing_for_first_flight.jpg/1280px-TEJAS_MK1A_preparing_for_first_flight.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/TEJAS_MK1A_preparing_for_first_flight.jpg",
+      "width": 3024,
+      "height": 2016,
+      "title": "TEJAS MK1A preparing for first flight.jpg",
+      "description": "The first Aircraft LA5033 of the Tejas Mk1A Aircraft series took to the skies from HAL facility in Bengaluru today. It was a successful sortie with a flying time of 18 minutes.",
+      "license": "GODL-India",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Tejas_Light_Combat_Aircraft_Mk1_%28Prototype%29_at_HAL_museum%2C_Bengaluru_%28Ank_Kumar%29_01.jpg/1280px-Tejas_Light_Combat_Aircraft_Mk1_%28Prototype%29_at_HAL_museum%2C_Bengaluru_%28Ank_Kumar%29_01.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Tejas_Light_Combat_Aircraft_Mk1_%28Prototype%29_at_HAL_museum%2C_Bengaluru_%28Ank_Kumar%29_01.jpg",
+      "width": 4032,
+      "height": 3024,
+      "title": "Tejas Light Combat Aircraft Mk1 (Prototype) at HAL museum, Bengaluru (Ank Kumar) 01.jpg",
+      "description": "Tejas Light Combat Aircraft Mk1 (Prototype) at HAL museum, Bengaluru",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Tejas_takeoff_from_INS_Vikrant_with_afterburner_on.jpg/1280px-Tejas_takeoff_from_INS_Vikrant_with_afterburner_on.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/83/Tejas_takeoff_from_INS_Vikrant_with_afterburner_on.jpg",
+      "width": 1600,
+      "height": 1065,
+      "title": "Tejas takeoff from INS Vikrant with afterburner on.jpg",
+      "description": "Never a dull moment at sea\u2026 Team R11 in the eyes of our ace lensmen",
+      "license": "GODL-India",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/A_model_of_Naval_Tejas_Mk2_during_an_exhibition_by_DRDO_%26_HAL_on_September_19%2C_2019.jpg/1280px-A_model_of_Naval_Tejas_Mk2_during_an_exhibition_by_DRDO_%26_HAL_on_September_19%2C_2019.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/fa/A_model_of_Naval_Tejas_Mk2_during_an_exhibition_by_DRDO_%26_HAL_on_September_19%2C_2019.jpg",
+      "width": 5472,
+      "height": 3648,
+      "title": "A model of Naval Tejas Mk2 during an exhibition by DRDO & HAL on September 19, 2019.jpg",
+      "description": "The Union Minister for Defence, Shri Rajnath Singh visiting an exhibition displaying indigenously developed defence equipment and platforms by DRDO &amp; HAL, in Bengaluru on September 19, 2019. A mod",
+      "license": "GODL-India",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/DRDO_conducts_maiden_test_firing_of_Python-5_AAM_from_Tejas_fighter_jet.jpg/1280px-DRDO_conducts_maiden_test_firing_of_Python-5_AAM_from_Tejas_fighter_jet.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/9d/DRDO_conducts_maiden_test_firing_of_Python-5_AAM_from_Tejas_fighter_jet.jpg",
+      "width": 1920,
+      "height": 1080,
+      "title": "DRDO conducts maiden test firing of Python-5 AAM from Tejas fighter jet.jpg",
+      "description": "Defence Research and Development Organisation (DRDO) conducts maiden trial of Python-5 Air to Air Missile, in Goa on April 27, 2021.",
+      "license": "GODL-India",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Tejas_-_Made_in_India_1st_Fighter_Plane_%2816413042458%29.jpg/1280px-Tejas_-_Made_in_India_1st_Fighter_Plane_%2816413042458%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Tejas_-_Made_in_India_1st_Fighter_Plane_%2816413042458%29.jpg",
+      "width": 3405,
+      "height": 2348,
+      "title": "Tejas - Made in India 1st Fighter Plane (16413042458).jpg",
+      "description": "LCA- Fighter Plane Inducted into the Indian Air Force",
+      "license": "CC BY 2.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Tejas_-_Our_Home_Grown_Fighter_-_Jai_Ho%21%21.jpg/1280px-Tejas_-_Our_Home_Grown_Fighter_-_Jai_Ho%21%21.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Tejas_-_Our_Home_Grown_Fighter_-_Jai_Ho%21%21.jpg",
+      "width": 4032,
+      "height": 3024,
+      "title": "Tejas - Our Home Grown Fighter - Jai Ho!!.jpg",
+      "description": "Tejas - Our Home Grown Fighter - Jai Ho!!",
+      "license": "CC BY 2.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Tejas_MK1_TarangShakti24.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Tejas_MK1_TarangShakti24.jpg",
+      "width": 1280,
+      "height": 853,
+      "title": "Tejas MK1 TarangShakti24.jpg",
+      "description": "All the three Vice Chiefs of the Indian Armed Forces took to the skies at Air Force Station Jodhpur in the indigenous #Tejas fighter jets of \"Flying Bullets\", the Param Veer Chakra awardee Sqn, during",
+      "license": "GODL-India",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Tejas_MKII.jpg/1280px-Tejas_MKII.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Tejas_MKII.jpg",
+      "width": 2048,
+      "height": 1098,
+      "title": "Tejas MKII.jpg",
+      "description": "Tejas MKII",
+      "license": "GODL-India",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/50/Tejas_mk2_aeroindia_2025.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/50/Tejas_mk2_aeroindia_2025.jpg",
+      "width": 750,
+      "height": 498,
+      "title": "Tejas mk2 aeroindia 2025.jpg",
+      "description": "tejas mk2 2025",
+      "license": "CC0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Tejas_on_INS_Vikrant_ready_for_takeoff.jpg/1280px-Tejas_on_INS_Vikrant_ready_for_takeoff.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/da/Tejas_on_INS_Vikrant_ready_for_takeoff.jpg",
+      "width": 1600,
+      "height": 1065,
+      "title": "Tejas on INS Vikrant ready for takeoff.jpg",
+      "description": "Never a dull moment at sea\u2026 Team R11 in the eyes of our ace lensmen",
+      "license": "GODL-India",
+      "source": "wikimedia"
+    }
+  ]
+}

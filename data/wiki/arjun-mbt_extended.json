@@ -1,0 +1,257 @@
+{
+  "combat_history": [
+    {
+      "date": "ongoing",
+      "event": "No combat use; equips Indian Army armoured regiments on the western front.",
+      "significance": "Capability assessed from trials and exercises."
+    }
+  ],
+  "modernization": [
+    {
+      "program": "Mk1A production",
+      "status": "in-progress",
+      "timeline": "2021\u2013",
+      "description": "Upgraded Mk1A batches ordered with extensive improvements.",
+      "impact": "Sustains an indigenous heavy-armour line alongside imported tanks."
+    }
+  ],
+  "vulnerabilities": [
+    {
+      "area": "Weight/strategic mobility",
+      "description": "Very heavy for Indian bridges, rail and logistics.",
+      "context": "Limits where it can deploy; constrains order size.",
+      "mitigation": "Largely confined to the western desert front."
+    },
+    {
+      "area": "Industrial pace",
+      "description": "Long development and slow production.",
+      "context": "T-90/T-72 remain the Army's mainstay.",
+      "mitigation": "Mk1A orders sustain the line."
+    }
+  ],
+  "operational_patterns": {
+    "typical_deployment": "Armoured manoeuvre in the desert terrain of the India\u2013Pakistan western front.",
+    "key_operating_areas": [
+      "Rajasthan / western front",
+      "India\u2013Pakistan border"
+    ],
+    "typical_task_group": "Armoured regiments alongside T-90 Bhishma and T-72.",
+    "readiness_notes": "Small fleet; Mk1A in production."
+  },
+  "peer_comparisons": [
+    {
+      "platform": "T-90M Proryv",
+      "country": "Russia",
+      "relationship": "fleet stablemate",
+      "key_differences": "India's T-90 Bhishma is the lighter, more numerous workhorse; the Arjun is the heavy indigenous tank.",
+      "video_angle": "India's home-grown tank vs its Russian workhorse."
+    },
+    {
+      "platform": "Type 99A main battle tank",
+      "country": "China",
+      "relationship": "adversary context",
+      "key_differences": "The Type 99A is China's heavy MBT; both are continental-warfare tanks unlikely to meet given Himalayan terrain.",
+      "video_angle": "India and China's heavy tanks."
+    },
+    {
+      "platform": "Al-Khalid / VT4",
+      "country": "Pakistan/China",
+      "relationship": "regional rival",
+      "key_differences": "Pakistan's Chinese-derived tanks the Arjun would face on the western front.",
+      "video_angle": "Armour on the India\u2013Pakistan front."
+    }
+  ],
+  "search_keywords": [
+    "Arjun tank",
+    "Arjun MBT",
+    "Arjun Mk1A",
+    "Indian main battle tank",
+    "DRDO tank",
+    "Kanchan armour"
+  ],
+  "doctrine": {
+    "role": "Indigenous heavy main battle tank for armoured manoeuvre on the western front.",
+    "employment": "Desert armoured operations with a 120 mm rifled gun and heavy composite protection.",
+    "design_philosophy": "Sovereign heavy armour \u2014 protection and firepower over strategic mobility.",
+    "threat_context": "A national-pride capability alongside the imported T-90/T-72 mainstay.",
+    "comparison_frame": "Read against India's T-90 Bhishma, China's Type 99A and Pakistan's VT4/Al-Khalid."
+  },
+  "curated_sources": [
+    {
+      "title": "Arjun (tank) \u2014 Wikipedia",
+      "type": "reference",
+      "url": "https://en.wikipedia.org/wiki/Arjun_(tank)",
+      "relevance": "Specs and variants",
+      "priority": "reference"
+    },
+    {
+      "title": "DRDO releases",
+      "type": "official",
+      "url": "https://www.drdo.gov.in/",
+      "relevance": "Program context",
+      "priority": "recommended"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Arjun_ARRV.jpg/1280px-Arjun_ARRV.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Arjun_ARRV.jpg",
+      "width": 5760,
+      "height": 3840,
+      "title": "Arjun ARRV.jpg",
+      "description": "Arjun ARRV (Armoured Recovery and Repair Vehicle) developed by CVRDE.",
+      "license": "EdictGov-India",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Arjun_MBT_bump_track_test.JPG/1280px-Arjun_MBT_bump_track_test.JPG",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/82/Arjun_MBT_bump_track_test.JPG",
+      "width": 1432,
+      "height": 972,
+      "title": "Arjun MBT bump track test.JPG",
+      "description": "An <a href=\"https://en.wikipedia.org/wiki/Arjun_MBT\" class=\"extiw\" title=\"en:Arjun MBT\">Arjun MBT</a> being test driven on the bump track at the Central Vehicles Research and Development Establishment",
+      "license": "CC BY 2.5 in",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Arjun_MBT_bump_track_test_2.JPG/1280px-Arjun_MBT_bump_track_test_2.JPG",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Arjun_MBT_bump_track_test_2.JPG",
+      "width": 1600,
+      "height": 1200,
+      "title": "Arjun MBT bump track test 2.JPG",
+      "description": "An <a href=\"https://en.wikipedia.org/wiki/en:Arjun_MBT\" class=\"extiw\" title=\"w:en:Arjun MBT\">Arjun MBT</a> being test driven on the bump track at the Central Vehicles Research and Development Establis",
+      "license": "CC BY 2.5 in",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Arjun_MK1_at_Pokaran_Field_Firing_Range.jpg/1280px-Arjun_MK1_at_Pokaran_Field_Firing_Range.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Arjun_MK1_at_Pokaran_Field_Firing_Range.jpg",
+      "width": 1392,
+      "height": 928,
+      "title": "Arjun MK1 at Pokaran Field Firing Range.jpg",
+      "description": "Arjun MK1 at Pokaran Field Firing range",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Arjun_MK1_tank.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Arjun_MK1_tank.jpg",
+      "width": 1187,
+      "height": 756,
+      "title": "Arjun MK1 tank.jpg",
+      "description": "An early model Arjun MK1 tank",
+      "license": "EdictGov-India",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Arjun_Main_Battle_Tank._%2848937789906%29.jpg/1280px-Arjun_Main_Battle_Tank._%2848937789906%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Arjun_Main_Battle_Tank._%2848937789906%29.jpg",
+      "width": 3000,
+      "height": 4000,
+      "title": "Arjun Main Battle Tank. (48937789906).jpg",
+      "description": "<u>Clicked from Xiaomi Mi A1.</u>",
+      "license": "CC BY 2.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Arjun_Mark_1_Alpha.jpg/1280px-Arjun_Mark_1_Alpha.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/06/Arjun_Mark_1_Alpha.jpg",
+      "width": 1893,
+      "height": 837,
+      "title": "Arjun Mark 1 Alpha.jpg",
+      "description": "Main Battle Tank Arjun Mark 1 Alpha",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Arjun_Mk_IIRCWS.png/1280px-Arjun_Mk_IIRCWS.png",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Arjun_Mk_IIRCWS.png",
+      "width": 4320,
+      "height": 2704,
+      "title": "Arjun Mk IIRCWS.png",
+      "description": "Arjun Mk II remote controlled weapon system",
+      "license": "CC BY-SA 3.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Arjuntankammo.png/1280px-Arjuntankammo.png",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Arjuntankammo.png",
+      "width": 4051,
+      "height": 2848,
+      "title": "Arjuntankammo.png",
+      "description": "From left to right: APFSDS, HESH, TB, PCB rounds",
+      "license": "CC BY-SA 3.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/BLT-ARJUN.jpg/1280px-BLT-ARJUN.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/d6/BLT-ARJUN.jpg",
+      "width": 2032,
+      "height": 1354,
+      "title": "BLT-ARJUN.jpg",
+      "description": "BLT Arjun is a fast and reliable bridge laying system built on the Main Battle Tank Arjun, it is capable of launching a 24 m bridge with in 10 minutes on any wet and dry obstacles, facilitating speedy",
+      "license": "GODL-India",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Arjun_MBT_Mk1A.jpg/1280px-Arjun_MBT_Mk1A.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Arjun_MBT_Mk1A.jpg",
+      "width": 2361,
+      "height": 1071,
+      "title": "Arjun MBT Mk1A.jpg",
+      "description": "The Prime Minister, Shri Narendra Modi at the hand over ceremony of the Arjun Main Battle Tank (MK-1A) to the Army, at Chennai, in Tamil Nadu on February 14, 2021.The Chief of the Army Staff, General ",
+      "license": "GODL-India",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Arjun_MBT_Republic_day_parade_2026.jpg/1280px-Arjun_MBT_Republic_day_parade_2026.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/25/Arjun_MBT_Republic_day_parade_2026.jpg",
+      "width": 2200,
+      "height": 1558,
+      "title": "Arjun MBT Republic day parade 2026.jpg",
+      "description": "Glimpses of 77th Republic Day Parade at Kartavya Path, in New Delhi on January 26, 2026.",
+      "license": "GODL-India",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Arjun_MBT_maintenance.jpg/1280px-Arjun_MBT_maintenance.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Arjun_MBT_maintenance.jpg",
+      "width": 2048,
+      "height": 1536,
+      "title": "Arjun MBT maintenance.jpg",
+      "description": "An Arjun MBT in maintenance.",
+      "license": "GODL-India",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Arjun_MK1A_field_trials.jpg/1280px-Arjun_MK1A_field_trials.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Arjun_MK1A_field_trials.jpg",
+      "width": 5760,
+      "height": 3840,
+      "title": "Arjun MK1A field trials.jpg",
+      "description": "<a href=\"https://en.wikipedia.org/wiki/Arjun_(tank)\" class=\"extiw\" title=\"w:Arjun (tank)\"><i>Arjun</i> MBT Mk IA tank</a>",
+      "license": "GODL-India",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Arjun_MKI_Republic_day_2013.jpg/1280px-Arjun_MKI_Republic_day_2013.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Arjun_MKI_Republic_day_2013.jpg",
+      "width": 2200,
+      "height": 1413,
+      "title": "Arjun MKI Republic day 2013.jpg",
+      "description": "MBT Arjun MK-1 tank passing through the Rajpath during the 64th Republic Day Parade-2013, in New Delhi on January 26, 2013",
+      "license": "GODL-India",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Laser_Guided_ATGM_test_fired_from_MBT_Arjun_Tank_on_September_22%2C_2020.jpg/1280px-Laser_Guided_ATGM_test_fired_from_MBT_Arjun_Tank_on_September_22%2C_2020.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Laser_Guided_ATGM_test_fired_from_MBT_Arjun_Tank_on_September_22%2C_2020.jpg",
+      "width": 2200,
+      "height": 1032,
+      "title": "Laser Guided ATGM test fired from MBT Arjun Tank on September 22, 2020.jpg",
+      "description": "Laser Guided Anti Tank Guided Missile (ATGM) successfully test fired from MBT Arjun Tank at KK Ranges, Armoured Corps Centre and School (ACC&amp;S) Ahmednagar, Maharashtra on September 22, 2020.",
+      "license": "GODL-India",
+      "source": "wikimedia"
+    }
+  ]
+}

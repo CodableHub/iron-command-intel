@@ -1,0 +1,267 @@
+{
+  "id": 201,
+  "slug": "pinaka-mlrs",
+  "name": "Pinaka multiple rocket launcher",
+  "designation": "Pinaka Mk-I / Mk-II / ER",
+  "type": "artillery",
+  "country": "India",
+  "operator": "Indian Army; Armenia (export)",
+  "overview_md": "The Pinaka is India's indigenous multiple-barrel rocket launcher \u2014 a truck-mounted area-fire system named for the bow of the god Shiva, and an increasingly important piece of the Indian Army's long-range fires. Developed by DRDO and produced by Indian private industry, it delivers a rapid, saturating salvo of 214 mm rockets and has matured from an unguided area weapon into a family with guided and extended-range variants.\n\nA Pinaka launcher fires twelve rockets in a matter of seconds, blanketing a target area, and a battery can devastate troop concentrations, assembly areas and unprotected positions. The baseline Mk-I reaches around 40 km; the Mk-II/Enhanced and guided variants extend range toward 75\u201390 km and beyond, with precision guidance kits turning the area weapon into something far more accurate. The system has been combat-relevant on India's western front and is being scaled up significantly.\n\nFor an analyst, the Pinaka matters as both capability and policy. It gives the Indian Army sovereign, mass-producible long-range rocket artillery to complement towed and self-propelled guns, reduces reliance on imported systems like the Russian Smerch, and has become an export success with Armenia as a launch customer \u2014 another marker of India's growing defence-industrial reach in the wider Indo-Pacific and beyond.",
+  "specs_json": {
+    "additional": {
+      "calibre": "214 mm rockets",
+      "rockets_per_launcher": "12",
+      "salvo_time": "~44 seconds for 12 rockets",
+      "range": "~40 km (Mk-I); ~75\u201390 km (Mk-II/ER); guided variants",
+      "platform": "Truck-mounted launcher",
+      "role": "Area saturation and (guided) precision rocket fire"
+    }
+  },
+  "armament_json": [
+    {
+      "category": "Rocket",
+      "name": "Pinaka 214 mm rocket",
+      "type": "artillery rocket",
+      "range_km": 75,
+      "notes": "Unguided area + guided/ER variants"
+    }
+  ],
+  "variants_json": [
+    {
+      "name": "Pinaka Mk-I",
+      "years": "2000\u2013",
+      "key_changes": "Baseline unguided ~40 km MLRS",
+      "status": "active"
+    },
+    {
+      "name": "Pinaka Mk-II / ER / Guided",
+      "years": "2020s",
+      "key_changes": "Extended range and precision guidance",
+      "status": "building"
+    }
+  ],
+  "fleet_status_json": [],
+  "cost_usd": 0.0,
+  "unit_count": 0,
+  "first_commissioned": "2000",
+  "builder": "DRDO / Tata, L&T, Solar Industries",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/24/DRDO%27s_enhanced_PINAKA_rocket_tested_on_November_4%2C_2020_%281%29.jpg",
+  "wiki_url": "https://en.wikipedia.org/wiki/Pinaka_multi-barrel_rocket_launcher",
+  "sources_json": [
+    "https://en.wikipedia.org/wiki/Pinaka_multi-barrel_rocket_launcher"
+  ],
+  "comparison_tags": [
+    "artillery",
+    "mlrs",
+    "rocket-artillery",
+    "indigenous",
+    "india",
+    "export"
+  ],
+  "created_at": "2026-05-21 08:53:24",
+  "updated_at": "2026-05-21T08:53:24.659253",
+  "news": [],
+  "events": [],
+  "ic_coverage": [],
+  "combat_history": [
+    {
+      "date": "1999",
+      "event": "Pinaka saw use during the Kargil conflict in its early form.",
+      "significance": "Early combat employment of the indigenous system."
+    },
+    {
+      "date": "2022",
+      "event": "Armenia signed deals to import Pinaka systems.",
+      "significance": "Established Pinaka as an Indian artillery export."
+    }
+  ],
+  "modernization": [
+    {
+      "program": "Guided & extended-range Pinaka",
+      "status": "in-progress",
+      "timeline": "2020s",
+      "description": "Guidance kits and longer-range rockets; large Army orders.",
+      "impact": "Turns area rocket fire into precision long-range fires."
+    }
+  ],
+  "vulnerabilities": [
+    {
+      "area": "Counter-battery exposure",
+      "description": "Large signature on firing; vulnerable if static.",
+      "context": "Modern radars locate MLRS quickly.",
+      "mitigation": "Shoot-and-scoot mobility."
+    },
+    {
+      "area": "Unguided dispersion (baseline)",
+      "description": "The baseline rocket is an area weapon with dispersion.",
+      "context": "Less precise than guided systems.",
+      "mitigation": "Guided variants now fielding."
+    }
+  ],
+  "operational_patterns": {
+    "typical_deployment": "Massed area and precision rocket fire supporting Indian Army operations, mainly on the western and northern fronts.",
+    "key_operating_areas": [
+      "India\u2013Pakistan border",
+      "China\u2013India border",
+      "western/northern fronts"
+    ],
+    "typical_task_group": "Rocket regiments alongside tube artillery.",
+    "readiness_notes": "Scaling up; guided variants entering service."
+  },
+  "peer_comparisons": [
+    {
+      "platform": "PHL-191 multiple rocket launcher",
+      "country": "China",
+      "relationship": "adversary counterpart",
+      "key_differences": "China's PHL-191 reaches far greater ranges with larger rockets and tactical missiles; the Pinaka is shorter-ranged but indigenous and mass-producible.",
+      "video_angle": "India and China's rocket artillery compared."
+    },
+    {
+      "platform": "M142 HIMARS",
+      "country": "United States",
+      "relationship": "class benchmark",
+      "key_differences": "HIMARS fires fewer but longer-range precision rockets/missiles; the Pinaka emphasises salvo mass with growing precision.",
+      "video_angle": "Mass vs precision in rocket artillery."
+    },
+    {
+      "platform": "BM-30 Smerch",
+      "country": "Russia",
+      "relationship": "predecessor/import",
+      "key_differences": "India operates the heavier Russian Smerch; the Pinaka is the indigenous complement.",
+      "video_angle": "India's home-grown rocket artillery."
+    }
+  ],
+  "search_keywords": [
+    "Pinaka",
+    "Pinaka MLRS",
+    "Pinaka rocket",
+    "Indian rocket artillery",
+    "DRDO Pinaka",
+    "multi-barrel rocket launcher"
+  ],
+  "doctrine": {
+    "role": "Indigenous multiple rocket launcher for massed area and precision long-range fires.",
+    "employment": "Rapid 12-rocket salvos to saturate targets; guided variants for precision shoot-and-scoot.",
+    "design_philosophy": "Sovereign, mass-producible rocket fires complementing tube artillery.",
+    "threat_context": "Long-range fires on India's western and northern fronts; a growing export.",
+    "comparison_frame": "Read against China's PHL-191, the US HIMARS and Russia's Smerch."
+  },
+  "curated_sources": [
+    {
+      "title": "Pinaka MBRL \u2014 Wikipedia",
+      "type": "reference",
+      "url": "https://en.wikipedia.org/wiki/Pinaka_multi-barrel_rocket_launcher",
+      "relevance": "Variants and range",
+      "priority": "reference"
+    },
+    {
+      "title": "DRDO releases",
+      "type": "official",
+      "url": "https://www.drdo.gov.in/",
+      "relevance": "Program context",
+      "priority": "recommended"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/DRDO%27s_enhanced_PINAKA_rocket_tested_on_November_4%2C_2020_%281%29.jpg/1280px-DRDO%27s_enhanced_PINAKA_rocket_tested_on_November_4%2C_2020_%281%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/24/DRDO%27s_enhanced_PINAKA_rocket_tested_on_November_4%2C_2020_%281%29.jpg",
+      "width": 2200,
+      "height": 1277,
+      "title": "DRDO's enhanced PINAKA rocket tested on November 4, 2020 (1).jpg",
+      "description": "Enhanced PINAKA rocket, developed by the Defence Research and Development Organisation (DRDO) successfully flight-tested from Integrated Test Range, Chandipur, in Odisha on November 04, 2020.",
+      "license": "GODL-India",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/DRDO%27s_enhanced_PINAKA_rocket_tested_on_November_4%2C_2020_%282%29.jpg/1280px-DRDO%27s_enhanced_PINAKA_rocket_tested_on_November_4%2C_2020_%282%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/8f/DRDO%27s_enhanced_PINAKA_rocket_tested_on_November_4%2C_2020_%282%29.jpg",
+      "width": 2200,
+      "height": 1145,
+      "title": "DRDO's enhanced PINAKA rocket tested on November 4, 2020 (2).jpg",
+      "description": "Enhanced PINAKA rocket, developed by the Defence Research and Development Organisation (DRDO) successfully flight-tested from Integrated Test Range, Chandipur, in Odisha on November 04, 2020.",
+      "license": "GODL-India",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/DRDO_successfully_test_fired_the_Enhanced_Pinaka_on_June_24-25%2C_2021_-_2.jpg/1280px-DRDO_successfully_test_fired_the_Enhanced_Pinaka_on_June_24-25%2C_2021_-_2.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/b8/DRDO_successfully_test_fired_the_Enhanced_Pinaka_on_June_24-25%2C_2021_-_2.jpg",
+      "width": 2464,
+      "height": 1640,
+      "title": "DRDO successfully test fired the Enhanced Pinaka on June 24-25, 2021 - 2.jpg",
+      "description": "DRDO successfully test fires Enhanced Pinaka Rocket",
+      "license": "GODL-India",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Pinaka.JPG/1280px-Pinaka.JPG",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/34/Pinaka.JPG",
+      "width": 3403,
+      "height": 2124,
+      "title": "Pinaka.JPG",
+      "description": "Pinaka 214 MM MULTI  BARREL ROCKET LAUNCHER SYSTEM",
+      "license": "CC BY-SA 3.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Pinaka_214_MM_Multi_Barrel_Rocket_Launcher_System_passes_through_the_Rajpath_during_the_full_dress_rehearsal_for_the_Republic_Day_Parade-2013%2C_in_New_Delhi_on_January_23%2C_2013.jpg/1280px-thumbnail.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Pinaka_214_MM_Multi_Barrel_Rocket_Launcher_System_passes_through_the_Rajpath_during_the_full_dress_rehearsal_for_the_Republic_Day_Parade-2013%2C_in_New_Delhi_on_January_23%2C_2013.jpg",
+      "width": 2200,
+      "height": 1461,
+      "title": "Pinaka 214 MM Multi Barrel Rocket Launcher System passes through the Rajpath during the full dress rehearsal for the Republic Day Parade-2013, in New Delhi on January 23, 2013.jpg",
+      "description": "Pinaka 214 MM Multi Barrel Rocket Launcher System passes through the Rajpath during the full dress rehearsal for the Republic Day Parade-2013, in New Delhi on January 23, 2013.",
+      "license": "GODL-India",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Pinaka_214_MM_Multiple_Barrel_Rocket_Launcher_System_passes_through_the_Rajpath_during_the_66th_Republic_Day_Parade_2015%2C_in_New_Delhi_on_January_26%2C_2015.jpg/1280px-Pinaka_214_MM_Multiple_Barrel_Rocket_Launcher_System_passes_through_the_Rajpath_during_the_66th_Republic_Day_Parade_2015%2C_in_New_Delhi_on_January_26%2C_2015.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Pinaka_214_MM_Multiple_Barrel_Rocket_Launcher_System_passes_through_the_Rajpath_during_the_66th_Republic_Day_Parade_2015%2C_in_New_Delhi_on_January_26%2C_2015.jpg",
+      "width": 2200,
+      "height": 1464,
+      "title": "Pinaka 214 MM Multiple Barrel Rocket Launcher System passes through the Rajpath during the 66th Republic Day Parade 2015, in New Delhi on January 26, 2015.jpg",
+      "description": "Pinaka 214 MM Multiple Barrel Rocket Launcher System passes through the Rajpath during the 66th Republic Day Parade 2015, in New Delhi on January 26, 2015.",
+      "license": "GODL-India",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Pinaka_LRGR-120.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Pinaka_LRGR-120.jpg",
+      "width": 1280,
+      "height": 1088,
+      "title": "Pinaka LRGR-120.jpg",
+      "description": "DRDO successfully conducted maiden flight test of Pinaka Long Range Guided Rocket (LRGR-120) at ITR Chandipur. Achieving a range of 120 km with textbook precision, the rocket demonstrated all planned ",
+      "license": "GODL-India",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Pinaka_MBRL.jpg/1280px-Pinaka_MBRL.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Pinaka_MBRL.jpg",
+      "width": 2048,
+      "height": 961,
+      "title": "Pinaka MBRL.jpg",
+      "description": "Pinaka is a multiple rocket launcher produced in India and developed by the DRDO for the Indian Army. The system has a maximum range of 39-40 km, fire a salvo of 12 HE rockets in 44 seconds, neutraliz",
+      "license": "CC BY 3.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Pinaka_Multi_Launcher_Rocket_System_passes_through_the_Rajpath%2C_at_the_72nd_Republic_Day_Celebrations%2C_in_New_Delhi_on_January_26%2C_2021.jpg/1280px-Pinaka_Multi_Launcher_Rocket_System_passes_through_the_Rajpath%2C_at_the_72nd_Republic_Day_Celebrations%2C_in_New_Delhi_on_January_26%2C_2021.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Pinaka_Multi_Launcher_Rocket_System_passes_through_the_Rajpath%2C_at_the_72nd_Republic_Day_Celebrations%2C_in_New_Delhi_on_January_26%2C_2021.jpg",
+      "width": 2200,
+      "height": 1241,
+      "title": "Pinaka Multi Launcher Rocket System passes through the Rajpath, at the 72nd Republic Day Celebrations, in New Delhi on January 26, 2021.jpg",
+      "description": "Pinaka Multi Launcher Rocket System passes through the Rajpath, at the 72nd Republic Day Celebrations, in New Delhi on January 26, 2021.",
+      "license": "GODL-India",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/The_%E2%80%98PINAKA%E2%80%9D_multi_barrel_rocket_launching_system%2C_passes_through_the_Rajpath_during_the_58th_Republic_Day_Parade_-_2007%2C_in_New_Delhi_on_January_26%2C_2007.jpg/1280px-thumbnail.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/58/The_%E2%80%98PINAKA%E2%80%9D_multi_barrel_rocket_launching_system%2C_passes_through_the_Rajpath_during_the_58th_Republic_Day_Parade_-_2007%2C_in_New_Delhi_on_January_26%2C_2007.jpg",
+      "width": 2100,
+      "height": 1426,
+      "title": "The \u2018PINAKA\u201d multi barrel rocket launching system, passes through the Rajpath during the 58th Republic Day Parade - 2007, in New Delhi on January 26, 2007.jpg",
+      "description": "The \u2018PINAKA\u201d multi barrel rocket launching system, passes through the Rajpath during the 58th Republic Day Parade - 2007, in New Delhi on January 26, 2007.",
+      "license": "GODL-India",
+      "source": "wikimedia"
+    }
+  ]
+}

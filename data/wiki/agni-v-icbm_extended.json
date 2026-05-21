@@ -1,0 +1,263 @@
+{
+  "combat_history": [
+    {
+      "date": "2024-03",
+      "event": "India flight-tested an Agni-V with MIRV capability under 'Mission Divyastra'.",
+      "significance": "Demonstrated multiple-warhead capability \u2014 a major leap for India's deterrent."
+    },
+    {
+      "date": "2021-10",
+      "event": "Successful test ahead of induction into the Strategic Forces Command.",
+      "significance": "Confirmed a China-spanning land-based deterrent."
+    }
+  ],
+  "modernization": [
+    {
+      "program": "MIRV & range growth",
+      "status": "in-progress",
+      "timeline": "2024\u2013",
+      "description": "MIRV deployment and reported longer-range Agni follow-ons.",
+      "impact": "Increases warhead count and reach of India's deterrent."
+    }
+  ],
+  "vulnerabilities": [
+    {
+      "area": "Small force / no-first-use",
+      "description": "A modest deterrent force under a declared no-first-use policy.",
+      "context": "Survivability and second-strike are the priorities.",
+      "mitigation": "Canisterised mobility and concealment."
+    },
+    {
+      "area": "Defence penetration",
+      "description": "Must penetrate improving Chinese missile defences.",
+      "context": "China fields HQ-19-class interceptors.",
+      "mitigation": "MIRVs and penetration aids."
+    }
+  ],
+  "operational_patterns": {
+    "typical_deployment": "Concealed canisterised road/rail-mobile launchers for survivable second-strike.",
+    "key_operating_areas": [
+      "India (mobile)",
+      "targets: all of China and beyond"
+    ],
+    "typical_task_group": "Strategic Forces Command.",
+    "readiness_notes": "Inducted; MIRV-capable from 2024."
+  },
+  "peer_comparisons": [
+    {
+      "platform": "DF-26",
+      "country": "China",
+      "relationship": "adversary context",
+      "key_differences": "China's IRBM force is far larger and more mature; the Agni-V is India's primary China-spanning deterrent.",
+      "video_angle": "The India\u2013China missile balance."
+    },
+    {
+      "platform": "Hwasong-17 intercontinental ballistic missile",
+      "country": "North Korea",
+      "relationship": "class peer",
+      "key_differences": "Both are emerging-power long-range missiles; the Agni-V is solid-fuelled and canisterised.",
+      "video_angle": "Asia's new long-range missiles."
+    },
+    {
+      "platform": "DF-41",
+      "country": "China",
+      "relationship": "class context",
+      "key_differences": "China's longer-range MIRVed ICBM dwarfs the Agni-V in reach and numbers.",
+      "video_angle": "Why India built the Agni-V."
+    }
+  ],
+  "search_keywords": [
+    "Agni-V",
+    "Agni 5",
+    "India ICBM",
+    "Mission Divyastra",
+    "DRDO missile",
+    "Indian nuclear deterrent",
+    "MIRV India"
+  ],
+  "doctrine": {
+    "role": "Long-range land-based nuclear ballistic missile providing India a China-spanning deterrent.",
+    "employment": "Concealed canisterised mobile launch for survivable second-strike under a no-first-use policy.",
+    "design_philosophy": "Credible minimum deterrence \u2014 reach all of China survivably, now with MIRVs.",
+    "threat_context": "The strategic counterweight in the India\u2013China relationship.",
+    "comparison_frame": "Read against China's DF-26/DF-41 and North Korea's Hwasong-17."
+  },
+  "curated_sources": [
+    {
+      "title": "Agni-V \u2014 Wikipedia",
+      "type": "reference",
+      "url": "https://en.wikipedia.org/wiki/Agni-V",
+      "relevance": "Range, MIRV, basing",
+      "priority": "reference"
+    },
+    {
+      "title": "CSIS Missile Threat \u2014 India",
+      "type": "research",
+      "url": "https://missilethreat.csis.org/country/india/",
+      "relevance": "Arsenal overview",
+      "priority": "recommended"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Agni-V_ICBM_test_launch_on_03_June_2018.jpg/1280px-Agni-V_ICBM_test_launch_on_03_June_2018.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/18/Agni-V_ICBM_test_launch_on_03_June_2018.jpg",
+      "width": 1363,
+      "height": 2048,
+      "title": "Agni-V ICBM test launch on 03 June 2018.jpg",
+      "description": "Agni-V ICBM test launch on 03 June 2018",
+      "license": "GODL-India",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Agni-V_ICBM_test_launch_on_03_June_2018_%282%29.jpg/1280px-Agni-V_ICBM_test_launch_on_03_June_2018_%282%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Agni-V_ICBM_test_launch_on_03_June_2018_%282%29.jpg",
+      "width": 1363,
+      "height": 2048,
+      "title": "Agni-V ICBM test launch on 03 June 2018 (2).jpg",
+      "description": "Agni-V ICBM test launch on 03 June 2018 (2)",
+      "license": "GODL-India",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/88/Agni-V_MIRV.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/88/Agni-V_MIRV.jpg",
+      "width": 1062,
+      "height": 1600,
+      "title": "Agni-V MIRV.jpg",
+      "description": "Indigenously developed Agni-5 missile with Multiple Independently Targetable Re-Entry Vehicle ( MIRV) technology successful tested as part of Mission Divyastra today",
+      "license": "GODL-India",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Agni-V_during_its_first_test_flight.jpg/1280px-Agni-V_during_its_first_test_flight.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Agni-V_during_its_first_test_flight.jpg",
+      "width": 1887,
+      "height": 1890,
+      "title": "Agni-V during its first test flight.jpg",
+      "description": "First test flight of Agni-V on 19 April 2012 from Integrated Test Range, Wheeler Island, Orissa.",
+      "license": "GODL-India",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Agni-V_flight_test_on_3_July_2018_%283%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Agni-V_flight_test_on_3_July_2018_%283%29.jpg",
+      "width": 602,
+      "height": 903,
+      "title": "Agni-V flight test on 3 July 2018 (3).jpg",
+      "description": "Agni-V being flight tested from Dr. APJ Abdul Kalam Island, earlier known as Wheeler Island, on 3 July 2018.",
+      "license": "GODL-India",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Agni_V_Ballistic_missile_successfully_launched_on_15_September_2013.jpg/1280px-Agni_V_Ballistic_missile_successfully_launched_on_15_September_2013.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/70/Agni_V_Ballistic_missile_successfully_launched_on_15_September_2013.jpg",
+      "width": 1422,
+      "height": 1800,
+      "title": "Agni V Ballistic missile successfully launched on 15 September 2013.jpg",
+      "description": "The second test launch of Agni-V was successfully done on 15 September 2013 at 08:43 am IST from Abdul Kalam Island",
+      "license": "GODL-India",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Agni_V_Ballistic_missile_successfully_launched_on_15_September_2013_%284%29.jpg/1280px-Agni_V_Ballistic_missile_successfully_launched_on_15_September_2013_%284%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/83/Agni_V_Ballistic_missile_successfully_launched_on_15_September_2013_%284%29.jpg",
+      "width": 2400,
+      "height": 1594,
+      "title": "Agni V Ballistic missile successfully launched on 15 September 2013 (4).jpg",
+      "description": "The second test launch of Agni-V was successfully done on 15 September 2013 at 08:43 am IST from Abdul Kalam Island",
+      "license": "GODL-India",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Agni_V_Ballistic_missile_successfully_launched_on_15_September_2013_%287%29.jpg/1280px-Agni_V_Ballistic_missile_successfully_launched_on_15_September_2013_%287%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Agni_V_Ballistic_missile_successfully_launched_on_15_September_2013_%287%29.jpg",
+      "width": 4288,
+      "height": 2848,
+      "title": "Agni V Ballistic missile successfully launched on 15 September 2013 (7).jpg",
+      "description": "The second test launch of Agni-V was successfully done on 15 September 2013 at 08:43 am IST from Abdul Kalam Island",
+      "license": "GODL-India",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/02/Agni_V_Ballistic_missile_successfully_launched_on_31_January_2015_%281%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/02/Agni_V_Ballistic_missile_successfully_launched_on_31_January_2015_%281%29.jpg",
+      "width": 1223,
+      "height": 2678,
+      "title": "Agni V Ballistic missile successfully launched on 31 January 2015 (1).jpg",
+      "description": "The third test launch and the first canistered launch of Agni-V was successfully done on 31 January 2015 at 08:10 am IST from Abdul Kalam Island",
+      "license": "GODL-India",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Agni-III_ballistic_missile.jpg/1280px-Agni-III_ballistic_missile.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/93/Agni-III_ballistic_missile.jpg",
+      "width": 2265,
+      "height": 1443,
+      "title": "Agni-III ballistic missile.jpg",
+      "description": "Agni-III ballistic missile during republic day parade.",
+      "license": "GODL-India",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Agni-IV_missile_test_on_15_November_2011.jpg/1280px-Agni-IV_missile_test_on_15_November_2011.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/91/Agni-IV_missile_test_on_15_November_2011.jpg",
+      "width": 2200,
+      "height": 3312,
+      "title": "Agni-IV missile test on 15 November 2011.jpg",
+      "description": "The most advanced long range missile system Agni-4 successfully launched from a road mobile system from Wheelers\u2019 Island off the coast of Odisha, on November 15, 2011.",
+      "license": "GODL-India",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Agni-I_missile_launched_on_1_December_2011.jpg/1280px-Agni-I_missile_launched_on_1_December_2011.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/03/Agni-I_missile_launched_on_1_December_2011.jpg",
+      "width": 2200,
+      "height": 3312,
+      "title": "Agni-I missile launched on 1 December 2011.jpg",
+      "description": "Agni A1-06 missile successfully flight tested by the Indian Army from Wheeler Island of Orissa Coast on December 01, 2011.",
+      "license": "GODL-India",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/60/Agni-I_missile_test_on_13_July_2012_%28cropped%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/60/Agni-I_missile_test_on_13_July_2012_%28cropped%29.jpg",
+      "width": 1165,
+      "height": 1161,
+      "title": "Agni-I missile test on 13 July 2012 (cropped).jpg",
+      "description": "Agni-I Ballistic Missile successfully launched from Wheeler Island off the Coast of Odisha on July 13, 2012.",
+      "license": "GODL-India",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Agni-Missile-Range-comparison.png/1280px-Agni-Missile-Range-comparison.png",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Agni-Missile-Range-comparison.png",
+      "width": 2000,
+      "height": 1014,
+      "title": "Agni-Missile-Range-comparison.png",
+      "description": "Range of Agni series of ballistic missiles",
+      "license": "CC BY-SA 4.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/04/Agni_Missile_%28DRDO%2C_Dighi%2C_Pune%2C_India_%29_%282%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/04/Agni_Missile_%28DRDO%2C_Dighi%2C_Pune%2C_India_%29_%282%29.jpg",
+      "width": 600,
+      "height": 800,
+      "title": "Agni Missile (DRDO, Dighi, Pune, India ) (2).jpg",
+      "description": "Indian Army Exhibiting the armour of Mother India at DRDO (DEFENCE RESEARCH &amp; DEVELOPMENT ORGANISATION)",
+      "license": "CC BY-SA 3.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Agni_Missile_Range_comparison_with_blue_shade.png/1280px-Agni_Missile_Range_comparison_with_blue_shade.png",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Agni_Missile_Range_comparison_with_blue_shade.png",
+      "width": 1381,
+      "height": 700,
+      "title": "Agni Missile Range comparison with blue shade.png",
+      "description": "Modified version with blue shades.",
+      "license": "CC BY-SA 3.0",
+      "source": "wikimedia"
+    }
+  ]
+}

@@ -1,0 +1,274 @@
+{
+  "id": 203,
+  "slug": "pcl-181-howitzer",
+  "name": "PCL-181 truck-mounted howitzer",
+  "designation": "PCL-181 (SH-15 export)",
+  "type": "artillery",
+  "country": "China",
+  "operator": "People's Liberation Army Ground Force; Pakistan (SH-15 export)",
+  "overview_md": "The PCL-181 is China's modern truck-mounted 155 mm howitzer \u2014 a wheeled, highly mobile artillery system that has rapidly become a mainstay of PLA fire support, replacing large numbers of older towed and tracked guns. Mounting a 155 mm/52-calibre gun on a protected 6\u00d76 truck chassis, it trades the cross-country mobility of a tracked self-propelled gun for strategic and tactical agility, low cost and the ability to deploy quickly over roads.\n\nThat mobility is the point. At around 25 tonnes, the PCL-181 can self-deploy rapidly across China's road network, including to the high Tibetan plateau, where its lighter weight is an advantage over heavy tracked guns. It fires standard and rocket-assisted 155 mm ammunition to around 40\u201350 km, sets up and displaces in minutes for shoot-and-scoot survivability, and is networked into the PLA's digitised fire-control system.\n\nFor an analyst, the PCL-181 reflects a global trend \u2014 the shift toward wheeled, rapidly-deployable artillery \u2014 and a specific Chinese priority: fielding mobile fires across difficult terrain like the Indian border at scale and affordably. Exported as the SH-15 (notably to Pakistan), it complements the tracked PLZ-05 in heavier formations, giving the PLA a flexible, modern, mass-producible fire-support backbone.",
+  "specs_json": {
+    "length_m": 9.0,
+    "crew": 5,
+    "propulsion": "6\u00d76 protected truck chassis",
+    "additional": {
+      "weight": "~25 tonnes",
+      "main_gun": "155 mm / 52-calibre howitzer",
+      "range": "~40 km (standard); ~50 km (rocket-assisted)",
+      "mobility": "Wheeled, road-deployable (incl. Tibetan plateau)",
+      "emplacement": "Sets up/displaces in minutes (shoot-and-scoot)",
+      "export": "SH-15 (Pakistan)"
+    }
+  },
+  "armament_json": [
+    {
+      "category": "Main gun",
+      "name": "155 mm / 52-cal howitzer",
+      "type": "truck-mounted artillery",
+      "range_km": 40,
+      "notes": "~50 km with rocket-assisted projectiles"
+    }
+  ],
+  "variants_json": [
+    {
+      "name": "PCL-181",
+      "years": "2019\u2013",
+      "key_changes": "PLA wheeled 155 mm truck howitzer",
+      "status": "active"
+    },
+    {
+      "name": "SH-15 (export)",
+      "years": "2019\u2013",
+      "key_changes": "Export variant (Pakistan and others)",
+      "status": "active"
+    }
+  ],
+  "fleet_status_json": [],
+  "cost_usd": 0.0,
+  "unit_count": 0,
+  "first_commissioned": "2019",
+  "builder": "NORINCO",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/38/PCL-09.png",
+  "wiki_url": "https://en.wikipedia.org/wiki/PCL-181",
+  "sources_json": [
+    "https://en.wikipedia.org/wiki/PCL-181"
+  ],
+  "comparison_tags": [
+    "artillery",
+    "truck-howitzer",
+    "wheeled",
+    "mobile",
+    "china",
+    "plagf"
+  ],
+  "created_at": "2026-05-21 08:54:11",
+  "updated_at": "2026-05-21T08:54:11.649350",
+  "news": [],
+  "events": [],
+  "ic_coverage": [],
+  "combat_history": [
+    {
+      "date": "2020\u20132021",
+      "event": "Deployed to the Tibetan plateau during the China\u2013India border standoff.",
+      "significance": "Showcased rapid wheeled fires where heavy tracked guns struggle."
+    }
+  ],
+  "modernization": [
+    {
+      "program": "Fleet replacement & networking",
+      "status": "in-progress",
+      "timeline": "ongoing",
+      "description": "Replacing towed/older guns at scale; digitised fire control.",
+      "impact": "Modernises and mobilises PLA fire support broadly."
+    }
+  ],
+  "vulnerabilities": [
+    {
+      "area": "Wheeled cross-country limits",
+      "description": "Less off-road mobility than tracked SPGs.",
+      "context": "Road-dependent in rough terrain.",
+      "mitigation": "Strategic/tactical road mobility offsets it."
+    },
+    {
+      "area": "Counter-battery exposure",
+      "description": "Vulnerable if it does not displace quickly.",
+      "context": "Modern sensors locate firing positions fast.",
+      "mitigation": "Rapid shoot-and-scoot."
+    }
+  ],
+  "operational_patterns": {
+    "typical_deployment": "Rapidly-deployable mobile fire support, especially in plateau and road-connected terrain.",
+    "key_operating_areas": [
+      "China\u2013India border / Tibetan plateau",
+      "rapid-reaction theatres"
+    ],
+    "typical_task_group": "Light/medium combined-arms brigades; complements tracked PLZ-05.",
+    "readiness_notes": "Widely fielded; exported as SH-15."
+  },
+  "peer_comparisons": [
+    {
+      "platform": "PLZ-05 self-propelled howitzer",
+      "country": "China",
+      "relationship": "tracked stablemate",
+      "key_differences": "PLZ-05 is the tracked heavy SPG; the PCL-181 is the lighter, road-mobile wheeled gun.",
+      "video_angle": "China's wheeled and tracked artillery."
+    },
+    {
+      "platform": "CAESAR",
+      "country": "France",
+      "relationship": "class peer",
+      "key_differences": "The French truck-mounted 155 mm gun pioneered this mobile-artillery concept the PCL-181 shares.",
+      "video_angle": "The rise of wheeled artillery."
+    },
+    {
+      "platform": "K9 Thunder self-propelled howitzer",
+      "country": "South Korea",
+      "relationship": "class context",
+      "key_differences": "The K9 is a tracked premium SPG; the PCL-181 emphasises wheeled mobility and cost.",
+      "video_angle": "Tracked vs wheeled 155 mm guns."
+    }
+  ],
+  "search_keywords": [
+    "PCL-181",
+    "SH-15",
+    "Chinese truck howitzer",
+    "wheeled artillery China",
+    "PLA 155mm",
+    "plateau artillery"
+  ],
+  "doctrine": {
+    "role": "Wheeled, rapidly-deployable 155 mm truck howitzer \u2014 a mobile fire-support mainstay.",
+    "employment": "Self-deploys over roads, fires and displaces in minutes; networked digital fire control.",
+    "design_philosophy": "Mobility, affordability and producibility over cross-country performance.",
+    "threat_context": "Fields mobile fires at scale across difficult terrain like the Indian border.",
+    "comparison_frame": "Read against the tracked PLZ-05, France's CAESAR and Korea's K9."
+  },
+  "curated_sources": [
+    {
+      "title": "PCL-181 \u2014 Wikipedia",
+      "type": "reference",
+      "url": "https://en.wikipedia.org/wiki/PCL-181",
+      "relevance": "Specs and role",
+      "priority": "reference"
+    },
+    {
+      "title": "IISS Military Balance \u2014 China land forces",
+      "type": "research",
+      "url": "https://www.iiss.org/publications/the-military-balance",
+      "relevance": "Artillery modernisation",
+      "priority": "recommended"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/PCL-09.png/1280px-PCL-09.png",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/38/PCL-09.png",
+      "width": 1290,
+      "height": 619,
+      "title": "PCL-09.png",
+      "description": "\u6f14\u7fd2\u4e2d\u306ePCL-09",
+      "license": "CC BY 3.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/8a/PCL-09_%28cropped%29.png",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/8a/PCL-09_%28cropped%29.png",
+      "width": 1095,
+      "height": 508,
+      "title": "PCL-09 (cropped).png",
+      "description": "\u6f14\u7fd2\u4e2d\u306ePCL-09",
+      "license": "CC BY 3.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/131121-A-KH850-004_%2811045794563%29.jpg/1280px-131121-A-KH850-004_%2811045794563%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/7d/131121-A-KH850-004_%2811045794563%29.jpg",
+      "width": 5760,
+      "height": 3840,
+      "title": "131121-A-KH850-004 (11045794563).jpg",
+      "description": "Czech Republic army soldiers of 1st Platoon, Field Artillery in DANA 152mm self-propelled gun-howitzer vehicles maneuver to an objective during exercise Combined Resolve at the Joint Multinational Rea",
+      "license": "CC BY 2.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Czech_Army_152mm_howitzer_%2810958577354%29.jpg/1280px-Czech_Army_152mm_howitzer_%2810958577354%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Czech_Army_152mm_howitzer_%2810958577354%29.jpg",
+      "width": 5760,
+      "height": 3840,
+      "title": "Czech Army 152mm howitzer (10958577354).jpg",
+      "description": "Czech Republic Army soldiers from 1st and 2nd Platoon Field Artillery maneuver a self-propelled gun-howitzer vehicle, called a DANA 152mm, into firing position while conducting simulated fire training",
+      "license": "CC BY 2.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Czech_Army_152mm_howitzer_battery_%2810958634703%29.jpg/1280px-Czech_Army_152mm_howitzer_battery_%2810958634703%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/09/Czech_Army_152mm_howitzer_battery_%2810958634703%29.jpg",
+      "width": 5760,
+      "height": 3840,
+      "title": "Czech Army 152mm howitzer battery (10958634703).jpg",
+      "description": "Czech Republic Army soldiers from 1st and 2nd Platoon Field Artillery maneuver a self-propelled gun-howitzer vehicle, called a DANA 152mm, into firing position while conducting simulated fire training",
+      "license": "CC BY 2.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Le%C5%A1any%2C_vojensk%C3%A9_muzeum%2C_samohybn%C3%A1_houfnice_Ondava%2C_detail_hlavn%C4%9B.JPG/1280px-Le%C5%A1any%2C_vojensk%C3%A9_muzeum%2C_samohybn%C3%A1_houfnice_Ondava%2C_detail_hlavn%C4%9B.JPG",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Le%C5%A1any%2C_vojensk%C3%A9_muzeum%2C_samohybn%C3%A1_houfnice_Ondava%2C_detail_hlavn%C4%9B.JPG",
+      "width": 3888,
+      "height": 2592,
+      "title": "Le\u0161any, vojensk\u00e9 muzeum, samohybn\u00e1 houfnice Ondava, detail hlavn\u011b.JPG",
+      "description": "This picture was taken and/or got within the scope of the '<a href=\"https://cs.wikipedia.org/wiki/Wikipedie:WikiProjekt_Fotografov%C3%A1n%C3%AD/VOF_1\" class=\"extiw\" title=\"cs:Wikipedie:WikiProjekt Fot",
+      "license": "CC BY 3.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Le%C5%A1any%2C_vojensk%C3%A9_muzeum%2C_samohybn%C3%A1_houfnice_Ondava%2C_detail_%C4%8Dela.JPG/1280px-Le%C5%A1any%2C_vojensk%C3%A9_muzeum%2C_samohybn%C3%A1_houfnice_Ondava%2C_detail_%C4%8Dela.JPG",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Le%C5%A1any%2C_vojensk%C3%A9_muzeum%2C_samohybn%C3%A1_houfnice_Ondava%2C_detail_%C4%8Dela.JPG",
+      "width": 3888,
+      "height": 2592,
+      "title": "Le\u0161any, vojensk\u00e9 muzeum, samohybn\u00e1 houfnice Ondava, detail \u010dela.JPG",
+      "description": "This picture was taken and/or got within the scope of the '<a href=\"https://cs.wikipedia.org/wiki/Wikipedie:WikiProjekt_Fotografov%C3%A1n%C3%AD/VOF_1\" class=\"extiw\" title=\"cs:Wikipedie:WikiProjekt Fot",
+      "license": "CC BY 3.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Le%C5%A1any%2C_vojensk%C3%A9_muzeum%2C_samohybn%C3%A1_houfnice_Ondava%2C_p%C5%99edn%C3%A1_%C4%8D%C3%A1st.JPG/1280px-Le%C5%A1any%2C_vojensk%C3%A9_muzeum%2C_samohybn%C3%A1_houfnice_Ondava%2C_p%C5%99edn%C3%A1_%C4%8D%C3%A1st.JPG",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/80/Le%C5%A1any%2C_vojensk%C3%A9_muzeum%2C_samohybn%C3%A1_houfnice_Ondava%2C_p%C5%99edn%C3%A1_%C4%8D%C3%A1st.JPG",
+      "width": 3888,
+      "height": 2592,
+      "title": "Le\u0161any, vojensk\u00e9 muzeum, samohybn\u00e1 houfnice Ondava, p\u0159edn\u00e1 \u010d\u00e1st.JPG",
+      "description": "This picture was taken and/or got within the scope of the '<a href=\"https://cs.wikipedia.org/wiki/Wikipedie:WikiProjekt_Fotografov%C3%A1n%C3%AD/VOF_1\" class=\"extiw\" title=\"cs:Wikipedie:WikiProjekt Fot",
+      "license": "CC BY 3.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Le%C5%A1any%2C_vojensk%C3%A9_muzeum%2C_samohybn%C3%A1_houfnice_Ondava.JPG/1280px-Le%C5%A1any%2C_vojensk%C3%A9_muzeum%2C_samohybn%C3%A1_houfnice_Ondava.JPG",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Le%C5%A1any%2C_vojensk%C3%A9_muzeum%2C_samohybn%C3%A1_houfnice_Ondava.JPG",
+      "width": 3888,
+      "height": 2592,
+      "title": "Le\u0161any, vojensk\u00e9 muzeum, samohybn\u00e1 houfnice Ondava.JPG",
+      "description": "This picture was taken and/or got within the scope of the '<a href=\"https://cs.wikipedia.org/wiki/Wikipedie:WikiProjekt_Fotografov%C3%A1n%C3%AD/VOF_1\" class=\"extiw\" title=\"cs:Wikipedie:WikiProjekt Fot",
+      "license": "CC BY 3.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Le%C5%A1any%2C_vojensk%C3%A9_muzeum%2C_samohybn%C3%A1_houfnice_Ondava_II.JPG/1280px-Le%C5%A1any%2C_vojensk%C3%A9_muzeum%2C_samohybn%C3%A1_houfnice_Ondava_II.JPG",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Le%C5%A1any%2C_vojensk%C3%A9_muzeum%2C_samohybn%C3%A1_houfnice_Ondava_II.JPG",
+      "width": 3888,
+      "height": 2592,
+      "title": "Le\u0161any, vojensk\u00e9 muzeum, samohybn\u00e1 houfnice Ondava II.JPG",
+      "description": "This picture was taken and/or got within the scope of the '<a href=\"https://cs.wikipedia.org/wiki/Wikipedie:WikiProjekt_Fotografov%C3%A1n%C3%AD/VOF_1\" class=\"extiw\" title=\"cs:Wikipedie:WikiProjekt Fot",
+      "license": "CC BY 3.0",
+      "source": "wikimedia"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Yank%2C_The_Army_Weekly%2C_May_4%2C_1945_%28Ledo-Burma_Road%29.jpg/1280px-Yank%2C_The_Army_Weekly%2C_May_4%2C_1945_%28Ledo-Burma_Road%29.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/59/Yank%2C_The_Army_Weekly%2C_May_4%2C_1945_%28Ledo-Burma_Road%29.jpg",
+      "width": 3450,
+      "height": 4690,
+      "title": "Yank, The Army Weekly, May 4, 1945 (Ledo-Burma Road).jpg",
+      "description": "Caption: \"Along the Ledo-Burma Road, a little boy gives the famous Chinese good-luck greeting to a convoy truck towing a 75-mm pack howitzer.\"  Photograph by Sgt. Dave Richardson.",
+      "license": "Public domain",
+      "source": "wikimedia"
+    }
+  ]
+}
